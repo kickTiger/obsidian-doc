@@ -1,0 +1,43 @@
+node_modules
+.next
+.DS_Store
+yarn-error.log
+.yalc
+yalc.lock
+
+# Vuepress Cache
+.cache/
+# Vuepress Temp
+.temp/
+# Vuepress Output
+dist/
+
+# obsidian
+.obsidian
+.trash
+
+# PyCharm
+.idea/
+
+# vscode
+.vscode/
+
+# webstorm
+
+# GoodSync
+_gsdata_/
+
+# other files
+*.log
+*.log.*
+*.rar
+*.zip
+*.tar
+*._gs
+*.u8
+
+# linux log
+*.out
+utils/nohup.out
+
+.DS_Store
