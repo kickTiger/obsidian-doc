@@ -5,9 +5,14 @@ yarn-error.log
 .yalc
 yalc.lock
 
+# Node modules
+**/node_modules/**
+
 # Vuepress Cache
+**/.vuepress/.cache/**
 .cache/
 # Vuepress Temp
+**/.vuepress/.temp/**
 .temp/
 # Vuepress Output
 dist/
