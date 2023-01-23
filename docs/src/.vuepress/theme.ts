@@ -3,18 +3,21 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://obsidian-doc.netlify.app/",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "coffeebean",
+    url: "https://obsidian-doc.netlify.app/",
   },
+
+  // 热更新开关
+  hotReload: true,
 
   iconAssets: "iconfont",
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "kickTiger/obsidian-doc",
 
   docsDir: "demo/theme-docs/src",
 
@@ -26,7 +29,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "Share knowledge, achieve self-realization",
 
       displayFooter: true,
 
@@ -45,7 +48,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "分享知识、成就自我",
 
       displayFooter: true,
 

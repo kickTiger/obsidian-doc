@@ -7,13 +7,13 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "Docs Demo",
-      description: "A docs demo for vuepress-theme-hope",
+      title: "obsidian Docs ",
+      description: "A docs for obsidian",
     },
     "/zh/": {
       lang: "zh-CN",
-      title: "文档演示",
-      description: "vuepress-theme-hope 的文档演示",
+      title: "obsidian文档咖啡豆版",
+      description: "obsidian文档和使用技巧",
     },
   },
 
