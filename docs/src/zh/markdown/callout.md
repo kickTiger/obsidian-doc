@@ -3,6 +3,8 @@
 title: callout标注块
 # 这是侧边栏的顺序
 order: 11
+# 这是页面的图标
+icon: page
 ---
 callout 标注块是 obsidian 新增的格式，也被称为**admonitions警告**表现形式是带颜色的块引用，有标题、背景颜色和icon图标。
 他极大的丰富了 obsidian 的排版，增加了美观度。

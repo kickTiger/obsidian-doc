@@ -8,14 +8,6 @@ category:
 
 ## Catalog
 
-- [Markdown Enhance](markdown.md)
-
-- [Page Config](page.md)
-
-- [Function Disable](disable.md)
-
-- [Encryption Demo](encrypt.md)
-
+- [初识obsidian](初识obsidian.md)
 - [小白指南](小白指南.md)
-
-- [新手第一课](新手第一课.md)
+- [ob备份方案](ob备份方案.md)

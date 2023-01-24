@@ -24,6 +24,13 @@ export const zhSidebar = sidebar({
       link: "plugin/",
       children: "structure",
     },
+    {
+      text: "obsidian工作流",
+      icon: "note",
+      prefix: "workflow/",
+      link: "workflow/",
+      children: "structure",
+    },
 
   ],
 });

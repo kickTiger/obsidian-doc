@@ -2,46 +2,33 @@ import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
   "/zh/",
-  { text: "obsidian指南", icon: "discover", link: "/zh/demo/" },
+  { text: "obsidian指南", icon: "discover", link: "/zh/documentation/" },
   {
     text: "markdown语法",
     icon: "creative",
-    prefix: "/zh/guide/",
-    children: [
-      {
-        text: "Bar",
-        icon: "creative",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "more", link: "" }],
-      },
-      {
-        text: "Foo",
-        icon: "config",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "more", link: "" }],
-      },
-    ],
+    prefix: "/zh/markdown/",
+    link: "/zh/markdown/",
   },
   {
     text: "obsidian插件",
     icon: "creative",
-    prefix: "/zh/guide/",
+    prefix: "/zh/plugin/",
     children: [
       {
         text: "核心插件",
         icon: "creative",
-        link: "foo/",
+        link: "核心插件.md",
       },
       {
         text: "社区插件",
         icon: "config",
-        link: "bar/",
+        link: "社区插件.md",
       },
     ],
   },
   {
-    text: "V2 文档",
+    text: "咖啡豆的博客",
     icon: "note",
-    link: "https://theme-hope.vuejs.press/zh/",
+    link: "#",
   },
 ]);
