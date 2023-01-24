@@ -4,27 +4,31 @@ export const enNavbar = navbar([
   "/",
   { text: "obsidian指南", icon: "discover", link: "/zh/documentation/" },
   {
-    text: "Guide",
+    text: "markdown语法",
     icon: "creative",
-    prefix: "/guide/",
+    prefix: "/zh/markdown/",
+    link: "/zh/markdown/",
+  },
+  {
+    text: "obsidian插件",
+    icon: "creative",
+    prefix: "/zh/plugin/",
     children: [
       {
-        text: "Bar",
+        text: "核心插件",
         icon: "creative",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "more", link: "" }],
+        link: "核心插件.md",
       },
       {
-        text: "Foo",
+        text: "社区插件",
         icon: "config",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "more", link: "" }],
+        link: "社区插件.md",
       },
     ],
   },
   {
-    text: "V2 Docs",
+    text: "咖啡豆的博客",
     icon: "note",
-    link: "https://theme-hope.vuejs.press/",
+    link: "#",
   },
 ]);

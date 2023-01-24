@@ -18,10 +18,17 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "obsidian插件",
-      icon: "note",
-      prefix: "plugin/",
-      link: "plugin/",
+      text: "核心插件",
+      icon: "config",
+      prefix: "core-plugins/",
+      link: "core-plugins/",
+      children: "structure",
+    },
+    {
+      text: "社区插件",
+      icon: "creative",
+      prefix: "community-plugins/",
+      link: "community-plugins/",
       children: "structure",
     },
     {

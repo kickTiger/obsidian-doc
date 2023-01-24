@@ -3,21 +3,27 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://obsidian-doc.netlify.app/",
+  hostname: "https://coffeetea.top/",
 
   author: {
     name: "coffeebean",
-    url: "https://obsidian-doc.netlify.app/",
+    url: "https://coffeetea.top/",
   },
 
   // 热更新开关
   hotReload: true,
+
+  // 显示编辑此页连接
+  editLink: false,
 
   iconAssets: "iconfont",
 
   logo: "/logo.svg",
 
   repo: "kickTiger/obsidian-doc",
+
+  // 关闭导航条仓库链接
+  repoDisplay: false,
 
   docsDir: "demo/theme-docs/src",
 
@@ -90,8 +96,14 @@ export default hopeTheme({
        * Using Waline
        */
       provider: "Waline",
-      serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      serverURL: "https://obsidian-doc-comments.vercel.app",
     },
+
+    //开启版权功能
+    copyright: true,
+
+    // 开启目录页自动生成
+    autoCatalog: false,
 
     // Disable features you don’t want here
     mdEnhance: {
