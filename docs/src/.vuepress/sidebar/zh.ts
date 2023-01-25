@@ -8,6 +8,7 @@ export const zhSidebar = sidebar({
       icon: "note",
       prefix: "documentation/",
       link: "documentation/",
+      collapsible: false,
       children: "structure",
     },
     {
@@ -15,6 +16,7 @@ export const zhSidebar = sidebar({
       icon: "note",
       prefix: "markdown/",
       link: "markdown/",
+      collapsible: true,
       children: "structure",
     },
     {
@@ -22,6 +24,7 @@ export const zhSidebar = sidebar({
       icon: "config",
       prefix: "core-plugins/",
       link: "core-plugins/",
+      collapsible: true,
       children: "structure",
     },
     {
@@ -29,6 +32,7 @@ export const zhSidebar = sidebar({
       icon: "creative",
       prefix: "community-plugins/",
       link: "community-plugins/",
+      collapsible: true,
       children: "structure",
     },
     {
@@ -36,6 +40,15 @@ export const zhSidebar = sidebar({
       icon: "note",
       prefix: "workflow/",
       link: "workflow/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
+      text: "进阶用法",
+      icon: "note",
+      prefix: "advanced/",
+      link: "advanced/",
+      collapsible: true,
       children: "structure",
     },
 

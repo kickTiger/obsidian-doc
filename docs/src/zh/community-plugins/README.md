@@ -19,3 +19,5 @@ category:
 1. [Dataview](dataview.md) ⭐️⭐️⭐️ 增强obsidian的数据查询 [![obsidian-dataview](https://img.shields.io/github/stars/blacksmithgu/obsidian-dataview?style=social)](https://github.com/blacksmithgu/obsidian-dataview)  [![obsidian-dataview](https://img.shields.io/github/last-commit/blacksmithgu/obsidian-dataview)](https://github.com/blacksmithgu/obsidian-dataview)
 2. [Templater](templater.md)⭐️⭐️⭐️ 按模板新建md文件  [![Templater](https://img.shields.io/github/stars/SilentVoid13/Templater?style=social)](https://github.com/SilentVoid13/Templater)  [![Templater](https://img.shields.io/github/last-commit/SilentVoid13/Templater)](https://github.com/SilentVoid13/Templater)
 3. [Quickadd](quickadd.md)⭐️⭐️⭐️ 制作快捷命令，提高obsidian的效率
+4. [tasks](tasks.md)⭐️⭐️ 任务管理增强，在ob里实现todolist清单记事
+5. [button](button.md) ⭐️⭐️ 按钮制作插件，打造你的obsidian成一个小系统

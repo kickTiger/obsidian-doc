@@ -10,21 +10,29 @@ export const zhNavbar = navbar([
     link: "/zh/markdown/",
   },
   {
-    text: "obsidian插件",
+    text: "插件",
     icon: "creative",
-    prefix: "/zh/plugin/",
+    prefix: "/zh/",
     children: [
       {
         text: "核心插件",
         icon: "creative",
-        link: "核心插件.md",
+        prefix: "core-plugins/",
+        link: "core-plugins/",
       },
       {
         text: "社区插件",
         icon: "config",
-        link: "社区插件.md",
+        prefix: "community-plugins/",
+        link: "community-plugins/",
       },
     ],
+  },
+  {
+    text: "进阶用法",
+    icon: "creative",
+    prefix: "/zh/advanced/",
+    link: "/zh/advanced/",
   },
   {
     text: "咖啡豆的博客",

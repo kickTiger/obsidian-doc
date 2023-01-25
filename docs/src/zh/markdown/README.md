@@ -5,17 +5,14 @@ icon: discover
 category:
   - 使用指南
 ---
-[Markdown](https://daringfireball.net/projects/markdown/)是一种轻型标记语言，采用纯文本格式语法。
+这是 Markdown 语法的快速参考备忘单。[Markdown](https://daringfireball.net/projects/markdown/)是一种轻型标记语言，采用纯文本格式语法。
 
-可以使用任何文本编辑器编写 Markdown，但我们建议使用 [Obsidian](https://obsidian.md/) [Visual Studio Code](https://code.visualstudio.com/) [Typora ](https://typora.io/)。**Obsidian** 提供了编辑和预览的功能，同时能够管理你的笔记内容，有着丰富的扩展和完善的社区支持。
+Markdown可使用任何文本编辑器来编写，但我们建议使用 [Obsidian](https://obsidian.md/) [Visual Studio Code](https://code.visualstudio.com/) [Typora ](https://typora.io/)。**Obsidian** 提供了编辑和预览的功能，同时能够管理你的笔记内容，有着丰富的扩展和完善的社区支持。
 
-## 目录
-这是 Markdown 语法的快速参考备忘单。
 
 ::: tip 先收藏避免走丢
-为了方便查看，将语法分解成章节，按需查看。  
-
-同时在基础markdown 语法上，增加了在 obsidian 中的使用技巧。
+- 为了方便查看，将语法分解成章节，按需查看。  
+- 文档特色是在基础markdown 语法上，增加在 obsidian 中的使用技巧。
 :::
 ## 导航
 1. [标题](标题.md)
@@ -31,3 +28,4 @@ category:
 11. [换行](换行.md)
 12. [callout](callout.md)
 13. [公式](公式.md)
+14. [Emoji 列表](Emoji 列表)

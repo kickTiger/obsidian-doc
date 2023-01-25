@@ -11,6 +11,7 @@ callout 标注块是 obsidian 新增的格式，也被称为**admonitions警告*
 
 在别的markdown编辑器中也有类似的样式，但语法稍有不同。
 
+**演示：**
 ::: danger 类callout标注块演示
 这个就是一个类似的callout块，obsidian中UI和这个略有不同
 :::
