@@ -28,4 +28,4 @@ Markdown可使用任何文本编辑器来编写，但我们建议使用 [Obsidia
 11. [换行](换行.md)
 12. [callout](callout.md)
 13. [公式](公式.md)
-14. [Emoji 列表](Emoji 列表)
+14. [Emoji列表](Emoji列表.md)

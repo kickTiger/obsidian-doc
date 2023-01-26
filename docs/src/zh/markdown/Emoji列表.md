@@ -1,6 +1,6 @@
 ---
 # 这是文章的标题
-title: Emoji 列表
+title: Emoji列表
 # 这是侧边栏的顺序
 order: 14
 # 这是页面的图标
