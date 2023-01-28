@@ -51,6 +51,22 @@ export const zhSidebar = sidebar({
       collapsible: true,
       children: "structure",
     },
+    {
+      text: "css代码片段",
+      icon: "note",
+      prefix: "css-snippets/",
+      link: "css-snippets/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
+      text: "dataview代码片段",
+      icon: "note",
+      prefix: "dataview-snippets/",
+      link: "dataview-snippets/",
+      collapsible: true,
+      children: "structure",
+    },
 
   ],
 });

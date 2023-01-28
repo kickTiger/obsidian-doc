@@ -21,3 +21,6 @@ category:
 3. [Quickadd](quickadd.md)⭐️⭐️⭐️ 制作快捷命令，提高obsidian的效率
 4. [tasks](tasks.md)⭐️⭐️ 任务管理增强，在ob里实现todolist清单记事
 5. [button](button.md) ⭐️⭐️ 按钮制作插件，打造你的obsidian成一个小系统
+6. [various-complements](various-complements.md) ⭐️⭐️ 自动补齐短语
+7. [Workspaces Plus](Workspaces-Plus.md) ⭐️⭐️⭐️ 工作空间增强，增强效率，打造工作场景
+8. [Style Settings](Style-Settings.md) ⭐️主题样式定制，提供调整主题、插件和片段的CSS变量
