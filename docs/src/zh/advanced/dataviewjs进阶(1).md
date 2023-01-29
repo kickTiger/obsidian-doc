@@ -26,3 +26,17 @@ Dataviewjs 是 DataviewJavaScript， 能实现自定义查询的语法，适合�
 所以本教程的目标是帮助你对照 dataview 的查询，理解 dataviewjs 的语法。大致的分解一下 dataviewjs 的文档。
 :::
 
+### dataviewjs 的逻辑
+无论 dataview 也好，dataviewjs 也罢，都必须遵循一个逻辑流程：
+```mermaid
+  flowchart TB
+      A("dataview<br>dataviewjs") --> B["1 查询"]
+      A -->|"渲染"| C("2呈现")
+      A -->|"过滤器 Filter"| D("3 条件")
+      A -->|"整理"| E("4 排序")
+```
+
+::: tip
+请时刻记得这4个流程，在下面的认知里就不会跑偏了。无论有多少变量和函数，万变不离其宗，逻辑在这里。
+:::
+
