@@ -12,6 +12,8 @@ category:
 4. [dataviewjs进阶(2)](dataviewjs进阶(2).md)
 5. [tasks进阶(1)](tasks进阶(1).md)
 6. [tasks进阶(2)](tasks进阶(2).md)
+7. [quickadd进阶](quickadd进阶.md)
+8. [obsidian网页剪藏](obsidian网页剪藏.md)
 
 ::: tip 施工中
 挖坑待填

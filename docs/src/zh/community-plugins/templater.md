@@ -21,3 +21,10 @@ templater，obsidian 必装插件之一，提供了固定模板和动态模板�
 :::
 
 **插件使用：**  
+1/3 新建模板文件夹  
+推荐新建一个文件夹，单独作为模板文件夹。这里我们新建`template`文件夹。  
+
+然后在在`templater`插件中设置模板文件夹：
+- General Settings
+- Template folder locationFiles
+
