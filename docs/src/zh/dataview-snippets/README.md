@@ -11,4 +11,4 @@ category:
 ## 目录
 1. [dataview-查文件夹所有文件](dataview查文件夹所有文件.md)
 2. [dataview-查指定标签的文件](dataview查指定标签的文件.md)
-3. 
+3. [dataviewjs-查关键字所在行的内容](dataviewjs-查关键字所在行的内容.md)
