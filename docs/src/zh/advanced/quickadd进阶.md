@@ -2,7 +2,7 @@
 # 这是文章的标题
 title: Quickadd进阶
 # 这是侧边栏的顺序
-order: 7
+order: 9
 # 这是页面的图标
 icon: page
 ---

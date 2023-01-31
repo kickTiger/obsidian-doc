@@ -2,7 +2,7 @@
 # 这是文章的标题
 title: Dataviewjs进阶(2)
 # 这是侧边栏的顺序
-order: 4
+order: 5
 # 这是页面的图标
 icon: page
 ---
