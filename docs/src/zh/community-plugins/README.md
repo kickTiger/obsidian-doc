@@ -24,3 +24,7 @@ category:
 6. [various-complements](various-complements.md) ⭐️⭐️ 自动补齐短语
 7. [Workspaces Plus](Workspaces-Plus.md) ⭐️⭐️⭐️ 工作空间增强，增强效率，打造工作场景
 8. [Style Settings](Style-Settings.md) ⭐️主题样式定制，提供调整主题、插件和片段的CSS变量
+
+::: tip 施工中
+更多内容制作中，尽请期待。欢迎投稿！留言或联系站长
+:::

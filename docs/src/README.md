@@ -3,8 +3,8 @@ home: true
 icon: home
 title: 项目主页
 heroImage: /logo.svg
-heroText: obsidian文档咖啡豆版☕️
-tagline: 这里是obsidian的文档和使用的技巧(非官方)
+heroText: Obsidian文档咖啡豆版☕️
+tagline: Obsidian文档和使用技巧 | 本站由Obsidian构建
 actions:
 - text: 使用指南 💡
   link: /zh/documentation/
@@ -12,7 +12,10 @@ actions:
 
 - text: markdown语法
   link: /zh/markdown/
-
+  
+- text: obsidian进阶用法
+  link: /zh/advanced/
+  
 features:
 - title: Markdown 增强
   icon: markdown

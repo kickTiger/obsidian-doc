@@ -187,11 +187,11 @@ sort file.mtime desc
 limit 20
 ```
 
-### 
-
 
 ### 更多函数
-...
+::: tip 施工中
+挖坑待填
+:::
 
 ## Where 过滤器-查自定义字段
 我们也可以查询自定义字段，也就是前文所讲的 `frontmatter` 和 `inline 内联字段`
@@ -201,7 +201,25 @@ limit 20
 
 
 ## Sort 排序
+按一个或多个字段对所有结果进行排序。
+
+```
+SORT date [ASCENDING/DESCENDING/ASC/DESC]
+```
 
 ```sql
 sort file.mtime desc
 ```
+
+::: tip 自定义标题
+- ASC：升序
+- DESC：降序
+:::
+
+::: danger 交个朋友
+如果在使用和学习中有不明白的地方，或者想看看别人的经验
+- 可以查看[进阶用法](/zh/advanced)
+- 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群
+- 可以查看B站视频、YouTube了解（筹备）
+- 示例库（筹备中）
+:::
