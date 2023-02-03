@@ -2,7 +2,7 @@
 # 这是文章的标题
 title: Style Settings
 # 这是侧边栏的顺序
-order: 8
+order: 9
 # 这是页面的图标
 icon: page
 ---

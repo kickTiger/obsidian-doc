@@ -16,15 +16,22 @@ category:
 :::
 
 ## 导航
-1. [Dataview](dataview.md) ⭐️⭐️⭐️ 增强obsidian的数据查询 [![obsidian-dataview](https://img.shields.io/github/stars/blacksmithgu/obsidian-dataview?style=social)](https://github.com/blacksmithgu/obsidian-dataview)  [![obsidian-dataview](https://img.shields.io/github/last-commit/blacksmithgu/obsidian-dataview)](https://github.com/blacksmithgu/obsidian-dataview)
-2. [Templater](templater.md)⭐️⭐️⭐️ 按模板新建md文件  [![Templater](https://img.shields.io/github/stars/SilentVoid13/Templater?style=social)](https://github.com/SilentVoid13/Templater)  [![Templater](https://img.shields.io/github/last-commit/SilentVoid13/Templater)](https://github.com/SilentVoid13/Templater)
+1. [Dataview](dataview.md) ⭐️⭐️⭐️ 增强obsidian的数据查询
+2. [Templater](templater.md)⭐️⭐️⭐️ 按模板新建md文件
 3. [Quickadd](quickadd.md)⭐️⭐️⭐️ 制作快捷命令，提高obsidian的效率
-4. [tasks](tasks.md)⭐️⭐️ 任务管理增强，在ob里实现todolist清单记事
-5. [button](button.md) ⭐️⭐️ 按钮制作插件，打造你的obsidian成一个小系统
-6. [various-complements](various-complements.md) ⭐️⭐️ 自动补齐短语
-7. [Workspaces Plus](Workspaces-Plus.md) ⭐️⭐️⭐️ 工作空间增强，增强效率，打造工作场景
-8. [Style Settings](Style-Settings.md) ⭐️主题样式定制，提供调整主题、插件和片段的CSS变量
+4. [Advanced URI](Advanced-URI.md) ⭐️⭐️⭐️高级链接，替换obsidian-url
+5. [tasks](tasks.md)⭐️⭐️ 任务管理增强，在ob里实现todolist清单记事
+6. [button](button.md) ⭐️⭐️ 按钮制作插件，打造你的obsidian成一个小系统
+7. [various-complements](various-complements.md) ⭐️⭐️ 自动补齐短语
+8. [Workspaces Plus](Workspaces-Plus.md) ⭐️⭐️⭐️ 工作空间增强，增强效率，打造工作场景
+9. [Style Settings](Style-Settings.md) ⭐️主题样式定制，提供调整主题、插件和片段的CSS变量
+10. [Quiet Outline](quiet-outline.md)  ⭐️⭐️ 增强型大纲插件，按需自动展开大纲，可设定展开层级
+11. [Editing Toolbar](Editing-Toolbar.md) ⭐️⭐️⭐️ 增强 obsidian 的编辑体验。提供类似于word的浮动编辑面板。
+12. [增强编辑插件](Enhanced-editing.md) ⭐️⭐️⭐️增强编辑插件，提供大量命令，能方便的修改标题等级
 
 ::: tip 施工中
 更多内容制作中，尽请期待。欢迎投稿！留言或联系站长
+:::
+::: info 更新日志
+点击查看📙 [更新日志](/zh/documentation/update-log.md)
 :::

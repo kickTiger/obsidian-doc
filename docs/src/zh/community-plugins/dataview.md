@@ -6,8 +6,8 @@ order: 1
 # 这是页面的图标
 icon: page
 ---
-## 插件简介  
-dataview插件  [![obsidian-dataview](https://img.shields.io/github/stars/blacksmithgu/obsidian-dataview?style=social)](https://github.com/blacksmithgu/obsidian-dataview)  [![obsidian-dataview](https://img.shields.io/github/last-commit/blacksmithgu/obsidian-dataview)](https://github.com/blacksmithgu/obsidian-dataview)
+### 插件简介  
+dataview插件  ⭐️⭐️⭐️  
 
 这是一款在 obsidian 上必装的插件，少了 dataview 的 obsidian 也少了很多的便捷和乐趣。他能够在纯文本的md文件里，实现接近于数据库的查询效果。只需要掌握简单的语法就能达到动态的查询。  
   

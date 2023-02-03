@@ -2,7 +2,7 @@
 # 这是文章的标题
 title: various complements
 # 这是侧边栏的顺序
-order: 6
+order: 7
 # 这是页面的图标
 icon: page
 ---

@@ -6,8 +6,7 @@ order: 3
 # 这是页面的图标
 icon: page
 ---
- [![Templater](https://img.shields.io/github/stars/SilentVoid13/Templater?style=social)](https://github.com/SilentVoid13/Templater)  [![Templater](https://img.shields.io/github/last-commit/SilentVoid13/Templater)](https://github.com/SilentVoid13/Templater)
-**插件简介：**  
+**插件简介：**  ⭐️⭐️⭐️  
 quickadd，推荐安装的插件之一，快捷命令制作，并将命令接入obsidian的命令面板。超级效率工具，可以实现按模板生成新文件、捕捉新内容到文件、宏命令等自动化的命令。
 
 ::: warning

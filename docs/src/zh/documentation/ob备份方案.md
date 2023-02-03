@@ -1,6 +1,6 @@
 ---
 # 这是文章的标题
-title: 备份方案
+title: obsidian备份方案
 # 这是页面的图标
 icon: page
 # 这是侧边栏的顺序
@@ -99,7 +99,12 @@ Syncthing 支持 docker 部署，如果有 docker 环境的话，推荐docker部
 
 更细致的配置，可以看配置选项还有[官方文档]( https://docs.syncthing.net/intro/getting-started.html)
 
-### 补充:Ubuntu安装启动syncthing
+### 补充1:简单配置同步
+
+
+
+
+### 补充2:Ubuntu安装启动syncthing
 **1/2 安装**
 ```bash
 # 1.添加PGP 密钥，验证软件发行 

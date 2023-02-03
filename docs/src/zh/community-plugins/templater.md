@@ -6,7 +6,7 @@ order: 2
 # 这是页面的图标
 icon: page
 ---
-**插件简介：**  
+**插件简介：**  ⭐️⭐️⭐️  
 templater，obsidian 必装插件之一，提供了固定模板和动态模板。提升obsidian使用效率，可以按照模板新建文件，节省大量时间。
 
 ::: warning

@@ -5,7 +5,6 @@ icon: discover
 category:
 - Guide
 ---
-
 ::: danger 交个朋友
 如果在使用和学习中有不明白的地方，或者想看看别人的经验
 - 可以查看[进阶用法](/zh/advanced)
@@ -16,8 +15,8 @@ category:
 
 ## 1 基础
 - [初识obsidian](初识obsidian.md)
-- [小白指南](小白指南.md)
-- [ob备份方案](ob备份方案.md)
+- [obsidian小白指南](小白指南.md)
+- [obsidian备份方案](ob备份方案.md)
 - [markdown语法](../markdown/)
 - [核心插件](./core-plugins/)
 - [社区插件](../community-plugins)
