@@ -17,7 +17,7 @@ icon: page
 **新增 Features**  
 - 增加更新日志，方便查看网站的更新。
 - 新增社区插件 [Quiet Outline](/zh/community-plugins/quiet-outline.md) ，增强型的大纲插件
-- 新增社区插件 [插件-quickadd](/zh/community-plugins/Editing-Toolbar.md)  ，增强型的大纲插件
+- 新增社区插件 [Editing-Toolbar](/zh/community-plugins/Editing-Toolbar.md)  ，增强型的大纲插件
 - 新增社区插件 [增强编辑插件](/zh/community-plugins/Enhanced-editing.md)
 - 新增社区插件 [Advanced URI](/zh/community-plugins/Advanced-URI.md) ,高级链接插件
 - 新增css片段 [隐藏`#`标题符号](/zh/css-snippets/css-hide-md-headline.md)
