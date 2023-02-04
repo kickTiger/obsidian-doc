@@ -28,6 +28,7 @@ category:
 10. [Quiet Outline](quiet-outline.md)  ⭐️⭐️ 增强型大纲插件，按需自动展开大纲，可设定展开层级
 11. [Editing Toolbar](Editing-Toolbar.md) ⭐️⭐️⭐️ 增强 obsidian 的编辑体验。提供类似于word的浮动编辑面板。
 12. [增强编辑插件](Enhanced-editing.md) ⭐️⭐️⭐️增强编辑插件，提供大量命令，能方便的修改标题等级
+13. [Auto-Note-Mover](auto-note-mover.md) ⭐️⭐️⭐️ 根据规则自动移动文件到指定文件夹
 
 ::: tip 施工中
 更多内容制作中，尽请期待。欢迎投稿！留言或联系站长

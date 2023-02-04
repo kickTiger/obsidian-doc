@@ -9,10 +9,18 @@ icon: page
 ::: danger 交个朋友
 如果在使用和学习中有不明白的地方，或者想看看别人的经验
 - 可以查看[进阶用法](/zh/advanced)
-- 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群
+- 可以加群和大家聊聊，加微信 `coffeebean9999` 蹦跶的咖啡豆，然后进群
 - 可以查看B站视频、YouTube了解（筹备）
 - 示例库（筹备中）
 :::
+## 2023-02-04
+**新增 Features**  
+- 新增 [FAQ 新手问题](/zh/documentation/FAQ.md)
+- 新增社区插件 [auto-note-mover](/zh/community-plugins/auto-note-mover.md) 根据规则自动移动md到指定文件夹
+
+**优化 Refactored**  
+- 优化[dataviewjs片段关键字查询](/zh/dataview-snippets/dataviewjs-查关键字所在行的内容.md)，增加指定范围
+
 ## 2023-02-03
 **新增 Features**  
 - 增加更新日志，方便查看网站的更新。
