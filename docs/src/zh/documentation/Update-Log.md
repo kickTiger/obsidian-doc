@@ -27,7 +27,7 @@ icon: page
 	- 增加 嵌入另一个笔记方法
 	- 增加 嵌入图片、音乐和PDF方法
 	- 增加 如何设置内链和链接到标题
-- 增加[Clear-Unused-lmages](Clear-Unused-lmages.md) 清除未使用的图片和附件 ⭐️⭐️
+- 增加[Clear-Unused-lmages](/zh/community-plugins/Clear-Unused-lmages.md) 清除未使用的图片和附件 ⭐️⭐️
 
 **优化 Refactored**  
 - 修订了部分文案，还有代码中的排版问题

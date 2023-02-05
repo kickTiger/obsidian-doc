@@ -20,7 +20,7 @@ Clear-Unused-lmages，清理未使用过的图片和附件
 `Ctrl+P`呼出命令面板，然后输入`Unused`，出来的菜单选择你需要的，如下：
 
 - Clear Unused Images: Clear Unused Images  清除未使用的图片
-- Clear Unused Images: Clear Unused Attachments 清除未使用的附件
+- Clear Unused Images: Clear Unused Attachments 清除未使用的附件(==谨慎使用==)
 
 清除结束会弹出删除过的文件清单
 
