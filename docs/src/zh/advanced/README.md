@@ -16,6 +16,7 @@ category:
 8. [tasks进阶(2)](tasks进阶(2).md)
 9. [quickadd进阶](quickadd进阶.md)
 10. [obsidian网页剪藏](obsidian网页剪藏.md)
+11. [正则表达式](regular-expression.md) 整理几十个常用的正则表达式，直接复制使用即可
 
 ::: tip 施工中
 挖坑待填

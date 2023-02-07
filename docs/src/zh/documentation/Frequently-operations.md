@@ -7,7 +7,7 @@ order: 6
 icon: page
 ---
 
-### 将网页嵌入到文件中
+### 1 将网页嵌入到文件中
 其实我感觉这个不是常见操作，但是没地方搁，放着里大家看看
 ```html
 <iframe src="这里放完整的网页链接"></iframe>
@@ -18,7 +18,3 @@ icon: page
 <iframe border=0 frameborder=0 height=1000 width=100% src="这里放完整的网页链接"> </iframe>
 ```
 
-
-
-
-### 

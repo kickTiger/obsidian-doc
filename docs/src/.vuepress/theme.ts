@@ -97,6 +97,24 @@ export default hopeTheme({
        */
       provider: "Waline",
       serverURL: "https://obsidian-doc-comments.vercel.app",
+
+
+    },
+
+    // 你想使用的组件
+    // 文档 https://theme-hope.vuejs.press/zh/guide/markdown/components.html
+    components: {
+      // 你想使用的组件
+      components: [
+        "AudioPlayer",
+        "Badge",
+        "BiliBili",
+        "CodePen",
+        "PDF",
+        "StackBlitz",
+        "VideoPlayer",
+        "YouTube",
+      ],
     },
 
     //开启版权功能

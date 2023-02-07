@@ -30,6 +30,8 @@ category:
 12. [增强编辑插件](Enhanced-editing.md) ⭐️⭐️⭐️增强编辑插件，提供大量命令，能方便的修改标题等级
 13. [Auto-Note-Mover](auto-note-mover.md) ⭐️⭐️⭐️ 根据规则自动移动文件到指定文件夹
 14. [Clear Unused lmages](Clear-Unused-lmages.md) 清除未使用的图片和附件 ⭐️⭐️
+15. [Easy Typing](Easy-Typing.md) 增强的中英文混合编辑体验 ⭐️⭐️
+16. [Tag Wrangler](Tag-Wrangler.md) 标签管理扩展插件 ⭐️⭐️
 
 ::: tip 施工中
 更多内容制作中，尽请期待。欢迎投稿！留言或联系站长

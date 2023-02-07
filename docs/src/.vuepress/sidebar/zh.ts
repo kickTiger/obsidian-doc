@@ -67,6 +67,14 @@ export const zhSidebar = sidebar({
       collapsible: true,
       children: "structure",
     },
+    {
+      text: "obsidian最佳实践",
+      icon: "note",
+      prefix: "best-practices/",
+      link: "best-practices/",
+      collapsible: true,
+      children: "structure",
+    },
 
   ],
 });

@@ -9,6 +9,18 @@ icon: page
 **插件简介：**  
 Clear-Unused-lmages，清理未使用过的图片和附件
 
+::: danger 紧急提醒
+紧急提醒，截止到2023-02-06 16:36:28。部分网友测试，此插件会将白板Canvas中的图片删除。请酌情自测，在下一个插件更新之前，谨慎使用。
+
+- Clear-Unused-lmages 版本 1.0.6
+- obsidian 版本 1.1.9
+- 2023-02-06 16:40:48
+
+截止到 2023-02-06 23:21:11，作者已经更新了软件版本`1.0.7`，**请尽快更新到此版本**，排除了白板文件夹。
+- Exclude Canvas files from Clearing and consider them as main note0files
+- Include attachments from Canvas files for cross check
+:::
+
 **插件安装：**
 ::: tip 插件安装
 打开 obsidian → 设置 ⚙️ → 第三方插件 → 社区插件市场，搜索关键字安装

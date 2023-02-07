@@ -5,6 +5,8 @@ title: 标题
 order: 8
 # 这是页面的图标
 icon: page
+# 控制左侧显示层数(只显示2层)，但是右侧会显示3级
+headerDepth: 2
 ---
 **插件简介：**  
 Style Settings，主题样式定制，提供调整主题、插件和片段的CSS变量

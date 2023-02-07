@@ -15,11 +15,14 @@ category:
 
 ## 1 基础
 1. [初识obsidian](初识obsidian.md) 🍊
-2. [小白指南](小白指南.md) 📙 给萌新们的一份礼物，强烈建议观看
+2. [obsidian-guide](obsidian-guide.md) 📙 给萌新们的一份礼物，强烈建议观看
 3. [备份方案](ob备份方案.md) 💾 数据无价做好备份
 4. [下载地址](obsidian下载.md) ⬇️ 都是官方的下载地址
 5. [常见问题](FAQ.md) ❓ 问题都整理给你了
 6. [常见操作](Frequently-operations.md) 🏆 也许有你都还不知道的操作呢？
+7. [更新日志](Update-Log.md) 📖看看都更新了什么
+8. [打赏开发者](buycoffee) ☕️ 给咖啡豆买杯咖啡，支持可持续性
+9. [加群交流](community.md) 👗 加裙交流，帅哥美女都在这里
 
 ## 2 工具
 - [markdown语法](../markdown/) 📚工具手册，建议收藏备用

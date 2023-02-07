@@ -26,6 +26,8 @@ footer: 这是测试显示的页脚
 copyright: 无版权
 # 控制是否在侧边栏显示
 index: false
+# 控制左侧显示层数(只显示2层)，但是右侧会显示3级
+headerDepth: 2
 ---
 
 `more` 注释之前的内容被视为文章摘要。
