@@ -6,6 +6,13 @@ order: 15
 # 这是页面的图标
 icon: page
 ---
+::: details 🌱【点我-扫码加群】
+![加群交流！先加在拉](/assets/WeChat-QRcode.jpg =300x) 
+::: 
+
+::: details 🍻【点我-打赏】
+![随缘支持](/assets/WeChat-Pay.jpg =x400)
+::: 
 **插件简介：**  
 Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编辑时自动格式化文本和符号编辑增强。自动格式化文本对文档的格式进行规范化，并且美化文档的观感。编辑增强优化用户的编辑体验。
 
@@ -94,3 +101,10 @@ Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编�
 
 ## 更多正则表达式
 [正则表达式速查表](/zh/advanced/regular-expression.md)
+::: danger 交个朋友
+如果在使用和学习中有不明白的地方，或者想看看别人的经验
+- 可以查看[进阶用法](/zh/advanced)
+- 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群
+- 可以查看B站视频、YouTube了解（筹备）
+- 示例库（筹备中）
+:::
