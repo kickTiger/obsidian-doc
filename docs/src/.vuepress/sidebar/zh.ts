@@ -12,6 +12,22 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
     {
+      text: "Dataview专栏",
+      icon: "advance",
+      prefix: "dataview/",
+      link: "dataview/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
+      text: "obsidian最佳实践",
+      icon: "note",
+      prefix: "best-practices/",
+      link: "best-practices/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
       text: "markdown语法",
       icon: "note",
       prefix: "markdown/",
@@ -67,22 +83,8 @@ export const zhSidebar = sidebar({
       collapsible: true,
       children: "structure",
     },
-    {
-      text: "obsidian最佳实践",
-      icon: "note",
-      prefix: "best-practices/",
-      link: "best-practices/",
-      collapsible: true,
-      children: "structure",
-    },
-    {
-      text: "Dataview专栏",
-      icon: "note",
-      prefix: "dataview/",
-      link: "dataview/",
-      collapsible: true,
-      children: "structure",
-    },
+
+
 
   ],
 });
