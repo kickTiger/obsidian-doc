@@ -26,6 +26,9 @@ icon: page
 - 网站增加新专题[ Dataview专栏](/zh/dataview/README.md) 更方便查阅
 - 网站增加最佳实践 [obsidian更换字体](/zh/best-practices/更换字体.md)，适合中文阅读的字体
 
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 优化网站栏目顺序，将 最佳实践和dataview专栏移动到前面来
+
 ## 2023-02-06
 **✨新增** <Badge text="Features" type="tip" />
 - 网站增加功能支持，增加视频播放的支持、和嵌入PDF文档的支持。
