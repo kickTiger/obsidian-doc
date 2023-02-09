@@ -21,6 +21,10 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-02-09
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加新专题[ Dataview专栏](/zh/dataview/README.md) 更方便查阅
+- 网站增加最佳实践 [obsidian更换字体](/zh/best-practices/更换字体.md)，适合中文阅读的字体
 
 ## 2023-02-06
 **✨新增** <Badge text="Features" type="tip" />

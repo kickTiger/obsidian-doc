@@ -15,7 +15,7 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "obsidian Docs ",
+      title: "obsidian Docs CoffeeBean Edition ",
       description: "A docs for obsidian",
     },
     "/zh/": {

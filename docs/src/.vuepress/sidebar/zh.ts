@@ -75,6 +75,14 @@ export const zhSidebar = sidebar({
       collapsible: true,
       children: "structure",
     },
+    {
+      text: "Dataview专栏",
+      icon: "note",
+      prefix: "dataview/",
+      link: "dataview/",
+      collapsible: true,
+      children: "structure",
+    },
 
   ],
 });
