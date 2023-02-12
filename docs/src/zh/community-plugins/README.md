@@ -32,8 +32,8 @@ category:
 14. [Clear Unused lmages](Clear-Unused-lmages.md) 清除未使用的图片和附件 ⭐️⭐️
 15. [Easy Typing](Easy-Typing.md) 增强的中英文混合编辑体验 ⭐️⭐️
 16. [Tag Wrangler](Tag-Wrangler.md) 标签管理扩展插件 ⭐️⭐️
-17. [Local images]()Local images作者： catalysm
-
+17. [Local images]()Local images，图片本地化插件，作者:catalysm。
+18. [Image Auto Upload Plugin]()
 
 ::: tip 施工中
 更多内容制作中，尽请期待。欢迎投稿！留言或联系站长
