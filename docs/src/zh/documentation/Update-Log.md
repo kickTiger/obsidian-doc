@@ -33,7 +33,7 @@ icon: page
 	- dataview的大纲式导读法，方便查阅。
 	- 函数的解读和易错点
 	- 函数的示例和普通语法的类比
-	- 视频演示如何快捷使用查找函数
+	- 视频演示如何快捷使用查找函数 
 
 **⚡️优化** <Badge text="Refactored" type="warning" />  
 - 网站增加css片段 [多彩文件夹](/zh/css-snippets/多彩文件夹.md)，将完整代码分享出来了。颜色部分可以自行修改下
@@ -50,6 +50,9 @@ icon: page
 		- 第四期  《文科学术库工作流工作》By @一只养生柴
 - 公益分享，如需参加，请加群参加！📢[加群交流](/zh/documentation/community.md) 
 :::
+
+**dataview函数速查表-使用方法视频**
+<BiliBili bvid="BV1d24y1W7HM" />
 
 ## 2023-02-09
 **✨新增** <Badge text="Features" type="tip" />  
