@@ -117,7 +117,7 @@ dv.table(["File", "Lines"], exists)
 })
 ```
 
-::: danger 交个朋友
+::: danger 加群交流
 如果在使用和学习中有不明白的地方，或者想看看别人的经验
 - 可以查看[进阶用法](/zh/advanced)
 - 可以加群和大家聊聊，加微信 `coffeebean1688` 翻滚的咖啡豆子，然后进群

@@ -5,6 +5,8 @@ title: Dataviewjs-函数集合
 order: 6
 # 这是页面的图标
 icon: page
+# 控制左侧显示层数(只显示2层)，但是右侧会显示3级
+headerDepth: 2
 ---
 **说明：**  
 实现通过 dataview 查询指定文件夹下的所有文件

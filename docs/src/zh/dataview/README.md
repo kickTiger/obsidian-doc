@@ -5,7 +5,7 @@ icon: discover
 category:
   - dataview
 ---
-::: danger 交个朋友
+::: danger 加群交流
 如果在使用和学习中有不明白的地方，或者想看看别人的经验
 - 可以查看[进阶用法](/zh/advanced)
 - 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群
@@ -42,4 +42,5 @@ category:
 - [dataviewjs-查关键字所在行内容](/zh/dataview-snippets/dataviewjs-查关键字所在行的内容.md) 🌻
 
 ## Dataview函数速查
-- 
+- [dataview函数](dataview-function.md)🎉
+- [dataviewjs函数](dataviewjs-function.md)🌻

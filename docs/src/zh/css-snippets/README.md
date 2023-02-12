@@ -15,3 +15,4 @@ category:
 7. [显示H标题的等级](css-show-mdheadline-front.md) 显示h标题的等级，显示在最前面
 8. [满屏无边距](css-full-screen.md) 实现全屏的效果，两边没有边框。比如嵌入整个网页。
 9. [代码渲染-黑色主题](code-rendering-okaidia.md) 代码块着色的方案，这是黑色主题
+10. [自定义右侧文件列表文件夹和文件图标](css-fileicon.md) 修改自定义右侧文件列表文件夹和文件图标

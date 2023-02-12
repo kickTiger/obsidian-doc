@@ -1,12 +1,16 @@
 ---
 # 这是文章的标题
 title: 文档站更新日志
+# 当前页面的短标题，会在导航栏、侧边栏和路径导航中作为首选。
+shortTitle: 更新日志
+# 当前文章是否为原创
+isOriginal: true
 # 这是侧边栏的顺序
 order: 7
 # 这是页面的图标
 icon: page
 ---
-::: danger 交个朋友
+::: danger 加群交流
 如果在使用和学习中有不明白的地方，或者想看看别人的经验
 - 可以查看[进阶用法](/zh/advanced)
 - 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群📢[加群交流](/zh/documentation/community.md) 
@@ -21,10 +25,31 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-02-12
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加插件 [Local-images](/zh/community-plugins/Local-images.md) 网络图片下载到本地插件
+- ==重大更新==，**咖啡豆原创** 增加 [dataview函数速查表](/zh/dataview/dataview-function.md)。
+	- 所有dataview的中文解释，3万字全面覆盖。
+	- dataview的大纲式导读法，方便查阅。
+	- 函数的解读和易错点
+	- 函数的示例和普通语法的类比
+	- 视频演示如何快捷使用查找函数
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站增加css片段 [多彩文件夹](/zh/css-snippets/多彩文件夹.md)，将完整代码分享出来了。颜色部分可以自行修改下
+
+**📝变更** <Badge text="Changed" type="note" />   
+- 网站增加更新日志，方便查看网站的更新。
+- 网站增加更新日志，方便查看网站的更新。
+
+**🐛修复** <Badge text="Fixed" type="note" />  
+- 网站增加更新日志，方便查看网站的更新。
+- 网站增加更新日志，方便查看网站的更新。
+
 ## 2023-02-09
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加新专题[ Dataview专栏](/zh/dataview/README.md) 更方便查阅
-- 网站增加最佳实践 [obsidian更换字体](/zh/best-practices/更换字体.md)，适合中文阅读的字体
+- 网站增加最佳实践 [obsidian更换字体为霞鹭字体](obsidian-font-LXGW.md)，适合中文阅读的字体，效果十分好看，点击查看。
 
 **⚡️优化** <Badge text="Refactored" type="warning" />  
 - 优化网站栏目顺序，将 最佳实践和dataview专栏移动到前面来

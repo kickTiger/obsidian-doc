@@ -101,7 +101,7 @@ Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编�
 
 ## 更多正则表达式
 [正则表达式速查表](/zh/advanced/regular-expression.md)
-::: danger 交个朋友
+::: danger 加群交流
 如果在使用和学习中有不明白的地方，或者想看看别人的经验
 - 可以查看[进阶用法](/zh/advanced)
 - 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群
