@@ -1,4 +1,4 @@
----
+zh/markdown/mermaid.md.---
 # 这是文章的标题
 title: obsidian汉字注音
 # 这是侧边栏的顺序

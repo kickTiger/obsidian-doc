@@ -29,5 +29,6 @@ Markdown可使用任何文本编辑器来编写，但我们建议使用 [Obsidia
 12. [callout](callout.md)
 13. [公式](公式.md)
 14. [Emoji列表](Emoji列表.md)
-15. [obsidian汉字注音](obsidian汉字注音.md)
-16. [obsidian批注效果](obsidian批注效果.md)
+15. [mermaid流程图](/zh/markdown/mermaid.md)
+16. [obsidian汉字注音](obsidian汉字注音.md)
+17. [obsidian批注效果](obsidian批注效果.md)

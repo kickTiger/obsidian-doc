@@ -25,6 +25,14 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-02-13
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加社区插件 [obsidian-image-captions](/zh/community-plugins/obsidian-image-captions.md)  这个是一个给图片添加注解的插件
+- 网站增加 [插件网盘链接](/zh/community-plugins/README.md)，点击查看分享链接。方便网络不太好的同学，会经常更新的
+- 网站新增markdown语法 [mermaid流程图](/zh/markdown/mermaid.md)，本站大量使用，效果不错
+
+
+
 ## 2023-02-12
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加社区插件 [Image-Auto-Upload-Plugin](/zh/community-plugins/Image-Auto-Upload-Plugin.md) 自动上传图片到图床

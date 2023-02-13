@@ -1,8 +1,8 @@
 ---
 # 这是文章的标题
-title: 标题
+title: obsidian-image-captions
 # 这是侧边栏的顺序
-order: 8
+order: 19
 # 这是页面的图标
 icon: page
 # 控制左侧显示层数(只显示2层)，但是右侧会显示3级

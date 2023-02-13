@@ -34,7 +34,7 @@ category:
 16. [Tag Wrangler](Tag-Wrangler.md) 标签管理扩展插件 ⭐️⭐️
 17. [Local images]()Local images，图片本地化插件，作者:catalysm。
 18. [Image Auto Upload Plugin](/zh/community-plugins/Image-Auto-Upload-Plugin.md) 是一个图片上传的插件，这是一个支持 PicGo、PicGo-Core 上传图片到图床的工具 
-19. [obsidian-image-captions]() 这个是一个给图片添加注解的插件，会在图片下方居中的位置加上解释。会插入html代码。
+19. [obsidian-image-captions](/zh/community-plugins/obsidian-image-captions.md) 这个是一个给图片添加注解的插件，会在图片下方居中的位置加上解释。会插入html代码。
 
 ::: tip 插件网盘下载
 一般插件从obsidian社区插件，可以自行下载。
@@ -48,3 +48,4 @@ https://www.aliyundrive.com/s/RbijLMttxB5 提取码: 5q5s
 ::: info 更新日志
 点击查看📙 [更新日志](/zh/documentation/update-log.md)
 :::
+
