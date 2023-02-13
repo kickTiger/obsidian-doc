@@ -29,7 +29,7 @@ category:
 # Dataview 导航
 
 ## 初识Dataview
-- [初识Dataview插件](zh/community-plugins/dataview.md) 😀
+- [初识Dataview插件](/zh/community-plugins/dataview.md) 😀
 
 ## Dataview进阶
 - [Dataview进阶(1) | obsidian文档咖啡豆版](/zh/advanced/Dataview进阶(1).md) 😁

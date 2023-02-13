@@ -127,7 +127,7 @@ icon: page
 - 增加 [常见操作](Frequently-operations.md) 页面
 	- 增加 嵌入网页到 obsidian
 	- 增加 嵌入无边框的网页 到obsidian。配套CSS如下
-- 增加 [CSS片段-满屏无边距](zh/css-snippets/css-full-screen.md) 让obsidian实现全屏的效果，两边没有边框。比如嵌入整个网页。
+- 增加 [CSS片段-满屏无边距](/zh/css-snippets/css-full-screen.md) 让obsidian实现全屏的效果，两边没有边框。比如嵌入整个网页。
 - 增加 [FAQ 新手问题](/zh/documentation/FAQ.md) 的内容，
 	- 增加 Frontmatter 部分，
 	- 增加 为笔记添加别名

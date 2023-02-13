@@ -48,7 +48,7 @@ category:
 - [dataview函数速查表](/zh/dataview/dataview-function.html) 🎉
 
 ## 5 代码分享
-- [css代码片段](css代码片段.md) 🍑我就是想要美美哒！定制你想要的obsidian
+- [css代码片段](/zh/css-snippets/) 🍑我就是想要美美哒！定制你想要的obsidian  
 - [dataview代码片段](/zh/dataview-snippets) 🥒用dataview让obsidian更智能
 - [tasks代码片段](/zh/dataview-snippets) 🥕打造属于你自己的任务管理系统
 
