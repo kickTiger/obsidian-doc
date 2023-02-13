@@ -80,4 +80,26 @@ sort file.ctime desc
 如果需要深入了解 dataview 的用法，请继续阅读 [进阶用法](/zh/advanced/)
 :::
 
+::: danger 扩展阅读
+应大家的要求，单独设立 dataview 专栏，更推荐这里。
+
+，请继续阅读 [Obsidian Dataview 专栏](/zh/dataview/README.md)
+:::
+
+::: danger 加群交流
+
+如果在使用和学习中有不明白的地方，或者想看看别人的经验
+- 可以查看[进阶用法](/zh/advanced)
+- 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群
+- 可以查看[咖啡豆豆龙_哔哩哔哩](https://space.bilibili.com/618777356)) 视频教程。😜**关注、👍点赞、📀投币一键三连**
+- 示例库（筹备中）
+:::
+
+::: details 🌱【点我-扫码加群】
+![加群交流！先加在拉](/assets/WeChat-QRcode.jpg =300x) 
+::: 
+
+::: details 🍻【点我-打赏】
+![随缘支持](/assets/WeChat-Pay.jpg =x400)
+::: 
 

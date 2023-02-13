@@ -14,7 +14,7 @@ icon: page
 如果在使用和学习中有不明白的地方，或者想看看别人的经验
 - 可以查看[进阶用法](/zh/advanced)
 - 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群📢[加群交流](/zh/documentation/community.md) 
-- 可以查看B站视频、YouTube了解（筹备）
+- 可以查看[咖啡豆豆龙_哔哩哔哩](https://space.bilibili.com/618777356)) 视频教程。😜**关注、👍点赞、📀投币一键三连**
 - 示例库（筹备中）
 :::
 
@@ -25,6 +25,23 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-02-12
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加社区插件 [Image-Auto-Upload-Plugin](/zh/community-plugins/Image-Auto-Upload-Plugin.md) 自动上传图片到图床
+- 网站增加更新日志，方便查看网站的更新。
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站增加更新日志，方便查看网站的更新。
+- 网站增加更新日志，方便查看网站的更新。
+
+**📝变更** <Badge text="Changed" type="note" />   
+- 网站增加更新日志，方便查看网站的更新。
+- 网站增加更新日志，方便查看网站的更新。
+
+**🐛修复** <Badge text="Fixed" type="note" />  
+- 网站增加更新日志，方便查看网站的更新。
+- 网站增加更新日志，方便查看网站的更新。
+
 ## 2023-02-12
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加插件 [Local-images](/zh/community-plugins/Local-images.md) 网络图片下载到本地插件
