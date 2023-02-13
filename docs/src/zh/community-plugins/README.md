@@ -33,10 +33,17 @@ category:
 15. [Easy Typing](Easy-Typing.md) 增强的中英文混合编辑体验 ⭐️⭐️
 16. [Tag Wrangler](Tag-Wrangler.md) 标签管理扩展插件 ⭐️⭐️
 17. [Local images]()Local images，图片本地化插件，作者:catalysm。
-18. [Image Auto Upload Plugin]()
+18. [Image Auto Upload Plugin](/zh/community-plugins/Image-Auto-Upload-Plugin.md) 是一个图片上传的插件，这是一个支持 PicGo、PicGo-Core 上传图片到图床的工具 
+19. [obsidian-image-captions]() 这个是一个给图片添加注解的插件，会在图片下方居中的位置加上解释。会插入html代码。
 
-::: tip 施工中
-更多内容制作中，尽请期待。欢迎投稿！留言或联系站长
+::: tip 插件网盘下载
+一般插件从obsidian社区插件，可以自行下载。
+
+**网络不好，网盘下载。**
+obsidian插件-咖啡豆文档站coffeetea.top 
+https://www.aliyundrive.com/s/RbijLMttxB5 提取码: 5q5s 
+
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
 :::
 ::: info 更新日志
 点击查看📙 [更新日志](/zh/documentation/update-log.md)
