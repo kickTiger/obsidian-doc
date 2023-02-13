@@ -80,10 +80,10 @@ sort file.ctime desc
 如果需要深入了解 dataview 的用法，请继续阅读 [进阶用法](/zh/advanced/)
 :::
 
-::: danger 扩展阅读
+::: danger 推荐 dataview 专栏
 应大家的要求，单独设立 dataview 专栏，更推荐这里。
 
-，请继续阅读 [Obsidian Dataview 专栏](/zh/dataview/README.md)
+请继续阅读 [Obsidian Dataview 专栏](/zh/dataview/README.md)
 :::
 
 ::: danger 加群交流
