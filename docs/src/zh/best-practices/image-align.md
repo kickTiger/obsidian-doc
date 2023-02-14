@@ -24,11 +24,6 @@ headerDepth: 2
 - 其中`#pic_center`表示图片居中，还有`pic_left`、`pic_right`
 - 其中`|650` 表示宽度650
 :::
-::: danger 阅读模式生效
-阅读模式生效！  
-阅读模式生效！  
-阅读模式生效！  
-:::
 
 ::: tip 自定义标题
 如果你能使用这个语法，就不用继续看了。如果不行，看下面的补充方案。
@@ -51,7 +46,8 @@ headerDepth: 2
 代码框右下有复制按钮，点击自动复制代码
 ```css
   
-/* @Author   : 咖啡豆  
+/* 
+@Author   : 咖啡豆  
 @contact  : https://coffeetea.top/  
 @File     : coffeebean-补充图片对齐语法.css  
 @Software : vscode  
@@ -80,5 +76,31 @@ headerDepth: 2
     margin-left: auto;  
     margin-right: 0;  
     width: 50%;  
+}  
+  
+/*实时编辑模式，如果图片的链接中包含 #pic_center 的，图片居中显示*/  
+.markdown-source-view.mod-cm6.is-live-preview .image-embed[src$="center"] {  
+    display: block;  
+    margin-left: auto !important;  
+    margin-right: auto !important;  
+    width: 50%;  
+}  
+  
+/*实时编辑模式，如果图片的链接中包含 #pic_left 的，图片居左显示*/  
+.markdown-source-view.mod-cm6.is-live-preview .image-embed[src$="left"] {  
+    display: block;  
+    margin-left: 0 !important;  
+    margin-right: auto !important;  
+    width: 50%;  
+}  
+  
+/*实时编辑模式，如果图片的链接中包含 #pic_right 的，图片居右显示*/  
+.markdown-source-view.mod-cm6.is-live-preview .image-embed[src$="right"] {  
+    display: block;  
+    margin-left: auto !important;  
+    margin-right: 0 !important;  
+    width: 50%;  
 }
 ```
+
+
