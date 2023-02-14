@@ -25,6 +25,20 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-02-14
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加社区插件 [Commander](/zh/community-plugins/Commander.md)  可以让您添加命令到用户界面的不同部分 ⭐⭐推荐使用
+- 网站增加社区插件 [Image-Toolkit](/zh/community-plugins/Image-Toolkit.md)  当你点击某个图片时，该图片将会弹出适合看图，⭐⭐推荐使用
+- 网站增加最佳实践 [我想让obsidian图片居中对齐](/zh/best-practices/image-align.md) 尝试让图片居中对齐、左对齐、右对齐⭐⭐推荐
+- 网站增加 [tasks进阶(1)](/zh/advanced/tasks进阶(1).md) 讲解了tasks的基本操作和一些注意技巧。
+
+**🐛修复** <Badge text="Fixed" type="note" />  
+- 网站修复部分错误的链接。
+
+**📝计划** <Badge text="Plan" type="note" />  
+- 计划推出 **tasks(2)**，主要讲解语法
+- 计划推出 **task实战案例1**，主要按案例进行讲解。
+
 ## 2023-02-13
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加社区插件 [obsidian-image-captions](/zh/community-plugins/obsidian-image-captions.md)  这个是一个给图片添加注解的插件
@@ -32,22 +46,9 @@ icon: page
 - 网站新增markdown语法 [mermaid流程图](/zh/markdown/mermaid.md)，本站大量使用，效果不错
 
 
-
 ## 2023-02-12
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加社区插件 [Image-Auto-Upload-Plugin](/zh/community-plugins/Image-Auto-Upload-Plugin.md) 自动上传图片到图床
-- 网站增加更新日志，方便查看网站的更新。
-
-**⚡️优化** <Badge text="Refactored" type="warning" />  
-- 网站增加更新日志，方便查看网站的更新。
-- 网站增加更新日志，方便查看网站的更新。
-
-**📝变更** <Badge text="Changed" type="note" />   
-- 网站增加更新日志，方便查看网站的更新。
-- 网站增加更新日志，方便查看网站的更新。
-
-**🐛修复** <Badge text="Fixed" type="note" />  
-- 网站增加更新日志，方便查看网站的更新。
 - 网站增加更新日志，方便查看网站的更新。
 
 ## 2023-02-12

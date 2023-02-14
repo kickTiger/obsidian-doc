@@ -35,6 +35,8 @@ category:
 17. [Local images]()Local images，图片本地化插件，作者:catalysm。
 18. [Image Auto Upload Plugin](/zh/community-plugins/Image-Auto-Upload-Plugin.md) 是一个图片上传的插件，这是一个支持 PicGo、PicGo-Core 上传图片到图床的工具 
 19. [obsidian-image-captions](/zh/community-plugins/obsidian-image-captions.md) 这个是一个给图片添加注解的插件，会在图片下方居中的位置加上解释。会插入html代码。
+20. [Commander](/zh/community-plugins/Commander.md)  可以让您添加命令到用户界面的不同部分
+21. [Image-Toolkit](/zh/community-plugins/Image-Toolkit.md)  可以让您添加命令到用户界面的不同部分
 
 ::: tip 插件网盘下载
 一般插件从obsidian社区插件，可以自行下载。
