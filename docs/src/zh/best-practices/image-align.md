@@ -14,12 +14,21 @@ headerDepth: 2
 在obsidian中，利用 markdown 语法可以直接让图片居中。具体语法参考[markdown图片语法](/zh/markdown/图片.md)。详细描述了，下面给出一个具体示例：
 
 **示例：**
-- 其中`#pic_center`表示图片居中，还有`pic_left`、`pic_right`
-- 其中`|650` 表示宽度650
+
 ```markdown
 ![[Pasted image 20221125235721.png#pic_center|650]]
 ```
+::: danger 语法
+在你的图片调用后追加以上的命令
 
+- 其中`#pic_center`表示图片居中，还有`pic_left`、`pic_right`
+- 其中`|650` 表示宽度650
+:::
+::: danger 阅读模式生效
+阅读模式生效！  
+阅读模式生效！  
+阅读模式生效！  
+:::
 
 ::: tip 自定义标题
 如果你能使用这个语法，就不用继续看了。如果不行，看下面的补充方案。
