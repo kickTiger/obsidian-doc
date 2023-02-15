@@ -21,10 +21,6 @@ obsidian hk code block，这是一个未上架的插件。有兴趣可以测试�
 - 提示符，Prompt，增加一个提示区
 - 添加结果，Result，会增加一个块，标记为结果
 
-::: warning
-只对接入了`Style-Settings`规则的主题、插件和片段起作用。需要配合主题等使用
-:::
-
 **插件安装：**
 ::: tip 通过BRAT插件安装
 打开 obsidian → 设置 ⚙️ → 第三方插件 → 社区插件市场，搜索 BRAT 安装BRAT插件  
