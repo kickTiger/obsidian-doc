@@ -44,9 +44,8 @@ category:
 
 **网络不好，网盘下载。**
 obsidian插件-咖啡豆文档站coffeetea.top 
-https://www.aliyundrive.com/s/RbijLMttxB5 提取码: 5q5s 
+不限速下载：https://www.123pan.com/s/M5P0Vv-K4463 提取码:9Zgs
 
-点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
 :::
 ::: info 更新日志
 点击查看📙 [更新日志](/zh/documentation/update-log.md)
