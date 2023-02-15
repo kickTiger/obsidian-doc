@@ -60,14 +60,24 @@ tasks 插件无需过多配置。但是有一点要注意，经过测试，如�
 因为我们打开了`Global task filter` 全局标签过滤，只会检索包含标签`#task` 的任务。所以要注意添加。
 :::
 
+**tasks任务示例：**  
+- [ ] 这个是系统自带的待办事项
+- [x] 这个是系统自带的待办事项完成
+- [ ] #task 这个是tasks插件添加的任务
+
 ## task面板元素
 **弹出task的面板，界面的意思如下：**  
 1. Description：任务描述，就是正文
-2. Priority：重要程序，依次是 Low 低、Normal一般、Medium中等、High高
+2. Priority：重要程度，依次是 Low 低、Normal一般、Medium中等、High高
 3. Recurs：循环任务，按周期
 4. Due：到期时间
 5. Scheduled：计划任务
 6. Start：开始时间
+7. Status 状态
+	- todo，计划
+	- Done
+	- In Progress
+	- Cancelled
 
 ::: tip 按需填写
 按需填入所需要的信息。我重点使用的只有一个，就是Due 到期时间。当然这与我的任务管理方案有关系，是GTD任务管理的一种拓展。

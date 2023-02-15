@@ -1,4 +1,4 @@
----
+/zh/community-plugins/---
 # 这是文章的标题
 title: Advanced URI
 # 这是侧边栏的顺序
