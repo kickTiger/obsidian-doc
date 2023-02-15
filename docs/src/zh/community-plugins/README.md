@@ -15,6 +15,9 @@ category:
 ⭐️           可用  
 :::
 
+## 精华插件集
+- [精华插件集](/zh/community-plugins/README.md) 🍖由咖啡豆和他的朋友们，使用并推荐。量小但精华！
+
 ## 导航
 1. [Dataview](/zh/community-plugins/dataview.md) ⭐️⭐️⭐️ 增强obsidian的数据查询
 2. [Templater](/zh/community-plugins/templater.md)⭐️⭐️⭐️ 按模板新建md文件
