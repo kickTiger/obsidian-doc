@@ -30,3 +30,20 @@ Advanced URI，高级链接插件，推荐安装。可替换obsidian-url，会�
 在 quickadd 插件中，推荐使用Advanced URI生成的链接
 :::
 
+::: danger 加群交流
+
+如果在使用和学习中有不明白的地方，或者想看看别人的经验
+- 可以查看[进阶用法](/zh/advanced)
+- 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群
+- 可以查看[咖啡豆豆龙_哔哩哔哩](https://space.bilibili.com/618777356)) 视频教程。😜**关注、👍点赞、📀投币一键三连**
+- 示例库（筹备中）
+:::
+
+::: details 🌱【点我-扫码加群】
+![加群交流！先加在拉](/assets/WeChat-QRcode.jpg =300x) 
+::: 
+
+::: details 🍻【点我-打赏】
+![随缘支持](/assets/WeChat-Pay.jpg =x400)
+::: 
+

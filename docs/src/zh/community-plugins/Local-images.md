@@ -29,3 +29,20 @@ Local-images，图片本地化插件，可以将文章中的网络图片下载�
 
 选择  `Local images: Download images locally` 在单页下载图片就可以了。
 
+::: danger 加群交流
+
+如果在使用和学习中有不明白的地方，或者想看看别人的经验
+- 可以查看[进阶用法](/zh/advanced)
+- 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群
+- 可以查看[咖啡豆豆龙_哔哩哔哩](https://space.bilibili.com/618777356)) 视频教程。😜**关注、👍点赞、📀投币一键三连**
+- 示例库（筹备中）
+:::
+
+::: details 🌱【点我-扫码加群】
+![加群交流！先加在拉](/assets/WeChat-QRcode.jpg =300x) 
+::: 
+
+::: details 🍻【点我-打赏】
+![随缘支持](/assets/WeChat-Pay.jpg =x400)
+::: 
+

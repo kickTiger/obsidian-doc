@@ -38,3 +38,21 @@ Editing Toolbar是国内大神`@Cuman`二开的 浮动编辑器，增强了 obsi
 可以添加命令图标到  Editing Toolbar 浮动编辑面板上，设置 → 第三方插件打开 Editing Toolbar → 在工具栏中添加命令，搜索搜索命令添加，然后点击刷新工具栏
 :::
 
+
+::: danger 加群交流
+
+如果在使用和学习中有不明白的地方，或者想看看别人的经验
+- 可以查看[进阶用法](/zh/advanced)
+- 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群
+- 可以查看[咖啡豆豆龙_哔哩哔哩](https://space.bilibili.com/618777356)) 视频教程。😜**关注、👍点赞、📀投币一键三连**
+- 示例库（筹备中）
+:::
+
+::: details 🌱【点我-扫码加群】
+![加群交流！先加在拉](/assets/WeChat-QRcode.jpg =300x) 
+::: 
+
+::: details 🍻【点我-打赏】
+![随缘支持](/assets/WeChat-Pay.jpg =x400)
+::: 
+
