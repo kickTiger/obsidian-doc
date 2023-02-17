@@ -40,7 +40,9 @@ category:
 19. [obsidian-image-captions](/zh/community-plugins/obsidian-image-captions.md) 这个是一个给图片添加注解的插件，会在图片下方居中的位置加上解释。会插入html代码。⭐️⭐
 20. [Commander](/zh/community-plugins/Commander.md)  可以让您添加命令到用户界面的不同部分⭐️⭐️
 21. [Image-Toolkit](/zh/community-plugins/Image-Toolkit.md)  图片增强工具，点击放大查看图片。⭐️⭐️
-22. [obsidian-hk-code-block](/zh/community-plugins/obsidian-hk-code-block.md)  代码块增强插件，显示行号，复制，增加标题，折叠代码，增加提示块。 尝鲜插件，
+22. [obsidian-hk-code-block](/zh/community-plugins/obsidian-hk-code-block.md)  代码块增强插件，显示行号，复制，增加标题，折叠代码，增加提示块。 尝鲜插件🍑
+23. [Better Word Count](/zh/community-plugins/Better-Word-Count.md) 字数统计插件，作者突然更新。有一个很有意思的功能，可以统计当天打的字数。可以统计当前文件，也可以统计全库字符数量
+
 
 ::: tip 插件网盘下载
 一般插件从obsidian社区插件，可以自行下载。
