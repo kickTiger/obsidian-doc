@@ -46,3 +46,4 @@ _gsdata_/
 utils/nohup.out
 
 .DS_Store
+.stignore
