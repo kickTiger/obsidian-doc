@@ -21,7 +21,3 @@ category:
 1. [工作流初探](workflow-guide.md) ：让我们来了解工作流的概念，以及在obsidian中怎么实现工作流
 2. [工作流案例拆解(1)](workflow-case-a.md) ：来！让我们拆一个工作流试试手！
 
-
-![[Pasted image 20230213174829.png#pic_left|300]]
-![[Pasted image 20230213174829.png#pic_center|300]]
-![[Pasted image 20230213174829.png#pic_right|300]]
