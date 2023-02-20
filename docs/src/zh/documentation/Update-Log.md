@@ -25,6 +25,14 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-02-21
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加-社区插件  [Open vault in VSCode](/zh/community-plugins/Open-vault-in-VSCode.md) 将全库直接用vscode打开,简单实用⭐️⭐️
+- 网站增加-社区插件 [MySnippets](/zh/community-plugins/MySnippets.md) css片段管理，生成快捷开关，点击可编辑css片段.⭐️
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站增加插件共享盘，百度网盘，会保持更新插件
+
 ## 2023-02-14
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加社区插件 [Commander](/zh/community-plugins/Commander.md)  可以让您添加命令到用户界面的不同部分 ⭐⭐推荐使用
