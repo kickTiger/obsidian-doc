@@ -36,12 +36,14 @@ category:
 15. [Easy Typing](/zh/community-plugins/Easy-Typing.md) 增强的中英文混合编辑体验 ⭐️⭐️
 16. [Tag Wrangler](/zh/community-plugins/Tag-Wrangler.md) 标签管理扩展插件 ⭐️⭐️
 17. [Local images](/zh/community-plugins/Local-images.md) Local images，图片本地化插件，作者:catalysm。
-18. [Image Auto Upload Plugin](/zh/community-plugins/Image-Auto-Upload-Plugin.md) 是一个图片上传的插件，这是一个支持 PicGo、PicGo-Core 上传图片到图床的工具 
-19. [obsidian-image-captions](/zh/community-plugins/obsidian-image-captions.md) 这个是一个给图片添加注解的插件，会在图片下方居中的位置加上解释。会插入html代码。⭐️⭐
+18. [Image Auto Upload Plugin](/zh/community-plugins/Image-Auto-Upload-Plugin.md) 支持 PicGo、PicGo-Core 上传图片到图床。
+19. [obsidian-image-captions](/zh/community-plugins/obsidian-image-captions.md) 给图片添加注解，会在图片下方居中位置加上解释。⭐️⭐
 20. [Commander](/zh/community-plugins/Commander.md)  可以让您添加命令到用户界面的不同部分⭐️⭐️
 21. [Image-Toolkit](/zh/community-plugins/Image-Toolkit.md)  图片增强工具，点击放大查看图片。⭐️⭐️
-22. [obsidian-hk-code-block](/zh/community-plugins/obsidian-hk-code-block.md)  代码块增强插件，显示行号，复制，增加标题，折叠代码，增加提示块。 尝鲜插件🍑
-23. [Better Word Count](/zh/community-plugins/Better-Word-Count.md) 字数统计插件，作者突然更新。有一个很有意思的功能，可以统计当天打的字数。可以统计当前文件，也可以统计全库字符数量
+22. [obsidian-hk-code-block](/zh/community-plugins/obsidian-hk-code-block.md)  代码块增强插件，显示行号，标题，折叠代码，提示块。 尝鲜插件🍑
+23. [Better Word Count](/zh/community-plugins/Better-Word-Count.md) 字数统计插件，作者突然更新。有点有意思的功能，可统计当天字数。也可统计当前文件或全库字符数量⭐️⭐️⭐️
+24. [Open vault in VSCode](/zh/community-plugins/Open-vault-in-VSCode.md) 将全库直接用vscode打开,简单实用⭐️⭐️
+25. [MySnippets](/zh/community-plugins/MySnippets.md) css片段管理，生成快捷开关，点击可编辑css片段.⭐️
 
 
 ::: tip 插件网盘下载
@@ -50,6 +52,10 @@ category:
 **网络不好，网盘下载。**
 obsidian插件-咖啡豆文档站coffeetea.top 
 不限速下载：https://www.123pan.com/s/M5P0Vv-K4463 提取码:9Zgs
+
+**百度网盘比较齐全也比较新**
+链接：https://pan.baidu.com/s/1Wvv9nzChzVPjJTssdzyxJw?pwd=36tz 
+提取码：36tz
 
 :::
 ::: info 更新日志
