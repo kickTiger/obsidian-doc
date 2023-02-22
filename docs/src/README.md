@@ -1,7 +1,7 @@
 ---
 home: true
 icon: home
-title: 项目主页
+title: Obsidian文档咖啡豆版
 heroImage: /logo.svg
 heroText: Obsidian文档咖啡豆版☕️
 tagline: Obsidian文档和使用技巧 | 本站由Obsidian构建
