@@ -1,0 +1,15 @@
+/* 
+@Author   : 咖啡豆
+@contact  : https://coffeetea.top/
+@File     : coffeebean-callout加边框.css
+@Software : vscode
+@Date     : 2023-02-21
+@upDate   : 2023-02-21
+@Desc     : callout 加边框
+*/
+
+/* 2023-02-21 coffeebean 修改callout 左侧边框 */
+.callout {
+  border-left: 4px solid !important;
+  border-left-color: rgb(var(--callout-color)) !important;
+}
