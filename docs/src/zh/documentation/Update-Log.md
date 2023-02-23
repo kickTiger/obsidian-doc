@@ -25,6 +25,15 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-02-23
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加-最佳实践-[obsidian长文写作最佳实践](/zh/best-practices/obsidian-Longform.md) 实现方便的进行论文、小说等长篇的写作。
+- 网站增加-进阶用法-tasks1和task2，合集完成，以及 tasks插件文档视频使用方法讲解。
+	- [task插件](/zh/community-plugins/tasks.md)
+	- [tasks进阶(1)](/zh/advanced/tasks进阶(1).md)
+	- [tasks进阶(2)](/zh/advanced/tasks进阶(2).md)
+<BiliBili bvid="BV12y4y1d7N6" />
+
 ## 2023-02-21
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加-社区插件  [Open vault in VSCode](/zh/community-plugins/Open-vault-in-VSCode.md) 将全库直接用vscode打开,简单实用⭐️⭐️
