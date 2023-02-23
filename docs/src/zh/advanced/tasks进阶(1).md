@@ -8,7 +8,7 @@ icon: page
 ---
 ## task插件简介
 在 [task](/zh/community-plugins/tasks.md) 介绍一文，我们已经了解到task是 obsidian 的人务管理插件。他可以实现丰富的任务管理。
-
+<BiliBili bvid="BV12y4y1d7N6" />
 ### 演示1:obsidian四象限(咖啡豆原创制作)
 ![obsidian四象限](/assets/Obsidian_WE64ijIAsy-w750.png) 
 

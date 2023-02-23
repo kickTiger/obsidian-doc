@@ -31,6 +31,7 @@ category:
 ## 导航
 - [obsidian更换正文字体为霞鹭字体](/zh/best-practices/obsidian-font-LXGW.md) 不修改主题让你的obsidian变得更漂亮
 - [我想让obsidian图片居中对齐](/zh/best-practices/image-align.md) 尝试让图片居中对齐、左对齐、右对齐
+- [obsidian长文写作的最佳实践](/zh/best-practices/obsidian-Longform.md) obsidian写作长文的时候总是不顺手，我们尝试一种新的方式写作，写攻略、写论文、或者是小说？
 
 
 

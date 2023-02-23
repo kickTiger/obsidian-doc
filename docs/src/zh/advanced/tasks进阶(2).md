@@ -9,7 +9,7 @@ icon: page
 ::: tip
 本章节主要分析 tasks 插件的语法
 :::
-
+<BiliBili bvid="BV12y4y1d7N6" />
 上一篇讲解了tasks 插件的基本操作，如何添加tasks任务和一些小技巧。下面我们主要研究 tasks的一些查询语法。
 
 
