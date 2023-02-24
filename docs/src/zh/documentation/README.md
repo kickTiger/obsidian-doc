@@ -27,13 +27,13 @@ category:
 ![加群交流！先加在拉](/assets/WeChat-QRcode.jpg =300x) 
 ::: 
 ## 2 工具
-- [markdown语法](../markdown/) 📚工具手册，建议收藏备用
-- [核心插件](./core-plugins/) 🐱了解下实用的核心插件
-- [社区插件](../community-plugins) 💯obsidian的核心，充满活力的生态环境
+- [markdown语法](/zh/markdown/) 📚工具手册，建议收藏备用
+- [核心插件](/zh/core-plugins/) 🐱了解下实用的核心插件
+- [社区插件](/zh/community-plugins) 💯obsidian的核心，充满活力的生态环境
 
 ## 3 进阶
-- [进阶用法](../advanced/advanced) 🍋里面是一些插件的高级用法
-- [obsidian工作流](../workflow) 🎉源于真实工作流案例的分解
+- [进阶用法](/zh/advanced/) 🍋里面是一些插件的高级用法
+- [obsidian工作流](/zh/workflow) 🎉源于真实工作流案例的分解
 - [obsidian最佳实践](/zh/best-practices/) 👍通过拆解工作学习的小场景，构建高效的工作流
 
 ## 4 Dataview专栏
