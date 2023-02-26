@@ -44,7 +44,7 @@ category:
 23. [Better Word Count](/zh/community-plugins/Better-Word-Count.md) 字数统计插件，作者突然更新。有点有意思的功能，可统计当天字数。也可统计当前文件或全库字符数量⭐️⭐️⭐️
 24. [Open vault in VSCode](/zh/community-plugins/Open-vault-in-VSCode.md) 将全库直接用vscode打开,简单实用⭐️⭐️
 25. [MySnippets](/zh/community-plugins/MySnippets.md) css片段管理，生成快捷开关，点击可编辑css片段.⭐️
-26. [Number Headings]() 给标题自动编序号 ⭐️⭐️
+26. [Number Headings](/zh/community-plugins/Number-Headings.md) 给标题自动编序号 ⭐️⭐️
 27. [Project](/zh/community-plugins/Project.md) Project 插件用来可视化管理项目笔记⭐️⭐️⭐️推荐
 
 
