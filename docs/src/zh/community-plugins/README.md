@@ -46,6 +46,7 @@ category:
 25. [MySnippets](/zh/community-plugins/MySnippets.md) css片段管理，生成快捷开关，点击可编辑css片段.⭐️
 26. [Number Headings](/zh/community-plugins/Number-Headings.md) 给标题自动编序号 ⭐️⭐️
 27. [Project](/zh/community-plugins/Project.md) Project 插件用来可视化管理项目笔记⭐️⭐️⭐️推荐
+28. [Any Block]() 给obsidian增加各种块，包括tab标签切换。 🍑尝鲜插件
 
 
 ::: tip 插件网盘下载
