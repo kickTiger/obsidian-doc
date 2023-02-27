@@ -1,6 +1,6 @@
 ---
 # 这是文章的标题
-title: Project可视化项目管理
+title: Project
 # 这是侧边栏的顺序
 order: 27
 # 这是页面的图标
