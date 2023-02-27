@@ -29,10 +29,11 @@ category:
 :::
 
 ## 导航
-- [obsidian更换正文字体为霞鹭字体](/zh/best-practices/obsidian-font-LXGW.md) 不修改主题让你的obsidian变得更漂亮
-- [我想让obsidian图片居中对齐](/zh/best-practices/image-align.md) 尝试让图片居中对齐、左对齐、右对齐
-- [obsidian 能写小说长文吗？可以](/zh/best-practices/obsidian-Longform.md) obsidian写作长文的时候总是不顺手，我们尝试一种新的方式写作，写攻略、写论文、或者是小说？
-- [提升长文写作体验-自动编号](/zh/best-practices/obsidian-Number-Headings.md) 对小说论文等长文写作，自动添加序号
-- [对小说长文写作管理]() 使用Project插件对小说论文等长文写作，进行项目管理，添加各种字段控制。
+1. [obsidian更换正文字体为霞鹭字体](/zh/best-practices/obsidian-font-LXGW.md) 不修改主题让你的obsidian变得更漂亮
+2. [我想让obsidian图片居中对齐](/zh/best-practices/image-align.md) 尝试让图片居中对齐、左对齐、右对齐
+3. [obsidian 能写小说长文吗？可以](/zh/best-practices/obsidian-Longform.md) obsidian写作长文的时候总是不顺手，我们尝试一种新的方式写作，写攻略、写论文、或者是小说？
+4. [提升长文写作体验-自动编号](/zh/best-practices/obsidian-Number-Headings.md) 对小说论文等长文写作，自动添加序号
+5. [obsidian更好的项目管理体验](/zh/best-practices/Obsidian-Plugins-Project.md) 多视图的项目管理，灵活的自定义字段控制
+6. [对小说论文写作管理](/zh/best-practices/obsidian-project-longform.md) 使用Project插件对小说论文等长文写作，进行项目管理，添加各种字段控制。
 
 
