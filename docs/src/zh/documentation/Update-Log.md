@@ -25,6 +25,31 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-02-27
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加：社区插件[Number Headings](/zh/community-plugins/Number-Headings.md) 给标题自动编序号 ⭐️⭐️
+- 网站增加：社区插件[Project](/zh/community-plugins/Project.md) Project 插件用来可视化管理项目笔记⭐️⭐️⭐️推荐
+- 网站增加：社区插件[Any Block](/zh/community-plugins/README.md) 给obsidian增加各种块，包括tab标签切换。 🍑尝鲜插件
+- 网站增加：社区插件[Longform](/zh/community-plugins/Longform.md)长文写作插件⭐️⭐️⭐️推荐
+- 网站增加：最佳实践
+	- [提升长文写作体验-自动编号](/zh/best-practices/obsidian-Number-Headings.md) 对小说论文等长文写作，自动添加序号
+	- [obsidian更好的项目管理体验](/zh/best-practices/Obsidian-Plugins-Project.md) 多视图的项目管理，灵活的自定义字段控制
+	- [对小说论文写作管理](/zh/best-practices/obsidian-project-longform.md) 使用Project插件对小说论文等长文写作，进行项目管理，添加各种字段控制。
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站增加更新日志，方便查看网站的更新。
+- 网站增加更新日志，方便查看网站的更新。
+
+**📝变更** <Badge text="Changed" type="note" />   
+- 网站增加更新日志，方便查看网站的更新。
+- 网站增加更新日志，方便查看网站的更新。
+
+**🐛修复** <Badge text="Fixed" type="note" />  
+- 网站增加更新日志，方便查看网站的更新。
+- 网站增加更新日志，方便查看网站的更新。
+
+**📝计划** <Badge text="Plan" type="note" />  
+- 网站增加更新日志，方便查看网站的更新。
 ## 2023-02-24
 **🐛修复** <Badge text="Fixed" type="note" />  
 - 网站修复：一些错误的链接，感谢群友们的反馈。

@@ -20,6 +20,14 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
     {
+      text: "CoffeeTea.TOP.SHOW",
+      icon: "advance",
+      prefix: "Coffeetea.TOP.SHOW/",
+      link: "Coffeetea.TOP.SHOW/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
       text: "obsidian最佳实践",
       icon: "note",
       prefix: "best-practices/",
