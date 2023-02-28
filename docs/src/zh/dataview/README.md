@@ -1,4 +1,5 @@
 ---
+number headings: auto, first-level 2, max 6, start-at 1, 1.1
 title: Obsidian Dataview 综合文档
 index: true
 icon: discover
@@ -28,19 +29,19 @@ category:
 :::
 # Dataview 导航
 
-## 初识Dataview
+## 1 初识Dataview
 - [初识Dataview插件](/zh/community-plugins/dataview.md) 😀
 
-## Dataview进阶
+## 2 Dataview进阶
 - [Dataview进阶(1) | obsidian文档咖啡豆版](/zh/advanced/Dataview进阶(1).md) 😁
 - [Dataview进阶(2) | obsidian文档咖啡豆版](/zh/advanced/Dataview进阶(2).md) 😍
 
-## Dataview代码分享
+## 3 Dataview代码分享
 - [Dataview代码列表](/zh/dataview-snippets/) 🍊
 - [dataview-查文件夹所有文件](/zh/dataview-snippets/dataview查文件夹所有文件.md) 🍌
 - [dataview-查指定标签的文件](/zh/dataview-snippets/dataview查指定标签的文件.md) 🌻
 - [dataviewjs-查关键字所在行内容](/zh/dataview-snippets/dataviewjs-查关键字所在行的内容.md) 🌻
 
-## Dataview函数速查
+## 4 Dataview函数速查
 - [dataview函数](/zh/dataview/dataview-function.md)🎉
 - [dataviewjs函数](/zh/dataview/dataviewjs-fuction.md)🌻
