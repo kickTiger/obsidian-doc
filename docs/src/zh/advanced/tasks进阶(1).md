@@ -1,4 +1,5 @@
 ---
+number headings: auto, first-level 2, max 6, start-at 1, 1.1
 # 这是文章的标题
 title: Tasks进阶(1)
 # 这是侧边栏的顺序
@@ -6,16 +7,16 @@ order: 7
 # 这是页面的图标
 icon: page
 ---
-## task插件简介
+## 1 task插件简介
 在 [task](/zh/community-plugins/tasks.md) 介绍一文，我们已经了解到task是 obsidian 的人务管理插件。他可以实现丰富的任务管理。
 <BiliBili bvid="BV12y4y1d7N6" />
-### 演示1:obsidian四象限(咖啡豆原创制作)
+### 1.1 演示1:obsidian四象限(咖啡豆原创制作)
 ![obsidian四象限](/assets/Obsidian_WE64ijIAsy-w750.png) 
 
-### 演示2：obsidian回顾面板(咖啡豆原创制作)
+### 1.2 演示2：obsidian回顾面板(咖啡豆原创制作)
 ![obsidian回顾面板](/assets/Obsidian_k70QbE5PE9-w750.png)
 
-## task插件的优势
+## 2 task插件的优势
 以上的演示，除了样式比较好看外，还可以自动获取task添加的任务。
 - 可以按照事情的轻重缓急，时间限定显示。
 - 可以实时刷新。
@@ -23,15 +24,15 @@ icon: page
 
 除了系统默认基础设置，task 插件还提供了众多的语法，可以实现更灵活的查询方式。可以达到或者查过市面上的TODO类型的软件。task也支持在移动版上使用。
 
-## task插件的使用方法
-### 1/3 安装
+## 3 task插件的使用方法
+### 3.1 1/3 安装
 ::: tip 插件安装
 打开 obsidian → 设置 ⚙️ → 第三方插件 → 社区插件市场，搜索关键字安装
 
 注意：你需要关闭第三方插件的**安全模式**，才能安装社区插件，建议关闭。
 :::
 
-###  2/3 配置
+### 3.2 2/3 配置
 tasks 插件无需过多配置。但是有一点要注意，经过测试，如果不开启 Global task filter的话，会导致obsidian很卡。
 ::: warning
 强烈推荐：安装 tasks 插件后，开启 Global task filter 全局标签过滤。
@@ -39,7 +40,7 @@ tasks 插件无需过多配置。但是有一点要注意，经过测试，如�
 - 在这里填写 `#task` 。意思是过滤包含`#task`标签的任务。
 :::
 
-### 3/3 使用
+### 3.3 3/3 使用
 **常规添加task任务：**
 1. 首先添加任务，输入内容
 2. 然后在 命令面板，输入 task，选择Tasks: Create or edit task。
@@ -65,7 +66,7 @@ tasks 插件无需过多配置。但是有一点要注意，经过测试，如�
 - [x] 这个是系统自带的待办事项完成
 - [ ] #task 这个是tasks插件添加的任务
 
-## task面板元素
+## 4 task面板元素
 **弹出task的面板，界面的意思如下：**  
 1. Description：任务描述，就是正文
 2. Priority：重要程度，依次是 Low 低、Normal一般、Medium中等、High高

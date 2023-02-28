@@ -1,22 +1,17 @@
 ---
 # 这是文章的标题
-title: 常见操作
+title: obsidian程序下载
 # 这是侧边栏的顺序
-order: 6
+order: 4
 # 这是页面的图标
 icon: page
 ---
 
-### 1 将网页嵌入到文件中
-其实我感觉这个不是常见操作，但是没地方搁，放着里大家看看
-```html
-<iframe src="这里放完整的网页链接"></iframe>
-```
-
-插入一个无边框的 网页。如果需要完全铺满整个markdown页面，那需要单独的css配合。[CSS片段-满屏无边距](/zh/css-snippets/css-full-screen.md) 
-```html
-<iframe border=0 frameborder=0 height=1000 width=100% src="这里放完整的网页链接"> </iframe>
-```
+## obsidian各版本下载地址
+- obsidian官方网站：https://obsidian.md/ 
+- **官方发布：**[Obsidian 安装包](https://thoughts.teambition.com/share/62a131711a6baa00416a79d3#title=Obsidian_%E5%AE%89%E8%A3%85%E5%8C%85) 各平台版本、各个历史版本
+- **官方发布：** 安卓版安装包：[安卓版 (lanzoue.com)](https://wwdx.lanzoue.com/b030yr97g) 密码：9lj5
+- iOS版本：直接是应用市场搜索`obsidian`下载
 
 ::: danger 加群交流
 
