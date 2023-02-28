@@ -1,5 +1,5 @@
 ---
-title: Coffeetea.TOP.SHOW 咖啡豆和他的朋友们分享会
+title: Coffeetea.TOP SHOW 咖啡豆和他的朋友们分享会
 index: false
 icon: discover
 category:
