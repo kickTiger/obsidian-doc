@@ -1,4 +1,5 @@
 ---
+number headings: auto, first-level 2, max 6, start-at 1, 1.1
 # 这是文章的标题
 title: Dataviewjs-函数集合
 # 这是侧边栏的顺序
@@ -8,3 +9,6 @@ icon: page
 # 控制左侧显示层数(只显示2层)，但是右侧会显示3级
 headerDepth: 2
 ---
+
+
+

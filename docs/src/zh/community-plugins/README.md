@@ -47,6 +47,7 @@ category:
 26. [Number Headings](/zh/community-plugins/Number-Headings.md) 给标题自动编序号 ⭐️⭐️
 27. [Project](/zh/community-plugins/Project.md) Project 插件用来可视化管理项目笔记⭐️⭐️⭐️推荐
 28. [Any Block](/zh/community-plugins/README.md) 给obsidian增加各种块，包括tab标签切换。 🍑尝鲜插件
+29. [Longform](/zh/community-plugins/Longform.md)长文写作插件⭐️⭐️⭐️推荐
 
 
 ::: tip 插件网盘下载
