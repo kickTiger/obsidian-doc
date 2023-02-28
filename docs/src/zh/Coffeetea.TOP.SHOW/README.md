@@ -1,11 +1,11 @@
 ---
-title: Coffeetea.TOP.SHOW 咖啡和他的朋友们分享会
+title: Coffeetea.TOP.SHOW 咖啡豆和他的朋友们分享会
 index: false
 icon: discover
 category:
   - 进阶用法
 ---
-## ☕Coffeetea.TOP SHOW 咖啡和他的朋友们分享会
+## ☕Coffeetea.TOP SHOW 咖啡豆和他的朋友们分享会
 本来是群内部分享会，但是有朋友想问发布渠道。为了方便大家查看和回看，特意建立本栏目。
 
 ::: warning 鸣谢📢
