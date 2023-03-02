@@ -9,10 +9,10 @@ icon: page
 headerDepth: 2
 ---
 **插件简介：**  
-Style Settings，主题样式定制，提供调整主题、插件和片段的CSS变量
+Longform，是长文写作的插件，非常不错的插件。推荐使用⭐️⭐️⭐️
 
 ::: warning
-只对接入了`Style-Settings`规则的主题、插件和片段起作用。需要配合主题等使用
+详细的使用方法可以参考其他的几篇文章。玩法很丰富
 :::
 
 **插件安装：**
@@ -23,8 +23,17 @@ Style Settings，主题样式定制，提供调整主题、插件和片段的CSS
 :::
 
 **插件使用：**  
-非常简单，不做赘述，打开设置进入插件，按需使用。
-::: tip
-如果你安装的主题想修改的话，推荐你安装 `Style-Settings` 插件试试，排名在前的几个插件都支持部分自定义项。
-:::
+详细的时候，需要查看这几篇实战文章。
+
+
+**扩展阅读**：
+- [obsidian 能写小说论文长文吗？ | obsidian文档咖啡豆版](https://coffeetea.top/zh/best-practices/obsidian-Longform.html)
+- [提升长文写作体验-自动编号 | obsidian文档咖啡豆版](https://coffeetea.top/zh/best-practices/obsidian-Number-Headings.html)
+- [obsidian更好的项目管理体验 | obsidian文档咖啡豆版](https://coffeetea.top/zh/best-practices/Obsidian-Plugins-Project.html)
+- [对小说论文写作管理 | obsidian文档咖啡豆版](https://coffeetea.top/zh/best-practices/obsidian-project-longform.html)
+- [Scroll to Top Plugin | obsidian文档咖啡豆版](https://coffeetea.top/zh/community-plugins/Scroll-to-Top-Plugin.html)
+
+
+
+
 
