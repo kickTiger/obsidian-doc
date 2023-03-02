@@ -55,3 +55,7 @@ https://meeting.tencent.com/dm/m9ujua36lko7
 2023年02月26日20:00-21:00(GMT+8)✅
 :::
 
+## 分享会参考资料
+- [Zotero批注 - 动作信息 - Quicker](https://getquicker.net/Sharedaction?code=f1cc5785-c68f-4bee-4729-08da2019a39f)
+- [lowercasename/docdown: A menu bar app to convert Markdown into academia-ready Word documents](https://github.com/lowercasename/docdown)
+-  
