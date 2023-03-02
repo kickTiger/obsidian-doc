@@ -25,6 +25,10 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-03-02
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站新增社区插件 [Scroll to Top Plugin](/zh/community-plugins/Scroll-to-Top-Plugin.md) 快速回到顶部底部，一个简单实用的插件，⭐️ 🍑可尝鲜插件
+
 ## 2023-02-27
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加：社区插件[Number Headings](/zh/community-plugins/Number-Headings.md) 给标题自动编序号 ⭐️⭐️
