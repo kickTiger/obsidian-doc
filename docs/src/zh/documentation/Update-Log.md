@@ -25,6 +25,13 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-03-03
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站社区插件 [Reveal Active File](/zh/community-plugins/Reveal-Active-File.md) 快速跳转文件列表。
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站优化调整部分链接，网站结构顺序，更方便阅读
+
 ## 2023-03-02
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站新增社区插件 [Scroll to Top Plugin](/zh/community-plugins/Scroll-to-Top-Plugin.md) 快速回到顶部底部，一个简单实用的插件，⭐️ 🍑可尝鲜插件
@@ -33,7 +40,7 @@ icon: page
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加：社区插件[Number Headings](/zh/community-plugins/Number-Headings.md) 给标题自动编序号 ⭐️⭐️
 - 网站增加：社区插件[Project](/zh/community-plugins/Project.md) Project 插件用来可视化管理项目笔记⭐️⭐️⭐️推荐
-- 网站增加：社区插件[Any Block](/zh/community-plugins/README.md) 给obsidian增加各种块，包括tab标签切换。 🍑尝鲜插件
+- 网站增加：社区插件[Any Block](/zh/community-plugins/Any-Block.md) 给obsidian增加各种块，包括tab标签切换。 🍑尝鲜插件
 - 网站增加：社区插件[Longform](/zh/community-plugins/Longform.md)长文写作插件⭐️⭐️⭐️推荐
 - 网站增加：最佳实践
 	- [提升长文写作体验-自动编号](/zh/best-practices/obsidian-Number-Headings.md) 对小说论文等长文写作，自动添加序号
