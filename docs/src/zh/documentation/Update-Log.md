@@ -25,9 +25,13 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-03-04
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站社区插件[task archiver](/zh/community-plugins/task-archiver.md) 归档任务插件，自动将已完成的任务移动归档，可在当前文件也可指定文件。⭐️⭐️
+
 ## 2023-03-03
 **✨新增** <Badge text="Features" type="tip" />  
-- 网站社区插件 [Reveal Active File](/zh/community-plugins/Reveal-Active-File.md) 快速跳转文件列表。
+- 网站社区插件 [Reveal Active File](/zh/community-plugins/Reveal-Active-File.md) 快速跳转文件列表。⭐️⭐️
 
 **⚡️优化** <Badge text="Refactored" type="warning" />  
 - 网站优化调整部分链接，网站结构顺序，更方便阅读
