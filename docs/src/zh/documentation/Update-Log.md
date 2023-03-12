@@ -25,6 +25,15 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-03-12
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加css片段 [CSS片段-清除任务的删除线](/zh/css-snippets/coffeebean-del-checklist-done-decoration.md) 清除task任务的删除线。
+
+
+## 2023-03-08
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加 [plugin update tracker](/zh/community-plugins/plugin-update-tracker.md) 提示插件更新，并显示更新日志
+
 ## 2023-03-04
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站社区插件[task archiver](/zh/community-plugins/task-archiver.md) 归档任务插件，自动将已完成的任务移动归档，可在当前文件也可指定文件。⭐️⭐️
@@ -51,20 +60,6 @@ icon: page
 	- [obsidian更好的项目管理体验](/zh/best-practices/Obsidian-Plugins-Project.md) 多视图的项目管理，灵活的自定义字段控制
 	- [对小说论文写作管理](/zh/best-practices/obsidian-project-longform.md) 使用Project插件对小说论文等长文写作，进行项目管理，添加各种字段控制。
 
-**⚡️优化** <Badge text="Refactored" type="warning" />  
-- 网站增加更新日志，方便查看网站的更新。
-- 网站增加更新日志，方便查看网站的更新。
-
-**📝变更** <Badge text="Changed" type="note" />   
-- 网站增加更新日志，方便查看网站的更新。
-- 网站增加更新日志，方便查看网站的更新。
-
-**🐛修复** <Badge text="Fixed" type="note" />  
-- 网站增加更新日志，方便查看网站的更新。
-- 网站增加更新日志，方便查看网站的更新。
-
-**📝计划** <Badge text="Plan" type="note" />  
-- 网站增加更新日志，方便查看网站的更新。
 ## 2023-02-24
 **🐛修复** <Badge text="Fixed" type="note" />  
 - 网站修复：一些错误的链接，感谢群友们的反馈。
