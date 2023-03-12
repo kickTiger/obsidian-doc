@@ -145,6 +145,7 @@ Windows 下载 KopiaUI-Setup.exe 才会有安装界面
 3. **设置备份文件**，选择**要备份**的文件夹路径，Enter path to snapshot
 4. **设置备份频率**，点击`Scheduling|安排时间表`，设定自动备份的频率，我设定的`every 3 hours`每3个小时一次。
 
+![KopiaUI-备份频率设置](/assets/KopiaUI_UpFYWmN2UM.png)
 ::: danger 记录好仓库地址和密码
 第1步的`仓库地址和密码`，请记录好。以后可能会用到！
 :::

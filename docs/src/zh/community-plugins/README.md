@@ -51,6 +51,7 @@ category:
 30. [Scroll to Top Plugin](/zh/community-plugins/Scroll-to-Top-Plugin.md) 快速回到顶部底部，一个简单实用的插件，⭐️ 🍑可尝鲜插件
 31. [Reveal Active File](/zh/community-plugins/Reveal-Active-File.md) 快速聚焦打开的文件，有点意思 ⭐️⭐️
 32. [task archiver](/zh/community-plugins/task-archiver.md) 归档任务插件，自动将已完成的任务移动归档，可在当前文件也可指定文件。⭐️⭐️
+33. [plugin update tracker](/zh/community-plugins/plugin-update-tracker.md) 提示插件更新，并显示更新日志
 
 
 ::: tip 插件网盘下载

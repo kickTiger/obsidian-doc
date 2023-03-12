@@ -16,3 +16,4 @@ category:
 8. [满屏无边距](css-full-screen.md) 实现全屏的效果，两边没有边框。比如嵌入整个网页。
 9. [代码渲染-黑色主题](code-rendering-okaidia.md) 代码块着色的方案，这是黑色主题
 10. [自定义右侧文件列表文件夹和文件图标](css-fileicon.md) 修改自定义右侧文件列表文件夹和文件图标
+11. [CSS片段-清除任务的删除线](/zh/css-snippets/coffeebean-del-checklist-done-decoration.md) 清除task任务的删除线
