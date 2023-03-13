@@ -25,6 +25,11 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-03-13
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加 dataviewjs 代码，[dataviewjs-限定标签-查关键字所在行内容](/zh/dataview-snippets/Dvjs-QueryTags-inlineKeywords.md) 限定指定标签的文件，在查询指定关键字所在的行内容 By  `@Simon` 
+
+
 ## 2023-03-12
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加css片段 [CSS片段-清除任务的删除线](/zh/css-snippets/coffeebean-del-checklist-done-decoration.md) 清除task任务的删除线。
