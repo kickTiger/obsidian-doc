@@ -52,6 +52,7 @@ category:
 31. [Reveal Active File](/zh/community-plugins/Reveal-Active-File.md) 快速聚焦打开的文件，有点意思 ⭐️⭐️
 32. [task archiver](/zh/community-plugins/task-archiver.md) 归档任务插件，自动将已完成的任务移动归档，可在当前文件也可指定文件。⭐️⭐️
 33. [plugin update tracker](/zh/community-plugins/plugin-update-tracker.md) 提示插件更新，并显示更新日志
+34. [open weather](/zh/community-plugins/obsidian-open-weather.md) 一个调用接口显示实时天气的插件，能够在底部状态栏显示天气。也能在日记里插入天气的纯文本。
 
 
 ::: tip 插件网盘下载
