@@ -20,8 +20,7 @@ obsidian open weather，一个很有意思的小插件，调用了免费的天�
 ::: warning 新增功能
 2023-03-19 我给作者提了两个 `issue` 和我的解决代码：
 1. 让天气显示为中文，和多语言支持。（2023-03-19作者已完成）
-2. 用emoji表情对应天气。（作者已列入计划中，应该在本周完成）
-
+2. 用emoji表情对应天气。（作者已列入计划中，2023-03-23已完成）
 :::
 
 
@@ -72,12 +71,16 @@ Beijing: March 19 - 12:36 PM
 ### 3 修改状态栏显示的内容⛅
 
 ```js
-%dateYear1%/%dateMonth2%/%dateDay2%/ |天气: %desc% | 温度: %temp%°C  |  日落: %sunset%
+%dateYear1%/%dateMonth2%/%dateDay2%/ |天气: %desc% %desc-em% | 温度: %temp%°C  |  日落: %sunset%
 ```
 
 这里会显示，`2023/03/18 | 天气:小雨|温度:8°C|日落:18:37:03`
 
 也可以根据自己的需要更改这里的参数，系统默认的是每15分钟更新一次天气数据
+
+::: tip 新增emoji天气图标
+新增特性，emoji 天气符号，使用命令`%desc-em%`
+:::
 
 ### 4 修改天气🌞描述为中文
 在设置中，选择`language`，选择为“Chinese Simplified”即可。
