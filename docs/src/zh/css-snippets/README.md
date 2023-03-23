@@ -17,3 +17,4 @@ category:
 9. [代码渲染-黑色主题](code-rendering-okaidia.md) 代码块着色的方案，这是黑色主题
 10. [自定义右侧文件列表文件夹和文件图标](css-fileicon.md) 修改自定义右侧文件列表文件夹和文件图标
 11. [CSS片段-清除任务的删除线](/zh/css-snippets/coffeebean-del-checklist-done-decoration.md) 清除task任务的删除线
+12. [增强图片对齐语法](/zh/css-snippets/image-alignment-syntax.md) 对于不能使用对齐语法的，可以使用这个css片段，然后对齐语法就会生效

@@ -25,6 +25,15 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-03-23
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加插件，[open weather](/zh/community-plugins/obsidian-open-weather.md) 一个调用接口显示实时天气的插件，能够在底部状态栏显示天气。也能在日记里插入天气的纯文本。
+- css片段新增，[增强图片对齐语法](/zh/css-snippets/image-alignment-syntax.md) 对于不能使用对齐语法的，可以使用这个css片段，然后对齐语法就会生效
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 将[Markdown图片对齐语法](/zh/markdown/图片.md)优化调整，加强了说明
+- 将Markdown图片对齐语法增加了[增强图片对齐语法](/zh/css-snippets/image-alignment-syntax.md) 升级了功能
+
 ## 2023-03-13
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加 dataviewjs 代码，[dataviewjs-限定标签-查关键字所在行内容](/zh/dataview-snippets/Dvjs-QueryTags-inlineKeywords.md) 限定指定标签的文件，在查询指定关键字所在的行内容 By  `@Simon` 

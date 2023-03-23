@@ -32,6 +32,6 @@ Project 插件用来可视化管理项目笔记，通过使用前言 front matte
 很适合对于项目的单独控制，而且可以对任何文档添加Project项目。
 
 **扩展阅读：**
-- [最佳实践-Project管理项目]() 使用Project进行项目管理的详细教程
-- [最佳实践-使用Project管理Longform长文写作]() 使用Project管理Longform插件的长文写作
+- [最佳实践-Project管理项目](/zh/best-practices/Obsidian-Plugins-Project.md) 使用Project进行项目管理的详细教程
+- [最佳实践-使用Project管理Longform长文写作](/zh/best-practices/obsidian-project-longform.md) 使用Project管理Longform插件的长文写作
 
