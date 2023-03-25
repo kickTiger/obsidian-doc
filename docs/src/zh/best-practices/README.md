@@ -35,5 +35,6 @@ category:
 4. [提升长文写作体验-自动编号](/zh/best-practices/obsidian-Number-Headings.md) 对小说论文等长文写作，自动添加序号
 5. [obsidian更好的项目管理体验](/zh/best-practices/Obsidian-Plugins-Project.md) 多视图的项目管理，灵活的自定义字段控制
 6. [对小说论文写作管理](/zh/best-practices/obsidian-project-longform.md) 使用Project插件对小说论文等长文写作，进行项目管理，添加各种字段控制。
+7. [网站剪藏稍后读]() 一键收藏浏览器网址或网站文字到obsidian中
 
 
