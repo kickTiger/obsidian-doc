@@ -27,7 +27,7 @@ icon: page
 ::: 
 ## 2023-03-25
 **✨新增** <Badge text="Features" type="tip" />  
-- 网站增加社区插件，[便捷调整图片尺寸](/zh/community-plugins/mousewheel-image-zoom.md) 使用鼠标滚轮快捷调整图片的尺寸 ⭐⭐和添加语法`|600`效果一致
+- 网站增加社区插件，[便捷调整图片尺寸](/zh/community-plugins/mousewheel-image-zoom.md) 使用鼠标滚轮快捷调整图片的尺寸 ⭐⭐和添加语法`|600`效果一致 `@山人`投稿
 
 
 ## 2023-03-23
