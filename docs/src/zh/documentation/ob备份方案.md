@@ -139,6 +139,14 @@ sudo systemctl start syncthing@username.service
 Windows 下载 KopiaUI-Setup.exe 才会有安装界面
 :::
 
+::: tip KopiaUI下载
+为了方便无法下载GitHub的同学，原版搬运
+- KopiaUI-0.12.1-win https://www.123pan.com/s/M5P0Vv-Rw463.html 提取码: hS7B
+- KopiaUI-0.12.1-arm64.dmg https://www.123pan.com/s/M5P0Vv-Dw463.html 提取码:cKem
+- KopiaUI-0.12.1-mac https://www.123pan.com/s/M5P0Vv-rw463.html 提取码:wVSs
+:::
+
+
 ### 2/2 配置
 1. **新建仓库**，安装后会让你选择一个仓库文件夹 Repository，保存好仓库的密码
 2. **新建快照**，打开菜单 Snapshots|快照，在 `My Repository|我的资料库` 下，选择 `New Snapshot|新的快照`， 新建一个备份快照。
