@@ -109,8 +109,8 @@ Beijing: March 19 - 12:36 PM
 @tab 插入天气2️⃣#id2
 ````js
 %name%: %dateMonth4% %dateDay2% - %timeH2%:%timeM% %ampm1%
-当前温度: %temp%°C • 体感温度: %feels%°C
-风力: %wind-speed% km/h from the %wind-dir%^ with gusts up to %wind-gust% km/h^
+当前温度: %temp%°C • 体感温度: %feels%°C<br>
+风力: %wind-speed% km/h from the %wind-dir%^ with gusts up to %wind-gust% km/h^<br>
 日升: %sunrise% • 日落: %sunset%
 ````
 
