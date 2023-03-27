@@ -56,10 +56,14 @@ Beijing: March 19 - 12:36 PM
 **插件使用：**  
 ### 1 注册免费天气接口 📖
 
-这里使用了 [https://openweathermap.or](https://openweathermap.or/) 的免费天气接口，效果还不错，接口可以直接访问。信息比较丰富。注册方法：
+这里使用了 [https://openweathermap.org](https://openweathermap.org/) 的免费天气接口，效果还不错，接口可以直接访问。信息比较丰富。注册方法：
 
-1.  打开 [https://openweathermap.or](https://openweathermap.or/) ，注册。[注册页面](https://home.openweathermap.org/users/sign_up) 
+1.  打开 [https://openweathermap.org](https://openweathermap.org/) ，注册。[注册页面](https://home.openweathermap.org/users/sign_up) 
 2.  右上角用户名点击，“My API keys”，复制 api 接口即可
+
+::: warning
+注意：根据实测，api审核生效可能要等10分钟到2小时左右，如果显示失败的话，可以稍等后尝试。
+:::
 
 ### 2 填入天气 api 接口和城市 📌
 
@@ -67,6 +71,7 @@ Beijing: March 19 - 12:36 PM
 
 -   Enter Location，输入你需要查询城市的名称（拼音的全拼）
 -   OpenWeather API Key，输入获取的 api 接口
+
 
 ### 3 修改状态栏显示的内容⛅
 
@@ -80,6 +85,10 @@ Beijing: March 19 - 12:36 PM
 
 ::: tip 新增emoji天气图标
 新增特性，emoji 天气符号，使用命令`%desc-em%`
+:::
+
+::: warning 状态栏内容太多的处理
+如果你的状态栏，原始内容太多，可以使用[Commander](/zh/community-plugins/Commander.md) 插件隐藏一部分不需要的内容。就可以放下天气了
 :::
 
 ### 4 修改天气🌞描述为中文

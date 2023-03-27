@@ -25,6 +25,10 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-03-27
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站插件[open weather](/zh/community-plugins/obsidian-open-weather.md) 天气插件的说明进行优化，增加对状态栏自定义的说明
+
 ## 2023-03-26
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加 [主题下载](/zh/documentation/obsidian-themes-download.md) 🚀160个主题都在这里了，无法下载的看过来
