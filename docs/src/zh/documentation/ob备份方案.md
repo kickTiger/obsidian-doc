@@ -135,7 +135,7 @@ sudo systemctl start syncthing@username.service
 ### 1/2 下载和安装
 打开官网 [kopia(github.com)](https://github.com/kopia/kopia) 下载对应的版本。
 
-::: warning 自定义标题
+::: warning 
 Windows 下载 KopiaUI-Setup.exe 才会有安装界面
 :::
 
