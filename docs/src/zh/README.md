@@ -24,13 +24,23 @@ features:
 
 - title: 主题丰富
   icon: palette
-  details: 官方社区中有大量主题供选择，也可以自己修改样式，开放的css片段让你能满足所有的样式定制。
-  link: /zh/documentation/
+  details: 官方社区中有大量主题供选择，也可以自己修改样式，开放的css片段让你能满足所有的样式定制。【本站提供主题下载】
+  link: /zh/documentation/obsidian-themes-download.md
 
-- title: 完善的生态
+- title: 插件丰富生态完整
   icon: layout
-  details: 借助于全球的爱好者和开发者，obsidian的生态发展的非常好，目前已经有822个社区插件
-  link: /zh/documentation/
+  details: 借助于全球的爱好者和开发者，obsidian的生态发展的非常好，目前已经有接近900个社区插件【本站提供插件下载】
+  link: /zh/documentation/obsidian-plugins-download.md
+
+- title: Coffeetea.TOP SHOW 
+  icon: comment
+  details: 咖啡豆和他的朋友们分享会，在社群中互助互帮，分享彼此使用obsidian的经验心得
+  link: /zh/Coffeetea.TOP.SHOW/
+
+- title: 工作流分享
+  icon: blog
+  details: 利用obsidian的插件，能够完美的实现你的工作流。快来试试搭建你自己的工作流。参考咖啡豆的工作流思考
+  link: /zh/workflow/
 
 - title: 基于双链
   icon: comment
@@ -40,11 +50,6 @@ features:
 - title: 快速查找
   icon: info
   details: 借助双链和知识图谱的搭建，你会发现找到笔记会如此的轻松，前所未有的体验。
-  link: /zh/documentation/
-
-- title: 工作流
-  icon: blog
-  details: 利用obsidian的插件，能够完美的实现你的工作流。快来试试搭建你自己的工作流
   link: /zh/documentation/
 
 - title: 幻灯片页面

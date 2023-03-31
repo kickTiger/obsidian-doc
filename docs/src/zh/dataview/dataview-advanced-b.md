@@ -144,7 +144,7 @@ sort file.name desc
 
 `file.name`、`file.tags`、`file.path`、`file.folder` 等等众多的隐式字段都可以使用。但是注意有些字段是时间格式，不能错误。
 
-> **参考文档**：[隐式字段](dataview进阶(1).md#隐式字段)
+> **参考文档**：[隐式字段](dataview-advanced-a.md#隐式字段)
 
 ### 3.3 date(any) 日期函数
 从提供的字符串、日期或链接对象中分析日期（如果可能），否则返回nul
@@ -197,7 +197,7 @@ limit 20
 ## 4 Where 过滤器-查自定义字段
 我们也可以查询自定义字段，也就是前文所讲的 `frontmatter` 和 `inline 内联字段`
 
-> 参考资料：[自定义 Frontmatter前言](dataview进阶(1).md#自定义Frontmatter前言)
+> 参考资料：[自定义 Frontmatter前言](dataview-advanced-a.md#自定义Frontmatter前言)
 
 
 
