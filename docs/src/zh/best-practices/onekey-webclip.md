@@ -1,6 +1,6 @@
 ---
 # 这是文章的标题
-title: 强调
+title: 一键收藏网址和内容到ob
 # 这是侧边栏的顺序
 order: 4
 # 这是页面的图标
@@ -14,10 +14,15 @@ headerDepth: 2
 我研究了一种比较方便的方法，能够实现将网址和选中的文字直接写进 Obsidian 库中，以便稍后阅读。主要是使用了obsidian插件和浏览器插件Obsidian Web，具体配置方法如下：
 
 
-::: tip
-- 可通过浏览器直接操作 ob 库，比如按照设定好的 template 记录摘录网页内容
-- 也可以别的程序通过 api 接口操作 obsidian 库，
+::: tip summary
+> - 可通过浏览器直接操作 ob 库，比如按照设定好的 template 记录摘录网页内容
+> - 也可以别的程序通过 api 接口操作 obsidian 库，
+
+::: tip 自定义标题
+info note tip warning danger details(默认折叠)
+details(这个是默认折叠的)
 :::
+
 
 ## 2 首先 obsidian 安装 Local REST API 插件
 安装：第三方库中搜索 `Local REST API` 插件，然后安装并启用。
@@ -40,11 +45,9 @@ headerDepth: 2
 
 输入第一步中获取的 api key，也就是 obsidian Local REST API 插件中的 key。回车保存即可。
 
-::: tip
-如果在浏览器插件显示 Local REST API 未启用
-
-注意：如果在浏览器插件显示 Local REST API 未启用，可以打开 Local REST API 的 `Enable Insecure HTTP Server` 模式，这样就会直接调用 `http` 模式，一样能启用接口
-:::
+> [!question]+ 如果在浏览器插件显示 Local REST API 未启用
+> 注意：如果在浏览器插件显示 Local REST API 未启用
+> 可以打开 Local REST API 的 `Enable Insecure HTTP Server` 模式，这样就会直接调用 `http` 模式，一样能启用接口
 
 ## 4 第三步：刷新页面并使用 obsidian web 插件
 安装完毕后，刷新网页，点击 obsidian web 插件图标，出来的菜单，选择你要使用的动作。
@@ -92,4 +95,4 @@ Heading: Read-later
 {{quote page.selectedText}}
 {{/if}}
 ```
-
+:::

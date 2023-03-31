@@ -33,8 +33,8 @@ category:
 - [初识Dataview插件](/zh/community-plugins/dataview.md) 😀
 
 ## 2 Dataview进阶
-- [Dataview进阶(1) | obsidian文档咖啡豆版](/zh/advanced/Dataview进阶(1).md) 😁
-- [Dataview进阶(2) | obsidian文档咖啡豆版](/zh/advanced/Dataview进阶(2).md) 😍
+- [Dataview进阶(1) | obsidian文档咖啡豆版](dataview-advanced-a.md) 😁
+- [Dataview进阶(2) | obsidian文档咖啡豆版](dataview-advanced-b.md) 😍
 
 ## 3 Dataview代码分享
 - [Dataview代码列表](/zh/dataview-snippets/) 🍊
