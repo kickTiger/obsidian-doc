@@ -8,7 +8,7 @@ category:
 ## 进阶目录
 1. [tasks进阶(1)](tasks进阶(1).md)
 2. [tasks进阶(2)](tasks进阶(2).md)
-3. [quickadd进阶](quickadd进阶.md)
+3. [quickadd进阶教程(1)](/zh/advanced/quickadd-advanced-a.md)
 4. [obsidian网页剪藏](obsidian网页剪藏.md)
 5. [正则表达式](regular-expression.md) 整理几十个常用的正则表达式，直接复制使用即可
 
