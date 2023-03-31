@@ -25,6 +25,15 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-03-31
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加 [quickadd进阶教程(1)](/zh/advanced/quickadd-advanced-a.md) 
+- 网站新增 [初识obsidian](/zh/documentation/初识obsidian.md) 中增加 obsidian的 应用案例 16个，提供参考
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站优化首页 导航链接
+- 网站优化 dataview专区文章，调整部分文章整合区域
+
 ## 2023-03-27
 **⚡️优化** <Badge text="Refactored" type="warning" />  
 - 网站插件[open weather](/zh/community-plugins/obsidian-open-weather.md) 天气插件的说明进行优化，增加对状态栏自定义的说明
