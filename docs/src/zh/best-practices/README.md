@@ -36,5 +36,6 @@ category:
 5. [obsidian更好的项目管理体验](/zh/best-practices/Obsidian-Plugins-Project.md) 多视图的项目管理，灵活的自定义字段控制
 6. [对小说论文写作管理](/zh/best-practices/obsidian-project-longform.md) 使用Project插件对小说论文等长文写作，进行项目管理，添加各种字段控制。
 7. [网站剪藏稍后读]() 一键收藏浏览器网址或网站文字到obsidian中
+8. [Chrome访问NewBing的方法](/zh/best-practices/Chrome_New_Bing.md) 稳定的Chrome访问NewBing方法
 
 

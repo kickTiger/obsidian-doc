@@ -25,6 +25,11 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-04-05
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站  [插件下载](/zh/documentation/obsidian-plugins-download.md) ，所有插件更新到2023-04-05版本，距离上次更新了19个插件
+- 网站 [主题下载](/zh/documentation/obsidian-themes-download.md)  ，更新所有主题到 2023-04-05版本，距离上次更新了19个主题
+
 ## 2023-03-31
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加 [quickadd进阶教程(1)](/zh/advanced/quickadd-advanced-a.md) 
