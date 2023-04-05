@@ -29,6 +29,8 @@ icon: page
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站  [插件下载](/zh/documentation/obsidian-plugins-download.md) ，所有插件更新到2023-04-05版本，距离上次更新了19个插件
 - 网站 [主题下载](/zh/documentation/obsidian-themes-download.md)  ，更新所有主题到 2023-04-05版本，距离上次更新了19个主题
+- 网站增加 [Chrome访问NewBing的方法](/zh/best-practices/Chrome_New_Bing.md) 稳定的Chrome访问NewBing方法 ⭐⭐⭐推荐
+
 
 ## 2023-03-31
 **✨新增** <Badge text="Features" type="tip" />  
