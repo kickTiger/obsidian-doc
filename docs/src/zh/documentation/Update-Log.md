@@ -25,6 +25,10 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-04-07
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加 [YAML](/zh/markdown/yaml.md) 语法的讲解，可和dataview结合
+
 ## 2023-04-05
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站  [插件下载](/zh/documentation/obsidian-plugins-download.md) ，所有插件更新到2023-04-05版本，距离上次更新了19个插件
