@@ -60,7 +60,7 @@ icon: page
 - css片段新增，[增强图片对齐语法](/zh/css-snippets/image-alignment-syntax.md) 对于不能使用对齐语法的，可以使用这个css片段，然后对齐语法就会生效
 
 **⚡️优化** <Badge text="Refactored" type="warning" />  
-- 将[Markdown图片对齐语法](/zh/markdown/图片.md)优化调整，加强了说明
+- 将[Markdown图片对齐语法](image.md)优化调整，加强了说明
 - 将Markdown图片对齐语法增加了[增强图片对齐语法](/zh/css-snippets/image-alignment-syntax.md) 升级了功能
 
 ## 2023-03-13

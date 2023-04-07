@@ -54,6 +54,7 @@ category:
 33. [plugin update tracker](/zh/community-plugins/plugin-update-tracker.md) 提示插件更新，并显示更新日志
 34. [open weather](/zh/community-plugins/obsidian-open-weather.md) 一个调用接口显示实时天气的插件，能够在底部状态栏显示天气。也能在日记里插入天气的纯文本。
 35. [便捷调整图片尺寸](/zh/community-plugins/mousewheel-image-zoom.md) 使用鼠标滚轮快捷调整图片的尺寸 ⭐⭐和添加语法`|600`效果一致
+36. [Quick Switcher+ +]() Quick Switcher+ + 一个快速切换的综合工具
 
 
 ::: tip 插件网盘下载

@@ -12,7 +12,7 @@ headerDepth: 2
 其实图片的对齐很早就解决了，我在obsidian中已经实现了。但不知道为什么在不同的用户那里，效果不一致。于是有了今天的解决方案：
 
 ## 1 基本方案对齐
-在obsidian中，利用 markdown 语法可以直接让图片居中。具体语法参考[markdown图片语法](/zh/markdown/图片.md)。详细描述了，下面给出一个具体示例：
+在obsidian中，利用 markdown 语法可以直接让图片居中。具体语法参考[markdown图片语法](image.md)。详细描述了，下面给出一个具体示例：
 
 **示例：**
 
