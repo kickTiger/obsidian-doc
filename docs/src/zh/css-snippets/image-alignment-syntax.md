@@ -9,7 +9,7 @@ icon: page
 headerDepth: 2
 ---
 **说明：**  
-为Obsidian新增图片对齐的语法，详见[图片语法](/zh/markdown/图片.md)
+为Obsidian新增图片对齐的语法，详见[图片语法](image.md)
 ::: warning 这样调用
 这个是加上图片尺寸
 ```markdown
