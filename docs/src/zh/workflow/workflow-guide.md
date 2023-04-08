@@ -181,7 +181,7 @@ index(索引页) 方式，也叫做MOC(Maps of Content)。但我更愿意称之�
  1. **快速**的启动，[button](/zh/community-plugins/button.md)、[workspace](/zh/community-plugins/Workspaces-Plus.md)、homepage
  2. **收集**灵活，[quickadd](/zh/community-plugins/quickadd.md) 捕获，
  3. **固定**的格式，[template](/zh/community-plugins/templater.md)，
- 4.**恢复**场景，[workspace](/zh/community-plugins/Workspaces-Plus.md)，[button](/zh/community-plugins/button.md)  
+ 4. **恢复**场景，[workspace](/zh/community-plugins/Workspaces-Plus.md)，[button](/zh/community-plugins/button.md)  
  5. **自动整理**，[dataview](/zh/community-plugins/dataview.md) 查询、Auto Note Mover 文件自动移动
 
 ## 3.不断优化工作流⭐️
