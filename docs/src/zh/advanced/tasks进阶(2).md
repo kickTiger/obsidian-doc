@@ -437,7 +437,7 @@ short mode        # 短模式，按照一定的规则
 ```
 @tab 重要程度
 ```markdown
-priority is hight # low，medium，high 分别是低/中/高
+priority is high # low，medium，high 分别是低/中/高
 priority is low
 priority is medium
 ```
