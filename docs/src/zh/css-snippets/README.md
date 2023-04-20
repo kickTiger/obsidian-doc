@@ -18,3 +18,15 @@ category:
 10. [自定义右侧文件列表文件夹和文件图标](css-fileicon.md) 修改自定义右侧文件列表文件夹和文件图标
 11. [CSS片段-清除任务的删除线](/zh/css-snippets/coffeebean-del-checklist-done-decoration.md) 清除task任务的删除线
 12. [增强图片对齐语法](/zh/css-snippets/image-alignment-syntax.md) 对于不能使用对齐语法的，可以使用这个css片段，然后对齐语法就会生效
+
+::: tip 添加启动css片段的方法
+1. 打开obsidian设置 → 外观 → CSS 代码片段，点击此处的文件夹图标📁，打开css片段文件夹
+2. 复制你的css文件到这个文件夹，回到obsidian中，刷新并启动片段。偶尔需要重启ob生效
+:::
+
+**插件安装：**
+::: tip 插件安装
+打开 obsidian → 设置 ⚙️ → 第三方插件 → 社区插件市场，搜索关键字安装
+
+注意：你需要关闭第三方插件的**安全模式**，才能安装社区插件，建议关闭。
+:::
