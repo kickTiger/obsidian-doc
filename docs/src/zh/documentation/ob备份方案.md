@@ -141,9 +141,8 @@ Windows 下载 KopiaUI-Setup.exe 才会有安装界面
 
 ::: tip KopiaUI下载
 为了方便无法下载GitHub的同学，原版搬运
-- KopiaUI-0.12.1-win https://www.123pan.com/s/M5P0Vv-Rw463.html 提取码: hS7B
-- KopiaUI-0.12.1-arm64.dmg https://www.123pan.com/s/M5P0Vv-Dw463.html 提取码:cKem
-- KopiaUI-0.12.1-mac https://www.123pan.com/s/M5P0Vv-rw463.html 提取码:wVSs
+- KopiaUI 全系统版本下载，找到自己对应的版本下载
+https://www.123pan.com/s/M5P0Vv-en463.html 提取码: jOmF
 :::
 
 

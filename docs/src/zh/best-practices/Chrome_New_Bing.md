@@ -29,7 +29,6 @@ headerDepth: 2
     -   有些朋友这里改过了之后，每次在打开网页就会变。但我的不会变，之所以这里推荐安装 [Sidekick](https://join.meetsidekick.com/7o7xy) 浏览器的关键点就在这里，会保持你的这个账号环境。
 
 
-
 ::: tip Success
 - 推荐安装 [Sidekick](https://join.meetsidekick.com/7o7xy) 浏览器的关键点就在这里，会保持你的这个账号环境。 
 - 如果不使用这个浏览器的话，每次重开地区就会恢复

@@ -25,6 +25,19 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-04-20
+**✨新增** <Badge text="Features" type="tip" />  
+- 更新 KopiaUl 下载地址，最新版本是  v0.13.0-rc2 ，酌情下载
+- 近期更新文章，有些在公众号里面，会慢慢同步过来。也可以移步公众号观看,公众号名称`蹦跶的咖啡豆`
+
+::: code-tabs
+@tab 公众号名称：右下角可复制
+```markdown
+蹦跶的咖啡豆
+```
+:::
+
+
 ## 2023-04-07
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加 [YAML](/zh/markdown/yaml.md) 语法的讲解，可和dataview结合
