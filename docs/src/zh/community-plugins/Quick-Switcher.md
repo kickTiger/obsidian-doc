@@ -25,7 +25,7 @@ Quick Switcher++，是一款快速切换的插件，可以用来做系统快速�
 
 有下面几种切换模式
 
-![[2023050316042937.png]]
+![](/assets/2023050316042937.png)
 
 ### 搜索标题
 ![headings-mode.gif (2030×1596) (raw.githubusercontent.com)](https://raw.githubusercontent.com/darlal/obsidian-switcher-plus/master/demo/headings-mode.gif)
@@ -37,7 +37,6 @@ Quick Switcher++，是一款快速切换的插件，可以用来做系统快速�
 ![](https://raw.githubusercontent.com/darlal/obsidian-switcher-plus/master/demo/editor-mode.gif)
 
 ### 在打开的编辑器之间导航
-[[2023050318061651.png]]
 ![](/assets/2023050318061651.png)
 
 **插件安装：**
