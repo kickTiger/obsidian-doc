@@ -25,6 +25,11 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-05-04
+**✨新增** <Badge text="Features" type="tip" />  
+- 公众号里更新了一些文章，可以关注下。众号名称`蹦跶的咖啡豆`
+- 新增 社区插件 [Quick-Switcher++](/zh/community-plugins/Quick-Switcher.md) 快速切换小能手
+
 ## 2023-04-20
 **✨新增** <Badge text="Features" type="tip" />  
 - 更新 KopiaUl 下载地址，最新版本是  v0.13.0-rc2 ，酌情下载
@@ -77,7 +82,7 @@ icon: page
 - css片段新增，[增强图片对齐语法](/zh/css-snippets/image-alignment-syntax.md) 对于不能使用对齐语法的，可以使用这个css片段，然后对齐语法就会生效
 
 **⚡️优化** <Badge text="Refactored" type="warning" />  
-- 将[Markdown图片对齐语法](image.md)优化调整，加强了说明
+- 将[Markdown图片对齐语法](/zh/markdown/image.md)优化调整，加强了说明
 - 将Markdown图片对齐语法增加了[增强图片对齐语法](/zh/css-snippets/image-alignment-syntax.md) 升级了功能
 
 ## 2023-03-13
@@ -203,7 +208,7 @@ icon: page
 ## 2023-02-09
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加新专题[ Dataview专栏](/zh/dataview/README.md) 更方便查阅
-- 网站增加最佳实践 [obsidian更换字体为霞鹭字体](obsidian-font-LXGW.md)，适合中文阅读的字体，效果十分好看，点击查看。
+- 网站增加最佳实践 [obsidian更换字体为霞鹭字体](/zh/best-practices/obsidian-font-LXGW.md)，适合中文阅读的字体，效果十分好看，点击查看。
 
 **⚡️优化** <Badge text="Refactored" type="warning" />  
 - 优化网站栏目顺序，将 最佳实践和dataview专栏移动到前面来
@@ -239,7 +244,7 @@ icon: page
 :::
 
 **彩蛋🎁放一个播放视频的测试**：福利
-<BiliBili bvid="BV1UM4y197RT" />
+<BiliBili bvid="BV1Y54y1F7zA" />
 
 ## 2023-02-05
 **新增 Features**  

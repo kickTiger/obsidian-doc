@@ -21,14 +21,14 @@ category:
 ## 导航
 1. [Dataview](/zh/community-plugins/dataview.md) ⭐️⭐️⭐️ 增强obsidian的数据查询
 2. [Templater](/zh/community-plugins/templater.md)⭐️⭐️⭐️ 按模板新建md文件
-3. [Quickadd](quickadd.md)⭐️⭐️⭐️ 制作快捷命令，提高obsidian的效率
+3. [Quickadd](/zh/community-plugins/quickadd.md)⭐️⭐️⭐️ 制作快捷命令，提高obsidian的效率
 4. [Advanced URI](/zh/community-plugins/Advanced-URI.md) ⭐️⭐️⭐️高级链接，替换obsidian-url
 5. [tasks](/zh/community-plugins/tasks.md)⭐️⭐️ 任务管理增强，在ob里实现todolist清单记事
 6. [button](/zh/community-plugins/button.md) ⭐️⭐️ 按钮制作插件，打造你的obsidian成一个小系统
 7. [various-complements](/zh/community-plugins/various-complements.md) ⭐️⭐️ 自动补齐短语
 8. [Workspaces Plus](/zh/community-plugins/Workspaces-Plus.md) ⭐️⭐️⭐️ 工作空间增强，增强效率，打造工作场景
 9. [Style Settings](/zh/community-plugins/Style-Settings.md) ⭐️主题样式定制，提供调整主题、插件和片段的CSS变量
-10. [Quiet Outline](quiet-outline.md)  ⭐️⭐️ 增强型大纲插件，按需自动展开大纲，可设定展开层级
+10. [Quiet Outline](/zh/community-plugins/quiet-outline.md)  ⭐️⭐️ 增强型大纲插件，按需自动展开大纲，可设定展开层级
 11. [Editing Toolbar](/zh/community-plugins/Editing-Toolbar.md) ⭐️⭐️⭐️ 增强 obsidian 的编辑体验。提供类似于word的浮动编辑面板。
 12. [增强编辑插件](/zh/community-plugins/Enhanced-editing.md) ⭐️⭐️⭐️增强编辑插件，提供大量命令，能方便的修改标题等级
 13. [Auto-Note-Mover](/zh/community-plugins/auto-note-mover.md) ⭐️⭐️⭐️ 根据规则自动移动文件到指定文件夹
@@ -54,7 +54,7 @@ category:
 33. [plugin update tracker](/zh/community-plugins/plugin-update-tracker.md) 提示插件更新，并显示更新日志
 34. [open weather](/zh/community-plugins/obsidian-open-weather.md) 一个调用接口显示实时天气的插件，能够在底部状态栏显示天气。也能在日记里插入天气的纯文本。
 35. [便捷调整图片尺寸](/zh/community-plugins/mousewheel-image-zoom.md) 使用鼠标滚轮快捷调整图片的尺寸 ⭐⭐和添加语法`|600`效果一致
-36. [Quick Switcher+ +]() Quick Switcher+ + 一个快速切换的综合工具
+36. [Quick Switcher+ +](/zh/community-plugins/Quick-Switcher.md) Quick Switcher+ + 一个快速切换的综合工具
 
 
 ::: tip 插件网盘下载

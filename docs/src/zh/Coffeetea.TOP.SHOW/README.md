@@ -90,8 +90,9 @@ Coffeetea.TOP SHOW 第四期
 ## 视频回放
 ### obsidian工作流解密-文科研究工作流分享(1)二宝学长
 
-<BiliBili bvid="BV1gX4y167d1"/>
+<BiliBili bvid="BV1Go4y1h75x"/>
 
 ### obsidian工作流解密-文科研究工作流分享(2)二宝学长
 
-<BiliBili bvid="BV1kt411o7C3" />
+<BiliBili bvid="BV1gX4y167d1"/>
+
