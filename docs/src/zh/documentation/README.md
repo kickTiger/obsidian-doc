@@ -41,8 +41,8 @@ category:
 ## 4 Dataview专栏
 - [dataview专栏](/zh/dataview/) 🌻
 - [初识Dataview插件](/zh/community-plugins/dataview.md) 😀
-- [Dataview进阶(1) | obsidian文档咖啡豆版](dataview-advanced-a.md) 😁
-- [Dataview进阶(2) | obsidian文档咖啡豆版](dataview-advanced-b.md) 😍
+- [Dataview进阶(1) | obsidian文档咖啡豆版](/zh/dataview/dataview-advanced-a.md) 😁
+- [Dataview进阶(2) | obsidian文档咖啡豆版](/zh/dataview/dataview-advanced-b.md) 😍
 - [Dataview代码列表](/zh/dataview-snippets/) 🍊
 - [dataview-查文件夹所有文件](/zh/dataview-snippets/dataview查文件夹所有文件.md) 🍌
 - [dataview-查指定标签的文件](/zh/dataview-snippets/dataview查指定标签的文件.md) 🌻

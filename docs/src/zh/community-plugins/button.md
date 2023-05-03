@@ -38,7 +38,7 @@ button的使用
 3. `在需要插入button` 的地方，打开命令面板，搜索button，选择 `Buttons: Insert Inline Button`，输入  button的 id，就插入了。切换到阅读模式看效果
 
 ::: tip
-如果你想得到更好的效果，建议继续阅读 [进阶用法](进阶用法.md)
+如果你想得到更好的效果，建议继续阅读[进阶用法](/zh/advanced)
 :::
 
 ::: danger 加群交流

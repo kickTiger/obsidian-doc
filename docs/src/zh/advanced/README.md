@@ -6,11 +6,11 @@ category:
   - 进阶用法
 ---
 ## 进阶目录
-1. [tasks进阶(1)](tasks进阶(1).md)
-2. [tasks进阶(2)](tasks进阶(2).md)
+1. [tasks进阶(1)](/zh/advanced/tasks进阶(1).md)
+2. [tasks进阶(2)](/zh/advanced/tasks进阶(2).md)
 3. [quickadd进阶教程(1)](/zh/advanced/quickadd-advanced-a.md)
-4. [obsidian网页剪藏](obsidian网页剪藏.md)
-5. [正则表达式](regular-expression.md) 整理几十个常用的正则表达式，直接复制使用即可
+4. [obsidian网页剪藏](/zh/advanced/obsidian网页剪藏.md)
+5. [正则表达式](/zh/advanced/regular-expression.md) 整理几十个常用的正则表达式，直接复制使用即可
 
 ::: danger 加群交流
 如果在使用和学习中有不明白的地方，或者想看看别人的经验
@@ -37,8 +37,8 @@ category:
 - [初识Dataview插件](/zh/community-plugins/dataview.md) 😀
 
 ## 2 Dataview进阶
-- [Dataview进阶(1) | obsidian文档咖啡豆版](dataview-advanced-a.md) 😁
-- [Dataview进阶(2) | obsidian文档咖啡豆版](dataview-advanced-b.md) 😍
+- [Dataview进阶(1) | obsidian文档咖啡豆版](/zh/dataview/dataview-advanced-a.md) 😁
+- [Dataview进阶(2) | obsidian文档咖啡豆版](/zh/dataview/dataview-advanced-b.md) 😍
 
 ## 3 Dataview代码分享
 - [Dataview代码列表](/zh/dataview-snippets/) 🍊
