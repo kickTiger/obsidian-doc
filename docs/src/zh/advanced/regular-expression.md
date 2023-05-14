@@ -3,7 +3,7 @@ number headings: auto, first-level 3, max 6, start-at 1, 1.1
 # 这是文章的标题
 title: 正则表达式
 # 这是侧边栏的顺序
-order: 4
+order: 6
 # 这是页面的图标
 icon: page
 # 控制左侧显示层数(只显示2层)，但是右侧会显示3级
