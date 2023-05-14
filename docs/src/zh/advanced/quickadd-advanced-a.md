@@ -3,7 +3,7 @@ number headings: auto, first-level 2, max 6, start-at 1, 1.1
 # 这是文章的标题
 title: Quickadd进阶
 # 这是侧边栏的顺序
-order: 3
+order: 4
 # 这是页面的图标
 icon: page
 ---
@@ -148,6 +148,7 @@ Template 命令就是从指定模板新建文件，到指定文件
 - 可以查看[进阶用法](/zh/advanced)
 - 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群
 - 可以查看[咖啡豆豆龙_哔哩哔哩](https://space.bilibili.com/618777356)) 视频教程。😜**关注、👍点赞、📀投币一键三连**
+- 关注公众号(文章很多)：`蹦跶的咖啡豆
 - 示例库（筹备中）
 :::
 

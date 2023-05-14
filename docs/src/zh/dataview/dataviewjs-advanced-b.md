@@ -6,6 +6,4 @@ order: 5
 # 这是页面的图标
 icon: page
 ---
-::: tip 施工中
-挖坑待填
-:::
+请直接阅读 [dataviewjs函数解读](/zh/dataview/dataviewjs-advanced-b.md)
