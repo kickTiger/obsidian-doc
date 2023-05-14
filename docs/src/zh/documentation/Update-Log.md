@@ -26,6 +26,24 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-05-14
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加 [dataviewjs函数](/zh/dataview/dataviewjs-fuction.md)🌻 第一版正式上线，后续会增加更多的类比进行学习。
+- 网站增加 [tasks进阶(3)](/zh/advanced/tasks进阶(3).md) ，补充 tasks中更多的函数和方法，后续持续会优化
+- 增加B站视频 **# obsidian咖啡豆教程 | 无JS-全自动插入静态天气的日记模板-喂饭模板一文搞定生活日记工作日志**
+<BiliBili bvid="BV1m24y1T7k7" />
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站文件链接更合理。
+
+**🐛修复** <Badge text="Fixed" type="note" />  
+- 网站部分链接错误
+-  修复视频自动播放的错误，还有部分错误的视频。
+
+
+
+
+
 ## 2023-05-04
 **✨新增** <Badge text="Features" type="tip" />  
 - 公众号里更新了一些文章，可以关注下。众号名称`蹦跶的咖啡豆`
