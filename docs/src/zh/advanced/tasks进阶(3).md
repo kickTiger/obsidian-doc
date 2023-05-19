@@ -165,9 +165,9 @@ return await this.app.plugins.plugins['obsidian-tasks-plugin'].apiV1.createTaskL
 ````
 
 #### 7.1.1 创建快速添加捕获
-![[2023051201014117.png]]
+![](/assets/2023051201014117.png)
 #### 7.1.2 配置快速添加捕获
-![[2023051201014142.png]]
+![](/assets/2023051201014142.png)
 QuickAdd捕获设置的屏幕截图（示例）
 
-![[2023051201014156.png]]
+![](/assets/2023051201014156.png)

@@ -87,7 +87,7 @@ sort file.ctime desc
 我们不必要记住这么多，只需要知道有这么个东西。需要的时候查询[本文档](https://coffeetea.top)即可。  
 所以收藏本文档，防走失！
 :::
-**页面隐式字段**
+### 3.2 file.文件隐式字段
 -   `file.name`: 文件标题（一个字符串）.
 -   `file.folder`: 这个文件所属的文件夹的路径.
 -   `file.path`: 完整的文件路径（一个字符串）.
@@ -112,7 +112,7 @@ sort file.ctime desc
 如果你使用obsidian核心插件 "Starred Files"，以下元数据也是可用的。
 -   `file.starred`: 如果这个文件已经被 "stars " obsidian插件加了星号。
 
-**task隐式字段**
+### 3.3 task.待办隐式字段
 -   `status`: 该任务的完成状态，由`[]`括号内的字符决定。一般来说，空格`" "`表示未完成的任务，X`"X"`表示完成的任务，但允许支持其他任务状态的插件。
 -   `checked`: 该任务是否以任何方式被检查过（即它的状态不是未完成/空的）。.
 -   `completed`: 这个_具体的_任务是否已经完成；这不考虑任何子任务的完成/未完成情况。如果一项任务被标记为 "X"，则明确视为 "完成"。.
@@ -135,7 +135,7 @@ sort file.ctime desc
 -   `annotated`: 如果任务有任何自定义注解，则为真，否则为假.
 -   `parent`: 这个任务上面的任务的行号，如果存在的话；如果这是一个根级任务，则为空。.
 -   `blockId`: 该任务/列表元素的块ID, if one has been defined with the `^blockId` syntax; otherwise null.
-### 3.2 自定义Frontmatter前言
+### 3.4 自定义Frontmatter前言
 ::: info Frontmatter 是什么
 Frontmatter 是一个常见的 Markdown 扩展，它允许将 YAML 元数据添加到页面顶部。
 **注意：他必须在页面的最顶部**
@@ -192,7 +192,7 @@ WHERE 想法.等级 = 8
 - 特别注意，在查询和定义是时候，`:`、`""`、`.` 这些符号必须是英文符号
 - 单词之间用空格间隔
 :::
-### 3.3 自定义inline 内联字段
+### 3.5 自定义inline 内联字段
 就是可以在正文中插入的字段，也可以被 dataview 所查询。但是一般情况下，应该尽量避免使用，因为太零散了不容易管理。
 1/2 定义内联字段
 ::: code-tabs
@@ -214,7 +214,7 @@ LIST
 WHERE 书名 = obsidian
 ```
 ````
-### 3.4 小结：先定义字段再查询
+### 3.6 小结：先定义字段再查询
 除了 dataview 自动插入的隐式字段，其他的字段需要我们自定义
 - 页面顶部的 Frontmatter 字段是常见的方式
 - 页面正文的 内联字段 是辅助的定义方式
