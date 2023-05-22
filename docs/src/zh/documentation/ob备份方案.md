@@ -78,6 +78,8 @@ Syncthing 是基于web界面管理的，也有UI界面。不过web界面也很�
 ### 1/3 下载安装
 > GitHub：https://github.com/syncthing/syncthing
 
+> Syncthing国内下载：https://www.123pan.com/s/M5P0Vv-PK463.html提取码:IAoA 
+
 ::: tip 找对应系统安装包
 Windows的选择 syncthing-windows-amd64，其他系统一般下载 amd64 的安装包即可
 :::
