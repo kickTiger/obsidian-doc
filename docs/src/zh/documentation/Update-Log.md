@@ -26,6 +26,25 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+## 2023-07-11
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站更新了首页的新版Logo，跟随官方的版本。
+- 网站更新了新版Logo-favicon.ico，跟随官方的版本。
+
+**📝变更** <Badge text="Changed" type="note" />   
+- 网站修改了YAML的语法，补充了部分语法
+- 网站其他的若干优化和修改，修正了部分内容。
+
+
+**📝计划** <Badge text="Plan" type="note" />  
+- 正在整理适合新手的Obsidian完整课程，减少新手的迷茫期，一步到位的喂饭教程
+- 正在制作中级选手的Obsidian中级课程，重点在插件的使用配置，以及多插件的联动，还有工作流在Obsidian中的实践。
+- 正在制作中的咖啡豆示例库，偏重于工作流和插件联动。注重高速高效的示例库，回归最根本的笔记本身。
+- 敬请期待，可关注公众号和加群获取最新的消息。
+
+📢[加群交流](/zh/documentation/community.md) 
+
 ## 2023-05-14
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加 [dataviewjs函数](/zh/dataview/dataviewjs-fuction.md)🌻 第一版正式上线，后续会增加更多的类比进行学习。
