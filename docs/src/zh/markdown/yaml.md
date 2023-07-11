@@ -125,3 +125,14 @@ tags:
   - cooking
 ```
 :::
+
+::: code-tabs
+@tab 引用cssclass，这个css只在单页面中生效
+````markdown
+---
+cssclass: coffeebean-full-screen
+---
+````
+:::
+
+> [点击：这里有我写的大量CSS片段使用](/zh/css-snippets/)
