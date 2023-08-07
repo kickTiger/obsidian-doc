@@ -26,6 +26,29 @@ icon: page
 ::: details 🍻【点我-打赏】
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
+![扫码关注 公众号【蹦跶的咖啡豆】-**内容多更新快**](/assets/2023072422104650.png =400x)
+
+## 2023-08-07
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站更新Obsidian插件到最新版本-共计 **`1050`** 个插件，[Obsidian插件高速下载](/zh/documentation/obsidian-plugins-download.md)
+	- 推荐订阅上面链接中的百度网盘地址，有最新的更新能够及时得到通知。
+- 网站更新Obsidian主题到最新版本，共计167个主题。[主题下载](/zh/documentation/obsidian-themes-download.md) 
+- **注意：都是国内高速下载，请务必保存方便更新**
+- 公众号新增文章若干，敬请关注。
+
+![扫码关注 公众号【蹦跶的咖啡豆】-**内容多更新快**](/assets/2023072422104650.png =400x)
+
+## 2023-07-24
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加🌞 [Obsidian全部插件简介-随官网实时更新](/zh/community-plugins/community-plugins-index.md)，会实时更新官方插件。强烈推荐收藏+关注
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站优化部分文章细节，调整文案。
+- 公众号新增文章若干，敬请关注。
+
+![扫码关注 公众号【蹦跶的咖啡豆】-**内容多更新快**](/assets/2023072422104650.png =400x)
+
+
 ## 2023-07-11
 
 **⚡️优化** <Badge text="Refactored" type="warning" />  
