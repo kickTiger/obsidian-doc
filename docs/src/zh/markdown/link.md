@@ -10,7 +10,7 @@ icon: page
 ::: code-tabs
 @tab 外部链接
 ```bash
-[obsidian文档](https://coffeetea.top/)
+[obsidian文档](https://obsidian.vip/)
 ```
 @tab ⭐️obsidian内部链接
 ```markdown
@@ -18,7 +18,7 @@ icon: page
 ```
 @tab html链接
 ```markdown
-<a href="https://coffeetea.top/">咖啡豆</a>
+<a href="https://obsidian.vip/">咖啡豆</a>
 ```
 :::
 
@@ -30,6 +30,6 @@ icon: page
 :::
 
 **演示：**
-- 外部链接：[obsidian文档](https://coffeetea.top/)
-- HTML链接：<a href="https://coffeetea.top/">咖啡豆</a>
+- 外部链接：[obsidian文档](https://obsidian.vip/)
+- HTML链接：<a href="https://obsidian.vip/">咖啡豆</a>
 - 内部链接：网站没法演示，自行试验

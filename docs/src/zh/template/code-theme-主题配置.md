@@ -7,12 +7,12 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
   
 export default hopeTheme({  
   // 站点域名
-  hostname: "https://coffeetea.top/",  
+  hostname: "https://obsidian.vip/",  
   
   // 作者名称
   author: {  
     name: "coffeebean",  
-    url: "https://coffeetea.top/",  
+    url: "https://obsidian.vip/",  
   },  
   
   // 热更新开关,开启了才能实时渲染侧边栏等  

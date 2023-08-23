@@ -27,7 +27,7 @@ icon: page
 ```css
 /*
  @Author   : coffeebean
- @contact  : https://coffeetea.top/
+ @contact  : https://obsidian.vip/
  @File     : coffeebean-prism-source-view.css
  @Software : vscode
  @Date     :  2022-04-09

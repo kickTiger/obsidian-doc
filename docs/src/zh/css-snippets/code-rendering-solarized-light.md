@@ -25,7 +25,7 @@ solarized-light
 ```css
 /* 
 @Author   : 咖啡豆
-@contact  : https://coffeetea.top/
+@contact  : https://obsidian.vip/
 @File     : coffebean-代码块着色亮色solarized-light主题.css
 @Software : vscode
 @Date     : 2022-04-09

@@ -28,7 +28,7 @@ icon: page
 ```css
 /* 
 @Author   : 咖啡豆  
-@contact  : https://coffeetea.top/  
+@contact  : https://obsidian.vip/  
 @File     : coffeebean-隐藏-编辑模式的标题符号.css  
 @Software : vscode  
 @Date     : 2023-02-02  

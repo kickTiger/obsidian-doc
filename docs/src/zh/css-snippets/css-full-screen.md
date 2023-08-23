@@ -35,7 +35,7 @@ cssclass: coffeebean-full-screen
 ```css
 /* 
 @Author   : 咖啡豆  
-@contact  : https://coffeetea.top/  
+@contact  : https://obsidian.vip/  
 @File     : 满屏无边距.css  
 @Software : vscode  
 @Date     : 2022-10-16  
