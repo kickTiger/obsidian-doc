@@ -3,11 +3,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://coffeetea.top/",
+  hostname: "https://obsidian.vip/",
 
   author: {
     name: "coffeebean",
-    url: "https://coffeetea.top/",
+    url: "https://obsidian.vip/",
   },
 
   // 热更新开关
