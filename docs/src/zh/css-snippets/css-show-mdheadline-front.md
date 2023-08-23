@@ -23,7 +23,7 @@ icon: page
 ```css
 /*  
 @collecte : 咖啡豆  
-@contact  : https://coffeetea.top/  
+@contact  : https://obsidian.vip/  
 @File     : coffeebean-显示h标题等级.css  
 @Software : vscode  
 @Date     : 2022-11-12  

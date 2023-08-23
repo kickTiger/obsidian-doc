@@ -61,7 +61,7 @@ category:
 一般插件从obsidian社区插件，可以自行下载。
 
 **网络不好，网盘下载。**
-obsidian插件-咖啡豆文档站coffeetea.top 
+obsidian插件-咖啡豆文档站obsidian.vip 
 不限速下载：https://www.123pan.com/s/M5P0Vv-K4463 提取码:9Zgs
 
 **百度网盘比较齐全也比较新**

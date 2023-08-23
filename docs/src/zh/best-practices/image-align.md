@@ -49,7 +49,7 @@ headerDepth: 2
   
 /* 
 @Author   : 咖啡豆  
-@contact  : https://coffeetea.top/  
+@contact  : https://obsidian.vip/  
 @File     : coffeebean-补充图片对齐语法.css  
 @Software : vscode  
 @Date     : 2023-02-13 17:53:32  

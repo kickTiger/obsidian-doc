@@ -415,7 +415,7 @@ dv.paragraph(
 ```
 @tab 注释过的
 ```js
-// 注释BY咖啡豆文档 httpss://coffeetea.top 
+// 注释BY咖啡豆文档 httpss://obsidian.vip 
 // 该段代码用于计算使用 Obsidian 的总天数以及创建的笔记数、标签数、待办事项数，并将这些信息输出为一个段落
 
 let ftMd = dv.pages("").file.sort(t => t.cday)[0]; // 找到最早创建的笔记，并将其记录在 ftMd 变量中

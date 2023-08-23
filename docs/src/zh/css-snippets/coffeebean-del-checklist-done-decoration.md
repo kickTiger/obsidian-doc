@@ -24,7 +24,7 @@ headerDepth: 2
 ```css
 /* 
 @Author   : 咖啡豆
-@contact  : https://coffeetea.top/
+@contact  : https://obsidian.vip/
 @File     : coffeebean-去除删除线-任务回顾专用.css
 @Software : vscode
 @Date     : 2022-10-17

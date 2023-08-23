@@ -27,11 +27,11 @@ Longform，是长文写作的插件，非常不错的插件。推荐使用⭐️
 
 
 **扩展阅读**：
-- [obsidian 能写小说论文长文吗？ | obsidian文档咖啡豆版](https://coffeetea.top/zh/best-practices/obsidian-Longform.html)
-- [提升长文写作体验-自动编号 | obsidian文档咖啡豆版](https://coffeetea.top/zh/best-practices/obsidian-Number-Headings.html)
-- [obsidian更好的项目管理体验 | obsidian文档咖啡豆版](https://coffeetea.top/zh/best-practices/Obsidian-Plugins-Project.html)
-- [对小说论文写作管理 | obsidian文档咖啡豆版](https://coffeetea.top/zh/best-practices/obsidian-project-longform.html)
-- [Scroll to Top Plugin | obsidian文档咖啡豆版](https://coffeetea.top/zh/community-plugins/Scroll-to-Top-Plugin.html)
+- [obsidian 能写小说论文长文吗？ | obsidian文档咖啡豆版](https://obsidian.vip/zh/best-practices/obsidian-Longform.html)
+- [提升长文写作体验-自动编号 | obsidian文档咖啡豆版](https://obsidian.vip/zh/best-practices/obsidian-Number-Headings.html)
+- [obsidian更好的项目管理体验 | obsidian文档咖啡豆版](https://obsidian.vip/zh/best-practices/Obsidian-Plugins-Project.html)
+- [对小说论文写作管理 | obsidian文档咖啡豆版](https://obsidian.vip/zh/best-practices/obsidian-project-longform.html)
+- [Scroll to Top Plugin | obsidian文档咖啡豆版](https://obsidian.vip/zh/community-plugins/Scroll-to-Top-Plugin.html)
 
 
 

@@ -14,9 +14,9 @@ headerDepth: 2
 Dataview 函数提供了更高级的数据操作方法，可以在除了`From`之外的地方，使用函数来过滤信息。得到更灵活的查询数据.
 :::
 
-::: danger 预告 | Plan 《☕Coffeetea.TOP SHOW 咖啡豆和他的朋友们分享会》 
+::: danger 预告 | Plan 《☕obsidian.vip SHOW 咖啡豆和他的朋友们分享会》 
 
-> [《☕Coffeetea.TOP SHOW 咖啡豆和他的朋友们分享会》](/zh/Coffeetea.TOP.SHOW/README.md) 发布页面
+> [《☕obsidian.vip SHOW 咖啡豆和他的朋友们分享会》](/zh/obsidian.vip.SHOW/README.md) 发布页面
 
 - 计划：对一些常用函数展开讲解，多一些实际的示例。
 - 计划：制作简单的讲解视频进行阐述。
@@ -252,8 +252,8 @@ embed(link("Hello.png"))
 elink("www.google.com") //创建一个链接到 www.google.com
 elink("www.google.com", "Google") //创建一个链接到 www.google.com，显示为 Google
 ```
-类似于语法：`[obsidian咖啡豆文档](https://www.coffeetea.top)`
-举例：[obsidian咖啡豆文档](https://www.coffeetea.top)
+类似于语法：`[obsidian咖啡豆文档](https://www.obsidian.vip)`
+举例：[obsidian咖啡豆文档](https://www.obsidian.vip)
 ### 1.8 `typeof(any)`显示对象的类型
 获取要检查的任何对象的类型。可以与其他运算符结合使用以根据类型更改行为。
 ::: tip 为什么要查数据的类型
