@@ -27,6 +27,7 @@ category:
 - 可以查看[咖啡豆豆龙_哔哩哔哩](https://space.bilibili.com/618777356)) 视频教程。😜**关注、👍点赞、📀投币一键三连**
 - 关注公众号(文章很多)：`蹦跶的咖啡豆
 - 示例库（筹备中）
+- 网站启用新域名：https://obsidian.vip 给VIP的你，很好记
 :::
 
 ## 导航
@@ -38,5 +39,6 @@ category:
 6. [对小说论文写作管理](/zh/best-practices/obsidian-project-longform.md) 使用Project插件对小说论文等长文写作，进行项目管理，添加各种字段控制。
 7. [网站剪藏稍后读]() 一键收藏浏览器网址或网站文字到obsidian中
 8. [Chrome访问NewBing的方法](/zh/best-practices/Chrome_New_Bing.md) 稳定的Chrome访问NewBing方法
+9. [VSCode快捷键大全-批量修改obsidian神器](/zh/best-practices/VSCode-Shortcut-Keys.md) VSCode快捷键大全，Windows和macOS版本，可以很方便的对obsidian全库进行批量操作。
 
 

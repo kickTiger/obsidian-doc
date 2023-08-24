@@ -109,6 +109,7 @@ Easy-Typing，是一个 Obsidian 的书写体验增强插件，功能包含编�
 - 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群
 - 可以查看[咖啡豆豆龙_哔哩哔哩](https://space.bilibili.com/618777356)) 视频教程。😜**关注、👍点赞、📀投币一键三连**
 - 示例库（筹备中）
+- 网站启用新域名：https://obsidian.vip 给VIP的你，很好记
 :::
 
 ::: details 🌱【点我-扫码加群】
