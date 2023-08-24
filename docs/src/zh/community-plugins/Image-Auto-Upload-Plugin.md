@@ -54,6 +54,7 @@ Image Auto Upload Plugin，是一个图片上传的插件，这是一个支持 P
 - 可以查看[咖啡豆豆龙_哔哩哔哩](https://space.bilibili.com/618777356)) 视频教程。😜**关注、👍点赞、📀投币一键三连**
 - 关注公众号(文章很多)：`蹦跶的咖啡豆
 - 示例库（筹备中）
+- 网站启用新域名：https://obsidian.vip 给VIP的你，很好记
 :::
 
 ::: details 🌱【点我-扫码加群】

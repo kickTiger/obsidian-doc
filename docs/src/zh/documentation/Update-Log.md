@@ -17,6 +17,7 @@ icon: page
 - 可以查看[咖啡豆豆龙_哔哩哔哩](https://space.bilibili.com/618777356)) 视频教程。😜**关注、👍点赞、📀投币一键三连**
 - 关注公众号(文章很多)：`蹦跶的咖啡豆
 - 示例库（筹备中）
+- 网站启用新域名：https://obsidian.vip 给VIP的你，很好记
 :::
 
 ::: details 🌱【点我-扫码加群】
@@ -27,6 +28,25 @@ icon: page
 ![随缘支持](/assets/WeChat-Pay.jpg =x400)
 ::: 
 ![扫码关注 公众号【蹦跶的咖啡豆】-**内容多更新快**](/assets/2023072422104650.png =400x)
+
+网站启用新域名：https://obsidian.vip  非常好记的域名给VIP的你。请大家更新为新的域名，
+
+::: danger 网站启用新域名
+网站启用新域名：https://obsidian.vip  非常好记的域名
+- 给VIP的你。
+- 请大家更新收藏为新的域名，
+:::
+
+## 2023-08-24
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站启用新域名：https://obsidian.vip  非常好记的域名给VIP的你。请大家更新为新的域名，
+- 旧域名会并行运行，但是旧域名的SSL认证有一点问题，所以会提示一下，近期会解决这个问题。
+- 新增文章[VSCode快捷键大全-批量修改obsidian神器](/zh/best-practices/VSCode-Shortcut-Keys.md) VSCode快捷键大全，Windows和macOS版本，可以很方便的对obsidian全库进行批量操作。
+- 咖啡豆示例库进展良好，在群里多有展示，可进群了解详情。
+	- 示例库新增了大量的可定制css，通过UI界面进行控制，目标是简化obsidian的使用流程，让大家都能更方便的使用obsidian。
+	- 增加了很多的效果，补丁和功能增强
+	- 增加了很多的工作流程。
+
 
 ## 2023-08-07
 **✨新增** <Badge text="Features" type="tip" />  
