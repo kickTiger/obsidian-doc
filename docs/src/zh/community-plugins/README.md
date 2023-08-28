@@ -55,6 +55,7 @@ category:
 34. [open weather](/zh/community-plugins/obsidian-open-weather.md) 一个调用接口显示实时天气的插件，能够在底部状态栏显示天气。也能在日记里插入天气的纯文本。
 35. [便捷调整图片尺寸](/zh/community-plugins/mousewheel-image-zoom.md) 使用鼠标滚轮快捷调整图片的尺寸 ⭐⭐和添加语法`|600`效果一致
 36. [Quick Switcher+ +](/zh/community-plugins/Quick-Switcher.md) Quick Switcher+ + 一个快速切换的综合工具
+37. [Execute Python](/zh/community-plugins/obsidian-execute-python.md) `Execute Python`是一个轻量级的插件，用来执行Python代码的
 
 
 ::: tip 插件网盘下载
