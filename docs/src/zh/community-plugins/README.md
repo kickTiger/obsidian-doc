@@ -56,6 +56,8 @@ category:
 35. [便捷调整图片尺寸](/zh/community-plugins/mousewheel-image-zoom.md) 使用鼠标滚轮快捷调整图片的尺寸 ⭐⭐和添加语法`|600`效果一致
 36. [Quick Switcher+ +](/zh/community-plugins/Quick-Switcher.md) Quick Switcher+ + 一个快速切换的综合工具
 37. [Execute Python](/zh/community-plugins/obsidian-execute-python.md) `Execute Python`是一个轻量级的插件，用来执行Python代码的
+38. [Codename](/zh/community-plugins/obsidian-execute-python.md) Codename 是一个生成随机代码/姓名的插件，功能很简单。
+
 
 
 ::: tip 插件网盘下载
