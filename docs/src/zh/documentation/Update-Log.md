@@ -37,6 +37,11 @@ icon: page
 - 请大家更新收藏为新的域名，
 :::
 
+## 2023-08-28
+**✨新增** <Badge text="Features" type="tip" />  
+- 新增社区插件：[Execute Python](/zh/community-plugins/obsidian-execute-python.md) `Execute Python`是一个轻量级的插件，用来执行Python代码的
+- 新增社区插件：[Codename](/zh/community-plugins/obsidian-execute-python.md) Codename 是一个生成随机代码/姓名的插件，功能很简单。
+
 ## 2023-08-24
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站启用新域名：https://obsidian.vip  非常好记的域名给VIP的你。请大家更新为新的域名，
