@@ -58,7 +58,7 @@ category:
 37. [Execute Python](/zh/community-plugins/obsidian-execute-python.md) `Execute Python`是一个轻量级的插件，用来执行Python代码的
 38. [Codename](/zh/community-plugins/obsidian-execute-python.md) Codename 是一个生成随机代码/姓名的插件，功能很简单。
 39.  [Text to Speech文字转语音](/zh/community-plugins/obsidian-tts.md) Text to Speech是一个文字转语音的插件，减少你的视觉疲惫。
-
+40.  [Whisper 语言转文字-耳语](/zh/community-plugins/obsidian-tts.md) Whisper是一个能够将语音转化为文字的项目，来自OpenAI公司的技术API接口。
 
 ::: tip 插件网盘下载
 一般插件从obsidian社区插件，可以自行下载。
