@@ -36,6 +36,14 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2023-08-31
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加  [Text to Speech文字转语音](/zh/community-plugins/obsidian-tts.md) Text to Speech是一个文字转语音的插件，减少你的视觉疲惫。
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站逐步增加所有社区插件的简介和简单使用方法。预计会跟上官方同步。
+- 所有的插件清单在这里 [obsidian所有插件大全-长期更新](/zh/community-plugins/community-plugins-index.md)
+
 ## 2023-08-30
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加最佳实践： [obsidian同步方案(一)官方同步详解](/zh/best-practices/obsidian-synchronize-official.md) obsidian同步方案官方版详解
