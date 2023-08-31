@@ -40,6 +40,7 @@ icon: page
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加  [Text to Speech文字转语音](/zh/community-plugins/obsidian-tts.md) Text to Speech是一个文字转语音的插件，减少你的视觉疲惫。
 - 网站增加 [Whisper 语言转文字-耳语](/zh/community-plugins/obsidian-tts.md) Whisper是一个能够将语音转化为文字的项目，来自OpenAI公司的技术API接口。
+- 网站增加 [Transcription 语言转文字-云和本地-免费](/zh/community-plugins/obsidian-tts.md) `Transcription`是能够将本地视频转化为文字和大纲的插件。使用了免费的云接口和本地`Whisper` 环境。
 
 **⚡️优化** <Badge text="Refactored" type="warning" />  
 - 网站逐步增加所有社区插件的简介和简单使用方法。预计会跟上官方同步。
