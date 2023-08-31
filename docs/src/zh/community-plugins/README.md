@@ -57,8 +57,9 @@ category:
 36. [Quick Switcher+ +](/zh/community-plugins/Quick-Switcher.md) Quick Switcher+ + 一个快速切换的综合工具
 37. [Execute Python](/zh/community-plugins/obsidian-execute-python.md) `Execute Python`是一个轻量级的插件，用来执行Python代码的
 38. [Codename](/zh/community-plugins/obsidian-execute-python.md) Codename 是一个生成随机代码/姓名的插件，功能很简单。
-39.  [Text to Speech文字转语音](/zh/community-plugins/obsidian-tts.md) Text to Speech是一个文字转语音的插件，减少你的视觉疲惫。
-40.  [Whisper 语言转文字-耳语](/zh/community-plugins/obsidian-tts.md) Whisper是一个能够将语音转化为文字的项目，来自OpenAI公司的技术API接口。
+39. [Text to Speech文字转语音](/zh/community-plugins/obsidian-tts.md) Text to Speech是一个文字转语音的插件，减少你的视觉疲惫。
+40. [Whisper 语言转文字-耳语](/zh/community-plugins/obsidian-tts.md) Whisper是一个能够将语音转化为文字的项目，来自OpenAI公司的技术API接口。
+41. [Transcription 语言转文字-云和本地-免费](/zh/community-plugins/obsidian-tts.md) `Transcription`是能够将本地视频转化为文字和大纲的插件。使用了免费的云接口和本地`Whisper` 环境。
 
 ::: tip 插件网盘下载
 一般插件从obsidian社区插件，可以自行下载。
