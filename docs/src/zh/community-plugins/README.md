@@ -57,7 +57,7 @@ category:
 36. [Quick Switcher+ +](/zh/community-plugins/Quick-Switcher.md) Quick Switcher+ + 一个快速切换的综合工具
 37. [Execute Python](/zh/community-plugins/obsidian-execute-python.md) `Execute Python`是一个轻量级的插件，用来执行Python代码的
 38. [Codename](/zh/community-plugins/obsidian-execute-python.md) Codename 是一个生成随机代码/姓名的插件，功能很简单。
-
+39.  [Text to Speech文字转语音](/zh/community-plugins/obsidian-tts.md) Text to Speech是一个文字转语音的插件，减少你的视觉疲惫。
 
 
 ::: tip 插件网盘下载
