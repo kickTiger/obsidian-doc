@@ -41,5 +41,6 @@ category:
 8. [Chrome访问NewBing的方法](/zh/best-practices/Chrome_New_Bing.md) 稳定的Chrome访问NewBing方法
 9. [VSCode快捷键大全-批量修改obsidian神器](/zh/best-practices/VSCode-Shortcut-Keys.md) VSCode快捷键大全，Windows和macOS版本，可以很方便的对obsidian全库进行批量操作。
 10. [obsidian同步方案(一)官方同步详解](/zh/best-practices/obsidian-synchronize-official.md) obsidian同步方案官方版详解
+11. [使用VSCode进行批量编辑Obsidian库](/zh/best-practices/VSCode-Batch-Edit.md) 使用VSCode进行批量编辑Obsidian库，批量替换的利器
 
 
