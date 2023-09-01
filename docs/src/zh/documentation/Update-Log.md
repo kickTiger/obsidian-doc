@@ -36,6 +36,12 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+
+## 2023-09-01
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加 [Obsidian账号安全开启二步验证](/zh/best-practices/2FA-login.md) Obsidian账号安全开启二步验证，强烈建议开启此选项。
+- Obsidian本体升级到1.4.5 更新更多功能，包括YAML编辑器和新的属性功能。可以看微信公众号文章。[重要更新：Obsidian1.4.5 发布-新增超强功能-可视化YAML编辑-【推荐更新】](https://mp.weixin.qq.com/s?__biz=Mzk0OTQ0NjM5MQ==&mid=2247484493&idx=1&sn=db5a5734d88d17633554817f9e784fe4&chksm=c35977d5f42efec36658e4c59bf98ad33f676d8ac10f8405adb6eb8f8d7bb357c8e95846e462#rd)
+
 ## 2023-08-31
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加  [Text to Speech文字转语音](/zh/community-plugins/obsidian-tts.md) Text to Speech是一个文字转语音的插件，减少你的视觉疲惫。

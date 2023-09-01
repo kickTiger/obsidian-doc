@@ -18,6 +18,9 @@ headerDepth: 2
 字体效果演示  
 ![wenkai-1.png (1920×1080) (raw.githubusercontent.com)](https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/documentation/wenkai-1.png)
 
+
+![LXGW WenKai Screen字体](/assets/2023090116045827.png) 
+
 本字体是 [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) 的屏幕舒适阅读版本。由于原版「霞鹜文楷」Regular 字重在 PC 和 Android 屏幕上显示较细，将原版「霞鹜文楷 Bold」的**字重属性改为 Regular**，调整度量数据与 Android 默认字体 Roboto 相同，**更适合 PC 及 Android 手机屏幕显示**。
 ## 下载
 ::: info 自定义标题
@@ -31,5 +34,3 @@ headerDepth: 2
 ## 使用
 - 下载完的文件，解压缩得到 `.ttf` 格式，双击安装
 - 安装好字体后，重启 obsidian，打开设置 → 外观 → 字体，正文字体：管理，选择好刚刚下载的字体 `霞鹜文楷屏幕阅读版R`。添加完毕后，重启 ob 生效，查看效果。
-
-![](https://camo.githubusercontent.com/3ee64cb64d52f5c68ccf3b0772aa8812b44e789640b686e2064a247b68684bca/68747470733a2f2f73332e626d702e6f76682f696d67732f323032312f31302f616266656437616565383436366265302e706e67)
