@@ -1,14 +1,10 @@
 ---
-# 这是文章的标题
 title: Dataview函数集合
-# 这是侧边栏的顺序
-order: 3
-# 这是页面的图标
+order: 4
 icon: activity
-# 控制左侧显示层数(只显示2层)，但是右侧会显示3级
 headerDepth: 2
 ---
-**说明：**  
+**说明**  ：
 这里记录 dataview 可使用的一些函数供参考
 ::: tip Dataview 函数的用途
 Dataview 函数提供了更高级的数据操作方法，可以在除了`From`之外的地方，使用函数来过滤信息。得到更灵活的查询数据.
