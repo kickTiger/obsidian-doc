@@ -36,6 +36,13 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2023-09-11
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加 [markdown别名语法](/zh/markdown/aliases.md)。
+- 网站增加 [dataview(3)](/zh/dataview/dataview-advanced-c.md) dataview 内联DQL查询和内联数据视图中的JS，对dataview语法进行补充。
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站优化部分链接和描述，调整菜单排序。
 
 ## 2023-09-01
 **✨新增** <Badge text="Features" type="tip" />  
