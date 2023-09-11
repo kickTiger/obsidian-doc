@@ -31,5 +31,6 @@ Markdown可使用任何文本编辑器来编写，但我们建议使用 [Obsidia
 14. [Emoji](Emoji.md)
 15. [mermaid流程图](/zh/markdown/mermaid.md)
 16. [YAML](/zh/markdown/yaml.md)
-17. [obsidian汉字注音](obsidian汉字注音.md)
-18. [obsidian批注效果](obsidian批注效果.md)
+17. [别名](/zh/markdown/aliases.md)
+18. [obsidian汉字注音](/zh/obsidian汉字注音.md)
+19. [obsidian批注效果](/zh/obsidian批注效果.md)

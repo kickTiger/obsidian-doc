@@ -1,10 +1,7 @@
 ---
 number headings: first-level 2, max 6, start-at 1, 1.1
-# 这是文章的标题
 title: Dataviewjs进阶(1)
-# 这是侧边栏的顺序
-order: 4
-# 这是页面的图标
+order: 5
 icon: page
 ---
 

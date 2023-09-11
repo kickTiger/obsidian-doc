@@ -1,16 +1,12 @@
 ---
 number headings: auto, first-level 2, max 6, start-at 1, 1.1
-# 这是文章的标题
 title: Dataviewjs-函数集合
-# 这是侧边栏的顺序
-order: 6
-# 这是页面的图标
+order: 7
 icon: page
-# 控制左侧显示层数(只显示2层)，但是右侧会显示3级
 headerDepth: 2
 ---
 ## 1 dataviewJS学习目标
-Dataview JavaScript API 允许通过访问 dataview 索引和查询引擎来执行任意 JavaScript。Dataviewjs本质上就是 JavaScript 代码，实际上使用dataview的API接口实现更灵活的查询。
+Dataview JavaScript API 允许通过访问 dataview 索引和查询引擎来执行任意 JavaScript。Dataviewjs本质上就是 JavaScript 代码，实际上使用dataview的API接口实现更灵活的查询。 
 
 ::: warning 学习的目标是点到即止
 DataviewJS 因为使用了 JavaScript 代码，所以异常的复杂。那么我们也没有必要去学习这种语言。
@@ -437,8 +433,6 @@ dv.paragraph(
 ::: tip 显示结果
 您已使用 _Obsidian_ 114 天，共创建 91 篇笔记、37 个标签、66个待办。
 :::
-
-
 
 #### 12.1.2 代码解读
 ::: tip 
