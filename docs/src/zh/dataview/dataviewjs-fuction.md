@@ -6,7 +6,7 @@ icon: page
 headerDepth: 2
 ---
 ::: tip 更新说明
-- 2023-09-11 新增dataviewjs 整体概念理解
+- 2023-09-11 🔥 新增：dataviewjs 整体概念理解
 :::
 ## 1 Dataviewjs学习目标
 Dataview JavaScript API 允许通过访问 dataview 索引和查询引擎来执行任意 JavaScript。Dataviewjs本质上就是 JavaScript 代码，实际上使用dataview的API接口实现更灵活的查询。 
