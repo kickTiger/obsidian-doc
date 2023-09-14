@@ -36,7 +36,7 @@ export default defineUserConfig({
       indexName: 'obsidianvip',
       appId: '36KP1XM8PF',
       locales: {
-        '/': {
+        '/zh/': {
           placeholder: '搜索文档',
           translations: {
             button: {
