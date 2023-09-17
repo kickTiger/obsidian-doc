@@ -36,6 +36,17 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+
+## 2023-09-17
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加新专题：[tasks插件专题](/zh/tasks/)。
+- 网站增加新专题：[常见问题专题](/zh/FAQ/)。
+- 新增内容，[Tasks查询sort逆序的方法](/zh/advanced/tasks进阶(3).md)
+- 新增内容，[Dataview隐式字段](/zh/dataview/dataview-advanced-d.md)
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站部分文章开始优化，增加了单页的更新记录。
+
 ## 2023-09-12
 
 **⚡️优化** <Badge text="Refactored" type="warning" />  

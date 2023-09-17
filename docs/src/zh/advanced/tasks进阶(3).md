@@ -9,6 +9,10 @@ icon: page
 # 控制左侧显示层数(只显示2层)，但是右侧会显示3级
 headerDepth: 2
 ---
+::: tip 更新记录
+- 2023-09-17 新增排序结果的倒序
+:::
+
 ## 1 Sorting 排序
 可用的参数，可以用下面这些排序：
 - **File locations**  文件位置
@@ -33,6 +37,16 @@ headerDepth: 2
 	-  `recurring` (经常性任务排在非经常性任务之前: ) 反复出现的
 	-  `tag` (the description of the task) 标签
 	-  `description` (the description of the task) 描述
+
+::: warning  对排序结果逆序反转
+- 有时候我们需要对排序的结果进行反转，逆序过来。  
+- 在排序语法的最后增加一个单词 `reverse`
+
+```js
+sort by due reverse
+```
+:::
+
 
 ## 2 backlinks 反向链接
 反向链接如下样式，可以看到任务从哪里来。
