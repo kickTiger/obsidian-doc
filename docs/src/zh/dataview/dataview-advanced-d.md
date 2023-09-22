@@ -1,5 +1,5 @@
 ---
-title: dataview隐式字段
+title: dataview进阶(4)隐式字段
 order: 4
 icon: page
 headerDepth: 2

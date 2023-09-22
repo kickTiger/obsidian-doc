@@ -23,7 +23,7 @@ category:
 2. [Templater](/zh/community-plugins/templater.md)⭐️⭐️⭐️ 按模板新建md文件
 3. [Quickadd](/zh/community-plugins/quickadd.md)⭐️⭐️⭐️ 制作快捷命令，提高obsidian的效率
 4. [Advanced URI](/zh/community-plugins/Advanced-URI.md) ⭐️⭐️⭐️高级链接，替换obsidian-url
-5. [tasks](/zh/community-plugins/tasks.md)⭐️⭐️ 任务管理增强，在ob里实现todolist清单记事
+5. [tasks](/zh/community-plugins/tasks.md)⭐️⭐️⭐️ 任务管理增强，在ob里实现todolist清单记事
 6. [button](/zh/community-plugins/button.md) ⭐️⭐️ 按钮制作插件，打造你的obsidian成一个小系统
 7. [various-complements](/zh/community-plugins/various-complements.md) ⭐️⭐️ 自动补齐短语
 8. [Workspaces Plus](/zh/community-plugins/Workspaces-Plus.md) ⭐️⭐️⭐️ 工作空间增强，增强效率，打造工作场景
@@ -58,8 +58,9 @@ category:
 37. [Execute Python](/zh/community-plugins/obsidian-execute-python.md) `Execute Python`是一个轻量级的插件，用来执行Python代码的
 38. [Codename](/zh/community-plugins/obsidian-execute-python.md) Codename 是一个生成随机代码/姓名的插件，功能很简单。
 39. [Text to Speech文字转语音](/zh/community-plugins/obsidian-tts.md) Text to Speech是一个文字转语音的插件，减少你的视觉疲惫。
-40. [Whisper 语言转文字-耳语](/zh/community-plugins/obsidian-tts.md) Whisper是一个能够将语音转化为文字的项目，来自OpenAI公司的技术API接口。
-41. [Transcription 语言转文字-云和本地-免费](/zh/community-plugins/obsidian-tts.md) `Transcription`是能够将本地视频转化为文字和大纲的插件。使用了免费的云接口和本地`Whisper` 环境。
+40. [Whisper 语言转文字-耳语](/zh/community-plugins/Whisper.md) Whisper是一个能够将语音转化为文字的项目，来自OpenAI公司的技术API接口。
+41. [Transcription 语言转文字-云和本地-免费](/zh/community-plugins/Transcription.md) `Transcription`是能够将本地视频转化为文字和大纲的插件。使用了免费的云接口和本地`Whisper` 环境。
+42. [Workbooks的excel电子表格](/zh/community-plugins/Workbooks.md) 支持在obsidian中对excel电子表格进行可视化编辑
 
 ::: tip 插件网盘下载
 一般插件从obsidian社区插件，可以自行下载。
