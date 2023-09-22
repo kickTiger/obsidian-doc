@@ -36,6 +36,9 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2023-09-22
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加 [Workbooks 可视化Excel电子表格编辑](/zh/community-plugins/Workbooks.md) 可以全流程的可视化编辑 Excel文件，支持内部或者编辑外部文件。 带视频解说 📹
 
 ## 2023-09-17
 **✨新增** <Badge text="Features" type="tip" />  

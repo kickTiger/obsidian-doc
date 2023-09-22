@@ -1,6 +1,6 @@
 ---
 title: Dataview函数集合
-order: 4
+order: 6
 icon: activity
 headerDepth: 2
 ---
