@@ -8,6 +8,10 @@ icon: page
 # 控制左侧显示层数(只显示2层)，但是右侧会显示3级
 headerDepth: 2
 ---
+::: tip 更新记录
+- 2023-09-23 请及时更新Number Headings到1.4.0，修复了无法在YAML区域插入参数的bug。经过咖啡豆和作者的积极沟通，已经修复了这个Bug（表现为在Obsidian 1.4 版本下，新的属性区域无法正常插入序号YAML参数）
+:::
+
 **插件简介：**  
 Number Headings，可以在文章内自动给标题编写序号。可以结合LongForm 长文写作插件使用。
 
@@ -25,6 +29,6 @@ Number Headings，可以在文章内自动给标题编写序号。可以结合Lo
 **插件使用：**  
 安装后启动，通过“Ctrl+P”命令面板呼出Number Headings命令使用。
 
-详细用法见文章，最佳实践
+更详细的用法见文章，[最佳实践-提升长文写作体验-自动编号](/zh/best-practices/obsidian-Number-Headings.md)
 
 

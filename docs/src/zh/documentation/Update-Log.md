@@ -36,6 +36,13 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+
+## 2023-09-28
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站 [emoji](/zh/markdown/Emoji.md) 页面，更新使用指导和配合的插件方法
+- 网站 修订 [obsidian更换字体](/zh/best-practices/obsidian-font-LXGW.md) 中增加选择字体小技巧，方便选择
+
 ## 2023-09-22
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加 [Workbooks 可视化Excel电子表格编辑](/zh/community-plugins/Workbooks.md) 可以全流程的可视化编辑 Excel文件，支持内部或者编辑外部文件。 带视频解说 📹
