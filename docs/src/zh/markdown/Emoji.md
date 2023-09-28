@@ -6,6 +6,21 @@ order: 14
 # 这是页面的图标
 icon: page
 ---
+
+::: tip 更新
+2023-09-28 更新<Badge text="Features" type="tip" />  ：新增Emoji使用指导
+:::
+
+::: tip Emoji使用指导
+- 你可以直接复制下面的图标使用，语法只是参考，和让你明白对应的含义
+- 推荐使用 `Emoji Toolbar` 插件，有UI界面可以选择插入
+- 如果是win10以上系统，可以使用快捷键调用系统插入 `win + .` 
+- 也可以使用输入法的emoji插入，比如 rime 输入法（推荐使用公众号方案  [点击查看-守住最后一道防线：最注重隐私的输入法rime输入法-不需联网](https://mp.weixin.qq.com/s/Xq2ahTSeaj1aY4TQ1qIoaA) 
+![[2023092810105947.png]]
+
+![rime输入法](/assets/2023092810105947.png) 
+:::
+
 ## 自然类
 -   ☀️ `:sunny:`
 -   ☔ `:umbrella:`
@@ -852,6 +867,5 @@ icon: page
 -   🔺 `:small_red_triangle:`
 -   🔻 `:small_red_triangle_down:`
 
----
 
-原文链接：https://theme-hope.vuejs.press/zh/cookbook/markdown/emoji/symbol.html
+
