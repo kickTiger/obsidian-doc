@@ -5,6 +5,8 @@ index: true
 icon: discover
 category:
   - tasks
+# 控制左侧显示层数(只显示2层)，但是右侧会显示3级
+headerDepth: 1
 ---
 ### 1 专栏介绍
 ::: tip 新增专题📢
@@ -40,3 +42,4 @@ tasks是 obsidian 的任务管理插件。他可以实现丰富的任务管理�
 1. [tasks进阶(1)](/zh/advanced/tasks进阶(1).md)
 2. [tasks进阶(2)](/zh/advanced/tasks进阶(2).md)
 3. [tasks进阶(3)](/zh/advanced/tasks进阶(3).md)
+4. [tasks语法快速参考](tasks-Quick-Reference.md)

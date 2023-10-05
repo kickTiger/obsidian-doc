@@ -36,6 +36,23 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2023-10-05
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加新专题：[templater插件中文文档专栏](/zh/plugins-templater/)。obsidian templater中文文档和示例语法等。
+- 网站增加文章 [Templater插件简介和基础语法](/zh/plugins-templater/templater-a.md)。
+- 网站增加文章 [Templater常用语法(视频+模板)](/zh/plugins-templater/templater-b.md)。
+- 网站增加文章 [tasks自定义过滤器](/zh/tasks/tasks-custom-filters.md)。
+- 网站增加文章 [tasks语法快速参考表](/zh/tasks/tasks-Quick-Reference.md)。
+
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站插件安装方法，增加了[国内高速下载](/zh/documentation/obsidian-plugins-download.md)的说明，方便查阅。
+
+**🐛修复** <Badge text="Fixed" type="note" />  
+- 社群反馈的文档站错误，用词问题。
+
+**📝计划** <Badge text="Plan" type="note" />  
+- 网站会继续增加常用插件的专题，让信息更加聚合专注。
 
 ## 2023-09-28
 
