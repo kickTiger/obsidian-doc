@@ -28,6 +28,14 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
     {
+      text: "Templater插件专栏🌙",
+      icon: "note",
+      prefix: "plugins-templater/",
+      link: "plugins-templater/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
       text: "常见问题专栏🌙",
       icon: "note",
       prefix: "FAQ/",
