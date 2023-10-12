@@ -8,7 +8,7 @@ isOriginal: true
 # 这是侧边栏的顺序
 order: 7
 # 这是页面的图标
-icon: page
+icon: page 
 ---
 ::: danger 加群交流
 如果在使用和学习中有不明白的地方，或者想看看别人的经验
@@ -36,6 +36,12 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+
+## 2023-10-12
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加 [obsidian图床设置](/zh/best-practices/tuchuang.md) 当**然不推荐使用图床**
+- 网站增加 [obsidian时间格式的秘密](/zh/best-practices/date-format.md) 当**一文掌握Obsidian中时间格式的用法**
+
 ## 2023-10-05
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加新专题：[templater插件中文文档专栏](/zh/plugins-templater/)。obsidian templater中文文档和示例语法等。
@@ -43,7 +49,6 @@ icon: page
 - 网站增加文章 [Templater常用语法(视频+模板)](/zh/plugins-templater/templater-b.md)。
 - 网站增加文章 [tasks自定义过滤器](/zh/tasks/tasks-custom-filters.md)。
 - 网站增加文章 [tasks语法快速参考表](/zh/tasks/tasks-Quick-Reference.md)。
-
 
 **⚡️优化** <Badge text="Refactored" type="warning" />  
 - 网站插件安装方法，增加了[国内高速下载](/zh/documentation/obsidian-plugins-download.md)的说明，方便查阅。
