@@ -89,6 +89,17 @@ Coffeetea.TOP SHOW 第四期
 
 
 ## 视频回放
+### obsidian工作流实战|用白板做一期读书分享会-内附白板实战用法-来自咖啡豆社区@山人
+
+<BiliBili bvid="BV1cc411d7zk"/>
+
+### 工作党的obsidian工作流分享（日志+任务管理）第1部分-Coffeetea.TOP SHOW 咖啡豆和他的朋友们分享会第六期
+<BiliBili bvid="BV1Pz4y1a7JY"/>
+
+### 工作党的obsidian工作流分享（日志+任务管理）第2部分-Coffeetea.TOP SHOW 咖啡豆和他的朋友们分享会第六期_哔哩哔哩_bilibili
+
+<BiliBili bvid="BV1nk4y1j79w"/>
+
 ### obsidian工作流解密-文科研究工作流分享(1)二宝学长
 
 <BiliBili bvid="BV1Go4y1h75x"/>

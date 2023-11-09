@@ -20,12 +20,11 @@ headerDepth: 2
 ### 数据查询🥕
 - [Dataview](/zh/community-plugins/Recommended-plugins.md/) 数据查询插件，⭐️⭐️⭐️ 强烈推荐安装
 - Database folder，另一款数据查询插件，类似于notion的表格，没有dataview灵活
-- 
 
 ### 编辑增强📝
 - [quiet outline](/zh/community-plugins/Recommended-plugins.md) 大纲，自动按层级展开，长文写作好助手。⭐️⭐️Ever` 投稿
 - [obsidian-better-codeblock](https://github.com/stargrey/obsidian-better-codeblock) 代码块增强，添加标题、行号 `@凤梧山人` 投稿⭐️⭐️
-- remember cursor position 基础光标位置 `@Ever` 投稿⭐️⭐️
+- remember cursor position 记住光标位置 `@Ever` 投稿⭐️⭐️
 - typewriter scroll 固定打字行 `@Ever` 投稿⭐️⭐️
 - [Editing-Toolbar](/zh/community-plugins/Editing-Toolbar.md) 浮动的编辑面板，推荐⭐️⭐️⭐️
 - [增强编辑插件](/zh/community-plugins/Enhanced-editing.md) 增加了大量的obsidian编辑命令。结合Editing-Toolbar非常的好用。⭐️⭐️⭐️

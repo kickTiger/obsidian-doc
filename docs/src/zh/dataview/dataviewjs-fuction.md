@@ -1,7 +1,7 @@
 ---
 number headings: auto, first-level 2, max 6, start-at 1, 1.1
 title: Dataviewjs-函数集合
-order: 9
+order: 10
 icon: page
 headerDepth: 2
 ---
