@@ -37,6 +37,25 @@ icon: page
 - 请大家更新收藏为新的域名，
 :::
 
+## 2023-10-20
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加 [dataview常用语法速查🚀](/zh/dataview/dataview-advanced-f.md) 方便语法一键复制，不用在学了！
+
+## 2023-10-17
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加obsidian原生语法 [流程图语法高级版](/zh/markdown/mermaid.md) 
+	- 新增 obsidian甘特图Gantt
+	- 新增 obsidian思维导图mindmap
+	- 新增 obsidian class类图
+	- 新增 obsidian ER图
+	- 更多流程图和代码详见文章 [流程图语法高级版](/zh/markdown/mermaid.md)
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站 优化部分链接，调整为新的链接方式。另外修正部分汉字的网址链接。
+
+**🐛修复** <Badge text="Fixed" type="note" />  
+- 修复 markdown 目录页的链接错误
+
 ## 2023-10-12
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加 [obsidian图床设置](/zh/best-practices/tuchuang.md) 当**然不推荐使用图床**
@@ -438,7 +457,7 @@ icon: page
 - 新增社区插件 [auto-note-mover](/zh/community-plugins/auto-note-mover.md) 根据规则自动移动md到指定文件夹
 
 **优化 Refactored**  
-- 优化[dataviewjs片段关键字查询](/zh/dataview-snippets/dataviewjs-查关键字所在行的内容.md)，增加指定范围
+- 优化[dataviewjs片段关键字查询](/zh/dataview-snippets/dvjs-inline-keywords.md)，增加指定范围
 
 ## 2023-02-03
 **新增 Features**  

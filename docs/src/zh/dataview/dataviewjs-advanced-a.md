@@ -1,7 +1,7 @@
 ---
 number headings: first-level 2, max 6, start-at 1, 1.1
 title: Dataviewjs进阶(1)
-order: 7
+order: 8
 icon: page
 ---
 

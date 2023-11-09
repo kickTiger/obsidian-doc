@@ -47,7 +47,7 @@ category:
 - [Dataview代码列表](/zh/dataview-snippets/) 🍊
 - [dataview-查文件夹所有文件](/zh/dataview-snippets/dataview查文件夹所有文件.md) 🍌
 - [dataview-查指定标签的文件](/zh/dataview-snippets/dataview查指定标签的文件.md) 🌻
-- [dataviewjs-查关键字所在行内容](/zh/dataview-snippets/dataviewjs-查关键字所在行的内容.md) 🌻
+- [dataviewjs-查关键字所在行内容](/zh/dataview-snippets/dvjs-inline-keywords.md) 🌻
 
 ## 4 Dataview函数速查
 - [dataview函数](/zh/dataview/dataview-function.md)🎉

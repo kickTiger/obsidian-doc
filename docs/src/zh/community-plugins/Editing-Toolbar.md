@@ -24,7 +24,7 @@ Editing Toolbar 可以自定义添加命令，只要是 命令面板里能看到
 设置 → 第三方插件打开 Editing Toolbar 
 
 1、修改浮窗位置：工具栏位置修改为 Fixed(推荐) 这是在底部，还有top(顶部)，following(跟随光标).
-2、添加新的命令：可以添加命令图标到  Editing Toolbar 浮动编辑面板上，设置 → 第三方插件打开 Editing Toolbar → 在工具栏中添加命令，搜索搜索命令添加，**然后点击刷新工具栏**
+2、添加新的命令：可以添加命令图标到  Editing Toolbar 浮动编辑面板上，设置 → 第三方插件打开 Editing Toolbar → 在工具栏中添加命令，搜索命令添加，**然后点击刷新工具栏**
 
 ::: tip
 - 如果想获得更好的编辑体验的话，推荐在 Editing Toolbar 中添加自定义命令。

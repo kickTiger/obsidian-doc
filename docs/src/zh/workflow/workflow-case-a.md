@@ -16,10 +16,23 @@ icon: page
 来自真实案例，过多的 obsidian 代码片段收集和查找都变成了负担
 :::
 
-## 问题
+## 工作党的obsidian工作流分享（日志+任务管理）第1部分-Coffeetea.TOP SHOW 咖啡豆和他的朋友们分享会第六期
+<BiliBili bvid="BV1Pz4y1a7JY" />
 
-## 思考
+## 工作党的obsidian工作流分享（日志+任务管理）第2部分-Coffeetea.TOP SHOW 咖啡豆和他的朋友们分享会第六期
 
-## 解决方法
+<BiliBili bvid="BV1nk4y1j79w" />
+
+## obsidian工作流解密-文科研究工作流分享(1)二宝学长
+
+
+<BiliBili bvid="BV1Go4y1h75x" />
+
+
+## obsidian工作流解密-文科研究工作流分享(2)二宝学长
+
+<BiliBili bvid="BV1gX4y167d1" />
+
+
 
 
