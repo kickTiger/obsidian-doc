@@ -37,6 +37,13 @@ icon: page
 - 请大家更新收藏为新的域名，
 :::
 
+## 2023-11-22
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加[blcok](/zh/markdown/blcok.md) 块语法，补充 Markdown 语法
+- 公众号新增若干文章，可以关注插件
+- [插件下载](/zh/documentation/obsidian-plugins-download.md) 更新到 1283 个，全部更新到最新版 
+- [主题下载](/zh/documentation/obsidian-themes-download.md) 更新到 167 个，全部更新到最新版本
+
 ## 2023-10-20
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加 [dataview常用语法速查🚀](/zh/dataview/dataview-advanced-f.md) 方便语法一键复制，不用在学了！
