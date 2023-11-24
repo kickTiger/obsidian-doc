@@ -1,10 +1,7 @@
 ---
 number headings: auto, first-level 2, max 6, start-at 1, 1.1
-# 这是文章的标题
-title: Dataview进阶(1)
-# 这是侧边栏的顺序
+title: Dataview进阶(1)基础字段
 order: 1
-# 这是页面的图标
 icon: page
 ---
 ## 1 查询语句语法含义

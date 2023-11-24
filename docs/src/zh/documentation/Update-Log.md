@@ -36,6 +36,10 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2023-11-25
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 对 [dataview](/zh/dataview/README.md) 专栏，进行部分优化，调整文件名，更容易理解。
+- 对  [dataview](/zh/dataview/README.md) 专栏，增加了部分语法解释，比如group by 语法的阐述
 
 ## 2023-11-22
 **✨新增** <Badge text="Features" type="tip" />  
