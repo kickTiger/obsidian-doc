@@ -1,5 +1,5 @@
 ---
-title: dataview常用语法速查🚀
+title: Dataview常用语法速查🚀
 order: 6
 icon: page
 headerDepth: 2

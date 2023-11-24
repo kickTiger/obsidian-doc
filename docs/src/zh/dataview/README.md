@@ -1,6 +1,6 @@
 ---
 number headings: auto, first-level 2, max 6, start-at 1, 1.1
-title: Obsidian Dataview 综合文档
+title: Dataview综合文档
 index: true
 icon: discover
 category:

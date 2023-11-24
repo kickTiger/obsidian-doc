@@ -1,5 +1,5 @@
 ---
-title: dataview进阶(5)综合技巧
+title: Dataview进阶(5)综合技巧
 order: 5
 icon: page
 headerDepth: 2
@@ -54,3 +54,12 @@ GROUP BY file.cday  # list可以分组，这里是隐式字段的创建时间
 文件4
 ````
 :::
+
+### 给group by分组增加条件
+
+有时候我们需要对 `group`分组的结果进行管理，原始的语法这里，我们可以使用两种东西
+
+- GROUP BY field  可以通过字段，比如隐式字段file.ctime
+- GROUP BY (computed_field) AS name 计算后的结果
+
+

@@ -1,5 +1,5 @@
 ---
-title: Dataview进阶(3)
+title: Dataview进阶(3)内联DQL查询
 order: 3
 icon: page
 headerDepth: 2
