@@ -40,6 +40,7 @@ icon: page
 **⚡️优化** <Badge text="Refactored" type="warning" />  
 - 对 [dataview](/zh/dataview/README.md) 专栏，进行部分优化，调整文件名，更容易理解。
 - 对  [dataview](/zh/dataview/README.md) 专栏，增加了部分语法解释，比如group by 语法的阐述
+- 对 [dataview常用语法](/zh/dataview/dataview-advanced-f.md) 新增 dataview 时间范围查询代码
 
 ## 2023-11-22
 **✨新增** <Badge text="Features" type="tip" />  

@@ -98,6 +98,23 @@ where file.name != this.file.name
 
 :::
 
+### 4 日期相关查询
+
+::: code-tabs
+@tab 7天内修改的文件
+````markdown
+WHERE file.mtime >= date(today) - dur(7 day)
+````
+@tab 1天内修改的文件
+````markdown
+WHERE file.mtime >= date(today) - dur(1 day)
+````
+@tab 30太能内修改的文件
+````markdown
+WHERE file.mtime >= date(today) - dur(30 day)
+````
+:::
+
 ## dataviewjs代码速查
 
 因为 dataviewjs 代码都比较的复杂，所以不直接在这里放出来，每个代码一个页面，从下面的列表链接过去。
