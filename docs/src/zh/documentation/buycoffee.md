@@ -18,6 +18,6 @@ icon: like
 
 **PS：当然你也可以这样来支持本站：**  
 -   分享这份[obsidian文档咖啡豆版](https://obsidian.vip/)到朋友圈呢、微信群、QQ群等地方，推荐给更多的朋友使用，帮助到更多的人    
--   帮助我在知否、今日头条、微博等地方评论里推荐本[obsidian文档咖啡豆版](https://obsidian.vip/)    
+-   帮助我在知乎、今日头条、微博、B站、微信公众号等地方评论里推荐本[obsidian文档咖啡豆版](https://obsidian.vip/)    
 -   加入 交流群 和朋友们共同成长。📢[加群交流](/zh/documentation/community.md)     
 -   也可以分享你的经验、笔记共同来完善这个网站-**我要投稿**。📢[加群投稿](/zh/documentation/community.md) 

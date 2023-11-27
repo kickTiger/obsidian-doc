@@ -6,6 +6,7 @@ headerDepth: 2
 number headings: auto, first-level 3, max 6, start-at 1, 1.1
 ---
 ::: tip 更新说明
+- 2023-11-25✨新增 dataview 日期限制相关语法
 - 2023-10-20 ✨新增 dataview和dataviewjs常用语法速查表，方便一键复制。节省时间。
 
 注意，鼠标在代码块上右侧会有个复制图标，可直接复制代码。推荐复制避免出错
