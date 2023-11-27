@@ -6,7 +6,9 @@ headerDepth: 2
 number headings: auto, first-level 2, max 6, start-at 1, 1.1
 ---
 ## 1 缘起
-为什么在这里介绍一款编程使用的编辑器呢？因为obsidian中的Markdown格式实际上也是一种纯文本。我们使用VSCode可以很方便了进行一些批量修改。这样可以弥补obsidian中的不足。
+为什么在这里介绍一款编程使用的编辑器呢？因为obsidian中的Markdown格式实际上也是一种纯文本。
+
+我们可以使用VSCode很方便的批量修改，用来弥补obsidian的不足。
 
 - VSCode可以批量替换关键字。
 - VSCode可以辅助编辑Obsidian中的调试代码。

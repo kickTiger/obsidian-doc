@@ -36,6 +36,10 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2023-11-27
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站优化大量的细节问题，文字问题。感谢 咖啡豆社群`@最后一个，会先来` 的细心检查。
+
 ## 2023-11-25
 **⚡️优化** <Badge text="Refactored" type="warning" />  
 - 对 [dataview](/zh/dataview/README.md) 专栏，进行部分优化，调整文件名，更容易理解。
