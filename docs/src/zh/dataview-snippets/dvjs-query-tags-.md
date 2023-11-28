@@ -1,5 +1,5 @@
 ---
-title: dataviewjs-列出标签所在段容落内容
+title: dataviewjs-列出标签所在段落内容
 order: 5
 icon: page
 headerDepth: 2
