@@ -37,7 +37,7 @@ category:
 4. [提升长文写作体验-自动编号](/zh/best-practices/obsidian-Number-Headings.md) 对小说论文等长文写作，自动添加序号
 5. [obsidian更好的项目管理体验](/zh/best-practices/Obsidian-Plugins-Project.md) 多视图的项目管理，灵活的自定义字段控制
 6. [对小说论文写作管理](/zh/best-practices/obsidian-project-longform.md) 使用Project插件对小说论文等长文写作，进行项目管理，添加各种字段控制。
-7. [网站剪藏稍后读]() 一键收藏浏览器网址或网站文字到obsidian中
+7. [网站一键剪藏稍后读](/zh/best-practices/onekey-webclip.md) 一键收藏浏览器网址或网站文字到obsidian中
 8. [Chrome访问NewBing的方法](/zh/best-practices/Chrome_New_Bing.md) 稳定的Chrome访问NewBing方法
 9. [VSCode快捷键大全-批量修改obsidian神器](/zh/best-practices/VSCode-Shortcut-Keys.md) VSCode快捷键大全，Windows和macOS版本，可以很方便的对obsidian全库进行批量操作。
 10. [obsidian同步方案(一)官方同步详解](/zh/best-practices/obsidian-synchronize-official.md) obsidian同步方案官方版详解
