@@ -29,7 +29,7 @@ Obsidian是一款功能强大的笔记应用程序，它支持使用YAML语法�
 
 ::: warning 注意 ✨新增 <Badge text="Features" type="tip" />
 在新版1.4版本后，输入 `---`后，
-- Obsidian会自动补全剩下的一半，然后会出现属性区的UI界面
+- Obsidian会自动补全剩下的一半，然后会出现属性区的UI界面(注：obsidian设置-自动补全markdown语法)
 - 在key字段的地方会自动识别，已经输入过的字段。
 - 在value值的地方也会自动识别，并补全已经输入过的值
 :::
@@ -49,6 +49,7 @@ Obsidian是一款功能强大的笔记应用程序，它支持使用YAML语法�
 -   `alias`是一个文本，因为它被包装在 “” 中
 -   `last-reviewed`是一个日期，因为它遵循 ISO 日期格式
 -   `thoughts`是一个对象字段，因为它使用 YAML 前置对象语法
+
 3/3 我们想查询 `thoughts.rating 为8` 的结果，以列表样式显示。
 ````markdown
 ```dataview
