@@ -83,6 +83,7 @@ filter by function task.due.moment?.isSame(moment('22023-09-30'), 'week') || fal
 	- day：日
 	- week：周
 	- month：月
+	- quarter：季度
 	- year：年
 
 ### 案例2:文件夹
