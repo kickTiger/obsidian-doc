@@ -36,6 +36,11 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2023-12-11
+**✨新增** <Badge text="Features" type="tip" />  
+- obsidian插件更新，更新 总计 1365 +插件，更新到最新版本，[点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+- obsidian主题更新，总计167款主题，更新到最新版本，[点击下载obsidian主题](/zh/documentation/obsidian-themes-download.md)
+
 ## 2023-11-29
 **⚡️优化** <Badge text="Refactored" type="warning" />  
 - 网站优化部分错字，还有对 KopiaUl 备份文字增加了解释，关于增量备份的部分。感谢 咖啡豆社群成员的检查。
