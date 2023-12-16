@@ -110,7 +110,7 @@ WHERE file.mtime >= date(today) - dur(7 day)
 ````markdown
 WHERE file.mtime >= date(today) - dur(1 day)
 ````
-@tab 30太能内修改的文件
+@tab 30天内修改的文件
 ````markdown
 WHERE file.mtime >= date(today) - dur(30 day)
 ````
