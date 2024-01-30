@@ -32,7 +32,7 @@ QuickAdd 主要功是添加 `obsidian系统命令`，可在命令面板调用，
 ```mermaid
 flowchart TB
     A(quickadd核心功能拆解<br>添加动作到ob命令面板) -->|"名称在命令面板出现<br>@咖啡豆☕整理"| B("① seting界面：添加命令名称和命令开关(闪电图标)")
-    B --> B1("temple")
+    B --> B1("Template")
     B --> B2("capture")
     B --> B3("macro")
     B --> B4("multi")
@@ -42,7 +42,7 @@ flowchart TB
     B4 --> C1    
     C1 --> D1("③添加具体动作")
         
-    D1 -->|点齿轮添加| E1("temple<br>调用模板生成")
+    D1 -->|点齿轮添加| E1("Template<br>调用模板生成")
     E1 --> E11("从模板新建文件<br>存指定文件/夹")
     
     D1 --> F1("captrue 捕获<br>输入框输入存入 md")
@@ -60,8 +60,8 @@ QuickAdd 可通过命令面板直接调用，也可以和 button 插件配合使
 :::
 
 ## 3 使用方法
-我们其实用的最多是就是`temple调用模板`新建笔记，还有`captrue 捕获`添加内容到指定文件。
-- temple 模板举例：新建一个带有tp模板语法的文件到日记文件夹。并且自定义文件名为当前日期。
+我们其实用的最多是就是`Template调用模板`新建笔记，还有`captrue 捕获`添加内容到指定文件。
+- Template 模板举例：新建一个带有tp模板语法的文件到日记文件夹。并且自定义文件名为当前日期。
 - captrue 捕获举例：增加灵感笔记，在 `灵感.md`文件中，添加每次写的一小段文字。
 
 ::: warning

@@ -152,7 +152,7 @@ YYYYMMDD
 ````js
 <% await tp.file.move("/A/B/NewTitle") %>
 ````
-@tab 重命令文件
+@tab 重命名文件
 ````js
 <% await tp.file.rename("MyNewName") %>
 ````
@@ -167,7 +167,7 @@ YYYYMMDD
 @tab 假设顶部属性定义1#id1
 ````markdown
 ---
-alias: myfile
+aliases: myfile
 note type: seedling
 ---
 ````

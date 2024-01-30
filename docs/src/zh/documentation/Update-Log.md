@@ -37,6 +37,33 @@ icon: page
 - 请大家更新收藏为新的域名，
 :::
 
+## 2024-01-30
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加[咖啡豆社区FAQ](/zh/documentation/CoffeeBean-Community-FAQ.md) 💖关于咖啡豆社区的初心，网站会持续更新，收藏哦！
+- obsidian插件更新，更新 总计 ==1421== +插件，更新到最新版本，
+	- [点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+- obsidian主题更新，更新到最新版本，新增主题若干，总计 ==213== 款主题，
+	- [点击下载obsidian主题](/zh/documentation/obsidian-themes-download.md)  
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站优化部分措辞问题和文字错误，感谢社群的各位提醒。
+
+## 2024-01-03
+**✨新增** <Badge text="Features" type="tip" />  
+- obsidian插件更新，更新 总计 ==1402== +插件，更新到最新版本，[点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+- obsidian主题更新，更新到最新版本，新增3款主题，总计 ==208== 款主题，，[点击下载obsidian主题](/zh/documentation/obsidian-themes-download.md)
+
+
+## 2023-12-30
+**✨新增** <Badge text="Features" type="tip" />  
+- obsidian插件更新，更新 总计 ==1397== +插件，更新到最新版本，[点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+- obsidian主题更新，更新17个主题，总计 ==205== 款主题，，[点击下载obsidian主题](/zh/documentation/obsidian-themes-download.md)
+
+## 2023-12-17
+**✨新增** <Badge text="Features" type="tip" />  
+- obsidian插件更新，更新 总计 ==1373== +插件，更新到最新版本，[点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+- obsidian主题更新，总计 ==205== 款主题，更新到最新版本，[点击下载obsidian主题](/zh/documentation/obsidian-themes-download.md)
+- 新增[咖啡豆社区答疑FAQ](/zh/documentation/CoffeeBean-Community-FAQ.md)，申明咖啡豆社区创立的初心，以及一些探索性实验。还有一些常见问题的答疑。
 
 ## 2023-12-11
 **✨新增** <Badge text="Features" type="tip" />  
