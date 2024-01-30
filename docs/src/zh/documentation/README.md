@@ -9,15 +9,16 @@ category:
 ## 1 基础
 1. [初识obsidian](初识obsidian.md) 🍊
 2. [obsidian-guide](obsidian-guide.md) 📙 给萌新们的一份礼物，强烈建议观看
-3. [备份方案](ob备份方案.md) 💾 数据无价做好备份
-4. [下载地址](/zh/documentation/obsidian-download.md) ⬇️ 都是官方的下载地址
-5. [插件下载](/zh/documentation/obsidian-plugins-download.md) 📢下载方法，还有所有800多插件的网盘同步版
-6. [主题下载](/zh/documentation/obsidian-themes-download.md) 🚀160个主题都在这里了，无法下载的看过来
-7. [常见问题](/zh/documentation/FAQ.md) ❓ 问题都整理给你了
-8. [常见操作](/zh/documentation/Frequently-operations.md) 🏆 也许有你都还不知道的操作呢？
-9. [更新日志](/zh/documentation/Update-Log.md) 📖看看都更新了什么
-10. [打赏开发者](/zh/documentation/buycoffee.md) ☕️ 给咖啡豆买杯咖啡，支持可持续性
-11. [加群交流](/zh/documentation/community.md) 👗 加裙交流，帅哥美女都在这里
+3. [咖啡豆社区FAQ](/zh/documentation/CoffeeBean-Community-FAQ.md) 💖关于咖啡豆社区的初心
+4. [备份方案](ob备份方案.md) 💾 数据无价做好备份
+5. [下载地址](/zh/documentation/obsidian-download.md) ⬇️ 都是官方的下载地址
+6. [插件下载](/zh/documentation/obsidian-plugins-download.md) 📢下载方法，还有所有1400多插件的网盘同步版
+7. [主题下载](/zh/documentation/obsidian-themes-download.md) 🚀160个主题都在这里了，无法下载的看过来
+8. [常见问题](/zh/documentation/FAQ.md) ❓ 问题都整理给你了
+9. [常见操作](/zh/documentation/Frequently-operations.md) 🏆 也许有你都还不知道的操作呢？
+10. [更新日志](/zh/documentation/Update-Log.md) 📖看看都更新了什么
+11. [打赏开发者](/zh/documentation/buycoffee.md) ☕️ 给咖啡豆买杯咖啡，支持可持续性
+12. [加群交流](/zh/documentation/community.md) 👗 加裙交流，帅哥美女都在这里
 ::: details 加群交流
 如果在使用和学习中有不明白的地方，或者想看看别人的经验
 - 可以查看[进阶用法](/zh/advanced/)

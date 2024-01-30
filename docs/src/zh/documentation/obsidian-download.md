@@ -13,6 +13,15 @@ icon: page
 - **官方发布：** 安卓版安装包：[安卓版 (lanzoue.com)](https://wwdx.lanzoue.com/b030yr97g) 密码：9lj5
 - iOS版本：直接是应用市场搜索`obsidian`下载
 
+
+### win7专用版本-1.1.16：
+这里有一个特殊的版本，win7无法安装新版Obsidian。但是在特定的 `1.1.16`是可以直接安装的，
+- 你可以安装这个版本
+- 然后用软件的升级到最新版（但是某些新特性无法使用）
+
+https://www.123pan.com/s/M5P0Vv-GNp63.html
+
+
 ::: danger 加群交流
 
 如果在使用和学习中有不明白的地方，或者想看看别人的经验
