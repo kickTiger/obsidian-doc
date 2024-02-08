@@ -101,8 +101,8 @@ tasks 能够实现市面上的各类TODO软件的收费功能。当然这需要�
 使用最多的就是任务完成状态，还有日期。掌握这个就足够使用tasks了
 :::
 
-### 1.日期 Data
-首先，日期 **data** 可以用自然语言或者具体的日期。如果是在tasks插件输入时间可以输入范围。由tasks插件计算时间。比如 `3 day`，会自动计算3天之后的具体时间。
+### 1.日期 Date
+首先，日期 **date** 可以用自然语言或者具体的日期。如果是在tasks插件输入时间可以输入范围。由tasks插件计算时间。比如 `3 day`，会自动计算3天之后的具体时间。
 ::: tip
 这是 tasks 插件中使用最多的参数，设定日期。包括开始时间、到期时间、重复时间等等。只要涉及到日期就是在这里使用。
 - due <到期时间>
@@ -163,7 +163,7 @@ every year (每年)
 ### 2.任务完成 Done
 **任务完成状态🍖：**
 - **完成**的任务，使用 `done` 
-- **未完成**的任务，使用`not done
+- **未完成**的任务，使用`not done`
 
 ### 3.任务和日期 Done & Data
  **任务完成时间📅：**  
@@ -271,7 +271,7 @@ due before in two weeks
 ```
 @tab NOT 否，不是❓👍
 ```js
-11
+NOT (path includes inbox)
 ```
 @tab AND NOT
 ```markdown
@@ -403,10 +403,7 @@ hide edit button  // 隐藏 编辑按钮
 ```markdown
 show due date // 展示 到期日期
 ```
-@tab 面板3
-```markdown
-cd tab3
-```
+
 :::
 
 ## 😍六、综合查询项
@@ -505,43 +502,43 @@ task的用法到这里，后面会写tasks的实战用法。
 
 ## task语法查速查表
 
-| 过滤器                                                       | 排序                                     | 分组                   | 显示                   |
-| ------------------------------------------------------------ | :--------------------------------------: | :--------------------: | :--------------------: |
-| `done` `not done`                                            | `sort by status`                         | `group by status`      |                        |
-| `done (before, after, on) <date>` `has done date` `no done date` `done date is invalid` | `sort by done`                           | `group by done`        | `hide done date`       |
-| `status.name (includes, does not include) <string>` `status.name (regex matches, regex does not match) /regex/i` | `sort by status.name`                    | `group by status.name` |                        |
-| `status.type (is, is not) (TODO, DONE, IN_PROGRESS, CANCELLED, NON_TASK)` | `sort by status.type`                    | `group by status.type` |                        |
-| `starts (before, after, on) <date>` `has start date` `no start date` `start date is invalid` | `sort by start`                          | `group by start`       | `hide start date`      |
-| `scheduled (before, after, on) <date>` `has scheduled date` `no scheduled date` `scheduled date is invalid` | `sort by scheduled`                      | `group by scheduled`   | `hide scheduled date`  |
-| `due (before, after, on) <date>` `has due date` `no due date` `due date is invalid` | `sort by due`                            | `group by due`         | `hide due date`        |
-| `happens (before, after, on) <date>` `has happens date` `no happens date` | `sort by happens`                        | `group by happens`     |                        |
-| `is recurring` `is not recurring`                            |                                          | `group by recurring`   |                        |
-| `recurrence (includes, does not include) <string>` `recurrence (regex matches, regex does not match) /regex/i` |                                          | `group by recurrence`  | `hide recurrence rule` |
-| `priority is (above, below, not)? (low, none, medium, high)` | `sort by priority`                       | `group by priority`    | `hide priority`        |
-|                                                              | `sort by urgency`                        |                        | `show urgency`         |
-| `path (includes, does not include) <path>` `path (regex matches, regex does not match) /regex/i` | `sort by path`                           | `group by path`        |                        |
-|                                                              |                                          | `group by root`        |                        |
-|                                                              |                                          | `group by folder`      |                        |
-| `filename (includes, does not include) <filename>` `filename (regex matches, regex does not match) /regex/i` | `sort by filename`                       | `group by filename`    |                        |
-| `heading (includes, does not include) <string>` `heading (regex matches, regex does not match) /regex/i` | `sort by heading`                        | `group by heading`     |                        |
-|                                                              |                                          | `group by backlink`    | `hide backlink`        |
-| `description (includes, does not include) <string>` `description (regex matches, regex does not match) /regex/i` | `sort by description`                    |                        |                        |
-| `tag (includes, does not include) <tag>` `tags (include, do not include) <tag>` `tag (regex matches, regex does not match) /regex/i` `tags (regex matches, regex does not match) /regex/i` | `sort by tag` `sort by tag <tag_number>` | `group by tags`        |                        |
-| **组合过滤器**                                               |                                          |                        |                        |
-| `(filter 1) AND (filter 2)`                                  |                                          |                        |                        |
-| `(filter 1) OR (filter 2)`                                   |                                          |                        |                        |
-| `NOT (filter 1)`                                             |                                          |                        |                        |
-| `(filter 1) XOR (filter 2)`                                  |                                          |                        |                        |
-| `(filter 1) AND NOT (filter 2)`                              |                                          |                        |                        |
-| `(filter 1) OR NOT (filter 2)`                               |                                          |                        |                        |
-| `(filter 1) AND ((filter 2) OR (filter 3))`                  |                                          |                        |                        |
-|                                                              |                                          |                        ||
-| `exclude sub-items`                                          |                                          |                        |                        |
-| `limit to <number> tasks` `limit <number>`                   |                                          |                        |                        |
-| **其他布局选项**                                             |                                          |                        |                        |
-| `hide edit button`                                           | 隐藏编辑按钮 |                        |                        |
-| `hide task count`                                            | 隐藏任务统计 |                        |                        |
-| `short mode`                                                 | 短模式(简洁显示任务信息) |                        |                        |
+| 过滤器                                                                                                                                                                                        |                    排序                    |           分组           |           显示           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------: | :--------------------: | :--------------------: |
+| `done` `not done`                                                                                                                                                                          |             `sort by status`             |   `group by status`    |                        |
+| `done (before, after, on) <date>` `has done date` `no done date` `done date is invalid`                                                                                                    |              `sort by done`              |    `group by done`     |    `hide done date`    |
+| `status.name (includes, does not include) <string>` `status.name (regex matches, regex does not match) /regex/i`                                                                           |          `sort by status.name`           | `group by status.name` |                        |
+| `status.type (is, is not) (TODO, DONE, IN_PROGRESS, CANCELLED, NON_TASK)`                                                                                                                  |          `sort by status.type`           | `group by status.type` |                        |
+| `starts (before, after, on) <date>` `has start date` `no start date` `start date is invalid`                                                                                               |             `sort by start`              |    `group by start`    |   `hide start date`    |
+| `scheduled (before, after, on) <date>` `has scheduled date` `no scheduled date` `scheduled date is invalid`                                                                                |           `sort by scheduled`            |  `group by scheduled`  | `hide scheduled date`  |
+| `due (before, after, on) <date>` `has due date` `no due date` `due date is invalid`                                                                                                        |              `sort by due`               |     `group by due`     |    `hide due date`     |
+| `happens (before, after, on) <date>` `has happens date` `no happens date`                                                                                                                  |            `sort by happens`             |   `group by happens`   |                        |
+| `is recurring` `is not recurring`                                                                                                                                                          |                                          |  `group by recurring`  |                        |
+| `recurrence (includes, does not include) <string>` `recurrence (regex matches, regex does not match) /regex/i`                                                                             |                                          | `group by recurrence`  | `hide recurrence rule` |
+| `priority is (above, below, not)? (low, none, medium, high)`                                                                                                                               |            `sort by priority`            |  `group by priority`   |    `hide priority`     |
+|                                                                                                                                                                                            |            `sort by urgency`             |                        |     `show urgency`     |
+| `path (includes, does not include) <path>` `path (regex matches, regex does not match) /regex/i`                                                                                           |              `sort by path`              |    `group by path`     |                        |
+|                                                                                                                                                                                            |                                          |    `group by root`     |                        |
+|                                                                                                                                                                                            |                                          |   `group by folder`    |                        |
+| `filename (includes, does not include) <filename>` `filename (regex matches, regex does not match) /regex/i`                                                                               |            `sort by filename`            |  `group by filename`   |                        |
+| `heading (includes, does not include) <string>` `heading (regex matches, regex does not match) /regex/i`                                                                                   |            `sort by heading`             |   `group by heading`   |                        |
+|                                                                                                                                                                                            |                                          |  `group by backlink`   |    `hide backlink`     |
+| `description (includes, does not include) <string>` `description (regex matches, regex does not match) /regex/i`                                                                           |          `sort by description`           |                        |                        |
+| `tag (includes, does not include) <tag>` `tags (include, do not include) <tag>` `tag (regex matches, regex does not match) /regex/i` `tags (regex matches, regex does not match) /regex/i` | `sort by tag` `sort by tag <tag_number>` |    `group by tags`     |                        |
+| **组合过滤器**                                                                                                                                                                                  |                                          |                        |                        |
+| `(filter 1) AND (filter 2)`                                                                                                                                                                |                                          |                        |                        |
+| `(filter 1) OR (filter 2)`                                                                                                                                                                 |                                          |                        |                        |
+| `NOT (filter 1)`                                                                                                                                                                           |                                          |                        |                        |
+| `(filter 1) XOR (filter 2)`                                                                                                                                                                |                                          |                        |                        |
+| `(filter 1) AND NOT (filter 2)`                                                                                                                                                            |                                          |                        |                        |
+| `(filter 1) OR NOT (filter 2)`                                                                                                                                                             |                                          |                        |                        |
+| `(filter 1) AND ((filter 2) OR (filter 3))`                                                                                                                                                |                                          |                        |                        |
+|                                                                                                                                                                                            |                                          |                        |                        |
+| `exclude sub-items`                                                                                                                                                                        |                                          |                        |                        |
+| `limit to <number> tasks` `limit <number>`                                                                                                                                                 |                                          |                        |                        |
+| **其他布局选项**                                                                                                                                                                                 |                                          |                        |                        |
+| `hide edit button`                                                                                                                                                                         |                  隐藏编辑按钮                  |                        |                        |
+| `hide task count`                                                                                                                                                                          |                  隐藏任务统计                  |                        |                        |
+| `short mode`                                                                                                                                                                               |              短模式(简洁显示任务信息)               |                        |                        |
 
 
 ::: danger 加群交流
