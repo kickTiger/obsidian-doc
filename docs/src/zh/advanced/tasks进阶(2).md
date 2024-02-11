@@ -165,7 +165,7 @@ every year (每年)
 - **完成**的任务，使用 `done` 
 - **未完成**的任务，使用`not done`
 
-### 3.任务和日期 Done & Data
+### 3.任务和日期 Done & Date
  **任务完成时间📅：**  
  - `done (before, after, on) <date>`，
  - 完成在(之前，之后，在某天) 日期
@@ -204,7 +204,7 @@ not done
 due today
 ```
 ````
-@tab 今天到期的所有未完成任务#id44
+@tab 限定范围的所有未完成任务#id44
 ````markdown
 ```tasks
 not done
@@ -228,7 +228,7 @@ due before in two weeks
 未完成的
 今天到期
 ````
-@tab 今天到期的所有未完成任务#id44
+@tab 限定范围的所有未完成任务#id44
 ````markdown
 没有完成
 昨天到期
@@ -391,17 +391,21 @@ NOT (path includes inbox)
 -   `task count` 任务数量统计
 
 ::: code-tabs
-@tab 面板1
+@tab 隐藏样式
 ```markdown
-show due date     // 展示 到期日期
+hide due date     // 隐藏 到期日期
 hide backlink     // 隐藏 baklink
 hide start date   // 隐藏 开始日期
 hide done date    // 隐藏 完成日期
 hide edit button  // 隐藏 编辑按钮
 ```
-@tab 面板2
+@tab 显示样式
 ```markdown
-show due date // 展示 到期日期
+show due date     // 隐藏 到期日期
+show backlink     // 隐藏 baklink
+show start date   // 隐藏 开始日期
+show done date    // 隐藏 完成日期
+show edit button  // 隐藏 编辑按钮
 ```
 
 :::
@@ -414,7 +418,7 @@ show due date // 展示 到期日期
 done     # 任务完成， done/not done
 not done # 没有完成
 ```
-@tab data时间
+@tab date时间
 ```markdown
 due   # 到期时间
 start # 开始时间
@@ -433,9 +437,10 @@ short mode        # 短模式，按照一定的规则
 ```
 @tab 重要程度
 ```markdown
-priority is high # low，medium，high 分别是低/中/高
+priority is high 
 priority is low
 priority is medium
+# low，medium，high 分别是低/中/高
 ```
 @tab 是否重复
 ```markdown
