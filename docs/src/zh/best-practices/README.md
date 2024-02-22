@@ -43,5 +43,6 @@ category:
 10. [obsidian同步方案(一)官方同步详解](/zh/best-practices/obsidian-synchronize-official.md) obsidian同步方案官方版详解
 11. [使用VSCode进行批量编辑Obsidian库](/zh/best-practices/VSCode-Batch-Edit.md) 使用VSCode进行批量编辑Obsidian库，批量替换的利器
 12. [Obsidian账号安全开启二步验证](/zh/best-practices/2FA-login.md) Obsidian账号安全开启二步验证，强烈建议开启此选项。
+13. [Kopia详细配置Windows和macOS](/zh/best-practices/Kopia-Configuration.md) 更新Kopia的详细配置，图文
 
 
