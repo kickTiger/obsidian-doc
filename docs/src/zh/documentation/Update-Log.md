@@ -37,6 +37,18 @@ icon: page
 - 请大家更新收藏为新的域名，
 :::
 
+## 2024-02-22
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加[Kopia详细配置Windows和macOS](/zh/best-practices/Kopia-Configuration.md) 更新Kopia的详细配置，图文
+- obsidian插件更新，更新总计 ==1461== +插件，更新到最新版本，
+	- [点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 网站优化若干文字描述，还有新增dataview中的代码示例。
+
+**📝计划** <Badge text="Plan" type="note" />  
+- 新的网站在构建中，更多的内容和更多的实用功能，搜索加强等。尽请期待！
+
 ## 2024-01-30
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加[咖啡豆社区FAQ](/zh/documentation/CoffeeBean-Community-FAQ.md) 💖关于咖啡豆社区的初心，网站会持续更新，收藏哦！
