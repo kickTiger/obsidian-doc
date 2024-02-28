@@ -13,3 +13,4 @@ category:
 2. [dataview-查指定标签的文件](/zh/dataview-snippets/dataview查指定标签的文件.md)
 3. [dvjs-inline-keywords](/zh/dataview-snippets/dvjs-inline-keywords.md)
 4. [dataviewjs-限定标签-查关键字所在行内容](/zh/dataview-snippets/Dvjs-QueryTags-inlineKeywords.md) 限定指定标签的文件，在查询指定关键字所在的行内容 
+5. [dataview-查询所有类型的文件](/zh/dataview-snippets/dataviewjs-query-all-filetype.md) 可以将库里非笔记的文件查询出来
