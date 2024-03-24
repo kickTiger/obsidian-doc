@@ -37,7 +37,7 @@ Project 是非常不错的插件，安装量  `43,701` ，稳定更新，更新�
 ### 3.1 创建项目
 #### 3.1.1 1/2 创建方式
 1.   程序右侧边栏图标点击创建- `Open projects`
-2.   **在文件列表任意文件夹📁右键， Create project in foldel 在文件夹创建项目**（推荐）
+2.   **在文件列表任意文件夹📁右键， Create project in folder 在文件夹创建项目**（推荐）
 3.   命令面板呼出搜索`pro`命令创建
     -   Projects: Show projects，显示项目
     -   Projects: Create new note，创建笔记
@@ -72,9 +72,9 @@ Project 是非常不错的插件，安装量  `43,701` ，稳定更新，更新�
     -   New project 新的项目
     -   New view 新的视图，就是上面提到的四种展示，表格、
     -   New note 新的笔记
-5.  **在文件列表任意文件夹📁右键， Create project in foldel 在文件夹创建项目**（推荐）
+5.  **在文件列表任意文件夹📁右键， Create project in folder 在文件夹创建项目**（推荐）
 ::: tip 推荐新建-方便管理
-**在文件列表任意文件夹📁右键， Create project in foldel 在文件夹创建项目**（推荐）
+**在文件列表任意文件夹📁右键， Create project in folder 在文件夹创建项目**（推荐）
 :::
 ::: tip
 通过项目页面可视化的添加项目，添加视图，添加笔记。避免了在文件列表中反复横跳。
