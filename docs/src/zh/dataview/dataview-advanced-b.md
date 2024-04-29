@@ -80,7 +80,8 @@ from "文件夹名1" - #标签名1
 from "文件夹名1" - [[文件名1]]
 
 # 查询 文件夹，并排除另一个文件夹 2024-04-29新增
-FROM "tasks" AND -"Archived"
+FROM "tasks" AND -"tasks/Archived"
+FROM "tasks" AND !"tasks/Archived"
 
 ```
 :::
