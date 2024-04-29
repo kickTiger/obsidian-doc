@@ -36,12 +36,30 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2024-04-29
+**✨新增** <Badge text="Features" type="tip" />  
+- obsidian插件更新，更新总计 ==1632== +插件，更新到最新版本，
+	- [点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+- obsidian主题更新，更新到最新版本，总计 ==213== 款主题，
+	- [点击下载obsidian主题](/zh/documentation/obsidian-themes-download.md) 
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 新增dataview 语法，排除语法解释，增加查询文件夹1同时排除文件夹2的用法
+
+
+## 2024-03-31
+**✨新增** <Badge text="Features" type="tip" />  
+- obsidian插件更新，更新总计 ==1628== +插件，更新到最新版本，
+	- [点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+- obsidian主题更新，更新到最新版本，总计 ==213== 款主题，
+	- [点击下载obsidian主题](/zh/documentation/obsidian-themes-download.md) 
 
 ## 2024-02-28
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加[dataview-查询所有类型的文件](/zh/dataview-snippets/dataviewjs-query-all-filetype.md) 可以将库里非笔记的文件查询出来 
 - obsidian插件更新，更新总计 ==1507== +插件，更新到最新版本，
 	- [点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+
 
 
 
