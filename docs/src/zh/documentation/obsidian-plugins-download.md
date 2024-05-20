@@ -68,7 +68,7 @@ headerDepth: 2
 
 ::: warning 每日同步更新网盘下载
 **百度网盘比较齐全也比较新**  
-链接：https://pan.baidu.com/s/1Wvv9nzChzVPjJTssdzyxJw?pwd=36tz 
+链接：https://pan.baidu.com/s/1h3jS6So9j1c2HpgbYuIbMQ?pwd=ba65 
 
 按需下载，装多了卡还会冲突！
 :::
@@ -76,7 +76,7 @@ headerDepth: 2
 ::: details 网盘提取码
 网盘提取码，右下角有复制按钮
 ```lua
-36tz
+ba65
 ```
 :::
 
