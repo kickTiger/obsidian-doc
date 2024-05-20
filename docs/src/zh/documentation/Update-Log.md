@@ -36,6 +36,14 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2024-05-20
+**🐛修复** <Badge text="Fixed" type="note" />  
+- 修复插件下载网盘失效问题，请使用新地址
+- obsidian插件更新到最新版，更新总计 ==1706== +插件，更新到最新版本，
+	- [点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+- obsidian主题更新，更新到最新版本，总计 ==236== 款主题，
+	- [点击下载obsidian主题](/zh/documentation/obsidian-themes-download.md) 
+
 ## 2024-05-15
 **✨新增** <Badge text="Features" type="tip" />  
 - obsidian插件更新到最新版，更新总计 ==1706== +插件，更新到最新版本，
