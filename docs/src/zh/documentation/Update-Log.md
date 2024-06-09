@@ -36,6 +36,24 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+
+## 2024-06-09
+**✨新增** <Badge text="Features" type="tip" />  
+- obsidian插件更新到 2024-06-09 最新版，更新总计 ==1747== +插件，更新到最新版本，
+	- [点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+- obsidian主题更新，更新到 2024-06-09 最新版本，总计 ==236== 款主题，
+	- [点击下载obsidian主题](/zh/documentation/obsidian-themes-download.md) 
+
+**📝计划** <Badge text="Plan" type="note" />  
+- 为响应群友的赞赏留言，网站计划新增大量示例，包括但不限于CSS片段、dataview+dataviewjs代码、示例库模板、obsidian主题等等。因为内容太多，可能会新建一个新的网站，为广大咖啡社群友友们服务。2年时光，有你陪伴，无限进步中。
+
+可以加入我们的千人社群，随时获得最新的更新资讯和直接的问题解答。无门槛免费入群，但需要遵守群规。
+
+::: details 🌱【点我-扫码加群】
+![加群交流！先加在拉](/assets/WeChat-QRcode.jpg =300x) 
+::: 
+
+
 ## 2024-05-20
 **🐛修复** <Badge text="Fixed" type="note" />  
 - 修复插件下载网盘失效问题，请使用新地址
