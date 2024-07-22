@@ -72,6 +72,26 @@ $$
 [codecogs.com](https://editor.codecogs.com/) 在线LaTeX公式编辑器  
 [在线LaTeX公式编辑器-编辑器 (latexlive.com)](https://www.latexlive.com/) 在线LaTeX公式编辑器
 
+**补充在线编辑器**
+✨ 2024-07-22 更新在线编辑器
+
+以下是几个知名且功能丰富的在线 LaTeX 编辑器：
+
+1. **LaTeX Live**: 提供了一个在线 LaTeX 公式编辑器，可以识别图片中的公式，并支持多种格式的导出，如 SVG、PNG、JPG 和 MathML 等。 https://www.latexlive.com/ 
+    
+2. **Overleaf**: 这是一个易于使用的在线 LaTeX 编辑平台。它提供了一个简洁且直观的界面来编写和编辑复杂的 LaTeX 文档。Overleaf 支持实时协作功能，并提供了数百个模板供用户选择。它可以导出为多种格式，包括 PDF、HTML 和 PowerPoint。 https://www.overleaf.com/
+    
+3. **ShareLaTeX**: ShareLaTeX 后被 Overleaf 吸收合并，其功能与 Overleaf 类似，提供了一个强大且易于使用的在线 LaTeX 编辑器，支持实时预览和多人协作编辑。 https://www.sharelatex.com/
+    
+4. **Authorea**：除了 LaTeX 文档外，Authorea 还支持 Markdown、HTML 和多种科学计算格式。适合撰写科学论文、数据报告等文档，并支持在线协作。 https://www.authorea.com/
+
+    
+5. **MikTeX Online Editor**：这是一个网页版的 TeX 环境，不仅可以编辑 LaTeX 代码，而且可以直接运行 TeX 命令生成 PDF 输出。 https://miktex.org/
+    
+6. **Jupyter Notebook**: 虽然 Jupyter 不是专门用于 LaTeX 的编辑器，但它支持 LaTeX 格式输出，并且结合 Markdown 和 Python、R 或 Julia 等编程语言进行数据分析和报告撰写非常高效。 https://jupyter.org/
+
+这些在线工具主要帮助用户在不需要安装任何本地软件的情况下编写数学公式、科学文档和其他需要 LaTeX 格式的文本内容。每个平台都有自己的特性和优点.
+
 ::: tip 欢迎投稿
 公式这玩意用的不多，欢迎熟悉的同学投稿用法和纠错，评论区留言或者联系站长@咖啡豆
 :::
