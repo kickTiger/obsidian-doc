@@ -42,4 +42,6 @@ tasks是 obsidian 的任务管理插件。他可以实现丰富的任务管理�
 1. [tasks进阶(1)](/zh/advanced/tasks进阶(1).md)
 2. [tasks进阶(2)](/zh/advanced/tasks进阶(2).md)
 3. [tasks进阶(3)](/zh/advanced/tasks进阶(3).md)
-4. [tasks语法快速参考](tasks-Quick-Reference.md)
+4. [tasks语法快速参考](/zh/tasks-Quick-Reference.md)
+5. [tasks插件的日期解密](/zh/tasks-difference-between-dates.md) 
+

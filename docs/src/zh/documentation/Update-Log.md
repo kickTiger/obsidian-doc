@@ -36,6 +36,12 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2024-09-02
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加[tasks插件的日期解密](/zh/tasks-difference-between-dates.md)  更好的理解tasks插件的日期格式
+- obsidian插件更新到 `2024-09-02` 最新版，更新总计 ==1779== +插件，更新到最新版本，
+	- [点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+
 ## 2024-08-10
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站更新[tasks插件常见语法示例](/zh/tasks/tasks-common-examples.md)，把这块补齐，有不会的可以加入社群沟通交流。
