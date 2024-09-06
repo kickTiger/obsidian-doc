@@ -38,7 +38,7 @@ icon: page
 :::
 ## 2024-09-02
 **✨新增** <Badge text="Features" type="tip" />  
-- 网站增加[tasks插件的日期解密](/zh/tasks-difference-between-dates.md)  更好的理解tasks插件的日期格式
+- 网站增加[tasks插件的日期解密](/zh/tasks/tasks-difference-between-dates.md)  更好的理解tasks插件的日期格式
 - obsidian插件更新到 `2024-09-02` 最新版，更新总计 ==1779== +插件，更新到最新版本，
 	- [点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
 
