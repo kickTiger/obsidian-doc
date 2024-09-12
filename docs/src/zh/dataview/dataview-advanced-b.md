@@ -74,15 +74,14 @@ from [[文件名1]] or [[文件名2]]
 @tab - 排除
 ```sql
 # 查询 文件夹:文件夹名1，并且排除其中带有标签 #标签名1 的文件
-from "文件夹名1" - #标签名1
+from "文件夹名1" and -#标签名1
 
 # 查询 文件夹:文件夹名1，并且排除其中的文件:文件名1
-from "文件夹名1" - [[文件名1]]
+from "文件夹名1" and -[[文件名1]]
 
 # 查询 文件夹，并排除另一个文件夹 2024-04-29新增
-FROM "tasks" AND -"tasks/Archived"
-FROM "tasks" AND !"tasks/Archived"
-
+FROM "tasks" and -"tasks/Archived"
+FROM "tasks" and !"tasks/Archived"
 ```
 :::
 

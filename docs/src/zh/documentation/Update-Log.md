@@ -36,6 +36,20 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+
+## 2024-09-29
+**✨新增** <Badge text="Features" type="tip" />  
+- obsidian插件更新到 `2024-09-29` 最新版，更新总计 ==1779== +插件，更新到最新版本，
+	- [点击下载obsidian全部插件](/zh/documentation/obsidian-plugins-download.md) 免登录，全高速，不限量
+- 插件的更新可能不会写的频繁，但是会经常更新，每天都会更新的，大家直接去下载就可以了。请记住这个网址，因为网盘的地址可能会发生变化。 www.obsidian.vip 咖啡豆文档
+
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 优化 dataview 代码中 `from` 文件夹的解释，更容易理解，同时将易错点列出来，避免新手出错。
+
+## 2024-09-12
+**🐛修复** <Badge text="Fixed" type="note" />  
+- 在 dataview 演示代码中修复 **排除语法中** 部分书写有误的语法
+
 ## 2024-09-02
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加[tasks插件的日期解密](/zh/tasks/tasks-difference-between-dates.md)  更好的理解tasks插件的日期格式
