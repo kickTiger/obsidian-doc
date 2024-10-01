@@ -36,6 +36,9 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2024-10-01
+**🐛修复** <Badge text="Fixed" type="note" />  
+- 修复 [tasks](/zh/tasks/README.md) 任务页面的链接错误
 
 ## 2024-09-29
 **✨新增** <Badge text="Features" type="tip" />  
