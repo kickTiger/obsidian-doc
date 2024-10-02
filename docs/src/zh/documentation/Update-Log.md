@@ -36,6 +36,10 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2024-10-02
+**🐛修复** <Badge text="Fixed" type="note" />  
+- 修复 [dataviewjs-列出标签所在段落内容](/zh/dataview-snippets/dvjs-query-tags-.md)文章中的显示错误
+
 ## 2024-10-01
 **🐛修复** <Badge text="Fixed" type="note" />  
 - 修复 [tasks](/zh/tasks/README.md) 任务页面的链接错误

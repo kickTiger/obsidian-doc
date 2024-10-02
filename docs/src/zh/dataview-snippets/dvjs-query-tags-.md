@@ -28,8 +28,6 @@ number headings: auto, first-level 3, max 6, start-at 1, 1.1
 ### 3 代码 
 代码框右下有复制按钮，点击自动复制代码
 
-````
-
 
 ::: code-tabs
 @tab 1. 查询单一标签
