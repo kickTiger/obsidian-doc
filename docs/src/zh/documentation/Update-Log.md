@@ -36,6 +36,10 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2024-10-03
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 更新部分描述，插件的总数量更新为 `1924`个，这个是目前在第三方商城上架的插件，不包括已经下架和未上架的插件。网盘已经更新的最新版，除了少部分文件确实的插件。
+
 ## 2024-10-02
 **🐛修复** <Badge text="Fixed" type="note" />  
 - 修复 [dataviewjs-列出标签所在段落内容](/zh/dataview-snippets/dvjs-query-tags-.md)文章中的显示错误
