@@ -36,6 +36,12 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+
+## 2024-11-03
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加[dataviewjs-统计今天喝水总量](/zh/dataview-snippets/dataviewjs-count-field-value.md)  也可以修改为任何想统计的值
+- 
+
 ## 2024-10-03
 **⚡️优化** <Badge text="Refactored" type="warning" />  
 - 更新部分描述，插件的总数量更新为 `1924`个，这个是目前在第三方商城上架的插件，不包括已经下架和未上架的插件。网盘已经更新的最新版，除了少部分文件确实的插件。
