@@ -37,10 +37,13 @@ icon: page
 - 请大家更新收藏为新的域名，
 :::
 
+## 2024-11-14
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站增加 [Obsidian安装包极速更新链接](/zh/documentation/obsidian-download.md)，最新版的在这里下载
+
 ## 2024-11-03
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站增加[dataviewjs-统计今天喝水总量](/zh/dataview-snippets/dataviewjs-count-field-value.md)  也可以修改为任何想统计的值
-- 
 
 ## 2024-10-03
 **⚡️优化** <Badge text="Refactored" type="warning" />  
