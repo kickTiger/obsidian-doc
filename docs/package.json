@@ -11,14 +11,21 @@
   },
   "devDependencies": {
     "@vuepress/client": "2.0.0-beta.61",
+    "@vuepress/core": "2.0.0-beta.61",
     "@vuepress/plugin-docsearch": "2.0.0-beta.61",
-    "vue": "^3.2.47",
+    "@vuepress/shared": "2.0.0-beta.61",
+    "@vuepress/utils": "2.0.0-beta.61",
+    "vue": "3.2.47",
+    "vue-router": "4.1.6",
     "vuepress": "2.0.0-beta.61",
     "vuepress-theme-hope": "2.0.0-beta.205"
   },
   "dependencies": {
     "react": "16.14.0",
     "react-dom": "16.14.0",
-    "sass": "^1.62.1"
+    "sass": "1.62.1"
+  },
+  "engines": {
+    "node": ">=16.20.2"
   }
 }

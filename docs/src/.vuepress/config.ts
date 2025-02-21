@@ -1,5 +1,5 @@
 import { defineUserConfig } from "vuepress";
-import theme from "./theme.js";
+import theme from "./theme";
 
 // 2023-09-13 23:39:42 导入了搜索插件
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";
