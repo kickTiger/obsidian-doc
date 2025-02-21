@@ -3,3 +3,18 @@ from = "/baidu_verify_codeva-GMZHTetZeC.html"
 to = "/baidu_verify_codeva-GMZHTetZeC.html"
 status = 200
 force = true
+
+[build]
+  base = "docs"
+  publish = "src/.vuepress/dist"
+  command = """
+    node -v
+    npm install -g pnpm@7
+    pnpm install
+    pnpm docs:build
+    """
+
+[build.environment]
+  NODE_VERSION = "16.20.2"
+  NPM_FLAGS = "--version"
+  USE_PNPM = "true"
