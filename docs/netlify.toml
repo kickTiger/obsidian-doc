@@ -9,12 +9,12 @@ force = true
   publish = "src/.vuepress/dist"
   command = """
     node -v
-    npm install -g pnpm@7
+    npm install -g pnpm@7.33.7
     pnpm install
     pnpm docs:build
     """
 
 [build.environment]
-  NODE_VERSION = "16.20.2"
+  NODE_VERSION = "18.12.0"
   NPM_FLAGS = "--version"
   USE_PNPM = "true"
