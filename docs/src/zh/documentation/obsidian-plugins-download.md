@@ -68,17 +68,13 @@ headerDepth: 2
 :::
 
 ::: warning 每日同步更新网盘下载
-**百度网盘比较齐全也比较新**  
-链接：https://pan.baidu.com/s/1h3jS6So9j1c2HpgbYuIbMQ?pwd=ba65 
+百度网盘老失效，更换为夸克网盘 2025-03-18
+
+> https://pan.quark.cn/s/76f690eae289
 
 按需下载，装多了卡还会冲突！
 :::
 
-::: details 网盘提取码
-网盘提取码，右下角有复制按钮
-```lua
-ba65
-```
-:::
+
 
 
