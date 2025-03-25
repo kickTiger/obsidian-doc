@@ -36,6 +36,10 @@ icon: page
 - 给VIP的你。
 - 请大家更新收藏为新的域名，
 :::
+## 2025-03-24
+**📝变更** <Badge text="Changed" type="note" />   
+- 因为百度网盘老是失效，123网盘也限流。Obsidian主题下载更换为**夸克网盘**的地址，可以在对应的页面获取下载地址。
+
 
 ## 2025-03-18
 **📝变更** <Badge text="Changed" type="note" />   
