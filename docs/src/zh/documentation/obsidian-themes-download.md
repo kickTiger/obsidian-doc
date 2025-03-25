@@ -10,6 +10,7 @@ headerDepth: 2
 ---
 ## 1 网盘主题更新日志
 ::: warning 更新日志
+- 2025-03-24 更新 持续更新
 - 2024-01-30 更新 总计 ==213== 款主题
 - 2023-12-11 更新 总计 ==167== 个主题
 
@@ -24,14 +25,7 @@ headerDepth: 2
 2. 然后打开 obsidian 设置，外观，管理，开启主题
 
 ::: warning 每日同步更新网盘下载 主题下载
-链接：https://pan.baidu.com/s/10nkbQROVvx07Zlfnvn_W0w?pwd=dxgx 
-提取码：dxgx
 
+https://pan.quark.cn/s/8dffe2723d84
 :::
 
-::: details 网盘提取码
-网盘提取码，右下角有复制按钮
-```lua
-dxgx
-```
-:::
