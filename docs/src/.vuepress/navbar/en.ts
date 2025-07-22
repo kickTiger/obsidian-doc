@@ -29,14 +29,14 @@ export const enNavbar = navbar([
     ],
   },
   {
-    text: "进阶用法",
+    text: "Bases专栏",
     icon: "creative",
-    prefix: "/zh/advanced/",
-    link: "/zh/advanced/",
+    prefix: "/zh/bases/",
+    link: "/zh/bases/",
   },
   {
-    text: "咖啡豆的博客",
+    text: "更新日志",
     icon: "note",
-    link: "#",
+    link: "/zh/documentation/Update-Log.md",
   },
 ]);
