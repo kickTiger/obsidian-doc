@@ -38,6 +38,12 @@ icon: page
 :::
 
 ## 2025-07-23
+**⚡️优化** <Badge text="Refactored" type="warning" />  
+- 调整了顶部导航条，将"进阶用法"修改为"[Bases专栏](/zh/bases/)"，将"咖啡豆的博客"修改为"[更新日志](/zh/documentation/Update-Log.md)"
+- 优化了[主页](/zh/)显示，新增了[Bases数据库](/zh/bases/)、[Tasks任务管理](/zh/tasks/)、[Dataview数据查询](/zh/dataview/)等12个功能区块
+- 更新了[社区插件](/zh/community-plugins/)数量统计，从1924个更新为2571个插件
+- 更新了[核心插件](/zh/core-plugins/)页面，新增Bases数据库功能介绍
+
 **✨新增** <Badge text="Features" type="tip" />  
 - 网站新增 [bases](/zh/bases/) 栏目，提供Obsidian基础功能详解
 	- [bases基础语法](/zh/bases/bases-syntax.md) - Obsidian基础语法详解
