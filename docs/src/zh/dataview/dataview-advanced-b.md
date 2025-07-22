@@ -195,9 +195,9 @@ sort file.mtime desc
 
 ```sql
 table without id
-	file.link as 文件名,
+	file.link as "文件名",
 	file.folder as "文件夹",
-	file.mtime as 修改时间
+	file.mtime as "修改时间"
 from "" and -#obsidian
 WHERE file.mtime >= date(today) - dur(7 day)
 sort file.mtime desc
