@@ -6,12 +6,9 @@ category:
   - 进阶用法
 ---
 ## 进阶目录
-1. [tasks进阶(1)](/zh/advanced/tasks进阶(1).md)
-2. [tasks进阶(2)](/zh/advanced/tasks进阶(2).md)
-3. [tasks进阶(3)](/zh/advanced/tasks进阶(3).md)
-4. [quickadd进阶教程(1)](/zh/advanced/quickadd-advanced-a.md)
-5. [obsidian网页剪藏](/zh/advanced/obsidian网页剪藏.md)
-6. [正则表达式](/zh/advanced/regular-expression.md) 整理几十个常用的正则表达式，直接复制使用即可
+1. [quickadd进阶教程(1)](/zh/advanced/quickadd-advanced-a.md)
+2. [obsidian网页剪藏](/zh/advanced/obsidian网页剪藏.md)
+3. [正则表达式](/zh/advanced/regular-expression.md) 整理几十个常用的正则表达式，直接复制使用即可
 
 ::: danger 加群交流
 如果在使用和学习中有不明白的地方，或者想看看别人的经验

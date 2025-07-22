@@ -39,8 +39,10 @@ headerDepth: 1
 tasks是 obsidian 的任务管理插件。他可以实现丰富的任务管理。比Obsidian 系统自带的待办功能强太多了，拥有了他基本上就可以放下别的todo list 任务清单管理App了。
 
 ### 3 Tasks相关文章
-1. [tasks进阶(1)](/zh/advanced/tasks进阶(1).md)
-2. [tasks进阶(2)](/zh/advanced/tasks进阶(2).md)
-3. [tasks进阶(3)](/zh/advanced/tasks进阶(3).md)
-4. [tasks语法快速参考](/zh/tasks/tasks-Quick-Reference.md)
-5. [tasks插件的日期解密](/zh/tasks/tasks-difference-between-dates.md) 
+1. [tasks进阶(1)](/zh/tasks/tasks进阶(1).md) - 基础入门，插件介绍和基本操作
+2. [tasks进阶(2)](/zh/tasks/tasks进阶(2).md) - 进阶语法，详细讲解查询语法
+3. [tasks进阶(3)](/zh/tasks/tasks进阶(3).md) - 高级功能，排序、反向链接等
+4. [tasks常用示例汇总](/zh/tasks/tasks-common-examples.md) - 实用案例，拿来就用
+5. [tasks自定义过滤器](/zh/tasks/tasks-custom-filters.md) - 高级功能，自定义查询
+6. [tasks插件的日期解密](/zh/tasks/tasks-difference-between-dates.md) - 深入理解日期概念
+7. [tasks语法快速参考](/zh/tasks/tasks-Quick-Reference.md) - 语法速查表，忘记时查阅 

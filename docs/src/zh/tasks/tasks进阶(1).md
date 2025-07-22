@@ -108,7 +108,7 @@ tasks 插件无需过多配置。但是有一点要注意，经过测试，如�
 当填写完成后，点击 Apply 应用。刚刚的任务就会转化成 tasks 插件专有任务，添加了`task`标签和特定的emoji图标，这些图标不要删除。是提供给tasks插件查询的
 :::
 
-本章节讲解了 tasks 的基本操作，和注意的事项。以及增加快捷键的技巧。下一节将讲解tasks 的语法。[Tasks进阶(2) | obsidian文档咖啡豆版](/zh/advanced/tasks%E8%BF%9B%E9%98%B6(2).html)
+本章节讲解了 tasks 的基本操作，和注意的事项。以及增加快捷键的技巧。下一节将讲解tasks 的语法。[Tasks进阶(2) | obsidian文档咖啡豆版](/zh/tasks/tasks进阶(2).md)
 
 ::: danger 加群交流
 
