@@ -13,8 +13,8 @@ actions:
 - text: markdown语法
   link: /zh/markdown/
   
-- text: obsidian进阶用法
-  link: /zh/advanced/
+- text: bases数据库
+  link: /zh/bases/
   
 features:
 - title: Markdown 增强
@@ -29,7 +29,7 @@ features:
 
 - title: 完善的生态
   icon: layout
-  details: 借助于全球的爱好者和开发者，obsidian的生态发展的非常好，目前已经有822个社区插件
+  details: 借助于全球的爱好者和开发者，obsidian的生态发展的非常好，目前已经有2571个社区插件
   link: /zh/documentation/
 
 - title: 基于双链
@@ -61,6 +61,21 @@ features:
   icon: support
   details: windows、macOS、Android、iOS全平台客户端，让你无缝衔接你的知识库
   link: /zh/documentation/
+
+- title: Bases数据库
+  icon: database
+  details: Obsidian的核心数据库功能，支持结构化数据管理、自定义视图和公式计算，让笔记更加智能化
+  link: /zh/bases/
+
+- title: Tasks任务管理
+  icon: task
+  details: 强大的任务管理插件，支持GTD四象限、任务回顾等高级功能，完美替代传统TODO应用
+  link: /zh/tasks/
+
+- title: Dataview数据查询
+  icon: search
+  details: 基于SQL语法的数据查询插件，能够从笔记中提取和展示结构化数据，实现复杂的数据分析
+  link: /zh/dataview/
 ---
 
 
