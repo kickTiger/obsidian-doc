@@ -12,6 +12,14 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
     {
+      text: "Bases专栏🌞",
+      icon: "note",
+      prefix: "bases/",
+      link: "bases/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
       text: "Dataview专栏🌞",
       icon: "advance",
       prefix: "dataview/",
@@ -115,8 +123,15 @@ export const zhSidebar = sidebar({
       collapsible: true,
       children: "structure",
     },
-
-
-
+  ],
+  "/advanced/": [
+    {
+      text: "进阶技巧",
+      icon: "lightbulb",
+      prefix: "/advanced/",
+      children: [
+        "README.md",
+      ],
+    },
   ],
 });

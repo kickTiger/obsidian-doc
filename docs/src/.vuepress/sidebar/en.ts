@@ -18,4 +18,14 @@ export const enSidebar = sidebar({
     },
     "slides",
   ],
+  "/advanced/": [
+    {
+      text: "Advanced Tips",
+      icon: "lightbulb",
+      prefix: "/advanced/",
+      children: [
+        "README.md",
+      ],
+    },
+  ],
 });

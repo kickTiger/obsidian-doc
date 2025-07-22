@@ -92,6 +92,338 @@ $$
 
 这些在线工具主要帮助用户在不需要安装任何本地软件的情况下编写数学公式、科学文档和其他需要 LaTeX 格式的文本内容。每个平台都有自己的特性和优点.
 
+---
+
+## LaTeX 公式语法详解
+
+以下是 Obsidian 中 LaTeX 公式语法的详细介绍，帮助您掌握各种数学公式的编写方法。
+
+## 1. 基础语法
+
+### 行内公式
+
+使用单个 `$` 符号包围公式，可以在文本中插入行内公式。
+
+```markdown
+这是一个行内公式：$E = mc^2$
+```
+
+**效果：** 这是一个行内公式：$E = mc^2$
+
+### 块级公式
+
+使用双 `$$` 符号包围公式，创建独立的公式块。
+
+```markdown
+$$
+\sum_{i=1}^{n} x_i = x_1 + x_2 + \cdots + x_n
+$$
+```
+
+**效果：**
+$$
+\sum_{i=1}^{n} x_i = x_1 + x_2 + \cdots + x_n
+$$
+
+## 2. 基本运算符
+
+### 四则运算
+
+```latex
+加法：a + b
+减法：a - b
+乘法：a \times b 或 a \cdot b
+除法：a \div b 或 \frac{a}{b}
+```
+
+**示例：**
+- $a + b$
+- $a - b$
+- $a \times b$ 或 $a \cdot b$
+- $a \div b$ 或 $\frac{a}{b}$
+
+### 比较运算符
+
+```latex
+等于：a = b
+不等于：a \neq b
+大于：a > b
+小于：a < b
+大于等于：a \geq b
+小于等于：a \leq b
+约等于：a \approx b
+```
+
+**示例：**
+- $a = b$
+- $a \neq b$
+- $a > b$, $a < b$
+- $a \geq b$, $a \leq b$
+- $a \approx b$
+
+## 3. 分数与根式
+
+### 分数
+
+```latex
+简单分数：\frac{分子}{分母}
+复杂分数：\frac{a+b}{c+d}
+连分数：\cfrac{1}{1+\cfrac{1}{2+\cfrac{1}{3}}}
+```
+
+**示例：**
+- $\frac{1}{2}$
+- $\frac{a+b}{c+d}$
+- $\cfrac{1}{1+\cfrac{1}{2+\cfrac{1}{3}}}$
+
+### 根式
+
+```latex
+平方根：\sqrt{x}
+n次根：\sqrt[n]{x}
+```
+
+**示例：**
+- $\sqrt{x}$
+- $\sqrt[3]{8}$
+- $\sqrt[n]{x}$
+
+## 4. 上标与下标
+
+### 基本语法
+
+```latex
+上标：x^2
+下标：x_1
+上下标：x_1^2
+多字符：x_{10}^{20}
+```
+
+**示例：**
+- $x^2$
+- $x_1$
+- $x_1^2$
+- $x_{10}^{20}$
+
+### 复杂示例
+
+```latex
+指数：e^{i\pi} + 1 = 0
+对数：\log_2 8 = 3
+极限：\lim_{x \to \infty} \frac{1}{x} = 0
+```
+
+**示例：**
+- $e^{i\pi} + 1 = 0$
+- $\log_2 8 = 3$
+- $\lim_{x \to \infty} \frac{1}{x} = 0$
+
+## 5. 求和与积分
+
+### 求和符号
+
+```latex
+简单求和：\sum x_i
+带范围：\sum_{i=1}^{n} x_i
+双重求和：\sum_{i=1}^{m} \sum_{j=1}^{n} a_{ij}
+```
+
+**示例：**
+- $\sum x_i$
+- $\sum_{i=1}^{n} x_i$
+- $\sum_{i=1}^{m} \sum_{j=1}^{n} a_{ij}$
+
+### 积分符号
+
+```latex
+不定积分：\int f(x) dx
+定积分：\int_a^b f(x) dx
+多重积分：\iint_D f(x,y) dxdy
+```
+
+**示例：**
+- $\int f(x) dx$
+- $\int_a^b f(x) dx$
+- $\iint_D f(x,y) dxdy$
+
+## 6. 矩阵与向量
+
+### 矩阵
+
+```latex
+基本矩阵：
+\begin{matrix}
+a & b \\
+c & d
+\end{matrix}
+
+带括号的矩阵：
+\begin{pmatrix}
+a & b \\
+c & d
+\end{pmatrix}
+
+带方括号的矩阵：
+\begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}
+```
+
+**示例：**
+
+基本矩阵：
+$$
+\begin{matrix}
+a & b \\
+c & d
+\end{matrix}
+$$
+
+带括号的矩阵：
+$$
+\begin{pmatrix}
+a & b \\
+c & d
+\end{pmatrix}
+$$
+
+带方括号的矩阵：
+$$
+\begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}
+$$
+
+### 行列式
+
+```latex
+\begin{vmatrix}
+a & b \\
+c & d
+\end{vmatrix} = ad - bc
+```
+
+**示例：**
+$$
+\begin{vmatrix}
+a & b \\
+c & d
+\end{vmatrix} = ad - bc
+$$
+
+## 7. 特殊符号
+
+### 希腊字母
+
+```latex
+小写：\alpha, \beta, \gamma, \delta, \epsilon, \pi, \sigma, \theta
+大写：\Alpha, \Beta, \Gamma, \Delta, \Pi, \Sigma, \Theta
+```
+
+**示例：**
+- 小写：$\alpha, \beta, \gamma, \delta, \epsilon, \pi, \sigma, \theta$
+- 大写：$\Alpha, \Beta, \Gamma, \Delta, \Pi, \Sigma, \Theta$
+
+### 数学符号
+
+```latex
+无穷大：\infty
+偏导数：\partial
+梯度：\nabla
+属于：\in
+不属于：\notin
+子集：\subset
+交集：\cap
+并集：\cup
+```
+
+**示例：**
+- $\infty, \partial, \nabla$
+- $\in, \notin, \subset$
+- $\cap, \cup$
+
+## 8. 方程组与对齐
+
+### 方程组
+
+```latex
+\begin{cases}
+x + y = 5 \\
+x - y = 1
+\end{cases}
+```
+
+**示例：**
+$$
+\begin{cases}
+x + y = 5 \\
+x - y = 1
+\end{cases}
+$$
+
+### 对齐公式
+
+```latex
+\begin{align}
+f(x) &= x^2 + 2x + 1 \\
+&= (x + 1)^2
+\end{align}
+```
+
+**示例：**
+$$
+\begin{align}
+f(x) &= x^2 + 2x + 1 \\
+&= (x + 1)^2
+\end{align}
+$$
+
+## 9. 常用公式示例
+
+### 物理公式
+
+```latex
+牛顿第二定律：F = ma
+能量守恒：E = mc^2
+薛定谔方程：i\hbar\frac{\partial}{\partial t}\Psi = \hat{H}\Psi
+```
+
+**示例：**
+- 牛顿第二定律：$F = ma$
+- 能量守恒：$E = mc^2$
+- 薛定谔方程：$i\hbar\frac{\partial}{\partial t}\Psi = \hat{H}\Psi$
+
+### 数学公式
+
+```latex
+二次公式：x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+欧拉公式：e^{i\theta} = \cos\theta + i\sin\theta
+泰勒展开：f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^n
+```
+
+**示例：**
+- 二次公式：$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+- 欧拉公式：$e^{i\theta} = \cos\theta + i\sin\theta$
+- 泰勒展开：$f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^n$
+
+## 公式编写实用技巧
+
+> [!tip] 💡 公式编写技巧
+> - 使用在线 LaTeX 编辑器预览复杂公式
+> - 善用括号确保运算优先级正确
+> - 对于复杂公式，先写简单部分再逐步完善
+> - 使用 `\text{}` 在公式中插入普通文本
+
+> [!note] 📝 常见问题
+> - 大括号需要转义：`\{` 和 `\}`
+> - 百分号需要转义：`\%`
+> - 下划线在公式外需要转义：`\_`
+
+> [!example] 🎯 练习建议
+> 尝试复现您学科中的经典公式，这是最好的练习方法！
+
 ::: tip 欢迎投稿
 公式这玩意用的不多，欢迎熟悉的同学投稿用法和纠错，评论区留言或者联系站长@咖啡豆
 :::
