@@ -1,7 +1,7 @@
 ---
-title: Bases基础语法
+title: 2. Bases基础语法
 icon: edit
-order: 1
+order: 2
 category:
   - Bases
   - 基础语法
@@ -9,13 +9,14 @@ tag:
   - Bases
   - 数据库
   - 语法
+number headings: auto, first-level 2, max 6, start-at 1, 1.1
 ---
 
 # Bases基础语法
 
 Obsidian Bases 是 1.9.0 版本引入的核心插件，让您可以将笔记转换为强大的数据库视图。本文将介绍 Bases 的基础语法和使用方法。
 
-### 什么是 Bases？
+## 1 什么是 Bases？
 
 Bases 是 Obsidian 的原生数据库功能，具有以下特点：
 
@@ -25,22 +26,22 @@ Bases 是 Obsidian 的原生数据库功能，具有以下特点：
 - **公式支持**：可以创建计算字段和动态属性
 - **本地存储**：所有数据仍然存储在本地 Markdown 文件中
 
-### 启用 Bases 功能
+## 2 启用 Bases 功能
 
-### 前置要求
+### 2.1 前置要求
 
 - Obsidian 版本 1.9.0 或更高
 - 目前仍处于早期测试阶段，需要 Catalyst 许可证
 
-### 启用步骤
+### 2.2 启用步骤
 
 1. 打开 **设置 → 核心插件**
 2. 找到 **Bases** 并启用
 3. 同时建议启用 **Properties** 插件
 
-### 创建第一个 Base
+## 3 创建第一个 Base
 
-### 创建方式
+### 3.1 创建方式
 
 有几种方法可以创建新的 Base：
 
@@ -51,7 +52,7 @@ Bases 是 Obsidian 的原生数据库功能，具有以下特点：
 4. 嵌入方式：Ctrl/Cmd + P → "Bases: Insert new base"
 ```
 
-### Base 文件格式
+### 3.2 Base 文件格式
 
 Base 文件使用 `.base` 扩展名，内容为结构化的配置：
 
@@ -68,7 +69,7 @@ views:
       - created
 ```
 
-### 属性类型
+## 4 属性类型
 
 Bases 支持多种属性类型：
 
@@ -81,9 +82,9 @@ Bases 支持多种属性类型：
 | **Date** | 日期 | `2024-01-15` |
 | **Date & Time** | 日期时间 | `2024-01-15T10:30:00` |
 
-### 过滤器语法
+## 5 过滤器语法
 
-### 基本过滤条件
+### 5.1 基本过滤条件
 
 每个过滤器包含三个组件：
 
@@ -91,7 +92,7 @@ Bases 支持多种属性类型：
 2. **操作符**：比较方式
 3. **值**：比较的目标值
 
-### 文件相关过滤器
+### 5.2 文件相关过滤器
 
 ```javascript
 // 按标签过滤
@@ -111,7 +112,7 @@ file.ctime.date() == today()
 file.mtime >= today() - "7d"
 ```
 
-### 属性过滤器
+### 5.3 属性过滤器
 
 ```javascript
 // 文本属性
@@ -131,9 +132,9 @@ deadline <= today() + "7d"
 created >= today() - "30d"
 ```
 
-### 高级过滤语法
+### 5.4 高级过滤语法
 
-### 逻辑操作符
+#### 5.4.1 逻辑操作符
 
 ```yaml
 filters:
@@ -149,7 +150,7 @@ filters:
     - status == "completed"
 ```
 
-### 复合条件
+#### 5.4.2 复合条件
 
 ```javascript
 // 使用 ! 表示否定
@@ -164,9 +165,9 @@ priority || priority == null
 (priority > 5) && (deadline <= today() + "7d")
 ```
 
-### 公式和计算字段
+## 6 公式和计算字段
 
-### 基本公式
+### 6.1 基本公式
 
 ```javascript
 // 链接公式
@@ -183,7 +184,7 @@ file.name.split(' ')[0]
 title.toLowerCase()
 ```
 
-### 实用公式示例
+### 6.2 实用公式示例
 
 ```javascript
 // 计算剩余天数
@@ -199,9 +200,9 @@ priority > 7 ? "高优先级" : "普通"
 (completed_tasks / total_tasks * 100).round() + "%"
 ```
 
-### 视图配置
+## 7 视图配置
 
-### 多视图管理
+### 7.1 多视图管理
 
 ```yaml
 views:
@@ -218,16 +219,16 @@ views:
         - deadline <= today() + "7d"
 ```
 
-### 视图操作
+### 7.2 视图操作
 
 - **重命名视图**：点击视图名旁的箭头 → "Configure view"
 - **新建视图**：点击视图切换器 → "New View"
 - **复制视图**：复制现有视图并修改条件
 - **删除视图**：在视图配置中删除
 
-### 嵌入 Bases
+## 8 嵌入 Bases
 
-### 基本嵌入语法
+### 8.1 基本嵌入语法
 
 ```markdown
 // 嵌入整个 Base
@@ -249,9 +250,9 @@ properties:
 ```
 ```
 
-### 实际应用案例
+## 9 实际应用案例
 
-### 项目管理
+### 9.1 项目管理
 
 ```yaml
 # 项目管理.base
@@ -269,7 +270,7 @@ views:
       - assignee
 ```
 
-### 读书列表
+### 8.2 读书列表
 
 ```yaml
 # 读书清单.base
@@ -286,9 +287,9 @@ views:
       - added_date
 ```
 
-### 常用语法速查
+## 9 常用语法速查
 
-### 时间相关
+### 9.1 时间相关
 
 ```javascript
 today()                    // 今天
@@ -299,7 +300,7 @@ file.mtime                // 文件修改时间
 deadline.format("MMM DD") // 格式化日期
 ```
 
-### 文件操作
+### 9.2 文件操作
 
 ```javascript
 file.name                 // 文件名
@@ -310,7 +311,7 @@ file.hasTag("tag")        // 是否包含标签
 file.hasLink("note")      // 是否链接到笔记
 ```
 
-### 属性操作
+### 9.3 属性操作
 
 ```javascript
 property.contains("value") // 列表是否包含值
@@ -320,7 +321,7 @@ property > 5               // 数值比较
 note.keys()               // 所有属性名列表
 ```
 
-### 最佳实践
+## 10 最佳实践
 
 
 ::: info 💡 使用建议
@@ -338,7 +339,7 @@ note.keys()               // 所有属性名列表
 - 功能仍在快速迭代中，语法可能会有变化
 :::
 
-### 下一步学习
+### 10.1 下一步学习
 
 掌握了基础语法后，您可以：
 

@@ -37,6 +37,14 @@ icon: page
 - 请大家更新收藏为新的域名，
 :::
 
+## 2025-07-23
+**✨新增** <Badge text="Features" type="tip" />  
+- 网站新增 [bases](/zh/bases/) 栏目，提供Obsidian基础功能详解
+	- [bases基础语法](/zh/bases/bases-syntax.md) - Obsidian基础语法详解
+	- [bases数据库](/zh/bases/bases-database.md) - Obsidian数据库功能详解  
+	- [bases视图](/zh/bases/bases-views.md) - Obsidian视图功能详解
+	- [bases示例](/zh/bases/bases-examples.md) - Obsidian基础功能示例
+
 ## 2025-04-03
 **✨新增** <Badge text="Features" type="tip" />  
 - 核心页面更新：增加内置浏览器的说明.
