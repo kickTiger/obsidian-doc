@@ -1,80 +1,80 @@
 ---
 home: true
 icon: home
-title: Obsidian Documentation Coffee Bean Edition
+title: Obsidian文档咖啡豆版
 heroImage: /logo.svg
-heroText: Obsidian Documentation Coffee Bean Edition☕️
-tagline: Obsidian Documentation and Usage Tips | Built with Obsidian
+heroText: Obsidian文档咖啡豆版☕️
+tagline: Obsidian文档和使用技巧 | 本站由Obsidian构建
 actions:
-- text: User Guide 💡
+- text: 使用指南 💡
   link: /zh/documentation/
   type: primary
 
-- text: Markdown Syntax
+- text: markdown语法
   link: /zh/markdown/
   
-- text: Bases Database
+- text: bases数据库
   link: /zh/bases/
   
 features:
-- title: Markdown Enhancement
+- title: Markdown 增强
   icon: markdown
-  details: Obsidian provides comprehensive support for markdown syntax, including tables, formulas, and code blocks. Enhanced with callout block syntax
+  details: obsidian完善的支持markdown语法，表格、公式、代码块。增强的添加了call标注块语法
   link: /zh/markdown/
 
-- title: Rich Themes
+- title: 主题丰富
   icon: palette
-  details: The official community offers a wide variety of themes to choose from, and you can also modify styles yourself. Open CSS snippets allow you to meet all styling customization needs.
+  details: 官方社区中有大量主题供选择，也可以自己修改样式，开放的css片段让你能满足所有的样式定制。
   link: /zh/documentation/
 
-- title: Complete Ecosystem
+- title: 完善的生态
   icon: layout
-  details: Thanks to global enthusiasts and developers, Obsidian's ecosystem has developed very well, with 2571 community plugins currently available
+  details: 借助于全球的爱好者和开发者，obsidian的生态发展的非常好，目前已经有2571个社区插件
   link: /zh/documentation/
 
-- title: Based on Backlinks
+- title: 基于双链
   icon: comment
-  details: Based on Obsidian's backlink philosophy, file connections are no longer isolated, forming a knowledge network together.
+  details: 基于obsidian的双链思想，文件之间的链接不在孤立，彼此形成知识网络。
   link: /zh/documentation/
 
-- title: Quick Search
+- title: 快速查找
   icon: info
-  details: With the help of backlinks and knowledge graph building, you'll find that finding notes becomes so easy, an unprecedented experience.
+  details: 借助双链和知识图谱的搭建，你会发现找到笔记会如此的轻松，前所未有的体验。
   link: /zh/documentation/
 
-- title: Workflow
+- title: 工作流
   icon: blog
-  details: Using Obsidian plugins, you can perfectly implement your workflow. Come and try building your own workflow
+  details: 利用obsidian的插件，能够完美的实现你的工作流。快来试试搭建你自己的工作流
   link: /zh/documentation/
 
-- title: Coffee Bean Community
+- title: 咖啡豆社群
   icon: comment
-  details: Join the Coffee Bean community, learn and progress together with like-minded friends, and explore the unlimited possibilities of Obsidian
+  details: 加入咖啡豆社群，与志同道合的朋友一起学习进步，共同探索Obsidian的无限可能
   link: /zh/documentation/community.md
 
-- title: obsidian.vip Sharing Session
+- title: obsidian.vip分享会
   icon: slides
-  details: Coffee Bean and his friends sharing sessions, helping each other in the community, sharing experiences and insights about using Obsidian
+  details: 咖啡豆和他的朋友们分享会，在社群中互助互帮，分享彼此使用obsidian的经验心得
   link: /zh/Coffeetea.TOP.SHOW/
 
-- title: Multi-platform Support
+- title: 多端支持
   icon: support
-  details: Windows, macOS, Android, iOS full-platform clients, allowing you to seamlessly connect your knowledge base
+  details: windows、macOS、Android、iOS全平台客户端，让你无缝衔接你的知识库
   link: /zh/documentation/
 
-- title: Bases Database
+- title: Bases数据库
   icon: database
-  details: Obsidian's core database functionality, supporting structured data management, custom views, and formula calculations, making notes more intelligent
+  details: Obsidian的核心数据库功能，支持结构化数据管理、自定义视图和公式计算，让笔记更加智能化
   link: /zh/bases/
 
-- title: Tasks Management
+- title: Tasks任务管理
   icon: task
-  details: Powerful task management plugin, supporting GTD four quadrants, task review, and other advanced features, perfectly replacing traditional TODO applications
+  details: 强大的任务管理插件，支持GTD四象限、任务回顾等高级功能，完美替代传统TODO应用
   link: /zh/tasks/
 
-- title: Dataview Data Query
+- title: Dataview数据查询
   icon: search
-  details: SQL-based data query plugin that can extract and display structured data from notes, enabling complex data analysis
+  details: 基于SQL语法的数据查询插件，能够从笔记中提取和展示结构化数据，实现复杂的数据分析
   link: /zh/dataview/
 ---
 
