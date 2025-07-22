@@ -52,3 +52,6 @@ drfolder-47f2c467-7157-4153-851d-87af15a92364.ico
 
 # cursor 生成的文件 所有.cursor 文件夹下的文件
 .cursor/
+
+# 经验记录文档（私人笔记，不纳入版本控制）
+netlify-deployment-troubleshooting.md
