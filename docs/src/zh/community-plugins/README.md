@@ -75,7 +75,7 @@ obsidian插件-咖啡豆文档站obsidian.vip
 
 :::
 ::: info 更新日志
-点击查看📙 [更新日志](/zh/documentation/update-log.md)
+点击查看📙 [更新日志](/zh/documentation/Update-Log.md)
 :::
 
 ::: danger 加群交流
