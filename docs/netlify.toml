@@ -9,8 +9,9 @@ force = true
   publish = "src/.vuepress/dist"
   command = """
     node -v
-    npm install -g pnpm@7.33.7
-    pnpm install
+    npm install -g pnpm@8.3.1
+    pnpm --version
+    pnpm install --frozen-lockfile
     pnpm docs:build
     """
 
