@@ -35,12 +35,12 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Share knowledge, achieve self-realization",
+      footer: "分享知识、成就自我",
 
       displayFooter: true,
 
       metaLocales: {
-        editLink: "Edit this page on GitHub",
+        editLink: "在 GitHub 上编辑此页",
       },
     },
 

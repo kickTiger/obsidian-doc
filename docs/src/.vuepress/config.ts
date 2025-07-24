@@ -10,9 +10,9 @@ export default defineUserConfig({
 
   locales: {
     "/": {
-      lang: "en-US",
-      title: "Obsidian Docs by CoffeeBean ",
-      description: "A docs for obsidian",
+      lang: "zh-CN",
+      title: "obsidian文档咖啡豆版",
+      description: "obsidian文档和使用技巧",
     },
     "/zh/": {
       lang: "zh-CN",
