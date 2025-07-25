@@ -21,7 +21,7 @@ Bases 功能目前处于早期测试阶段，仅在 Catalyst（早期访问）�
 
 ## 1 什么是 Bases？
 
-Bases 本质上是一个数据库系统，它基于您笔记中的**属性（Properties）**来创建表格视图。与 Dataview 不同，Bases 不需要任何编程知识，使用起来非常直观。
+Bases 本质上是一个数据库系统，它基于您笔记中的 **属性/Properties**来创建表格视图。与 Dataview 不同，Bases 不需要任何编程知识，使用起来非常直观。
 
 ### 1.1 核心特点
 

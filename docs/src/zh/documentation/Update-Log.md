@@ -37,6 +37,10 @@ icon: page
 - 请大家更新收藏为新的域名，
 :::
 
+## 2025-07-26
+**🐛修复** <Badge text="Fixed" type="note" />  
+- 修复了部分语法错误，以及对于bases开发计划更精确的描述
+
 ## 2025-07-23
 **⚡️优化** <Badge text="Refactored" type="warning" />  
 - 调整了顶部导航条，将"进阶用法"修改为"[Bases专栏](/zh/bases/)"，将"咖啡豆的博客"修改为"[更新日志](/zh/documentation/Update-Log.md)"
