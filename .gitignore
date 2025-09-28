@@ -1,57 +1,176 @@
-node_modules
-.next
-.DS_Store
+# ===========================================
+# Git忽略文件配置
+# 项目：Obsidian文档站点 (VuePress)
+# 更新时间：2025-01-28 16:00:00
+# ===========================================
+
+# ===== Node.js 相关 =====
+# 依赖包目录
+node_modules/
+**/node_modules/**
+
+# 包管理器文件
 yarn-error.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# 包管理器缓存
+.npm
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Yarn相关
 .yalc
 yalc.lock
 
-# Node modules
-**/node_modules/**
-
-# Vuepress Cache
+# ===== VuePress 相关 =====
+# VuePress缓存目录
 **/.vuepress/.cache/**
 .cache/
-# Vuepress Temp
+**/.vuepress/cache/**
+docs/src/.vuepress/.cache/
+docs/src/.vuepress/cache/
+
+# VuePress临时文件
 **/.vuepress/.temp/**
 .temp/
-# Vuepress Output
+**/.vuepress/temp/**
+docs/src/.vuepress/.temp/
+docs/src/.vuepress/temp/
+
+# VuePress构建输出
 dist/
+**/.vuepress/dist/**
+docs/src/.vuepress/dist/
 
-# obsidian
-.obsidian
-.trash
+# VuePress其他
+.vuepress/.cache
+.vuepress/.temp
+.vuepress/dist
 
-# PyCharm
-.idea/
+# ===== 开发工具 =====
+# Next.js (如果使用)
+.next/
+out/
 
-# vscode
-.vscode/
+# IDE配置文件
+.idea/          # PyCharm/IntelliJ IDEA
+**/.idea/       # PyCharm/IntelliJ IDEA (所有子目录)
+.vscode/        # Visual Studio Code
+**/.vscode/     # Visual Studio Code (所有子目录)
+*.swp           # Vim
+*.swo           # Vim
+*~              # Vim
 
-# webstorm
+# Cursor AI编辑器
+.cursor/
 
+# ===== 系统文件 =====
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows
+desktop.ini
+Thumbs.db
+ehthumbs.db
+*.lnk
+
+# Linux
+*~
+.directory
+
+# ===== 同步工具 =====
 # GoodSync
 _gsdata_/
 
-# other files
+# Syncthing
+.stignore
+
+# ===== Obsidian 相关 =====
+# Obsidian配置
+.obsidian/
+.trash/
+
+# ===== 日志文件 =====
+# 通用日志
 *.log
 *.log.*
-*.rar
-*.zip
-*.tar
-*._gs
-*.u8
-
-# linux log
+logs/
 *.out
 utils/nohup.out
 
-.DS_Store
-.stignore
-desktop.ini
+# ===== 压缩文件 =====
+*.rar
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# ===== 其他文件 =====
+# GoodSync相关
+*._gs
+
+# 编码文件
+*.u8
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# ===== 项目特定文件 =====
+# 特定图标文件
 drfolder-47f2c467-7157-4153-851d-87af15a92364.ico
 
-# cursor 生成的文件 所有.cursor 文件夹下的文件
-.cursor/
-
-# 经验记录文档（私人笔记，不纳入版本控制）
+# 私人笔记和文档（不纳入版本控制）
 netlify-deployment-troubleshooting.md
+# docs/PROJECT_README.md  # 已移除：包含重要的Git配置技巧，需要纳入版本控制
+docs/项目全面分析报告.md
+docs/网站验证文件配置指南.md
+
+# ===== 环境配置 =====
+# 环境变量文件
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ===== 构建和部署 =====
+# 构建缓存
+.cache
+.parcel-cache
+
+# 部署相关
+.netlify/
+.vercel/
+
+# ===== 测试文件和目录 =====
+# 测试目录
+**/test/
+**/tests/
+**/__tests__/
+**/demo/
+**/.test/
+
+# 测试文件
+*.test.js
+*.test.ts
+*.spec.js
+*.spec.ts
+
+# ===== 测试覆盖率 =====
+coverage/
+*.lcov
+.nyc_output
