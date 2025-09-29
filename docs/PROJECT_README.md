@@ -1,5 +1,46 @@
 # Obsidian 文档项目说明
 
+## ⚠️ 重要：项目结构和VSCode工作目录说明
+
+### 🔴 关键问题：.gitignore文件位置
+**很多开发者容易忽略的重要问题：**
+
+- ✅ **Git仓库根目录**：`E:\CodeProject\obsidian-doc\` （.gitignore文件在这里）
+- ❌ **当前工作目录**：`E:\CodeProject\obsidian-doc\docs\` （没有.gitignore文件）
+
+### 📁 正确的VSCode工作目录设置
+**推荐做法：**
+1. **VSCode应该打开Git仓库根目录**：`E:\CodeProject\obsidian-doc\`
+2. **而不是当前的docs子目录**：`E:\CodeProject\obsidian-doc\docs\`
+
+**为什么这样做？**
+- ✅ 可以看到.gitignore文件和Git配置
+- ✅ 可以管理整个项目结构
+- ✅ Git操作更直观和安全
+- ✅ 避免路径混淆问题
+
+### 🛠️ 如何调整VSCode工作目录
+```powershell
+# 方法1：重新打开项目
+# 在VSCode中：文件 → 打开文件夹 → 选择 E:\CodeProject\obsidian-doc\
+
+# 方法2：命令行启动
+cd E:\CodeProject\obsidian-doc
+code .
+```
+
+### 📂 调整后的目录结构视图
+```
+E:\CodeProject\obsidian-doc\          ← VSCode工作目录（推荐）
+├── .gitignore                        ← 可见的Git忽略文件
+├── .git\                            ← Git仓库配置
+├── docs\                            ← 项目主目录
+│   ├── src\                         ← VuePress源码
+│   ├── package.json                 ← 项目配置
+│   └── PROJECT_README.md            ← 本文档
+└── 其他文件...
+```
+
 ## 项目概述
 这是一个基于 VuePress 2.0 的文档项目，用于构建 Obsidian 相关的文档网站。项目使用 VuePress Theme Hope 主题，支持中英文双语文档。
 

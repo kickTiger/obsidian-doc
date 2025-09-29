@@ -71,6 +71,12 @@ out/
 # Cursor AI编辑器
 .cursor/
 
+# Windsurf编辑器
+.windsurf/
+
+# augmentAI编辑器
+.augment/
+
 # ===== 系统文件 =====
 # macOS
 .DS_Store
