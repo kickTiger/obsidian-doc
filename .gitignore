@@ -180,3 +180,7 @@ docs/网站验证文件配置指南.md
 coverage/
 *.lcov
 .nyc_output
+
+# ===== 归档文件 =====
+# 项目归档目录（报告、测试脚本等历史文件）
+archives/

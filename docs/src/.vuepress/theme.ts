@@ -25,6 +25,9 @@ export default hopeTheme({
   // 关闭导航条仓库链接
   repoDisplay: false,
 
+  // 禁用默认的回到顶部按钮，使用自定义浮动侧边栏替代
+  backToTop: false,
+
   docsDir: "demo/theme-docs/src",
 
   locales: {
