@@ -1,358 +1,296 @@
-/* 浮动侧边栏组件样式 - 优化版本 */
-.floating-sidebar {
+/* 现代化浮动侧边栏 - 全新设计 */
+.modern-floating-sidebar {
   position: fixed;
-  right: 24px;
-  bottom: 24px;
+  right: 20px;
+  bottom: 20px;
   z-index: 1000;
-  opacity: 1;
-  transform: translateY(0);
-  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
-  pointer-events: auto;
 
   // 移动端适配
   &.is-mobile {
-    right: 16px;
-    bottom: 16px;
+    right: 12px;
+    bottom: 12px;
 
-    .sidebar-content {
-      right: 56px;
-      min-width: 160px;
+    .sidebar-menu {
+      gap: 8px;
+    }
 
-      .item-text {
-        font-size: 14px;
-      }
+    .menu-item {
+      width: 48px;
+      height: 48px;
     }
   }
 }
 
-/* 触发器按钮 - 优化版本 */
-.sidebar-trigger {
+/* 菜单容器 */
+.sidebar-menu {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-end;
+}
+
+/* 菜单项 */
+.menu-item {
+  position: relative;
   width: 56px;
   height: 56px;
-  background: linear-gradient(135deg, var(--c-brand), var(--c-brand-light, var(--c-brand)));
-  border: 2px solid rgba(255, 255, 255, 0.2);
-  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 16px;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  box-shadow:
+    0 4px 16px rgba(0, 0, 0, 0.08),
+    0 2px 8px rgba(0, 0, 0, 0.04),
+    inset 0 1px 0 rgba(255, 255, 255, 0.5);
+  transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+  opacity: 1;
+  transform: translateX(0) scale(1);
+
+  // 深色模式
+  @media (prefers-color-scheme: dark) {
+    background: rgba(40, 40, 45, 0.95);
+    border-color: rgba(255, 255, 255, 0.1);
+    box-shadow:
+      0 4px 16px rgba(0, 0, 0, 0.3),
+      0 2px 8px rgba(0, 0, 0, 0.2),
+      inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  }
+
+  // 悬停效果
+  &:hover {
+    transform: translateX(-8px) scale(1.05);
+    background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(147, 51, 234, 0.1));
+    border-color: rgba(59, 130, 246, 0.3);
+    box-shadow:
+      0 8px 24px rgba(59, 130, 246, 0.2),
+      0 4px 12px rgba(59, 130, 246, 0.1),
+      inset 0 1px 0 rgba(255, 255, 255, 0.6);
+
+    .item-icon-wrapper {
+      background: linear-gradient(135deg, #3b82f6, #9333ea);
+      transform: scale(1.1) rotate(5deg);
+    }
+
+    .item-icon {
+      color: white;
+    }
+
+    .item-label {
+      color: #3b82f6;
+      font-weight: 600;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      background: linear-gradient(135deg, rgba(59, 130, 246, 0.25), rgba(147, 51, 234, 0.15));
+      border-color: rgba(59, 130, 246, 0.4);
+      box-shadow:
+        0 8px 24px rgba(59, 130, 246, 0.3),
+        0 4px 12px rgba(59, 130, 246, 0.15),
+        inset 0 1px 0 rgba(255, 255, 255, 0.1);
+    }
+  }
+
+  // 激活效果
+  &:active {
+    transform: translateX(-6px) scale(0.98);
+  }
+}
+
+/* 图标包装器 */
+.item-icon-wrapper {
+  width: 32px;
+  height: 32px;
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
-  box-shadow:
-    0 8px 32px rgba(0, 0, 0, 0.12),
-    0 4px 16px rgba(0, 0, 0, 0.08),
-    inset 0 1px 0 rgba(255, 255, 255, 0.2);
-  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
-  position: relative;
-  overflow: hidden;
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(147, 51, 234, 0.05));
+  border-radius: 10px;
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
 
-  // 发光效果背景
-  .trigger-glow {
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, transparent 70%);
-    opacity: 0;
-    transition: opacity 0.3s ease;
-  }
-
-  // 深色模式适配
   @media (prefers-color-scheme: dark) {
-    box-shadow:
-      0 8px 32px rgba(0, 0, 0, 0.3),
-      0 4px 16px rgba(0, 0, 0, 0.2),
-      inset 0 1px 0 rgba(255, 255, 255, 0.1);
-    border-color: rgba(255, 255, 255, 0.1);
-  }
-
-  // 悬停效果
-  &:hover {
-    transform: scale(1.08) translateY(-2px);
-    box-shadow:
-      0 12px 40px rgba(0, 0, 0, 0.15),
-      0 6px 20px rgba(0, 0, 0, 0.1),
-      inset 0 1px 0 rgba(255, 255, 255, 0.3);
-
-    .trigger-glow {
-      opacity: 1;
-    }
-
-    @media (prefers-color-scheme: dark) {
-      box-shadow:
-        0 12px 40px rgba(0, 0, 0, 0.4),
-        0 6px 20px rgba(0, 0, 0, 0.3),
-        inset 0 1px 0 rgba(255, 255, 255, 0.2);
-    }
-  }
-
-  // 激活状态
-  .floating-sidebar.is-expanded & {
-    background: linear-gradient(135deg, var(--c-brand-dark, var(--c-brand)), var(--c-brand));
-    transform: scale(1.05);
-
-    .trigger-glow {
-      opacity: 0.8;
-    }
+    background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(147, 51, 234, 0.08));
   }
 }
 
-/* 触发器图标 - 优化版本 */
-.sidebar-icon {
-  width: 24px;
-  height: 24px;
-  color: white;
-  transition: all 0.3s ease;
-  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
-
-  .floating-sidebar.is-expanded & {
-    transform: rotate(180deg);
-  }
-}
-
-/* 展开内容容器 - 优化版本 */
-.sidebar-content {
-  position: absolute;
-  right: 68px;
-  bottom: 0;
-  min-width: 200px;
-  background: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(20px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 16px;
-  padding: 12px;
-  box-shadow:
-    0 20px 60px rgba(0, 0, 0, 0.12),
-    0 8px 32px rgba(0, 0, 0, 0.08),
-    inset 0 1px 0 rgba(255, 255, 255, 0.4);
-  opacity: 0;
-  transform: translateX(30px) scale(0.9);
-  transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
-  pointer-events: none;
-  overflow: hidden;
-
-  // 深色模式适配
-  @media (prefers-color-scheme: dark) {
-    background: rgba(30, 30, 30, 0.95);
-    border-color: rgba(255, 255, 255, 0.1);
-    box-shadow:
-      0 20px 60px rgba(0, 0, 0, 0.4),
-      0 8px 32px rgba(0, 0, 0, 0.3),
-      inset 0 1px 0 rgba(255, 255, 255, 0.1);
-  }
-
-  // 展开状态
-  .floating-sidebar.is-expanded & {
-    opacity: 1;
-    transform: translateX(0) scale(1);
-    pointer-events: auto;
-  }
-}
-
-/* 功能项 - 优化版本 */
-.sidebar-item {
-  display: flex;
-  align-items: center;
-  padding: 12px 16px;
-  border-radius: 12px;
-  cursor: pointer;
-  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-  margin-bottom: 4px;
-  position: relative;
-  overflow: hidden;
-
-  &:last-child {
-    margin-bottom: 0;
-  }
-
-  // 悬停效果
-  &:hover {
-    background: linear-gradient(135deg, rgba(var(--c-brand-rgb, 59, 130, 246), 0.1), rgba(var(--c-brand-rgb, 59, 130, 246), 0.05));
-    transform: translateX(-4px) scale(1.02);
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
-
-    .item-icon {
-      transform: scale(1.1);
-      color: var(--c-brand);
-    }
-
-    .item-text {
-      color: var(--c-brand);
-      font-weight: 500;
-    }
-
-    @media (prefers-color-scheme: dark) {
-      background: linear-gradient(135deg, rgba(var(--c-brand-rgb, 59, 130, 246), 0.2), rgba(var(--c-brand-rgb, 59, 130, 246), 0.1));
-      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
-    }
-  }
-  
-  // 链接样式重置
-  .item-link {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    color: inherit;
-    width: 100%;
-  }
-}
-
-/* 功能项图标 - 优化版本 */
+/* 图标 */
 .item-icon {
-  width: 20px;
-  height: 20px;
-  color: var(--c-text-light);
-  margin-right: 12px;
-  flex-shrink: 0;
-  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  width: 18px;
+  height: 18px;
+  color: #3b82f6;
+  transition: all 0.3s ease;
+
+  @media (prefers-color-scheme: dark) {
+    color: #60a5fa;
+  }
 }
 
-/* 功能项文字 - 优化版本 */
-.item-text {
-  font-size: 15px;
-  color: var(--c-text);
-  white-space: nowrap;
-  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-  font-weight: 400;
+/* 标签文字 */
+.item-label {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--c-text-light);
+  transition: all 0.3s ease;
   letter-spacing: 0.02em;
 }
 
-/* 展开动画 */
-.sidebar-expand-enter-active,
-.sidebar-expand-leave-active {
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.sidebar-expand-enter-from {
-  opacity: 0;
-  transform: translateX(20px) scale(0.9);
-}
-
-.sidebar-expand-leave-to {
-  opacity: 0;
-  transform: translateX(20px) scale(0.9);
-}
-
-/* 二维码悬停显示 */
-.qrcode-item {
+/* 二维码触发器特殊样式 */
+.qrcode-trigger {
   position: relative;
-
-  .qrcode-hover {
-    position: absolute;
-    right: 100%;
-    top: 50%;
-    transform: translateY(-50%);
-    margin-right: 12px;
-    opacity: 0;
-    pointer-events: none;
-    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-    z-index: 1001;
-  }
-
-  &:hover .qrcode-hover {
-    opacity: 1;
-    pointer-events: auto;
-  }
 }
 
-.qrcode-content {
+/* 二维码卡片 */
+.qrcode-card {
+  position: absolute;
+  right: calc(100% + 16px);
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1001;
+}
+
+.qrcode-inner {
   background: rgba(255, 255, 255, 0.98);
-  backdrop-filter: blur(20px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  border-radius: 16px;
-  padding: 16px;
-  width: 140px;
+  backdrop-filter: blur(30px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 20px;
+  padding: 20px;
   box-shadow:
-    0 16px 48px rgba(0, 0, 0, 0.15),
-    0 8px 24px rgba(0, 0, 0, 0.1),
-    inset 0 1px 0 rgba(255, 255, 255, 0.5);
+    0 20px 60px rgba(0, 0, 0, 0.15),
+    0 8px 32px rgba(0, 0, 0, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
   text-align: center;
+  min-width: 180px;
 
   @media (prefers-color-scheme: dark) {
-    background: rgba(30, 30, 30, 0.98);
+    background: rgba(40, 40, 45, 0.98);
     border-color: rgba(255, 255, 255, 0.15);
     box-shadow:
-      0 16px 48px rgba(0, 0, 0, 0.4),
-      0 8px 24px rgba(0, 0, 0, 0.3),
-      inset 0 1px 0 rgba(255, 255, 255, 0.1);
+      0 20px 60px rgba(0, 0, 0, 0.4),
+      0 8px 32px rgba(0, 0, 0, 0.3),
+      inset 0 1px 0 rgba(255, 255, 255, 0.08);
   }
 }
 
-.qrcode-image {
-  width: 120px;
-  height: 120px;
-  border-radius: 12px;
-  margin-bottom: 8px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease;
+.qrcode-img {
+  width: 140px;
+  height: 140px;
+  border-radius: 16px;
+  margin-bottom: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
 
   &:hover {
-    transform: scale(1.05);
+    transform: scale(1.05) rotate(2deg);
   }
 
   @media (prefers-color-scheme: dark) {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
   }
 }
 
-.qrcode-text {
-  font-size: 12px;
-  color: var(--c-text);
-  margin: 0 0 4px 0;
-  font-weight: 500;
+.qrcode-info {
+  padding-top: 8px;
+  border-top: 1px solid rgba(0, 0, 0, 0.05);
+
+  @media (prefers-color-scheme: dark) {
+    border-top-color: rgba(255, 255, 255, 0.1);
+  }
 }
 
-.qrcode-desc {
-  font-size: 11px;
-  color: var(--c-text-light);
+.qrcode-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--c-text);
+  margin: 0 0 6px 0;
+  letter-spacing: 0.02em;
+}
+
+.qrcode-id {
+  font-size: 12px;
+  font-weight: 500;
+  color: #3b82f6;
   margin: 0;
   font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(147, 51, 234, 0.05));
+  padding: 6px 12px;
+  border-radius: 8px;
+  display: inline-block;
+
+  @media (prefers-color-scheme: dark) {
+    color: #60a5fa;
+    background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(147, 51, 234, 0.08));
+  }
+}
+
+/* 二维码弹出动画 */
+.qrcode-pop-enter-active,
+.qrcode-pop-leave-active {
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.qrcode-pop-enter-from {
+  opacity: 0;
+  transform: translateY(-50%) translateX(20px) scale(0.8);
+}
+
+.qrcode-pop-leave-to {
+  opacity: 0;
+  transform: translateY(-50%) translateX(20px) scale(0.8);
 }
 
 /* 移动端优化 */
 @media (max-width: 768px) {
-  .qrcode-content {
-    width: 130px;
-    padding: 12px;
+  .qrcode-inner {
+    min-width: 160px;
+    padding: 16px;
   }
 
-  .qrcode-image {
-    width: 100px;
-    height: 100px;
+  .qrcode-img {
+    width: 120px;
+    height: 120px;
   }
 
-  .qrcode-text {
+  .qrcode-title {
+    font-size: 12px;
+  }
+
+  .qrcode-id {
     font-size: 11px;
-  }
-
-  .qrcode-desc {
-    font-size: 10px;
+    padding: 5px 10px;
   }
 }
 
 /* 高对比度模式支持 */
 @media (prefers-contrast: high) {
-  .sidebar-trigger {
+  .menu-item {
     border-width: 2px;
+
+    &:hover {
+      outline: 2px solid #3b82f6;
+    }
   }
-  
-  .sidebar-content {
+
+  .qrcode-inner {
     border-width: 2px;
-  }
-  
-  .sidebar-item:hover {
-    outline: 2px solid var(--c-brand);
   }
 }
 
 /* 减少动画模式支持 */
 @media (prefers-reduced-motion: reduce) {
-  .floating-sidebar,
-  .sidebar-trigger,
-  .sidebar-item,
+  .modern-floating-sidebar,
+  .menu-item,
+  .item-icon-wrapper,
   .item-icon,
-  .item-text,
-  .qrcode-hover,
-  .qrcode-content {
+  .item-label,
+  .qrcode-card,
+  .qrcode-img {
     transition: none !important;
   }
 }
