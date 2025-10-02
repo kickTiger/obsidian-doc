@@ -2,13 +2,20 @@
 .modern-floating-sidebar {
   position: fixed;
   right: 20px;
-  bottom: 20px;
+  // 桌面端默认垂直居中,通过JS动态调整
+  // 不使用transform,避免与JS计算的top值冲突
+  top: 50vh;
   z-index: 1000;
+  // 添加平滑过渡动画,避免卡顿
+  transition: top 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 
-  // 移动端适配
+  // 移动端适配 - 保持右下角定位
   &.is-mobile {
     right: 12px;
     bottom: 12px;
+    top: auto;
+    transition: right 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    pointer-events: auto;
 
     .sidebar-menu {
       gap: 8px;
@@ -17,6 +24,31 @@
     .menu-item {
       width: 48px;
       height: 48px;
+    }
+
+    // 最小化状态 - 缩到边缘只露出一点点
+    &.is-minimized {
+      right: -40px; // 向右移动,只露出16px
+
+      .minimize-btn {
+        display: none; // 隐藏收起按钮
+      }
+
+      .sidebar-menu {
+        .menu-item {
+          display: none;
+
+          // 只显示最后一个作为展开触发器
+          &:last-child {
+            display: flex;
+
+            // 旋转图标提示可以展开
+            .item-icon-wrapper {
+              transform: rotate(180deg);
+            }
+          }
+        }
+      }
     }
   }
 }

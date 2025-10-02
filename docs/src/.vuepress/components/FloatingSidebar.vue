@@ -1,16 +1,35 @@
 <template>
   <Teleport to="body">
     <div
+      ref="floatingSidebarRef"
       class="modern-floating-sidebar"
       :class="{
         'is-expanded': isExpanded,
-        'is-mobile': isMobile
+        'is-mobile': isMobile,
+        'is-minimized': isMinimized
       }"
       @mouseenter="handleMouseEnter"
       @mouseleave="handleMouseLeave"
+      @click="handleMobileClick"
     >
       <!-- 主菜单容器 -->
-      <div class="sidebar-menu">
+      <div ref="sidebarMenuRef" class="sidebar-menu">
+        <!-- 移动端最小化按钮 - 作为第一个菜单项 -->
+        <div
+          v-if="isMobile && !isMinimized"
+          class="menu-item minimize-btn"
+          @click.stop="toggleMinimize"
+          title="收起菜单"
+          :style="{ transitionDelay: '0ms' }"
+        >
+          <div class="item-icon-wrapper">
+            <svg class="item-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M9 18l6-6-6-6"/>
+            </svg>
+          </div>
+          <span class="item-label">收起</span>
+        </div>
+
         <!-- 智能滚动按钮 - 根据位置显示顶部或底部 -->
         <div
           v-if="!isAtTop"
@@ -80,6 +99,7 @@
           class="menu-item"
           title="使用指南"
           :style="{ transitionDelay: '150ms' }"
+          @click="handleLinkClick"
         >
           <div class="item-icon-wrapper">
             <svg class="item-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -96,6 +116,7 @@
           class="menu-item"
           title="插件大全"
           :style="{ transitionDelay: '200ms' }"
+          @click="handleLinkClick"
         >
           <div class="item-icon-wrapper">
             <svg class="item-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -113,6 +134,7 @@
           class="menu-item"
           title="视频教程"
           :style="{ transitionDelay: '250ms' }"
+          @click="handleLinkClick"
         >
           <div class="item-icon-wrapper">
             <svg class="item-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -127,7 +149,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted, onUnmounted } from 'vue'
+import { ref, onMounted, onUnmounted, nextTick } from 'vue'
 
 // 响应式状态
 const isExpanded = ref(false)
@@ -135,6 +157,14 @@ const showQRCode = ref(false)
 const isMobile = ref(false)
 const isAtTop = ref(true)
 const isAtBottom = ref(false)
+
+// 移动端最小化状态 - 从localStorage读取
+const STORAGE_KEY = 'floating-sidebar-minimized'
+const isMinimized = ref(false)
+
+// DOM引用
+const floatingSidebarRef = ref<HTMLElement | null>(null)
+const sidebarMenuRef = ref<HTMLElement | null>(null)
 
 // 检测移动端
 const checkMobile = () => {
@@ -154,15 +184,66 @@ const checkScrollPosition = () => {
   isAtBottom.value = scrollTop + clientHeight >= scrollHeight - 50
 }
 
-// 鼠标事件处理 - 自动展开/收起
+// 动态调整垂直居中位置
+const updateVerticalPosition = () => {
+  // 移动端不需要垂直居中,保持右下角定位
+  if (isMobile.value || !sidebarMenuRef.value) {
+    return
+  }
+
+  nextTick(() => {
+    if (!sidebarMenuRef.value) return
+
+    // 获取菜单容器的实际高度
+    const menuHeight = sidebarMenuRef.value.offsetHeight
+    const viewportHeight = window.innerHeight
+
+    // 计算居中所需的top值
+    // 使用 calc 方式: 50vh - (菜单高度的一半)
+    const topPosition = `calc(50vh - ${menuHeight / 2}px)`
+
+    if (floatingSidebarRef.value) {
+      floatingSidebarRef.value.style.top = topPosition
+    }
+  })
+}
+
+// 鼠标事件处理 - 自动展开/收起(仅桌面端)
 const handleMouseEnter = () => {
+  if (isMobile.value) return
   isExpanded.value = true
 }
 
 const handleMouseLeave = () => {
+  if (isMobile.value) return
   isExpanded.value = false
   // 离开时也隐藏二维码
   showQRCode.value = false
+}
+
+// 移动端点击菜单容器时的处理
+const handleMobileClick = (event: MouseEvent) => {
+  if (!isMobile.value) return
+
+  // 最小化状态下点击展开
+  if (isMinimized.value) {
+    event.preventDefault()
+    event.stopPropagation()
+    toggleMinimize()
+  }
+}
+
+// 移动端链接点击处理
+const handleLinkClick = (event: MouseEvent) => {
+  if (!isMobile.value) return
+
+  // 最小化状态下点击链接,阻止跳转,只展开菜单
+  if (isMinimized.value) {
+    event.preventDefault()
+    event.stopPropagation()
+    toggleMinimize()
+  }
+  // 正常状态下允许跳转
 }
 
 // 滚动功能
@@ -189,16 +270,61 @@ const hideQRCodeHover = () => {
   showQRCode.value = false
 }
 
+// 移动端最小化/展开功能
+const toggleMinimize = () => {
+  isMinimized.value = !isMinimized.value
+  // 保存状态到localStorage
+  if (typeof localStorage !== 'undefined') {
+    localStorage.setItem(STORAGE_KEY, isMinimized.value ? 'true' : 'false')
+  }
+}
+
 // 生命周期
 onMounted(() => {
   window.addEventListener('resize', checkMobile)
   window.addEventListener('scroll', checkScrollPosition)
   checkMobile()
   checkScrollPosition()
+
+  // 从localStorage读取最小化状态
+  if (typeof localStorage !== 'undefined') {
+    const savedState = localStorage.getItem(STORAGE_KEY)
+    if (savedState === 'true') {
+      isMinimized.value = true
+    }
+  }
+
+  // 初始化垂直居中位置
+  updateVerticalPosition()
+
+  // 使用 ResizeObserver 监听菜单容器高度变化
+  if (sidebarMenuRef.value && typeof ResizeObserver !== 'undefined') {
+    const resizeObserver = new ResizeObserver(() => {
+      updateVerticalPosition()
+    })
+    resizeObserver.observe(sidebarMenuRef.value)
+
+    // 保存observer引用以便清理
+    if (floatingSidebarRef.value) {
+      (floatingSidebarRef.value as any)._resizeObserver = resizeObserver
+    }
+  }
+
+  // 监听窗口大小变化时也更新位置
+  window.addEventListener('resize', updateVerticalPosition)
 })
 
 onUnmounted(() => {
   window.removeEventListener('resize', checkMobile)
   window.removeEventListener('scroll', checkScrollPosition)
+  window.removeEventListener('resize', updateVerticalPosition)
+
+  // 清理 ResizeObserver
+  if (floatingSidebarRef.value) {
+    const observer = (floatingSidebarRef.value as any)._resizeObserver
+    if (observer) {
+      observer.disconnect()
+    }
+  }
 })
 </script>
