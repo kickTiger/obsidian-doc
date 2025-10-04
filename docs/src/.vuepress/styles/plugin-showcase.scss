@@ -68,10 +68,42 @@ html:not(.dark) {
   }
 }
 
-/* 移除页面标题(因为组件内部已有标题) */
-.plugin-showcase-page {
+/* 移除页面标题、面包屑和元信息(因为组件内部已有标题) */
+.plugin-showcase-page,
+.plugin-showcase-container {
+  /* 隐藏页面标题 */
   .page-title,
-  .page-meta {
+  h1.page-title {
+    display: none !important;
+  }
+
+  /* 隐藏页面元信息(作者、日期、阅读时间、分类等) */
+  .page-meta,
+  .vp-page-meta,
+  .page-meta-info,
+  .page-info,
+  .vp-page-info {
+    display: none !important;
+  }
+
+  /* 隐藏面包屑导航 */
+  .breadcrumb,
+  .vp-breadcrumb,
+  nav.breadcrumb,
+  .breadcrumb-list {
+    display: none !important;
+  }
+}
+
+/* 针对包含 PluginShowcase 组件的页面,直接隐藏这些元素 */
+body:has(.plugin-showcase) {
+  .breadcrumb,
+  .vp-breadcrumb,
+  nav.breadcrumb,
+  .page-meta,
+  .vp-page-meta,
+  .page-info,
+  .vp-page-info {
     display: none !important;
   }
 }

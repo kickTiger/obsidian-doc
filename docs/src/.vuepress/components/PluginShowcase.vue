@@ -40,7 +40,7 @@
               @input="handleSearch"
             />
             <button class="search-button">
-              <span class="search-icon">🔍</span>
+              <i class="iconfont icon-search search-icon"></i>
               搜索
             </button>
           </div>
@@ -160,19 +160,19 @@
 
               <!-- 视图切换 -->
               <div class="view-switcher">
-                <button 
+                <button
                   :class="['view-btn', { active: viewMode === 'card' }]"
                   @click="viewMode = 'card'"
                   title="卡片视图"
                 >
-                  <span>⊞</span>
+                  <i class="iconfont icon-grid"></i>
                 </button>
-                <button 
+                <button
                   :class="['view-btn', { active: viewMode === 'list' }]"
                   @click="viewMode = 'list'"
                   title="列表视图"
                 >
-                  <span>☰</span>
+                  <i class="iconfont icon-list"></i>
                 </button>
               </div>
             </div>
@@ -181,7 +181,7 @@
           <!-- 插件列表 -->
           <div class="plugin-list-section">
           <div v-if="filteredPlugins.length === 0" class="empty-results">
-            <div class="empty-icon">🔍</div>
+            <i class="iconfont icon-search empty-icon"></i>
             <p class="empty-title">没有找到匹配的插件</p>
             <p class="empty-hint">试试调整筛选条件或搜索关键词</p>
           </div>
@@ -195,30 +195,36 @@
             >
               <!-- 左侧：下载量徽章 -->
               <div class="plugin-badge">
-                <div class="badge-icon">⬇️</div>
+                <i class="iconfont icon-download badge-icon"></i>
                 <div class="badge-count">{{ formatNumber(item.downloads) }}</div>
               </div>
 
               <!-- 中间：插件信息 -->
               <div class="plugin-info">
                 <div class="plugin-header">
-                  <h3 class="plugin-name">{{ item.name }}</h3>
-                  <span v-if="item.category" class="plugin-tag">{{ item.category }}</span>
+                  <h3 class="plugin-name">
+                    <i class="iconfont icon-puzzle plugin-name-icon"></i>
+                    {{ item.name }}
+                  </h3>
+                  <span v-if="item.category" class="plugin-tag">
+                    <i class="iconfont icon-folder category-icon"></i>
+                    {{ item.category }}
+                  </span>
                 </div>
                 <p class="plugin-description">{{ item.description }}</p>
                 <div class="plugin-meta">
                   <span class="meta-item">
-                    <span class="meta-icon">👤</span>
+                    <i class="iconfont icon-user meta-icon"></i>
                     {{ item.author }}
                   </span>
                   <span class="meta-divider">•</span>
                   <span class="meta-item">
-                    <span class="meta-icon">📅</span>
+                    <i class="iconfont icon-calendar meta-icon"></i>
                     {{ formatDate(item.updated) }}
                   </span>
                   <span v-if="item.latestVersion" class="meta-divider">•</span>
                   <span v-if="item.latestVersion" class="meta-item">
-                    <span class="meta-icon">🏷️</span>
+                    <i class="iconfont icon-tag meta-icon"></i>
                     v{{ item.latestVersion }}
                   </span>
                 </div>
@@ -232,46 +238,52 @@
           </div>
 
           <!-- 列表视图 -->
-          <div v-else-if="viewMode === 'list'" class="plugin-list plugin-list-table">
-            <table class="plugin-table">
-              <thead>
-                <tr>
-                  <th class="col-name">插件名称</th>
-                  <th class="col-author">作者</th>
-                  <th class="col-downloads">下载量</th>
-                  <th class="col-updated">更新时间</th>
-                  <th class="col-version">版本</th>
-                  <th class="col-actions">操作</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr 
-                  v-for="item in filteredPlugins" 
-                  :key="item.id"
-                  class="plugin-row"
-                >
-                  <td class="col-name">
-                    <div class="name-cell">
-                      <strong>{{ item.name }}</strong>
-                      <span v-if="item.category" class="plugin-tag-small">{{ item.category }}</span>
-                    </div>
-                    <div class="description-cell">{{ item.description }}</div>
-                  </td>
-                  <td class="col-author">{{ item.author }}</td>
-                  <td class="col-downloads">
-                    <strong>{{ formatNumber(item.downloads) }}</strong>
-                  </td>
-                  <td class="col-updated">{{ formatDate(item.updated) }}</td>
-                  <td class="col-version">
-                    <span v-if="item.latestVersion" class="version-badge">v{{ item.latestVersion }}</span>
-                    <span v-else class="text-muted">-</span>
-                  </td>
-                  <td class="col-actions">
-                    <button class="action-button-small">查看</button>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
+          <div v-else-if="viewMode === 'list'" class="plugin-list plugin-list-rows">
+            <div
+              v-for="item in filteredPlugins"
+              :key="item.id"
+              class="plugin-row-card"
+            >
+              <!-- 左侧：插件信息 -->
+              <div class="row-main">
+                <div class="row-header">
+                  <h3 class="row-name">
+                    <i class="iconfont icon-puzzle row-icon"></i>
+                    {{ item.name }}
+                  </h3>
+                  <span v-if="item.category" class="row-tag">
+                    <i class="iconfont icon-folder"></i>
+                    {{ item.category }}
+                  </span>
+                </div>
+                <p class="row-description">{{ item.description }}</p>
+              </div>
+
+              <!-- 右侧：元数据 -->
+              <div class="row-meta">
+                <div class="meta-group">
+                  <i class="iconfont icon-download meta-icon-list"></i>
+                  <span class="meta-value">{{ formatNumber(item.downloads) }}</span>
+                </div>
+                <div class="meta-group">
+                  <i class="iconfont icon-user meta-icon-list"></i>
+                  <span class="meta-value">{{ item.author }}</span>
+                </div>
+                <div class="meta-group">
+                  <i class="iconfont icon-calendar meta-icon-list"></i>
+                  <span class="meta-value">{{ formatDate(item.updated) }}</span>
+                </div>
+                <div v-if="item.latestVersion" class="meta-group">
+                  <i class="iconfont icon-tag meta-icon-list"></i>
+                  <span class="meta-value">v{{ item.latestVersion }}</span>
+                </div>
+              </div>
+
+              <!-- 操作按钮 -->
+              <div class="row-actions">
+                <button class="action-button-list">查看详情</button>
+              </div>
+            </div>
           </div>
 
           <!-- 紧凑视图 -->
@@ -286,7 +298,9 @@
                 <span class="compact-separator">•</span>
                 <span class="compact-author">{{ item.author }}</span>
                 <span class="compact-separator">•</span>
-                <span class="compact-downloads">⬇️ {{ formatNumber(item.downloads) }}</span>
+                <span class="compact-downloads">
+                  <i class="iconfont icon-download"></i> {{ formatNumber(item.downloads) }}
+                </span>
               </div>
               <p class="compact-description">{{ item.description }}</p>
             </div>
@@ -580,18 +594,20 @@ onMounted(() => {
   flex: 1;
   height: 48px;
   padding: 0 20px;
-  border: 2px solid #dcdfe6;
-  border-radius: 8px;
+  border: 3px solid #7c3aed;
+  border-radius: 10px;
   font-size: 14px;
   color: #303133;
   background: white;
   transition: all 0.3s;
+  box-shadow: 0 2px 8px rgba(124, 58, 237, 0.15);
 }
 
 .search-input:focus {
   outline: none;
-  border-color: #667eea;
-  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+  border-color: #6d28d9;
+  border-width: 3px;
+  box-shadow: 0 0 0 4px rgba(124, 58, 237, 0.2), 0 2px 12px rgba(124, 58, 237, 0.3);
 }
 
 .search-input::placeholder {
@@ -601,27 +617,29 @@ onMounted(() => {
 .search-button {
   height: 48px;
   padding: 0 32px;
-  background: #667eea;
+  background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
   color: white;
   border: none;
-  border-radius: 8px;
+  border-radius: 10px;
   font-size: 14px;
   font-weight: 600;
   cursor: pointer;
-  transition: all 0.3s;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 8px;
+  box-shadow: 0 4px 12px rgba(124, 58, 237, 0.2);
 }
 
 .search-button:hover {
-  background: #5568d3;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+  background: linear-gradient(135deg, #6d28d9 0%, #9333ea 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(124, 58, 237, 0.35);
 }
 
 .search-icon {
   font-size: 16px;
+  color: white;
 }
 
 /* ========== 主体布局 ========== */
@@ -636,45 +654,48 @@ onMounted(() => {
 
 /* ========== 左侧筛选栏 ========== */
 .sidebar-filters {
-  width: 240px;
+  width: 260px;
   flex-shrink: 0;
   background: white;
-  border-radius: 12px;
-  border: 1px solid #e4e7ed;
-  padding: 20px;
+  border-radius: 16px;
+  border: 1px solid #e8eaed;
+  padding: 24px;
   position: sticky;
   top: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
 
 .filter-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 20px;
-  padding-bottom: 16px;
-  border-bottom: 2px solid #f0f2f5;
+  margin-bottom: 24px;
+  padding-bottom: 18px;
+  border-bottom: 2px solid #f3f4f6;
 }
 
 .filter-header h3 {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 700;
-  color: #303133;
+  color: #1f2937;
   margin: 0;
 }
 
 .clear-all {
-  font-size: 12px;
-  color: #f56c6c;
+  font-size: 13px;
+  color: #ef4444;
   background: none;
   border: none;
   cursor: pointer;
-  padding: 4px 8px;
-  border-radius: 4px;
+  padding: 6px 10px;
+  border-radius: 6px;
   transition: all 0.2s;
+  font-weight: 600;
 }
 
 .clear-all:hover {
-  background: #fef0f0;
+  background: #fef2f2;
+  color: #dc2626;
 }
 
 .filter-block {
@@ -800,29 +821,31 @@ onMounted(() => {
 }
 
 .view-btn {
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
   display: flex;
   align-items: center;
   justify-content: center;
   background: transparent;
-  border: none;
-  border-radius: 6px;
-  color: #909399;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  color: #6b7280;
   cursor: pointer;
-  transition: all 0.2s;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   font-size: 18px;
 }
 
 .view-btn:hover {
-  background: white;
-  color: #606266;
+  background: #f9fafb;
+  color: #374151;
+  border-color: #d1d5db;
 }
 
 .view-btn.active {
-  background: #667eea;
+  background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
   color: white;
-  box-shadow: 0 2px 4px rgba(102, 126, 234, 0.3);
+  border-color: transparent;
+  box-shadow: 0 4px 12px rgba(124, 58, 237, 0.25);
 }
 
 /* 加载状态 */
@@ -1078,7 +1101,7 @@ onMounted(() => {
 .empty-icon {
   font-size: 64px;
   margin-bottom: 16px;
-  opacity: 0.3;
+  color: #d1d5db;
 }
 
 .empty-title {
@@ -1097,27 +1120,29 @@ onMounted(() => {
 /* 卡片视图 */
 .plugin-list-card {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 24px;
+  padding: 8px; /* 防止阴影被裁剪 */
+  align-items: start; /* 卡片从顶部对齐 */
 }
 
 /* 卡片项 */
 .plugin-card {
   background: white;
-  border: 1px solid #e4e7ed;
-  border-radius: 12px;
-  padding: 20px;
-  transition: all 0.3s;
+  border: 1px solid #e8eaed;
+  border-radius: 16px;
+  padding: 24px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   cursor: pointer;
   display: flex;
   flex-direction: column;
-  height: 100%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
 
 .plugin-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
-  border-color: #667eea;
+  transform: translateY(-6px);
+  box-shadow: 0 12px 32px rgba(102, 126, 234, 0.15);
+  border-color: #8b9cf5;
 }
 
 /* 徽章 */
@@ -1125,21 +1150,24 @@ onMounted(() => {
   display: flex;
   align-items: center;
   gap: 8px;
-  margin-bottom: 12px;
-  padding: 8px 12px;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  border-radius: 8px;
+  margin-bottom: 16px;
+  padding: 10px 16px;
+  background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
+  border-radius: 10px;
   align-self: flex-start;
+  box-shadow: 0 4px 12px rgba(124, 58, 237, 0.2);
 }
 
 .badge-icon {
   font-size: 18px;
+  color: white;
 }
 
 .badge-count {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700;
   color: white;
+  letter-spacing: 0.5px;
 }
 
 /* 插件信息 */
@@ -1156,33 +1184,49 @@ onMounted(() => {
 }
 
 .plugin-name {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 600;
-  color: #303133;
+  color: #1f2937;
   margin: 0;
   line-height: 1.4;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.plugin-name-icon {
+  font-size: 18px;
+  color: #7c3aed;
 }
 
 .plugin-card:hover .plugin-name {
-  color: #667eea;
+  color: #7c3aed;
 }
 
 .plugin-tag {
-  font-size: 11px;
-  padding: 4px 8px;
-  background: #f0f2f5;
-  color: #909399;
-  border-radius: 4px;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 12px;
+  padding: 5px 10px;
+  background: linear-gradient(135deg, #f3e8ff 0%, #ede9fe 100%);
+  color: #7c3aed;
+  border-radius: 6px;
   font-weight: 600;
   white-space: nowrap;
   flex-shrink: 0;
 }
 
+.category-icon {
+  font-size: 12px;
+  color: #7c3aed;
+}
+
 .plugin-description {
-  font-size: 13px;
-  color: #606266;
-  line-height: 1.6;
-  margin: 0 0 12px 0;
+  font-size: 14px;
+  color: #4b5563;
+  line-height: 1.7;
+  margin: 0 0 16px 0;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
@@ -1207,6 +1251,19 @@ onMounted(() => {
 
 .meta-icon {
   font-size: 14px;
+  color: #9ca3af;
+}
+
+.meta-icon.icon-user {
+  color: #7c3aed;
+}
+
+.meta-icon.icon-calendar {
+  color: #06b6d4;
+}
+
+.meta-icon.icon-tag {
+  color: #10b981;
 }
 
 .meta-divider {
@@ -1222,151 +1279,151 @@ onMounted(() => {
 
 .action-button {
   width: 100%;
-  height: 36px;
-  padding: 0 16px;
-  background: #667eea;
+  height: 40px;
+  padding: 0 20px;
+  background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
   color: white;
   border: none;
-  border-radius: 6px;
-  font-size: 13px;
+  border-radius: 10px;
+  font-size: 14px;
   font-weight: 600;
   cursor: pointer;
-  transition: all 0.2s;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 12px rgba(124, 58, 237, 0.2);
 }
 
 .action-button:hover {
-  background: #5568d3;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+  background: linear-gradient(135deg, #6d28d9 0%, #9333ea 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(124, 58, 237, 0.35);
 }
 
 .action-button.primary {
-  background: #667eea;
+  background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
 }
 
 /* ========== 列表视图 ========== */
-.plugin-list-table {
+.plugin-list-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.plugin-row-card {
   background: white;
-  border: 1px solid #e4e7ed;
+  border: 1px solid #e8eaed;
   border-radius: 12px;
-  overflow: hidden;
-}
-
-.plugin-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.plugin-table thead {
-  background: #f5f7fa;
-  border-bottom: 1px solid #e4e7ed;
-}
-
-.plugin-table th {
-  padding: 16px;
-  text-align: left;
-  font-size: 13px;
-  font-weight: 600;
-  color: #606266;
-}
-
-.plugin-table td {
-  padding: 16px;
-  border-bottom: 1px solid #f0f2f5;
-  color: #303133;
-  font-size: 13px;
-}
-
-.plugin-row {
-  transition: all 0.2s;
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
 
-.plugin-row:hover {
-  background: #f5f7fa;
+.plugin-row-card:hover {
+  transform: translateX(4px);
+  box-shadow: 0 4px 16px rgba(124, 58, 237, 0.12);
+  border-color: #7c3aed;
 }
 
-.plugin-row:last-child td {
-  border-bottom: none;
+.row-main {
+  flex: 1;
+  min-width: 0;
 }
 
-.col-name {
-  width: 40%;
+.row-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
 }
 
-.col-author {
-  width: 15%;
-}
-
-.col-downloads {
-  width: 12%;
-}
-
-.col-updated {
-  width: 15%;
-}
-
-.col-version {
-  width: 10%;
-}
-
-.col-actions {
-  width: 8%;
-}
-
-.name-cell {
+.row-name {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1f2937;
+  margin: 0;
   display: flex;
   align-items: center;
   gap: 8px;
-  margin-bottom: 4px;
+}
+
+.row-icon {
+  font-size: 16px;
+  color: #7c3aed;
+}
+
+.row-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  background: linear-gradient(135deg, #f3e8ff 0%, #ede9fe 100%);
+  color: #7c3aed;
+  border-radius: 6px;
+  font-size: 12px;
   font-weight: 600;
 }
 
-.description-cell {
-  font-size: 12px;
-  color: #909399;
+.row-description {
+  font-size: 13px;
+  color: #6b7280;
+  margin: 0;
+  line-height: 1.5;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
-.plugin-tag-small {
-  font-size: 11px;
-  padding: 2px 6px;
-  background: #f0f2f5;
-  color: #909399;
-  border-radius: 4px;
-  font-weight: 600;
+.row-meta {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-shrink: 0;
 }
 
-.version-badge {
-  font-size: 12px;
-  padding: 4px 8px;
-  background: #f0f2f5;
-  border-radius: 4px;
+.meta-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: #6b7280;
+}
+
+.meta-icon-list {
+  font-size: 14px;
+  color: #9ca3af;
+}
+
+.meta-value {
   font-weight: 500;
-  color: #606266;
+  color: #374151;
 }
 
-.text-muted {
-  color: #c0c4cc;
+.row-actions {
+  flex-shrink: 0;
 }
 
-.action-button-small {
-  padding: 6px 16px;
-  background: #667eea;
+.action-button-list {
+  padding: 8px 20px;
+  background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
   color: white;
   border: none;
-  border-radius: 4px;
-  font-size: 12px;
+  border-radius: 8px;
+  font-size: 13px;
   font-weight: 600;
   cursor: pointer;
-  transition: all 0.2s;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 2px 8px rgba(124, 58, 237, 0.2);
 }
 
-.action-button-small:hover {
-  background: #5568d3;
+.action-button-list:hover {
+  background: linear-gradient(135deg, #6d28d9 0%, #9333ea 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(124, 58, 237, 0.3);
 }
 
 /* ========== 响应式设计 ========== */

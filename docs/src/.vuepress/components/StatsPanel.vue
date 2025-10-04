@@ -1,13 +1,15 @@
 <template>
   <div class="stats-panel">
-    <div 
-      v-for="(stat, index) in stats" 
-      :key="index" 
+    <div
+      v-for="(stat, index) in stats"
+      :key="index"
       class="stat-card"
       :class="{ 'animate': animated }"
       :style="{ animationDelay: `${index * 0.1}s` }"
     >
-      <div class="stat-icon">{{ stat.icon }}</div>
+      <div class="stat-icon">
+        <i :class="stat.iconClass" :style="{ color: stat.iconColor }"></i>
+      </div>
       <div class="stat-content">
         <div class="stat-value">
           <span v-if="animated">{{ animatedValues[index] }}</span>
@@ -15,7 +17,7 @@
         </div>
         <div class="stat-label">{{ stat.label }}</div>
         <div v-if="stat.trend" class="stat-trend" :class="stat.trendType">
-          <span class="trend-icon">{{ stat.trendIcon }}</span>
+          <i class="iconfont icon-arrow-up trend-icon"></i>
           <span class="trend-text">{{ stat.trend }}</span>
         </div>
       </div>
@@ -58,43 +60,43 @@ const formatNumber = (num: number): string => {
 // 统计数据配置
 const stats = computed(() => {
   if (!props.stats) return [];
-  
+
   return [
     {
-      icon: '📦',
+      iconClass: 'iconfont icon-box',
+      iconColor: '#7c3aed',
       value: formatNumber(props.stats.totalPlugins),
       rawValue: props.stats.totalPlugins,
       label: '总插件数',
       trend: null,
-      trendType: null,
-      trendIcon: null
+      trendType: null
     },
     {
-      icon: '⬇️',
+      iconClass: 'iconfont icon-download',
+      iconColor: '#06b6d4',
       value: formatNumber(props.stats.totalDownloads),
       rawValue: props.stats.totalDownloads,
       label: '总下载量',
       trend: null,
-      trendType: null,
-      trendIcon: null
+      trendType: null
     },
     {
-      icon: '🆕',
+      iconClass: 'iconfont icon-add',
+      iconColor: '#10b981',
       value: props.stats.weeklyNewPlugins.toString(),
       rawValue: props.stats.weeklyNewPlugins,
       label: '本周新增',
       trend: '较上周',
-      trendType: 'up',
-      trendIcon: '↑'
+      trendType: 'up'
     },
     {
-      icon: '📈',
+      iconClass: 'iconfont icon-chart',
+      iconColor: '#f59e0b',
       value: props.stats.monthlyNewPlugins.toString(),
       rawValue: props.stats.monthlyNewPlugins,
       label: '本月新增',
       trend: '较上月',
-      trendType: 'up',
-      trendIcon: '↑'
+      trendType: 'up'
     }
   ];
 });
@@ -154,18 +156,18 @@ watch(() => props.stats, (newStats) => {
 <style scoped>
 .stats-panel {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0;
 }
 
 .stat-card {
   display: flex;
   align-items: center;
-  gap: 1.25rem;
-  padding: 1.75rem;
+  gap: 0.75rem;
+  padding: 1rem 1.25rem;
   background: var(--vp-c-bg-soft);
-  border-radius: 12px;
+  border-radius: 10px;
   border: 1px solid var(--vp-c-divider);
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
@@ -212,7 +214,7 @@ watch(() => props.stats, (newStats) => {
 }
 
 .stat-icon {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   line-height: 1;
   flex-shrink: 0;
   filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
@@ -224,7 +226,7 @@ watch(() => props.stats, (newStats) => {
 }
 
 .stat-value {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   color: var(--vp-c-brand);
   line-height: 1.2;
@@ -233,20 +235,20 @@ watch(() => props.stats, (newStats) => {
 }
 
 .stat-label {
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   color: var(--vp-c-text-2);
   font-weight: 500;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.15rem;
 }
 
 .stat-trend {
   display: inline-flex;
   align-items: center;
-  gap: 0.25rem;
-  font-size: 0.8rem;
-  padding: 0.2rem 0.5rem;
+  gap: 0.2rem;
+  font-size: 0.75rem;
+  padding: 0.15rem 0.4rem;
   border-radius: 4px;
-  margin-top: 0.5rem;
+  margin-top: 0.3rem;
 }
 
 .stat-trend.up {
