@@ -1,0 +1,10 @@
+# VuePress 缓存和临时文件
+.cache
+.temp
+.vite-cache
+dist
+
+# 开发服务器缓存
+node_modules/.vite
+node_modules/.cache
+

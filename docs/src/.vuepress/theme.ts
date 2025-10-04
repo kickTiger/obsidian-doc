@@ -2,6 +2,9 @@ import { hopeTheme } from "vuepress-theme-hope";
 import { enNavbar, zhNavbar } from "./navbar";
 import { enSidebar, zhSidebar } from "./sidebar";
 
+// 检测是否为开发环境
+const isDev = process.env.NODE_ENV === 'development';
+
 export default hopeTheme({
   hostname: "https://obsidian.vip/",
 
@@ -10,8 +13,8 @@ export default hopeTheme({
     url: "https://obsidian.vip/",
   },
 
-  // 热更新开关
-  hotReload: true,
+  // 开发环境关闭热重载以提升性能
+  hotReload: !isDev,
 
   // 显示编辑此页连接
   editLink: false,
@@ -106,50 +109,53 @@ export default hopeTheme({
     // 你想使用的组件
     // 文档 https://theme-hope.vuejs.press/zh/guide/markdown/components.html
     components: {
-      // 你想使用的组件
-      components: [
-        "AudioPlayer",
-        "Badge",
-        "BiliBili",
-        "CodePen",
-        "PDF",
-        "StackBlitz",
-        "VideoPlayer",
-        "YouTube",
-      ],
+      // 开发环境只保留必要组件，生产环境启用全部
+      components: isDev
+        ? ["Badge"]
+        : [
+            "AudioPlayer",
+            "Badge",
+            "BiliBili",
+            "CodePen",
+            "PDF",
+            "StackBlitz",
+            "VideoPlayer",
+            "YouTube",
+          ],
     },
 
-    //开启版权功能
-    copyright: true,
+    // 开发环境关闭版权功能以提升性能
+    copyright: !isDev,
 
     // 开启目录页自动生成
     autoCatalog: false,
 
     // Disable features you don't want here
+    // 开发环境禁用重量级功能以提升性能
     mdEnhance: {
       align: true,
       attrs: true,
-      chart: true,
+      chart: !isDev,        // 开发环境禁用
       codetabs: true,
       container: true,
-      demo: true,
-      echarts: true,
+      demo: !isDev,         // 开发环境禁用
+      echarts: !isDev,      // 开发环境禁用
       figure: true,
-      flowchart: true,
+      flowchart: !isDev,    // 开发环境禁用
       gfm: true,
       imgLazyload: true,
       imgSize: true,
       include: true,
-      katex: true,
+      katex: !isDev,        // 开发环境禁用
       mark: true,
-      mermaid: true,
-      playground: {
+      mermaid: !isDev,      // 开发环境禁用
+      playground: !isDev ? {
         presets: ["ts", "vue"],
-      },
-      presentation: {
+      } : false,            // 开发环境禁用
+      presentation: !isDev ? {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
-      },
-      stylize: [
+      } : false,            // 开发环境禁用
+      stylize: !isDev ? [
         {
           matcher: "Recommended",
           replacer: ({ tag }) => {
@@ -161,12 +167,12 @@ export default hopeTheme({
               };
           },
         },
-      ],
+      ] : [],               // 开发环境禁用
       sub: true,
       sup: true,
       tabs: true,
       vPre: true,
-      vuePlayground: true,
+      vuePlayground: !isDev, // 开发环境禁用
     },
 
     // uncomment these if you want a pwa
