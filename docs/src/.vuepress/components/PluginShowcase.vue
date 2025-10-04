@@ -457,14 +457,14 @@ const loadData = async () => {
     error.value = null;
     
     // 加载插件列表数据
-    const pluginsResponse = await fetch('/data/plugins-sample.json');
+    const pluginsResponse = await fetch('/data/plugins.json');
     if (!pluginsResponse.ok) {
       throw new Error('加载插件数据失败');
     }
     plugins.value = await pluginsResponse.json();
     
     // 加载统计数据
-    const statsResponse = await fetch('/data/plugin-stats-sample.json');
+    const statsResponse = await fetch('/data/plugin-stats.json');
     if (!statsResponse.ok) {
       throw new Error('加载统计数据失败');
     }
