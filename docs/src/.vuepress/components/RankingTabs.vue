@@ -209,9 +209,10 @@ const getGrowthClass = (plugin: Plugin): string => {
 
 // 导航到插件详情页
 const navigateToPlugin = (pluginId: string) => {
-  // 暂时只是控制台输出,后续实现路由跳转
-  console.log('Navigate to plugin:', pluginId);
-  // window.location.href = `/zh/plugins/${pluginId}.html`;
+  // 跳转到插件详情页面
+  // 使用相对路径确保在不同环境下都能正确跳转
+  const detailUrl = `/zh/plugins/${pluginId}.html`;
+  window.location.href = detailUrl;
 };
 </script>
 

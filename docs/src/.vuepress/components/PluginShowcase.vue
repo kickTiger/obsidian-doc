@@ -234,7 +234,7 @@
 
               <!-- 右侧：操作按钮 -->
               <div class="plugin-actions">
-                <button class="action-button primary">查看详情</button>
+                <button class="action-button primary" @click="navigateToDetail(item.id)">查看详情</button>
               </div>
             </div>
           </div>
@@ -285,7 +285,7 @@
 
               <!-- 操作按钮 -->
               <div class="row-actions">
-                <button class="action-button-list">查看详情</button>
+                <button class="action-button-list" @click="navigateToDetail(item.id)">查看详情</button>
               </div>
             </div>
           </div>
@@ -589,6 +589,14 @@ const getCategoryStyle = (category: string | undefined): { background: string; c
     background: 'linear-gradient(135deg, #fef0ff 0%, #fce0ff 100%)',
     color: '#e056fd'
   };
+};
+
+// 导航到插件详情页
+const navigateToDetail = (pluginId: string) => {
+  // 构建详情页 URL
+  const detailUrl = `/zh/plugins/${pluginId}.html`;
+  // 使用 window.location 进行导航
+  window.location.href = detailUrl;
 };
 
 // 监听筛选条件变化,重置到第一页

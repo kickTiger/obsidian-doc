@@ -3,6 +3,8 @@ import FloatingSidebar from './components/FloatingSidebar.vue'
 import PluginShowcase from './components/PluginShowcase.vue'
 import StatsPanel from './components/StatsPanel.vue'
 import RankingTabs from './components/RankingTabs.vue'
+import PluginAd from './components/PluginAd.vue'
+import PluginDetail from './components/PluginDetail.vue'
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -11,6 +13,8 @@ export default defineClientConfig({
     app.component('PluginShowcase', PluginShowcase)
     app.component('StatsPanel', StatsPanel)
     app.component('RankingTabs', RankingTabs)
+    app.component('PluginAd', PluginAd)
+    app.component('PluginDetail', PluginDetail)
   },
   
   setup() {
