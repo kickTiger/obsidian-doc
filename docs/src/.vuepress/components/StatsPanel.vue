@@ -7,7 +7,7 @@
       :class="{ 'animate': animated }"
       :style="{ animationDelay: `${index * 0.1}s` }"
     >
-      <div class="stat-icon">
+      <div class="stat-icon" :style="{ background: stat.iconBg }">
         <i :class="stat.iconClass" :style="{ color: stat.iconColor }"></i>
       </div>
       <div class="stat-content">
@@ -63,8 +63,9 @@ const stats = computed(() => {
 
   return [
     {
-      iconClass: 'iconfont icon-box',
+      iconClass: 'iconfont icon-grid',
       iconColor: '#7c3aed',
+      iconBg: 'linear-gradient(135deg, rgba(124, 58, 237, 0.15) 0%, rgba(168, 85, 247, 0.15) 100%)',
       value: formatNumber(props.stats.totalPlugins),
       rawValue: props.stats.totalPlugins,
       label: '总插件数',
@@ -72,8 +73,9 @@ const stats = computed(() => {
       trendType: null
     },
     {
-      iconClass: 'iconfont icon-download',
+      iconClass: 'iconfont icon-like',
       iconColor: '#06b6d4',
+      iconBg: 'linear-gradient(135deg, rgba(6, 182, 212, 0.15) 0%, rgba(14, 165, 233, 0.15) 100%)',
       value: formatNumber(props.stats.totalDownloads),
       rawValue: props.stats.totalDownloads,
       label: '总下载量',
@@ -81,8 +83,9 @@ const stats = computed(() => {
       trendType: null
     },
     {
-      iconClass: 'iconfont icon-add',
+      iconClass: 'iconfont icon-time',
       iconColor: '#10b981',
+      iconBg: 'linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(5, 150, 105, 0.15) 100%)',
       value: props.stats.weeklyNewPlugins.toString(),
       rawValue: props.stats.weeklyNewPlugins,
       label: '本周新增',
@@ -90,8 +93,9 @@ const stats = computed(() => {
       trendType: 'up'
     },
     {
-      iconClass: 'iconfont icon-chart',
+      iconClass: 'iconfont icon-date',
       iconColor: '#f59e0b',
+      iconBg: 'linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(251, 146, 60, 0.15) 100%)',
       value: props.stats.monthlyNewPlugins.toString(),
       rawValue: props.stats.monthlyNewPlugins,
       label: '本月新增',
@@ -164,10 +168,10 @@ watch(() => props.stats, (newStats) => {
 .stat-card {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
+  gap: 1rem;
   padding: 1rem 1.25rem;
   background: var(--vp-c-bg-soft);
-  border-radius: 10px;
+  border-radius: 12px;
   border: 1px solid var(--vp-c-divider);
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   position: relative;
@@ -214,23 +218,34 @@ watch(() => props.stats, (newStats) => {
 }
 
 .stat-icon {
-  font-size: 1.5rem;
-  line-height: 1;
   flex-shrink: 0;
-  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.05));
+}
+
+.stat-icon i {
+  font-size: 32px;
+  line-height: 1;
 }
 
 .stat-content {
   flex: 1;
   min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
 }
 
 .stat-value {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-weight: 700;
   color: var(--vp-c-brand);
-  line-height: 1.2;
-  margin-bottom: 0.25rem;
+  line-height: 1;
   font-variant-numeric: tabular-nums;
 }
 
@@ -238,17 +253,16 @@ watch(() => props.stats, (newStats) => {
   font-size: 0.85rem;
   color: var(--vp-c-text-2);
   font-weight: 500;
-  margin-bottom: 0.15rem;
 }
 
 .stat-trend {
   display: inline-flex;
   align-items: center;
-  gap: 0.2rem;
+  gap: 0.25rem;
   font-size: 0.75rem;
-  padding: 0.15rem 0.4rem;
+  padding: 0.2rem 0.5rem;
   border-radius: 4px;
-  margin-top: 0.3rem;
+  margin-top: 0.25rem;
 }
 
 .stat-trend.up {
