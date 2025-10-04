@@ -13,6 +13,7 @@ pageClass: plugin-detail-page
 ---
 
 <PluginDetail
+  id="templater-obsidian"
   name="Templater"
   description="为 Obsidian 提供强大的模板语言,支持变量、函数和动态内容生成"
   author="SilentVoid"

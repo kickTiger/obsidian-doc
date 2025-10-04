@@ -4,7 +4,7 @@
       <!-- 插件头部 -->
       <div class="plugin-header">
         <div class="plugin-icon">
-          <i :class="`iconfont icon-${icon}`"></i>
+          <img src="/logo.svg" alt="plugin icon" />
         </div>
         <div class="plugin-title-section">
           <h1 class="plugin-title">{{ name }}</h1>
@@ -43,7 +43,15 @@
 
       <!-- 快速操作按钮 -->
       <div class="plugin-actions">
-        <a :href="`https://github.com/${repo}`" target="_blank" class="action-btn primary">
+        <a href="/zh/documentation/obsidian-plugins-download.html" class="action-btn primary">
+          <i class="iconfont icon-download"></i>
+          国内高速下载
+        </a>
+        <a :href="`obsidian://show-plugin?id=${id}`" class="action-btn secondary">
+          <i class="iconfont icon-obsidian"></i>
+          Obsidian安装
+        </a>
+        <a :href="`https://github.com/${repo}`" target="_blank" class="action-btn secondary">
           <i class="iconfont icon-github"></i>
           在 GitHub 上查看
         </a>
@@ -53,17 +61,14 @@
         </a>
       </div>
 
+      <!-- 横版广告位 -->
+      <div class="horizontal-ad">
+        <PluginAd position="detail-bottom" />
+      </div>
+
       <!-- 插件内容插槽 -->
       <slot></slot>
     </div>
-
-    <!-- 侧边栏 -->
-    <aside class="plugin-detail-sidebar">
-      <!-- 广告位占位 -->
-      <div class="sidebar-ad">
-        <PluginAd position="detail-sidebar" />
-      </div>
-    </aside>
   </div>
 </template>
 
@@ -73,6 +78,7 @@ import PluginAd from './PluginAd.vue';
 
 // Props 定义
 interface Props {
+  id: string;
   name: string;
   description: string;
   author: string;
@@ -106,17 +112,14 @@ const formatDate = (timestamp: number): string => {
 <style scoped>
 /* 详情页容器 */
 .plugin-detail-container {
-  display: flex;
-  gap: 30px;
-  max-width: 1400px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 30px 20px;
 }
 
 /* 主内容区 */
 .plugin-detail-main {
-  flex: 1;
-  min-width: 0;
+  width: 100%;
 }
 
 /* 插件头部 */
@@ -141,6 +144,13 @@ const formatDate = (timestamp: number): string => {
   justify-content: center;
   font-size: 40px;
   flex-shrink: 0;
+  padding: 12px;
+}
+
+.plugin-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 .plugin-title-section {
@@ -207,7 +217,7 @@ const formatDate = (timestamp: number): string => {
 .plugin-actions {
   display: flex;
   gap: 12px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .action-btn {
@@ -244,27 +254,13 @@ const formatDate = (timestamp: number): string => {
   border-color: #c0c4cc;
 }
 
-/* 侧边栏 */
-.plugin-detail-sidebar {
-  width: 300px;
-  flex-shrink: 0;
-}
-
-.sidebar-ad {
-  position: sticky;
-  top: 20px;
+/* 横版广告位 */
+.horizontal-ad {
+  width: 100%;
+  margin-bottom: 30px;
 }
 
 /* 响应式 */
-@media (max-width: 1024px) {
-  .plugin-detail-container {
-    flex-direction: column;
-  }
-  
-  .plugin-detail-sidebar {
-    width: 100%;
-  }
-}
 
 @media (max-width: 768px) {
   .plugin-header {

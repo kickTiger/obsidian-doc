@@ -13,6 +13,7 @@ pageClass: plugin-detail-page
 ---
 
 <PluginDetail
+  id="obsidian-kanban"
   name="Kanban"
   description="在 Obsidian 中创建 Markdown 支持的看板"
   author="mgmeyers"

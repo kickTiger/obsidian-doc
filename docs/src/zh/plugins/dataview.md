@@ -13,6 +13,7 @@ pageClass: plugin-detail-page
 ---
 
 <PluginDetail
+  id="dataview"
   name="Dataview"
   description="复杂的数据查询和视图,用于实时索引和查询您的 Obsidian 库"
   author="Michael Brenan"
