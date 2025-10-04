@@ -20,7 +20,7 @@
         <div class="hero-banner">
           <div class="hero-content">
             <h1 class="hero-title">Obsidian 插件市场</h1>
-            <p class="hero-subtitle">探索 1,779+ 个优秀社区插件，提升你的笔记体验</p>
+            <p class="hero-subtitle">咖啡豆社区带你探索obsidian插件大全，提升你的笔记体验</p>
           </div>
         </div>
 
@@ -203,17 +203,19 @@
               <div class="plugin-info">
                 <div class="plugin-header">
                   <h3 class="plugin-name">
-                    <i class="iconfont icon-puzzle plugin-name-icon"></i>
                     {{ item.name }}
                   </h3>
-                  <span v-if="item.category" class="plugin-tag">
-                    <i class="iconfont icon-folder category-icon"></i>
+                  <span
+                    v-if="item.category"
+                    class="plugin-tag"
+                    :style="getCategoryStyle(item.category)"
+                  >
                     {{ item.category }}
                   </span>
                 </div>
                 <p class="plugin-description">{{ item.description }}</p>
                 <div class="plugin-meta">
-                  <span class="meta-item">
+                  <span class="meta-item meta-author" :title="item.author">
                     <i class="iconfont icon-user meta-icon"></i>
                     {{ item.author }}
                   </span>
@@ -248,11 +250,13 @@
               <div class="row-main">
                 <div class="row-header">
                   <h3 class="row-name">
-                    <i class="iconfont icon-puzzle row-icon"></i>
                     {{ item.name }}
                   </h3>
-                  <span v-if="item.category" class="row-tag">
-                    <i class="iconfont icon-folder"></i>
+                  <span
+                    v-if="item.category"
+                    class="row-tag"
+                    :style="getCategoryStyle(item.category)"
+                  >
                     {{ item.category }}
                   </span>
                 </div>
@@ -265,9 +269,9 @@
                   <i class="iconfont icon-download meta-icon-list"></i>
                   <span class="meta-value">{{ formatNumber(item.downloads) }}</span>
                 </div>
-                <div class="meta-group">
+                <div class="meta-group meta-author-group">
                   <i class="iconfont icon-user meta-icon-list"></i>
-                  <span class="meta-value">{{ item.author }}</span>
+                  <span class="meta-value meta-author" :title="item.author">{{ item.author }}</span>
                 </div>
                 <div class="meta-group">
                   <i class="iconfont icon-calendar meta-icon-list"></i>
@@ -296,7 +300,7 @@
               <div class="compact-main">
                 <span class="compact-name">{{ item.name }}</span>
                 <span class="compact-separator">•</span>
-                <span class="compact-author">{{ item.author }}</span>
+                <span class="compact-author" :title="item.author">{{ item.author }}</span>
                 <span class="compact-separator">•</span>
                 <span class="compact-downloads">
                   <i class="iconfont icon-download"></i> {{ formatNumber(item.downloads) }}
@@ -509,11 +513,64 @@ const formatNumber = (num: number): string => {
 // 格式化日期
 const formatDate = (timestamp: number): string => {
   const date = new Date(timestamp);
-  return date.toLocaleDateString('zh-CN', { 
-    year: 'numeric', 
-    month: '2-digit', 
-    day: '2-digit' 
+  return date.toLocaleDateString('zh-CN', {
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit'
   });
+};
+
+// 获取分类标签的暖色系样式
+const getCategoryStyle = (category: string | undefined): { background: string; color: string } => {
+  // 定义暖色系配色方案 - 使用中文分类名称作为key
+  const categoryColors: Record<string, { background: string; color: string }> = {
+    '数据处理': {
+      background: 'linear-gradient(135deg, #fff5f0 0%, #ffe8dc 100%)',
+      color: '#ff6b35'
+    },
+    '日历时间': {
+      background: 'linear-gradient(135deg, #fffbea 0%, #fff3c4 100%)',
+      color: '#f7b731'
+    },
+    '模板': {
+      background: 'linear-gradient(135deg, #fff0f3 0%, #ffe0e6 100%)',
+      color: '#ee5a6f'
+    },
+    '任务管理': {
+      background: 'linear-gradient(135deg, #fff1f0 0%, #ffe3e1 100%)',
+      color: '#fc5c65'
+    },
+    '绘图': {
+      background: 'linear-gradient(135deg, #fff0f6 0%, #ffe0ed 100%)',
+      color: '#fd79a8'
+    },
+    '备份同步': {
+      background: 'linear-gradient(135deg, #fffaf0 0%, #fff4e0 100%)',
+      color: '#ff9f43'
+    },
+    '编辑增强': {
+      background: 'linear-gradient(135deg, #fff5f5 0%, #ffe5e5 100%)',
+      color: '#ff6348'
+    },
+    '可视化': {
+      background: 'linear-gradient(135deg, #fff8f0 0%, #ffedd5 100%)',
+      color: '#fb923c'
+    },
+    '效率工具': {
+      background: 'linear-gradient(135deg, #fff3f0 0%, #ffe0d5 100%)',
+      color: '#ff7f50'
+    },
+    '外观定制': {
+      background: 'linear-gradient(135deg, #fff6f0 0%, #ffeadc 100%)',
+      color: '#ff8c42'
+    }
+  };
+
+  // 返回对应分类的颜色,如果没有匹配则返回默认暖色
+  return categoryColors[category || ''] || {
+    background: 'linear-gradient(135deg, #fef0ff 0%, #fce0ff 100%)',
+    color: '#e056fd'
+  };
 };
 
 onMounted(() => {
@@ -1188,15 +1245,8 @@ onMounted(() => {
   font-weight: 600;
   color: #1f2937;
   margin: 0;
+  padding: 0;
   line-height: 1.4;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.plugin-name-icon {
-  font-size: 18px;
-  color: #7c3aed;
 }
 
 .plugin-card:hover .plugin-name {
@@ -1209,17 +1259,10 @@ onMounted(() => {
   gap: 4px;
   font-size: 12px;
   padding: 5px 10px;
-  background: linear-gradient(135deg, #f3e8ff 0%, #ede9fe 100%);
-  color: #7c3aed;
   border-radius: 6px;
   font-weight: 600;
   white-space: nowrap;
   flex-shrink: 0;
-}
-
-.category-icon {
-  font-size: 12px;
-  color: #7c3aed;
 }
 
 .plugin-description {
@@ -1227,10 +1270,10 @@ onMounted(() => {
   color: #4b5563;
   line-height: 1.7;
   margin: 0 0 16px 0;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
+  padding: 0;
+  white-space: nowrap;
   overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .plugin-meta {
@@ -1247,6 +1290,15 @@ onMounted(() => {
   display: flex;
   align-items: center;
   gap: 4px;
+}
+
+.meta-author {
+  display: inline-block;
+  width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: help;
 }
 
 .meta-icon {
@@ -1345,14 +1397,7 @@ onMounted(() => {
   font-weight: 600;
   color: #1f2937;
   margin: 0;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.row-icon {
-  font-size: 16px;
-  color: #7c3aed;
+  padding: 0;
 }
 
 .row-tag {
@@ -1360,8 +1405,6 @@ onMounted(() => {
   align-items: center;
   gap: 4px;
   padding: 4px 10px;
-  background: linear-gradient(135deg, #f3e8ff 0%, #ede9fe 100%);
-  color: #7c3aed;
   border-radius: 6px;
   font-size: 12px;
   font-weight: 600;
@@ -1371,11 +1414,11 @@ onMounted(() => {
   font-size: 13px;
   color: #6b7280;
   margin: 0;
+  padding: 0;
   line-height: 1.5;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
+  white-space: nowrap;
   overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .row-meta {
@@ -1396,11 +1439,21 @@ onMounted(() => {
 .meta-icon-list {
   font-size: 14px;
   color: #9ca3af;
+  flex-shrink: 0;
 }
 
 .meta-value {
   font-weight: 500;
   color: #374151;
+}
+
+.meta-value.meta-author {
+  display: inline-block;
+  width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: help;
 }
 
 .row-actions {
@@ -1424,6 +1477,72 @@ onMounted(() => {
   background: linear-gradient(135deg, #6d28d9 0%, #9333ea 100%);
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(124, 58, 237, 0.3);
+}
+
+/* ========== 紧凑视图 ========== */
+.plugin-list-compact {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.plugin-compact-item {
+  background: white;
+  border: 1px solid #e8eaed;
+  border-radius: 8px;
+  padding: 12px 16px;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.plugin-compact-item:hover {
+  border-color: #7c3aed;
+  background: #fafafa;
+}
+
+.compact-main {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+  font-size: 13px;
+}
+
+.compact-name {
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.compact-separator {
+  color: #d1d5db;
+}
+
+.compact-author {
+  color: #6b7280;
+  display: inline-block;
+  width: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: help;
+}
+
+.compact-downloads {
+  color: #7c3aed;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.compact-description {
+  font-size: 12px;
+  color: #9ca3af;
+  margin: 0;
+  padding: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 /* ========== 响应式设计 ========== */

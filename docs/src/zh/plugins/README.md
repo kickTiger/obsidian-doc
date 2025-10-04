@@ -1,5 +1,5 @@
 ---
-title: 插件展示
+title: obsidian插件大全
 index: false
 icon: puzzle-piece
 category:
