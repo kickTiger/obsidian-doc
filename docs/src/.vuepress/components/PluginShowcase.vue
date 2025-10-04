@@ -180,7 +180,7 @@
 
           <!-- 插件列表 -->
           <div class="plugin-list-section">
-          <div v-if="filteredPlugins.length === 0" class="empty-results">
+          <div v-if="paginatedPlugins.length === 0" class="empty-results">
             <i class="iconfont icon-search empty-icon"></i>
             <p class="empty-title">没有找到匹配的插件</p>
             <p class="empty-hint">试试调整筛选条件或搜索关键词</p>
@@ -189,7 +189,7 @@
           <!-- 卡片视图 -->
           <div v-else-if="viewMode === 'card'" class="plugin-list plugin-list-card">
             <div 
-              v-for="item in filteredPlugins" 
+              v-for="item in paginatedPlugins" 
               :key="item.id" 
               class="plugin-item plugin-card"
             >
@@ -242,7 +242,7 @@
           <!-- 列表视图 -->
           <div v-else-if="viewMode === 'list'" class="plugin-list plugin-list-rows">
             <div
-              v-for="item in filteredPlugins"
+              v-for="item in paginatedPlugins"
               :key="item.id"
               class="plugin-row-card"
             >
@@ -293,7 +293,7 @@
           <!-- 紧凑视图 -->
           <div v-else-if="viewMode === 'compact'" class="plugin-list plugin-list-compact">
             <div
-              v-for="item in filteredPlugins"
+              v-for="item in paginatedPlugins"
               :key="item.id"
               class="plugin-compact-item"
             >
@@ -309,6 +309,14 @@
               <p class="compact-description">{{ item.description }}</p>
             </div>
           </div>
+
+          <!-- 分页组件 -->
+          <PluginPagination
+            v-if="filteredPlugins.length > 0"
+            v-model:page="currentPage"
+            v-model:page-size="pageSize"
+            :total="filteredPlugins.length"
+          />
         </div>
         </main>
       </div>
@@ -317,9 +325,10 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, onMounted } from 'vue';
+import { ref, computed, watch, onMounted } from 'vue';
 import StatsPanel from './StatsPanel.vue';
 import RankingTabs from './RankingTabs.vue';
+import PluginPagination from './PluginPagination.vue';
 
 // 数据类型定义
 interface Plugin {
@@ -367,6 +376,8 @@ const searchQuery = ref('');
 const filters = ref<FilterOptions>({});
 const sortOption = ref<SortOption>('downloads-desc');
 const viewMode = ref<ViewMode>('card');
+const currentPage = ref(1);
+const pageSize = ref(20);
 let searchTimeout: NodeJS.Timeout | null = null;
 
 // 过滤后的插件列表
@@ -430,6 +441,13 @@ const filteredPlugins = computed(() => {
   });
   
   return result;
+});
+
+// 分页后的插件列表
+const paginatedPlugins = computed(() => {
+  const start = (currentPage.value - 1) * pageSize.value;
+  const end = start + pageSize.value;
+  return filteredPlugins.value.slice(start, end);
 });
 
 // 加载数据
@@ -572,6 +590,11 @@ const getCategoryStyle = (category: string | undefined): { background: string; c
     color: '#e056fd'
   };
 };
+
+// 监听筛选条件变化,重置到第一页
+watch([searchQuery, filters, sortOption], () => {
+  currentPage.value = 1;
+}, { deep: true });
 
 onMounted(() => {
   loadData();
