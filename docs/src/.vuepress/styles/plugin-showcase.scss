@@ -1,0 +1,83 @@
+/* ========================================
+   插件展示页面专用样式
+   用于实现全宽布局,隐藏侧边栏,使用整个页面宽度
+   ======================================== */
+
+/* 使用body级别的选择器确保优先级 */
+body.plugin-showcase-page,
+html body.plugin-showcase-page {
+  /* 隐藏侧边栏 */
+  .sidebar {
+    display: none !important;
+  }
+
+  /* 页面容器 - 移除左右padding,使用全宽 */
+  .page,
+  main {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  /* 主内容区域 - 移除最大宽度限制和padding */
+  .theme-hope-content {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* 内容包装器全宽 */
+  .theme-default-content,
+  .vp-page {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}
+
+/* 插件展示组件容器 */
+.plugin-showcase-container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  
+  /* 确保组件内容全宽 */
+  .plugin-showcase {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* 深色模式适配 */
+html.dark {
+  .plugin-showcase-page {
+    background-color: var(--bg-color, #1a1a1a);
+  }
+}
+
+/* 浅色模式适配 */
+html:not(.dark) {
+  .plugin-showcase-page {
+    background-color: var(--bg-color, #ffffff);
+  }
+}
+
+/* 移除页面标题(因为组件内部已有标题) */
+.plugin-showcase-page {
+  .page-title,
+  .page-meta {
+    display: none !important;
+  }
+}
+
+/* 确保页面内容从顶部开始 */
+.plugin-showcase-page .theme-hope-content {
+  padding-top: 0 !important;
+}
+
