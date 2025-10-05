@@ -6,6 +6,7 @@
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
+require('dotenv').config(); // 加载 .env 文件
 
 // API 端点
 const PLUGINS_API = 'https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugins.json';
@@ -16,6 +17,9 @@ const GITHUB_API = 'https://api.github.com';
 const OUTPUT_DIR = path.join(__dirname, '../docs/src/.vuepress/public/data');
 const PLUGINS_OUTPUT = path.join(OUTPUT_DIR, 'plugins.json');
 const STATS_OUTPUT = path.join(OUTPUT_DIR, 'plugin-stats.json');
+
+// 创建时间缓存路径
+const CREATED_TIMES_CACHE = path.join(__dirname, '../data/plugin-created-times.json');
 
 // 重试配置
 const MAX_RETRIES = 3;
@@ -85,6 +89,52 @@ async function fetchWithRetry(url) {
 }
 
 /**
+ * 读取创建时间缓存
+ * @returns {Object} 缓存数据
+ */
+function loadCreatedTimesCache() {
+  try {
+    if (fs.existsSync(CREATED_TIMES_CACHE)) {
+      const data = fs.readFileSync(CREATED_TIMES_CACHE, 'utf-8');
+      return JSON.parse(data);
+    }
+  } catch (error) {
+    console.warn('⚠ 读取创建时间缓存失败:', error.message);
+  }
+
+  return {
+    _comment: "插件仓库创建时间缓存",
+    _description: "存储已获取的插件仓库创建时间，避免重复调用 GitHub API",
+    _lastUpdated: "",
+    plugins: {}
+  };
+}
+
+/**
+ * 保存创建时间缓存
+ * @param {Object} cache - 缓存数据
+ */
+function saveCreatedTimesCache(cache) {
+  try {
+    // 更新最后更新时间
+    cache._lastUpdated = new Date().toISOString();
+
+    // 确保目录存在
+    const dir = path.dirname(CREATED_TIMES_CACHE);
+    if (!fs.existsSync(dir)) {
+      fs.mkdirSync(dir, { recursive: true });
+    }
+
+    // 保存缓存
+    fs.writeFileSync(CREATED_TIMES_CACHE, JSON.stringify(cache, null, 2), 'utf-8');
+    console.log(`✓ 创建时间缓存已保存: ${CREATED_TIMES_CACHE}`);
+    console.log(`  - 缓存插件数: ${Object.keys(cache.plugins).length}`);
+  } catch (error) {
+    console.error('✗ 保存创建时间缓存失败:', error.message);
+  }
+}
+
+/**
  * 获取GitHub仓库的创建时间
  * @param {string} repo - 仓库路径 (例如: "owner/repo")
  * @returns {Promise<number>} 创建时间的时间戳，失败返回0
@@ -95,7 +145,7 @@ async function getRepoCreatedTime(repo) {
     const options = {
       headers: {
         'User-Agent': 'Obsidian-Plugin-Stats',
-        // 如果在GitHub Actions中运行，会自动使用GITHUB_TOKEN
+        // 优先使用 .env 中的 GITHUB_TOKEN，其次使用环境变量（GitHub Actions）
         ...(process.env.GITHUB_TOKEN && {
           'Authorization': `token ${process.env.GITHUB_TOKEN}`
         })
@@ -132,13 +182,17 @@ async function getRepoCreatedTime(repo) {
 }
 
 /**
- * 批量获取仓库创建时间（仅获取最近更新的插件）
+ * 批量获取仓库创建时间（仅获取最近更新的插件，使用缓存）
  * @param {Array} plugins - 插件数据数组
  * @param {Object} statsData - 统计数据对象
  * @returns {Promise<Map>} 仓库ID到创建时间的映射
  */
 async function batchGetRepoCreatedTimes(plugins, statsData) {
   console.log('正在获取插件仓库创建时间...');
+
+  // 加载缓存
+  const cache = loadCreatedTimesCache();
+  console.log(`  已缓存插件数: ${Object.keys(cache.plugins).length}`);
 
   // 只获取一周内更新的插件的创建时间
   const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
@@ -149,21 +203,56 @@ async function batchGetRepoCreatedTimes(plugins, statsData) {
 
   console.log(`  总插件数: ${plugins.length}`);
   console.log(`  一周内更新的插件: ${recentlyUpdatedPlugins.length}`);
-  console.log(`  需要查询创建时间的插件: ${recentlyUpdatedPlugins.length}`);
+
+  // 分离已缓存和需要查询的插件
+  const cachedPlugins = [];
+  const toFetchPlugins = [];
+
+  recentlyUpdatedPlugins.forEach(plugin => {
+    if (cache.plugins[plugin.id]) {
+      cachedPlugins.push(plugin);
+    } else {
+      toFetchPlugins.push(plugin);
+    }
+  });
+
+  console.log(`  已缓存: ${cachedPlugins.length}`);
+  console.log(`  需要查询: ${toFetchPlugins.length}`);
 
   const createdTimes = new Map();
-  const total = recentlyUpdatedPlugins.length;
+
+  // 从缓存加载
+  cachedPlugins.forEach(plugin => {
+    createdTimes.set(plugin.id, cache.plugins[plugin.id]);
+  });
+
+  // 如果没有需要查询的插件，直接返回
+  if (toFetchPlugins.length === 0) {
+    console.log(`✓ 全部从缓存加载，无需查询 API`);
+    return createdTimes;
+  }
+
+  // 查询新插件
+  const total = toFetchPlugins.length;
   let processed = 0;
+  let newlyCached = 0;
 
   // 每次处理10个，避免速率限制
   const batchSize = 10;
   const delayMs = 1000; // 每批次间隔1秒
 
-  for (let i = 0; i < recentlyUpdatedPlugins.length; i += batchSize) {
-    const batch = recentlyUpdatedPlugins.slice(i, Math.min(i + batchSize, recentlyUpdatedPlugins.length));
+  for (let i = 0; i < toFetchPlugins.length; i += batchSize) {
+    const batch = toFetchPlugins.slice(i, Math.min(i + batchSize, toFetchPlugins.length));
     const promises = batch.map(async (plugin) => {
       const createdTime = await getRepoCreatedTime(plugin.repo);
       createdTimes.set(plugin.id, createdTime);
+
+      // 保存到缓存（只缓存成功获取的）
+      if (createdTime > 0) {
+        cache.plugins[plugin.id] = createdTime;
+        newlyCached++;
+      }
+
       processed++;
       if (processed % 10 === 0 || processed === total) {
         console.log(`  进度: ${processed}/${total} (${(processed/total*100).toFixed(1)}%)`);
@@ -173,12 +262,20 @@ async function batchGetRepoCreatedTimes(plugins, statsData) {
     await Promise.all(promises);
 
     // 如果不是最后一批，等待一段时间
-    if (i + batchSize < recentlyUpdatedPlugins.length) {
+    if (i + batchSize < toFetchPlugins.length) {
       await delay(delayMs);
     }
   }
 
+  // 保存缓存
+  if (newlyCached > 0) {
+    saveCreatedTimesCache(cache);
+    console.log(`✓ 新增缓存: ${newlyCached} 个插件`);
+  }
+
   console.log(`✓ 成功获取 ${createdTimes.size} 个插件的创建时间`);
+  console.log(`  - 从缓存加载: ${cachedPlugins.length}`);
+  console.log(`  - 从 API 获取: ${toFetchPlugins.length}`);
   return createdTimes;
 }
 

@@ -1,0 +1,35 @@
+feat(cache): 添加 GitHub API Token 支持和创建时间缓存功能 v2.3.0
+
+🔧 功能优化
+- 添加 .env 文件支持，支持本地配置 GitHub Token
+- 新增创建时间缓存系统，避免重复调用 GitHub API
+- 智能缓存策略：第一次查询所有，后续只查询新增
+
+📊 性能提升
+- 第一次运行：91 次 API 调用，约 30 秒
+- 第二次运行：0 次 API 调用，<5 秒
+- 性能提升：从 30 秒降低到 <5 秒
+
+🔧 技术实现
+- 新增依赖：dotenv
+- 新增函数：loadCreatedTimesCache(), saveCreatedTimesCache()
+- 修改函数：batchGetRepoCreatedTimes() 添加缓存支持
+- 新增文件：.env.example, data/plugin-created-times.json
+
+🧪 测试结果
+- 成功获取 91 个插件的创建时间
+- 发现 1 个新增插件（Maps）
+- 缓存功能完美工作
+
+📁 修改文件
+- .env.example - 添加 GitHub Token 配置说明
+- scripts/fetch-plugins-data.js - 添加缓存功能
+- data/plugin-created-times.json - 新增缓存文件
+- package.json - 添加 dotenv 依赖
+- 文档/CHANGELOG.md - 更新版本日志
+
+🔒 安全说明
+- .env 文件已在 .gitignore 中
+- 本地 token 不会被提交到 Git
+- GitHub Actions 继续使用环境变量
+
