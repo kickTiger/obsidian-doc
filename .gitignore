@@ -176,6 +176,10 @@ docs/网站验证文件配置指南.md
 *.spec.js
 *.spec.ts
 
+# 项目测试脚本
+scripts/test-*.js
+scripts/*-test.js
+
 # ===== 测试覆盖率 =====
 coverage/
 *.lcov
@@ -184,6 +188,23 @@ coverage/
 # ===== 归档文件 =====
 # 项目归档目录（报告、测试脚本等历史文件）
 archives/
+
+# ===== 备份文件 =====
+# 临时备份目录
+temp-plugins-backup/
+**/temp-*-backup/
+backup/
+**/backup/
+
+# ===== 翻译文件 =====
+# 翻译工作目录（临时文件，不包含主翻译文件）
+translations/plugin-translations-full.json
+translations/to-translate.json
+translations/todo-translations.json
+translations/translation-progress.json
+
+# 注意：translations/plugin-translations.json 需要纳入版本控制
+# 因为 GitHub Actions 和页面生成脚本需要读取此文件
 
 # ===== 文档文件 =====
 # 开发文档和技术笔记（个人学习记录，不纳入版本控制）
