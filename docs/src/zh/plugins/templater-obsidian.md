@@ -2,7 +2,7 @@
 title: Templater
 description: Create and use templates.
 author: SilentVoid
-downloads: 3105622
+downloads: 3110072
 updated: 1759085696000
 repo: SilentVoid13/Templater
 version: 1.0.0
@@ -17,7 +17,7 @@ pageClass: plugin-detail-page
   name="Templater"
   description="Create and use templates."
   author="SilentVoid"
-  :downloads="3105622"
+  :downloads="3110072"
   :updated="1759085696000"
   repo="SilentVoid13/Templater"
   version="1.0.0"

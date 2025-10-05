@@ -2,7 +2,7 @@
 title: Kanban
 description: Create Markdown-backed Kanban boards.
 author: mgmeyers
-downloads: 1911228
+downloads: 1912432
 updated: 1717117708000
 repo: mgmeyers/obsidian-kanban
 version: 1.0.0
@@ -17,7 +17,7 @@ pageClass: plugin-detail-page
   name="Kanban"
   description="Create Markdown-backed Kanban boards."
   author="mgmeyers"
-  :downloads="1911228"
+  :downloads="1912432"
   :updated="1717117708000"
   repo="mgmeyers/obsidian-kanban"
   version="1.0.0"

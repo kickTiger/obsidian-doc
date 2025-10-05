@@ -1,0 +1,234 @@
+# ========================================
+# Obsidian 插件数据自动更新工作流
+# ========================================
+#
+# 功能：
+# 1. 每天自动从 Obsidian 官方 API 获取最新插件数据
+# 2. 自动生成插件详情页面
+# 3. 提交变更并推送到 GitHub
+# 4. 触发 Netlify 自动部署
+#
+# 执行时间：
+# - 每天北京时间凌晨 2:00（UTC 18:00）
+# - 支持手动触发
+#
+# 作者：Augment AI Agent
+# 创建日期：2025-10-05
+# ========================================
+
+name: 自动更新插件数据
+
+on:
+  # 定时任务：每天北京时间凌晨 2:00 执行（UTC 18:00）
+  schedule:
+    - cron: '0 18 * * *'
+  
+  # 支持手动触发
+  workflow_dispatch:
+    inputs:
+      force_update:
+        description: '强制更新（即使数据未变化）'
+        required: false
+        type: boolean
+        default: false
+
+# 设置权限
+permissions:
+  contents: write  # 需要写权限以提交代码
+
+jobs:
+  update-plugins:
+    name: 更新插件数据
+    runs-on: ubuntu-latest
+    
+    steps:
+      # ========== 步骤1：检出代码 ==========
+      - name: 📥 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # 获取完整历史，便于 git diff
+      
+      # ========== 步骤2：设置 Node.js 环境 ==========
+      - name: 🔧 设置 Node.js 环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: 'docs/package-lock.json'
+      
+      # ========== 步骤3：安装依赖 ==========
+      - name: 📦 安装依赖
+        working-directory: ./docs
+        run: |
+          echo "正在安装依赖..."
+          npm ci
+          echo "✓ 依赖安装完成"
+      
+      # ========== 步骤4：获取插件数据 ==========
+      - name: 🔄 获取插件数据
+        id: fetch_data
+        run: |
+          echo "正在从 Obsidian 官方 API 获取插件数据..."
+          node scripts/fetch-plugins-data.js
+          
+          if [ $? -eq 0 ]; then
+            echo "✓ 插件数据获取成功"
+            echo "fetch_success=true" >> $GITHUB_OUTPUT
+          else
+            echo "✗ 插件数据获取失败"
+            echo "fetch_success=false" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+      
+      # ========== 步骤5：生成插件页面 ==========
+      - name: 📝 生成插件页面
+        id: generate_pages
+        if: steps.fetch_data.outputs.fetch_success == 'true'
+        run: |
+          echo "正在生成插件详情页面..."
+          node scripts/generate-plugin-pages.js
+          
+          if [ $? -eq 0 ]; then
+            echo "✓ 插件页面生成成功"
+            echo "generate_success=true" >> $GITHUB_OUTPUT
+          else
+            echo "✗ 插件页面生成失败"
+            echo "generate_success=false" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+      
+      # ========== 步骤6：检查是否有变化 ==========
+      - name: 🔍 检查数据变化
+        id: check_changes
+        if: steps.generate_pages.outputs.generate_success == 'true'
+        run: |
+          echo "正在检查数据是否有变化..."
+          
+          # 检查数据文件是否有变化
+          if git diff --quiet docs/src/.vuepress/public/data/; then
+            echo "数据文件未变化"
+            DATA_CHANGED=false
+          else
+            echo "✓ 数据文件已变化"
+            DATA_CHANGED=true
+          fi
+          
+          # 检查插件页面是否有变化
+          if git diff --quiet docs/src/zh/plugins/; then
+            echo "插件页面未变化"
+            PAGES_CHANGED=false
+          else
+            echo "✓ 插件页面已变化"
+            PAGES_CHANGED=true
+          fi
+          
+          # 判断是否有任何变化
+          if [ "$DATA_CHANGED" = true ] || [ "$PAGES_CHANGED" = true ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "✓ 检测到变化，准备提交"
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "未检测到变化，跳过提交"
+          fi
+          
+          # 统计变化
+          CHANGED_FILES=$(git diff --name-only | wc -l)
+          echo "changed_files=$CHANGED_FILES" >> $GITHUB_OUTPUT
+          echo "变化的文件数量: $CHANGED_FILES"
+      
+      # ========== 步骤7：提交并推送变更 ==========
+      - name: 💾 提交并推送变更
+        if: |
+          steps.check_changes.outputs.has_changes == 'true' || 
+          github.event.inputs.force_update == 'true'
+        run: |
+          echo "正在配置 Git..."
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          echo "正在添加变更文件..."
+          git add docs/src/.vuepress/public/data/
+          git add docs/src/zh/plugins/
+          
+          echo "正在提交变更..."
+          COMMIT_DATE=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')
+          CHANGED_FILES="${{ steps.check_changes.outputs.changed_files }}"
+          
+          git commit -m "chore: 自动更新插件数据 ${COMMIT_DATE}" \
+                     -m "变更文件数量: ${CHANGED_FILES}" \
+                     -m "触发方式: ${{ github.event_name }}"
+          
+          echo "正在推送到 GitHub..."
+          git push
+          
+          echo "✓ 变更已成功推送到 GitHub"
+          echo "✓ Netlify 将自动开始部署"
+      
+      # ========== 步骤8：输出摘要 ==========
+      - name: 📊 输出执行摘要
+        if: always()
+        run: |
+          echo "========================================" >> $GITHUB_STEP_SUMMARY
+          echo "## 🔄 插件数据自动更新摘要" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**执行时间**: $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')" >> $GITHUB_STEP_SUMMARY
+          echo "**触发方式**: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ "${{ steps.fetch_data.outputs.fetch_success }}" = "true" ]; then
+            echo "✅ 数据获取: 成功" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ 数据获取: 失败" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          if [ "${{ steps.generate_pages.outputs.generate_success }}" = "true" ]; then
+            echo "✅ 页面生成: 成功" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "❌ 页面生成: 失败" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          if [ "${{ steps.check_changes.outputs.has_changes }}" = "true" ]; then
+            echo "✅ 数据变化: 是" >> $GITHUB_STEP_SUMMARY
+            echo "📝 变更文件: ${{ steps.check_changes.outputs.changed_files }} 个" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ 数据变化: 否" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "---" >> $GITHUB_STEP_SUMMARY
+          echo "🚀 如果有变更，Netlify 将自动开始部署" >> $GITHUB_STEP_SUMMARY
+          echo "========================================" >> $GITHUB_STEP_SUMMARY
+      
+      # ========== 步骤9：失败通知（可选） ==========
+      - name: 📧 发送失败通知
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = '⚠️ 插件数据自动更新失败';
+            const body = `
+            ## 执行失败详情
+            
+            - **工作流**: ${context.workflow}
+            - **运行ID**: ${context.runId}
+            - **触发方式**: ${context.eventName}
+            - **失败时间**: ${new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' })}
+            
+            请检查 [GitHub Actions 日志](${context.payload.repository.html_url}/actions/runs/${context.runId}) 了解详情。
+            
+            ---
+            *此问题由 GitHub Actions 自动创建*
+            `;
+            
+            // 创建 Issue（可选，取消注释以启用）
+            // await github.rest.issues.create({
+            //   owner: context.repo.owner,
+            //   repo: context.repo.repo,
+            //   title: title,
+            //   body: body,
+            //   labels: ['automation', 'bug']
+            // });
+            
+            console.log('失败通知已记录');
+

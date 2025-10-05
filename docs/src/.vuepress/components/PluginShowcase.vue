@@ -210,7 +210,7 @@
                     class="plugin-tag"
                     :style="getCategoryStyle(item.category)"
                   >
-                    {{ item.category }}
+                    {{ getCategoryName(item.category) }}
                   </span>
                 </div>
                 <p class="plugin-description">{{ item.description }}</p>
@@ -257,7 +257,7 @@
                     class="row-tag"
                     :style="getCategoryStyle(item.category)"
                   >
-                    {{ item.category }}
+                    {{ getCategoryName(item.category) }}
                   </span>
                 </div>
                 <p class="row-description">{{ item.description }}</p>
@@ -377,7 +377,7 @@ const filters = ref<FilterOptions>({});
 const sortOption = ref<SortOption>('downloads-desc');
 const viewMode = ref<ViewMode>('card');
 const currentPage = ref(1);
-const pageSize = ref(20);
+const pageSize = ref(21); // 21个插件 = 7行 × 3列，确保最后一排铺满
 let searchTimeout: NodeJS.Timeout | null = null;
 
 // 过滤后的插件列表
@@ -538,57 +538,93 @@ const formatDate = (timestamp: number): string => {
   });
 };
 
+// 分类ID到中文名称的映射
+const CATEGORY_NAMES: Record<string, string> = {
+  'note-taking': '笔记增强',
+  'task-management': '任务管理',
+  'data-processing': '数据处理',
+  'visualization': '可视化',
+  'drawing': '绘图',
+  'calendar-time': '日历时间',
+  'template': '模板',
+  'automation': '自动化',
+  'sync-backup': '备份同步',
+  'editor-enhancement': '编辑增强',
+  'appearance': '外观定制',
+  'productivity': '效率工具',
+  'integration': '集成',
+  'other': '其他'
+};
+
+// 获取分类的中文名称
+const getCategoryName = (categoryId: string | undefined): string => {
+  return CATEGORY_NAMES[categoryId || ''] || categoryId || '其他';
+};
+
 // 获取分类标签的暖色系样式
-const getCategoryStyle = (category: string | undefined): { background: string; color: string } => {
-  // 定义暖色系配色方案 - 使用中文分类名称作为key
+const getCategoryStyle = (categoryId: string | undefined): { background: string; color: string } => {
+  // 定义暖色系配色方案 - 使用分类ID作为key
   const categoryColors: Record<string, { background: string; color: string }> = {
-    '数据处理': {
+    'note-taking': {
       background: 'linear-gradient(135deg, #fff5f0 0%, #ffe8dc 100%)',
       color: '#ff6b35'
     },
-    '日历时间': {
-      background: 'linear-gradient(135deg, #fffbea 0%, #fff3c4 100%)',
-      color: '#f7b731'
-    },
-    '模板': {
-      background: 'linear-gradient(135deg, #fff0f3 0%, #ffe0e6 100%)',
-      color: '#ee5a6f'
-    },
-    '任务管理': {
+    'task-management': {
       background: 'linear-gradient(135deg, #fff1f0 0%, #ffe3e1 100%)',
       color: '#fc5c65'
     },
-    '绘图': {
-      background: 'linear-gradient(135deg, #fff0f6 0%, #ffe0ed 100%)',
-      color: '#fd79a8'
+    'data-processing': {
+      background: 'linear-gradient(135deg, #fff5f0 0%, #ffe8dc 100%)',
+      color: '#ff6b35'
     },
-    '备份同步': {
-      background: 'linear-gradient(135deg, #fffaf0 0%, #fff4e0 100%)',
-      color: '#ff9f43'
-    },
-    '编辑增强': {
-      background: 'linear-gradient(135deg, #fff5f5 0%, #ffe5e5 100%)',
-      color: '#ff6348'
-    },
-    '可视化': {
+    'visualization': {
       background: 'linear-gradient(135deg, #fff8f0 0%, #ffedd5 100%)',
       color: '#fb923c'
     },
-    '效率工具': {
+    'drawing': {
+      background: 'linear-gradient(135deg, #fff0f6 0%, #ffe0ed 100%)',
+      color: '#fd79a8'
+    },
+    'calendar-time': {
+      background: 'linear-gradient(135deg, #fffbea 0%, #fff3c4 100%)',
+      color: '#f7b731'
+    },
+    'template': {
+      background: 'linear-gradient(135deg, #fff0f3 0%, #ffe0e6 100%)',
+      color: '#ee5a6f'
+    },
+    'automation': {
+      background: 'linear-gradient(135deg, #fffaf0 0%, #fff4e0 100%)',
+      color: '#ff9f43'
+    },
+    'sync-backup': {
+      background: 'linear-gradient(135deg, #fffaf0 0%, #fff4e0 100%)',
+      color: '#ff9f43'
+    },
+    'editor-enhancement': {
+      background: 'linear-gradient(135deg, #fff5f5 0%, #ffe5e5 100%)',
+      color: '#ff6348'
+    },
+    'appearance': {
+      background: 'linear-gradient(135deg, #fff6f0 0%, #ffeadc 100%)',
+      color: '#ff8c42'
+    },
+    'productivity': {
       background: 'linear-gradient(135deg, #fff3f0 0%, #ffe0d5 100%)',
       color: '#ff7f50'
     },
-    '外观定制': {
-      background: 'linear-gradient(135deg, #fff6f0 0%, #ffeadc 100%)',
-      color: '#ff8c42'
+    'integration': {
+      background: 'linear-gradient(135deg, #f0fff4 0%, #dcfce7 100%)',
+      color: '#10b981'
+    },
+    'other': {
+      background: 'linear-gradient(135deg, #fef0ff 0%, #fce0ff 100%)',
+      color: '#e056fd'
     }
   };
 
   // 返回对应分类的颜色,如果没有匹配则返回默认暖色
-  return categoryColors[category || ''] || {
-    background: 'linear-gradient(135deg, #fef0ff 0%, #fce0ff 100%)',
-    color: '#e056fd'
-  };
+  return categoryColors[categoryId || ''] || categoryColors['other'];
 };
 
 // 导航到插件详情页

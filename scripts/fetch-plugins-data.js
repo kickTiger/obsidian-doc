@@ -296,7 +296,17 @@ async function main() {
     console.log('步骤 6: 保存数据');
     saveData(enhancedPlugins, stats);
     console.log('');
-    
+
+    // 7. 生成分片统计数据
+    console.log('步骤 7: 生成分片统计数据');
+    try {
+      const { execSync } = require('child_process');
+      execSync('node scripts/generate-sharded-stats.js', { stdio: 'inherit' });
+    } catch (error) {
+      console.error('✗ 分片统计数据生成失败:', error.message);
+    }
+    console.log('');
+
     console.log('========================================');
     console.log('数据获取任务完成');
     console.log('========================================');

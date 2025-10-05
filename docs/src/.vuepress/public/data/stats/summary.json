@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": 1759643104302,
+  "totalPlugins": 2635,
+  "totalDownloads": 91597169,
+  "weeklyNewPlugins": 92,
+  "monthlyNewPlugins": 281,
+  "averageDownloads": 34761,
+  "medianDownloads": 4352,
+  "dataFiles": {
+    "rankingsDownloads": "/data/stats/rankings-downloads.json",
+    "rankingsWeekly": "/data/stats/rankings-weekly.json",
+    "rankingsMonthly": "/data/stats/rankings-monthly.json"
+  }
+}

@@ -9,7 +9,9 @@
     "docs:clean-dev": "vuepress dev src --clean-cache",
     "docs:dev": "vuepress dev src",
     "fetch-plugins": "node ../scripts/fetch-plugins-data.js",
-    "generate-pages": "node ../scripts/generate-plugin-pages.js"
+    "generate-pages": "node ../scripts/generate-plugin-pages.js",
+    "generate-sharded-stats": "node ../scripts/generate-sharded-stats.js",
+    "update-plugins": "node ../scripts/manual-update.js"
   },
   "devDependencies": {
     "@vuepress/client": "2.0.0-beta.61",
