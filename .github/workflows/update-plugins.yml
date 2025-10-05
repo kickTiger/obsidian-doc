@@ -140,28 +140,31 @@ jobs:
       # ========== 步骤7：提交并推送变更 ==========
       - name: 💾 提交并推送变更
         if: |
-          steps.check_changes.outputs.has_changes == 'true' || 
+          steps.check_changes.outputs.has_changes == 'true' ||
           github.event.inputs.force_update == 'true'
         run: |
           echo "正在配置 Git..."
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          
+
           echo "正在添加变更文件..."
           git add docs/src/.vuepress/public/data/
           git add docs/src/zh/plugins/
-          
+          git add data/plugin-history.json
+          git add data/plugin-changes.json
+          git add translations/plugin-translations.json
+
           echo "正在提交变更..."
           COMMIT_DATE=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')
           CHANGED_FILES="${{ steps.check_changes.outputs.changed_files }}"
-          
+
           git commit -m "chore: 自动更新插件数据 ${COMMIT_DATE}" \
                      -m "变更文件数量: ${CHANGED_FILES}" \
                      -m "触发方式: ${{ github.event_name }}"
-          
+
           echo "正在推送到 GitHub..."
           git push
-          
+
           echo "✓ 变更已成功推送到 GitHub"
           echo "✓ Netlify 将自动开始部署"
       

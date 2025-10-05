@@ -14,6 +14,16 @@
 const fs = require('fs');
 const path = require('path');
 
+// 导入增量更新模块
+const {
+  detectChanges,
+  getPluginsToGenerate,
+  updateHistory,
+  saveHistory,
+  saveChangesReport,
+  generateChangesSummary
+} = require('./incremental-update');
+
 // ========== 配置常量 ==========
 
 // 数据文件路径
@@ -565,6 +575,13 @@ async function main() {
     console.log('Obsidian 插件页面生成工具');
     console.log('========================================\n');
 
+    // 检查是否强制全量更新
+    const forceUpdate = process.argv.includes('--force');
+
+    if (forceUpdate) {
+      console.log('⚠ 强制全量更新模式\n');
+    }
+
     // 1. 读取插件数据
     const plugins = readPluginsData();
 
@@ -574,8 +591,42 @@ async function main() {
     // 3. 读取模板
     const template = readTemplate();
 
-    // 4. 同步页面
-    const result = syncPages(plugins, template, translations);
+    // 4. 检测变化（如果不是强制更新）
+    let pluginsToGenerate = plugins;
+    let changes = null;
+
+    if (!forceUpdate) {
+      changes = detectChanges(plugins);
+      const toGenerateIds = getPluginsToGenerate(changes);
+
+      if (toGenerateIds.length === 0) {
+        console.log('\n✓ 没有插件需要更新，跳过页面生成');
+        console.log('✓ 所有任务完成！');
+        return { generated: 0, deleted: 0, total: plugins.length };
+      }
+
+      // 只生成需要更新的插件
+      pluginsToGenerate = plugins.filter(p => toGenerateIds.includes(p.id));
+
+      console.log(`\n将生成 ${pluginsToGenerate.length} 个插件页面（跳过 ${changes.unchanged.length} 个未变化的插件）\n`);
+    } else {
+      console.log(`\n将生成所有 ${plugins.length} 个插件页面\n`);
+    }
+
+    // 5. 同步页面
+    const result = syncPages(pluginsToGenerate, template, translations);
+
+    // 6. 更新历史数据
+    if (!forceUpdate && changes) {
+      const history = updateHistory(plugins);
+      saveHistory(history);
+
+      // 保存变更报告
+      saveChangesReport(changes, plugins.length);
+
+      // 输出变更摘要
+      console.log(generateChangesSummary(changes, plugins.length));
+    }
 
     console.log('\n✓ 所有任务完成！');
 
