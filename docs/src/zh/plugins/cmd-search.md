@@ -2,11 +2,11 @@
 title: CmdSearch
 description: Use the command pallete to search web. Add your own URLs.
 author: SpaceshipCaptain
-downloads: 586
+downloads: 588
 updated: 1745083754000
 repo: SpaceshipCaptain/CmdSearch
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="CmdSearch"
   description="Use the command pallete to search web. Add your own URLs."
   author="SpaceshipCaptain"
-  :downloads="586"
+  :downloads="588"
   :updated="1745083754000"
   repo="SpaceshipCaptain/CmdSearch"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Use the command pallete to search web. Add your own URLs.
 - **插件 ID**：cmd-search
 - **作者**：SpaceshipCaptain
 - **当前版本**：v1.0.0
-- **下载量**：586
+- **下载量**：588
 - **最后更新**：2025-04-20
 - **GitHub**：[SpaceshipCaptain/CmdSearch](https://github.com/SpaceshipCaptain/CmdSearch)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

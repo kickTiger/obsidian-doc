@@ -2,11 +2,11 @@
 title: Custom Image Auto Uploader
 description: You can upload and save images from your notes to your remote server, home NAS, or sync them to your cloud storage (Alibaba Cloud OSS, Amazon S3, Cloudflare R2).
 author: HaierKeys
-downloads: 1861
+downloads: 1866
 updated: 1742301115000
 repo: haierkeys/obsidian-custom-image-auto-uploader
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Custom Image Auto Uploader"
   description="You can upload and save images from your notes to your remote server, home NAS, or sync them to your cloud storage (Alibaba Cloud OSS, Amazon S3, Cloudflare R2)."
   author="HaierKeys"
-  :downloads="1861"
+  :downloads="1866"
   :updated="1742301115000"
   repo="haierkeys/obsidian-custom-image-auto-uploader"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ You can upload and save images from your notes to your remote server, home NAS, 
 - **下载量**：1.9K
 - **最后更新**：2025-03-18
 - **GitHub**：[haierkeys/obsidian-custom-image-auto-uploader](https://github.com/haierkeys/obsidian-custom-image-auto-uploader)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

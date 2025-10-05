@@ -1,12 +1,12 @@
 ---
 title: Meta Bind
-description: Make your notes interactive with inline input fields, metadata displays, and buttons.
+description: 利用内联输入字段、元数据显示和按钮，让您的笔记具有互动性。
 author: Moritz Jung
-downloads: 269552
+downloads: 269977
 updated: 1757249275000
 repo: mProjectsCode/obsidian-meta-bind-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-meta-bind-plugin"
   name="Meta Bind"
-  description="Make your notes interactive with inline input fields, metadata displays, and buttons."
+  description="利用内联输入字段、元数据显示和按钮，让您的笔记具有互动性。"
   author="Moritz Jung"
-  :downloads="269552"
+  :downloads="269977"
   :updated="1757249275000"
   repo="mProjectsCode/obsidian-meta-bind-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Meta Bind 是一个功能强大的 Obsidian 插件。
 
-Make your notes interactive with inline input fields, metadata displays, and buttons.
+利用内联输入字段、元数据显示和按钮，让您的笔记具有互动性。
 
 通过 Meta Bind,您可以:
 
@@ -199,10 +199,10 @@ Make your notes interactive with inline input fields, metadata displays, and but
 - **插件 ID**：obsidian-meta-bind-plugin
 - **作者**：Moritz Jung
 - **当前版本**：v1.0.0
-- **下载量**：269.6K
+- **下载量**：270.0K
 - **最后更新**：2025-09-07
 - **GitHub**：[mProjectsCode/obsidian-meta-bind-plugin](https://github.com/mProjectsCode/obsidian-meta-bind-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

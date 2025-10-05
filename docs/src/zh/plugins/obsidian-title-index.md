@@ -1,12 +1,12 @@
 ---
 title: Title index
-description: Add serial numbers to your Markdown title.
+description: 在 Markdown 标题中添加序列号。
 author: renmu123
-downloads: 7600
+downloads: 7603
 updated: 1654853234000
 repo: renmu123/obsidian-markdown-index
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-title-index"
   name="Title index"
-  description="Add serial numbers to your Markdown title."
+  description="在 Markdown 标题中添加序列号。"
   author="renmu123"
-  :downloads="7600"
+  :downloads="7603"
   :updated="1654853234000"
   repo="renmu123/obsidian-markdown-index"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Title index 是一个功能强大的 Obsidian 插件。
 
-Add serial numbers to your Markdown title.
+在 Markdown 标题中添加序列号。
 
 通过 Title index,您可以:
 
@@ -202,7 +202,7 @@ Add serial numbers to your Markdown title.
 - **下载量**：7.6K
 - **最后更新**：2022-06-10
 - **GitHub**：[renmu123/obsidian-markdown-index](https://github.com/renmu123/obsidian-markdown-index)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

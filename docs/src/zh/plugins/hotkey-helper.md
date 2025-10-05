@@ -1,12 +1,12 @@
 ---
 title: Hotkey Helper
-description: 'Easily see and access any plugin''s settings or hotkey assignments (and conflicts) from the Community Plugins tab.'
+description: 从社区插件选项卡中轻松查看和访问任何插件的设置或热键分配（以及冲突）。
 author: PJ Eby
-downloads: 64496
+downloads: 64526
 updated: 1729919210000
 repo: pjeby/hotkey-helper
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="hotkey-helper"
   name="Hotkey Helper"
-  description="Easily see and access any plugin&#39;s settings or hotkey assignments (and conflicts) from the Community Plugins tab."
+  description="从社区插件选项卡中轻松查看和访问任何插件的设置或热键分配（以及冲突）。"
   author="PJ Eby"
-  :downloads="64496"
+  :downloads="64526"
   :updated="1729919210000"
   repo="pjeby/hotkey-helper"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hotkey Helper 是一个功能强大的 Obsidian 插件。
 
-Easily see and access any plugin&#39;s settings or hotkey assignments (and conflicts) from the Community Plugins tab.
+从社区插件选项卡中轻松查看和访问任何插件的设置或热键分配（以及冲突）。
 
 通过 Hotkey Helper,您可以:
 
@@ -202,7 +202,7 @@ Easily see and access any plugin&#39;s settings or hotkey assignments (and confl
 - **下载量**：64.5K
 - **最后更新**：2024-10-26
 - **GitHub**：[pjeby/hotkey-helper](https://github.com/pjeby/hotkey-helper)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

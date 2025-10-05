@@ -2,11 +2,11 @@
 title: pycalc
 description: Executing Python code directly within the editor by pressing the Enter key.
 author: pycalc
-downloads: 867
+downloads: 873
 updated: 1734722316000
 repo: pycalc-plugin/obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="pycalc"
   description="Executing Python code directly within the editor by pressing the Enter key."
   author="pycalc"
-  :downloads="867"
+  :downloads="873"
   :updated="1734722316000"
   repo="pycalc-plugin/obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Executing Python code directly within the editor by pressing the Enter key.
 - **插件 ID**：pycalc
 - **作者**：pycalc
 - **当前版本**：v1.0.0
-- **下载量**：867
+- **下载量**：873
 - **最后更新**：2024-12-21
 - **GitHub**：[pycalc-plugin/obsidian](https://github.com/pycalc-plugin/obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Power Search
-description: Search notes based on current line.
+description: 根据当前行搜索注释。
 author: Aviral Batra
 downloads: 5485
 updated: 1647330730000
 repo: aviral-batra/obsidian-power-search
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-power-search"
   name="Power Search"
-  description="Search notes based on current line."
+  description="根据当前行搜索注释。"
   author="Aviral Batra"
   :downloads="5485"
   :updated="1647330730000"
   repo="aviral-batra/obsidian-power-search"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Power Search 是一个功能强大的 Obsidian 插件。
 
-Search notes based on current line.
+根据当前行搜索注释。
 
 通过 Power Search,您可以:
 
@@ -202,7 +202,7 @@ Search notes based on current line.
 - **下载量**：5.5K
 - **最后更新**：2022-03-15
 - **GitHub**：[aviral-batra/obsidian-power-search](https://github.com/aviral-batra/obsidian-power-search)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

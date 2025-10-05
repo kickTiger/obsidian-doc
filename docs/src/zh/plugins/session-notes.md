@@ -2,11 +2,11 @@
 title: Session Notes
 description: Create temporary one-off session notes.
 author: tabibyte
-downloads: 594
+downloads: 595
 updated: 1730515027000
 repo: tabibyte/session-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Session Notes"
   description="Create temporary one-off session notes."
   author="tabibyte"
-  :downloads="594"
+  :downloads="595"
   :updated="1730515027000"
   repo="tabibyte/session-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create temporary one-off session notes.
 - **插件 ID**：session-notes
 - **作者**：tabibyte
 - **当前版本**：v1.0.0
-- **下载量**：594
+- **下载量**：595
 - **最后更新**：2024-11-02
 - **GitHub**：[tabibyte/session-notes](https://github.com/tabibyte/session-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

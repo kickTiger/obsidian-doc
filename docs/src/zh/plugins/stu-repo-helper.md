@@ -6,7 +6,7 @@ downloads: 308
 updated: 1743133698000
 repo: yingflower/obsidian-stu-repo-helper
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1743133698000"
   repo="yingflower/obsidian-stu-repo-helper"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manage student repositories.
 - **下载量**：308
 - **最后更新**：2025-03-28
 - **GitHub**：[yingflower/obsidian-stu-repo-helper](https://github.com/yingflower/obsidian-stu-repo-helper)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

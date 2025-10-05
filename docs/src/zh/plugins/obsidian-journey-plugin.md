@@ -1,12 +1,12 @@
 ---
 title: Journey
-description: Discover the story between your notes.
+description: 发现笔记间的故事
 author: Alexis Rondeau
-downloads: 20905
+downloads: 20906
 updated: 1613567881000
 repo: akaalias/obsidian-journey-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-journey-plugin"
   name="Journey"
-  description="Discover the story between your notes."
+  description="发现笔记间的故事"
   author="Alexis Rondeau"
-  :downloads="20905"
+  :downloads="20906"
   :updated="1613567881000"
   repo="akaalias/obsidian-journey-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Journey 是一个功能强大的 Obsidian 插件。
 
-Discover the story between your notes.
+发现笔记间的故事
 
 通过 Journey,您可以:
 
@@ -202,7 +202,7 @@ Discover the story between your notes.
 - **下载量**：20.9K
 - **最后更新**：2021-02-17
 - **GitHub**：[akaalias/obsidian-journey-plugin](https://github.com/akaalias/obsidian-journey-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

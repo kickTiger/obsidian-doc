@@ -2,11 +2,11 @@
 title: The Queue
 description: Randomly exposes you to notes from your vault. Supports habits, to-dos, spaced repetition flashcards, iterative reading and more.
 author: Kolja Sam Pluemer
-downloads: 2007
+downloads: 2009
 updated: 1742194527000
 repo: koljapluemer/obsidian-the-queue
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="The Queue"
   description="Randomly exposes you to notes from your vault. Supports habits, to-dos, spaced repetition flashcards, iterative reading and more."
   author="Kolja Sam Pluemer"
-  :downloads="2007"
+  :downloads="2009"
   :updated="1742194527000"
   repo="koljapluemer/obsidian-the-queue"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Randomly exposes you to notes from your vault. Supports habits, to-dos, spaced r
 - **下载量**：2.0K
 - **最后更新**：2025-03-17
 - **GitHub**：[koljapluemer/obsidian-the-queue](https://github.com/koljapluemer/obsidian-the-queue)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

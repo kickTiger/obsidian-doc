@@ -2,11 +2,11 @@
 title: Tasks Cleaner
 description: Find and remove outdated tasks.
 author: lowit
-downloads: 350
+downloads: 351
 updated: 1746362329000
 repo: lowitea/obsidian-tasks-cleaner
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tasks Cleaner"
   description="Find and remove outdated tasks."
   author="lowit"
-  :downloads="350"
+  :downloads="351"
   :updated="1746362329000"
   repo="lowitea/obsidian-tasks-cleaner"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Find and remove outdated tasks.
 - **插件 ID**：tasks-cleaner
 - **作者**：lowit
 - **当前版本**：v1.0.0
-- **下载量**：350
+- **下载量**：351
 - **最后更新**：2025-05-04
 - **GitHub**：[lowitea/obsidian-tasks-cleaner](https://github.com/lowitea/obsidian-tasks-cleaner)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

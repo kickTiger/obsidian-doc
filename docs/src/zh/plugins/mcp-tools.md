@@ -1,12 +1,12 @@
 ---
 title: MCP Tools
-description: Securely connect Claude Desktop to your vault with semantic search, templates, and file management capabilities.
+description: 通过语义搜索、模板和文件管理功能，将 Claude Desktop 安全地连接到您的保险库。
 author: Jack Steam
-downloads: 24245
+downloads: 24361
 updated: 1752369514000
 repo: jacksteamdev/obsidian-mcp-tools
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mcp-tools"
   name="MCP Tools"
-  description="Securely connect Claude Desktop to your vault with semantic search, templates, and file management capabilities."
+  description="通过语义搜索、模板和文件管理功能，将 Claude Desktop 安全地连接到您的保险库。"
   author="Jack Steam"
-  :downloads="24245"
+  :downloads="24361"
   :updated="1752369514000"
   repo="jacksteamdev/obsidian-mcp-tools"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MCP Tools 是一个功能强大的 Obsidian 插件。
 
-Securely connect Claude Desktop to your vault with semantic search, templates, and file management capabilities.
+通过语义搜索、模板和文件管理功能，将 Claude Desktop 安全地连接到您的保险库。
 
 通过 MCP Tools,您可以:
 
@@ -199,10 +199,10 @@ Securely connect Claude Desktop to your vault with semantic search, templates, a
 - **插件 ID**：mcp-tools
 - **作者**：Jack Steam
 - **当前版本**：v1.0.0
-- **下载量**：24.2K
+- **下载量**：24.4K
 - **最后更新**：2025-07-13
 - **GitHub**：[jacksteamdev/obsidian-mcp-tools](https://github.com/jacksteamdev/obsidian-mcp-tools)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

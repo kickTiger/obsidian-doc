@@ -1,12 +1,12 @@
 ---
 title: ProgressBar
-description: Render CodeBlock into a progress bar based on time or manually.
+description: 根据时间或手动将 CodeBlock 渲染成进度条。
 author: Wei Zhang
-downloads: 13582
+downloads: 13589
 updated: 1721714558000
 repo: zwpaper/obsidian-progressbar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="progressbar"
   name="ProgressBar"
-  description="Render CodeBlock into a progress bar based on time or manually."
+  description="根据时间或手动将 CodeBlock 渲染成进度条。"
   author="Wei Zhang"
-  :downloads="13582"
+  :downloads="13589"
   :updated="1721714558000"
   repo="zwpaper/obsidian-progressbar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ProgressBar 是一个功能强大的 Obsidian 插件。
 
-Render CodeBlock into a progress bar based on time or manually.
+根据时间或手动将 CodeBlock 渲染成进度条。
 
 通过 ProgressBar,您可以:
 
@@ -202,7 +202,7 @@ Render CodeBlock into a progress bar based on time or manually.
 - **下载量**：13.6K
 - **最后更新**：2024-07-23
 - **GitHub**：[zwpaper/obsidian-progressbar](https://github.com/zwpaper/obsidian-progressbar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

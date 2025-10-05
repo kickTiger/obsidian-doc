@@ -1,12 +1,12 @@
 ---
 title: Code Block Labels
-description: Add labels to fenced code blocks.
+description: 为有栅栏的代码块添加标签。
 author: Sean Bowers
-downloads: 4797
+downloads: 4798
 updated: 1643333138000
 repo: stbowers/obsidian-codeblock-labels
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-codeblock-labels"
   name="Code Block Labels"
-  description="Add labels to fenced code blocks."
+  description="为有栅栏的代码块添加标签。"
   author="Sean Bowers"
-  :downloads="4797"
+  :downloads="4798"
   :updated="1643333138000"
   repo="stbowers/obsidian-codeblock-labels"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Code Block Labels 是一个功能强大的 Obsidian 插件。
 
-Add labels to fenced code blocks.
+为有栅栏的代码块添加标签。
 
 通过 Code Block Labels,您可以:
 
@@ -202,7 +202,7 @@ Add labels to fenced code blocks.
 - **下载量**：4.8K
 - **最后更新**：2022-01-28
 - **GitHub**：[stbowers/obsidian-codeblock-labels](https://github.com/stbowers/obsidian-codeblock-labels)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

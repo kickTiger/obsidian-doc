@@ -1,12 +1,12 @@
 ---
 title: TodoTxt
-description: Manage Todo.txt files.
+description: 管理 Todo.txt 文件
 author: Mark Grimes
-downloads: 10359
+downloads: 10360
 updated: 1721747293000
 repo: mvgrimes/obsidian-todotxt-plugin
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="todotxt"
   name="TodoTxt"
-  description="Manage Todo.txt files."
+  description="管理 Todo.txt 文件"
   author="Mark Grimes"
-  :downloads="10359"
+  :downloads="10360"
   :updated="1721747293000"
   repo="mvgrimes/obsidian-todotxt-plugin"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 TodoTxt 是一个功能强大的 Obsidian 插件。
 
-Manage Todo.txt files.
+管理 Todo.txt 文件
 
 通过 TodoTxt,您可以:
 
@@ -202,7 +202,7 @@ Manage Todo.txt files.
 - **下载量**：10.4K
 - **最后更新**：2024-07-23
 - **GitHub**：[mvgrimes/obsidian-todotxt-plugin](https://github.com/mvgrimes/obsidian-todotxt-plugin)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

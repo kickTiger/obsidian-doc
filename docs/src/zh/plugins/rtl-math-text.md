@@ -6,7 +6,7 @@ downloads: 82
 updated: 1751644467000
 repo: orelby/obsidian-rtl-math-text-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1751644467000"
   repo="orelby/obsidian-rtl-math-text-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Mix right-to-left and left-to-right text in math expressions using configurable 
 - **下载量**：82
 - **最后更新**：2025-07-04
 - **GitHub**：[orelby/obsidian-rtl-math-text-plugin](https://github.com/orelby/obsidian-rtl-math-text-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

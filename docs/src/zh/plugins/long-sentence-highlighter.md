@@ -2,11 +2,11 @@
 title: Long sentence highlighter
 description: Highlights sentences that exceed a configurable word count threshold to help improve writing clarity and readability.
 author: Robert Meißner
-downloads: 113
+downloads: 114
 updated: 1758787482000
 repo: RobertMeissner/obsidian-long-sentence-highlighter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Long sentence highlighter"
   description="Highlights sentences that exceed a configurable word count threshold to help improve writing clarity and readability."
   author="Robert Meißner"
-  :downloads="113"
+  :downloads="114"
   :updated="1758787482000"
   repo="RobertMeissner/obsidian-long-sentence-highlighter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Highlights sentences that exceed a configurable word count threshold to help imp
 - **插件 ID**：long-sentence-highlighter
 - **作者**：Robert Meißner
 - **当前版本**：v1.0.0
-- **下载量**：113
+- **下载量**：114
 - **最后更新**：2025-09-25
 - **GitHub**：[RobertMeissner/obsidian-long-sentence-highlighter](https://github.com/RobertMeissner/obsidian-long-sentence-highlighter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

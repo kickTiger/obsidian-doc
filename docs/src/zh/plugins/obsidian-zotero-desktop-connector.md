@@ -1,12 +1,12 @@
 ---
 title: Zotero Integration
-description: Insert and import citations, bibliographies, notes, and PDF annotations from Zotero.
+description: 从Zotero插入和导入引用、参考文献、笔记和PDF注释。
 author: mgmeyers
-downloads: 401820
+downloads: 402067
 updated: 1723391322000
 repo: mgmeyers/obsidian-zotero-integration
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-zotero-desktop-connector"
   name="Zotero Integration"
-  description="Insert and import citations, bibliographies, notes, and PDF annotations from Zotero."
+  description="从Zotero插入和导入引用、参考文献、笔记和PDF注释。"
   author="mgmeyers"
-  :downloads="401820"
+  :downloads="402067"
   :updated="1723391322000"
   repo="mgmeyers/obsidian-zotero-integration"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Zotero Integration 是一个功能强大的 Obsidian 插件。
 
-Insert and import citations, bibliographies, notes, and PDF annotations from Zotero.
+从Zotero插入和导入引用、参考文献、笔记和PDF注释。
 
 通过 Zotero Integration,您可以:
 
@@ -199,10 +199,10 @@ Insert and import citations, bibliographies, notes, and PDF annotations from Zot
 - **插件 ID**：obsidian-zotero-desktop-connector
 - **作者**：mgmeyers
 - **当前版本**：v1.0.0
-- **下载量**：401.8K
+- **下载量**：402.1K
 - **最后更新**：2024-08-11
 - **GitHub**：[mgmeyers/obsidian-zotero-integration](https://github.com/mgmeyers/obsidian-zotero-integration)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

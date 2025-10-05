@@ -2,11 +2,11 @@
 title: doing
 description: It helps you remember what you were doing.
 author: rooyca
-downloads: 718
+downloads: 719
 updated: 1754528142000
 repo: Rooyca/doing
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="doing"
   description="It helps you remember what you were doing."
   author="rooyca"
-  :downloads="718"
+  :downloads="719"
   :updated="1754528142000"
   repo="Rooyca/doing"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ It helps you remember what you were doing.
 - **插件 ID**：doing
 - **作者**：rooyca
 - **当前版本**：v1.0.0
-- **下载量**：718
+- **下载量**：719
 - **最后更新**：2025-08-07
 - **GitHub**：[Rooyca/doing](https://github.com/Rooyca/doing)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

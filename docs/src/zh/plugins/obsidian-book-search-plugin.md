@@ -1,12 +1,12 @@
 ---
 title: Book Search
-description: Create book notes and insert book metadata from providers including Google Books and Naver.
+description: 从 Google Books API 搜索书籍并创建笔记。
 author: anpigon
-downloads: 173745
+downloads: 173911
 updated: 1729090031000
 repo: anpigon/obsidian-book-search-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-book-search-plugin"
   name="Book Search"
-  description="Create book notes and insert book metadata from providers including Google Books and Naver."
+  description="从 Google Books API 搜索书籍并创建笔记。"
   author="anpigon"
-  :downloads="173745"
+  :downloads="173911"
   :updated="1729090031000"
   repo="anpigon/obsidian-book-search-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Book Search 是一个功能强大的 Obsidian 插件。
 
-Create book notes and insert book metadata from providers including Google Books and Naver.
+从 Google Books API 搜索书籍并创建笔记。
 
 通过 Book Search,您可以:
 
@@ -199,10 +199,10 @@ Create book notes and insert book metadata from providers including Google Books
 - **插件 ID**：obsidian-book-search-plugin
 - **作者**：anpigon
 - **当前版本**：v1.0.0
-- **下载量**：173.7K
+- **下载量**：173.9K
 - **最后更新**：2024-10-16
 - **GitHub**：[anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

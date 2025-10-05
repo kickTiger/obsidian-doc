@@ -2,11 +2,11 @@
 title: Cloud sync
 description: 将笔记同步到多种云盘服务，提供端到端加密保护。
 author: Bing
-downloads: 439
+downloads: 442
 updated: 1752987324000
 repo: ai-bytedance/obsidian-cloud-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Cloud sync"
   description="将笔记同步到多种云盘服务，提供端到端加密保护。"
   author="Bing"
-  :downloads="439"
+  :downloads="442"
   :updated="1752987324000"
   repo="ai-bytedance/obsidian-cloud-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Cloud sync 是一个功能强大的 Obsidian 插件。
 - **插件 ID**：cloud-sync
 - **作者**：Bing
 - **当前版本**：v1.0.0
-- **下载量**：439
+- **下载量**：442
 - **最后更新**：2025-07-20
 - **GitHub**：[ai-bytedance/obsidian-cloud-sync](https://github.com/ai-bytedance/obsidian-cloud-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

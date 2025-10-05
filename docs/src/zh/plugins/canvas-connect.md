@@ -2,11 +2,11 @@
 title: Canvas Connect
 description: Dynamically update connection anchors in Canvas view with smart routing.
 author: camadkins
-downloads: 892
+downloads: 902
 updated: 1750906062000
 repo: camadkins/obsidian-canvas-connect
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Canvas Connect"
   description="Dynamically update connection anchors in Canvas view with smart routing."
   author="camadkins"
-  :downloads="892"
+  :downloads="902"
   :updated="1750906062000"
   repo="camadkins/obsidian-canvas-connect"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Dynamically update connection anchors in Canvas view with smart routing.
 - **插件 ID**：canvas-connect
 - **作者**：camadkins
 - **当前版本**：v1.0.0
-- **下载量**：892
+- **下载量**：902
 - **最后更新**：2025-06-26
 - **GitHub**：[camadkins/obsidian-canvas-connect](https://github.com/camadkins/obsidian-canvas-connect)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Account Viewer
 description: Automatically generate accounting tables from Markdown code blocks tagged with accounting.
 author: Muaz Yediyüzkırkiki
-downloads: 2872
+downloads: 2876
 updated: 1722002820000
 repo: muaz742/obsidian-accointing-viewer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Account Viewer"
   description="Automatically generate accounting tables from Markdown code blocks tagged with accounting."
   author="Muaz Yediyüzkırkiki"
-  :downloads="2872"
+  :downloads="2876"
   :updated="1722002820000"
   repo="muaz742/obsidian-accointing-viewer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically generate accounting tables from Markdown code blocks tagged with a
 - **下载量**：2.9K
 - **最后更新**：2024-07-26
 - **GitHub**：[muaz742/obsidian-accointing-viewer](https://github.com/muaz742/obsidian-accointing-viewer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

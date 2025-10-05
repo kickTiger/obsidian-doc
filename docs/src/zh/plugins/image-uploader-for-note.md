@@ -2,11 +2,11 @@
 title: Image Uploader For Note
 description: 'Upload images in a note, and remove the images from the vault if they''re exclusively used within that note.'
 author: Yunfi
-downloads: 310
+downloads: 312
 updated: 1755592746000
 repo: yy4382/obsidian-image-upload
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Image Uploader For Note"
   description="Upload images in a note, and remove the images from the vault if they&#39;re exclusively used within that note."
   author="Yunfi"
-  :downloads="310"
+  :downloads="312"
   :updated="1755592746000"
   repo="yy4382/obsidian-image-upload"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Upload images in a note, and remove the images from the vault if they&#39;re exc
 - **插件 ID**：image-uploader-for-note
 - **作者**：Yunfi
 - **当前版本**：v1.0.0
-- **下载量**：310
+- **下载量**：312
 - **最后更新**：2025-08-19
 - **GitHub**：[yy4382/obsidian-image-upload](https://github.com/yy4382/obsidian-image-upload)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

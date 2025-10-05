@@ -1,12 +1,12 @@
 ---
 title: Unicode Search
-description: Search and insert Unicode characters into your editor.
+description: 在编辑器中搜索并插入 Unicode 字符。
 author: BambusControl
-downloads: 19144
+downloads: 19180
 updated: 1758979914000
 repo: BambusControl/obsidian-unicode-search
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="unicode-search"
   name="Unicode Search"
-  description="Search and insert Unicode characters into your editor."
+  description="在编辑器中搜索并插入 Unicode 字符。"
   author="BambusControl"
-  :downloads="19144"
+  :downloads="19180"
   :updated="1758979914000"
   repo="BambusControl/obsidian-unicode-search"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Unicode Search 是一个功能强大的 Obsidian 插件。
 
-Search and insert Unicode characters into your editor.
+在编辑器中搜索并插入 Unicode 字符。
 
 通过 Unicode Search,您可以:
 
@@ -199,10 +199,10 @@ Search and insert Unicode characters into your editor.
 - **插件 ID**：unicode-search
 - **作者**：BambusControl
 - **当前版本**：v1.0.0
-- **下载量**：19.1K
+- **下载量**：19.2K
 - **最后更新**：2025-09-27
 - **GitHub**：[BambusControl/obsidian-unicode-search](https://github.com/BambusControl/obsidian-unicode-search)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

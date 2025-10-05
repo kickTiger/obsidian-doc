@@ -1,12 +1,12 @@
 ---
 title: 'Image Zoom & Drag'
-description: Make any image or diagram interactive with zoom, drag, and control panels
+description: 通过缩放、拖动和控制面板，使任何图像或图表都具有交互性
 author: 'ChenPengyuan(gitcpy) & Ssentiago'
-downloads: 10843
+downloads: 10853
 updated: 1754678049000
 repo: Ssentiago/image-zoom-drag
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="diagram-zoom-drag"
   name="Image Zoom &amp; Drag"
-  description="Make any image or diagram interactive with zoom, drag, and control panels"
+  description="通过缩放、拖动和控制面板，使任何图像或图表都具有交互性"
   author="ChenPengyuan(gitcpy) &amp; Ssentiago"
-  :downloads="10843"
+  :downloads="10853"
   :updated="1754678049000"
   repo="Ssentiago/image-zoom-drag"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Zoom &amp; Drag 是一个功能强大的 Obsidian 插件。
 
-Make any image or diagram interactive with zoom, drag, and control panels
+通过缩放、拖动和控制面板，使任何图像或图表都具有交互性
 
 通过 Image Zoom &amp; Drag,您可以:
 
@@ -199,10 +199,10 @@ Make any image or diagram interactive with zoom, drag, and control panels
 - **插件 ID**：diagram-zoom-drag
 - **作者**：ChenPengyuan(gitcpy) &amp; Ssentiago
 - **当前版本**：v1.0.0
-- **下载量**：10.8K
+- **下载量**：10.9K
 - **最后更新**：2025-08-09
 - **GitHub**：[Ssentiago/image-zoom-drag](https://github.com/Ssentiago/image-zoom-drag)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

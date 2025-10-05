@@ -1,12 +1,12 @@
 ---
 title: Background Image
-description: Specify a remote URL as the background image, and a few settings to tweak the experience.
+description: 指定一个远程 URL 作为背景图片，并进行一些设置来调整体验。
 author: shmolf
-downloads: 18705
+downloads: 18742
 updated: 1737399325000
 repo: shmolf/obsidian-editor-background
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="background-image"
   name="Background Image"
-  description="Specify a remote URL as the background image, and a few settings to tweak the experience."
+  description="指定一个远程 URL 作为背景图片，并进行一些设置来调整体验。"
   author="shmolf"
-  :downloads="18705"
+  :downloads="18742"
   :updated="1737399325000"
   repo="shmolf/obsidian-editor-background"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Background Image 是一个功能强大的 Obsidian 插件。
 
-Specify a remote URL as the background image, and a few settings to tweak the experience.
+指定一个远程 URL 作为背景图片，并进行一些设置来调整体验。
 
 通过 Background Image,您可以:
 
@@ -202,7 +202,7 @@ Specify a remote URL as the background image, and a few settings to tweak the ex
 - **下载量**：18.7K
 - **最后更新**：2025-01-21
 - **GitHub**：[shmolf/obsidian-editor-background](https://github.com/shmolf/obsidian-editor-background)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

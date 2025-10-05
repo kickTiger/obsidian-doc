@@ -1,12 +1,12 @@
 ---
 title: Update Relative Links
-description: Update relative links.
+description: 更新相对链接。
 author: val
 downloads: 6485
 updated: 1725792115000
 repo: val3344/obsidian-update-relative-links
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="update-relative-links"
   name="Update Relative Links"
-  description="Update relative links."
+  description="更新相对链接。"
   author="val"
   :downloads="6485"
   :updated="1725792115000"
   repo="val3344/obsidian-update-relative-links"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Update Relative Links 是一个功能强大的 Obsidian 插件。
 
-Update relative links.
+更新相对链接。
 
 通过 Update Relative Links,您可以:
 
@@ -202,7 +202,7 @@ Update relative links.
 - **下载量**：6.5K
 - **最后更新**：2024-09-08
 - **GitHub**：[val3344/obsidian-update-relative-links](https://github.com/val3344/obsidian-update-relative-links)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

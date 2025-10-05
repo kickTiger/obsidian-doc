@@ -2,11 +2,11 @@
 title: Synaptic Bridge
 description: Beyond the Vault. One hub for every Markdown, everywhere
 author: Yongmini
-downloads: 383
+downloads: 394
 updated: 1749700418000
 repo: especialkim/synaptic-bridge
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Synaptic Bridge"
   description="Beyond the Vault. One hub for every Markdown, everywhere"
   author="Yongmini"
-  :downloads="383"
+  :downloads="394"
   :updated="1749700418000"
   repo="especialkim/synaptic-bridge"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Beyond the Vault. One hub for every Markdown, everywhere
 - **插件 ID**：markdown-hijacker
 - **作者**：Yongmini
 - **当前版本**：v1.0.0
-- **下载量**：383
+- **下载量**：394
 - **最后更新**：2025-06-12
 - **GitHub**：[especialkim/synaptic-bridge](https://github.com/especialkim/synaptic-bridge)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

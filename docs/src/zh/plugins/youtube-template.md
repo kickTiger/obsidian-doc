@@ -1,12 +1,12 @@
 ---
 title: YouTube Template
-description: Fetch YouTube video data into your vault.
+description: 将 YouTube 视频数据提取到你的保险库中。
 author: sundevista
-downloads: 6892
+downloads: 6898
 updated: 1747482011000
 repo: sundevista/youtube-template
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="youtube-template"
   name="YouTube Template"
-  description="Fetch YouTube video data into your vault."
+  description="将 YouTube 视频数据提取到你的保险库中。"
   author="sundevista"
-  :downloads="6892"
+  :downloads="6898"
   :updated="1747482011000"
   repo="sundevista/youtube-template"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 YouTube Template 是一个功能强大的 Obsidian 插件。
 
-Fetch YouTube video data into your vault.
+将 YouTube 视频数据提取到你的保险库中。
 
 通过 YouTube Template,您可以:
 
@@ -202,7 +202,7 @@ Fetch YouTube video data into your vault.
 - **下载量**：6.9K
 - **最后更新**：2025-05-17
 - **GitHub**：[sundevista/youtube-template](https://github.com/sundevista/youtube-template)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

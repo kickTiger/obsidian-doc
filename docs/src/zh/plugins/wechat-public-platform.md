@@ -2,11 +2,11 @@
 title: Wechat Public Platform
 description: Release the article from your vault to WeChat, Baidu Baijiahao, or another article release platform.
 author: Blake Chan
-downloads: 1496
+downloads: 1504
 updated: 1725726914000
 repo: ai-chen2050/obsidian-wechat-public-platform
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Wechat Public Platform"
   description="Release the article from your vault to WeChat, Baidu Baijiahao, or another article release platform."
   author="Blake Chan"
-  :downloads="1496"
+  :downloads="1504"
   :updated="1725726914000"
   repo="ai-chen2050/obsidian-wechat-public-platform"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Release the article from your vault to WeChat, Baidu Baijiahao, or another artic
 - **下载量**：1.5K
 - **最后更新**：2024-09-08
 - **GitHub**：[ai-chen2050/obsidian-wechat-public-platform](https://github.com/ai-chen2050/obsidian-wechat-public-platform)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

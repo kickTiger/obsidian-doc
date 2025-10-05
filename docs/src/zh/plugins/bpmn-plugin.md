@@ -1,12 +1,12 @@
 ---
 title: BPMN
-description: Enable viewing BPMN diagrams using bpmn-js.
+description: 启用使用 bpmn-js 查看 BPMN 图表。
 author: joleaf
-downloads: 10164
+downloads: 10167
 updated: 1740685058000
 repo: joleaf/obsidian-bpmn-plugin
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="bpmn-plugin"
   name="BPMN"
-  description="Enable viewing BPMN diagrams using bpmn-js."
+  description="启用使用 bpmn-js 查看 BPMN 图表。"
   author="joleaf"
-  :downloads="10164"
+  :downloads="10167"
   :updated="1740685058000"
   repo="joleaf/obsidian-bpmn-plugin"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 BPMN 是一个功能强大的 Obsidian 插件。
 
-Enable viewing BPMN diagrams using bpmn-js.
+启用使用 bpmn-js 查看 BPMN 图表。
 
 通过 BPMN,您可以:
 
@@ -202,7 +202,7 @@ Enable viewing BPMN diagrams using bpmn-js.
 - **下载量**：10.2K
 - **最后更新**：2025-02-28
 - **GitHub**：[joleaf/obsidian-bpmn-plugin](https://github.com/joleaf/obsidian-bpmn-plugin)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Awesome Reader
-description: Add support for multiple ebook formats. Remember reading progress and create notes from the table of contents.
+description: 增加对多种电子书格式的支持。记住阅读进度，并从目录中创建注释。
 author: AwesomeDog
-downloads: 10165
+downloads: 10174
 updated: 1676885133000
 repo: AwesomeDog/obsidian-awesome-reader
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="awesome-reader"
   name="Awesome Reader"
-  description="Add support for multiple ebook formats. Remember reading progress and create notes from the table of contents."
+  description="增加对多种电子书格式的支持。记住阅读进度，并从目录中创建注释。"
   author="AwesomeDog"
-  :downloads="10165"
+  :downloads="10174"
   :updated="1676885133000"
   repo="AwesomeDog/obsidian-awesome-reader"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Awesome Reader 是一个功能强大的 Obsidian 插件。
 
-Add support for multiple ebook formats. Remember reading progress and create notes from the table of contents.
+增加对多种电子书格式的支持。记住阅读进度，并从目录中创建注释。
 
 通过 Awesome Reader,您可以:
 
@@ -202,7 +202,7 @@ Add support for multiple ebook formats. Remember reading progress and create not
 - **下载量**：10.2K
 - **最后更新**：2023-02-20
 - **GitHub**：[AwesomeDog/obsidian-awesome-reader](https://github.com/AwesomeDog/obsidian-awesome-reader)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: ObsiDOOM
-description: Play DOOM and many other retro games in Obsidian. You can also play Prince of Persia, Mortal Combat, GTA, Sim City, and Need for Speed.
+description: 在黑曜石中玩 DOOM 和许多其他复古游戏。您还可以玩《波斯王子》、《真人快打》、《GTA》、《模拟城市》和《极品飞车》。
 author: twibiral
-downloads: 6358
+downloads: 6360
 updated: 1725393810000
 repo: twibiral/ObsiDOOM
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidoom"
   name="ObsiDOOM"
-  description="Play DOOM and many other retro games in Obsidian. You can also play Prince of Persia, Mortal Combat, GTA, Sim City, and Need for Speed."
+  description="在黑曜石中玩 DOOM 和许多其他复古游戏。您还可以玩《波斯王子》、《真人快打》、《GTA》、《模拟城市》和《极品飞车》。"
   author="twibiral"
-  :downloads="6358"
+  :downloads="6360"
   :updated="1725393810000"
   repo="twibiral/ObsiDOOM"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ObsiDOOM 是一个功能强大的 Obsidian 插件。
 
-Play DOOM and many other retro games in Obsidian. You can also play Prince of Persia, Mortal Combat, GTA, Sim City, and Need for Speed.
+在黑曜石中玩 DOOM 和许多其他复古游戏。您还可以玩《波斯王子》、《真人快打》、《GTA》、《模拟城市》和《极品飞车》。
 
 通过 ObsiDOOM,您可以:
 
@@ -202,7 +202,7 @@ Play DOOM and many other retro games in Obsidian. You can also play Prince of Pe
 - **下载量**：6.4K
 - **最后更新**：2024-09-04
 - **GitHub**：[twibiral/ObsiDOOM](https://github.com/twibiral/ObsiDOOM)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

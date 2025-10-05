@@ -2,11 +2,11 @@
 title: YourPulse - Your Writing Activity Visualised
 description: 'It''s like your Github profile, but for your vault (featuring daily streak, average daily word count, comprehensive stats and plugins overview).'
 author: Jiri Sifalda
-downloads: 2652
+downloads: 2665
 updated: 1757153055000
 repo: jsifalda/obsipulse-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="YourPulse - Your Writing Activity Visualised"
   description="It&#39;s like your Github profile, but for your vault (featuring daily streak, average daily word count, comprehensive stats and plugins overview)."
   author="Jiri Sifalda"
-  :downloads="2652"
+  :downloads="2665"
   :updated="1757153055000"
   repo="jsifalda/obsipulse-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ It&#39;s like your Github profile, but for your vault (featuring daily streak, a
 - **下载量**：2.7K
 - **最后更新**：2025-09-06
 - **GitHub**：[jsifalda/obsipulse-plugin](https://github.com/jsifalda/obsipulse-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

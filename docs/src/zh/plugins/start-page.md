@@ -2,11 +2,11 @@
 title: Startpage
 description: Automatically opens a customized homepage upon startup, displaying pinned and recent notes.
 author: kuzzh
-downloads: 958
+downloads: 977
 updated: 1758852017000
 repo: kuzzh/obsidian-startpage
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Startpage"
   description="Automatically opens a customized homepage upon startup, displaying pinned and recent notes."
   author="kuzzh"
-  :downloads="958"
+  :downloads="977"
   :updated="1758852017000"
   repo="kuzzh/obsidian-startpage"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically opens a customized homepage upon startup, displaying pinned and re
 - **插件 ID**：start-page
 - **作者**：kuzzh
 - **当前版本**：v1.0.0
-- **下载量**：958
+- **下载量**：977
 - **最后更新**：2025-09-26
 - **GitHub**：[kuzzh/obsidian-startpage](https://github.com/kuzzh/obsidian-startpage)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

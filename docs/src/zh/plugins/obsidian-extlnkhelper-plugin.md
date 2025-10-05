@@ -1,12 +1,12 @@
 ---
 title: External Link Helper
-description: Makie inserting external links easier to your notes.
+description: 让您更轻松地在笔记中插入外部链接。
 author: Jhonghee Park
-downloads: 4184
+downloads: 4185
 updated: 1669231052000
 repo: nakalsio/obsidian-danpung
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-extlnkhelper-plugin"
   name="External Link Helper"
-  description="Makie inserting external links easier to your notes."
+  description="让您更轻松地在笔记中插入外部链接。"
   author="Jhonghee Park"
-  :downloads="4184"
+  :downloads="4185"
   :updated="1669231052000"
   repo="nakalsio/obsidian-danpung"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 External Link Helper 是一个功能强大的 Obsidian 插件。
 
-Makie inserting external links easier to your notes.
+让您更轻松地在笔记中插入外部链接。
 
 通过 External Link Helper,您可以:
 
@@ -202,7 +202,7 @@ Makie inserting external links easier to your notes.
 - **下载量**：4.2K
 - **最后更新**：2022-11-24
 - **GitHub**：[nakalsio/obsidian-danpung](https://github.com/nakalsio/obsidian-danpung)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Shukuchi
-description: Teleport to links (URL or internal link) and jump to their destinations.
+description: 瞬移到链接（URL 或内部链接）并跳转到其目的地。
 author: tadashi-aikawa
-downloads: 4532
+downloads: 4533
 updated: 1758757798000
 repo: tadashi-aikawa/shukuchi
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="shukuchi"
   name="Shukuchi"
-  description="Teleport to links (URL or internal link) and jump to their destinations."
+  description="瞬移到链接（URL 或内部链接）并跳转到其目的地。"
   author="tadashi-aikawa"
-  :downloads="4532"
+  :downloads="4533"
   :updated="1758757798000"
   repo="tadashi-aikawa/shukuchi"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Shukuchi 是一个功能强大的 Obsidian 插件。
 
-Teleport to links (URL or internal link) and jump to their destinations.
+瞬移到链接（URL 或内部链接）并跳转到其目的地。
 
 通过 Shukuchi,您可以:
 
@@ -202,7 +202,7 @@ Teleport to links (URL or internal link) and jump to their destinations.
 - **下载量**：4.5K
 - **最后更新**：2025-09-25
 - **GitHub**：[tadashi-aikawa/shukuchi](https://github.com/tadashi-aikawa/shukuchi)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

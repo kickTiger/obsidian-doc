@@ -6,7 +6,7 @@ downloads: 3509
 updated: 1668784443000
 repo: ptrsvltns/file-forgetting-curve-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1668784443000"
   repo="ptrsvltns/file-forgetting-curve-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ File Forgetting Curve.
 - **下载量**：3.5K
 - **最后更新**：2022-11-18
 - **GitHub**：[ptrsvltns/file-forgetting-curve-obsidian](https://github.com/ptrsvltns/file-forgetting-curve-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

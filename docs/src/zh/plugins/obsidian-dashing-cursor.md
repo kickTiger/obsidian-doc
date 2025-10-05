@@ -1,12 +1,12 @@
 ---
 title: Dashing Cursor
-description: Enable a dashing cursor that follows the page scroll.
+description: 启用跟随页面滚动的闪烁光标。
 author: Shukai Ni
-downloads: 4775
+downloads: 4776
 updated: 1665758308000
 repo: 9r0x/obsidian-dashing-cursor
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-dashing-cursor"
   name="Dashing Cursor"
-  description="Enable a dashing cursor that follows the page scroll."
+  description="启用跟随页面滚动的闪烁光标。"
   author="Shukai Ni"
-  :downloads="4775"
+  :downloads="4776"
   :updated="1665758308000"
   repo="9r0x/obsidian-dashing-cursor"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dashing Cursor 是一个功能强大的 Obsidian 插件。
 
-Enable a dashing cursor that follows the page scroll.
+启用跟随页面滚动的闪烁光标。
 
 通过 Dashing Cursor,您可以:
 
@@ -202,7 +202,7 @@ Enable a dashing cursor that follows the page scroll.
 - **下载量**：4.8K
 - **最后更新**：2022-10-14
 - **GitHub**：[9r0x/obsidian-dashing-cursor](https://github.com/9r0x/obsidian-dashing-cursor)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

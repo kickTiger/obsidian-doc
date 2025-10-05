@@ -6,7 +6,7 @@ downloads: 119
 updated: 1744120362000
 repo: busyoGG/OneStepWikiLink
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1744120362000"
   repo="busyoGG/OneStepWikiLink"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ One Step Wiki Link 是一个功能强大的 Obsidian 插件。
 - **下载量**：119
 - **最后更新**：2025-04-08
 - **GitHub**：[busyoGG/OneStepWikiLink](https://github.com/busyoGG/OneStepWikiLink)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

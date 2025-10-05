@@ -1,12 +1,12 @@
 ---
 title: Plugin Groups
-description: 'Manage your Plugins with groups: Enable & disable multiple plugins at once or delay their startup to speed up your Obsidian start up time.'
+description: 使用群组管理你的插件：一次性启用或禁用多个插件，或延迟它们的启动时间，以加快 Obsidian 的启动速度。
 author: Mocca101
-downloads: 34182
+downloads: 34212
 updated: 1680291246000
 repo: Mocca101/obsidian-plugin-groups
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-plugin-groups"
   name="Plugin Groups"
-  description="Manage your Plugins with groups: Enable &amp; disable multiple plugins at once or delay their startup to speed up your Obsidian start up time."
+  description="使用群组管理你的插件：一次性启用或禁用多个插件，或延迟它们的启动时间，以加快 Obsidian 的启动速度。"
   author="Mocca101"
-  :downloads="34182"
+  :downloads="34212"
   :updated="1680291246000"
   repo="Mocca101/obsidian-plugin-groups"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Plugin Groups 是一个功能强大的 Obsidian 插件。
 
-Manage your Plugins with groups: Enable &amp; disable multiple plugins at once or delay their startup to speed up your Obsidian start up time.
+使用群组管理你的插件：一次性启用或禁用多个插件，或延迟它们的启动时间，以加快 Obsidian 的启动速度。
 
 通过 Plugin Groups,您可以:
 
@@ -202,7 +202,7 @@ Manage your Plugins with groups: Enable &amp; disable multiple plugins at once o
 - **下载量**：34.2K
 - **最后更新**：2023-04-01
 - **GitHub**：[Mocca101/obsidian-plugin-groups](https://github.com/Mocca101/obsidian-plugin-groups)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

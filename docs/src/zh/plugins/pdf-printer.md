@@ -2,11 +2,11 @@
 title: PDF Printer
 description: Convert PDF documents to images directly in your notes without external dependencies.
 author: cubexy
-downloads: 1200
-updated: 1754917950000
+downloads: 1213
+updated: 1759590493000
 repo: cubexy/obsidian-pdf-printer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="PDF Printer"
   description="Convert PDF documents to images directly in your notes without external dependencies."
   author="cubexy"
-  :downloads="1200"
-  :updated="1754917950000"
+  :downloads="1213"
+  :updated="1759590493000"
   repo="cubexy/obsidian-pdf-printer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -181,7 +181,7 @@ Convert PDF documents to images directly in your notes without external dependen
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-08-11
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/cubexy/obsidian-pdf-printer/releases) 查看详细更新日志
@@ -200,9 +200,9 @@ Convert PDF documents to images directly in your notes without external dependen
 - **作者**：cubexy
 - **当前版本**：v1.0.0
 - **下载量**：1.2K
-- **最后更新**：2025-08-11
+- **最后更新**：2025-10-04
 - **GitHub**：[cubexy/obsidian-pdf-printer](https://github.com/cubexy/obsidian-pdf-printer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

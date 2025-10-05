@@ -1,12 +1,12 @@
 ---
 title: CookLang Editor
-description: Edit and display CookLang recipes.
+description: 编辑并显示 CookLang 食谱。
 author: death_au/cooklang
-downloads: 10533
+downloads: 10541
 updated: 1758136666000
 repo: cooklang/cooklang-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cooklang-obsidian"
   name="CookLang Editor"
-  description="Edit and display CookLang recipes."
+  description="编辑并显示 CookLang 食谱。"
   author="death_au/cooklang"
-  :downloads="10533"
+  :downloads="10541"
   :updated="1758136666000"
   repo="cooklang/cooklang-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 CookLang Editor 是一个功能强大的 Obsidian 插件。
 
-Edit and display CookLang recipes.
+编辑并显示 CookLang 食谱。
 
 通过 CookLang Editor,您可以:
 
@@ -202,7 +202,7 @@ Edit and display CookLang recipes.
 - **下载量**：10.5K
 - **最后更新**：2025-09-18
 - **GitHub**：[cooklang/cooklang-obsidian](https://github.com/cooklang/cooklang-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Protected Note
-description: Set password to protect your notes from other people. Simple, Fast.
+description: 设置密码保护笔记不被他人盗取。简单、快速。
 author: Mikail Gadzhikhanov
-downloads: 7002
+downloads: 7011
 updated: 1734098986000
 repo: mmiksaa/obsidian-protected-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="protected-note"
   name="Protected Note"
-  description="Set password to protect your notes from other people. Simple, Fast."
+  description="设置密码保护笔记不被他人盗取。简单、快速。"
   author="Mikail Gadzhikhanov"
-  :downloads="7002"
+  :downloads="7011"
   :updated="1734098986000"
   repo="mmiksaa/obsidian-protected-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Protected Note 是一个功能强大的 Obsidian 插件。
 
-Set password to protect your notes from other people. Simple, Fast.
+设置密码保护笔记不被他人盗取。简单、快速。
 
 通过 Protected Note,您可以:
 
@@ -202,7 +202,7 @@ Set password to protect your notes from other people. Simple, Fast.
 - **下载量**：7.0K
 - **最后更新**：2024-12-13
 - **GitHub**：[mmiksaa/obsidian-protected-note](https://github.com/mmiksaa/obsidian-protected-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

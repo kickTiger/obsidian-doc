@@ -1,12 +1,12 @@
 ---
 title: Dynamic Highlights
-description: Dynamically highlight text based on cursor selection or search query with full regex, mobile, and live preview support.
+description: 根据光标选择或搜索查询动态高亮文本，支持完全 regex、移动和实时预览。
 author: nothingislost
-downloads: 23842
+downloads: 23854
 updated: 1655908252000
 repo: nothingislost/obsidian-dynamic-highlights
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-dynamic-highlights"
   name="Dynamic Highlights"
-  description="Dynamically highlight text based on cursor selection or search query with full regex, mobile, and live preview support."
+  description="根据光标选择或搜索查询动态高亮文本，支持完全 regex、移动和实时预览。"
   author="nothingislost"
-  :downloads="23842"
+  :downloads="23854"
   :updated="1655908252000"
   repo="nothingislost/obsidian-dynamic-highlights"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dynamic Highlights 是一个功能强大的 Obsidian 插件。
 
-Dynamically highlight text based on cursor selection or search query with full regex, mobile, and live preview support.
+根据光标选择或搜索查询动态高亮文本，支持完全 regex、移动和实时预览。
 
 通过 Dynamic Highlights,您可以:
 
@@ -199,10 +199,10 @@ Dynamically highlight text based on cursor selection or search query with full r
 - **插件 ID**：obsidian-dynamic-highlights
 - **作者**：nothingislost
 - **当前版本**：v1.0.0
-- **下载量**：23.8K
+- **下载量**：23.9K
 - **最后更新**：2022-06-22
 - **GitHub**：[nothingislost/obsidian-dynamic-highlights](https://github.com/nothingislost/obsidian-dynamic-highlights)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

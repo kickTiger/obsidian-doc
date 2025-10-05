@@ -6,7 +6,7 @@ downloads: 160
 updated: 1736182882000
 repo: pakrentos/hanzi-writer-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1736182882000"
   repo="pakrentos/hanzi-writer-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Interactive Chinese character writing blocks using Hanzi Writer
 - **下载量**：160
 - **最后更新**：2025-01-07
 - **GitHub**：[pakrentos/hanzi-writer-obsidian](https://github.com/pakrentos/hanzi-writer-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

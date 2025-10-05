@@ -2,11 +2,11 @@
 title: AI Chat
 description: Chat with AI about your notes.
 author: arenasys
-downloads: 1306
+downloads: 1308
 updated: 1716815664000
 repo: arenasys/obsidian-ai-chat
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="AI Chat"
   description="Chat with AI about your notes."
   author="arenasys"
-  :downloads="1306"
+  :downloads="1308"
   :updated="1716815664000"
   repo="arenasys/obsidian-ai-chat"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Chat with AI about your notes.
 - **下载量**：1.3K
 - **最后更新**：2024-05-27
 - **GitHub**：[arenasys/obsidian-ai-chat](https://github.com/arenasys/obsidian-ai-chat)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

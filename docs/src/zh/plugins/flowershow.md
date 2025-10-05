@@ -1,12 +1,12 @@
 ---
 title: Flowershow
-description: Publish notes with Flowershow.
+description: 用 Flowershow 发布笔记。
 author: Rufus Pollock
-downloads: 5780
+downloads: 5781
 updated: 1741868726000
 repo: datopian/obsidian-flowershow
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="flowershow"
   name="Flowershow"
-  description="Publish notes with Flowershow."
+  description="用 Flowershow 发布笔记。"
   author="Rufus Pollock"
-  :downloads="5780"
+  :downloads="5781"
   :updated="1741868726000"
   repo="datopian/obsidian-flowershow"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Flowershow 是一个功能强大的 Obsidian 插件。
 
-Publish notes with Flowershow.
+用 Flowershow 发布笔记。
 
 通过 Flowershow,您可以:
 
@@ -202,7 +202,7 @@ Publish notes with Flowershow.
 - **下载量**：5.8K
 - **最后更新**：2025-03-13
 - **GitHub**：[datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Scholar
-description: Manage research library and streamline research workflow.
+description: 管理研究图书馆，简化研究工作流程。
 author: Shannon Shen
-downloads: 7545
+downloads: 7550
 updated: 1751758958000
 repo: lolipopshock/obsidian-scholar
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="scholar"
   name="Scholar"
-  description="Manage research library and streamline research workflow."
+  description="管理研究图书馆，简化研究工作流程。"
   author="Shannon Shen"
-  :downloads="7545"
+  :downloads="7550"
   :updated="1751758958000"
   repo="lolipopshock/obsidian-scholar"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Scholar 是一个功能强大的 Obsidian 插件。
 
-Manage research library and streamline research workflow.
+管理研究图书馆，简化研究工作流程。
 
 通过 Scholar,您可以:
 
@@ -202,7 +202,7 @@ Manage research library and streamline research workflow.
 - **下载量**：7.5K
 - **最后更新**：2025-07-06
 - **GitHub**：[lolipopshock/obsidian-scholar](https://github.com/lolipopshock/obsidian-scholar)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

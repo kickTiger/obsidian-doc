@@ -6,7 +6,7 @@ downloads: 1255
 updated: 1721143156000
 repo: imfenghuang/obsidian-magic-move
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1721143156000"
   repo="imfenghuang/obsidian-magic-move"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Animating code blocks with markdown and code syntax highlighting with beautiful 
 - **下载量**：1.3K
 - **最后更新**：2024-07-16
 - **GitHub**：[imfenghuang/obsidian-magic-move](https://github.com/imfenghuang/obsidian-magic-move)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

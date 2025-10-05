@@ -2,11 +2,11 @@
 title: Docusaurus Style Admonitions
 description: Adds Docusaurus style admonitions to your notes
 author: Ralf Weinbrecher
-downloads: 1014
+downloads: 1016
 updated: 1749215812000
 repo: rwbr/obsidian-docusaurus-style-admonitions
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Docusaurus Style Admonitions"
   description="Adds Docusaurus style admonitions to your notes"
   author="Ralf Weinbrecher"
-  :downloads="1014"
+  :downloads="1016"
   :updated="1749215812000"
   repo="rwbr/obsidian-docusaurus-style-admonitions"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds Docusaurus style admonitions to your notes
 - **下载量**：1.0K
 - **最后更新**：2025-06-06
 - **GitHub**：[rwbr/obsidian-docusaurus-style-admonitions](https://github.com/rwbr/obsidian-docusaurus-style-admonitions)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

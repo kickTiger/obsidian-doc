@@ -1,12 +1,12 @@
 ---
 title: Calctex
-description: Calculate LaTeX formulas.
+description: 计算 LaTeX 公式。
 author: Mike
-downloads: 6995
+downloads: 6999
 updated: 1746090969000
 repo: Developer-Mike/obsidian-calctex
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="calctex"
   name="Calctex"
-  description="Calculate LaTeX formulas."
+  description="计算 LaTeX 公式。"
   author="Mike"
-  :downloads="6995"
+  :downloads="6999"
   :updated="1746090969000"
   repo="Developer-Mike/obsidian-calctex"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Calctex 是一个功能强大的 Obsidian 插件。
 
-Calculate LaTeX formulas.
+计算 LaTeX 公式。
 
 通过 Calctex,您可以:
 
@@ -202,7 +202,7 @@ Calculate LaTeX formulas.
 - **下载量**：7.0K
 - **最后更新**：2025-05-01
 - **GitHub**：[Developer-Mike/obsidian-calctex](https://github.com/Developer-Mike/obsidian-calctex)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

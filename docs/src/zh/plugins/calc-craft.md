@@ -1,12 +1,12 @@
 ---
 title: CalcCraft
-description: Enable table-based calculations with a spreadsheet-like approach, utilizing references. Highlight the dependencies within tables and identifies circular references with support for array formulas.
+description: 通过类似电子表格的方法，利用引用实现基于表格的计算。通过支持数组公式，突出表格内的依赖关系并识别循环引用。
 author: Claudiu Ivan
-downloads: 8637
+downloads: 8691
 updated: 1757867099000
 repo: klaudyu/CalcCraft
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="calc-craft"
   name="CalcCraft"
-  description="Enable table-based calculations with a spreadsheet-like approach, utilizing references. Highlight the dependencies within tables and identifies circular references with support for array formulas."
+  description="通过类似电子表格的方法，利用引用实现基于表格的计算。通过支持数组公式，突出表格内的依赖关系并识别循环引用。"
   author="Claudiu Ivan"
-  :downloads="8637"
+  :downloads="8691"
   :updated="1757867099000"
   repo="klaudyu/CalcCraft"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 CalcCraft 是一个功能强大的 Obsidian 插件。
 
-Enable table-based calculations with a spreadsheet-like approach, utilizing references. Highlight the dependencies within tables and identifies circular references with support for array formulas.
+通过类似电子表格的方法，利用引用实现基于表格的计算。通过支持数组公式，突出表格内的依赖关系并识别循环引用。
 
 通过 CalcCraft,您可以:
 
@@ -199,10 +199,10 @@ Enable table-based calculations with a spreadsheet-like approach, utilizing refe
 - **插件 ID**：calc-craft
 - **作者**：Claudiu Ivan
 - **当前版本**：v1.0.0
-- **下载量**：8.6K
+- **下载量**：8.7K
 - **最后更新**：2025-09-15
 - **GitHub**：[klaudyu/CalcCraft](https://github.com/klaudyu/CalcCraft)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

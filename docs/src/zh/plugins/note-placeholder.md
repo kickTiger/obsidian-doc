@@ -6,7 +6,7 @@ downloads: 212
 updated: 1745231568000
 repo: XZSt4nce/note-placeholder
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1745231568000"
   repo="XZSt4nce/note-placeholder"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Replaces text of note link to placeholder in view mode.
 - **下载量**：212
 - **最后更新**：2025-04-21
 - **GitHub**：[XZSt4nce/note-placeholder](https://github.com/XZSt4nce/note-placeholder)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

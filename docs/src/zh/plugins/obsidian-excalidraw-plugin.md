@@ -1,12 +1,12 @@
 ---
 title: Excalidraw
-description: Edit and view Excalidraw drawings.
+description: 编辑和查看 Excalidraw 绘图。
 author: Zsolt Viczian
-downloads: 4620274
-updated: 1759439672000
+downloads: 4625330
+updated: 1759610226000
 repo: zsviczian/obsidian-excalidraw-plugin
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-excalidraw-plugin"
   name="Excalidraw"
-  description="Edit and view Excalidraw drawings."
+  description="编辑和查看 Excalidraw 绘图。"
   author="Zsolt Viczian"
-  :downloads="4620274"
-  :updated="1759439672000"
+  :downloads="4625330"
+  :updated="1759610226000"
   repo="zsviczian/obsidian-excalidraw-plugin"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Excalidraw 是一个功能强大的 Obsidian 插件。
 
-Edit and view Excalidraw drawings.
+编辑和查看 Excalidraw 绘图。
 
 通过 Excalidraw,您可以:
 
@@ -181,7 +181,7 @@ Edit and view Excalidraw drawings.
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-10-03
+更新时间：2025-10-05
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/zsviczian/obsidian-excalidraw-plugin/releases) 查看详细更新日志
@@ -199,10 +199,10 @@ Edit and view Excalidraw drawings.
 - **插件 ID**：obsidian-excalidraw-plugin
 - **作者**：Zsolt Viczian
 - **当前版本**：v1.0.0
-- **下载量**：4.62M
-- **最后更新**：2025-10-03
+- **下载量**：4.63M
+- **最后更新**：2025-10-05
 - **GitHub**：[zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

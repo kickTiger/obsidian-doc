@@ -2,11 +2,11 @@
 title: Create List of Notes
 description: Creates a bulleted list of notes contained within the parent folder and prepends to current note content after YAML frontmatter.
 author: Andrew Heekin
-downloads: 1531
+downloads: 1532
 updated: 1715174923000
 repo: andrewheekin/obsidian-create-note-list
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Create List of Notes"
   description="Creates a bulleted list of notes contained within the parent folder and prepends to current note content after YAML frontmatter."
   author="Andrew Heekin"
-  :downloads="1531"
+  :downloads="1532"
   :updated="1715174923000"
   repo="andrewheekin/obsidian-create-note-list"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Creates a bulleted list of notes contained within the parent folder and prepends
 - **下载量**：1.5K
 - **最后更新**：2024-05-08
 - **GitHub**：[andrewheekin/obsidian-create-note-list](https://github.com/andrewheekin/obsidian-create-note-list)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Embed Code File
-description: Embed code file from vault using code blocks.
+description: 使用代码块从保险库中嵌入代码文件。
 author: Abdullah Almariah
-downloads: 7501
+downloads: 7502
 updated: 1662749453000
 repo: almariah/embed-code-file
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="embed-code-file"
   name="Embed Code File"
-  description="Embed code file from vault using code blocks."
+  description="使用代码块从保险库中嵌入代码文件。"
   author="Abdullah Almariah"
-  :downloads="7501"
+  :downloads="7502"
   :updated="1662749453000"
   repo="almariah/embed-code-file"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Embed Code File 是一个功能强大的 Obsidian 插件。
 
-Embed code file from vault using code blocks.
+使用代码块从保险库中嵌入代码文件。
 
 通过 Embed Code File,您可以:
 
@@ -202,7 +202,7 @@ Embed code file from vault using code blocks.
 - **下载量**：7.5K
 - **最后更新**：2022-09-10
 - **GitHub**：[almariah/embed-code-file](https://github.com/almariah/embed-code-file)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

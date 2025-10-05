@@ -6,7 +6,7 @@ downloads: 1284
 updated: 1709205763000
 repo: OpTi9/obsidian-tekken-notation
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1709205763000"
   repo="OpTi9/obsidian-tekken-notation"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Renders Tekken Notation.
 - **下载量**：1.3K
 - **最后更新**：2024-02-29
 - **GitHub**：[OpTi9/obsidian-tekken-notation](https://github.com/OpTi9/obsidian-tekken-notation)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

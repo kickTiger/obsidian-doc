@@ -2,11 +2,11 @@
 title: 'LawList: Custom List Styles'
 description: Adds support for freely configurable, custom list styles (Edit Mode and Read Mode).
 author: Willem Schlieter
-downloads: 1210
+downloads: 1216
 updated: 1749213831000
 repo: willem-schlieter/lawlist
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="LawList: Custom List Styles"
   description="Adds support for freely configurable, custom list styles (Edit Mode and Read Mode)."
   author="Willem Schlieter"
-  :downloads="1210"
+  :downloads="1216"
   :updated="1749213831000"
   repo="willem-schlieter/lawlist"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds support for freely configurable, custom list styles (Edit Mode and Read Mod
 - **下载量**：1.2K
 - **最后更新**：2025-06-06
 - **GitHub**：[willem-schlieter/lawlist](https://github.com/willem-schlieter/lawlist)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

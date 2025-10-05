@@ -2,11 +2,11 @@
 title: Daily Routine
 description: 'Manage your daily tasks as ''ROUTINES'' and organize your everyday life more effectively.'
 author: sechan100
-downloads: 1822
+downloads: 1826
 updated: 1740964594000
 repo: sechan100/daily-routine-2
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Daily Routine"
   description="Manage your daily tasks as &#39;ROUTINES&#39; and organize your everyday life more effectively."
   author="sechan100"
-  :downloads="1822"
+  :downloads="1826"
   :updated="1740964594000"
   repo="sechan100/daily-routine-2"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manage your daily tasks as &#39;ROUTINES&#39; and organize your everyday life mo
 - **下载量**：1.8K
 - **最后更新**：2025-03-03
 - **GitHub**：[sechan100/daily-routine-2](https://github.com/sechan100/daily-routine-2)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

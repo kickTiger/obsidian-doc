@@ -1,12 +1,12 @@
 ---
 title: Paste image Png to Jpeg
-description: Screenshot png to jpeg and compress and rename.
+description: 将PNG图片粘贴为JPEG格式。
 author: musug
-downloads: 10990
+downloads: 10996
 updated: 1677589928000
 repo: musug/obsidian-paste-png-to-jpeg
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-paste-png-to-jpeg"
   name="Paste image Png to Jpeg"
-  description="Screenshot png to jpeg and compress and rename."
+  description="将PNG图片粘贴为JPEG格式。"
   author="musug"
-  :downloads="10990"
+  :downloads="10996"
   :updated="1677589928000"
   repo="musug/obsidian-paste-png-to-jpeg"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Paste image Png to Jpeg 是一个功能强大的 Obsidian 插件。
 
-Screenshot png to jpeg and compress and rename.
+将PNG图片粘贴为JPEG格式。
 
 通过 Paste image Png to Jpeg,您可以:
 
@@ -202,7 +202,7 @@ Screenshot png to jpeg and compress and rename.
 - **下载量**：11.0K
 - **最后更新**：2023-02-28
 - **GitHub**：[musug/obsidian-paste-png-to-jpeg](https://github.com/musug/obsidian-paste-png-to-jpeg)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Completr
-description: Advanced auto-completion for LaTeX, frontmatter, and standard writing.
+description: 针对 LaTeX、正文和标准写作的高级自动完成功能。
 author: tth05
-downloads: 73648
+downloads: 73693
 updated: 1685464498000
 repo: tth05/obsidian-completr
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-completr"
   name="Completr"
-  description="Advanced auto-completion for LaTeX, frontmatter, and standard writing."
+  description="针对 LaTeX、正文和标准写作的高级自动完成功能。"
   author="tth05"
-  :downloads="73648"
+  :downloads="73693"
   :updated="1685464498000"
   repo="tth05/obsidian-completr"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Completr 是一个功能强大的 Obsidian 插件。
 
-Advanced auto-completion for LaTeX, frontmatter, and standard writing.
+针对 LaTeX、正文和标准写作的高级自动完成功能。
 
 通过 Completr,您可以:
 
@@ -199,10 +199,10 @@ Advanced auto-completion for LaTeX, frontmatter, and standard writing.
 - **插件 ID**：obsidian-completr
 - **作者**：tth05
 - **当前版本**：v1.0.0
-- **下载量**：73.6K
+- **下载量**：73.7K
 - **最后更新**：2023-05-31
 - **GitHub**：[tth05/obsidian-completr](https://github.com/tth05/obsidian-completr)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

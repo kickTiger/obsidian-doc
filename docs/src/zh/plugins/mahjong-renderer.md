@@ -6,7 +6,7 @@ downloads: 159
 updated: 1723293702000
 repo: h-sphere/obsidian-mahjong-renderer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1723293702000"
   repo="h-sphere/obsidian-mahjong-renderer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Render mahjong tiles (riichi mahjong) using MPSZ notation
 - **下载量**：159
 - **最后更新**：2024-08-10
 - **GitHub**：[h-sphere/obsidian-mahjong-renderer](https://github.com/h-sphere/obsidian-mahjong-renderer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

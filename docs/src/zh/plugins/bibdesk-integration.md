@@ -2,11 +2,11 @@
 title: BibDesk Integration
 description: Import BibTex citations into your notes and open PDF documents linked in a BibDesk library
 author: Andrea Alberti
-downloads: 471
+downloads: 472
 updated: 1739359504000
 repo: alberti42/obsidian-bibdesk-integration
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="BibDesk Integration"
   description="Import BibTex citations into your notes and open PDF documents linked in a BibDesk library"
   author="Andrea Alberti"
-  :downloads="471"
+  :downloads="472"
   :updated="1739359504000"
   repo="alberti42/obsidian-bibdesk-integration"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Import BibTex citations into your notes and open PDF documents linked in a BibDe
 - **插件 ID**：bibdesk-integration
 - **作者**：Andrea Alberti
 - **当前版本**：v1.0.0
-- **下载量**：471
+- **下载量**：472
 - **最后更新**：2025-02-12
 - **GitHub**：[alberti42/obsidian-bibdesk-integration](https://github.com/alberti42/obsidian-bibdesk-integration)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

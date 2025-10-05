@@ -1,12 +1,12 @@
 ---
 title: Auto Hyperlink
-description: Insert hyperlink according to user-defined rule.
+description: 根据用户定义的规则插入超链接。
 author: take6
 downloads: 4500
 updated: 1712994383000
 repo: take6/obsidian-plugin-auto-hyperlink
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-hyperlink"
   name="Auto Hyperlink"
-  description="Insert hyperlink according to user-defined rule."
+  description="根据用户定义的规则插入超链接。"
   author="take6"
   :downloads="4500"
   :updated="1712994383000"
   repo="take6/obsidian-plugin-auto-hyperlink"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Hyperlink 是一个功能强大的 Obsidian 插件。
 
-Insert hyperlink according to user-defined rule.
+根据用户定义的规则插入超链接。
 
 通过 Auto Hyperlink,您可以:
 
@@ -202,7 +202,7 @@ Insert hyperlink according to user-defined rule.
 - **下载量**：4.5K
 - **最后更新**：2024-04-13
 - **GitHub**：[take6/obsidian-plugin-auto-hyperlink](https://github.com/take6/obsidian-plugin-auto-hyperlink)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

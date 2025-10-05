@@ -1,12 +1,12 @@
 ---
 title: Enhancing Mindmap
-description: Edit mindmaps with Markdown.
+description: 用 Markdown 编辑思维导图
 author: Mark
-downloads: 203605
+downloads: 203664
 updated: 1691043708000
 repo: MarkMindCkm/obsidian-enhancing-mindmap
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-enhancing-mindmap"
   name="Enhancing Mindmap"
-  description="Edit mindmaps with Markdown."
+  description="用 Markdown 编辑思维导图"
   author="Mark"
-  :downloads="203605"
+  :downloads="203664"
   :updated="1691043708000"
   repo="MarkMindCkm/obsidian-enhancing-mindmap"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Enhancing Mindmap 是一个功能强大的 Obsidian 插件。
 
-Edit mindmaps with Markdown.
+用 Markdown 编辑思维导图
 
 通过 Enhancing Mindmap,您可以:
 
@@ -199,10 +199,10 @@ Edit mindmaps with Markdown.
 - **插件 ID**：obsidian-enhancing-mindmap
 - **作者**：Mark
 - **当前版本**：v1.0.0
-- **下载量**：203.6K
+- **下载量**：203.7K
 - **最后更新**：2023-08-03
 - **GitHub**：[MarkMindCkm/obsidian-enhancing-mindmap](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

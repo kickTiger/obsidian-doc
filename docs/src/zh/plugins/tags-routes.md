@@ -1,12 +1,12 @@
 ---
 title: Tags Routes
-description: A powerful 3D graph viewer for managing and navigating notes and tags, with advanced visual effects, animations.
+description: 功能强大的 3D 图表查看器，用于管理和导航笔记和标签，并具有高级视觉效果和动画。
 author: Ken
-downloads: 11330
+downloads: 11341
 updated: 1733506761000
 repo: kctekn/obsidian-TagsRoutes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tags-routes"
   name="Tags Routes"
-  description="A powerful 3D graph viewer for managing and navigating notes and tags, with advanced visual effects, animations."
+  description="功能强大的 3D 图表查看器，用于管理和导航笔记和标签，并具有高级视觉效果和动画。"
   author="Ken"
-  :downloads="11330"
+  :downloads="11341"
   :updated="1733506761000"
   repo="kctekn/obsidian-TagsRoutes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tags Routes 是一个功能强大的 Obsidian 插件。
 
-A powerful 3D graph viewer for managing and navigating notes and tags, with advanced visual effects, animations.
+功能强大的 3D 图表查看器，用于管理和导航笔记和标签，并具有高级视觉效果和动画。
 
 通过 Tags Routes,您可以:
 
@@ -202,7 +202,7 @@ A powerful 3D graph viewer for managing and navigating notes and tags, with adva
 - **下载量**：11.3K
 - **最后更新**：2024-12-07
 - **GitHub**：[kctekn/obsidian-TagsRoutes](https://github.com/kctekn/obsidian-TagsRoutes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

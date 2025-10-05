@@ -2,11 +2,11 @@
 title: Go Up
 description: 'Quickly navigate to a specified "parent" page'
 author: JinMu Go
-downloads: 1366
+downloads: 1367
 updated: 1718005366000
 repo: JinmuGo/obsidian-go-up
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Go Up"
   description="Quickly navigate to a specified &quot;parent&quot; page"
   author="JinMu Go"
-  :downloads="1366"
+  :downloads="1367"
   :updated="1718005366000"
   repo="JinmuGo/obsidian-go-up"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Quickly navigate to a specified &quot;parent&quot; page
 - **下载量**：1.4K
 - **最后更新**：2024-06-10
 - **GitHub**：[JinmuGo/obsidian-go-up](https://github.com/JinmuGo/obsidian-go-up)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

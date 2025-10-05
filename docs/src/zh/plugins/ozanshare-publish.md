@@ -1,12 +1,12 @@
 ---
 title: OzanShare Publish
-description: Publish your Markdown notes with a single click from your vault. (Closed source)
+description: 从你的保险库一键发布你的 Markdown 笔记。(关闭源代码）
 author: Ozan Tellioglu
 downloads: 4981
 updated: 1683659199000
 repo: ozntel/ozanshare-publish-plugin
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ozanshare-publish"
   name="OzanShare Publish"
-  description="Publish your Markdown notes with a single click from your vault. (Closed source)"
+  description="从你的保险库一键发布你的 Markdown 笔记。(关闭源代码）"
   author="Ozan Tellioglu"
   :downloads="4981"
   :updated="1683659199000"
   repo="ozntel/ozanshare-publish-plugin"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 OzanShare Publish 是一个功能强大的 Obsidian 插件。
 
-Publish your Markdown notes with a single click from your vault. (Closed source)
+从你的保险库一键发布你的 Markdown 笔记。(关闭源代码）
 
 通过 OzanShare Publish,您可以:
 
@@ -202,7 +202,7 @@ Publish your Markdown notes with a single click from your vault. (Closed source)
 - **下载量**：5.0K
 - **最后更新**：2023-05-10
 - **GitHub**：[ozntel/ozanshare-publish-plugin](https://github.com/ozntel/ozanshare-publish-plugin)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

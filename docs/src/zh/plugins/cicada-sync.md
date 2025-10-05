@@ -6,7 +6,7 @@ downloads: 1051
 updated: 1710175404000
 repo: adapole/cicada-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1710175404000"
   repo="adapole/cicada-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ uses Git to synchronize vaults for team collaboration.
 - **下载量**：1.1K
 - **最后更新**：2024-03-12
 - **GitHub**：[adapole/cicada-sync](https://github.com/adapole/cicada-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

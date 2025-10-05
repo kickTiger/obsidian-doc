@@ -2,11 +2,11 @@
 title: Template Folder
 description: Moves notes to a folder when applying a template.
 author: LucasOe
-downloads: 223
+downloads: 225
 updated: 1752153065000
 repo: LucasOe/obsidian-template-folder
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Template Folder"
   description="Moves notes to a folder when applying a template."
   author="LucasOe"
-  :downloads="223"
+  :downloads="225"
   :updated="1752153065000"
   repo="LucasOe/obsidian-template-folder"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Moves notes to a folder when applying a template.
 - **插件 ID**：template-folder
 - **作者**：LucasOe
 - **当前版本**：v1.0.0
-- **下载量**：223
+- **下载量**：225
 - **最后更新**：2025-07-10
 - **GitHub**：[LucasOe/obsidian-template-folder](https://github.com/LucasOe/obsidian-template-folder)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Rendered Block Link Suggestions
-description: 'Upgrade Obsidian''s built-in link suggestions with block Markdown rendering.'
+description: 使用块 Markdown 渲染功能升级 Obsidian 的内置链接建议。
 author: Ryota Ushio
-downloads: 4672
+downloads: 4686
 updated: 1702549573000
 repo: RyotaUshio/obsidian-rendered-block-link-suggestions
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="rendered-block-link-suggestions"
   name="Rendered Block Link Suggestions"
-  description="Upgrade Obsidian&#39;s built-in link suggestions with block Markdown rendering."
+  description="使用块 Markdown 渲染功能升级 Obsidian 的内置链接建议。"
   author="Ryota Ushio"
-  :downloads="4672"
+  :downloads="4686"
   :updated="1702549573000"
   repo="RyotaUshio/obsidian-rendered-block-link-suggestions"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Rendered Block Link Suggestions 是一个功能强大的 Obsidian 插件。
 
-Upgrade Obsidian&#39;s built-in link suggestions with block Markdown rendering.
+使用块 Markdown 渲染功能升级 Obsidian 的内置链接建议。
 
 通过 Rendered Block Link Suggestions,您可以:
 
@@ -202,7 +202,7 @@ Upgrade Obsidian&#39;s built-in link suggestions with block Markdown rendering.
 - **下载量**：4.7K
 - **最后更新**：2023-12-14
 - **GitHub**：[RyotaUshio/obsidian-rendered-block-link-suggestions](https://github.com/RyotaUshio/obsidian-rendered-block-link-suggestions)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

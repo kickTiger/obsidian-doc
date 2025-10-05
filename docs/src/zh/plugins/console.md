@@ -1,12 +1,12 @@
 ---
 title: Console Markdown
-description: Render console commands and their output.
+description: 渲染控制台命令及其输出。
 author: Daniel Ellermann
-downloads: 5053
+downloads: 5054
 updated: 1707127677000
 repo: dellermann/obsidian-console
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="console"
   name="Console Markdown"
-  description="Render console commands and their output."
+  description="渲染控制台命令及其输出。"
   author="Daniel Ellermann"
-  :downloads="5053"
+  :downloads="5054"
   :updated="1707127677000"
   repo="dellermann/obsidian-console"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Console Markdown 是一个功能强大的 Obsidian 插件。
 
-Render console commands and their output.
+渲染控制台命令及其输出。
 
 通过 Console Markdown,您可以:
 
@@ -202,7 +202,7 @@ Render console commands and their output.
 - **下载量**：5.1K
 - **最后更新**：2024-02-05
 - **GitHub**：[dellermann/obsidian-console](https://github.com/dellermann/obsidian-console)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

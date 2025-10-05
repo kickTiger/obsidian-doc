@@ -2,11 +2,11 @@
 title: LaTeX Math
 description: Evaluate, solve and much more within LaTeX blocks using Sympy.
 author: Zarstensen
-downloads: 2026
+downloads: 2041
 updated: 1757758982000
 repo: zarstensen/obsidian-latex-math
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="LaTeX Math"
   description="Evaluate, solve and much more within LaTeX blocks using Sympy."
   author="Zarstensen"
-  :downloads="2026"
+  :downloads="2041"
   :updated="1757758982000"
   repo="zarstensen/obsidian-latex-math"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Evaluate, solve and much more within LaTeX blocks using Sympy.
 - **下载量**：2.0K
 - **最后更新**：2025-09-13
 - **GitHub**：[zarstensen/obsidian-latex-math](https://github.com/zarstensen/obsidian-latex-math)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

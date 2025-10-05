@@ -1,12 +1,12 @@
 ---
 title: Tab Switcher
-description: Switch your tabs with Ctrl + Tab in recently used order like in a browser.
+description: 使用 Ctrl + Tab 按最近使用顺序切换标签页，就像在浏览器中一样。
 author: 'Vinzent & phibr0'
-downloads: 76609
+downloads: 76623
 updated: 1692641864000
 repo: Vinzent03/tab-switcher
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cycle-through-panes"
   name="Tab Switcher"
-  description="Switch your tabs with Ctrl + Tab in recently used order like in a browser."
+  description="使用 Ctrl + Tab 按最近使用顺序切换标签页，就像在浏览器中一样。"
   author="Vinzent &amp; phibr0"
-  :downloads="76609"
+  :downloads="76623"
   :updated="1692641864000"
   repo="Vinzent03/tab-switcher"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tab Switcher 是一个功能强大的 Obsidian 插件。
 
-Switch your tabs with Ctrl + Tab in recently used order like in a browser.
+使用 Ctrl + Tab 按最近使用顺序切换标签页，就像在浏览器中一样。
 
 通过 Tab Switcher,您可以:
 
@@ -202,7 +202,7 @@ Switch your tabs with Ctrl + Tab in recently used order like in a browser.
 - **下载量**：76.6K
 - **最后更新**：2023-08-22
 - **GitHub**：[Vinzent03/tab-switcher](https://github.com/Vinzent03/tab-switcher)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

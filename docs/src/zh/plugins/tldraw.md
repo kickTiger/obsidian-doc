@@ -1,12 +1,12 @@
 ---
 title: Tldraw
-description: Use Tldraw to draw and edit content on a virtual whiteboard.
+description: 使用 Tldraw 在虚拟白板上绘制和编辑内容。
 author: Sam Alhaqab
-downloads: 52138
+downloads: 52226
 updated: 1756728529000
 repo: szamsolo/tldraw-in-obsidian
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tldraw"
   name="Tldraw"
-  description="Use Tldraw to draw and edit content on a virtual whiteboard."
+  description="使用 Tldraw 在虚拟白板上绘制和编辑内容。"
   author="Sam Alhaqab"
-  :downloads="52138"
+  :downloads="52226"
   :updated="1756728529000"
   repo="szamsolo/tldraw-in-obsidian"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tldraw 是一个功能强大的 Obsidian 插件。
 
-Use Tldraw to draw and edit content on a virtual whiteboard.
+使用 Tldraw 在虚拟白板上绘制和编辑内容。
 
 通过 Tldraw,您可以:
 
@@ -199,10 +199,10 @@ Use Tldraw to draw and edit content on a virtual whiteboard.
 - **插件 ID**：tldraw
 - **作者**：Sam Alhaqab
 - **当前版本**：v1.0.0
-- **下载量**：52.1K
+- **下载量**：52.2K
 - **最后更新**：2025-09-01
 - **GitHub**：[szamsolo/tldraw-in-obsidian](https://github.com/szamsolo/tldraw-in-obsidian)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Chemical Structure Renderer
-description: Render chemical structures from SMILES strings into PNG or SVG format using Ketcher and Indigo Service.
+description: 使用 Ketcher 和 Indigo 服务将 SMILES 字符串中的化学结构渲染为 PNG 或 SVG 格式。
 author: xaya1001
-downloads: 5333
+downloads: 5336
 updated: 1738663611000
 repo: xaya1001/obsidian-Chemical-Structure-Renderer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chemical-structure-renderer"
   name="Chemical Structure Renderer"
-  description="Render chemical structures from SMILES strings into PNG or SVG format using Ketcher and Indigo Service."
+  description="使用 Ketcher 和 Indigo 服务将 SMILES 字符串中的化学结构渲染为 PNG 或 SVG 格式。"
   author="xaya1001"
-  :downloads="5333"
+  :downloads="5336"
   :updated="1738663611000"
   repo="xaya1001/obsidian-Chemical-Structure-Renderer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chemical Structure Renderer 是一个功能强大的 Obsidian 插件。
 
-Render chemical structures from SMILES strings into PNG or SVG format using Ketcher and Indigo Service.
+使用 Ketcher 和 Indigo 服务将 SMILES 字符串中的化学结构渲染为 PNG 或 SVG 格式。
 
 通过 Chemical Structure Renderer,您可以:
 
@@ -202,7 +202,7 @@ Render chemical structures from SMILES strings into PNG or SVG format using Ketc
 - **下载量**：5.3K
 - **最后更新**：2025-02-04
 - **GitHub**：[xaya1001/obsidian-Chemical-Structure-Renderer](https://github.com/xaya1001/obsidian-Chemical-Structure-Renderer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

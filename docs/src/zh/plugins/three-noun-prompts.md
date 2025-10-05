@@ -6,7 +6,7 @@ downloads: 238
 updated: 1732077261000
 repo: jamespeachh/Three-Noun-Prompts
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1732077261000"
   repo="jamespeachh/Three-Noun-Prompts"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Creative writing prompts that can be synced offline.
 - **下载量**：238
 - **最后更新**：2024-11-20
 - **GitHub**：[jamespeachh/Three-Noun-Prompts](https://github.com/jamespeachh/Three-Noun-Prompts)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

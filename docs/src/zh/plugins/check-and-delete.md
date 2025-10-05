@@ -2,11 +2,11 @@
 title: Check and Delete
 description: Quickly clean up temporary list-items with the press of a button
 author: Danitiate
-downloads: 528
+downloads: 530
 updated: 1736171501000
 repo: Danitiate/check-and-delete
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Check and Delete"
   description="Quickly clean up temporary list-items with the press of a button"
   author="Danitiate"
-  :downloads="528"
+  :downloads="530"
   :updated="1736171501000"
   repo="Danitiate/check-and-delete"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Quickly clean up temporary list-items with the press of a button
 - **插件 ID**：check-and-delete
 - **作者**：Danitiate
 - **当前版本**：v1.0.0
-- **下载量**：528
+- **下载量**：530
 - **最后更新**：2025-01-06
 - **GitHub**：[Danitiate/check-and-delete](https://github.com/Danitiate/check-and-delete)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

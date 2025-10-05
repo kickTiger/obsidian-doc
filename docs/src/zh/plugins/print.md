@@ -1,12 +1,12 @@
 ---
 title: Print
-description: Print notes and documents directly from your workspace.
+description: 直接从工作区打印笔记和文件。
 author: Marijn Bent
-downloads: 14798
+downloads: 14835
 updated: 1739306890000
 repo: marijnbent/obsidian-print
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="print"
   name="Print"
-  description="Print notes and documents directly from your workspace."
+  description="直接从工作区打印笔记和文件。"
   author="Marijn Bent"
-  :downloads="14798"
+  :downloads="14835"
   :updated="1739306890000"
   repo="marijnbent/obsidian-print"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Print 是一个功能强大的 Obsidian 插件。
 
-Print notes and documents directly from your workspace.
+直接从工作区打印笔记和文件。
 
 通过 Print,您可以:
 
@@ -202,7 +202,7 @@ Print notes and documents directly from your workspace.
 - **下载量**：14.8K
 - **最后更新**：2025-02-12
 - **GitHub**：[marijnbent/obsidian-print](https://github.com/marijnbent/obsidian-print)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

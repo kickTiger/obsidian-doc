@@ -1,12 +1,12 @@
 ---
 title: Mehrmaid
-description: Enables you to put Markdown inside of Mermaid diagrams.
+description: 使您能在 Mermaid 图表中使用 Markdown。
 author: huterguier
-downloads: 21874
+downloads: 21905
 updated: 1713867308000
 repo: huterguier/obsidian-mehrmaid
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mehrmaid"
   name="Mehrmaid"
-  description="Enables you to put Markdown inside of Mermaid diagrams."
+  description="使您能在 Mermaid 图表中使用 Markdown。"
   author="huterguier"
-  :downloads="21874"
+  :downloads="21905"
   :updated="1713867308000"
   repo="huterguier/obsidian-mehrmaid"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mehrmaid 是一个功能强大的 Obsidian 插件。
 
-Enables you to put Markdown inside of Mermaid diagrams.
+使您能在 Mermaid 图表中使用 Markdown。
 
 通过 Mehrmaid,您可以:
 
@@ -202,7 +202,7 @@ Enables you to put Markdown inside of Mermaid diagrams.
 - **下载量**：21.9K
 - **最后更新**：2024-04-23
 - **GitHub**：[huterguier/obsidian-mehrmaid](https://github.com/huterguier/obsidian-mehrmaid)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

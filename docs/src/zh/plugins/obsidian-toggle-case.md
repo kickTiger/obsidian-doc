@@ -1,12 +1,12 @@
 ---
 title: Toggle Case
-description: 'Set a hotkey to toggle between `lowercase` `UPPERCASE` and `Title Case`.'
+description: '设置一个热键，在 "小写"、"大写 "和 "标题大小写 "之间切换。'
 author: automattech
-downloads: 6225
+downloads: 6226
 updated: 1670788522000
 repo: MatthewAlner/obsidian-toggle-case
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-toggle-case"
   name="Toggle Case"
-  description="Set a hotkey to toggle between `lowercase` `UPPERCASE` and `Title Case`."
+  description="设置一个热键，在 &quot;小写&quot;、&quot;大写 &quot;和 &quot;标题大小写 &quot;之间切换。"
   author="automattech"
-  :downloads="6225"
+  :downloads="6226"
   :updated="1670788522000"
   repo="MatthewAlner/obsidian-toggle-case"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Toggle Case 是一个功能强大的 Obsidian 插件。
 
-Set a hotkey to toggle between `lowercase` `UPPERCASE` and `Title Case`.
+设置一个热键，在 &quot;小写&quot;、&quot;大写 &quot;和 &quot;标题大小写 &quot;之间切换。
 
 通过 Toggle Case,您可以:
 
@@ -202,7 +202,7 @@ Set a hotkey to toggle between `lowercase` `UPPERCASE` and `Title Case`.
 - **下载量**：6.2K
 - **最后更新**：2022-12-12
 - **GitHub**：[MatthewAlner/obsidian-toggle-case](https://github.com/MatthewAlner/obsidian-toggle-case)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

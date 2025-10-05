@@ -1,12 +1,12 @@
 ---
 title: 'Find & Replace in Selection'
-description: Replace text within your current selection.
+description: 替换当前选区内的文本。
 author: TClark1011
-downloads: 7029
+downloads: 7030
 updated: 1636948913000
 repo: TClark1011/obsidian-find-and-replace-in-selection
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-find-and-replace-in-selection"
   name="Find &amp; Replace in Selection"
-  description="Replace text within your current selection."
+  description="替换当前选区内的文本。"
   author="TClark1011"
-  :downloads="7029"
+  :downloads="7030"
   :updated="1636948913000"
   repo="TClark1011/obsidian-find-and-replace-in-selection"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Find &amp; Replace in Selection 是一个功能强大的 Obsidian 插件。
 
-Replace text within your current selection.
+替换当前选区内的文本。
 
 通过 Find &amp; Replace in Selection,您可以:
 
@@ -202,7 +202,7 @@ Replace text within your current selection.
 - **下载量**：7.0K
 - **最后更新**：2021-11-15
 - **GitHub**：[TClark1011/obsidian-find-and-replace-in-selection](https://github.com/TClark1011/obsidian-find-and-replace-in-selection)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

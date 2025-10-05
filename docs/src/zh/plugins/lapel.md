@@ -1,12 +1,12 @@
 ---
 title: Lapel
-description: Show the heading levels in the gutter of the editor.
+description: 在编辑器的沟槽中显示标题层次。
 author: Liam Cain
-downloads: 27892
+downloads: 27933
 updated: 1754922445000
 repo: liamcain/obsidian-lapel
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="lapel"
   name="Lapel"
-  description="Show the heading levels in the gutter of the editor."
+  description="在编辑器的沟槽中显示标题层次。"
   author="Liam Cain"
-  :downloads="27892"
+  :downloads="27933"
   :updated="1754922445000"
   repo="liamcain/obsidian-lapel"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Lapel 是一个功能强大的 Obsidian 插件。
 
-Show the heading levels in the gutter of the editor.
+在编辑器的沟槽中显示标题层次。
 
 通过 Lapel,您可以:
 
@@ -202,7 +202,7 @@ Show the heading levels in the gutter of the editor.
 - **下载量**：27.9K
 - **最后更新**：2025-08-11
 - **GitHub**：[liamcain/obsidian-lapel](https://github.com/liamcain/obsidian-lapel)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 275
 updated: 1730710061000
 repo: kbwo/obsidian-click-hint
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1730710061000"
   repo="kbwo/obsidian-click-hint"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Provide keyboard-driven hints for clickable elements.
 - **下载量**：275
 - **最后更新**：2024-11-04
 - **GitHub**：[kbwo/obsidian-click-hint](https://github.com/kbwo/obsidian-click-hint)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Google Photos
-description: Google Photos integration.
+description: 谷歌照片集成
 author: Alan Grainger
-downloads: 15166
+downloads: 15177
 updated: 1751419708000
 repo: alangrainger/obsidian-google-photos
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="google-photos"
   name="Google Photos"
-  description="Google Photos integration."
+  description="谷歌照片集成"
   author="Alan Grainger"
-  :downloads="15166"
+  :downloads="15177"
   :updated="1751419708000"
   repo="alangrainger/obsidian-google-photos"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Google Photos 是一个功能强大的 Obsidian 插件。
 
-Google Photos integration.
+谷歌照片集成
 
 通过 Google Photos,您可以:
 
@@ -202,7 +202,7 @@ Google Photos integration.
 - **下载量**：15.2K
 - **最后更新**：2025-07-02
 - **GitHub**：[alangrainger/obsidian-google-photos](https://github.com/alangrainger/obsidian-google-photos)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

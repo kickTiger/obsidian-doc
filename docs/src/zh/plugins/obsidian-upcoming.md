@@ -1,12 +1,12 @@
 ---
 title: Upcoming
-description: Open upcoming daily notes in their own panes.
+description: 在各自的窗格中打开即将发布的每日笔记。
 author: Charlie Chao
-downloads: 4465
+downloads: 4466
 updated: 1666395352000
 repo: charliecm/obsidian-upcoming
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-upcoming"
   name="Upcoming"
-  description="Open upcoming daily notes in their own panes."
+  description="在各自的窗格中打开即将发布的每日笔记。"
   author="Charlie Chao"
-  :downloads="4465"
+  :downloads="4466"
   :updated="1666395352000"
   repo="charliecm/obsidian-upcoming"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Upcoming 是一个功能强大的 Obsidian 插件。
 
-Open upcoming daily notes in their own panes.
+在各自的窗格中打开即将发布的每日笔记。
 
 通过 Upcoming,您可以:
 
@@ -202,7 +202,7 @@ Open upcoming daily notes in their own panes.
 - **下载量**：4.5K
 - **最后更新**：2022-10-22
 - **GitHub**：[charliecm/obsidian-upcoming](https://github.com/charliecm/obsidian-upcoming)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

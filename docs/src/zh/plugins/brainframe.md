@@ -1,12 +1,12 @@
 ---
 title: Brainframe
-description: Tools to make Obsidian more into our second brains.
+description: 让黑曜石更多地融入我们的第二大脑的工具。
 author: pedersen
-downloads: 4790
+downloads: 4792
 updated: 1680014017000
 repo: pedersen/obsidian-brainframe
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="brainframe"
   name="Brainframe"
-  description="Tools to make Obsidian more into our second brains."
+  description="让黑曜石更多地融入我们的第二大脑的工具。"
   author="pedersen"
-  :downloads="4790"
+  :downloads="4792"
   :updated="1680014017000"
   repo="pedersen/obsidian-brainframe"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Brainframe 是一个功能强大的 Obsidian 插件。
 
-Tools to make Obsidian more into our second brains.
+让黑曜石更多地融入我们的第二大脑的工具。
 
 通过 Brainframe,您可以:
 
@@ -202,7 +202,7 @@ Tools to make Obsidian more into our second brains.
 - **下载量**：4.8K
 - **最后更新**：2023-03-28
 - **GitHub**：[pedersen/obsidian-brainframe](https://github.com/pedersen/obsidian-brainframe)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

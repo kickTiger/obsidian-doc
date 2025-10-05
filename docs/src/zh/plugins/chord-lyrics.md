@@ -1,12 +1,12 @@
 ---
 title: Chord Lyrics
-description: Display chord names over lyrics. Supports line wrapping, section headers and auto-detection.
+description: 在歌词上显示和弦名称支持换行、章节标题和自动检测。
 author: nevernotmove
-downloads: 5307
+downloads: 5308
 updated: 1672503216000
 repo: nevernotmove/obsidian-chordlyrics
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chord-lyrics"
   name="Chord Lyrics"
-  description="Display chord names over lyrics. Supports line wrapping, section headers and auto-detection."
+  description="在歌词上显示和弦名称支持换行、章节标题和自动检测。"
   author="nevernotmove"
-  :downloads="5307"
+  :downloads="5308"
   :updated="1672503216000"
   repo="nevernotmove/obsidian-chordlyrics"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chord Lyrics 是一个功能强大的 Obsidian 插件。
 
-Display chord names over lyrics. Supports line wrapping, section headers and auto-detection.
+在歌词上显示和弦名称支持换行、章节标题和自动检测。
 
 通过 Chord Lyrics,您可以:
 
@@ -202,7 +202,7 @@ Display chord names over lyrics. Supports line wrapping, section headers and aut
 - **下载量**：5.3K
 - **最后更新**：2023-01-01
 - **GitHub**：[nevernotmove/obsidian-chordlyrics](https://github.com/nevernotmove/obsidian-chordlyrics)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

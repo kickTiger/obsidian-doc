@@ -2,11 +2,11 @@
 title: Default query in backlinks
 description: Automatically input default query in search input of backlinks in document.
 author: Benature
-downloads: 2864
+downloads: 2869
 updated: 1711865070000
 repo: Benature/obsidian-default-query-in-backlink
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Default query in backlinks"
   description="Automatically input default query in search input of backlinks in document."
   author="Benature"
-  :downloads="2864"
+  :downloads="2869"
   :updated="1711865070000"
   repo="Benature/obsidian-default-query-in-backlink"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically input default query in search input of backlinks in document.
 - **下载量**：2.9K
 - **最后更新**：2024-03-31
 - **GitHub**：[Benature/obsidian-default-query-in-backlink](https://github.com/Benature/obsidian-default-query-in-backlink)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: External File Linker
 description: Embed external files into your notes.
 author: Kay606
-downloads: 1953
+downloads: 1974
 updated: 1759151062000
 repo: Kay607/obsidian-pathlinker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="External File Linker"
   description="Embed external files into your notes."
   author="Kay606"
-  :downloads="1953"
+  :downloads="1974"
   :updated="1759151062000"
   repo="Kay607/obsidian-pathlinker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Embed external files into your notes.
 - **下载量**：2.0K
 - **最后更新**：2025-09-29
 - **GitHub**：[Kay607/obsidian-pathlinker](https://github.com/Kay607/obsidian-pathlinker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

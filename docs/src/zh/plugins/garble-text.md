@@ -1,12 +1,12 @@
 ---
 title: Garble Text
-description: Turn all content in the app (notes, sidebar, etc) into garbled text so you can take screenshots without exposing sensitive data.
+description: 将应用中的所有内容（备注、侧边栏等）转化为乱码文本，这样你就可以在不暴露敏感数据的情况下截图。
 author: kurakart
-downloads: 6610
+downloads: 6611
 updated: 1629902777000
 repo: kurakart/garble-text
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="garble-text"
   name="Garble Text"
-  description="Turn all content in the app (notes, sidebar, etc) into garbled text so you can take screenshots without exposing sensitive data."
+  description="将应用中的所有内容（备注、侧边栏等）转化为乱码文本，这样你就可以在不暴露敏感数据的情况下截图。"
   author="kurakart"
-  :downloads="6610"
+  :downloads="6611"
   :updated="1629902777000"
   repo="kurakart/garble-text"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Garble Text 是一个功能强大的 Obsidian 插件。
 
-Turn all content in the app (notes, sidebar, etc) into garbled text so you can take screenshots without exposing sensitive data.
+将应用中的所有内容（备注、侧边栏等）转化为乱码文本，这样你就可以在不暴露敏感数据的情况下截图。
 
 通过 Garble Text,您可以:
 
@@ -202,7 +202,7 @@ Turn all content in the app (notes, sidebar, etc) into garbled text so you can t
 - **下载量**：6.6K
 - **最后更新**：2021-08-25
 - **GitHub**：[kurakart/garble-text](https://github.com/kurakart/garble-text)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

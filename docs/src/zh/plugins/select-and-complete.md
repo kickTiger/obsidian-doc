@@ -6,7 +6,7 @@ downloads: 1575
 updated: 1739647351000
 repo: macro21KGB/select-and-complete
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1739647351000"
   repo="macro21KGB/select-and-complete"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Select something and let the AI complete it for you.
 - **下载量**：1.6K
 - **最后更新**：2025-02-16
 - **GitHub**：[macro21KGB/select-and-complete](https://github.com/macro21KGB/select-and-complete)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

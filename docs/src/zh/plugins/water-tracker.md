@@ -6,7 +6,7 @@ downloads: 145
 updated: 1746039022000
 repo: LuigiCerone/obsidian-water-tracker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1746039022000"
   repo="LuigiCerone/obsidian-water-tracker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Keep track of how much water you drunk
 - **下载量**：145
 - **最后更新**：2025-05-01
 - **GitHub**：[LuigiCerone/obsidian-water-tracker](https://github.com/LuigiCerone/obsidian-water-tracker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

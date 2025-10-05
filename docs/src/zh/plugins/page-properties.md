@@ -1,12 +1,12 @@
 ---
 title: Page Properties
-description: Add page properties similar to Logseq.
+description: 添加与 Logseq 类似的页面属性。
 author: Anton Bualkh
-downloads: 8050
+downloads: 8054
 updated: 1687939946000
 repo: necauqua/obsidian-page-properties
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="page-properties"
   name="Page Properties"
-  description="Add page properties similar to Logseq."
+  description="添加与 Logseq 类似的页面属性。"
   author="Anton Bualkh"
-  :downloads="8050"
+  :downloads="8054"
   :updated="1687939946000"
   repo="necauqua/obsidian-page-properties"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Page Properties 是一个功能强大的 Obsidian 插件。
 
-Add page properties similar to Logseq.
+添加与 Logseq 类似的页面属性。
 
 通过 Page Properties,您可以:
 
@@ -202,7 +202,7 @@ Add page properties similar to Logseq.
 - **下载量**：8.1K
 - **最后更新**：2023-06-28
 - **GitHub**：[necauqua/obsidian-page-properties](https://github.com/necauqua/obsidian-page-properties)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

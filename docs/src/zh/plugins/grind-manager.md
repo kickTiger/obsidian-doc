@@ -1,12 +1,12 @@
 ---
 title: Gamified Tasks
-description: Gamify your task management with rewards system, craft your tasks by tags.
+description: 利用奖励系统将任务管理游戏化，按标签精心设计任务。
 author: dromse
-downloads: 5036
+downloads: 5042
 updated: 1737054766000
 repo: dromse/obsidian-gamified-tasks
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="grind-manager"
   name="Gamified Tasks"
-  description="Gamify your task management with rewards system, craft your tasks by tags."
+  description="利用奖励系统将任务管理游戏化，按标签精心设计任务。"
   author="dromse"
-  :downloads="5036"
+  :downloads="5042"
   :updated="1737054766000"
   repo="dromse/obsidian-gamified-tasks"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Gamified Tasks 是一个功能强大的 Obsidian 插件。
 
-Gamify your task management with rewards system, craft your tasks by tags.
+利用奖励系统将任务管理游戏化，按标签精心设计任务。
 
 通过 Gamified Tasks,您可以:
 
@@ -202,7 +202,7 @@ Gamify your task management with rewards system, craft your tasks by tags.
 - **下载量**：5.0K
 - **最后更新**：2025-01-17
 - **GitHub**：[dromse/obsidian-gamified-tasks](https://github.com/dromse/obsidian-gamified-tasks)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Floccus Bookmarks to Markdown
-description: Import and convert your bookmarks from Floccus.
+description: 从 Floccus 导入和转换书签。
 author: mddevils
-downloads: 5885
+downloads: 5888
 updated: 1690307356000
 repo: mddevils/floccus-bookmarks-to-markdown
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="floccus-bookmarks-to-markdown"
   name="Floccus Bookmarks to Markdown"
-  description="Import and convert your bookmarks from Floccus."
+  description="从 Floccus 导入和转换书签。"
   author="mddevils"
-  :downloads="5885"
+  :downloads="5888"
   :updated="1690307356000"
   repo="mddevils/floccus-bookmarks-to-markdown"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Floccus Bookmarks to Markdown 是一个功能强大的 Obsidian 插件。
 
-Import and convert your bookmarks from Floccus.
+从 Floccus 导入和转换书签。
 
 通过 Floccus Bookmarks to Markdown,您可以:
 
@@ -202,7 +202,7 @@ Import and convert your bookmarks from Floccus.
 - **下载量**：5.9K
 - **最后更新**：2023-07-26
 - **GitHub**：[mddevils/floccus-bookmarks-to-markdown](https://github.com/mddevils/floccus-bookmarks-to-markdown)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

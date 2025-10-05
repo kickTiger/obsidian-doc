@@ -1,12 +1,12 @@
 ---
 title: Cardify
-description: Create links for blocks in a Markdown file and generate Markdown file for each link within a folder. Enabling drag-and-drop of cards onto canvas.
+description: 在 Markdown 文件中为区块创建链接，并为文件夹中的每个链接生成 Markdown 文件。支持在画布上拖放卡片。
 author: joshuakto
-downloads: 5018
+downloads: 5019
 updated: 1709003803000
 repo: joshuakto/obsidian-cardify
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cardify"
   name="Cardify"
-  description="Create links for blocks in a Markdown file and generate Markdown file for each link within a folder. Enabling drag-and-drop of cards onto canvas."
+  description="在 Markdown 文件中为区块创建链接，并为文件夹中的每个链接生成 Markdown 文件。支持在画布上拖放卡片。"
   author="joshuakto"
-  :downloads="5018"
+  :downloads="5019"
   :updated="1709003803000"
   repo="joshuakto/obsidian-cardify"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Cardify 是一个功能强大的 Obsidian 插件。
 
-Create links for blocks in a Markdown file and generate Markdown file for each link within a folder. Enabling drag-and-drop of cards onto canvas.
+在 Markdown 文件中为区块创建链接，并为文件夹中的每个链接生成 Markdown 文件。支持在画布上拖放卡片。
 
 通过 Cardify,您可以:
 
@@ -202,7 +202,7 @@ Create links for blocks in a Markdown file and generate Markdown file for each l
 - **下载量**：5.0K
 - **最后更新**：2024-02-27
 - **GitHub**：[joshuakto/obsidian-cardify](https://github.com/joshuakto/obsidian-cardify)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

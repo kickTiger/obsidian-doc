@@ -1,12 +1,12 @@
 ---
 title: At People
-description: 'Use the familiar @ notation to cross link to people files in a people folder.'
+description: '使用熟悉的 @ 符号交叉链接到人员文件夹中的人员文件。'
 author: Tobias Davis
-downloads: 6580
+downloads: 6581
 updated: 1693171788000
 repo: saibotsivad/obsidian-at-people
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="at-people"
   name="At People"
-  description="Use the familiar @ notation to cross link to people files in a people folder."
+  description="使用熟悉的 @ 符号交叉链接到人员文件夹中的人员文件。"
   author="Tobias Davis"
-  :downloads="6580"
+  :downloads="6581"
   :updated="1693171788000"
   repo="saibotsivad/obsidian-at-people"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 At People 是一个功能强大的 Obsidian 插件。
 
-Use the familiar @ notation to cross link to people files in a people folder.
+使用熟悉的 @ 符号交叉链接到人员文件夹中的人员文件。
 
 通过 At People,您可以:
 
@@ -202,7 +202,7 @@ Use the familiar @ notation to cross link to people files in a people folder.
 - **下载量**：6.6K
 - **最后更新**：2023-08-28
 - **GitHub**：[saibotsivad/obsidian-at-people](https://github.com/saibotsivad/obsidian-at-people)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

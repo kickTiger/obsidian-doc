@@ -2,11 +2,11 @@
 title: NodeFlow
 description: 'Render node streams like `ComfyUi`, `UE`, `Houdini`, `Blender`, etc., to make it easy to write relevant notes. JSON describes the chart, compared to screenshots, making it easier to modify later. The plugin is also compatible with blogs.'
 author: LincZero
-downloads: 775
+downloads: 776
 updated: 1734479963000
 repo: LincZero/obsidian-node-flow
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="NodeFlow"
   description="Render node streams like `ComfyUi`, `UE`, `Houdini`, `Blender`, etc., to make it easy to write relevant notes. JSON describes the chart, compared to screenshots, making it easier to modify later. The plugin is also compatible with blogs."
   author="LincZero"
-  :downloads="775"
+  :downloads="776"
   :updated="1734479963000"
   repo="LincZero/obsidian-node-flow"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Render node streams like `ComfyUi`, `UE`, `Houdini`, `Blender`, etc., to make it
 - **插件 ID**：node-flow
 - **作者**：LincZero
 - **当前版本**：v1.0.0
-- **下载量**：775
+- **下载量**：776
 - **最后更新**：2024-12-18
 - **GitHub**：[LincZero/obsidian-node-flow](https://github.com/LincZero/obsidian-node-flow)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

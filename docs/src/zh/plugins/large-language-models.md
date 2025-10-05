@@ -2,11 +2,11 @@
 title: Large Language Models
 description: Enables access to LLMs via remote providers (OpenAI, Claude, Gemini) and local LLMs via GPT4ALL.
 author: 'eharris128, r-mahoney, & jsmorabito'
-downloads: 2119
+downloads: 2137
 updated: 1756749608000
 repo: eharris128/Obsidian-LLM-Plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Large Language Models"
   description="Enables access to LLMs via remote providers (OpenAI, Claude, Gemini) and local LLMs via GPT4ALL."
   author="eharris128, r-mahoney, &amp; jsmorabito"
-  :downloads="2119"
+  :downloads="2137"
   :updated="1756749608000"
   repo="eharris128/Obsidian-LLM-Plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enables access to LLMs via remote providers (OpenAI, Claude, Gemini) and local L
 - **下载量**：2.1K
 - **最后更新**：2025-09-02
 - **GitHub**：[eharris128/Obsidian-LLM-Plugin](https://github.com/eharris128/Obsidian-LLM-Plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

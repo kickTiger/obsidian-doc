@@ -2,11 +2,11 @@
 title: Table List
 description: Adds a table view to manage your tasks.
 author: Akaswan
-downloads: 309
+downloads: 311
 updated: 1746753664000
 repo: Akaswan/table-list
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Table List"
   description="Adds a table view to manage your tasks."
   author="Akaswan"
-  :downloads="309"
+  :downloads="311"
   :updated="1746753664000"
   repo="Akaswan/table-list"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Adds a table view to manage your tasks.
 - **插件 ID**：table-list
 - **作者**：Akaswan
 - **当前版本**：v1.0.0
-- **下载量**：309
+- **下载量**：311
 - **最后更新**：2025-05-09
 - **GitHub**：[Akaswan/table-list](https://github.com/Akaswan/table-list)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

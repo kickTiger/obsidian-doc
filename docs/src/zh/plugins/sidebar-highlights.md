@@ -1,12 +1,12 @@
 ---
 title: Sidebar Highlights
-description: View and manage text highlights, comments on highlights, native comments, and collections for your highlights.
+description: 查看和管理文本摘要、摘要注释、本地注释和摘要集。
 author: trevware
-downloads: 8897
+downloads: 8966
 updated: 1753660957000
 repo: trevware/obsidian-sidebar-highlights
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="sidebar-highlights"
   name="Sidebar Highlights"
-  description="View and manage text highlights, comments on highlights, native comments, and collections for your highlights."
+  description="查看和管理文本摘要、摘要注释、本地注释和摘要集。"
   author="trevware"
-  :downloads="8897"
+  :downloads="8966"
   :updated="1753660957000"
   repo="trevware/obsidian-sidebar-highlights"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sidebar Highlights 是一个功能强大的 Obsidian 插件。
 
-View and manage text highlights, comments on highlights, native comments, and collections for your highlights.
+查看和管理文本摘要、摘要注释、本地注释和摘要集。
 
 通过 Sidebar Highlights,您可以:
 
@@ -199,10 +199,10 @@ View and manage text highlights, comments on highlights, native comments, and co
 - **插件 ID**：sidebar-highlights
 - **作者**：trevware
 - **当前版本**：v1.0.0
-- **下载量**：8.9K
+- **下载量**：9.0K
 - **最后更新**：2025-07-28
 - **GitHub**：[trevware/obsidian-sidebar-highlights](https://github.com/trevware/obsidian-sidebar-highlights)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

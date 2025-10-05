@@ -1,12 +1,12 @@
 ---
 title: Zen
-description: Add a focus mode.
+description: 添加对焦模式。
 author: Maxymillion
-downloads: 10864
+downloads: 10877
 updated: 1690199715000
 repo: Maxymillion/zen
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="zen"
   name="Zen"
-  description="Add a focus mode."
+  description="添加对焦模式。"
   author="Maxymillion"
-  :downloads="10864"
+  :downloads="10877"
   :updated="1690199715000"
   repo="Maxymillion/zen"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Zen 是一个功能强大的 Obsidian 插件。
 
-Add a focus mode.
+添加对焦模式。
 
 通过 Zen,您可以:
 
@@ -202,7 +202,7 @@ Add a focus mode.
 - **下载量**：10.9K
 - **最后更新**：2023-07-24
 - **GitHub**：[Maxymillion/zen](https://github.com/Maxymillion/zen)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

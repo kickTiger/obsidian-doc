@@ -6,7 +6,7 @@ downloads: 282
 updated: 1756307485000
 repo: TiagoJacinto/obsidian-object-oriented-thinking
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1756307485000"
   repo="TiagoJacinto/obsidian-object-oriented-thinking"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add inheritance-like behavior to notes.
 - **下载量**：282
 - **最后更新**：2025-08-27
 - **GitHub**：[TiagoJacinto/obsidian-object-oriented-thinking](https://github.com/TiagoJacinto/obsidian-object-oriented-thinking)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

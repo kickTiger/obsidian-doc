@@ -6,7 +6,7 @@ downloads: 227
 updated: 1749791866000
 repo: JimJamBimBam/obsidian-log-keeper
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1749791866000"
   repo="JimJamBimBam/obsidian-log-keeper"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate time stamps automatically as changes are made to a note.
 - **下载量**：227
 - **最后更新**：2025-06-13
 - **GitHub**：[JimJamBimBam/obsidian-log-keeper](https://github.com/JimJamBimBam/obsidian-log-keeper)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

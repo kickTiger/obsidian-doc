@@ -1,12 +1,12 @@
 ---
 title: Crypto Lookup
-description: Use the Cryptonator API to pull prices for crypto in a target currency.
+description: 使用 Cryptonator API 提取目标货币的加密货币价格。
 author: Andrew Lombardi
-downloads: 4029
+downloads: 4030
 updated: 1635218415000
 repo: kinabalu/obsidian-crypto-lookup
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-crypto-lookup"
   name="Crypto Lookup"
-  description="Use the Cryptonator API to pull prices for crypto in a target currency."
+  description="使用 Cryptonator API 提取目标货币的加密货币价格。"
   author="Andrew Lombardi"
-  :downloads="4029"
+  :downloads="4030"
   :updated="1635218415000"
   repo="kinabalu/obsidian-crypto-lookup"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Crypto Lookup 是一个功能强大的 Obsidian 插件。
 
-Use the Cryptonator API to pull prices for crypto in a target currency.
+使用 Cryptonator API 提取目标货币的加密货币价格。
 
 通过 Crypto Lookup,您可以:
 
@@ -202,7 +202,7 @@ Use the Cryptonator API to pull prices for crypto in a target currency.
 - **下载量**：4.0K
 - **最后更新**：2021-10-26
 - **GitHub**：[kinabalu/obsidian-crypto-lookup](https://github.com/kinabalu/obsidian-crypto-lookup)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

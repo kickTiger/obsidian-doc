@@ -1,12 +1,12 @@
 ---
 title: Local images plus
-description: A reincarnation of Local Images to download images in Markdown notes to local storage.
+description: 查找外部图片链接并下载到本地。
 author: catalysm, aleksey-rezvov, Sergei Korneev
-downloads: 99326
+downloads: 99454
 updated: 1757022305000
 repo: Sergei-Korneev/obsidian-local-images-plus
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-local-images-plus"
   name="Local images plus"
-  description="A reincarnation of Local Images to download images in Markdown notes to local storage."
+  description="查找外部图片链接并下载到本地。"
   author="catalysm, aleksey-rezvov, Sergei Korneev"
-  :downloads="99326"
+  :downloads="99454"
   :updated="1757022305000"
   repo="Sergei-Korneev/obsidian-local-images-plus"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Local images plus 是一个功能强大的 Obsidian 插件。
 
-A reincarnation of Local Images to download images in Markdown notes to local storage.
+查找外部图片链接并下载到本地。
 
 通过 Local images plus,您可以:
 
@@ -199,10 +199,10 @@ A reincarnation of Local Images to download images in Markdown notes to local st
 - **插件 ID**：obsidian-local-images-plus
 - **作者**：catalysm, aleksey-rezvov, Sergei Korneev
 - **当前版本**：v1.0.0
-- **下载量**：99.3K
+- **下载量**：99.5K
 - **最后更新**：2025-09-05
 - **GitHub**：[Sergei-Korneev/obsidian-local-images-plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

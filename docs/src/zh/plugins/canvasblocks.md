@@ -2,11 +2,11 @@
 title: Canvas Blocks
 description: Execute python scripts from canvas
 author: Kay606
-downloads: 1665
+downloads: 1668
 updated: 1720984438000
 repo: Kay607/obsidian-canvasblocks
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Canvas Blocks"
   description="Execute python scripts from canvas"
   author="Kay606"
-  :downloads="1665"
+  :downloads="1668"
   :updated="1720984438000"
   repo="Kay607/obsidian-canvasblocks"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Execute python scripts from canvas
 - **下载量**：1.7K
 - **最后更新**：2024-07-15
 - **GitHub**：[Kay607/obsidian-canvasblocks](https://github.com/Kay607/obsidian-canvasblocks)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

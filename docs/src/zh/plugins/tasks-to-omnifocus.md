@@ -1,12 +1,12 @@
 ---
 title: Send Tasks to OmniFocus
-description: Extract tasks from the current note and create them in OmniFocus.
+description: 从当前便笺中提取任务并在 OmniFocus 中创建它们。
 author: Henry Gustafson
-downloads: 6558
+downloads: 6561
 updated: 1725302376000
 repo: lizard-heart/obsidian-to-omnifocus
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tasks-to-omnifocus"
   name="Send Tasks to OmniFocus"
-  description="Extract tasks from the current note and create them in OmniFocus."
+  description="从当前便笺中提取任务并在 OmniFocus 中创建它们。"
   author="Henry Gustafson"
-  :downloads="6558"
+  :downloads="6561"
   :updated="1725302376000"
   repo="lizard-heart/obsidian-to-omnifocus"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Send Tasks to OmniFocus 是一个功能强大的 Obsidian 插件。
 
-Extract tasks from the current note and create them in OmniFocus.
+从当前便笺中提取任务并在 OmniFocus 中创建它们。
 
 通过 Send Tasks to OmniFocus,您可以:
 
@@ -202,7 +202,7 @@ Extract tasks from the current note and create them in OmniFocus.
 - **下载量**：6.6K
 - **最后更新**：2024-09-03
 - **GitHub**：[lizard-heart/obsidian-to-omnifocus](https://github.com/lizard-heart/obsidian-to-omnifocus)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

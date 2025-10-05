@@ -2,11 +2,11 @@
 title: Checkbox Sounds
 description: Adds a nice completion sound to checkboxes when ticked off
 author: yasd251
-downloads: 2451
+downloads: 2455
 updated: 1716773757000
 repo: yasd251/checkbox-sounds-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Checkbox Sounds"
   description="Adds a nice completion sound to checkboxes when ticked off"
   author="yasd251"
-  :downloads="2451"
+  :downloads="2455"
   :updated="1716773757000"
   repo="yasd251/checkbox-sounds-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds a nice completion sound to checkboxes when ticked off
 - **下载量**：2.5K
 - **最后更新**：2024-05-27
 - **GitHub**：[yasd251/checkbox-sounds-plugin](https://github.com/yasd251/checkbox-sounds-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

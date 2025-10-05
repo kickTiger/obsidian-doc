@@ -1,12 +1,12 @@
 ---
 title: Mononote
-description: Ensure each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.
+description: 确保每个笔记只占用一个标签页。如果某个笔记已经打开，其现有标签页将被聚焦，而不是在当前标签页中打开同一个文件。
 author: Carlo Zottmann
-downloads: 23392
+downloads: 23418
 updated: 1719232218000
 repo: czottmann/obsidian-mononote
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mononote"
   name="Mononote"
-  description="Ensure each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab."
+  description="确保每个笔记只占用一个标签页。如果某个笔记已经打开，其现有标签页将被聚焦，而不是在当前标签页中打开同一个文件。"
   author="Carlo Zottmann"
-  :downloads="23392"
+  :downloads="23418"
   :updated="1719232218000"
   repo="czottmann/obsidian-mononote"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mononote 是一个功能强大的 Obsidian 插件。
 
-Ensure each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.
+确保每个笔记只占用一个标签页。如果某个笔记已经打开，其现有标签页将被聚焦，而不是在当前标签页中打开同一个文件。
 
 通过 Mononote,您可以:
 
@@ -202,7 +202,7 @@ Ensure each note occupies only one tab. If a note is already open, its existing 
 - **下载量**：23.4K
 - **最后更新**：2024-06-24
 - **GitHub**：[czottmann/obsidian-mononote](https://github.com/czottmann/obsidian-mononote)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

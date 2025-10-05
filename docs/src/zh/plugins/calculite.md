@@ -2,11 +2,11 @@
 title: Calculite
 description: Standard calculator with a simple button layout.
 author: Holo
-downloads: 1013
+downloads: 1020
 updated: 1751600685000
 repo: gfxholo/calculite
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Calculite"
   description="Standard calculator with a simple button layout."
   author="Holo"
-  :downloads="1013"
+  :downloads="1020"
   :updated="1751600685000"
   repo="gfxholo/calculite"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Standard calculator with a simple button layout.
 - **下载量**：1.0K
 - **最后更新**：2025-07-04
 - **GitHub**：[gfxholo/calculite](https://github.com/gfxholo/calculite)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

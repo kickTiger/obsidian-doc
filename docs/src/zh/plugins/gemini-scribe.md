@@ -1,12 +1,12 @@
 ---
 title: Gemini Scribe
-description: Allows you to interact with Gemini and use your notes as context.
+description: 允许您与双子座互动，并使用您的笔记作为上下文。
 author: Allen Hutchison
-downloads: 9150
+downloads: 9181
 updated: 1759002386000
 repo: allenhutchison/obsidian-gemini
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gemini-scribe"
   name="Gemini Scribe"
-  description="Allows you to interact with Gemini and use your notes as context."
+  description="允许您与双子座互动，并使用您的笔记作为上下文。"
   author="Allen Hutchison"
-  :downloads="9150"
+  :downloads="9181"
   :updated="1759002386000"
   repo="allenhutchison/obsidian-gemini"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Gemini Scribe 是一个功能强大的 Obsidian 插件。
 
-Allows you to interact with Gemini and use your notes as context.
+允许您与双子座互动，并使用您的笔记作为上下文。
 
 通过 Gemini Scribe,您可以:
 
@@ -202,7 +202,7 @@ Allows you to interact with Gemini and use your notes as context.
 - **下载量**：9.2K
 - **最后更新**：2025-09-28
 - **GitHub**：[allenhutchison/obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

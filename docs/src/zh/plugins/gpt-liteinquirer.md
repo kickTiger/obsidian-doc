@@ -1,12 +1,12 @@
 ---
 title: GPT-LiteInquirer
-description: Experience OpenAI ChatGPT assistance, drafting content without interrupting your creative flow.
+description: 体验 OpenAI ChatGPT 的辅助功能，起草内容时不会打断您的创作流程。
 author: ittuann
 downloads: 5220
 updated: 1683512249000
 repo: ittuann/obsidian-gpt-liteinquirer-plugin
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gpt-liteinquirer"
   name="GPT-LiteInquirer"
-  description="Experience OpenAI ChatGPT assistance, drafting content without interrupting your creative flow."
+  description="体验 OpenAI ChatGPT 的辅助功能，起草内容时不会打断您的创作流程。"
   author="ittuann"
   :downloads="5220"
   :updated="1683512249000"
   repo="ittuann/obsidian-gpt-liteinquirer-plugin"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 GPT-LiteInquirer 是一个功能强大的 Obsidian 插件。
 
-Experience OpenAI ChatGPT assistance, drafting content without interrupting your creative flow.
+体验 OpenAI ChatGPT 的辅助功能，起草内容时不会打断您的创作流程。
 
 通过 GPT-LiteInquirer,您可以:
 
@@ -202,7 +202,7 @@ Experience OpenAI ChatGPT assistance, drafting content without interrupting your
 - **下载量**：5.2K
 - **最后更新**：2023-05-08
 - **GitHub**：[ittuann/obsidian-gpt-liteinquirer-plugin](https://github.com/ittuann/obsidian-gpt-liteinquirer-plugin)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

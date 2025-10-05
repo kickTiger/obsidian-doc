@@ -1,12 +1,12 @@
 ---
 title: Hotkeys for Bookmarks
-description: Set an individual hotkey for the first 9 bookmarked files and open them just with your keyboard.
+description: 为前 9 个书签文件设置单独的热键，只需用键盘就能打开它们。
 author: Vinzent
-downloads: 9645
+downloads: 9646
 updated: 1712156301000
 repo: Vinzent03/obsidian-shortcuts-for-starred-files
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-shortcuts-for-starred-files"
   name="Hotkeys for Bookmarks"
-  description="Set an individual hotkey for the first 9 bookmarked files and open them just with your keyboard."
+  description="为前 9 个书签文件设置单独的热键，只需用键盘就能打开它们。"
   author="Vinzent"
-  :downloads="9645"
+  :downloads="9646"
   :updated="1712156301000"
   repo="Vinzent03/obsidian-shortcuts-for-starred-files"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hotkeys for Bookmarks 是一个功能强大的 Obsidian 插件。
 
-Set an individual hotkey for the first 9 bookmarked files and open them just with your keyboard.
+为前 9 个书签文件设置单独的热键，只需用键盘就能打开它们。
 
 通过 Hotkeys for Bookmarks,您可以:
 
@@ -202,7 +202,7 @@ Set an individual hotkey for the first 9 bookmarked files and open them just wit
 - **下载量**：9.6K
 - **最后更新**：2024-04-03
 - **GitHub**：[Vinzent03/obsidian-shortcuts-for-starred-files](https://github.com/Vinzent03/obsidian-shortcuts-for-starred-files)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

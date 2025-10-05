@@ -1,12 +1,12 @@
 ---
 title: Open vault in VS Code
-description: Ribbon button and command to open vault as a Visual Studio Code (VSCode) workspace.
+description: 功能区按钮和命令，将 vault 作为 Visual Studio Code (VSCode) 工作区打开。
 author: NomarCub
-downloads: 35319
+downloads: 35338
 updated: 1743922698000
 repo: NomarCub/obsidian-open-vscode
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="open-vscode"
   name="Open vault in VS Code"
-  description="Ribbon button and command to open vault as a Visual Studio Code (VSCode) workspace."
+  description="功能区按钮和命令，将 vault 作为 Visual Studio Code (VSCode) 工作区打开。"
   author="NomarCub"
-  :downloads="35319"
+  :downloads="35338"
   :updated="1743922698000"
   repo="NomarCub/obsidian-open-vscode"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Open vault in VS Code 是一个功能强大的 Obsidian 插件。
 
-Ribbon button and command to open vault as a Visual Studio Code (VSCode) workspace.
+功能区按钮和命令，将 vault 作为 Visual Studio Code (VSCode) 工作区打开。
 
 通过 Open vault in VS Code,您可以:
 
@@ -202,7 +202,7 @@ Ribbon button and command to open vault as a Visual Studio Code (VSCode) workspa
 - **下载量**：35.3K
 - **最后更新**：2025-04-06
 - **GitHub**：[NomarCub/obsidian-open-vscode](https://github.com/NomarCub/obsidian-open-vscode)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Status Bar Pomodoro Timer
-description: Add a pomodoro timer to your status bar.
+description: 在状态栏中添加番茄酱计时器。
 author: kzhovn
-downloads: 56087
+downloads: 56120
 updated: 1737444043000
 repo: kzhovn/statusbar-pomo-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-statusbar-pomo"
   name="Status Bar Pomodoro Timer"
-  description="Add a pomodoro timer to your status bar."
+  description="在状态栏中添加番茄酱计时器。"
   author="kzhovn"
-  :downloads="56087"
+  :downloads="56120"
   :updated="1737444043000"
   repo="kzhovn/statusbar-pomo-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Status Bar Pomodoro Timer 是一个功能强大的 Obsidian 插件。
 
-Add a pomodoro timer to your status bar.
+在状态栏中添加番茄酱计时器。
 
 通过 Status Bar Pomodoro Timer,您可以:
 
@@ -202,7 +202,7 @@ Add a pomodoro timer to your status bar.
 - **下载量**：56.1K
 - **最后更新**：2025-01-21
 - **GitHub**：[kzhovn/statusbar-pomo-obsidian](https://github.com/kzhovn/statusbar-pomo-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

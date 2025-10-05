@@ -2,11 +2,11 @@
 title: Send to Canvas
 description: Send tasks, blocks, and notes to Canvas files as plain text, links, and embeds.
 author: wenlzhang
-downloads: 2283
+downloads: 2301
 updated: 1751054225000
 repo: wenlzhang/obsidian-send-to-canvas
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Send to Canvas"
   description="Send tasks, blocks, and notes to Canvas files as plain text, links, and embeds."
   author="wenlzhang"
-  :downloads="2283"
+  :downloads="2301"
   :updated="1751054225000"
   repo="wenlzhang/obsidian-send-to-canvas"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Send tasks, blocks, and notes to Canvas files as plain text, links, and embeds.
 - **下载量**：2.3K
 - **最后更新**：2025-06-28
 - **GitHub**：[wenlzhang/obsidian-send-to-canvas](https://github.com/wenlzhang/obsidian-send-to-canvas)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Kanban Status Updater
 description: 'Automatically updates a ''status'' property in a note when its card is moved on a Kanban board'
 author: Ankit Kapur
-downloads: 2531
+downloads: 2537
 updated: 1743147374000
 repo: ankit-kapur/obsidian-kanban-status-updater-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Kanban Status Updater"
   description="Automatically updates a &#39;status&#39; property in a note when its card is moved on a Kanban board"
   author="Ankit Kapur"
-  :downloads="2531"
+  :downloads="2537"
   :updated="1743147374000"
   repo="ankit-kapur/obsidian-kanban-status-updater-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically updates a &#39;status&#39; property in a note when its card is mov
 - **下载量**：2.5K
 - **最后更新**：2025-03-28
 - **GitHub**：[ankit-kapur/obsidian-kanban-status-updater-plugin](https://github.com/ankit-kapur/obsidian-kanban-status-updater-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

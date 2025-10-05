@@ -1,12 +1,12 @@
 ---
 title: Breadcrumbs
-description: Visualise the hierarchy of your vault using a breadcrumb trail or matrix view.
+description: 使用面包屑轨迹或矩阵视图，直观显示保管库的层次结构。
 author: SkepticMystic
-downloads: 196756
+downloads: 197123
 updated: 1754578376000
 repo: SkepticMystic/breadcrumbs
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="breadcrumbs"
   name="Breadcrumbs"
-  description="Visualise the hierarchy of your vault using a breadcrumb trail or matrix view."
+  description="使用面包屑轨迹或矩阵视图，直观显示保管库的层次结构。"
   author="SkepticMystic"
-  :downloads="196756"
+  :downloads="197123"
   :updated="1754578376000"
   repo="SkepticMystic/breadcrumbs"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Breadcrumbs 是一个功能强大的 Obsidian 插件。
 
-Visualise the hierarchy of your vault using a breadcrumb trail or matrix view.
+使用面包屑轨迹或矩阵视图，直观显示保管库的层次结构。
 
 通过 Breadcrumbs,您可以:
 
@@ -199,10 +199,10 @@ Visualise the hierarchy of your vault using a breadcrumb trail or matrix view.
 - **插件 ID**：breadcrumbs
 - **作者**：SkepticMystic
 - **当前版本**：v1.0.0
-- **下载量**：196.8K
+- **下载量**：197.1K
 - **最后更新**：2025-08-07
 - **GitHub**：[SkepticMystic/breadcrumbs](https://github.com/SkepticMystic/breadcrumbs)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 50
 updated: 1753379716000
 repo: eharris128/obsidian-content-os
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1753379716000"
   repo="eharris128/obsidian-content-os"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Post directly to LinkedIn from your vault.
 - **下载量**：50
 - **最后更新**：2025-07-25
 - **GitHub**：[eharris128/obsidian-content-os](https://github.com/eharris128/obsidian-content-os)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

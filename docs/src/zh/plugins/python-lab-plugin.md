@@ -1,12 +1,12 @@
 ---
 title: Python lab
-description: An interface to experiment with Python scripts and more.
+description: 实验 Python 脚本等的界面。
 author: Cristian Vasquez
-downloads: 10127
+downloads: 10134
 updated: 1637322720000
 repo: cristianvasquez/obsidian-lab
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="python-lab-plugin"
   name="Python lab"
-  description="An interface to experiment with Python scripts and more."
+  description="实验 Python 脚本等的界面。"
   author="Cristian Vasquez"
-  :downloads="10127"
+  :downloads="10134"
   :updated="1637322720000"
   repo="cristianvasquez/obsidian-lab"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Python lab 是一个功能强大的 Obsidian 插件。
 
-An interface to experiment with Python scripts and more.
+实验 Python 脚本等的界面。
 
 通过 Python lab,您可以:
 
@@ -202,7 +202,7 @@ An interface to experiment with Python scripts and more.
 - **下载量**：10.1K
 - **最后更新**：2021-11-19
 - **GitHub**：[cristianvasquez/obsidian-lab](https://github.com/cristianvasquez/obsidian-lab)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

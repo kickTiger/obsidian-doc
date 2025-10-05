@@ -1,12 +1,12 @@
 ---
 title: Better Search Views
-description: Upgrade global search, backlinks and queries with outliner-like context trees.
+description: 利用类似于大纲的上下文树升级全局搜索、反向链接和查询。
 author: Ivan Lednev
-downloads: 35888
+downloads: 35920
 updated: 1733063526000
 repo: ivan-lednev/better-search-views
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="better-search-views"
   name="Better Search Views"
-  description="Upgrade global search, backlinks and queries with outliner-like context trees."
+  description="利用类似于大纲的上下文树升级全局搜索、反向链接和查询。"
   author="Ivan Lednev"
-  :downloads="35888"
+  :downloads="35920"
   :updated="1733063526000"
   repo="ivan-lednev/better-search-views"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better Search Views 是一个功能强大的 Obsidian 插件。
 
-Upgrade global search, backlinks and queries with outliner-like context trees.
+利用类似于大纲的上下文树升级全局搜索、反向链接和查询。
 
 通过 Better Search Views,您可以:
 
@@ -202,7 +202,7 @@ Upgrade global search, backlinks and queries with outliner-like context trees.
 - **下载量**：35.9K
 - **最后更新**：2024-12-01
 - **GitHub**：[ivan-lednev/better-search-views](https://github.com/ivan-lednev/better-search-views)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

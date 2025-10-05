@@ -1,12 +1,12 @@
 ---
 title: 'Version History Diff (Sync, File Recovery & Git)'
-description: Diff the version history of the core Sync and File Recovery plugins and Git for the active file. Adds a command to open the core Sync version history as well.
+description: 显示活动文件的核心同步和文件恢复插件以及 Git 的版本历史。还添加了打开核心同步版本历史记录的命令。
 author: kometenstaub
-downloads: 38388
+downloads: 38423
 updated: 1756399880000
 repo: kometenstaub/obsidian-version-history-diff
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-version-history-diff"
   name="Version History Diff (Sync, File Recovery &amp; Git)"
-  description="Diff the version history of the core Sync and File Recovery plugins and Git for the active file. Adds a command to open the core Sync version history as well."
+  description="显示活动文件的核心同步和文件恢复插件以及 Git 的版本历史。还添加了打开核心同步版本历史记录的命令。"
   author="kometenstaub"
-  :downloads="38388"
+  :downloads="38423"
   :updated="1756399880000"
   repo="kometenstaub/obsidian-version-history-diff"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Version History Diff (Sync, File Recovery &amp; Git) 是一个功能强大的 Obsidian 插件。
 
-Diff the version history of the core Sync and File Recovery plugins and Git for the active file. Adds a command to open the core Sync version history as well.
+显示活动文件的核心同步和文件恢复插件以及 Git 的版本历史。还添加了打开核心同步版本历史记录的命令。
 
 通过 Version History Diff (Sync, File Recovery &amp; Git),您可以:
 
@@ -202,7 +202,7 @@ Diff the version history of the core Sync and File Recovery plugins and Git for 
 - **下载量**：38.4K
 - **最后更新**：2025-08-29
 - **GitHub**：[kometenstaub/obsidian-version-history-diff](https://github.com/kometenstaub/obsidian-version-history-diff)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

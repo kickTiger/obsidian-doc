@@ -1,12 +1,12 @@
 ---
 title: Text Analysis
-description: Real-time text analysis on readability, structure, and complexity, incorporating over 30 indicators.
+description: 对文本的可读性、结构和复杂性进行实时分析，包含 30 多个指标。
 author: Miha Kralj
-downloads: 4158
+downloads: 4165
 updated: 1732294928000
 repo: mihakralj/obsidian-textanalysis
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="textanalysis"
   name="Text Analysis"
-  description="Real-time text analysis on readability, structure, and complexity, incorporating over 30 indicators."
+  description="对文本的可读性、结构和复杂性进行实时分析，包含 30 多个指标。"
   author="Miha Kralj"
-  :downloads="4158"
+  :downloads="4165"
   :updated="1732294928000"
   repo="mihakralj/obsidian-textanalysis"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text Analysis 是一个功能强大的 Obsidian 插件。
 
-Real-time text analysis on readability, structure, and complexity, incorporating over 30 indicators.
+对文本的可读性、结构和复杂性进行实时分析，包含 30 多个指标。
 
 通过 Text Analysis,您可以:
 
@@ -202,7 +202,7 @@ Real-time text analysis on readability, structure, and complexity, incorporating
 - **下载量**：4.2K
 - **最后更新**：2024-11-23
 - **GitHub**：[mihakralj/obsidian-textanalysis](https://github.com/mihakralj/obsidian-textanalysis)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

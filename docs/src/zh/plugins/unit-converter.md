@@ -2,11 +2,11 @@
 title: Unit Converter
 description: Converts units right in your Markdown files.
 author: Ruslan Zabarov
-downloads: 869
+downloads: 871
 updated: 1741489905000
 repo: ruszabarov/obsidian-unit-converter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Unit Converter"
   description="Converts units right in your Markdown files."
   author="Ruslan Zabarov"
-  :downloads="869"
+  :downloads="871"
   :updated="1741489905000"
   repo="ruszabarov/obsidian-unit-converter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Converts units right in your Markdown files.
 - **插件 ID**：unit-converter
 - **作者**：Ruslan Zabarov
 - **当前版本**：v1.0.0
-- **下载量**：869
+- **下载量**：871
 - **最后更新**：2025-03-09
 - **GitHub**：[ruszabarov/obsidian-unit-converter](https://github.com/ruszabarov/obsidian-unit-converter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

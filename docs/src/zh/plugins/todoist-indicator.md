@@ -6,7 +6,7 @@ downloads: 327
 updated: 1719908539000
 repo: kapej42/obsidian-todoist-indicator
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1719908539000"
   repo="kapej42/obsidian-todoist-indicator"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds a badge to &quot;project&quot; files to indicate a missing link to a Todois
 - **下载量**：327
 - **最后更新**：2024-07-02
 - **GitHub**：[kapej42/obsidian-todoist-indicator](https://github.com/kapej42/obsidian-todoist-indicator)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: File Share
 description: Enables end-to-end encrypted file sharing directly between vaults through a socket server.
 author: muckmuck
-downloads: 502
+downloads: 503
 updated: 1726429296000
 repo: muckmuck96/obsidian-file-share
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="File Share"
   description="Enables end-to-end encrypted file sharing directly between vaults through a socket server."
   author="muckmuck"
-  :downloads="502"
+  :downloads="503"
   :updated="1726429296000"
   repo="muckmuck96/obsidian-file-share"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Enables end-to-end encrypted file sharing directly between vaults through a sock
 - **插件 ID**：file-share
 - **作者**：muckmuck
 - **当前版本**：v1.0.0
-- **下载量**：502
+- **下载量**：503
 - **最后更新**：2024-09-16
 - **GitHub**：[muckmuck96/obsidian-file-share](https://github.com/muckmuck96/obsidian-file-share)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

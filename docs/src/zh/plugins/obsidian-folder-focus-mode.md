@@ -1,12 +1,12 @@
 ---
 title: Folder Focus Mode
-description: Focus the file explorer on chosen folder and its files and subdirectories, while hiding all the other elements.
+description: 将文件浏览器的焦点集中在所选文件夹及其文件和子目录上，同时隐藏所有其他元素。
 author: grochowski
-downloads: 15273
+downloads: 15279
 updated: 1720132291000
 repo: grochowski/obsidian-folder-focus-mode
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-folder-focus-mode"
   name="Folder Focus Mode"
-  description="Focus the file explorer on chosen folder and its files and subdirectories, while hiding all the other elements."
+  description="将文件浏览器的焦点集中在所选文件夹及其文件和子目录上，同时隐藏所有其他元素。"
   author="grochowski"
-  :downloads="15273"
+  :downloads="15279"
   :updated="1720132291000"
   repo="grochowski/obsidian-folder-focus-mode"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Folder Focus Mode 是一个功能强大的 Obsidian 插件。
 
-Focus the file explorer on chosen folder and its files and subdirectories, while hiding all the other elements.
+将文件浏览器的焦点集中在所选文件夹及其文件和子目录上，同时隐藏所有其他元素。
 
 通过 Folder Focus Mode,您可以:
 
@@ -202,7 +202,7 @@ Focus the file explorer on chosen folder and its files and subdirectories, while
 - **下载量**：15.3K
 - **最后更新**：2024-07-05
 - **GitHub**：[grochowski/obsidian-folder-focus-mode](https://github.com/grochowski/obsidian-folder-focus-mode)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Grappling Hook
-description: Blazingly fast file switching to bookmarked files. For people for whom using the Quick Switcher still takes too much time.
+description: 快速切换到书签文件。对于那些使用快速切换器仍需耗费大量时间的用户来说，这款功能非常实用。
 author: Chris Grieser (aka pseudometa)
-downloads: 8731
+downloads: 8733
 updated: 1734021235000
 repo: chrisgrieser/grappling-hook
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="grappling-hook"
   name="Grappling Hook"
-  description="Blazingly fast file switching to bookmarked files. For people for whom using the Quick Switcher still takes too much time."
+  description="快速切换到书签文件。对于那些使用快速切换器仍需耗费大量时间的用户来说，这款功能非常实用。"
   author="Chris Grieser (aka pseudometa)"
-  :downloads="8731"
+  :downloads="8733"
   :updated="1734021235000"
   repo="chrisgrieser/grappling-hook"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Grappling Hook 是一个功能强大的 Obsidian 插件。
 
-Blazingly fast file switching to bookmarked files. For people for whom using the Quick Switcher still takes too much time.
+快速切换到书签文件。对于那些使用快速切换器仍需耗费大量时间的用户来说，这款功能非常实用。
 
 通过 Grappling Hook,您可以:
 
@@ -202,7 +202,7 @@ Blazingly fast file switching to bookmarked files. For people for whom using the
 - **下载量**：8.7K
 - **最后更新**：2024-12-13
 - **GitHub**：[chrisgrieser/grappling-hook](https://github.com/chrisgrieser/grappling-hook)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

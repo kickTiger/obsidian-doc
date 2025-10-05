@@ -2,11 +2,11 @@
 title: External Rename Handler
 description: Handles renames made outside of the app.
 author: mnaoumov
-downloads: 2492
+downloads: 2499
 updated: 1759385242000
 repo: mnaoumov/obsidian-external-rename-handler
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="External Rename Handler"
   description="Handles renames made outside of the app."
   author="mnaoumov"
-  :downloads="2492"
+  :downloads="2499"
   :updated="1759385242000"
   repo="mnaoumov/obsidian-external-rename-handler"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Handles renames made outside of the app.
 - **下载量**：2.5K
 - **最后更新**：2025-10-02
 - **GitHub**：[mnaoumov/obsidian-external-rename-handler](https://github.com/mnaoumov/obsidian-external-rename-handler)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

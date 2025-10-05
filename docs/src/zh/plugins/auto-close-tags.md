@@ -2,11 +2,11 @@
 title: Auto Close Tags
 description: Auto close HTML tags.
 author: k0src
-downloads: 183
+downloads: 184
 updated: 1752876838000
 repo: k0src/Obsidian-Auto-Close-Tags-Plugin
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto Close Tags"
   description="Auto close HTML tags."
   author="k0src"
-  :downloads="183"
+  :downloads="184"
   :updated="1752876838000"
   repo="k0src/Obsidian-Auto-Close-Tags-Plugin"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Auto close HTML tags.
 - **插件 ID**：auto-close-tags
 - **作者**：k0src
 - **当前版本**：v1.0.0
-- **下载量**：183
+- **下载量**：184
 - **最后更新**：2025-07-19
 - **GitHub**：[k0src/Obsidian-Auto-Close-Tags-Plugin](https://github.com/k0src/Obsidian-Auto-Close-Tags-Plugin)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

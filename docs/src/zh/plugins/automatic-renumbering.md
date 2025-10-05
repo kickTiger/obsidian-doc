@@ -1,12 +1,12 @@
 ---
 title: Automatic List Reordering
-description: Automatically reorder checklists and numbered lists as you edit them.
+description: 在编辑清单和编号列表时自动重新排序。
 author: Omri Levi
-downloads: 4487
+downloads: 4489
 updated: 1744721013000
 repo: OmriLeviGit/Auto-List-Management-Obsidian
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="automatic-renumbering"
   name="Automatic List Reordering"
-  description="Automatically reorder checklists and numbered lists as you edit them."
+  description="在编辑清单和编号列表时自动重新排序。"
   author="Omri Levi"
-  :downloads="4487"
+  :downloads="4489"
   :updated="1744721013000"
   repo="OmriLeviGit/Auto-List-Management-Obsidian"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Automatic List Reordering 是一个功能强大的 Obsidian 插件。
 
-Automatically reorder checklists and numbered lists as you edit them.
+在编辑清单和编号列表时自动重新排序。
 
 通过 Automatic List Reordering,您可以:
 
@@ -202,7 +202,7 @@ Automatically reorder checklists and numbered lists as you edit them.
 - **下载量**：4.5K
 - **最后更新**：2025-04-15
 - **GitHub**：[OmriLeviGit/Auto-List-Management-Obsidian](https://github.com/OmriLeviGit/Auto-List-Management-Obsidian)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

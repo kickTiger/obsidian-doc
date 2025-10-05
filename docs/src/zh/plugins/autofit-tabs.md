@@ -1,12 +1,12 @@
 ---
 title: Autofit Tabs
-description: 'Automatically adjusts tab header widths in real-time to perfectly fit each tab''s title content while maintaining a clean, seamless interface that prevents awkward text truncation and ensures optimal readability of your document titles.'
+description: 自动实时调整选项卡标题宽度，以完美适应每个选项卡的标题内容，同时保持简洁、无缝的界面，防止文本截断，确保文档标题的最佳可读性。
 author: Bradley Wyatt
-downloads: 4373
+downloads: 4379
 updated: 1755287809000
 repo: bwya77/autofit-tabs
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="autofit-tabs"
   name="Autofit Tabs"
-  description="Automatically adjusts tab header widths in real-time to perfectly fit each tab&#39;s title content while maintaining a clean, seamless interface that prevents awkward text truncation and ensures optimal readability of your document titles."
+  description="自动实时调整选项卡标题宽度，以完美适应每个选项卡的标题内容，同时保持简洁、无缝的界面，防止文本截断，确保文档标题的最佳可读性。"
   author="Bradley Wyatt"
-  :downloads="4373"
+  :downloads="4379"
   :updated="1755287809000"
   repo="bwya77/autofit-tabs"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Autofit Tabs 是一个功能强大的 Obsidian 插件。
 
-Automatically adjusts tab header widths in real-time to perfectly fit each tab&#39;s title content while maintaining a clean, seamless interface that prevents awkward text truncation and ensures optimal readability of your document titles.
+自动实时调整选项卡标题宽度，以完美适应每个选项卡的标题内容，同时保持简洁、无缝的界面，防止文本截断，确保文档标题的最佳可读性。
 
 通过 Autofit Tabs,您可以:
 
@@ -202,7 +202,7 @@ Automatically adjusts tab header widths in real-time to perfectly fit each tab&#
 - **下载量**：4.4K
 - **最后更新**：2025-08-16
 - **GitHub**：[bwya77/autofit-tabs](https://github.com/bwya77/autofit-tabs)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

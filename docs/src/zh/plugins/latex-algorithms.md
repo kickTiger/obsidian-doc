@@ -1,12 +1,12 @@
 ---
 title: LaTeX Algorithms
-description: Facilitate writing algorithm blocks in LaTeX.
+description: 便于用 LaTeX 编写算法块。
 author: SamZhang02
-downloads: 5354
+downloads: 5355
 updated: 1677977474000
 repo: SamZhang02/obsidian-latex-algorithms
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="latex-algorithms"
   name="LaTeX Algorithms"
-  description="Facilitate writing algorithm blocks in LaTeX."
+  description="便于用 LaTeX 编写算法块。"
   author="SamZhang02"
-  :downloads="5354"
+  :downloads="5355"
   :updated="1677977474000"
   repo="SamZhang02/obsidian-latex-algorithms"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 LaTeX Algorithms 是一个功能强大的 Obsidian 插件。
 
-Facilitate writing algorithm blocks in LaTeX.
+便于用 LaTeX 编写算法块。
 
 通过 LaTeX Algorithms,您可以:
 
@@ -202,7 +202,7 @@ Facilitate writing algorithm blocks in LaTeX.
 - **下载量**：5.4K
 - **最后更新**：2023-03-05
 - **GitHub**：[SamZhang02/obsidian-latex-algorithms](https://github.com/SamZhang02/obsidian-latex-algorithms)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

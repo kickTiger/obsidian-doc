@@ -2,11 +2,11 @@
 title: Inline Callouts
 description: Add inline callouts/badges/icons to notes.
 author: '@gapmiss'
-downloads: 2050
+downloads: 2054
 updated: 1747165564000
 repo: gapmiss/inline-callouts
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Inline Callouts"
   description="Add inline callouts/badges/icons to notes."
   author="@gapmiss"
-  :downloads="2050"
+  :downloads="2054"
   :updated="1747165564000"
   repo="gapmiss/inline-callouts"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Add inline callouts/badges/icons to notes.
 - **插件 ID**：inline-callouts
 - **作者**：@gapmiss
 - **当前版本**：v1.0.0
-- **下载量**：2.0K
+- **下载量**：2.1K
 - **最后更新**：2025-05-14
 - **GitHub**：[gapmiss/inline-callouts](https://github.com/gapmiss/inline-callouts)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

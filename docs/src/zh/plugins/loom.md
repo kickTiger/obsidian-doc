@@ -1,12 +1,12 @@
 ---
 title: Loom
-description: A recursively branching interface to GPT-3 and other language models.
+description: GPT-3 和其他语言模型的递归分支接口。
 author: celeste
-downloads: 6025
+downloads: 6026
 updated: 1742450027000
 repo: cosmicoptima/loom
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="loom"
   name="Loom"
-  description="A recursively branching interface to GPT-3 and other language models."
+  description="GPT-3 和其他语言模型的递归分支接口。"
   author="celeste"
-  :downloads="6025"
+  :downloads="6026"
   :updated="1742450027000"
   repo="cosmicoptima/loom"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Loom 是一个功能强大的 Obsidian 插件。
 
-A recursively branching interface to GPT-3 and other language models.
+GPT-3 和其他语言模型的递归分支接口。
 
 通过 Loom,您可以:
 
@@ -202,7 +202,7 @@ A recursively branching interface to GPT-3 and other language models.
 - **下载量**：6.0K
 - **最后更新**：2025-03-20
 - **GitHub**：[cosmicoptima/loom](https://github.com/cosmicoptima/loom)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

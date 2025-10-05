@@ -1,12 +1,12 @@
 ---
 title: Plugins Galore
-description: Easily sideload other plugins.
+description: 轻松侧载其他插件。
 author: dylanpizzo
-downloads: 5782
+downloads: 5784
 updated: 1651031195000
 repo: plugins-galore/obsidian-plugins-galore
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="plugins-galore"
   name="Plugins Galore"
-  description="Easily sideload other plugins."
+  description="轻松侧载其他插件。"
   author="dylanpizzo"
-  :downloads="5782"
+  :downloads="5784"
   :updated="1651031195000"
   repo="plugins-galore/obsidian-plugins-galore"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Plugins Galore 是一个功能强大的 Obsidian 插件。
 
-Easily sideload other plugins.
+轻松侧载其他插件。
 
 通过 Plugins Galore,您可以:
 
@@ -202,7 +202,7 @@ Easily sideload other plugins.
 - **下载量**：5.8K
 - **最后更新**：2022-04-27
 - **GitHub**：[plugins-galore/obsidian-plugins-galore](https://github.com/plugins-galore/obsidian-plugins-galore)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

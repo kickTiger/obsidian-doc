@@ -6,7 +6,7 @@ downloads: 1461
 updated: 1707812700000
 repo: nbossard/obsidian-CtrlXA
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1707812700000"
   repo="nbossard/obsidian-CtrlXA"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Cycle through various items with keyboard shortcuts. Such as days, months, true-
 - **下载量**：1.5K
 - **最后更新**：2024-02-13
 - **GitHub**：[nbossard/obsidian-CtrlXA](https://github.com/nbossard/obsidian-CtrlXA)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

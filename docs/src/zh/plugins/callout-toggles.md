@@ -2,11 +2,11 @@
 title: Callout Toggles
 description: Quickly add, change, or remove callouts in your notes.
 author: Aly Thobani
-downloads: 2898
+downloads: 2899
 updated: 1735488506000
 repo: alythobani/obsidian-callout-toggles
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Callout Toggles"
   description="Quickly add, change, or remove callouts in your notes."
   author="Aly Thobani"
-  :downloads="2898"
+  :downloads="2899"
   :updated="1735488506000"
   repo="alythobani/obsidian-callout-toggles"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Quickly add, change, or remove callouts in your notes.
 - **下载量**：2.9K
 - **最后更新**：2024-12-30
 - **GitHub**：[alythobani/obsidian-callout-toggles](https://github.com/alythobani/obsidian-callout-toggles)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

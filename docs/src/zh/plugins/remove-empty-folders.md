@@ -6,7 +6,7 @@ downloads: 3137
 updated: 1701528443000
 repo: fnya/remove-empty-folders
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1701528443000"
   repo="fnya/remove-empty-folders"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily remove empty folders.
 - **下载量**：3.1K
 - **最后更新**：2023-12-02
 - **GitHub**：[fnya/remove-empty-folders](https://github.com/fnya/remove-empty-folders)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 190
 updated: 1754515511000
 repo: shkarlsson/obsidian-discrete
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1754515511000"
   repo="shkarlsson/obsidian-discrete"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Filter in Explorer based on file frontmatter metadata
 - **下载量**：190
 - **最后更新**：2025-08-07
 - **GitHub**：[shkarlsson/obsidian-discrete](https://github.com/shkarlsson/obsidian-discrete)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

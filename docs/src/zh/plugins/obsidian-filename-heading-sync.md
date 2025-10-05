@@ -1,12 +1,12 @@
 ---
 title: Filename Heading Sync
-description: Keep the filename with the first heading of a file in sync.
+description: 保持文件名和第一个标题同步。
 author: dvcrn
-downloads: 58018
+downloads: 58041
 updated: 1751611936000
 repo: dvcrn/obsidian-filename-heading-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-filename-heading-sync"
   name="Filename Heading Sync"
-  description="Keep the filename with the first heading of a file in sync."
+  description="保持文件名和第一个标题同步。"
   author="dvcrn"
-  :downloads="58018"
+  :downloads="58041"
   :updated="1751611936000"
   repo="dvcrn/obsidian-filename-heading-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Filename Heading Sync 是一个功能强大的 Obsidian 插件。
 
-Keep the filename with the first heading of a file in sync.
+保持文件名和第一个标题同步。
 
 通过 Filename Heading Sync,您可以:
 
@@ -202,7 +202,7 @@ Keep the filename with the first heading of a file in sync.
 - **下载量**：58.0K
 - **最后更新**：2025-07-04
 - **GitHub**：[dvcrn/obsidian-filename-heading-sync](https://github.com/dvcrn/obsidian-filename-heading-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

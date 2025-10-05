@@ -2,11 +2,11 @@
 title: Sortable Tables
 description: Adds sortable columns to markdown tables in preview mode.
 author: filippov112
-downloads: 1066
+downloads: 1079
 updated: 1750809968000
 repo: filippov112/obsidian-sortable-tables
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Sortable Tables"
   description="Adds sortable columns to markdown tables in preview mode."
   author="filippov112"
-  :downloads="1066"
+  :downloads="1079"
   :updated="1750809968000"
   repo="filippov112/obsidian-sortable-tables"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds sortable columns to markdown tables in preview mode.
 - **下载量**：1.1K
 - **最后更新**：2025-06-25
 - **GitHub**：[filippov112/obsidian-sortable-tables](https://github.com/filippov112/obsidian-sortable-tables)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

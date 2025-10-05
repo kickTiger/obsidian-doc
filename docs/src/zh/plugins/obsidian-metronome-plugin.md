@@ -1,12 +1,12 @@
 ---
 title: Metronome
-description: Add interactive metronomes to your notes.
+description: 为笔记添加互动节拍器
 author: Curt Grimes
-downloads: 4526
+downloads: 4527
 updated: 1642871590000
 repo: curtgrimes/obsidian-metronome-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-metronome-plugin"
   name="Metronome"
-  description="Add interactive metronomes to your notes."
+  description="为笔记添加互动节拍器"
   author="Curt Grimes"
-  :downloads="4526"
+  :downloads="4527"
   :updated="1642871590000"
   repo="curtgrimes/obsidian-metronome-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Metronome 是一个功能强大的 Obsidian 插件。
 
-Add interactive metronomes to your notes.
+为笔记添加互动节拍器
 
 通过 Metronome,您可以:
 
@@ -202,7 +202,7 @@ Add interactive metronomes to your notes.
 - **下载量**：4.5K
 - **最后更新**：2022-01-23
 - **GitHub**：[curtgrimes/obsidian-metronome-plugin](https://github.com/curtgrimes/obsidian-metronome-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

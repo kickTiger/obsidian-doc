@@ -1,12 +1,12 @@
 ---
 title: Bellboy
-description: Opinionated file structure manager.
+description: 有主见的文件结构管理器
 author: Shaked Lokits
 downloads: 3813
 updated: 1659776840000
 repo: shakedlokits/obsidian-bellboy
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-bellboy"
   name="Bellboy"
-  description="Opinionated file structure manager."
+  description="有主见的文件结构管理器"
   author="Shaked Lokits"
   :downloads="3813"
   :updated="1659776840000"
   repo="shakedlokits/obsidian-bellboy"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Bellboy 是一个功能强大的 Obsidian 插件。
 
-Opinionated file structure manager.
+有主见的文件结构管理器
 
 通过 Bellboy,您可以:
 
@@ -202,7 +202,7 @@ Opinionated file structure manager.
 - **下载量**：3.8K
 - **最后更新**：2022-08-06
 - **GitHub**：[shakedlokits/obsidian-bellboy](https://github.com/shakedlokits/obsidian-bellboy)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

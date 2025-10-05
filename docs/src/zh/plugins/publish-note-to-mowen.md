@@ -2,11 +2,11 @@
 title: Publish Note to Mowen Note
 description: Publish note to Mowen note mini program.
 author: ziyou
-downloads: 187
+downloads: 190
 updated: 1753621592000
 repo: zhuSilence/obsidian-mowen-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Publish Note to Mowen Note"
   description="Publish note to Mowen note mini program."
   author="ziyou"
-  :downloads="187"
+  :downloads="190"
   :updated="1753621592000"
   repo="zhuSilence/obsidian-mowen-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Publish note to Mowen note mini program.
 - **插件 ID**：publish-note-to-mowen
 - **作者**：ziyou
 - **当前版本**：v1.0.0
-- **下载量**：187
+- **下载量**：190
 - **最后更新**：2025-07-27
 - **GitHub**：[zhuSilence/obsidian-mowen-plugin](https://github.com/zhuSilence/obsidian-mowen-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

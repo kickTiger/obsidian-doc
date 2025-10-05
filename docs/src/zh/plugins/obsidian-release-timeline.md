@@ -1,12 +1,12 @@
 ---
 title: Release Timeline
-description: Release timeline rendered based on notes metadata with a Dataview-like syntax.
+description: 基于注释元数据的发布时间线，采用类似数据视图的语法。
 author: cakechaser
-downloads: 9591
+downloads: 9593
 updated: 1705605392000
 repo: cakechaser/obsidian-release-timeline
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-release-timeline"
   name="Release Timeline"
-  description="Release timeline rendered based on notes metadata with a Dataview-like syntax."
+  description="基于注释元数据的发布时间线，采用类似数据视图的语法。"
   author="cakechaser"
-  :downloads="9591"
+  :downloads="9593"
   :updated="1705605392000"
   repo="cakechaser/obsidian-release-timeline"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Release Timeline 是一个功能强大的 Obsidian 插件。
 
-Release timeline rendered based on notes metadata with a Dataview-like syntax.
+基于注释元数据的发布时间线，采用类似数据视图的语法。
 
 通过 Release Timeline,您可以:
 
@@ -202,7 +202,7 @@ Release timeline rendered based on notes metadata with a Dataview-like syntax.
 - **下载量**：9.6K
 - **最后更新**：2024-01-19
 - **GitHub**：[cakechaser/obsidian-release-timeline](https://github.com/cakechaser/obsidian-release-timeline)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Reset Font Size
-description: Add a button and command to reset the font size back to its default value.
+description: 添加一个按钮和命令，将字体大小重置为默认值。
 author: luckman212
-downloads: 6585
+downloads: 6587
 updated: 1653845444000
 repo: luckman212/obsidian-reset-font-size
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-reset-font-size"
   name="Reset Font Size"
-  description="Add a button and command to reset the font size back to its default value."
+  description="添加一个按钮和命令，将字体大小重置为默认值。"
   author="luckman212"
-  :downloads="6585"
+  :downloads="6587"
   :updated="1653845444000"
   repo="luckman212/obsidian-reset-font-size"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Reset Font Size 是一个功能强大的 Obsidian 插件。
 
-Add a button and command to reset the font size back to its default value.
+添加一个按钮和命令，将字体大小重置为默认值。
 
 通过 Reset Font Size,您可以:
 
@@ -202,7 +202,7 @@ Add a button and command to reset the font size back to its default value.
 - **下载量**：6.6K
 - **最后更新**：2022-05-30
 - **GitHub**：[luckman212/obsidian-reset-font-size](https://github.com/luckman212/obsidian-reset-font-size)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

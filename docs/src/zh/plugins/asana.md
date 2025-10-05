@@ -6,7 +6,7 @@ downloads: 539
 updated: 1743907772000
 repo: mryanb/obsidian-asana
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1743907772000"
   repo="mryanb/obsidian-asana"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create Asana tasks from highlighted text or the current line.
 - **下载量**：539
 - **最后更新**：2025-04-06
 - **GitHub**：[mryanb/obsidian-asana](https://github.com/mryanb/obsidian-asana)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

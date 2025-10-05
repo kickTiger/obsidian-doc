@@ -1,12 +1,12 @@
 ---
 title: Enhanced Symbols Prettifier
-description: Replace/substitute the symbols with actual symbols you commonly type. It also works for emojis shortcuts, abbreviations, greek letters, math symbols or other snippets/aliases you define
+description: 用你经常输入的实际符号替换/替代符号。它还适用于表情符号快捷方式、缩写、希腊字母、数学符号或您定义的其他片段/别名。
 author: Noam Schmitt
-downloads: 9099
+downloads: 9114
 updated: 1746807875000
 repo: noam-sc/obsidian-enhanced-symbols-prettifier
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="enhanced-symbols-prettifier"
   name="Enhanced Symbols Prettifier"
-  description="Replace/substitute the symbols with actual symbols you commonly type. It also works for emojis shortcuts, abbreviations, greek letters, math symbols or other snippets/aliases you define"
+  description="用你经常输入的实际符号替换/替代符号。它还适用于表情符号快捷方式、缩写、希腊字母、数学符号或您定义的其他片段/别名。"
   author="Noam Schmitt"
-  :downloads="9099"
+  :downloads="9114"
   :updated="1746807875000"
   repo="noam-sc/obsidian-enhanced-symbols-prettifier"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Enhanced Symbols Prettifier 是一个功能强大的 Obsidian 插件。
 
-Replace/substitute the symbols with actual symbols you commonly type. It also works for emojis shortcuts, abbreviations, greek letters, math symbols or other snippets/aliases you define
+用你经常输入的实际符号替换/替代符号。它还适用于表情符号快捷方式、缩写、希腊字母、数学符号或您定义的其他片段/别名。
 
 通过 Enhanced Symbols Prettifier,您可以:
 
@@ -202,7 +202,7 @@ Replace/substitute the symbols with actual symbols you commonly type. It also wo
 - **下载量**：9.1K
 - **最后更新**：2025-05-10
 - **GitHub**：[noam-sc/obsidian-enhanced-symbols-prettifier](https://github.com/noam-sc/obsidian-enhanced-symbols-prettifier)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

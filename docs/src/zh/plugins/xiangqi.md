@@ -2,11 +2,11 @@
 title: Chinese chess
 description: Render xiangqi(Chinese chess) positions diagrams in a note.
 author: weshell
-downloads: 158
-updated: 1758942583000
+downloads: 165
+updated: 1759580979000
 repo: west-shell/obsidian-xiangqi
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Chinese chess"
   description="Render xiangqi(Chinese chess) positions diagrams in a note."
   author="weshell"
-  :downloads="158"
-  :updated="1758942583000"
+  :downloads="165"
+  :updated="1759580979000"
   repo="west-shell/obsidian-xiangqi"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -181,7 +181,7 @@ Render xiangqi(Chinese chess) positions diagrams in a note.
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-09-27
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/west-shell/obsidian-xiangqi/releases) 查看详细更新日志
@@ -199,10 +199,10 @@ Render xiangqi(Chinese chess) positions diagrams in a note.
 - **插件 ID**：xiangqi
 - **作者**：weshell
 - **当前版本**：v1.0.0
-- **下载量**：158
-- **最后更新**：2025-09-27
+- **下载量**：165
+- **最后更新**：2025-10-04
 - **GitHub**：[west-shell/obsidian-xiangqi](https://github.com/west-shell/obsidian-xiangqi)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

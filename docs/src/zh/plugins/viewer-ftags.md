@@ -2,11 +2,11 @@
 title: Viewer ftags
 description: 'Add file''s ftags as chips at the top of the markdown view.'
 author: d7sd6u
-downloads: 600
+downloads: 603
 updated: 1748467352000
 repo: d7sd6u/obsidian-viewer-ftags
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Viewer ftags"
   description="Add file&#39;s ftags as chips at the top of the markdown view."
   author="d7sd6u"
-  :downloads="600"
+  :downloads="603"
   :updated="1748467352000"
   repo="d7sd6u/obsidian-viewer-ftags"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Add file&#39;s ftags as chips at the top of the markdown view.
 - **插件 ID**：viewer-ftags
 - **作者**：d7sd6u
 - **当前版本**：v1.0.0
-- **下载量**：600
+- **下载量**：603
 - **最后更新**：2025-05-29
 - **GitHub**：[d7sd6u/obsidian-viewer-ftags](https://github.com/d7sd6u/obsidian-viewer-ftags)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

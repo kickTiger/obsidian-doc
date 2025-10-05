@@ -6,7 +6,7 @@ downloads: 3140
 updated: 1694590177000
 repo: bhagyas/obsidian-postfix-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1694590177000"
   repo="bhagyas/obsidian-postfix-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Use postfix completions to automatically format text.
 - **下载量**：3.1K
 - **最后更新**：2023-09-13
 - **GitHub**：[bhagyas/obsidian-postfix-plugin](https://github.com/bhagyas/obsidian-postfix-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

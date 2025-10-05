@@ -2,11 +2,11 @@
 title: Shrink pinned tabs
 description: Shrinks pinned tabs to save screen space.
 author: Nicolas Lœuillet
-downloads: 2375
+downloads: 2377
 updated: 1733219181000
 repo: nicosomb/obsidian-shrink-pinned-tabs
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Shrink pinned tabs"
   description="Shrinks pinned tabs to save screen space."
   author="Nicolas Lœuillet"
-  :downloads="2375"
+  :downloads="2377"
   :updated="1733219181000"
   repo="nicosomb/obsidian-shrink-pinned-tabs"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Shrinks pinned tabs to save screen space.
 - **下载量**：2.4K
 - **最后更新**：2024-12-03
 - **GitHub**：[nicosomb/obsidian-shrink-pinned-tabs](https://github.com/nicosomb/obsidian-shrink-pinned-tabs)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Yanki
-description: Sync flashcards from a folder in your vault to Anki. Pure Markdown syntax. No fuss.
+description: 从你保险库的文件夹同步闪存卡到 Anki。纯 Markdown 语法。无任何繁琐。
 author: Eric Mika
-downloads: 5149
+downloads: 5165
 updated: 1759210144000
 repo: kitschpatrol/yanki-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="yanki"
   name="Yanki"
-  description="Sync flashcards from a folder in your vault to Anki. Pure Markdown syntax. No fuss."
+  description="从你保险库的文件夹同步闪存卡到 Anki。纯 Markdown 语法。无任何繁琐。"
   author="Eric Mika"
-  :downloads="5149"
+  :downloads="5165"
   :updated="1759210144000"
   repo="kitschpatrol/yanki-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Yanki 是一个功能强大的 Obsidian 插件。
 
-Sync flashcards from a folder in your vault to Anki. Pure Markdown syntax. No fuss.
+从你保险库的文件夹同步闪存卡到 Anki。纯 Markdown 语法。无任何繁琐。
 
 通过 Yanki,您可以:
 
@@ -199,10 +199,10 @@ Sync flashcards from a folder in your vault to Anki. Pure Markdown syntax. No fu
 - **插件 ID**：yanki
 - **作者**：Eric Mika
 - **当前版本**：v1.0.0
-- **下载量**：5.1K
+- **下载量**：5.2K
 - **最后更新**：2025-09-30
 - **GitHub**：[kitschpatrol/yanki-obsidian](https://github.com/kitschpatrol/yanki-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

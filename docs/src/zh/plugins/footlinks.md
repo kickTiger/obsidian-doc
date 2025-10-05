@@ -1,12 +1,12 @@
 ---
 title: Footlinks
-description: Extract URLs from main text to footer.
+description: 从正文到页脚提取 URL。
 author: Daha
 downloads: 11672
 updated: 1607234058000
 repo: DahaWong/obsidian-footlinks
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="footlinks"
   name="Footlinks"
-  description="Extract URLs from main text to footer."
+  description="从正文到页脚提取 URL。"
   author="Daha"
   :downloads="11672"
   :updated="1607234058000"
   repo="DahaWong/obsidian-footlinks"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Footlinks 是一个功能强大的 Obsidian 插件。
 
-Extract URLs from main text to footer.
+从正文到页脚提取 URL。
 
 通过 Footlinks,您可以:
 
@@ -202,7 +202,7 @@ Extract URLs from main text to footer.
 - **下载量**：11.7K
 - **最后更新**：2020-12-06
 - **GitHub**：[DahaWong/obsidian-footlinks](https://github.com/DahaWong/obsidian-footlinks)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Random To-Do
-description: Open a random file containing your custom to-do marker, or a random marker at its position.
+description: 打开包含自定义待办事项标记的随机文件，或其位置上的随机标记。
 author: NatiAris
 downloads: 4776
 updated: 1637420503000
 repo: NatiAris/obsidian-random-todo
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-random-todo"
   name="Random To-Do"
-  description="Open a random file containing your custom to-do marker, or a random marker at its position."
+  description="打开包含自定义待办事项标记的随机文件，或其位置上的随机标记。"
   author="NatiAris"
   :downloads="4776"
   :updated="1637420503000"
   repo="NatiAris/obsidian-random-todo"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Random To-Do 是一个功能强大的 Obsidian 插件。
 
-Open a random file containing your custom to-do marker, or a random marker at its position.
+打开包含自定义待办事项标记的随机文件，或其位置上的随机标记。
 
 通过 Random To-Do,您可以:
 
@@ -202,7 +202,7 @@ Open a random file containing your custom to-do marker, or a random marker at it
 - **下载量**：4.8K
 - **最后更新**：2021-11-20
 - **GitHub**：[NatiAris/obsidian-random-todo](https://github.com/NatiAris/obsidian-random-todo)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

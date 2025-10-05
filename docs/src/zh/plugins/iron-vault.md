@@ -1,12 +1,12 @@
 ---
 title: Iron Vault
-description: Gameplay plugin/VTT for the Ironsworn/Starforged family of tabletop RPGs.
+description: Ironsworn/Starforged系列桌面RPG游戏的游戏插件/VTT。
 author: Iron Vault Dev Team
-downloads: 10138
+downloads: 10167
 updated: 1756897008000
 repo: iron-vault-plugin/iron-vault
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="iron-vault"
   name="Iron Vault"
-  description="Gameplay plugin/VTT for the Ironsworn/Starforged family of tabletop RPGs."
+  description="Ironsworn/Starforged系列桌面RPG游戏的游戏插件/VTT。"
   author="Iron Vault Dev Team"
-  :downloads="10138"
+  :downloads="10167"
   :updated="1756897008000"
   repo="iron-vault-plugin/iron-vault"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Iron Vault 是一个功能强大的 Obsidian 插件。
 
-Gameplay plugin/VTT for the Ironsworn/Starforged family of tabletop RPGs.
+Ironsworn/Starforged系列桌面RPG游戏的游戏插件/VTT。
 
 通过 Iron Vault,您可以:
 
@@ -199,10 +199,10 @@ Gameplay plugin/VTT for the Ironsworn/Starforged family of tabletop RPGs.
 - **插件 ID**：iron-vault
 - **作者**：Iron Vault Dev Team
 - **当前版本**：v1.0.0
-- **下载量**：10.1K
+- **下载量**：10.2K
 - **最后更新**：2025-09-03
 - **GitHub**：[iron-vault-plugin/iron-vault](https://github.com/iron-vault-plugin/iron-vault)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

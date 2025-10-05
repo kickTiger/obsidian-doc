@@ -2,11 +2,11 @@
 title: Better Heading Hierarchy
 description: Add guide lines to make the hierarchy of Markdown headings more visually clear.
 author: rogerfan48
-downloads: 612
+downloads: 618
 updated: 1757168677000
 repo: rogerfan48/better-heading-hierarchy
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Better Heading Hierarchy"
   description="Add guide lines to make the hierarchy of Markdown headings more visually clear."
   author="rogerfan48"
-  :downloads="612"
+  :downloads="618"
   :updated="1757168677000"
   repo="rogerfan48/better-heading-hierarchy"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Add guide lines to make the hierarchy of Markdown headings more visually clear.
 - **插件 ID**：better-heading-hierarchy
 - **作者**：rogerfan48
 - **当前版本**：v1.0.0
-- **下载量**：612
+- **下载量**：618
 - **最后更新**：2025-09-06
 - **GitHub**：[rogerfan48/better-heading-hierarchy](https://github.com/rogerfan48/better-heading-hierarchy)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

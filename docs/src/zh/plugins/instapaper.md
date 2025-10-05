@@ -1,12 +1,12 @@
 ---
 title: Instapaper
-description: Instapaper integration.
+description: 集成 Instapaper。
 author: Instapaper
-downloads: 6066
+downloads: 6071
 updated: 1731778927000
 repo: Instapaper/obsidian-instapaper
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="instapaper"
   name="Instapaper"
-  description="Instapaper integration."
+  description="集成 Instapaper。"
   author="Instapaper"
-  :downloads="6066"
+  :downloads="6071"
   :updated="1731778927000"
   repo="Instapaper/obsidian-instapaper"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Instapaper 是一个功能强大的 Obsidian 插件。
 
-Instapaper integration.
+集成 Instapaper。
 
 通过 Instapaper,您可以:
 
@@ -202,7 +202,7 @@ Instapaper integration.
 - **下载量**：6.1K
 - **最后更新**：2024-11-17
 - **GitHub**：[Instapaper/obsidian-instapaper](https://github.com/Instapaper/obsidian-instapaper)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Day Planner
-description: Day planning from a task list in a Markdown note with enhanced time block functionality.
+description: 从 Markdown 笔记中的任务列表创建日程计划。
 author: James Lynch (continued by Ivan Lednev)
-downloads: 704642
+downloads: 704963
 updated: 1747411128000
 repo: ivan-lednev/obsidian-day-planner
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-day-planner"
   name="Day Planner"
-  description="Day planning from a task list in a Markdown note with enhanced time block functionality."
+  description="从 Markdown 笔记中的任务列表创建日程计划。"
   author="James Lynch (continued by Ivan Lednev)"
-  :downloads="704642"
+  :downloads="704963"
   :updated="1747411128000"
   repo="ivan-lednev/obsidian-day-planner"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Day Planner 是一个功能强大的 Obsidian 插件。
 
-Day planning from a task list in a Markdown note with enhanced time block functionality.
+从 Markdown 笔记中的任务列表创建日程计划。
 
 通过 Day Planner,您可以:
 
@@ -199,10 +199,10 @@ Day planning from a task list in a Markdown note with enhanced time block functi
 - **插件 ID**：obsidian-day-planner
 - **作者**：James Lynch (continued by Ivan Lednev)
 - **当前版本**：v1.0.0
-- **下载量**：704.6K
+- **下载量**：705.0K
 - **最后更新**：2025-05-16
 - **GitHub**：[ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

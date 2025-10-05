@@ -1,12 +1,12 @@
 ---
 title: Discord Message Formatter
-description: Automatically format messages from Discord when you copy-paste them in a note.
+description: 在便笺中复制粘贴来自 Discord 的信息时，会自动格式化这些信息。
 author: Emile Durkheim
-downloads: 4674
+downloads: 4679
 updated: 1715947760000
 repo: Emile-Durkheim/obsidian_discord_formatter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="discord-message-formatter"
   name="Discord Message Formatter"
-  description="Automatically format messages from Discord when you copy-paste them in a note."
+  description="在便笺中复制粘贴来自 Discord 的信息时，会自动格式化这些信息。"
   author="Emile Durkheim"
-  :downloads="4674"
+  :downloads="4679"
   :updated="1715947760000"
   repo="Emile-Durkheim/obsidian_discord_formatter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Discord Message Formatter 是一个功能强大的 Obsidian 插件。
 
-Automatically format messages from Discord when you copy-paste them in a note.
+在便笺中复制粘贴来自 Discord 的信息时，会自动格式化这些信息。
 
 通过 Discord Message Formatter,您可以:
 
@@ -202,7 +202,7 @@ Automatically format messages from Discord when you copy-paste them in a note.
 - **下载量**：4.7K
 - **最后更新**：2024-05-17
 - **GitHub**：[Emile-Durkheim/obsidian_discord_formatter](https://github.com/Emile-Durkheim/obsidian_discord_formatter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

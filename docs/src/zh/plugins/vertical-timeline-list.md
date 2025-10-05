@@ -2,11 +2,11 @@
 title: Vertical Timeline List
 description: Utilizes lists to create a timeline... or something resembling a timeline.
 author: Jalad
-downloads: 845
+downloads: 851
 updated: 1747460000000
 repo: Jalad25/vertical-timeline-list
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Vertical Timeline List"
   description="Utilizes lists to create a timeline... or something resembling a timeline."
   author="Jalad"
-  :downloads="845"
+  :downloads="851"
   :updated="1747460000000"
   repo="Jalad25/vertical-timeline-list"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Utilizes lists to create a timeline... or something resembling a timeline.
 - **插件 ID**：vertical-timeline-list
 - **作者**：Jalad
 - **当前版本**：v1.0.0
-- **下载量**：845
+- **下载量**：851
 - **最后更新**：2025-05-17
 - **GitHub**：[Jalad25/vertical-timeline-list](https://github.com/Jalad25/vertical-timeline-list)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

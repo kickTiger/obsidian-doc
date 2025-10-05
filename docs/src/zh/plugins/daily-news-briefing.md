@@ -2,11 +2,11 @@
 title: Daily News Briefing
 description: Get AI-powered daily news summaries in your vault. Features customizable topics, smart filtering, and automated scheduling.
 author: Adam Chen
-downloads: 1092
+downloads: 1094
 updated: 1756640835000
 repo: ChenziqiAdam/Daily-News-Briefing
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Daily News Briefing"
   description="Get AI-powered daily news summaries in your vault. Features customizable topics, smart filtering, and automated scheduling."
   author="Adam Chen"
-  :downloads="1092"
+  :downloads="1094"
   :updated="1756640835000"
   repo="ChenziqiAdam/Daily-News-Briefing"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Get AI-powered daily news summaries in your vault. Features customizable topics,
 - **下载量**：1.1K
 - **最后更新**：2025-08-31
 - **GitHub**：[ChenziqiAdam/Daily-News-Briefing](https://github.com/ChenziqiAdam/Daily-News-Briefing)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

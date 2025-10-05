@@ -2,11 +2,11 @@
 title: Note Reviewer
 description: Plugin to filter and review notes
 author: Travis Linkey
-downloads: 401
+downloads: 403
 updated: 1751156717000
 repo: TravisLinkey/note-reviewer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note Reviewer"
   description="Plugin to filter and review notes"
   author="Travis Linkey"
-  :downloads="401"
+  :downloads="403"
   :updated="1751156717000"
   repo="TravisLinkey/note-reviewer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Plugin to filter and review notes
 - **插件 ID**：note-reviewer
 - **作者**：Travis Linkey
 - **当前版本**：v1.0.0
-- **下载量**：401
+- **下载量**：403
 - **最后更新**：2025-06-29
 - **GitHub**：[TravisLinkey/note-reviewer](https://github.com/TravisLinkey/note-reviewer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

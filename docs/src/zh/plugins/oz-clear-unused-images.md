@@ -1,12 +1,12 @@
 ---
 title: Clear Unused Images
-description: Clear the images that you are not using anymore in your Markdown notes to save space.
+description: 清除 Markdown 笔记中不再使用的图片，以节省空间。
 author: Ozan Tellioglu
-downloads: 118327
+downloads: 118398
 updated: 1724187207000
 repo: ozntel/oz-clear-unused-images-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="oz-clear-unused-images"
   name="Clear Unused Images"
-  description="Clear the images that you are not using anymore in your Markdown notes to save space."
+  description="清除 Markdown 笔记中不再使用的图片，以节省空间。"
   author="Ozan Tellioglu"
-  :downloads="118327"
+  :downloads="118398"
   :updated="1724187207000"
   repo="ozntel/oz-clear-unused-images-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Clear Unused Images 是一个功能强大的 Obsidian 插件。
 
-Clear the images that you are not using anymore in your Markdown notes to save space.
+清除 Markdown 笔记中不再使用的图片，以节省空间。
 
 通过 Clear Unused Images,您可以:
 
@@ -199,10 +199,10 @@ Clear the images that you are not using anymore in your Markdown notes to save s
 - **插件 ID**：oz-clear-unused-images
 - **作者**：Ozan Tellioglu
 - **当前版本**：v1.0.0
-- **下载量**：118.3K
+- **下载量**：118.4K
 - **最后更新**：2024-08-21
 - **GitHub**：[ozntel/oz-clear-unused-images-obsidian](https://github.com/ozntel/oz-clear-unused-images-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

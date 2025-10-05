@@ -2,11 +2,11 @@
 title: VirtFolder
 description: 'Creating a hierarchical structure like Luhmann''s Zettelkasten'
 author: mr.grogrig
-downloads: 1957
+downloads: 1961
 updated: 1724651525000
 repo: gr0grig/obsidian-virt-folder
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="VirtFolder"
   description="Creating a hierarchical structure like Luhmann&#39;s Zettelkasten"
   author="mr.grogrig"
-  :downloads="1957"
+  :downloads="1961"
   :updated="1724651525000"
   repo="gr0grig/obsidian-virt-folder"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Creating a hierarchical structure like Luhmann&#39;s Zettelkasten
 - **下载量**：2.0K
 - **最后更新**：2024-08-26
 - **GitHub**：[gr0grig/obsidian-virt-folder](https://github.com/gr0grig/obsidian-virt-folder)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

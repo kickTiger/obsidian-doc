@@ -6,7 +6,7 @@ downloads: 255
 updated: 1733053235000
 repo: chaintng/quick-share-note-to-gist
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1733053235000"
   repo="chaintng/quick-share-note-to-gist"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Quick publish and share notes to GitHub Gist and its image by upload images to I
 - **下载量**：255
 - **最后更新**：2024-12-01
 - **GitHub**：[chaintng/quick-share-note-to-gist](https://github.com/chaintng/quick-share-note-to-gist)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Vim IM Select
-description: Support auto select the apposite input method in different vim mode.
+description: 支持在不同的 vim 模式下自动选择合适的输入法。
 author: Alonelur
-downloads: 10142
+downloads: 10148
 updated: 1732735832000
 repo: ALONELUR/vim-im-select-obsidian
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vim-im-select"
   name="Vim IM Select"
-  description="Support auto select the apposite input method in different vim mode."
+  description="支持在不同的 vim 模式下自动选择合适的输入法。"
   author="Alonelur"
-  :downloads="10142"
+  :downloads="10148"
   :updated="1732735832000"
   repo="ALONELUR/vim-im-select-obsidian"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vim IM Select 是一个功能强大的 Obsidian 插件。
 
-Support auto select the apposite input method in different vim mode.
+支持在不同的 vim 模式下自动选择合适的输入法。
 
 通过 Vim IM Select,您可以:
 
@@ -202,7 +202,7 @@ Support auto select the apposite input method in different vim mode.
 - **下载量**：10.1K
 - **最后更新**：2024-11-28
 - **GitHub**：[ALONELUR/vim-im-select-obsidian](https://github.com/ALONELUR/vim-im-select-obsidian)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

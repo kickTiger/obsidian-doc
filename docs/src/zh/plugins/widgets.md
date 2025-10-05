@@ -1,12 +1,12 @@
 ---
 title: Widgets
-description: Add widgets to your notes like clock, countdown, and quotes.
+description: 在笔记中添加时钟、倒计时和引语等小工具。
 author: Rafael Veiga
-downloads: 22648
+downloads: 22682
 updated: 1743039317000
 repo: rafaelveiga/obsidian-widgets
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="widgets"
   name="Widgets"
-  description="Add widgets to your notes like clock, countdown, and quotes."
+  description="在笔记中添加时钟、倒计时和引语等小工具。"
   author="Rafael Veiga"
-  :downloads="22648"
+  :downloads="22682"
   :updated="1743039317000"
   repo="rafaelveiga/obsidian-widgets"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Widgets 是一个功能强大的 Obsidian 插件。
 
-Add widgets to your notes like clock, countdown, and quotes.
+在笔记中添加时钟、倒计时和引语等小工具。
 
 通过 Widgets,您可以:
 
@@ -199,10 +199,10 @@ Add widgets to your notes like clock, countdown, and quotes.
 - **插件 ID**：widgets
 - **作者**：Rafael Veiga
 - **当前版本**：v1.0.0
-- **下载量**：22.6K
+- **下载量**：22.7K
 - **最后更新**：2025-03-27
 - **GitHub**：[rafaelveiga/obsidian-widgets](https://github.com/rafaelveiga/obsidian-widgets)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

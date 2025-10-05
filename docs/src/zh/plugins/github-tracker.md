@@ -6,7 +6,7 @@ downloads: 221
 updated: 1743655662000
 repo: schaier-io/obsidian-github-tracker-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1743655662000"
   repo="schaier-io/obsidian-github-tracker-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Track GitHub issues and pull requests in your vault
 - **下载量**：221
 - **最后更新**：2025-04-03
 - **GitHub**：[schaier-io/obsidian-github-tracker-plugin](https://github.com/schaier-io/obsidian-github-tracker-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: SafeLearn Formatter
 description: Offers visual aids for tags specific for SafeLearn (an open-source project) such as fragments, permission blocks, and side-by-side layouts for Reveal.js.
 author: UnterrainerInformatik
-downloads: 28
+downloads: 31
 updated: 1748530409000
 repo: UnterrainerInformatik/safeLearn-Obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="SafeLearn Formatter"
   description="Offers visual aids for tags specific for SafeLearn (an open-source project) such as fragments, permission blocks, and side-by-side layouts for Reveal.js."
   author="UnterrainerInformatik"
-  :downloads="28"
+  :downloads="31"
   :updated="1748530409000"
   repo="UnterrainerInformatik/safeLearn-Obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Offers visual aids for tags specific for SafeLearn (an open-source project) such
 - **插件 ID**：safelearn-formatter
 - **作者**：UnterrainerInformatik
 - **当前版本**：v1.0.0
-- **下载量**：28
+- **下载量**：31
 - **最后更新**：2025-05-29
 - **GitHub**：[UnterrainerInformatik/safeLearn-Obsidian-plugin](https://github.com/UnterrainerInformatik/safeLearn-Obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

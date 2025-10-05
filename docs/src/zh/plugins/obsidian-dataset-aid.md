@@ -1,12 +1,12 @@
 ---
 title: Text Dataset Aid
-description: Create personal datasets for fine-tuning language models.
+description: 创建用于微调语言模型的个人数据集。
 author: Conner Ohnesorge
 downloads: 3765
 updated: 1706546696000
 repo: conneroisu/Text-Dataset-Aid-Plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-dataset-aid"
   name="Text Dataset Aid"
-  description="Create personal datasets for fine-tuning language models."
+  description="创建用于微调语言模型的个人数据集。"
   author="Conner Ohnesorge"
   :downloads="3765"
   :updated="1706546696000"
   repo="conneroisu/Text-Dataset-Aid-Plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text Dataset Aid 是一个功能强大的 Obsidian 插件。
 
-Create personal datasets for fine-tuning language models.
+创建用于微调语言模型的个人数据集。
 
 通过 Text Dataset Aid,您可以:
 
@@ -202,7 +202,7 @@ Create personal datasets for fine-tuning language models.
 - **下载量**：3.8K
 - **最后更新**：2024-01-30
 - **GitHub**：[conneroisu/Text-Dataset-Aid-Plugin](https://github.com/conneroisu/Text-Dataset-Aid-Plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

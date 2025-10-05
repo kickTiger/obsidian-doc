@@ -6,7 +6,7 @@ downloads: 74
 updated: 1728245939000
 repo: farcaller/obsidian-clojure-plugin-host
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1728245939000"
   repo="farcaller/obsidian-clojure-plugin-host"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ A Clojure plugin host, allowing the creation of simple Clojure-based plugins rig
 - **下载量**：74
 - **最后更新**：2024-10-07
 - **GitHub**：[farcaller/obsidian-clojure-plugin-host](https://github.com/farcaller/obsidian-clojure-plugin-host)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

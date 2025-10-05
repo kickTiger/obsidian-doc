@@ -6,7 +6,7 @@ downloads: 872
 updated: 1717897499000
 repo: drbap/laser-beam-for-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1717897499000"
   repo="drbap/laser-beam-for-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Improve your reading experience with customizable laser lines.
 - **下载量**：872
 - **最后更新**：2024-06-09
 - **GitHub**：[drbap/laser-beam-for-obsidian](https://github.com/drbap/laser-beam-for-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

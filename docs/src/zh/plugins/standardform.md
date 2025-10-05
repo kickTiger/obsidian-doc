@@ -6,7 +6,7 @@ downloads: 416
 updated: 1751911452000
 repo: philphilphil/obsidian-standardform
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1751911452000"
   repo="philphilphil/obsidian-standardform"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Transforms code blocks with Standard Form logical syntax into clean, styled rend
 - **下载量**：416
 - **最后更新**：2025-07-08
 - **GitHub**：[philphilphil/obsidian-standardform](https://github.com/philphilphil/obsidian-standardform)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

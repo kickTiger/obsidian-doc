@@ -1,12 +1,12 @@
 ---
 title: GitHub Gitless Sync
-description: Sync a GitHub repository with vaults on different platforms without requiring git installation
+description: 将 GitHub 仓库与不同平台上的保险库同步，无需安装 git
 author: Silvano Cerza
-downloads: 4197
+downloads: 4216
 updated: 1747936261000
 repo: silvanocerza/github-gitless-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="github-gitless-sync"
   name="GitHub Gitless Sync"
-  description="Sync a GitHub repository with vaults on different platforms without requiring git installation"
+  description="将 GitHub 仓库与不同平台上的保险库同步，无需安装 git"
   author="Silvano Cerza"
-  :downloads="4197"
+  :downloads="4216"
   :updated="1747936261000"
   repo="silvanocerza/github-gitless-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 GitHub Gitless Sync 是一个功能强大的 Obsidian 插件。
 
-Sync a GitHub repository with vaults on different platforms without requiring git installation
+将 GitHub 仓库与不同平台上的保险库同步，无需安装 git
 
 通过 GitHub Gitless Sync,您可以:
 
@@ -202,7 +202,7 @@ Sync a GitHub repository with vaults on different platforms without requiring gi
 - **下载量**：4.2K
 - **最后更新**：2025-05-23
 - **GitHub**：[silvanocerza/github-gitless-sync](https://github.com/silvanocerza/github-gitless-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Note Content Pusher
-description: Prepend or append specified content to a note (existing or new) without opening another pane.
+description: 在不打开另一个窗格的情况下，将指定内容预置或附加到笔记（现有或新建）中。
 author: Henry Gustafson
 downloads: 3968
 updated: 1655179145000
 repo: lizard-heart/obsidian-note-content-pusher
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-note-content-pusher"
   name="Note Content Pusher"
-  description="Prepend or append specified content to a note (existing or new) without opening another pane."
+  description="在不打开另一个窗格的情况下，将指定内容预置或附加到笔记（现有或新建）中。"
   author="Henry Gustafson"
   :downloads="3968"
   :updated="1655179145000"
   repo="lizard-heart/obsidian-note-content-pusher"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note Content Pusher 是一个功能强大的 Obsidian 插件。
 
-Prepend or append specified content to a note (existing or new) without opening another pane.
+在不打开另一个窗格的情况下，将指定内容预置或附加到笔记（现有或新建）中。
 
 通过 Note Content Pusher,您可以:
 
@@ -202,7 +202,7 @@ Prepend or append specified content to a note (existing or new) without opening 
 - **下载量**：4.0K
 - **最后更新**：2022-06-14
 - **GitHub**：[lizard-heart/obsidian-note-content-pusher](https://github.com/lizard-heart/obsidian-note-content-pusher)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

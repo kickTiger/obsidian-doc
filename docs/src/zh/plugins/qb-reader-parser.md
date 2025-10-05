@@ -6,7 +6,7 @@ downloads: 3093
 updated: 1715003767000
 repo: J-Barta/qb-reader-parser
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1715003767000"
   repo="J-Barta/qb-reader-parser"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically parse tossups from QB Reader into a format readable by the Obsidia
 - **下载量**：3.1K
 - **最后更新**：2024-05-06
 - **GitHub**：[J-Barta/qb-reader-parser](https://github.com/J-Barta/qb-reader-parser)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Html Server
-description: Spin up a local http server to access your vault via a web browser.
+description: 启动本地 http 服务器，通过网络浏览器访问保险库。
 author: Pr0dt0s
-downloads: 9217
+downloads: 9221
 updated: 1700696471000
 repo: Pr0dt0s/obsidian-html-server
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="html-server"
   name="Html Server"
-  description="Spin up a local http server to access your vault via a web browser."
+  description="启动本地 http 服务器，通过网络浏览器访问保险库。"
   author="Pr0dt0s"
-  :downloads="9217"
+  :downloads="9221"
   :updated="1700696471000"
   repo="Pr0dt0s/obsidian-html-server"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Html Server 是一个功能强大的 Obsidian 插件。
 
-Spin up a local http server to access your vault via a web browser.
+启动本地 http 服务器，通过网络浏览器访问保险库。
 
 通过 Html Server,您可以:
 
@@ -202,7 +202,7 @@ Spin up a local http server to access your vault via a web browser.
 - **下载量**：9.2K
 - **最后更新**：2023-11-23
 - **GitHub**：[Pr0dt0s/obsidian-html-server](https://github.com/Pr0dt0s/obsidian-html-server)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

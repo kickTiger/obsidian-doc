@@ -2,11 +2,11 @@
 title: Tag Formatter
 description: Gives more options on how to display tags in preview mode.
 author: snsvrno
-downloads: 1885
+downloads: 1886
 updated: 1707919863000
 repo: snsvrno/snsvrno-short-tags
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tag Formatter"
   description="Gives more options on how to display tags in preview mode."
   author="snsvrno"
-  :downloads="1885"
+  :downloads="1886"
   :updated="1707919863000"
   repo="snsvrno/snsvrno-short-tags"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Gives more options on how to display tags in preview mode.
 - **下载量**：1.9K
 - **最后更新**：2024-02-14
 - **GitHub**：[snsvrno/snsvrno-short-tags](https://github.com/snsvrno/snsvrno-short-tags)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

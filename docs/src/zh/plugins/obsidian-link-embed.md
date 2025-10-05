@@ -1,12 +1,12 @@
 ---
 title: Link Embed
-description: Convert URLs in your notes into embeded previews.
+description: 将链接转换为嵌入预览。
 author: SErAphLi
-downloads: 70803
+downloads: 70886
 updated: 1755609246000
 repo: Seraphli/obsidian-link-embed
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-link-embed"
   name="Link Embed"
-  description="Convert URLs in your notes into embeded previews."
+  description="将链接转换为嵌入预览。"
   author="SErAphLi"
-  :downloads="70803"
+  :downloads="70886"
   :updated="1755609246000"
   repo="Seraphli/obsidian-link-embed"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Link Embed 是一个功能强大的 Obsidian 插件。
 
-Convert URLs in your notes into embeded previews.
+将链接转换为嵌入预览。
 
 通过 Link Embed,您可以:
 
@@ -199,10 +199,10 @@ Convert URLs in your notes into embeded previews.
 - **插件 ID**：obsidian-link-embed
 - **作者**：SErAphLi
 - **当前版本**：v1.0.0
-- **下载量**：70.8K
+- **下载量**：70.9K
 - **最后更新**：2025-08-19
 - **GitHub**：[Seraphli/obsidian-link-embed](https://github.com/Seraphli/obsidian-link-embed)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

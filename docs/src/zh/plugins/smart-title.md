@@ -1,12 +1,12 @@
 ---
 title: Smart Title
-description: Automatically extract tags and aliases from the title.
+description: 自动从标题中提取标签和别名。
 author: magooup
-downloads: 8966
+downloads: 8982
 updated: 1702878440000
 repo: magooup/obsidian-plugin-smart-title
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smart-title"
   name="Smart Title"
-  description="Automatically extract tags and aliases from the title."
+  description="自动从标题中提取标签和别名。"
   author="magooup"
-  :downloads="8966"
+  :downloads="8982"
   :updated="1702878440000"
   repo="magooup/obsidian-plugin-smart-title"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Title 是一个功能强大的 Obsidian 插件。
 
-Automatically extract tags and aliases from the title.
+自动从标题中提取标签和别名。
 
 通过 Smart Title,您可以:
 
@@ -202,7 +202,7 @@ Automatically extract tags and aliases from the title.
 - **下载量**：9.0K
 - **最后更新**：2023-12-18
 - **GitHub**：[magooup/obsidian-plugin-smart-title](https://github.com/magooup/obsidian-plugin-smart-title)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Format with Prettier
-description: Format files in your vault using Prettier.
+description: 使用 Prettier 对保险库中的文件进行格式化。
 author: Alex Gavrusev
-downloads: 3845
+downloads: 3850
 updated: 1756454621000
 repo: alexgavrusev/obsidian-format-with-prettier
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="format-with-prettier"
   name="Format with Prettier"
-  description="Format files in your vault using Prettier."
+  description="使用 Prettier 对保险库中的文件进行格式化。"
   author="Alex Gavrusev"
-  :downloads="3845"
+  :downloads="3850"
   :updated="1756454621000"
   repo="alexgavrusev/obsidian-format-with-prettier"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Format with Prettier 是一个功能强大的 Obsidian 插件。
 
-Format files in your vault using Prettier.
+使用 Prettier 对保险库中的文件进行格式化。
 
 通过 Format with Prettier,您可以:
 
@@ -199,10 +199,10 @@ Format files in your vault using Prettier.
 - **插件 ID**：format-with-prettier
 - **作者**：Alex Gavrusev
 - **当前版本**：v1.0.0
-- **下载量**：3.8K
+- **下载量**：3.9K
 - **最后更新**：2025-08-29
 - **GitHub**：[alexgavrusev/obsidian-format-with-prettier](https://github.com/alexgavrusev/obsidian-format-with-prettier)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

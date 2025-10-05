@@ -6,7 +6,7 @@ downloads: 1394
 updated: 1714033024000
 repo: razeghi71/obsidian-image-search
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1714033024000"
   repo="razeghi71/obsidian-image-search"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Search and insert images using Google API
 - **下载量**：1.4K
 - **最后更新**：2024-04-25
 - **GitHub**：[razeghi71/obsidian-image-search](https://github.com/razeghi71/obsidian-image-search)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

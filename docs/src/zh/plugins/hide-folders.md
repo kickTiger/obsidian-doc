@@ -1,12 +1,12 @@
 ---
 title: Hide Folders
-description: Quickly toggle the visibility of specific folders in the file navigator based on configured names. Useful for hiding attachment folders.
+description: 根据配置的名称，在文件导航器中快速切换特定文件夹的可见性。对于隐藏附件文件夹非常有用。
 author: JonasDoesThings
-downloads: 25625
+downloads: 25670
 updated: 1719340235000
 repo: JonasDoesThings/obsidian-hide-folders
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="hide-folders"
   name="Hide Folders"
-  description="Quickly toggle the visibility of specific folders in the file navigator based on configured names. Useful for hiding attachment folders."
+  description="根据配置的名称，在文件导航器中快速切换特定文件夹的可见性。对于隐藏附件文件夹非常有用。"
   author="JonasDoesThings"
-  :downloads="25625"
+  :downloads="25670"
   :updated="1719340235000"
   repo="JonasDoesThings/obsidian-hide-folders"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hide Folders 是一个功能强大的 Obsidian 插件。
 
-Quickly toggle the visibility of specific folders in the file navigator based on configured names. Useful for hiding attachment folders.
+根据配置的名称，在文件导航器中快速切换特定文件夹的可见性。对于隐藏附件文件夹非常有用。
 
 通过 Hide Folders,您可以:
 
@@ -199,10 +199,10 @@ Quickly toggle the visibility of specific folders in the file navigator based on
 - **插件 ID**：hide-folders
 - **作者**：JonasDoesThings
 - **当前版本**：v1.0.0
-- **下载量**：25.6K
+- **下载量**：25.7K
 - **最后更新**：2024-06-26
 - **GitHub**：[JonasDoesThings/obsidian-hide-folders](https://github.com/JonasDoesThings/obsidian-hide-folders)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 519
 updated: 1751015189000
 repo: sidkhuntia/obsdian-headings-helper
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1751015189000"
   repo="sidkhuntia/obsdian-headings-helper"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Cycle heading levels and display visual heading indicators in the gutter.
 - **下载量**：519
 - **最后更新**：2025-06-27
 - **GitHub**：[sidkhuntia/obsdian-headings-helper](https://github.com/sidkhuntia/obsdian-headings-helper)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

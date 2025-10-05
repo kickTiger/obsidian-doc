@@ -1,12 +1,12 @@
 ---
 title: Kindle Highlights Importer
-description: Imports the kindle highlights from the html file (you get from the kindle app) into a note.
+description: 将 html 文件（从 kindle 应用程序获取）中的 kindle 重点内容导入到笔记中。
 author: MovingMillennial
-downloads: 4313
+downloads: 4317
 updated: 1706520406000
 repo: l2xu/kindle_html_importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="kindle-html-importer"
   name="Kindle Highlights Importer"
-  description="Imports the kindle highlights from the html file (you get from the kindle app) into a note."
+  description="将 html 文件（从 kindle 应用程序获取）中的 kindle 重点内容导入到笔记中。"
   author="MovingMillennial"
-  :downloads="4313"
+  :downloads="4317"
   :updated="1706520406000"
   repo="l2xu/kindle_html_importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Kindle Highlights Importer 是一个功能强大的 Obsidian 插件。
 
-Imports the kindle highlights from the html file (you get from the kindle app) into a note.
+将 html 文件（从 kindle 应用程序获取）中的 kindle 重点内容导入到笔记中。
 
 通过 Kindle Highlights Importer,您可以:
 
@@ -202,7 +202,7 @@ Imports the kindle highlights from the html file (you get from the kindle app) i
 - **下载量**：4.3K
 - **最后更新**：2024-01-29
 - **GitHub**：[l2xu/kindle_html_importer](https://github.com/l2xu/kindle_html_importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

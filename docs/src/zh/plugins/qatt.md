@@ -1,12 +1,12 @@
 ---
 title: Query all the things
-description: Execute SQL queries against your data in Obsidian and render it using templates.
+description: 在 Obsidian 中针对数据执行 SQL 查询，并使用模板进行渲染。
 author: Sytone
-downloads: 8595
+downloads: 8597
 updated: 1749597731000
 repo: sytone/obsidian-queryallthethings
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="qatt"
   name="Query all the things"
-  description="Execute SQL queries against your data in Obsidian and render it using templates."
+  description="在 Obsidian 中针对数据执行 SQL 查询，并使用模板进行渲染。"
   author="Sytone"
-  :downloads="8595"
+  :downloads="8597"
   :updated="1749597731000"
   repo="sytone/obsidian-queryallthethings"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Query all the things 是一个功能强大的 Obsidian 插件。
 
-Execute SQL queries against your data in Obsidian and render it using templates.
+在 Obsidian 中针对数据执行 SQL 查询，并使用模板进行渲染。
 
 通过 Query all the things,您可以:
 
@@ -202,7 +202,7 @@ Execute SQL queries against your data in Obsidian and render it using templates.
 - **下载量**：8.6K
 - **最后更新**：2025-06-11
 - **GitHub**：[sytone/obsidian-queryallthethings](https://github.com/sytone/obsidian-queryallthethings)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

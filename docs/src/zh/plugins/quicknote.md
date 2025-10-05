@@ -1,12 +1,12 @@
 ---
 title: Quick note
-description: Create a quick note in a floating window (on command or by right-clicking the Obsidian app icon).
+description: 在浮动窗口（通过命令或右键单击 Obsidian 应用图标）中创建快速笔记。
 author: James Greenhalgh MBCS
 downloads: 4358
 updated: 1692356599000
 repo: jamesgreenblue/obsidian-quicknote
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quicknote"
   name="Quick note"
-  description="Create a quick note in a floating window (on command or by right-clicking the Obsidian app icon)."
+  description="在浮动窗口（通过命令或右键单击 Obsidian 应用图标）中创建快速笔记。"
   author="James Greenhalgh MBCS"
   :downloads="4358"
   :updated="1692356599000"
   repo="jamesgreenblue/obsidian-quicknote"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quick note 是一个功能强大的 Obsidian 插件。
 
-Create a quick note in a floating window (on command or by right-clicking the Obsidian app icon).
+在浮动窗口（通过命令或右键单击 Obsidian 应用图标）中创建快速笔记。
 
 通过 Quick note,您可以:
 
@@ -202,7 +202,7 @@ Create a quick note in a floating window (on command or by right-clicking the Ob
 - **下载量**：4.4K
 - **最后更新**：2023-08-18
 - **GitHub**：[jamesgreenblue/obsidian-quicknote](https://github.com/jamesgreenblue/obsidian-quicknote)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

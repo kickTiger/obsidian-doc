@@ -2,11 +2,11 @@
 title: About Blank
 description: 'Customize the empty file (New tab) itself a little bit by adding "Commands" or "Open files". And edit these: Grouping, Set icon, Ask before execution, Register as a new command.'
 author: Ai-Jani
-downloads: 516
+downloads: 519
 updated: 1752592539000
 repo: Ai-Jani/about-blank
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="About Blank"
   description="Customize the empty file (New tab) itself a little bit by adding &quot;Commands&quot; or &quot;Open files&quot;. And edit these: Grouping, Set icon, Ask before execution, Register as a new command."
   author="Ai-Jani"
-  :downloads="516"
+  :downloads="519"
   :updated="1752592539000"
   repo="Ai-Jani/about-blank"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Customize the empty file (New tab) itself a little bit by adding &quot;Commands&
 - **插件 ID**：about-blank
 - **作者**：Ai-Jani
 - **当前版本**：v1.0.0
-- **下载量**：516
+- **下载量**：519
 - **最后更新**：2025-07-15
 - **GitHub**：[Ai-Jani/about-blank](https://github.com/Ai-Jani/about-blank)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

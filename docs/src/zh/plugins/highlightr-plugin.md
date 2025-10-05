@@ -1,12 +1,12 @@
 ---
 title: Highlightr
-description: A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors.
+description: 简洁美观的高亮菜单，通过可配置的高亮颜色使彩色高亮更加简单。
 author: Chetachi
-downloads: 515634
+downloads: 516107
 updated: 1661971970000
 repo: chetachiezikeuzor/Highlightr-Plugin
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="highlightr-plugin"
   name="Highlightr"
-  description="A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors."
+  description="简洁美观的高亮菜单，通过可配置的高亮颜色使彩色高亮更加简单。"
   author="Chetachi"
-  :downloads="515634"
+  :downloads="516107"
   :updated="1661971970000"
   repo="chetachiezikeuzor/Highlightr-Plugin"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Highlightr 是一个功能强大的 Obsidian 插件。
 
-A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors.
+简洁美观的高亮菜单，通过可配置的高亮颜色使彩色高亮更加简单。
 
 通过 Highlightr,您可以:
 
@@ -199,10 +199,10 @@ A minimal and aesthetically pleasing highlighting menu that makes color-coded hi
 - **插件 ID**：highlightr-plugin
 - **作者**：Chetachi
 - **当前版本**：v1.0.0
-- **下载量**：515.6K
+- **下载量**：516.1K
 - **最后更新**：2022-09-01
 - **GitHub**：[chetachiezikeuzor/Highlightr-Plugin](https://github.com/chetachiezikeuzor/Highlightr-Plugin)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

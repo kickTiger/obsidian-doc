@@ -1,12 +1,12 @@
 ---
 title: Simple Note Review
-description: Simple, customizable plugin for easy note review, resurfacing and repetition.
+description: 简单、可定制的插件，便于复习、重现和重复笔记。
 author: dartungar
-downloads: 12533
+downloads: 12536
 updated: 1712344516000
 repo: dartungar/obsidian-simple-note-review
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="simple-note-review"
   name="Simple Note Review"
-  description="Simple, customizable plugin for easy note review, resurfacing and repetition."
+  description="简单、可定制的插件，便于复习、重现和重复笔记。"
   author="dartungar"
-  :downloads="12533"
+  :downloads="12536"
   :updated="1712344516000"
   repo="dartungar/obsidian-simple-note-review"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Simple Note Review 是一个功能强大的 Obsidian 插件。
 
-Simple, customizable plugin for easy note review, resurfacing and repetition.
+简单、可定制的插件，便于复习、重现和重复笔记。
 
 通过 Simple Note Review,您可以:
 
@@ -202,7 +202,7 @@ Simple, customizable plugin for easy note review, resurfacing and repetition.
 - **下载量**：12.5K
 - **最后更新**：2024-04-06
 - **GitHub**：[dartungar/obsidian-simple-note-review](https://github.com/dartungar/obsidian-simple-note-review)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

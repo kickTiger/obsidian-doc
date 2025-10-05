@@ -1,12 +1,12 @@
 ---
 title: Graphs
-description: Create interactive graphs by writing YAML
+description: 通过编写 YAML 创建交互式图表
 author: Dylan Hojnoski
-downloads: 3792
+downloads: 3799
 updated: 1729656921000
 repo: DylanHojnoski/obsidian-graphs
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="graphs"
   name="Graphs"
-  description="Create interactive graphs by writing YAML"
+  description="通过编写 YAML 创建交互式图表"
   author="Dylan Hojnoski"
-  :downloads="3792"
+  :downloads="3799"
   :updated="1729656921000"
   repo="DylanHojnoski/obsidian-graphs"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Graphs 是一个功能强大的 Obsidian 插件。
 
-Create interactive graphs by writing YAML
+通过编写 YAML 创建交互式图表
 
 通过 Graphs,您可以:
 
@@ -202,7 +202,7 @@ Create interactive graphs by writing YAML
 - **下载量**：3.8K
 - **最后更新**：2024-10-23
 - **GitHub**：[DylanHojnoski/obsidian-graphs](https://github.com/DylanHojnoski/obsidian-graphs)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: WordWise
-description: Writing companion for AI content generation.
+description: 人工智能内容生成的写作伴侣。
 author: ckt1031
-downloads: 5647
+downloads: 5648
 updated: 1752231443000
 repo: ckt1031/obsidian-wordwise-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="wordwise"
   name="WordWise"
-  description="Writing companion for AI content generation."
+  description="人工智能内容生成的写作伴侣。"
   author="ckt1031"
-  :downloads="5647"
+  :downloads="5648"
   :updated="1752231443000"
   repo="ckt1031/obsidian-wordwise-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 WordWise 是一个功能强大的 Obsidian 插件。
 
-Writing companion for AI content generation.
+人工智能内容生成的写作伴侣。
 
 通过 WordWise,您可以:
 
@@ -202,7 +202,7 @@ Writing companion for AI content generation.
 - **下载量**：5.6K
 - **最后更新**：2025-07-11
 - **GitHub**：[ckt1031/obsidian-wordwise-plugin](https://github.com/ckt1031/obsidian-wordwise-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

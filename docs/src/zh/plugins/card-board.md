@@ -1,12 +1,12 @@
 ---
 title: CardBoard
-description: Display Markdown tasks on kanban-style boards.
+description: 在看板上显示 Markdown 任务。
 author: roovo
-downloads: 140527
+downloads: 140617
 updated: 1708860393000
 repo: roovo/obsidian-card-board
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="card-board"
   name="CardBoard"
-  description="Display Markdown tasks on kanban-style boards."
+  description="在看板上显示 Markdown 任务。"
   author="roovo"
-  :downloads="140527"
+  :downloads="140617"
   :updated="1708860393000"
   repo="roovo/obsidian-card-board"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 CardBoard 是一个功能强大的 Obsidian 插件。
 
-Display Markdown tasks on kanban-style boards.
+在看板上显示 Markdown 任务。
 
 通过 CardBoard,您可以:
 
@@ -199,10 +199,10 @@ Display Markdown tasks on kanban-style boards.
 - **插件 ID**：card-board
 - **作者**：roovo
 - **当前版本**：v1.0.0
-- **下载量**：140.5K
+- **下载量**：140.6K
 - **最后更新**：2024-02-25
 - **GitHub**：[roovo/obsidian-card-board](https://github.com/roovo/obsidian-card-board)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

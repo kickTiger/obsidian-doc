@@ -1,12 +1,12 @@
 ---
 title: Aosr
-description: Another Obsidian spaced repetition. Use flashcards to review and remember knowledge.
+description: 另一种黑曜石间隔重复法。使用闪存卡复习和记忆知识。
 author: linanwx
-downloads: 13313
+downloads: 13322
 updated: 1754649562000
 repo: linanwx/aosr
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="aosr"
   name="Aosr"
-  description="Another Obsidian spaced repetition. Use flashcards to review and remember knowledge."
+  description="另一种黑曜石间隔重复法。使用闪存卡复习和记忆知识。"
   author="linanwx"
-  :downloads="13313"
+  :downloads="13322"
   :updated="1754649562000"
   repo="linanwx/aosr"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Aosr 是一个功能强大的 Obsidian 插件。
 
-Another Obsidian spaced repetition. Use flashcards to review and remember knowledge.
+另一种黑曜石间隔重复法。使用闪存卡复习和记忆知识。
 
 通过 Aosr,您可以:
 
@@ -202,7 +202,7 @@ Another Obsidian spaced repetition. Use flashcards to review and remember knowle
 - **下载量**：13.3K
 - **最后更新**：2025-08-08
 - **GitHub**：[linanwx/aosr](https://github.com/linanwx/aosr)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

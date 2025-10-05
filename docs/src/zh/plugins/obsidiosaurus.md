@@ -1,12 +1,12 @@
 ---
 title: Obsidiosaurus
-description: A bridge from your vault to Docusaurus.
+description: 从您的保险库到 Docusaurus 的桥梁。
 author: CIMSTA
 downloads: 3793
 updated: 1692192057000
 repo: CIMSTA/obsidiosaurus
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidiosaurus"
   name="Obsidiosaurus"
-  description="A bridge from your vault to Docusaurus."
+  description="从您的保险库到 Docusaurus 的桥梁。"
   author="CIMSTA"
   :downloads="3793"
   :updated="1692192057000"
   repo="CIMSTA/obsidiosaurus"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Obsidiosaurus 是一个功能强大的 Obsidian 插件。
 
-A bridge from your vault to Docusaurus.
+从您的保险库到 Docusaurus 的桥梁。
 
 通过 Obsidiosaurus,您可以:
 
@@ -202,7 +202,7 @@ A bridge from your vault to Docusaurus.
 - **下载量**：3.8K
 - **最后更新**：2023-08-16
 - **GitHub**：[CIMSTA/obsidiosaurus](https://github.com/CIMSTA/obsidiosaurus)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

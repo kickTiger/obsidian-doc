@@ -1,12 +1,12 @@
 ---
 title: Workona Import
-description: Import Workona resources through generated JSON file.
+description: 通过生成的 JSON 文件导入 Workona 资源。
 author: Holmes555
 downloads: 3997
 updated: 1712002987000
 repo: Holmes555/workona-to-obsidian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="workona-to-obsidian"
   name="Workona Import"
-  description="Import Workona resources through generated JSON file."
+  description="通过生成的 JSON 文件导入 Workona 资源。"
   author="Holmes555"
   :downloads="3997"
   :updated="1712002987000"
   repo="Holmes555/workona-to-obsidian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Workona Import 是一个功能强大的 Obsidian 插件。
 
-Import Workona resources through generated JSON file.
+通过生成的 JSON 文件导入 Workona 资源。
 
 通过 Workona Import,您可以:
 
@@ -202,7 +202,7 @@ Import Workona resources through generated JSON file.
 - **下载量**：4.0K
 - **最后更新**：2024-04-02
 - **GitHub**：[Holmes555/workona-to-obsidian](https://github.com/Holmes555/workona-to-obsidian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

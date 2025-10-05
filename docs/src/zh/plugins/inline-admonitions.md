@@ -1,12 +1,12 @@
 ---
 title: Inline Admonitions
-description: Inline callouts to make text pop.
+description: 内联标注让文字更加生动。
 author: Scott Tomaszewski
-downloads: 7232
+downloads: 7239
 updated: 1748568027000
 repo: scottTomaszewski/obsidian-inline-admonitions
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="inline-admonitions"
   name="Inline Admonitions"
-  description="Inline callouts to make text pop."
+  description="内联标注让文字更加生动。"
   author="Scott Tomaszewski"
-  :downloads="7232"
+  :downloads="7239"
   :updated="1748568027000"
   repo="scottTomaszewski/obsidian-inline-admonitions"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Inline Admonitions 是一个功能强大的 Obsidian 插件。
 
-Inline callouts to make text pop.
+内联标注让文字更加生动。
 
 通过 Inline Admonitions,您可以:
 
@@ -202,7 +202,7 @@ Inline callouts to make text pop.
 - **下载量**：7.2K
 - **最后更新**：2025-05-30
 - **GitHub**：[scottTomaszewski/obsidian-inline-admonitions](https://github.com/scottTomaszewski/obsidian-inline-admonitions)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Proofreader
 description: AI-based proofreading and stylistic improvements for your writing. Changes are inserted as suggestions directly in the editor, similar to suggested changes in word processing apps.
 author: pseudometa (aka Chris Grieser)
-downloads: 1366
+downloads: 1376
 updated: 1759412336000
 repo: chrisgrieser/obsidian-proofreader
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Proofreader"
   description="AI-based proofreading and stylistic improvements for your writing. Changes are inserted as suggestions directly in the editor, similar to suggested changes in word processing apps."
   author="pseudometa (aka Chris Grieser)"
-  :downloads="1366"
+  :downloads="1376"
   :updated="1759412336000"
   repo="chrisgrieser/obsidian-proofreader"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ AI-based proofreading and stylistic improvements for your writing. Changes are i
 - **下载量**：1.4K
 - **最后更新**：2025-10-02
 - **GitHub**：[chrisgrieser/obsidian-proofreader](https://github.com/chrisgrieser/obsidian-proofreader)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Hotkeys++
-description: Additional hotkeys to do common things.
+description: 用于执行常见操作的附加热键。
 author: Argentina Ortega Sainz
-downloads: 91256
+downloads: 91276
 updated: 1639000981000
 repo: argenos/hotkeysplus-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="hotkeysplus-obsidian"
   name="Hotkeys++"
-  description="Additional hotkeys to do common things."
+  description="用于执行常见操作的附加热键。"
   author="Argentina Ortega Sainz"
-  :downloads="91256"
+  :downloads="91276"
   :updated="1639000981000"
   repo="argenos/hotkeysplus-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hotkeys++ 是一个功能强大的 Obsidian 插件。
 
-Additional hotkeys to do common things.
+用于执行常见操作的附加热键。
 
 通过 Hotkeys++,您可以:
 
@@ -202,7 +202,7 @@ Additional hotkeys to do common things.
 - **下载量**：91.3K
 - **最后更新**：2021-12-09
 - **GitHub**：[argenos/hotkeysplus-obsidian](https://github.com/argenos/hotkeysplus-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

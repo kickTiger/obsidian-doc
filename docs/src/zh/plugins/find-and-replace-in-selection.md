@@ -1,12 +1,12 @@
 ---
 title: Find and replace in selection
-description: Find what you are looking for in the selected text and replace it with the specified text.
+description: 在所选文本中查找要查找的内容，并用指定文本替换。
 author: Dmitry Savosh
-downloads: 18422
+downloads: 18431
 updated: 1616428026000
 repo: dy-sh/obsidian-find-and-replace-in-selection
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="find-and-replace-in-selection"
   name="Find and replace in selection"
-  description="Find what you are looking for in the selected text and replace it with the specified text."
+  description="在所选文本中查找要查找的内容，并用指定文本替换。"
   author="Dmitry Savosh"
-  :downloads="18422"
+  :downloads="18431"
   :updated="1616428026000"
   repo="dy-sh/obsidian-find-and-replace-in-selection"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Find and replace in selection 是一个功能强大的 Obsidian 插件。
 
-Find what you are looking for in the selected text and replace it with the specified text.
+在所选文本中查找要查找的内容，并用指定文本替换。
 
 通过 Find and replace in selection,您可以:
 
@@ -202,7 +202,7 @@ Find what you are looking for in the selected text and replace it with the speci
 - **下载量**：18.4K
 - **最后更新**：2021-03-22
 - **GitHub**：[dy-sh/obsidian-find-and-replace-in-selection](https://github.com/dy-sh/obsidian-find-and-replace-in-selection)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

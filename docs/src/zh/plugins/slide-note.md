@@ -1,12 +1,12 @@
 ---
 title: Slide Note
-description: Conveniently take notes on PDF course slides.
+description: 方便地在 PDF 课程幻灯片上做笔记。
 author: Jinyan Xu
-downloads: 10849
+downloads: 10854
 updated: 1741175724000
 repo: Phantom1003/obsidian-slide-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="slide-note"
   name="Slide Note"
-  description="Conveniently take notes on PDF course slides."
+  description="方便地在 PDF 课程幻灯片上做笔记。"
   author="Jinyan Xu"
-  :downloads="10849"
+  :downloads="10854"
   :updated="1741175724000"
   repo="Phantom1003/obsidian-slide-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Slide Note 是一个功能强大的 Obsidian 插件。
 
-Conveniently take notes on PDF course slides.
+方便地在 PDF 课程幻灯片上做笔记。
 
 通过 Slide Note,您可以:
 
@@ -199,10 +199,10 @@ Conveniently take notes on PDF course slides.
 - **插件 ID**：slide-note
 - **作者**：Jinyan Xu
 - **当前版本**：v1.0.0
-- **下载量**：10.8K
+- **下载量**：10.9K
 - **最后更新**：2025-03-05
 - **GitHub**：[Phantom1003/obsidian-slide-note](https://github.com/Phantom1003/obsidian-slide-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

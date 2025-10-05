@@ -2,11 +2,11 @@
 title: Highlight active folder section
 description: Highlight the active folder section and the title in the file explorer.
 author: Lukas Collier
-downloads: 3139
+downloads: 3142
 updated: 1749905158000
 repo: justanotherjurastudent/highlight-active-folder-section
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Highlight active folder section"
   description="Highlight the active folder section and the title in the file explorer."
   author="Lukas Collier"
-  :downloads="3139"
+  :downloads="3142"
   :updated="1749905158000"
   repo="justanotherjurastudent/highlight-active-folder-section"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Highlight the active folder section and the title in the file explorer.
 - **下载量**：3.1K
 - **最后更新**：2025-06-14
 - **GitHub**：[justanotherjurastudent/highlight-active-folder-section](https://github.com/justanotherjurastudent/highlight-active-folder-section)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

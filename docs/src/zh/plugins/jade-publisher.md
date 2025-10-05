@@ -6,7 +6,7 @@ downloads: 34
 updated: 1741793326000
 repo: LucasJi/jade-publisher
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1741793326000"
   repo="LucasJi/jade-publisher"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish your vault and changes to your Jade service.
 - **下载量**：34
 - **最后更新**：2025-03-12
 - **GitHub**：[LucasJi/jade-publisher](https://github.com/LucasJi/jade-publisher)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

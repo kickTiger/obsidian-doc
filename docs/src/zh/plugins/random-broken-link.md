@@ -2,11 +2,11 @@
 title: Random broken link
 description: Expand your knowledge by visiting random broken links.
 author: janTatesa
-downloads: 123
+downloads: 124
 updated: 1746957605000
 repo: janTatesa/obsidian-open-random-broken-link
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Random broken link"
   description="Expand your knowledge by visiting random broken links."
   author="janTatesa"
-  :downloads="123"
+  :downloads="124"
   :updated="1746957605000"
   repo="janTatesa/obsidian-open-random-broken-link"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Expand your knowledge by visiting random broken links.
 - **插件 ID**：random-broken-link
 - **作者**：janTatesa
 - **当前版本**：v1.0.0
-- **下载量**：123
+- **下载量**：124
 - **最后更新**：2025-05-11
 - **GitHub**：[janTatesa/obsidian-open-random-broken-link](https://github.com/janTatesa/obsidian-open-random-broken-link)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

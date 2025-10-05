@@ -2,11 +2,11 @@
 title: Sync Contacts on macOS
 description: Sync your macOS contacts.
 author: Marcel Schöckel
-downloads: 3478
+downloads: 3479
 updated: 1729004453000
 repo: motschel123/Mac-Contact-Sync-Obsidian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Sync Contacts on macOS"
   description="Sync your macOS contacts."
   author="Marcel Schöckel"
-  :downloads="3478"
+  :downloads="3479"
   :updated="1729004453000"
   repo="motschel123/Mac-Contact-Sync-Obsidian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync your macOS contacts.
 - **下载量**：3.5K
 - **最后更新**：2024-10-15
 - **GitHub**：[motschel123/Mac-Contact-Sync-Obsidian](https://github.com/motschel123/Mac-Contact-Sync-Obsidian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

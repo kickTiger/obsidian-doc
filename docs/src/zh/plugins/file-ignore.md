@@ -2,11 +2,11 @@
 title: File Ignore
 description: Controls file indexing by managing dot prefixes on files/folders to truly hide/exclude them, providing a .gitignore-like experience.
 author: Feng
-downloads: 1230
+downloads: 1234
 updated: 1748365553000
 repo: Feng6611/Obsidian-File-Ignore
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="File Ignore"
   description="Controls file indexing by managing dot prefixes on files/folders to truly hide/exclude them, providing a .gitignore-like experience."
   author="Feng"
-  :downloads="1230"
+  :downloads="1234"
   :updated="1748365553000"
   repo="Feng6611/Obsidian-File-Ignore"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Controls file indexing by managing dot prefixes on files/folders to truly hide/e
 - **下载量**：1.2K
 - **最后更新**：2025-05-28
 - **GitHub**：[Feng6611/Obsidian-File-Ignore](https://github.com/Feng6611/Obsidian-File-Ignore)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

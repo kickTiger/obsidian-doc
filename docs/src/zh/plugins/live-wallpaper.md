@@ -1,12 +1,12 @@
 ---
 title: Live Background
-description: Add dynamic live wallpapers (images/videos) to your workspace with customizable effects
+description: 为您的工作区添加动态实时壁纸（图像/视频），并提供可定制的效果
 author: 'Rememememe :3'
-downloads: 3592
+downloads: 3608
 updated: 1757800171000
 repo: remememe/Live-Wallpaper
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="live-wallpaper"
   name="Live Background"
-  description="Add dynamic live wallpapers (images/videos) to your workspace with customizable effects"
+  description="为您的工作区添加动态实时壁纸（图像/视频），并提供可定制的效果"
   author="Rememememe :3"
-  :downloads="3592"
+  :downloads="3608"
   :updated="1757800171000"
   repo="remememe/Live-Wallpaper"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Live Background 是一个功能强大的 Obsidian 插件。
 
-Add dynamic live wallpapers (images/videos) to your workspace with customizable effects
+为您的工作区添加动态实时壁纸（图像/视频），并提供可定制的效果
 
 通过 Live Background,您可以:
 
@@ -202,7 +202,7 @@ Add dynamic live wallpapers (images/videos) to your workspace with customizable 
 - **下载量**：3.6K
 - **最后更新**：2025-09-14
 - **GitHub**：[remememe/Live-Wallpaper](https://github.com/remememe/Live-Wallpaper)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

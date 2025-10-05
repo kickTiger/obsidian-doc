@@ -1,12 +1,12 @@
 ---
 title: Apple Books Highlights
-description: Sync your Apple Books highlights automatically.
+description: 自动同步 Apple Books 的精彩内容。
 author: Atif Afzal
 downloads: 5897
 updated: 1678636485000
 repo: atfzl/obsidian-apple-books-plugin
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="apple-books-highlights"
   name="Apple Books Highlights"
-  description="Sync your Apple Books highlights automatically."
+  description="自动同步 Apple Books 的精彩内容。"
   author="Atif Afzal"
   :downloads="5897"
   :updated="1678636485000"
   repo="atfzl/obsidian-apple-books-plugin"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Apple Books Highlights 是一个功能强大的 Obsidian 插件。
 
-Sync your Apple Books highlights automatically.
+自动同步 Apple Books 的精彩内容。
 
 通过 Apple Books Highlights,您可以:
 
@@ -202,7 +202,7 @@ Sync your Apple Books highlights automatically.
 - **下载量**：5.9K
 - **最后更新**：2023-03-12
 - **GitHub**：[atfzl/obsidian-apple-books-plugin](https://github.com/atfzl/obsidian-apple-books-plugin)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

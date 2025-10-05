@@ -1,12 +1,12 @@
 ---
 title: Rich Foot
-description: Adds backlink tags and created/modified dates to the footer of your notes.
+description: 在笔记页脚添加反向链接标签和创建/修改日期。
 author: Justin Parker
-downloads: 8365
+downloads: 8381
 updated: 1737834923000
 repo: jparkerweb/rich-foot
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="rich-foot"
   name="Rich Foot"
-  description="Adds backlink tags and created/modified dates to the footer of your notes."
+  description="在笔记页脚添加反向链接标签和创建/修改日期。"
   author="Justin Parker"
-  :downloads="8365"
+  :downloads="8381"
   :updated="1737834923000"
   repo="jparkerweb/rich-foot"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Rich Foot 是一个功能强大的 Obsidian 插件。
 
-Adds backlink tags and created/modified dates to the footer of your notes.
+在笔记页脚添加反向链接标签和创建/修改日期。
 
 通过 Rich Foot,您可以:
 
@@ -202,7 +202,7 @@ Adds backlink tags and created/modified dates to the footer of your notes.
 - **下载量**：8.4K
 - **最后更新**：2025-01-26
 - **GitHub**：[jparkerweb/rich-foot](https://github.com/jparkerweb/rich-foot)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

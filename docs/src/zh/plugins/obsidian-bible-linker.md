@@ -1,12 +1,12 @@
 ---
 title: Bible Linker
-description: Link/Copy multiple Bible verses easily using your own Bible files. Compatible with the Bible Study Kit.
+description: 使用自己的圣经文件轻松链接/复制多节圣经经文。与圣经学习套件兼容。
 author: Jakub Kuchejda
-downloads: 15160
+downloads: 15172
 updated: 1758890611000
 repo: kuchejak/obsidian-bible-linker-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-bible-linker"
   name="Bible Linker"
-  description="Link/Copy multiple Bible verses easily using your own Bible files. Compatible with the Bible Study Kit."
+  description="使用自己的圣经文件轻松链接/复制多节圣经经文。与圣经学习套件兼容。"
   author="Jakub Kuchejda"
-  :downloads="15160"
+  :downloads="15172"
   :updated="1758890611000"
   repo="kuchejak/obsidian-bible-linker-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Bible Linker 是一个功能强大的 Obsidian 插件。
 
-Link/Copy multiple Bible verses easily using your own Bible files. Compatible with the Bible Study Kit.
+使用自己的圣经文件轻松链接/复制多节圣经经文。与圣经学习套件兼容。
 
 通过 Bible Linker,您可以:
 
@@ -202,7 +202,7 @@ Link/Copy multiple Bible verses easily using your own Bible files. Compatible wi
 - **下载量**：15.2K
 - **最后更新**：2025-09-26
 - **GitHub**：[kuchejak/obsidian-bible-linker-plugin](https://github.com/kuchejak/obsidian-bible-linker-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

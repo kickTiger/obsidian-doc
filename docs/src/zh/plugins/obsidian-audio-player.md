@@ -1,12 +1,12 @@
 ---
 title: Audio Player
-description: Audio player with background playback, bookmarks and wave visualiser instead of the default HTML5 audio.
+description: 音频播放器，具有背景播放、书签和波形可视化功能，而不是默认的 HTML5 音频。
 author: noonesimg
-downloads: 15499
+downloads: 15517
 updated: 1671034339000
 repo: noonesimg/obsidian-audio-player
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-audio-player"
   name="Audio Player"
-  description="Audio player with background playback, bookmarks and wave visualiser instead of the default HTML5 audio."
+  description="音频播放器，具有背景播放、书签和波形可视化功能，而不是默认的 HTML5 音频。"
   author="noonesimg"
-  :downloads="15499"
+  :downloads="15517"
   :updated="1671034339000"
   repo="noonesimg/obsidian-audio-player"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Audio Player 是一个功能强大的 Obsidian 插件。
 
-Audio player with background playback, bookmarks and wave visualiser instead of the default HTML5 audio.
+音频播放器，具有背景播放、书签和波形可视化功能，而不是默认的 HTML5 音频。
 
 通过 Audio Player,您可以:
 
@@ -202,7 +202,7 @@ Audio player with background playback, bookmarks and wave visualiser instead of 
 - **下载量**：15.5K
 - **最后更新**：2022-12-15
 - **GitHub**：[noonesimg/obsidian-audio-player](https://github.com/noonesimg/obsidian-audio-player)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

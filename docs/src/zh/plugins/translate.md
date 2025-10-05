@@ -1,12 +1,12 @@
 ---
 title: Translate
-description: Translate text and notes with Google Translate, DeepL, Azure, and more.
+description: 使用 Google 翻译、DeepL、Azure 等工具翻译文本和笔记。
 author: Fevol
-downloads: 47758
+downloads: 47807
 updated: 1719924365000
 repo: Fevol/obsidian-translate
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="translate"
   name="Translate"
-  description="Translate text and notes with Google Translate, DeepL, Azure, and more."
+  description="使用 Google 翻译、DeepL、Azure 等工具翻译文本和笔记。"
   author="Fevol"
-  :downloads="47758"
+  :downloads="47807"
   :updated="1719924365000"
   repo="Fevol/obsidian-translate"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Translate 是一个功能强大的 Obsidian 插件。
 
-Translate text and notes with Google Translate, DeepL, Azure, and more.
+使用 Google 翻译、DeepL、Azure 等工具翻译文本和笔记。
 
 通过 Translate,您可以:
 
@@ -202,7 +202,7 @@ Translate text and notes with Google Translate, DeepL, Azure, and more.
 - **下载量**：47.8K
 - **最后更新**：2024-07-02
 - **GitHub**：[Fevol/obsidian-translate](https://github.com/Fevol/obsidian-translate)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

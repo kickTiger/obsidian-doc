@@ -1,12 +1,12 @@
 ---
 title: Meld Calc
-description: 'Do math! Evaluate math expressions within your notes.'
+description: 做数学题在笔记中评估数学表达式。
 author: meld-cp
 downloads: 12681
 updated: 1634953681000
 repo: meld-cp/obsidian-calc
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="meld-calc"
   name="Meld Calc"
-  description="Do math! Evaluate math expressions within your notes."
+  description="做数学题在笔记中评估数学表达式。"
   author="meld-cp"
   :downloads="12681"
   :updated="1634953681000"
   repo="meld-cp/obsidian-calc"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Meld Calc 是一个功能强大的 Obsidian 插件。
 
-Do math! Evaluate math expressions within your notes.
+做数学题在笔记中评估数学表达式。
 
 通过 Meld Calc,您可以:
 
@@ -202,7 +202,7 @@ Do math! Evaluate math expressions within your notes.
 - **下载量**：12.7K
 - **最后更新**：2021-10-23
 - **GitHub**：[meld-cp/obsidian-calc](https://github.com/meld-cp/obsidian-calc)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

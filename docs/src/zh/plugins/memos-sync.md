@@ -2,11 +2,11 @@
 title: Memos Sync
 description: Syncing memos from a Memos server to your daily note. Fully compatible with official Daily Notes plugin, Calendar plugin and Periodic Notes plugin.
 author: RyoJerryYu
-downloads: 2651
+downloads: 2652
 updated: 1742750148000
 repo: RyoJerryYu/obsidian-memos-sync
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Memos Sync"
   description="Syncing memos from a Memos server to your daily note. Fully compatible with official Daily Notes plugin, Calendar plugin and Periodic Notes plugin."
   author="RyoJerryYu"
-  :downloads="2651"
+  :downloads="2652"
   :updated="1742750148000"
   repo="RyoJerryYu/obsidian-memos-sync"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Syncing memos from a Memos server to your daily note. Fully compatible with offi
 - **下载量**：2.7K
 - **最后更新**：2025-03-24
 - **GitHub**：[RyoJerryYu/obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

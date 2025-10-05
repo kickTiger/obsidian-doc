@@ -1,12 +1,12 @@
 ---
 title: Arrows
-description: Draw arrows across different parts of your notes, similar to on paper.
+description: 在笔记的不同部分画箭头，类似于在纸上画箭头。
 author: artisticat
-downloads: 6378
+downloads: 6387
 updated: 1703175247000
 repo: artisticat1/arrows
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="arrows-in-md"
   name="Arrows"
-  description="Draw arrows across different parts of your notes, similar to on paper."
+  description="在笔记的不同部分画箭头，类似于在纸上画箭头。"
   author="artisticat"
-  :downloads="6378"
+  :downloads="6387"
   :updated="1703175247000"
   repo="artisticat1/arrows"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Arrows 是一个功能强大的 Obsidian 插件。
 
-Draw arrows across different parts of your notes, similar to on paper.
+在笔记的不同部分画箭头，类似于在纸上画箭头。
 
 通过 Arrows,您可以:
 
@@ -202,7 +202,7 @@ Draw arrows across different parts of your notes, similar to on paper.
 - **下载量**：6.4K
 - **最后更新**：2023-12-22
 - **GitHub**：[artisticat1/arrows](https://github.com/artisticat1/arrows)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

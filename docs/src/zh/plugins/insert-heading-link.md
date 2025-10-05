@@ -1,12 +1,12 @@
 ---
 title: Insert Heading Link
-description: Add a command to create a link to a heading.
+description: 添加创建标题链接的命令。
 author: Signynt
-downloads: 4834
+downloads: 4836
 updated: 1644791806000
 repo: Signynt/insert-heading-link
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="insert-heading-link"
   name="Insert Heading Link"
-  description="Add a command to create a link to a heading."
+  description="添加创建标题链接的命令。"
   author="Signynt"
-  :downloads="4834"
+  :downloads="4836"
   :updated="1644791806000"
   repo="Signynt/insert-heading-link"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Insert Heading Link 是一个功能强大的 Obsidian 插件。
 
-Add a command to create a link to a heading.
+添加创建标题链接的命令。
 
 通过 Insert Heading Link,您可以:
 
@@ -202,7 +202,7 @@ Add a command to create a link to a heading.
 - **下载量**：4.8K
 - **最后更新**：2022-02-14
 - **GitHub**：[Signynt/insert-heading-link](https://github.com/Signynt/insert-heading-link)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

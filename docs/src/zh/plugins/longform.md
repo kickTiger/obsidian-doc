@@ -1,12 +1,12 @@
 ---
 title: Longform
-description: Helps you write and edit novels, screenplays, and other long projects.
+description: 帮助您撰写和编辑小说、剧本和其他长篇项目。
 author: Kevin Barrett
-downloads: 121885
+downloads: 122033
 updated: 1742426564000
 repo: kevboh/longform
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="longform"
   name="Longform"
-  description="Helps you write and edit novels, screenplays, and other long projects."
+  description="帮助您撰写和编辑小说、剧本和其他长篇项目。"
   author="Kevin Barrett"
-  :downloads="121885"
+  :downloads="122033"
   :updated="1742426564000"
   repo="kevboh/longform"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Longform 是一个功能强大的 Obsidian 插件。
 
-Helps you write and edit novels, screenplays, and other long projects.
+帮助您撰写和编辑小说、剧本和其他长篇项目。
 
 通过 Longform,您可以:
 
@@ -199,10 +199,10 @@ Helps you write and edit novels, screenplays, and other long projects.
 - **插件 ID**：longform
 - **作者**：Kevin Barrett
 - **当前版本**：v1.0.0
-- **下载量**：121.9K
+- **下载量**：122.0K
 - **最后更新**：2025-03-20
 - **GitHub**：[kevboh/longform](https://github.com/kevboh/longform)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

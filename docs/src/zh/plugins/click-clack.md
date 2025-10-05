@@ -1,12 +1,12 @@
 ---
 title: Click Clack
-description: Simulates typewriter / mechanical keyboard sounds.
+description: 模拟打字机/机械键盘的声音。
 author: Acylation
-downloads: 9970
+downloads: 9999
 updated: 1712222034000
 repo: Acylation/obsidian-click-clack
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="click-clack"
   name="Click Clack"
-  description="Simulates typewriter / mechanical keyboard sounds."
+  description="模拟打字机/机械键盘的声音。"
   author="Acylation"
-  :downloads="9970"
+  :downloads="9999"
   :updated="1712222034000"
   repo="Acylation/obsidian-click-clack"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Click Clack 是一个功能强大的 Obsidian 插件。
 
-Simulates typewriter / mechanical keyboard sounds.
+模拟打字机/机械键盘的声音。
 
 通过 Click Clack,您可以:
 
@@ -202,7 +202,7 @@ Simulates typewriter / mechanical keyboard sounds.
 - **下载量**：10.0K
 - **最后更新**：2024-04-04
 - **GitHub**：[Acylation/obsidian-click-clack](https://github.com/Acylation/obsidian-click-clack)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

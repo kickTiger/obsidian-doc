@@ -1,12 +1,12 @@
 ---
 title: Local GPT
-description: 'Local Ollama and OpenAI-like GPT''s assistance for maximum privacy and offline access.'
+description: 本地 Ollama 和 OpenAI-like GPT 的协助可最大限度地保护隐私和实现离线访问。
 author: Pavel Frankov
-downloads: 52998
+downloads: 53073
 updated: 1757540218000
 repo: pfrankov/obsidian-local-gpt
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="local-gpt"
   name="Local GPT"
-  description="Local Ollama and OpenAI-like GPT&#39;s assistance for maximum privacy and offline access."
+  description="本地 Ollama 和 OpenAI-like GPT 的协助可最大限度地保护隐私和实现离线访问。"
   author="Pavel Frankov"
-  :downloads="52998"
+  :downloads="53073"
   :updated="1757540218000"
   repo="pfrankov/obsidian-local-gpt"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Local GPT 是一个功能强大的 Obsidian 插件。
 
-Local Ollama and OpenAI-like GPT&#39;s assistance for maximum privacy and offline access.
+本地 Ollama 和 OpenAI-like GPT 的协助可最大限度地保护隐私和实现离线访问。
 
 通过 Local GPT,您可以:
 
@@ -199,10 +199,10 @@ Local Ollama and OpenAI-like GPT&#39;s assistance for maximum privacy and offlin
 - **插件 ID**：local-gpt
 - **作者**：Pavel Frankov
 - **当前版本**：v1.0.0
-- **下载量**：53.0K
+- **下载量**：53.1K
 - **最后更新**：2025-09-11
 - **GitHub**：[pfrankov/obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

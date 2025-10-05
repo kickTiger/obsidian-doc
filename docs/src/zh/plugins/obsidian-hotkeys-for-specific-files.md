@@ -1,12 +1,12 @@
 ---
 title: Hotkeys for specific files
-description: Add commands for specific files and open them with a hotkey.
+description: 为特定文件添加命令，并使用热键打开它们。
 author: Vinzent
-downloads: 29016
+downloads: 29026
 updated: 1706561161000
 repo: Vinzent03/obsidian-hotkeys-for-specific-files
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-hotkeys-for-specific-files"
   name="Hotkeys for specific files"
-  description="Add commands for specific files and open them with a hotkey."
+  description="为特定文件添加命令，并使用热键打开它们。"
   author="Vinzent"
-  :downloads="29016"
+  :downloads="29026"
   :updated="1706561161000"
   repo="Vinzent03/obsidian-hotkeys-for-specific-files"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hotkeys for specific files 是一个功能强大的 Obsidian 插件。
 
-Add commands for specific files and open them with a hotkey.
+为特定文件添加命令，并使用热键打开它们。
 
 通过 Hotkeys for specific files,您可以:
 
@@ -202,7 +202,7 @@ Add commands for specific files and open them with a hotkey.
 - **下载量**：29.0K
 - **最后更新**：2024-01-30
 - **GitHub**：[Vinzent03/obsidian-hotkeys-for-specific-files](https://github.com/Vinzent03/obsidian-hotkeys-for-specific-files)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

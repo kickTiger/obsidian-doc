@@ -2,11 +2,11 @@
 title: Arcane Obfuscate
 description: Obfuscate text with an arcane runic effect.
 author: Shusako
-downloads: 494
+downloads: 495
 updated: 1721945354000
 repo: Shusako/arcane-obfuscate
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Arcane Obfuscate"
   description="Obfuscate text with an arcane runic effect."
   author="Shusako"
-  :downloads="494"
+  :downloads="495"
   :updated="1721945354000"
   repo="Shusako/arcane-obfuscate"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Obfuscate text with an arcane runic effect.
 - **插件 ID**：arcane-obfuscate
 - **作者**：Shusako
 - **当前版本**：v1.0.0
-- **下载量**：494
+- **下载量**：495
 - **最后更新**：2024-07-26
 - **GitHub**：[Shusako/arcane-obfuscate](https://github.com/Shusako/arcane-obfuscate)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

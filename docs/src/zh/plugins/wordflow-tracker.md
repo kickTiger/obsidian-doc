@@ -2,11 +2,11 @@
 title: Wordflow Tracker
 description: Track the changes and stats of your edited note files automatically. Record the modified notes and statistics to your daily note
 author: LeCheenaX
-downloads: 2116
+downloads: 2130
 updated: 1751715153000
 repo: LeCheenaX/WordFlow-Tracker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Wordflow Tracker"
   description="Track the changes and stats of your edited note files automatically. Record the modified notes and statistics to your daily note"
   author="LeCheenaX"
-  :downloads="2116"
+  :downloads="2130"
   :updated="1751715153000"
   repo="LeCheenaX/WordFlow-Tracker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Track the changes and stats of your edited note files automatically. Record the 
 - **下载量**：2.1K
 - **最后更新**：2025-07-05
 - **GitHub**：[LeCheenaX/WordFlow-Tracker](https://github.com/LeCheenaX/WordFlow-Tracker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

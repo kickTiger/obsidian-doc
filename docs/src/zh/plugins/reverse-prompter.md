@@ -6,7 +6,7 @@ downloads: 1195
 updated: 1724563563000
 repo: ryanhalliday/obsidian-reverse-prompter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1724563563000"
   repo="ryanhalliday/obsidian-reverse-prompter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate prompts to keep you writing with AI.
 - **下载量**：1.2K
 - **最后更新**：2024-08-25
 - **GitHub**：[ryanhalliday/obsidian-reverse-prompter](https://github.com/ryanhalliday/obsidian-reverse-prompter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

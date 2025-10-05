@@ -1,12 +1,12 @@
 ---
 title: Extended MathJax
-description: Enable additional MathJax packages and adds a global preamble for MathJax.
+description: 启用其他 MathJax 软件包，并为 MathJax 添加全局前言。
 author: 'Xavier Denis & Ng Wei En'
-downloads: 46885
+downloads: 46929
 updated: 1673589222000
 repo: wei2912/obsidian-latex
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-latex"
   name="Extended MathJax"
-  description="Enable additional MathJax packages and adds a global preamble for MathJax."
+  description="启用其他 MathJax 软件包，并为 MathJax 添加全局前言。"
   author="Xavier Denis &amp; Ng Wei En"
-  :downloads="46885"
+  :downloads="46929"
   :updated="1673589222000"
   repo="wei2912/obsidian-latex"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Extended MathJax 是一个功能强大的 Obsidian 插件。
 
-Enable additional MathJax packages and adds a global preamble for MathJax.
+启用其他 MathJax 软件包，并为 MathJax 添加全局前言。
 
 通过 Extended MathJax,您可以:
 
@@ -202,7 +202,7 @@ Enable additional MathJax packages and adds a global preamble for MathJax.
 - **下载量**：46.9K
 - **最后更新**：2023-01-13
 - **GitHub**：[wei2912/obsidian-latex](https://github.com/wei2912/obsidian-latex)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

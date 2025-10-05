@@ -1,12 +1,12 @@
 ---
 title: Pinned Notes
-description: Pin frequently-used notes on Ribbon actions (left sidebar)
+description: 将常用备注固定在功能区操作（左侧边栏）
 author: vasilcoin002
-downloads: 3927
+downloads: 3932
 updated: 1749318783000
 repo: vasilcoin002/pinned-notes-plugin-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pinned-notes"
   name="Pinned Notes"
-  description="Pin frequently-used notes on Ribbon actions (left sidebar)"
+  description="将常用备注固定在功能区操作（左侧边栏）"
   author="vasilcoin002"
-  :downloads="3927"
+  :downloads="3932"
   :updated="1749318783000"
   repo="vasilcoin002/pinned-notes-plugin-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pinned Notes 是一个功能强大的 Obsidian 插件。
 
-Pin frequently-used notes on Ribbon actions (left sidebar)
+将常用备注固定在功能区操作（左侧边栏）
 
 通过 Pinned Notes,您可以:
 
@@ -202,7 +202,7 @@ Pin frequently-used notes on Ribbon actions (left sidebar)
 - **下载量**：3.9K
 - **最后更新**：2025-06-08
 - **GitHub**：[vasilcoin002/pinned-notes-plugin-obsidian](https://github.com/vasilcoin002/pinned-notes-plugin-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

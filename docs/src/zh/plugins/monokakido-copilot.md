@@ -2,11 +2,11 @@
 title: Monokakido Copilot
 description: During editing, simply double-press the option key to search with the Dictionaries by Monokakido.
 author: NoHeartPen
-downloads: 337
+downloads: 338
 updated: 1754136586000
 repo: NoHeartPen/obsidian-monokakido-copilot-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Monokakido Copilot"
   description="During editing, simply double-press the option key to search with the Dictionaries by Monokakido."
   author="NoHeartPen"
-  :downloads="337"
+  :downloads="338"
   :updated="1754136586000"
   repo="NoHeartPen/obsidian-monokakido-copilot-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ During editing, simply double-press the option key to search with the Dictionari
 - **插件 ID**：monokakido-copilot
 - **作者**：NoHeartPen
 - **当前版本**：v1.0.0
-- **下载量**：337
+- **下载量**：338
 - **最后更新**：2025-08-02
 - **GitHub**：[NoHeartPen/obsidian-monokakido-copilot-plugin](https://github.com/NoHeartPen/obsidian-monokakido-copilot-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Checkbox Reorder
-description: Reorder completed checkboxes to the end of the according list.
+description: 将已完成的复选框重新排序到相应列表的末尾。
 author: Erl-koenig
-downloads: 6265
+downloads: 6268
 updated: 1710770932000
 repo: Erl-koenig/obsidian-checkboxReorder
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="checkbox-reorder"
   name="Checkbox Reorder"
-  description="Reorder completed checkboxes to the end of the according list."
+  description="将已完成的复选框重新排序到相应列表的末尾。"
   author="Erl-koenig"
-  :downloads="6265"
+  :downloads="6268"
   :updated="1710770932000"
   repo="Erl-koenig/obsidian-checkboxReorder"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Checkbox Reorder 是一个功能强大的 Obsidian 插件。
 
-Reorder completed checkboxes to the end of the according list.
+将已完成的复选框重新排序到相应列表的末尾。
 
 通过 Checkbox Reorder,您可以:
 
@@ -202,7 +202,7 @@ Reorder completed checkboxes to the end of the according list.
 - **下载量**：6.3K
 - **最后更新**：2024-03-18
 - **GitHub**：[Erl-koenig/obsidian-checkboxReorder](https://github.com/Erl-koenig/obsidian-checkboxReorder)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

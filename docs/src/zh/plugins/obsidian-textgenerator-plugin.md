@@ -1,12 +1,12 @@
 ---
 title: Text Generator
-description: Generate text content using GPT-3 (OpenAI).
+description: 使用GPT-3（OpenAI）生成文本内容。
 author: Noureddine Haouari
-downloads: 466109
+downloads: 466468
 updated: 1754370891000
 repo: nhaouari/obsidian-textgenerator-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-textgenerator-plugin"
   name="Text Generator"
-  description="Generate text content using GPT-3 (OpenAI)."
+  description="使用GPT-3（OpenAI）生成文本内容。"
   author="Noureddine Haouari"
-  :downloads="466109"
+  :downloads="466468"
   :updated="1754370891000"
   repo="nhaouari/obsidian-textgenerator-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text Generator 是一个功能强大的 Obsidian 插件。
 
-Generate text content using GPT-3 (OpenAI).
+使用GPT-3（OpenAI）生成文本内容。
 
 通过 Text Generator,您可以:
 
@@ -199,10 +199,10 @@ Generate text content using GPT-3 (OpenAI).
 - **插件 ID**：obsidian-textgenerator-plugin
 - **作者**：Noureddine Haouari
 - **当前版本**：v1.0.0
-- **下载量**：466.1K
+- **下载量**：466.5K
 - **最后更新**：2025-08-05
 - **GitHub**：[nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 442
 updated: 1751815702000
 repo: LucEast/obsidian-current-view
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1751815702000"
   repo="LucEast/obsidian-current-view"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically set the view mode (Reading, Live Preview, Source) for notes using 
 - **下载量**：442
 - **最后更新**：2025-07-06
 - **GitHub**：[LucEast/obsidian-current-view](https://github.com/LucEast/obsidian-current-view)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

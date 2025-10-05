@@ -1,12 +1,12 @@
 ---
 title: Discord Rich Presence
-description: Update your Discord Status to show your friends what you are working on.
+description: 更新您的 Discord 状态，向朋友们展示您的工作成果。
 author: Luke Leppan
-downloads: 28196
+downloads: 28210
 updated: 1692003751000
 repo: lukeleppan/obsidian-discordrpc
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-discordrpc"
   name="Discord Rich Presence"
-  description="Update your Discord Status to show your friends what you are working on."
+  description="更新您的 Discord 状态，向朋友们展示您的工作成果。"
   author="Luke Leppan"
-  :downloads="28196"
+  :downloads="28210"
   :updated="1692003751000"
   repo="lukeleppan/obsidian-discordrpc"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Discord Rich Presence 是一个功能强大的 Obsidian 插件。
 
-Update your Discord Status to show your friends what you are working on.
+更新您的 Discord 状态，向朋友们展示您的工作成果。
 
 通过 Discord Rich Presence,您可以:
 
@@ -202,7 +202,7 @@ Update your Discord Status to show your friends what you are working on.
 - **下载量**：28.2K
 - **最后更新**：2023-08-14
 - **GitHub**：[lukeleppan/obsidian-discordrpc](https://github.com/lukeleppan/obsidian-discordrpc)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

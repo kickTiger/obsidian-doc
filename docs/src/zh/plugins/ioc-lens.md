@@ -2,11 +2,11 @@
 title: IOC Lens
 description: Extracts and displays security-relevant indicators such as IP addresses, domains, and file hashes to enhance your cyber security note-taking process.
 author: Aaron Gabbert
-downloads: 584
+downloads: 585
 updated: 1733917641000
 repo: acgabbert/IOC-Lens
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="IOC Lens"
   description="Extracts and displays security-relevant indicators such as IP addresses, domains, and file hashes to enhance your cyber security note-taking process."
   author="Aaron Gabbert"
-  :downloads="584"
+  :downloads="585"
   :updated="1733917641000"
   repo="acgabbert/IOC-Lens"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Extracts and displays security-relevant indicators such as IP addresses, domains
 - **插件 ID**：ioc-lens
 - **作者**：Aaron Gabbert
 - **当前版本**：v1.0.0
-- **下载量**：584
+- **下载量**：585
 - **最后更新**：2024-12-11
 - **GitHub**：[acgabbert/IOC-Lens](https://github.com/acgabbert/IOC-Lens)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

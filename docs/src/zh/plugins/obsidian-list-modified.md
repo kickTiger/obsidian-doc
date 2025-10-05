@@ -1,12 +1,12 @@
 ---
 title: List Modified
-description: Link all modified files meeting certain criteria to a daily note.
+description: 将符合特定条件的所有修改文件链接到每日备忘。
 author: Francis Kafieh
-downloads: 14948
+downloads: 14953
 updated: 1757698519000
 repo: franciskafieh/obsidian-list-modified
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-list-modified"
   name="List Modified"
-  description="Link all modified files meeting certain criteria to a daily note."
+  description="将符合特定条件的所有修改文件链接到每日备忘。"
   author="Francis Kafieh"
-  :downloads="14948"
+  :downloads="14953"
   :updated="1757698519000"
   repo="franciskafieh/obsidian-list-modified"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 List Modified 是一个功能强大的 Obsidian 插件。
 
-Link all modified files meeting certain criteria to a daily note.
+将符合特定条件的所有修改文件链接到每日备忘。
 
 通过 List Modified,您可以:
 
@@ -199,10 +199,10 @@ Link all modified files meeting certain criteria to a daily note.
 - **插件 ID**：obsidian-list-modified
 - **作者**：Francis Kafieh
 - **当前版本**：v1.0.0
-- **下载量**：14.9K
+- **下载量**：15.0K
 - **最后更新**：2025-09-13
 - **GitHub**：[franciskafieh/obsidian-list-modified](https://github.com/franciskafieh/obsidian-list-modified)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

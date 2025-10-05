@@ -6,7 +6,7 @@ downloads: 159
 updated: 1739541252000
 repo: Skallaturi/hephaistos-importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1739541252000"
   repo="Skallaturi/hephaistos-importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Imports main stats from the Starfinder RPG character website Hephaistos.
 - **下载量**：159
 - **最后更新**：2025-02-14
 - **GitHub**：[Skallaturi/hephaistos-importer](https://github.com/Skallaturi/hephaistos-importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

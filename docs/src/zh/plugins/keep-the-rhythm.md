@@ -1,12 +1,12 @@
 ---
 title: Keep the Rhythm
-description: Visualize daily word count with a heatmap.
+description: 通过热图直观显示每日字数。
 author: Ezben
-downloads: 7458
+downloads: 7499
 updated: 1756096645000
 repo: benjaminezequiel/keep-the-rhythm
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="keep-the-rhythm"
   name="Keep the Rhythm"
-  description="Visualize daily word count with a heatmap."
+  description="通过热图直观显示每日字数。"
   author="Ezben"
-  :downloads="7458"
+  :downloads="7499"
   :updated="1756096645000"
   repo="benjaminezequiel/keep-the-rhythm"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Keep the Rhythm 是一个功能强大的 Obsidian 插件。
 
-Visualize daily word count with a heatmap.
+通过热图直观显示每日字数。
 
 通过 Keep the Rhythm,您可以:
 
@@ -202,7 +202,7 @@ Visualize daily word count with a heatmap.
 - **下载量**：7.5K
 - **最后更新**：2025-08-25
 - **GitHub**：[benjaminezequiel/keep-the-rhythm](https://github.com/benjaminezequiel/keep-the-rhythm)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

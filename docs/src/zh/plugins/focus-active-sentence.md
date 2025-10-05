@@ -1,12 +1,12 @@
 ---
 title: Focus Active Sentence
-description: Highlight the sentence the cursor is currently resting on.
+description: 选中光标当前所在的句子。
 author: artisticat
-downloads: 6623
+downloads: 6625
 updated: 1678559743000
 repo: artisticat1/focus-active-sentence
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="focus-active-sentence"
   name="Focus Active Sentence"
-  description="Highlight the sentence the cursor is currently resting on."
+  description="选中光标当前所在的句子。"
   author="artisticat"
-  :downloads="6623"
+  :downloads="6625"
   :updated="1678559743000"
   repo="artisticat1/focus-active-sentence"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Focus Active Sentence 是一个功能强大的 Obsidian 插件。
 
-Highlight the sentence the cursor is currently resting on.
+选中光标当前所在的句子。
 
 通过 Focus Active Sentence,您可以:
 
@@ -202,7 +202,7 @@ Highlight the sentence the cursor is currently resting on.
 - **下载量**：6.6K
 - **最后更新**：2023-03-12
 - **GitHub**：[artisticat1/focus-active-sentence](https://github.com/artisticat1/focus-active-sentence)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: MAKE.md
-description: Make.md brings you features that supercharges Obsidian. Sort your files in custom order and add file icons using Spaces. Edit inline embeds with Flow Editor. And style your text and add new Markdown blocks without writing Markdown using Maker Mode.
+description: Make.md为Obsidian带来强大功能。使用Spaces按自定义顺序排序文件并添加文件图标。使用Flow Editor编辑内联嵌入。使用Maker Mode无需编写Markdown即可设置文本样式和添加新的Markdown块。
 author: MAKE.md
-downloads: 676652
+downloads: 677414
 updated: 1759039071000
 repo: Make-md/makemd
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="make-md"
   name="MAKE.md"
-  description="Make.md brings you features that supercharges Obsidian. Sort your files in custom order and add file icons using Spaces. Edit inline embeds with Flow Editor. And style your text and add new Markdown blocks without writing Markdown using Maker Mode."
+  description="Make.md为Obsidian带来强大功能。使用Spaces按自定义顺序排序文件并添加文件图标。使用Flow Editor编辑内联嵌入。使用Maker Mode无需编写Markdown即可设置文本样式和添加新的Markdown块。"
   author="MAKE.md"
-  :downloads="676652"
+  :downloads="677414"
   :updated="1759039071000"
   repo="Make-md/makemd"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MAKE.md 是一个功能强大的 Obsidian 插件。
 
-Make.md brings you features that supercharges Obsidian. Sort your files in custom order and add file icons using Spaces. Edit inline embeds with Flow Editor. And style your text and add new Markdown blocks without writing Markdown using Maker Mode.
+Make.md为Obsidian带来强大功能。使用Spaces按自定义顺序排序文件并添加文件图标。使用Flow Editor编辑内联嵌入。使用Maker Mode无需编写Markdown即可设置文本样式和添加新的Markdown块。
 
 通过 MAKE.md,您可以:
 
@@ -199,10 +199,10 @@ Make.md brings you features that supercharges Obsidian. Sort your files in custo
 - **插件 ID**：make-md
 - **作者**：MAKE.md
 - **当前版本**：v1.0.0
-- **下载量**：676.7K
+- **下载量**：677.4K
 - **最后更新**：2025-09-28
 - **GitHub**：[Make-md/makemd](https://github.com/Make-md/makemd)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

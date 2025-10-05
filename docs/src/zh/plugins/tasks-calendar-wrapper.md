@@ -1,12 +1,12 @@
 ---
 title: Tasks Calendar Wrapper
-description: Simple wrapper for Tasks Calendar and Tasks Timeline.
+description: 任务日历（Tasks Calendar）和任务时间轴（Tasks Timeline）的简单包装器。
 author: zhuwenq
-downloads: 59863
+downloads: 59889
 updated: 1719155243000
 repo: Leonezz/obsidian-tasks-calendar-wrapper
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tasks-calendar-wrapper"
   name="Tasks Calendar Wrapper"
-  description="Simple wrapper for Tasks Calendar and Tasks Timeline."
+  description="任务日历（Tasks Calendar）和任务时间轴（Tasks Timeline）的简单包装器。"
   author="zhuwenq"
-  :downloads="59863"
+  :downloads="59889"
   :updated="1719155243000"
   repo="Leonezz/obsidian-tasks-calendar-wrapper"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tasks Calendar Wrapper 是一个功能强大的 Obsidian 插件。
 
-Simple wrapper for Tasks Calendar and Tasks Timeline.
+任务日历（Tasks Calendar）和任务时间轴（Tasks Timeline）的简单包装器。
 
 通过 Tasks Calendar Wrapper,您可以:
 
@@ -202,7 +202,7 @@ Simple wrapper for Tasks Calendar and Tasks Timeline.
 - **下载量**：59.9K
 - **最后更新**：2024-06-23
 - **GitHub**：[Leonezz/obsidian-tasks-calendar-wrapper](https://github.com/Leonezz/obsidian-tasks-calendar-wrapper)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

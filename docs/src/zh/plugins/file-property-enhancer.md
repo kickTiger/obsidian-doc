@@ -1,12 +1,12 @@
 ---
 title: File Property Enhancer
-description: Add icons to the file property, and customize the display of the file property.
+description: 为文件属性添加图标，并自定义文件属性的显示方式。
 author: Boninall
-downloads: 8548
+downloads: 8558
 updated: 1726817249000
 repo: Quorafind/Obsidian-File-Property-Enhancer
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-property-enhancer"
   name="File Property Enhancer"
-  description="Add icons to the file property, and customize the display of the file property."
+  description="为文件属性添加图标，并自定义文件属性的显示方式。"
   author="Boninall"
-  :downloads="8548"
+  :downloads="8558"
   :updated="1726817249000"
   repo="Quorafind/Obsidian-File-Property-Enhancer"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Property Enhancer 是一个功能强大的 Obsidian 插件。
 
-Add icons to the file property, and customize the display of the file property.
+为文件属性添加图标，并自定义文件属性的显示方式。
 
 通过 File Property Enhancer,您可以:
 
@@ -199,10 +199,10 @@ Add icons to the file property, and customize the display of the file property.
 - **插件 ID**：file-property-enhancer
 - **作者**：Boninall
 - **当前版本**：v1.0.0
-- **下载量**：8.5K
+- **下载量**：8.6K
 - **最后更新**：2024-09-20
 - **GitHub**：[Quorafind/Obsidian-File-Property-Enhancer](https://github.com/Quorafind/Obsidian-File-Property-Enhancer)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

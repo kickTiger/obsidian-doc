@@ -1,12 +1,12 @@
 ---
 title: Task Board
-description: Manage all your tasks throughout your vault from a single board and much more...
+description: 从一个板块管理整个保险库的所有任务，还有更多...
 author: Atmanand Gauns
-downloads: 22708
+downloads: 22805
 updated: 1759321841000
 repo: tu2-atmanand/Task-Board
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="task-board"
   name="Task Board"
-  description="Manage all your tasks throughout your vault from a single board and much more..."
+  description="从一个板块管理整个保险库的所有任务，还有更多..."
   author="Atmanand Gauns"
-  :downloads="22708"
+  :downloads="22805"
   :updated="1759321841000"
   repo="tu2-atmanand/Task-Board"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Task Board 是一个功能强大的 Obsidian 插件。
 
-Manage all your tasks throughout your vault from a single board and much more...
+从一个板块管理整个保险库的所有任务，还有更多...
 
 通过 Task Board,您可以:
 
@@ -199,10 +199,10 @@ Manage all your tasks throughout your vault from a single board and much more...
 - **插件 ID**：task-board
 - **作者**：Atmanand Gauns
 - **当前版本**：v1.0.0
-- **下载量**：22.7K
+- **下载量**：22.8K
 - **最后更新**：2025-10-01
 - **GitHub**：[tu2-atmanand/Task-Board](https://github.com/tu2-atmanand/Task-Board)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Auto Split
-description: 'Open notes with split editor & preview.'
+description: 用拆分编辑器和预览功能打开笔记
 author: James Sartelle
 downloads: 10297
 updated: 1723426858000
 repo: jsartelle/obsidian-auto-split
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-auto-split"
   name="Auto Split"
-  description="Open notes with split editor &amp; preview."
+  description="用拆分编辑器和预览功能打开笔记"
   author="James Sartelle"
   :downloads="10297"
   :updated="1723426858000"
   repo="jsartelle/obsidian-auto-split"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Split 是一个功能强大的 Obsidian 插件。
 
-Open notes with split editor &amp; preview.
+用拆分编辑器和预览功能打开笔记
 
 通过 Auto Split,您可以:
 
@@ -202,7 +202,7 @@ Open notes with split editor &amp; preview.
 - **下载量**：10.3K
 - **最后更新**：2024-08-12
 - **GitHub**：[jsartelle/obsidian-auto-split](https://github.com/jsartelle/obsidian-auto-split)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

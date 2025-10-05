@@ -2,11 +2,11 @@
 title: Blur Mode
 description: Blur anything you want to keep your privacy.
 author: dangehub
-downloads: 722
+downloads: 727
 updated: 1731966599000
 repo: dangehub/obsidian-blur-mode
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Blur Mode"
   description="Blur anything you want to keep your privacy."
   author="dangehub"
-  :downloads="722"
+  :downloads="727"
   :updated="1731966599000"
   repo="dangehub/obsidian-blur-mode"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Blur anything you want to keep your privacy.
 - **插件 ID**：aqu-blur-mode
 - **作者**：dangehub
 - **当前版本**：v1.0.0
-- **下载量**：722
+- **下载量**：727
 - **最后更新**：2024-11-19
 - **GitHub**：[dangehub/obsidian-blur-mode](https://github.com/dangehub/obsidian-blur-mode)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

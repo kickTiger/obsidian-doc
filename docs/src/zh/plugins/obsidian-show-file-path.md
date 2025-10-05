@@ -1,12 +1,12 @@
 ---
 title: Show Current File Path
-description: Show the full path of the currently open file in the status bar.
+description: 在状态栏显示文件路径。
 author: Ravi Mashru
-downloads: 34371
+downloads: 34373
 updated: 1634113720000
 repo: ravimashru/obsidian-show-file-path
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-show-file-path"
   name="Show Current File Path"
-  description="Show the full path of the currently open file in the status bar."
+  description="在状态栏显示文件路径。"
   author="Ravi Mashru"
-  :downloads="34371"
+  :downloads="34373"
   :updated="1634113720000"
   repo="ravimashru/obsidian-show-file-path"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Show Current File Path 是一个功能强大的 Obsidian 插件。
 
-Show the full path of the currently open file in the status bar.
+在状态栏显示文件路径。
 
 通过 Show Current File Path,您可以:
 
@@ -202,7 +202,7 @@ Show the full path of the currently open file in the status bar.
 - **下载量**：34.4K
 - **最后更新**：2021-10-13
 - **GitHub**：[ravimashru/obsidian-show-file-path](https://github.com/ravimashru/obsidian-show-file-path)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Habitica Sync
-description: Integrate Habitica tasks and stats.
+description: 整合 Habitica 任务和统计数据。
 author: Leoh and Ran
-downloads: 8465
+downloads: 8466
 updated: 1642229982000
 repo: SuperChamp234/habitica-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-habitica-integration"
   name="Habitica Sync"
-  description="Integrate Habitica tasks and stats."
+  description="整合 Habitica 任务和统计数据。"
   author="Leoh and Ran"
-  :downloads="8465"
+  :downloads="8466"
   :updated="1642229982000"
   repo="SuperChamp234/habitica-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Habitica Sync 是一个功能强大的 Obsidian 插件。
 
-Integrate Habitica tasks and stats.
+整合 Habitica 任务和统计数据。
 
 通过 Habitica Sync,您可以:
 
@@ -202,7 +202,7 @@ Integrate Habitica tasks and stats.
 - **下载量**：8.5K
 - **最后更新**：2022-01-15
 - **GitHub**：[SuperChamp234/habitica-sync](https://github.com/SuperChamp234/habitica-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

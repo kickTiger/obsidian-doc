@@ -1,12 +1,12 @@
 ---
 title: MoreDraw
-description: A infinite canvas whiteboard with ai to draw flowchart ,mind map and other diagram.
+description: 带有 ai 的无限画布白板，用于绘制流程图、思维导图和其他图表。
 author: webceoboy2011
-downloads: 4195
+downloads: 4212
 updated: 1740988327000
 repo: webceoboy/moredraw-obsidian
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="moredraw"
   name="MoreDraw"
-  description="A infinite canvas whiteboard with ai to draw flowchart ,mind map and other diagram."
+  description="带有 ai 的无限画布白板，用于绘制流程图、思维导图和其他图表。"
   author="webceoboy2011"
-  :downloads="4195"
+  :downloads="4212"
   :updated="1740988327000"
   repo="webceoboy/moredraw-obsidian"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MoreDraw 是一个功能强大的 Obsidian 插件。
 
-A infinite canvas whiteboard with ai to draw flowchart ,mind map and other diagram.
+带有 ai 的无限画布白板，用于绘制流程图、思维导图和其他图表。
 
 通过 MoreDraw,您可以:
 
@@ -202,7 +202,7 @@ A infinite canvas whiteboard with ai to draw flowchart ,mind map and other diagr
 - **下载量**：4.2K
 - **最后更新**：2025-03-03
 - **GitHub**：[webceoboy/moredraw-obsidian](https://github.com/webceoboy/moredraw-obsidian)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

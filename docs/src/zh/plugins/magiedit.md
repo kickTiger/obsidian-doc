@@ -6,7 +6,7 @@ downloads: 68
 updated: 1733040869000
 repo: magitools/magiedit-obsidian
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1733040869000"
   repo="magitools/magiedit-obsidian"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Official plugin to interact with Magiedit&#39;s API
 - **下载量**：68
 - **最后更新**：2024-12-01
 - **GitHub**：[magitools/magiedit-obsidian](https://github.com/magitools/magiedit-obsidian)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Slides Extended
-description: Create markdown-based reveal.js presentations. Fork of Advanced Slides.
+description: 创建基于 markdown 的 reveal.js 演示。高级幻灯片的分叉。
 author: 'Erin Schnabel (original: MSzturc)'
-downloads: 16982
+downloads: 16994
 updated: 1748655858000
 repo: ebullient/obsidian-slides-extended
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="slides-extended"
   name="Slides Extended"
-  description="Create markdown-based reveal.js presentations. Fork of Advanced Slides."
+  description="创建基于 markdown 的 reveal.js 演示。高级幻灯片的分叉。"
   author="Erin Schnabel (original: MSzturc)"
-  :downloads="16982"
+  :downloads="16994"
   :updated="1748655858000"
   repo="ebullient/obsidian-slides-extended"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Slides Extended 是一个功能强大的 Obsidian 插件。
 
-Create markdown-based reveal.js presentations. Fork of Advanced Slides.
+创建基于 markdown 的 reveal.js 演示。高级幻灯片的分叉。
 
 通过 Slides Extended,您可以:
 
@@ -202,7 +202,7 @@ Create markdown-based reveal.js presentations. Fork of Advanced Slides.
 - **下载量**：17.0K
 - **最后更新**：2025-05-31
 - **GitHub**：[ebullient/obsidian-slides-extended](https://github.com/ebullient/obsidian-slides-extended)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

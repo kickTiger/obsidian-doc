@@ -1,12 +1,12 @@
 ---
 title: Callout menu
-description: Adds some extra options to callouts context menu and allows you to add your own custom callouts.
+description: 为标注上下文菜单添加了一些额外选项，并允许你添加自己的自定义标注。
 author: Anareaty
-downloads: 10724
+downloads: 10747
 updated: 1754993827000
 repo: anareaty/callout-menu
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="callout-menu"
   name="Callout menu"
-  description="Adds some extra options to callouts context menu and allows you to add your own custom callouts."
+  description="为标注上下文菜单添加了一些额外选项，并允许你添加自己的自定义标注。"
   author="Anareaty"
-  :downloads="10724"
+  :downloads="10747"
   :updated="1754993827000"
   repo="anareaty/callout-menu"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Callout menu 是一个功能强大的 Obsidian 插件。
 
-Adds some extra options to callouts context menu and allows you to add your own custom callouts.
+为标注上下文菜单添加了一些额外选项，并允许你添加自己的自定义标注。
 
 通过 Callout menu,您可以:
 
@@ -202,7 +202,7 @@ Adds some extra options to callouts context menu and allows you to add your own 
 - **下载量**：10.7K
 - **最后更新**：2025-08-12
 - **GitHub**：[anareaty/callout-menu](https://github.com/anareaty/callout-menu)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

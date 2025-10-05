@@ -2,11 +2,11 @@
 title: Canvas Keyboard Pan
 description: Pan around your canvas using the keyboard
 author: Nathonius
-downloads: 1745
+downloads: 1746
 updated: 1716058484000
 repo: nathonius/obsidian-canvas-pan
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Canvas Keyboard Pan"
   description="Pan around your canvas using the keyboard"
   author="Nathonius"
-  :downloads="1745"
+  :downloads="1746"
   :updated="1716058484000"
   repo="nathonius/obsidian-canvas-pan"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Pan around your canvas using the keyboard
 - **下载量**：1.7K
 - **最后更新**：2024-05-19
 - **GitHub**：[nathonius/obsidian-canvas-pan](https://github.com/nathonius/obsidian-canvas-pan)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Sentence Rhythm
 description: Adds toggleable colored highlights to sentences based on their length so you can easily see the rhythm of your writing.
 author: Adam Fletcher
-downloads: 1506
+downloads: 1513
 updated: 1747590848000
 repo: adamfletcher/obsidian-sentence-rhythm
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Sentence Rhythm"
   description="Adds toggleable colored highlights to sentences based on their length so you can easily see the rhythm of your writing."
   author="Adam Fletcher"
-  :downloads="1506"
+  :downloads="1513"
   :updated="1747590848000"
   repo="adamfletcher/obsidian-sentence-rhythm"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds toggleable colored highlights to sentences based on their length so you can
 - **下载量**：1.5K
 - **最后更新**：2025-05-19
 - **GitHub**：[adamfletcher/obsidian-sentence-rhythm](https://github.com/adamfletcher/obsidian-sentence-rhythm)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

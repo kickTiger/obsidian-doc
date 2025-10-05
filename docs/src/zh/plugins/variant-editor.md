@@ -2,11 +2,11 @@
 title: Variant Editor
 description: Create variations of words and sentences and compare them, in context, with a single click
 author: Kunal Jain
-downloads: 620
+downloads: 626
 updated: 1756441854000
 repo: kunalJa/VariantEditor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Variant Editor"
   description="Create variations of words and sentences and compare them, in context, with a single click"
   author="Kunal Jain"
-  :downloads="620"
+  :downloads="626"
   :updated="1756441854000"
   repo="kunalJa/VariantEditor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create variations of words and sentences and compare them, in context, with a si
 - **插件 ID**：variant-editor
 - **作者**：Kunal Jain
 - **当前版本**：v1.0.0
-- **下载量**：620
+- **下载量**：626
 - **最后更新**：2025-08-29
 - **GitHub**：[kunalJa/VariantEditor](https://github.com/kunalJa/VariantEditor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

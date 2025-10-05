@@ -1,12 +1,12 @@
 ---
 title: Title Serial Number
-description: Add serial numbers to your Markdown title.
+description: 在 Markdown 标题中添加序列号。
 author: Domenic
 downloads: 6634
 updated: 1650013948000
 repo: yalvhe2009/obsidian-title-serial-number-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-title-serial-number-plugin"
   name="Title Serial Number"
-  description="Add serial numbers to your Markdown title."
+  description="在 Markdown 标题中添加序列号。"
   author="Domenic"
   :downloads="6634"
   :updated="1650013948000"
   repo="yalvhe2009/obsidian-title-serial-number-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Title Serial Number 是一个功能强大的 Obsidian 插件。
 
-Add serial numbers to your Markdown title.
+在 Markdown 标题中添加序列号。
 
 通过 Title Serial Number,您可以:
 
@@ -202,7 +202,7 @@ Add serial numbers to your Markdown title.
 - **下载量**：6.6K
 - **最后更新**：2022-04-15
 - **GitHub**：[yalvhe2009/obsidian-title-serial-number-plugin](https://github.com/yalvhe2009/obsidian-title-serial-number-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

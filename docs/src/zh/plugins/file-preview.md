@@ -1,12 +1,12 @@
 ---
 title: File Preview
-description: Add file preview contents under file in file explorer.
+description: 在文件资源管理器的文件下添加文件预览内容。
 author: Huajin
-downloads: 3744
+downloads: 3753
 updated: 1736432125000
 repo: xhuajin/obsidian-file-preview
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-preview"
   name="File Preview"
-  description="Add file preview contents under file in file explorer."
+  description="在文件资源管理器的文件下添加文件预览内容。"
   author="Huajin"
-  :downloads="3744"
+  :downloads="3753"
   :updated="1736432125000"
   repo="xhuajin/obsidian-file-preview"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Preview 是一个功能强大的 Obsidian 插件。
 
-Add file preview contents under file in file explorer.
+在文件资源管理器的文件下添加文件预览内容。
 
 通过 File Preview,您可以:
 
@@ -199,10 +199,10 @@ Add file preview contents under file in file explorer.
 - **插件 ID**：file-preview
 - **作者**：Huajin
 - **当前版本**：v1.0.0
-- **下载量**：3.7K
+- **下载量**：3.8K
 - **最后更新**：2025-01-09
 - **GitHub**：[xhuajin/obsidian-file-preview](https://github.com/xhuajin/obsidian-file-preview)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

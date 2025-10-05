@@ -1,12 +1,12 @@
 ---
 title: Media DB
-description: Query multiple APIs for movies, series, anime, games, music releases and wiki articles, and import them into your vault.
+description: 通过多个应用程序接口查询电影、连续剧、动漫、游戏、音乐发布和维基文章，并将它们导入你的资料库。
 author: Moritz Jung
-downloads: 38586
+downloads: 38642
 updated: 1756633845000
 repo: mProjectsCode/obsidian-media-db-plugin
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-media-db-plugin"
   name="Media DB"
-  description="Query multiple APIs for movies, series, anime, games, music releases and wiki articles, and import them into your vault."
+  description="通过多个应用程序接口查询电影、连续剧、动漫、游戏、音乐发布和维基文章，并将它们导入你的资料库。"
   author="Moritz Jung"
-  :downloads="38586"
+  :downloads="38642"
   :updated="1756633845000"
   repo="mProjectsCode/obsidian-media-db-plugin"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Media DB 是一个功能强大的 Obsidian 插件。
 
-Query multiple APIs for movies, series, anime, games, music releases and wiki articles, and import them into your vault.
+通过多个应用程序接口查询电影、连续剧、动漫、游戏、音乐发布和维基文章，并将它们导入你的资料库。
 
 通过 Media DB,您可以:
 
@@ -202,7 +202,7 @@ Query multiple APIs for movies, series, anime, games, music releases and wiki ar
 - **下载量**：38.6K
 - **最后更新**：2025-08-31
 - **GitHub**：[mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

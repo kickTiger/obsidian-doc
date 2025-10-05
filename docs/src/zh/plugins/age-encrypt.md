@@ -6,7 +6,7 @@ downloads: 644
 updated: 1754435396000
 repo: Mr-1311/obsidian-age-encrypt
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1754435396000"
   repo="Mr-1311/obsidian-age-encrypt"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Secure content encryption using age encryption library
 - **下载量**：644
 - **最后更新**：2025-08-06
 - **GitHub**：[Mr-1311/obsidian-age-encrypt](https://github.com/Mr-1311/obsidian-age-encrypt)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

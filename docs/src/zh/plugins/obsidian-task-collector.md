@@ -1,12 +1,12 @@
 ---
 title: Task Collector (TC)
-description: Change task status and collect tasks within a document using hotkeys and context menus.
+description: 使用热键和上下文菜单更改任务状态并在文档中收集任务。
 author: ebullient
-downloads: 34838
+downloads: 34848
 updated: 1750899530000
 repo: ebullient/obsidian-task-collector
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-task-collector"
   name="Task Collector (TC)"
-  description="Change task status and collect tasks within a document using hotkeys and context menus."
+  description="使用热键和上下文菜单更改任务状态并在文档中收集任务。"
   author="ebullient"
-  :downloads="34838"
+  :downloads="34848"
   :updated="1750899530000"
   repo="ebullient/obsidian-task-collector"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Task Collector (TC) 是一个功能强大的 Obsidian 插件。
 
-Change task status and collect tasks within a document using hotkeys and context menus.
+使用热键和上下文菜单更改任务状态并在文档中收集任务。
 
 通过 Task Collector (TC),您可以:
 
@@ -202,7 +202,7 @@ Change task status and collect tasks within a document using hotkeys and context
 - **下载量**：34.8K
 - **最后更新**：2025-06-26
 - **GitHub**：[ebullient/obsidian-task-collector](https://github.com/ebullient/obsidian-task-collector)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

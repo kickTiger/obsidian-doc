@@ -1,12 +1,12 @@
 ---
 title: Nested tags graph
-description: Link nested tags in graph view.
+description: 在图形视图中链接嵌套标签。
 author: drpilman
-downloads: 15734
+downloads: 15746
 updated: 1750863402000
 repo: drPilman/obsidian-graph-nested-tags
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="graph-nested-tags"
   name="Nested tags graph"
-  description="Link nested tags in graph view."
+  description="在图形视图中链接嵌套标签。"
   author="drpilman"
-  :downloads="15734"
+  :downloads="15746"
   :updated="1750863402000"
   repo="drPilman/obsidian-graph-nested-tags"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Nested tags graph 是一个功能强大的 Obsidian 插件。
 
-Link nested tags in graph view.
+在图形视图中链接嵌套标签。
 
 通过 Nested tags graph,您可以:
 
@@ -202,7 +202,7 @@ Link nested tags in graph view.
 - **下载量**：15.7K
 - **最后更新**：2025-06-25
 - **GitHub**：[drPilman/obsidian-graph-nested-tags](https://github.com/drPilman/obsidian-graph-nested-tags)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

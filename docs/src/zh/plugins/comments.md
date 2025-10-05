@@ -2,11 +2,11 @@
 title: Comments
 description: Add comments to your notes to facilitate collaberation
 author: Jasper Surmont
-downloads: 910
+downloads: 912
 updated: 1751290587000
 repo: JasperSurmont/obsidian-comments
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Comments"
   description="Add comments to your notes to facilitate collaberation"
   author="Jasper Surmont"
-  :downloads="910"
+  :downloads="912"
   :updated="1751290587000"
   repo="JasperSurmont/obsidian-comments"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Add comments to your notes to facilitate collaberation
 - **插件 ID**：comments
 - **作者**：Jasper Surmont
 - **当前版本**：v1.0.0
-- **下载量**：910
+- **下载量**：912
 - **最后更新**：2025-06-30
 - **GitHub**：[JasperSurmont/obsidian-comments](https://github.com/JasperSurmont/obsidian-comments)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

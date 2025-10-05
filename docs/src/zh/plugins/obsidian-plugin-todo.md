@@ -1,12 +1,12 @@
 ---
 title: 'TODO | Text-based GTD'
-description: Collect all outstanding TODOs from your vault and presents them in lists Today, Scheduled, Inbox and Someday/Maybe.
+description: '从你的资料库中收集所有未完成的 TODO，并在列表 "今日"、"计划"、"收件箱 "和 "某日/可能 "中展示它们。'
 author: Lars Lockefeer
-downloads: 70457
+downloads: 70501
 updated: 1758659012000
 repo: larslockefeer/obsidian-plugin-todo
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-plugin-todo"
   name="TODO | Text-based GTD"
-  description="Collect all outstanding TODOs from your vault and presents them in lists Today, Scheduled, Inbox and Someday/Maybe."
+  description="从你的资料库中收集所有未完成的 TODO，并在列表 &quot;今日&quot;、&quot;计划&quot;、&quot;收件箱 &quot;和 &quot;某日/可能 &quot;中展示它们。"
   author="Lars Lockefeer"
-  :downloads="70457"
+  :downloads="70501"
   :updated="1758659012000"
   repo="larslockefeer/obsidian-plugin-todo"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 TODO | Text-based GTD 是一个功能强大的 Obsidian 插件。
 
-Collect all outstanding TODOs from your vault and presents them in lists Today, Scheduled, Inbox and Someday/Maybe.
+从你的资料库中收集所有未完成的 TODO，并在列表 &quot;今日&quot;、&quot;计划&quot;、&quot;收件箱 &quot;和 &quot;某日/可能 &quot;中展示它们。
 
 通过 TODO | Text-based GTD,您可以:
 
@@ -202,7 +202,7 @@ Collect all outstanding TODOs from your vault and presents them in lists Today, 
 - **下载量**：70.5K
 - **最后更新**：2025-09-24
 - **GitHub**：[larslockefeer/obsidian-plugin-todo](https://github.com/larslockefeer/obsidian-plugin-todo)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

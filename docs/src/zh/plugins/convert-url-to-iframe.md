@@ -1,12 +1,12 @@
 ---
 title: Convert url to preview (iframe)
-description: Convert a URL (e.g. YouTube) into an iframe (preview).
+description: 将 URL（如 YouTube）转换为 iframe（预览）。
 author: FHachez
-downloads: 91983
+downloads: 92030
 updated: 1651923369000
 repo: FHachez/obsidian-convert-url-to-iframe
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="convert-url-to-iframe"
   name="Convert url to preview (iframe)"
-  description="Convert a URL (e.g. YouTube) into an iframe (preview)."
+  description="将 URL（如 YouTube）转换为 iframe（预览）。"
   author="FHachez"
-  :downloads="91983"
+  :downloads="92030"
   :updated="1651923369000"
   repo="FHachez/obsidian-convert-url-to-iframe"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Convert url to preview (iframe) 是一个功能强大的 Obsidian 插件。
 
-Convert a URL (e.g. YouTube) into an iframe (preview).
+将 URL（如 YouTube）转换为 iframe（预览）。
 
 通过 Convert url to preview (iframe),您可以:
 
@@ -202,7 +202,7 @@ Convert a URL (e.g. YouTube) into an iframe (preview).
 - **下载量**：92.0K
 - **最后更新**：2022-05-07
 - **GitHub**：[FHachez/obsidian-convert-url-to-iframe](https://github.com/FHachez/obsidian-convert-url-to-iframe)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Vault Statistics
-description: Status bar item with vault statistics such as number of notes, files, attachments, and links.
+description: 状态栏项目包含保险库统计信息，如笔记、文件、附件和链接的数量。
 author: Bryan Kyle
-downloads: 42109
+downloads: 42126
 updated: 1666760473000
 repo: bkyle/obsidian-vault-statistics-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-vault-statistics-plugin"
   name="Vault Statistics"
-  description="Status bar item with vault statistics such as number of notes, files, attachments, and links."
+  description="状态栏项目包含保险库统计信息，如笔记、文件、附件和链接的数量。"
   author="Bryan Kyle"
-  :downloads="42109"
+  :downloads="42126"
   :updated="1666760473000"
   repo="bkyle/obsidian-vault-statistics-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vault Statistics 是一个功能强大的 Obsidian 插件。
 
-Status bar item with vault statistics such as number of notes, files, attachments, and links.
+状态栏项目包含保险库统计信息，如笔记、文件、附件和链接的数量。
 
 通过 Vault Statistics,您可以:
 
@@ -202,7 +202,7 @@ Status bar item with vault statistics such as number of notes, files, attachment
 - **下载量**：42.1K
 - **最后更新**：2022-10-26
 - **GitHub**：[bkyle/obsidian-vault-statistics-plugin](https://github.com/bkyle/obsidian-vault-statistics-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

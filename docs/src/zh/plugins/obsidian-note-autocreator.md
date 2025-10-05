@@ -1,12 +1,12 @@
 ---
 title: Note Auto Creator
-description: Automatically create notes when links are created to them.
+description: 创建链接时自动创建注释。
 author: Simon T. Clement
-downloads: 13303
+downloads: 13308
 updated: 1750183323000
 repo: SimonTC/obsidian-note-autocreation
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-note-autocreator"
   name="Note Auto Creator"
-  description="Automatically create notes when links are created to them."
+  description="创建链接时自动创建注释。"
   author="Simon T. Clement"
-  :downloads="13303"
+  :downloads="13308"
   :updated="1750183323000"
   repo="SimonTC/obsidian-note-autocreation"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note Auto Creator 是一个功能强大的 Obsidian 插件。
 
-Automatically create notes when links are created to them.
+创建链接时自动创建注释。
 
 通过 Note Auto Creator,您可以:
 
@@ -202,7 +202,7 @@ Automatically create notes when links are created to them.
 - **下载量**：13.3K
 - **最后更新**：2025-06-18
 - **GitHub**：[SimonTC/obsidian-note-autocreation](https://github.com/SimonTC/obsidian-note-autocreation)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

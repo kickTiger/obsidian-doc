@@ -1,12 +1,12 @@
 ---
 title: Key Sequence Shortcut
-description: 'Execute commands with short key sequences. For example, ''tp'' for ''Toggle Preview'' and ''tb'' for ''Toggle Sidebar''. Easier to remember.'
+description: '用短键序列执行命令。例如，"tp "表示 "切换预览"，"tb "表示 "切换侧边栏"。更容易记忆。'
 author: anselmwang
-downloads: 4860
+downloads: 4861
 updated: 1647311834000
 repo: anselmwang/obsidian-key-sequence-shortcut
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-key-sequence-shortcut"
   name="Key Sequence Shortcut"
-  description="Execute commands with short key sequences. For example, &#39;tp&#39; for &#39;Toggle Preview&#39; and &#39;tb&#39; for &#39;Toggle Sidebar&#39;. Easier to remember."
+  description="用短键序列执行命令。例如，&quot;tp &quot;表示 &quot;切换预览&quot;，&quot;tb &quot;表示 &quot;切换侧边栏&quot;。更容易记忆。"
   author="anselmwang"
-  :downloads="4860"
+  :downloads="4861"
   :updated="1647311834000"
   repo="anselmwang/obsidian-key-sequence-shortcut"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Key Sequence Shortcut 是一个功能强大的 Obsidian 插件。
 
-Execute commands with short key sequences. For example, &#39;tp&#39; for &#39;Toggle Preview&#39; and &#39;tb&#39; for &#39;Toggle Sidebar&#39;. Easier to remember.
+用短键序列执行命令。例如，&quot;tp &quot;表示 &quot;切换预览&quot;，&quot;tb &quot;表示 &quot;切换侧边栏&quot;。更容易记忆。
 
 通过 Key Sequence Shortcut,您可以:
 
@@ -202,7 +202,7 @@ Execute commands with short key sequences. For example, &#39;tp&#39; for &#39;To
 - **下载量**：4.9K
 - **最后更新**：2022-03-15
 - **GitHub**：[anselmwang/obsidian-key-sequence-shortcut](https://github.com/anselmwang/obsidian-key-sequence-shortcut)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

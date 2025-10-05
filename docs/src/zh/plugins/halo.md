@@ -2,11 +2,11 @@
 title: Halo
 description: Publish content to Halo sites.
 author: Ryan Wang
-downloads: 3454
+downloads: 3457
 updated: 1744798593000
 repo: halo-sigs/obsidian-halo
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Halo"
   description="Publish content to Halo sites."
   author="Ryan Wang"
-  :downloads="3454"
+  :downloads="3457"
   :updated="1744798593000"
   repo="halo-sigs/obsidian-halo"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish content to Halo sites.
 - **下载量**：3.5K
 - **最后更新**：2025-04-16
 - **GitHub**：[halo-sigs/obsidian-halo](https://github.com/halo-sigs/obsidian-halo)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

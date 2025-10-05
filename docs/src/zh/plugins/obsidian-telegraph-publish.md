@@ -1,12 +1,12 @@
 ---
 title: Telegraph Publish
-description: Publish your note to a Telegraph page.
+description: 在 Telegraph 页面上发布您的说明。
 author: Reorx
-downloads: 5262
+downloads: 5263
 updated: 1652771027000
 repo: reorx/obsidian-telegraph-publish
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-telegraph-publish"
   name="Telegraph Publish"
-  description="Publish your note to a Telegraph page."
+  description="在 Telegraph 页面上发布您的说明。"
   author="Reorx"
-  :downloads="5262"
+  :downloads="5263"
   :updated="1652771027000"
   repo="reorx/obsidian-telegraph-publish"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Telegraph Publish 是一个功能强大的 Obsidian 插件。
 
-Publish your note to a Telegraph page.
+在 Telegraph 页面上发布您的说明。
 
 通过 Telegraph Publish,您可以:
 
@@ -202,7 +202,7 @@ Publish your note to a Telegraph page.
 - **下载量**：5.3K
 - **最后更新**：2022-05-17
 - **GitHub**：[reorx/obsidian-telegraph-publish](https://github.com/reorx/obsidian-telegraph-publish)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Enhance Copy Note
-description: Add commands to copy active note and copy folders.
+description: 添加复制活动笔记和复制文件夹的命令。
 author: kzhovn
-downloads: 7176
+downloads: 7178
 updated: 1632502598000
 repo: kzhovn/copy-command-obsidian
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="copy-note"
   name="Enhance Copy Note"
-  description="Add commands to copy active note and copy folders."
+  description="添加复制活动笔记和复制文件夹的命令。"
   author="kzhovn"
-  :downloads="7176"
+  :downloads="7178"
   :updated="1632502598000"
   repo="kzhovn/copy-command-obsidian"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Enhance Copy Note 是一个功能强大的 Obsidian 插件。
 
-Add commands to copy active note and copy folders.
+添加复制活动笔记和复制文件夹的命令。
 
 通过 Enhance Copy Note,您可以:
 
@@ -202,7 +202,7 @@ Add commands to copy active note and copy folders.
 - **下载量**：7.2K
 - **最后更新**：2021-09-25
 - **GitHub**：[kzhovn/copy-command-obsidian](https://github.com/kzhovn/copy-command-obsidian)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

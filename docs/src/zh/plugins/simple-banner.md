@@ -1,12 +1,12 @@
 ---
 title: Simple Banner
-description: Visually enhance your notes with a customizable banner. Supports icons and time/date display.
+description: 通过可定制的横幅增强笔记的视觉效果。支持图标和时间/日期显示。
 author: Sandro Ducceschi
-downloads: 9366
+downloads: 9434
 updated: 1758294753000
 repo: eatcodeplay/obsidian-simple-banner
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="simple-banner"
   name="Simple Banner"
-  description="Visually enhance your notes with a customizable banner. Supports icons and time/date display."
+  description="通过可定制的横幅增强笔记的视觉效果。支持图标和时间/日期显示。"
   author="Sandro Ducceschi"
-  :downloads="9366"
+  :downloads="9434"
   :updated="1758294753000"
   repo="eatcodeplay/obsidian-simple-banner"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Simple Banner 是一个功能强大的 Obsidian 插件。
 
-Visually enhance your notes with a customizable banner. Supports icons and time/date display.
+通过可定制的横幅增强笔记的视觉效果。支持图标和时间/日期显示。
 
 通过 Simple Banner,您可以:
 
@@ -202,7 +202,7 @@ Visually enhance your notes with a customizable banner. Supports icons and time/
 - **下载量**：9.4K
 - **最后更新**：2025-09-19
 - **GitHub**：[eatcodeplay/obsidian-simple-banner](https://github.com/eatcodeplay/obsidian-simple-banner)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

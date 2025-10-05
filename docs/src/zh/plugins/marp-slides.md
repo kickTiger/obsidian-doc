@@ -1,12 +1,12 @@
 ---
 title: Marp Slides
-description: Create Marp presentations.
+description: 创建 Marp 演示文稿。
 author: Samuele Cozzi
-downloads: 27033
+downloads: 27059
 updated: 1715203542000
 repo: samuele-cozzi/obsidian-marp-slides
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="marp-slides"
   name="Marp Slides"
-  description="Create Marp presentations."
+  description="创建 Marp 演示文稿。"
   author="Samuele Cozzi"
-  :downloads="27033"
+  :downloads="27059"
   :updated="1715203542000"
   repo="samuele-cozzi/obsidian-marp-slides"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Marp Slides 是一个功能强大的 Obsidian 插件。
 
-Create Marp presentations.
+创建 Marp 演示文稿。
 
 通过 Marp Slides,您可以:
 
@@ -199,10 +199,10 @@ Create Marp presentations.
 - **插件 ID**：marp-slides
 - **作者**：Samuele Cozzi
 - **当前版本**：v1.0.0
-- **下载量**：27.0K
+- **下载量**：27.1K
 - **最后更新**：2024-05-09
 - **GitHub**：[samuele-cozzi/obsidian-marp-slides](https://github.com/samuele-cozzi/obsidian-marp-slides)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

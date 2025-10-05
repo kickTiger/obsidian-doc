@@ -2,11 +2,11 @@
 title: Plugins Annotations
 description: Allows adding personal comments to each installed plugin.
 author: Andrea Alberti
-downloads: 3003
+downloads: 3011
 updated: 1729433789000
 repo: alberti42/obsidian-plugins-annotations
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Plugins Annotations"
   description="Allows adding personal comments to each installed plugin."
   author="Andrea Alberti"
-  :downloads="3003"
+  :downloads="3011"
   :updated="1729433789000"
   repo="alberti42/obsidian-plugins-annotations"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Allows adding personal comments to each installed plugin.
 - **下载量**：3.0K
 - **最后更新**：2024-10-20
 - **GitHub**：[alberti42/obsidian-plugins-annotations](https://github.com/alberti42/obsidian-plugins-annotations)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

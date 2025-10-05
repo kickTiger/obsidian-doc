@@ -1,12 +1,12 @@
 ---
 title: Week Planner
-description: Define commands for creating planning documents and moving tasks between them.
+description: 定义创建计划文档和在文档间移动任务的命令。
 author: Ralf Wirdemann
-downloads: 10123
+downloads: 10127
 updated: 1674575318000
 repo: rwirdemann/obsidian-week-planner
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-week-planner"
   name="Week Planner"
-  description="Define commands for creating planning documents and moving tasks between them."
+  description="定义创建计划文档和在文档间移动任务的命令。"
   author="Ralf Wirdemann"
-  :downloads="10123"
+  :downloads="10127"
   :updated="1674575318000"
   repo="rwirdemann/obsidian-week-planner"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Week Planner 是一个功能强大的 Obsidian 插件。
 
-Define commands for creating planning documents and moving tasks between them.
+定义创建计划文档和在文档间移动任务的命令。
 
 通过 Week Planner,您可以:
 
@@ -202,7 +202,7 @@ Define commands for creating planning documents and moving tasks between them.
 - **下载量**：10.1K
 - **最后更新**：2023-01-24
 - **GitHub**：[rwirdemann/obsidian-week-planner](https://github.com/rwirdemann/obsidian-week-planner)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

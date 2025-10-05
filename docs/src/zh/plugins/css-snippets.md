@@ -1,12 +1,12 @@
 ---
 title: css snippets
-description: Load and manage CSS snippets.
+description: 加载和管理 CSS 代码段
 author: Daniel Brandenburg
-downloads: 20291
+downloads: 20299
 updated: 1605230914000
 repo: jdbrice/obsidian-css-snippets
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="css-snippets"
   name="css snippets"
-  description="Load and manage CSS snippets."
+  description="加载和管理 CSS 代码段"
   author="Daniel Brandenburg"
-  :downloads="20291"
+  :downloads="20299"
   :updated="1605230914000"
   repo="jdbrice/obsidian-css-snippets"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 css snippets 是一个功能强大的 Obsidian 插件。
 
-Load and manage CSS snippets.
+加载和管理 CSS 代码段
 
 通过 css snippets,您可以:
 
@@ -202,7 +202,7 @@ Load and manage CSS snippets.
 - **下载量**：20.3K
 - **最后更新**：2020-11-13
 - **GitHub**：[jdbrice/obsidian-css-snippets](https://github.com/jdbrice/obsidian-css-snippets)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

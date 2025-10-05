@@ -1,12 +1,12 @@
 ---
 title: Silicon AI
-description: Add some intelligence to your notes with Silicon AI.
+description: Silicon AI 为您的笔记增添智能。
 author: deepfates
-downloads: 4710
+downloads: 4712
 updated: 1684880482000
 repo: deepfates/silicon
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="silicon"
   name="Silicon AI"
-  description="Add some intelligence to your notes with Silicon AI."
+  description="Silicon AI 为您的笔记增添智能。"
   author="deepfates"
-  :downloads="4710"
+  :downloads="4712"
   :updated="1684880482000"
   repo="deepfates/silicon"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Silicon AI 是一个功能强大的 Obsidian 插件。
 
-Add some intelligence to your notes with Silicon AI.
+Silicon AI 为您的笔记增添智能。
 
 通过 Silicon AI,您可以:
 
@@ -202,7 +202,7 @@ Add some intelligence to your notes with Silicon AI.
 - **下载量**：4.7K
 - **最后更新**：2023-05-24
 - **GitHub**：[deepfates/silicon](https://github.com/deepfates/silicon)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

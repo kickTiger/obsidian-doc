@@ -2,11 +2,11 @@
 title: RSS Copyist
 description: Get RSS articles as notes.
 author: aoout
-downloads: 2274
+downloads: 2276
 updated: 1708700997000
 repo: aoout/obsidian-rss-copyist
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="RSS Copyist"
   description="Get RSS articles as notes."
   author="aoout"
-  :downloads="2274"
+  :downloads="2276"
   :updated="1708700997000"
   repo="aoout/obsidian-rss-copyist"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Get RSS articles as notes.
 - **下载量**：2.3K
 - **最后更新**：2024-02-23
 - **GitHub**：[aoout/obsidian-rss-copyist](https://github.com/aoout/obsidian-rss-copyist)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

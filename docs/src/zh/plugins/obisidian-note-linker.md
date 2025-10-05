@@ -1,12 +1,12 @@
 ---
 title: Note Linker
-description: Automatically find and create new links between notes.
+description: 自动查找并创建笔记之间的新链接。
 author: Alexander Weichart
-downloads: 38632
+downloads: 38672
 updated: 1733505479000
 repo: AlexW00/obsidian-note-linker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obisidian-note-linker"
   name="Note Linker"
-  description="Automatically find and create new links between notes."
+  description="自动查找并创建笔记之间的新链接。"
   author="Alexander Weichart"
-  :downloads="38632"
+  :downloads="38672"
   :updated="1733505479000"
   repo="AlexW00/obsidian-note-linker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note Linker 是一个功能强大的 Obsidian 插件。
 
-Automatically find and create new links between notes.
+自动查找并创建笔记之间的新链接。
 
 通过 Note Linker,您可以:
 
@@ -199,10 +199,10 @@ Automatically find and create new links between notes.
 - **插件 ID**：obisidian-note-linker
 - **作者**：Alexander Weichart
 - **当前版本**：v1.0.0
-- **下载量**：38.6K
+- **下载量**：38.7K
 - **最后更新**：2024-12-07
 - **GitHub**：[AlexW00/obsidian-note-linker](https://github.com/AlexW00/obsidian-note-linker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

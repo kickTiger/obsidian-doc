@@ -1,12 +1,12 @@
 ---
 title: Packrat
-description: Manage completed instances of recurring tasks that were created and completed using the Tasks plugin.
+description: 管理使用任务插件创建和完成的重复性任务的已完成实例。
 author: Thomas Herden
-downloads: 5692
+downloads: 5694
 updated: 1704230448000
 repo: therden/packrat
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tasks-packrat-plugin"
   name="Packrat"
-  description="Manage completed instances of recurring tasks that were created and completed using the Tasks plugin."
+  description="管理使用任务插件创建和完成的重复性任务的已完成实例。"
   author="Thomas Herden"
-  :downloads="5692"
+  :downloads="5694"
   :updated="1704230448000"
   repo="therden/packrat"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Packrat 是一个功能强大的 Obsidian 插件。
 
-Manage completed instances of recurring tasks that were created and completed using the Tasks plugin.
+管理使用任务插件创建和完成的重复性任务的已完成实例。
 
 通过 Packrat,您可以:
 
@@ -202,7 +202,7 @@ Manage completed instances of recurring tasks that were created and completed us
 - **下载量**：5.7K
 - **最后更新**：2024-01-03
 - **GitHub**：[therden/packrat](https://github.com/therden/packrat)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

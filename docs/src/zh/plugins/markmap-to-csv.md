@@ -2,11 +2,11 @@
 title: Markmap to CSV
 description: Converts Markmap data to CSV format.
 author: maxlee
-downloads: 1308
+downloads: 1309
 updated: 1709334502000
 repo: pj4316/markmap-to-csv-obsidian
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Markmap to CSV"
   description="Converts Markmap data to CSV format."
   author="maxlee"
-  :downloads="1308"
+  :downloads="1309"
   :updated="1709334502000"
   repo="pj4316/markmap-to-csv-obsidian"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Converts Markmap data to CSV format.
 - **下载量**：1.3K
 - **最后更新**：2024-03-02
 - **GitHub**：[pj4316/markmap-to-csv-obsidian](https://github.com/pj4316/markmap-to-csv-obsidian)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

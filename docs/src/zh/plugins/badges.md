@@ -1,12 +1,12 @@
 ---
 title: Badges
-description: Add inline badges/callouts to notes.
+description: 在备注中添加内嵌徽章/标注。
 author: '@gapmiss'
-downloads: 10466
+downloads: 10471
 updated: 1701870872000
 repo: gapmiss/badges
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="badges"
   name="Badges"
-  description="Add inline badges/callouts to notes."
+  description="在备注中添加内嵌徽章/标注。"
   author="@gapmiss"
-  :downloads="10466"
+  :downloads="10471"
   :updated="1701870872000"
   repo="gapmiss/badges"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Badges 是一个功能强大的 Obsidian 插件。
 
-Add inline badges/callouts to notes.
+在备注中添加内嵌徽章/标注。
 
 通过 Badges,您可以:
 
@@ -202,7 +202,7 @@ Add inline badges/callouts to notes.
 - **下载量**：10.5K
 - **最后更新**：2023-12-06
 - **GitHub**：[gapmiss/badges](https://github.com/gapmiss/badges)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 430
 updated: 1755719598000
 repo: BambusControl/obsidian-chronotyper
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1755719598000"
   repo="BambusControl/obsidian-chronotyper"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Track how long you edit notes directly in the note properties
 - **下载量**：430
 - **最后更新**：2025-08-21
 - **GitHub**：[BambusControl/obsidian-chronotyper](https://github.com/BambusControl/obsidian-chronotyper)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

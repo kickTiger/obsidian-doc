@@ -1,12 +1,12 @@
 ---
 title: Finnish Spellcheck
-description: Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä, joka hyödyntää Voikkoa.
+description: 使用 Voikko 的芬兰语拼写检查程序。/ Oikolukija suomenkielellä, joka hyödyntää Voikkoa.
 author: Anto Keinänen
-downloads: 4141
+downloads: 4142
 updated: 1689255838000
 repo: antoKeinanen/obsidian-finnish-spellcheck
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="finnish-spellcheck"
   name="Finnish Spellcheck"
-  description="Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä, joka hyödyntää Voikkoa."
+  description="使用 Voikko 的芬兰语拼写检查程序。/ Oikolukija suomenkielellä, joka hyödyntää Voikkoa."
   author="Anto Keinänen"
-  :downloads="4141"
+  :downloads="4142"
   :updated="1689255838000"
   repo="antoKeinanen/obsidian-finnish-spellcheck"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Finnish Spellcheck 是一个功能强大的 Obsidian 插件。
 
-Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä, joka hyödyntää Voikkoa.
+使用 Voikko 的芬兰语拼写检查程序。/ Oikolukija suomenkielellä, joka hyödyntää Voikkoa.
 
 通过 Finnish Spellcheck,您可以:
 
@@ -202,7 +202,7 @@ Spellchecker for the Finnish language using Voikko. / Oikolukija suomenkielellä
 - **下载量**：4.1K
 - **最后更新**：2023-07-13
 - **GitHub**：[antoKeinanen/obsidian-finnish-spellcheck](https://github.com/antoKeinanen/obsidian-finnish-spellcheck)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

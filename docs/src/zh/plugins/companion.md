@@ -1,12 +1,12 @@
 ---
 title: Companion
-description: Autocomplete with AI, including ChatGPT, through a copilot-like interface.
+description: 通过类似副驾驶的界面，使用人工智能（包括 ChatGPT）自动完成。
 author: rizerphe
-downloads: 30226
+downloads: 30238
 updated: 1716919482000
 repo: rizerphe/obsidian-companion
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="companion"
   name="Companion"
-  description="Autocomplete with AI, including ChatGPT, through a copilot-like interface."
+  description="通过类似副驾驶的界面，使用人工智能（包括 ChatGPT）自动完成。"
   author="rizerphe"
-  :downloads="30226"
+  :downloads="30238"
   :updated="1716919482000"
   repo="rizerphe/obsidian-companion"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Companion 是一个功能强大的 Obsidian 插件。
 
-Autocomplete with AI, including ChatGPT, through a copilot-like interface.
+通过类似副驾驶的界面，使用人工智能（包括 ChatGPT）自动完成。
 
 通过 Companion,您可以:
 
@@ -202,7 +202,7 @@ Autocomplete with AI, including ChatGPT, through a copilot-like interface.
 - **下载量**：30.2K
 - **最后更新**：2024-05-29
 - **GitHub**：[rizerphe/obsidian-companion](https://github.com/rizerphe/obsidian-companion)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

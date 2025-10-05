@@ -2,11 +2,11 @@
 title: Canvas LLM Extender
 description: Let the OpenAI LLM / GPT add nodes to your canvas for you.
 author: Pasi Saarinen
-downloads: 3430
+downloads: 3431
 updated: 1697758497000
 repo: Phasip/obsidian-canvas-llm-extender
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Canvas LLM Extender"
   description="Let the OpenAI LLM / GPT add nodes to your canvas for you."
   author="Pasi Saarinen"
-  :downloads="3430"
+  :downloads="3431"
   :updated="1697758497000"
   repo="Phasip/obsidian-canvas-llm-extender"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Let the OpenAI LLM / GPT add nodes to your canvas for you.
 - **下载量**：3.4K
 - **最后更新**：2023-10-20
 - **GitHub**：[Phasip/obsidian-canvas-llm-extender](https://github.com/Phasip/obsidian-canvas-llm-extender)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

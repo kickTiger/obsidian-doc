@@ -6,7 +6,7 @@ downloads: 1652
 updated: 1756952459000
 repo: itsonlyjames/obsidian-quick-select
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1756952459000"
   repo="itsonlyjames/obsidian-quick-select"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Quickly select items in any modal using keyboard shortcuts. Supercharge your wor
 - **下载量**：1.7K
 - **最后更新**：2025-09-04
 - **GitHub**：[itsonlyjames/obsidian-quick-select](https://github.com/itsonlyjames/obsidian-quick-select)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

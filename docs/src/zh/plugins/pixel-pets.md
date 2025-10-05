@@ -2,11 +2,11 @@
 title: Pixel Pets
 description: Adds cute pixel pets.
 author: Lucas Jin
-downloads: 1278
+downloads: 1290
 updated: 1758052020000
 repo: LucasHJin/obsidian-pets
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Pixel Pets"
   description="Adds cute pixel pets."
   author="Lucas Jin"
-  :downloads="1278"
+  :downloads="1290"
   :updated="1758052020000"
   repo="LucasHJin/obsidian-pets"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds cute pixel pets.
 - **下载量**：1.3K
 - **最后更新**：2025-09-17
 - **GitHub**：[LucasHJin/obsidian-pets](https://github.com/LucasHJin/obsidian-pets)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

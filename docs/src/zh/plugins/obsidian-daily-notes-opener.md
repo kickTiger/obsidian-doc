@@ -1,12 +1,12 @@
 ---
 title: Daily notes opener
-description: Easily open daily notes and periodic notes in new pane; customize periodic notes background; quick append new line to daily notes.
+description: 在新窗格中轻松打开每日备忘和定期备忘；自定义定期备忘背景；在每日备忘中快速添加新行。
 author: Reorx
-downloads: 7796
+downloads: 7798
 updated: 1650253703000
 repo: reorx/obsidian-daily-notes-opener
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-daily-notes-opener"
   name="Daily notes opener"
-  description="Easily open daily notes and periodic notes in new pane; customize periodic notes background; quick append new line to daily notes."
+  description="在新窗格中轻松打开每日备忘和定期备忘；自定义定期备忘背景；在每日备忘中快速添加新行。"
   author="Reorx"
-  :downloads="7796"
+  :downloads="7798"
   :updated="1650253703000"
   repo="reorx/obsidian-daily-notes-opener"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Daily notes opener 是一个功能强大的 Obsidian 插件。
 
-Easily open daily notes and periodic notes in new pane; customize periodic notes background; quick append new line to daily notes.
+在新窗格中轻松打开每日备忘和定期备忘；自定义定期备忘背景；在每日备忘中快速添加新行。
 
 通过 Daily notes opener,您可以:
 
@@ -202,7 +202,7 @@ Easily open daily notes and periodic notes in new pane; customize periodic notes
 - **下载量**：7.8K
 - **最后更新**：2022-04-18
 - **GitHub**：[reorx/obsidian-daily-notes-opener](https://github.com/reorx/obsidian-daily-notes-opener)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

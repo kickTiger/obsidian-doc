@@ -1,12 +1,12 @@
 ---
 title: TagFolder
-description: Show tags as folder.
+description: 将标签显示为文件夹。
 author: vorotamoroz
-downloads: 192508
+downloads: 192600
 updated: 1744891747000
 repo: vrtmrz/obsidian-tagfolder
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-tagfolder"
   name="TagFolder"
-  description="Show tags as folder."
+  description="将标签显示为文件夹。"
   author="vorotamoroz"
-  :downloads="192508"
+  :downloads="192600"
   :updated="1744891747000"
   repo="vrtmrz/obsidian-tagfolder"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 TagFolder 是一个功能强大的 Obsidian 插件。
 
-Show tags as folder.
+将标签显示为文件夹。
 
 通过 TagFolder,您可以:
 
@@ -199,10 +199,10 @@ Show tags as folder.
 - **插件 ID**：obsidian-tagfolder
 - **作者**：vorotamoroz
 - **当前版本**：v1.0.0
-- **下载量**：192.5K
+- **下载量**：192.6K
 - **最后更新**：2025-04-17
 - **GitHub**：[vrtmrz/obsidian-tagfolder](https://github.com/vrtmrz/obsidian-tagfolder)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

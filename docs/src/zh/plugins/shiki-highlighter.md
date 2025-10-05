@@ -1,12 +1,12 @@
 ---
 title: Shiki Highlighter
-description: Highlight code blocks with Shiki.
+description: 用 Shiki 突出显示代码块。
 author: Moritz Jung
-downloads: 13846
+downloads: 13887
 updated: 1756824388000
 repo: mProjectsCode/obsidian-shiki-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="shiki-highlighter"
   name="Shiki Highlighter"
-  description="Highlight code blocks with Shiki."
+  description="用 Shiki 突出显示代码块。"
   author="Moritz Jung"
-  :downloads="13846"
+  :downloads="13887"
   :updated="1756824388000"
   repo="mProjectsCode/obsidian-shiki-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Shiki Highlighter 是一个功能强大的 Obsidian 插件。
 
-Highlight code blocks with Shiki.
+用 Shiki 突出显示代码块。
 
 通过 Shiki Highlighter,您可以:
 
@@ -199,10 +199,10 @@ Highlight code blocks with Shiki.
 - **插件 ID**：shiki-highlighter
 - **作者**：Moritz Jung
 - **当前版本**：v1.0.0
-- **下载量**：13.8K
+- **下载量**：13.9K
 - **最后更新**：2025-09-02
 - **GitHub**：[mProjectsCode/obsidian-shiki-plugin](https://github.com/mProjectsCode/obsidian-shiki-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

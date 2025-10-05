@@ -1,12 +1,12 @@
 ---
 title: Sequence Hotkeys
-description: Set hotkeys with key sequences instead of a single chord.
+description: 使用键序设置热键，而不是单一和弦。
 author: Ruan Moolman
-downloads: 6845
+downloads: 6846
 updated: 1697667227000
 repo: moolmanruan/obsidian-sequence-hotkeys
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-sequence-hotkeys"
   name="Sequence Hotkeys"
-  description="Set hotkeys with key sequences instead of a single chord."
+  description="使用键序设置热键，而不是单一和弦。"
   author="Ruan Moolman"
-  :downloads="6845"
+  :downloads="6846"
   :updated="1697667227000"
   repo="moolmanruan/obsidian-sequence-hotkeys"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sequence Hotkeys 是一个功能强大的 Obsidian 插件。
 
-Set hotkeys with key sequences instead of a single chord.
+使用键序设置热键，而不是单一和弦。
 
 通过 Sequence Hotkeys,您可以:
 
@@ -202,7 +202,7 @@ Set hotkeys with key sequences instead of a single chord.
 - **下载量**：6.8K
 - **最后更新**：2023-10-19
 - **GitHub**：[moolmanruan/obsidian-sequence-hotkeys](https://github.com/moolmanruan/obsidian-sequence-hotkeys)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

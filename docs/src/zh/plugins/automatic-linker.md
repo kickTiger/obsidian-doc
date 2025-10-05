@@ -2,11 +2,11 @@
 title: Automatic Linker
 description: automatically converts plain text file references into wiki links
 author: Kodai Nakamura
-downloads: 3514
+downloads: 3519
 updated: 1757833063000
 repo: kdnk/obsidian-automatic-linker
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Automatic Linker"
   description="automatically converts plain text file references into wiki links"
   author="Kodai Nakamura"
-  :downloads="3514"
+  :downloads="3519"
   :updated="1757833063000"
   repo="kdnk/obsidian-automatic-linker"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ automatically converts plain text file references into wiki links
 - **下载量**：3.5K
 - **最后更新**：2025-09-14
 - **GitHub**：[kdnk/obsidian-automatic-linker](https://github.com/kdnk/obsidian-automatic-linker)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

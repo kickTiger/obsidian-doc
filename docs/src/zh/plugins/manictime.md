@@ -6,7 +6,7 @@ downloads: 2078
 updated: 1701771384000
 repo: manictime/manictime-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1701771384000"
   repo="manictime/manictime-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Send the path of the active file to locally installed ManicTime client.
 - **下载量**：2.1K
 - **最后更新**：2023-12-05
 - **GitHub**：[manictime/manictime-obsidian](https://github.com/manictime/manictime-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

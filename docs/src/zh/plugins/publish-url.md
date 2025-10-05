@@ -2,11 +2,11 @@
 title: Publish URL
 description: Copy Obsidian Publish URL to the clipboard.
 author: Hananoshika Yomaru
-downloads: 2437
+downloads: 2438
 updated: 1702404175000
 repo: HananoshikaYomaru/obsidian-publish-url
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Publish URL"
   description="Copy Obsidian Publish URL to the clipboard."
   author="Hananoshika Yomaru"
-  :downloads="2437"
+  :downloads="2438"
   :updated="1702404175000"
   repo="HananoshikaYomaru/obsidian-publish-url"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Copy Obsidian Publish URL to the clipboard.
 - **下载量**：2.4K
 - **最后更新**：2023-12-13
 - **GitHub**：[HananoshikaYomaru/obsidian-publish-url](https://github.com/HananoshikaYomaru/obsidian-publish-url)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

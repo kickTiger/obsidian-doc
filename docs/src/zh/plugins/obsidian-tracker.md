@@ -1,12 +1,12 @@
 ---
 title: Tracker
-description: Track occurrences and numbers in your notes.
+description: 从笔记中收集和可视化数据。
 author: pyrochlore
-downloads: 281485
+downloads: 281679
 updated: 1750378752000
 repo: pyrochlore/obsidian-tracker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-tracker"
   name="Tracker"
-  description="Track occurrences and numbers in your notes."
+  description="从笔记中收集和可视化数据。"
   author="pyrochlore"
-  :downloads="281485"
+  :downloads="281679"
   :updated="1750378752000"
   repo="pyrochlore/obsidian-tracker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tracker 是一个功能强大的 Obsidian 插件。
 
-Track occurrences and numbers in your notes.
+从笔记中收集和可视化数据。
 
 通过 Tracker,您可以:
 
@@ -199,10 +199,10 @@ Track occurrences and numbers in your notes.
 - **插件 ID**：obsidian-tracker
 - **作者**：pyrochlore
 - **当前版本**：v1.0.0
-- **下载量**：281.5K
+- **下载量**：281.7K
 - **最后更新**：2025-06-20
 - **GitHub**：[pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

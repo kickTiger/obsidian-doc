@@ -2,11 +2,11 @@
 title: MantouAI
 description: 'Work as a personal assistant for translation, writing polish, general Q&A, summarizing, using the power of large language models.'
 author: Morino Pan
-downloads: 2279
+downloads: 2280
 updated: 1708693009000
 repo: ravenSanstete/Obsidian-MantouAI
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="MantouAI"
   description="Work as a personal assistant for translation, writing polish, general Q&amp;A, summarizing, using the power of large language models."
   author="Morino Pan"
-  :downloads="2279"
+  :downloads="2280"
   :updated="1708693009000"
   repo="ravenSanstete/Obsidian-MantouAI"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Work as a personal assistant for translation, writing polish, general Q&amp;A, s
 - **下载量**：2.3K
 - **最后更新**：2024-02-23
 - **GitHub**：[ravenSanstete/Obsidian-MantouAI](https://github.com/ravenSanstete/Obsidian-MantouAI)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Tab Limiter
 description: Limits the number of tabs that can be opened.
 author: Henry Gustafson
-downloads: 493
+downloads: 494
 updated: 1733121967000
 repo: lizard-heart/obsidian-tab-limit
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tab Limiter"
   description="Limits the number of tabs that can be opened."
   author="Henry Gustafson"
-  :downloads="493"
+  :downloads="494"
   :updated="1733121967000"
   repo="lizard-heart/obsidian-tab-limit"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Limits the number of tabs that can be opened.
 - **插件 ID**：tab-limit
 - **作者**：Henry Gustafson
 - **当前版本**：v1.0.0
-- **下载量**：493
+- **下载量**：494
 - **最后更新**：2024-12-02
 - **GitHub**：[lizard-heart/obsidian-tab-limit](https://github.com/lizard-heart/obsidian-tab-limit)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

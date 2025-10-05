@@ -6,7 +6,7 @@ downloads: 450
 updated: 1721932634000
 repo: samuelrawrs/recent-tab-switcher
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1721932634000"
   repo="samuelrawrs/recent-tab-switcher"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Switch to the most recently used tab.
 - **下载量**：450
 - **最后更新**：2024-07-26
 - **GitHub**：[samuelrawrs/recent-tab-switcher](https://github.com/samuelrawrs/recent-tab-switcher)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

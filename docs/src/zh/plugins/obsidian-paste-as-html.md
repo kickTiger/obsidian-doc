@@ -1,12 +1,12 @@
 ---
 title: Paste As HTML
-description: Paste As HTML, Keep the original CSS style. Paste from web browser.
+description: 粘贴为 HTML，保留原始 CSS 样式。从网页浏览器粘贴。
 author: maotong06
-downloads: 11342
+downloads: 11348
 updated: 1672389503000
 repo: maotong06/obsidian-paste-as-html-plugin
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-paste-as-html"
   name="Paste As HTML"
-  description="Paste As HTML, Keep the original CSS style. Paste from web browser."
+  description="粘贴为 HTML，保留原始 CSS 样式。从网页浏览器粘贴。"
   author="maotong06"
-  :downloads="11342"
+  :downloads="11348"
   :updated="1672389503000"
   repo="maotong06/obsidian-paste-as-html-plugin"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Paste As HTML 是一个功能强大的 Obsidian 插件。
 
-Paste As HTML, Keep the original CSS style. Paste from web browser.
+粘贴为 HTML，保留原始 CSS 样式。从网页浏览器粘贴。
 
 通过 Paste As HTML,您可以:
 
@@ -202,7 +202,7 @@ Paste As HTML, Keep the original CSS style. Paste from web browser.
 - **下载量**：11.3K
 - **最后更新**：2022-12-30
 - **GitHub**：[maotong06/obsidian-paste-as-html-plugin](https://github.com/maotong06/obsidian-paste-as-html-plugin)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

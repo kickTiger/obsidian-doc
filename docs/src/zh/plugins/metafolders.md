@@ -2,11 +2,11 @@
 title: Metafolders
 description: Multidimensional note navigation.
 author: Makary Sharoyan
-downloads: 2029
+downloads: 2030
 updated: 1710367779000
 repo: makary-s/obsidian-metafolders
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Metafolders"
   description="Multidimensional note navigation."
   author="Makary Sharoyan"
-  :downloads="2029"
+  :downloads="2030"
   :updated="1710367779000"
   repo="makary-s/obsidian-metafolders"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Multidimensional note navigation.
 - **下载量**：2.0K
 - **最后更新**：2024-03-14
 - **GitHub**：[makary-s/obsidian-metafolders](https://github.com/makary-s/obsidian-metafolders)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

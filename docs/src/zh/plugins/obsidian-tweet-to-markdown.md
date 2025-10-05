@@ -1,12 +1,12 @@
 ---
 title: Tweet to Markdown
-description: Save tweets as Markdown files, along with their images, polls, etc.
+description: 将推文连同图片、投票等保存为 Markdown 文件。
 author: kbravh
-downloads: 12867
+downloads: 12868
 updated: 1670272301000
 repo: kbravh/obsidian-tweet-to-markdown
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-tweet-to-markdown"
   name="Tweet to Markdown"
-  description="Save tweets as Markdown files, along with their images, polls, etc."
+  description="将推文连同图片、投票等保存为 Markdown 文件。"
   author="kbravh"
-  :downloads="12867"
+  :downloads="12868"
   :updated="1670272301000"
   repo="kbravh/obsidian-tweet-to-markdown"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tweet to Markdown 是一个功能强大的 Obsidian 插件。
 
-Save tweets as Markdown files, along with their images, polls, etc.
+将推文连同图片、投票等保存为 Markdown 文件。
 
 通过 Tweet to Markdown,您可以:
 
@@ -202,7 +202,7 @@ Save tweets as Markdown files, along with their images, polls, etc.
 - **下载量**：12.9K
 - **最后更新**：2022-12-06
 - **GitHub**：[kbravh/obsidian-tweet-to-markdown](https://github.com/kbravh/obsidian-tweet-to-markdown)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

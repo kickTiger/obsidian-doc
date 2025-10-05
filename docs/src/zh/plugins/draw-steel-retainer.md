@@ -2,11 +2,11 @@
 title: Draw Steel Retainer
 description: Provides Director facing sidebar tools for the TTRPG Draw Steel
 author: Martin Dampier
-downloads: 304
+downloads: 305
 updated: 1757613206000
 repo: MartinDampier/draw-steel-retainer
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Draw Steel Retainer"
   description="Provides Director facing sidebar tools for the TTRPG Draw Steel"
   author="Martin Dampier"
-  :downloads="304"
+  :downloads="305"
   :updated="1757613206000"
   repo="MartinDampier/draw-steel-retainer"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Provides Director facing sidebar tools for the TTRPG Draw Steel
 - **插件 ID**：draw-steel-retainer
 - **作者**：Martin Dampier
 - **当前版本**：v1.0.0
-- **下载量**：304
+- **下载量**：305
 - **最后更新**：2025-09-12
 - **GitHub**：[MartinDampier/draw-steel-retainer](https://github.com/MartinDampier/draw-steel-retainer)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

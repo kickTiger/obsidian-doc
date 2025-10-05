@@ -2,11 +2,11 @@
 title: Image Preview on Icon Hover
 description: Adds custom image previews when hovering over various UI icons.
 author: rama1997
-downloads: 367
+downloads: 369
 updated: 1738058779000
 repo: rama1997/Image-Preview-On-Icon-Hover
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Image Preview on Icon Hover"
   description="Adds custom image previews when hovering over various UI icons."
   author="rama1997"
-  :downloads="367"
+  :downloads="369"
   :updated="1738058779000"
   repo="rama1997/Image-Preview-On-Icon-Hover"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Adds custom image previews when hovering over various UI icons.
 - **插件 ID**：image-preview-on-icon-hover
 - **作者**：rama1997
 - **当前版本**：v1.0.0
-- **下载量**：367
+- **下载量**：369
 - **最后更新**：2025-01-28
 - **GitHub**：[rama1997/Image-Preview-On-Icon-Hover](https://github.com/rama1997/Image-Preview-On-Icon-Hover)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Flowcharts
 description: Render flowcharts using flowchart.js markup.
 author: land0r
-downloads: 1662
+downloads: 1666
 updated: 1740340515000
 repo: land0r/obsidian-flowchart-plugin
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Flowcharts"
   description="Render flowcharts using flowchart.js markup."
   author="land0r"
-  :downloads="1662"
+  :downloads="1666"
   :updated="1740340515000"
   repo="land0r/obsidian-flowchart-plugin"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Render flowcharts using flowchart.js markup.
 - **下载量**：1.7K
 - **最后更新**：2025-02-24
 - **GitHub**：[land0r/obsidian-flowchart-plugin](https://github.com/land0r/obsidian-flowchart-plugin)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

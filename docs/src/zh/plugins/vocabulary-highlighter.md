@@ -1,12 +1,12 @@
 ---
 title: Vocabulary Highlighter
-description: Hightlight vocabulary based on the word frequency.
+description: 根据词频突出词汇。
 author: eatgrass
-downloads: 4621
+downloads: 4625
 updated: 1700126962000
 repo: eatgrass/obsidian-vocab-highlighter
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vocabulary-highlighter"
   name="Vocabulary Highlighter"
-  description="Hightlight vocabulary based on the word frequency."
+  description="根据词频突出词汇。"
   author="eatgrass"
-  :downloads="4621"
+  :downloads="4625"
   :updated="1700126962000"
   repo="eatgrass/obsidian-vocab-highlighter"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vocabulary Highlighter 是一个功能强大的 Obsidian 插件。
 
-Hightlight vocabulary based on the word frequency.
+根据词频突出词汇。
 
 通过 Vocabulary Highlighter,您可以:
 
@@ -202,7 +202,7 @@ Hightlight vocabulary based on the word frequency.
 - **下载量**：4.6K
 - **最后更新**：2023-11-16
 - **GitHub**：[eatgrass/obsidian-vocab-highlighter](https://github.com/eatgrass/obsidian-vocab-highlighter)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

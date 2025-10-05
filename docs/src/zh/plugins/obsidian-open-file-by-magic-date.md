@@ -1,12 +1,12 @@
 ---
 title: Open File by Magic Date
-description: 'Define a hotkey and Moment.js pattern for the file that is most important to you (eg: your daily/weekly/monthly note).'
+description: 为对你来说最重要的文件（例如：你的每日/每周/每月笔记）定义热键和 Moment.js 模式。
 author: simplgy
 downloads: 4143
 updated: 1679192630000
 repo: SimplGy/obsidian-open-file-by-magic-date
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-open-file-by-magic-date"
   name="Open File by Magic Date"
-  description="Define a hotkey and Moment.js pattern for the file that is most important to you (eg: your daily/weekly/monthly note)."
+  description="为对你来说最重要的文件（例如：你的每日/每周/每月笔记）定义热键和 Moment.js 模式。"
   author="simplgy"
   :downloads="4143"
   :updated="1679192630000"
   repo="SimplGy/obsidian-open-file-by-magic-date"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Open File by Magic Date 是一个功能强大的 Obsidian 插件。
 
-Define a hotkey and Moment.js pattern for the file that is most important to you (eg: your daily/weekly/monthly note).
+为对你来说最重要的文件（例如：你的每日/每周/每月笔记）定义热键和 Moment.js 模式。
 
 通过 Open File by Magic Date,您可以:
 
@@ -202,7 +202,7 @@ Define a hotkey and Moment.js pattern for the file that is most important to you
 - **下载量**：4.1K
 - **最后更新**：2023-03-19
 - **GitHub**：[SimplGy/obsidian-open-file-by-magic-date](https://github.com/SimplGy/obsidian-open-file-by-magic-date)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

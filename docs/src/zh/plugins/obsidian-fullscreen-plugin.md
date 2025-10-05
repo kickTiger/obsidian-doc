@@ -1,12 +1,12 @@
 ---
 title: Fullscreen Focus Mode
-description: Add a command to view a single document leaf in a fullscreen focus mode.
+description: 添加在全屏聚焦模式下查看单个文档页的命令。
 author: Razum
-downloads: 39176
+downloads: 39189
 updated: 1641645712000
 repo: Razumihin/obsidian-fullscreen-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-fullscreen-plugin"
   name="Fullscreen Focus Mode"
-  description="Add a command to view a single document leaf in a fullscreen focus mode."
+  description="添加在全屏聚焦模式下查看单个文档页的命令。"
   author="Razum"
-  :downloads="39176"
+  :downloads="39189"
   :updated="1641645712000"
   repo="Razumihin/obsidian-fullscreen-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Fullscreen Focus Mode 是一个功能强大的 Obsidian 插件。
 
-Add a command to view a single document leaf in a fullscreen focus mode.
+添加在全屏聚焦模式下查看单个文档页的命令。
 
 通过 Fullscreen Focus Mode,您可以:
 
@@ -202,7 +202,7 @@ Add a command to view a single document leaf in a fullscreen focus mode.
 - **下载量**：39.2K
 - **最后更新**：2022-01-08
 - **GitHub**：[Razumihin/obsidian-fullscreen-plugin](https://github.com/Razumihin/obsidian-fullscreen-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

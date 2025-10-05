@@ -1,12 +1,12 @@
 ---
 title: Image Layouts
-description: Add beautiful image layouts to your notes.
+description: 为笔记添加精美图片布局
 author: Luke Chadwick
-downloads: 25042
+downloads: 25064
 updated: 1720806455000
 repo: vertis/obsidian-image-layouts
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-image-layouts"
   name="Image Layouts"
-  description="Add beautiful image layouts to your notes."
+  description="为笔记添加精美图片布局"
   author="Luke Chadwick"
-  :downloads="25042"
+  :downloads="25064"
   :updated="1720806455000"
   repo="vertis/obsidian-image-layouts"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Layouts 是一个功能强大的 Obsidian 插件。
 
-Add beautiful image layouts to your notes.
+为笔记添加精美图片布局
 
 通过 Image Layouts,您可以:
 
@@ -199,10 +199,10 @@ Add beautiful image layouts to your notes.
 - **插件 ID**：obsidian-image-layouts
 - **作者**：Luke Chadwick
 - **当前版本**：v1.0.0
-- **下载量**：25.0K
+- **下载量**：25.1K
 - **最后更新**：2024-07-13
 - **GitHub**：[vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

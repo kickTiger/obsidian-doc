@@ -2,11 +2,11 @@
 title: Editing Mode Hotkey
 description: Adds a command and hotkey to toggle the default editing mode (between Live Preview and Source)
 author: Signynt
-downloads: 445
+downloads: 446
 updated: 1726443324000
 repo: Signynt/obsidian-editing-mode-hotkey
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Editing Mode Hotkey"
   description="Adds a command and hotkey to toggle the default editing mode (between Live Preview and Source)"
   author="Signynt"
-  :downloads="445"
+  :downloads="446"
   :updated="1726443324000"
   repo="Signynt/obsidian-editing-mode-hotkey"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Adds a command and hotkey to toggle the default editing mode (between Live Previ
 - **插件 ID**：editing-mode-hotkey
 - **作者**：Signynt
 - **当前版本**：v1.0.0
-- **下载量**：445
+- **下载量**：446
 - **最后更新**：2024-09-16
 - **GitHub**：[Signynt/obsidian-editing-mode-hotkey](https://github.com/Signynt/obsidian-editing-mode-hotkey)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

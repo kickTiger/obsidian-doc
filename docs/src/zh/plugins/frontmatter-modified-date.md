@@ -1,12 +1,12 @@
 ---
 title: Update frontmatter modified date
-description: Automatically update a frontmatter modified date field when the file is modified.
+description: 当文件被修改时，自动更新前置内容修改日期字段。
 author: Alan Grainger
-downloads: 34192
+downloads: 34237
 updated: 1754473358000
 repo: alangrainger/obsidian-frontmatter-modified-date
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="frontmatter-modified-date"
   name="Update frontmatter modified date"
-  description="Automatically update a frontmatter modified date field when the file is modified."
+  description="当文件被修改时，自动更新前置内容修改日期字段。"
   author="Alan Grainger"
-  :downloads="34192"
+  :downloads="34237"
   :updated="1754473358000"
   repo="alangrainger/obsidian-frontmatter-modified-date"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Update frontmatter modified date 是一个功能强大的 Obsidian 插件。
 
-Automatically update a frontmatter modified date field when the file is modified.
+当文件被修改时，自动更新前置内容修改日期字段。
 
 通过 Update frontmatter modified date,您可以:
 
@@ -202,7 +202,7 @@ Automatically update a frontmatter modified date field when the file is modified
 - **下载量**：34.2K
 - **最后更新**：2025-08-06
 - **GitHub**：[alangrainger/obsidian-frontmatter-modified-date](https://github.com/alangrainger/obsidian-frontmatter-modified-date)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

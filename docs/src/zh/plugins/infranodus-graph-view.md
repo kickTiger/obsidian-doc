@@ -1,12 +1,12 @@
 ---
 title: InfraNodus AI Graph View
-description: 'Interactive 3D graph view: text analysis, topic modeling, gap detection, and AI. (Closed source)'
+description: 交互式 3D 图表视图：文本分析、主题建模、差距检测和人工智能。(非公开资料）
 author: Nodus Labs
-downloads: 9925
+downloads: 9946
 updated: 1754585614000
 repo: noduslabs/infranodus-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="infranodus-graph-view"
   name="InfraNodus AI Graph View"
-  description="Interactive 3D graph view: text analysis, topic modeling, gap detection, and AI. (Closed source)"
+  description="交互式 3D 图表视图：文本分析、主题建模、差距检测和人工智能。(非公开资料）"
   author="Nodus Labs"
-  :downloads="9925"
+  :downloads="9946"
   :updated="1754585614000"
   repo="noduslabs/infranodus-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 InfraNodus AI Graph View 是一个功能强大的 Obsidian 插件。
 
-Interactive 3D graph view: text analysis, topic modeling, gap detection, and AI. (Closed source)
+交互式 3D 图表视图：文本分析、主题建模、差距检测和人工智能。(非公开资料）
 
 通过 InfraNodus AI Graph View,您可以:
 
@@ -202,7 +202,7 @@ Interactive 3D graph view: text analysis, topic modeling, gap detection, and AI.
 - **下载量**：9.9K
 - **最后更新**：2025-08-08
 - **GitHub**：[noduslabs/infranodus-obsidian-plugin](https://github.com/noduslabs/infranodus-obsidian-plugin)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

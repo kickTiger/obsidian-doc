@@ -2,11 +2,11 @@
 title: Task Mover
 description: Move unfinished tasks to the daily note automatically
 author: Mariia Nebesnaia
-downloads: 599
+downloads: 602
 updated: 1737463680000
 repo: nemariia/task-mover
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Task Mover"
   description="Move unfinished tasks to the daily note automatically"
   author="Mariia Nebesnaia"
-  :downloads="599"
+  :downloads="602"
   :updated="1737463680000"
   repo="nemariia/task-mover"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Move unfinished tasks to the daily note automatically
 - **插件 ID**：task-mover
 - **作者**：Mariia Nebesnaia
 - **当前版本**：v1.0.0
-- **下载量**：599
+- **下载量**：602
 - **最后更新**：2025-01-21
 - **GitHub**：[nemariia/task-mover](https://github.com/nemariia/task-mover)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

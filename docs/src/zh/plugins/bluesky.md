@@ -6,7 +6,7 @@ downloads: 615
 updated: 1750134408000
 repo: eharris128/obsidian-bluesky
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1750134408000"
   repo="eharris128/obsidian-bluesky"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Post to Bluesky.
 - **下载量**：615
 - **最后更新**：2025-06-17
 - **GitHub**：[eharris128/obsidian-bluesky](https://github.com/eharris128/obsidian-bluesky)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

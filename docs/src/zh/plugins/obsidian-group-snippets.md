@@ -1,12 +1,12 @@
 ---
 title: Group Snippets
-description: 'Create folder of snippets to activate them in one click!'
+description: 创建片段文件夹，一键激活！
 author: Mara-Li
-downloads: 5239
+downloads: 5243
 updated: 1716708578000
 repo: Mara-Li/obsidian-group-snippets
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-group-snippets"
   name="Group Snippets"
-  description="Create folder of snippets to activate them in one click!"
+  description="创建片段文件夹，一键激活！"
   author="Mara-Li"
-  :downloads="5239"
+  :downloads="5243"
   :updated="1716708578000"
   repo="Mara-Li/obsidian-group-snippets"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Group Snippets 是一个功能强大的 Obsidian 插件。
 
-Create folder of snippets to activate them in one click!
+创建片段文件夹，一键激活！
 
 通过 Group Snippets,您可以:
 
@@ -202,7 +202,7 @@ Create folder of snippets to activate them in one click!
 - **下载量**：5.2K
 - **最后更新**：2024-05-26
 - **GitHub**：[Mara-Li/obsidian-group-snippets](https://github.com/Mara-Li/obsidian-group-snippets)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

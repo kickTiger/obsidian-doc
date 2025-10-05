@@ -2,11 +2,11 @@
 title: Simple Vault Importer
 description: Import starter vaults into your own vault.
 author: WebInspectInc
-downloads: 231
+downloads: 233
 updated: 1752061341000
 repo: WebInspectInc/obsidian-simple-template-importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Simple Vault Importer"
   description="Import starter vaults into your own vault."
   author="WebInspectInc"
-  :downloads="231"
+  :downloads="233"
   :updated="1752061341000"
   repo="WebInspectInc/obsidian-simple-template-importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Import starter vaults into your own vault.
 - **插件 ID**：simple-vault-importer
 - **作者**：WebInspectInc
 - **当前版本**：v1.0.0
-- **下载量**：231
+- **下载量**：233
 - **最后更新**：2025-07-09
 - **GitHub**：[WebInspectInc/obsidian-simple-template-importer](https://github.com/WebInspectInc/obsidian-simple-template-importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

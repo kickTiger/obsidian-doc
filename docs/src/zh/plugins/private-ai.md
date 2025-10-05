@@ -2,11 +2,11 @@
 title: Private AI
 description: Effortlessly chat with your notes using locally hosted AI.  Private by design, your notes never leave the device and use locally processing only.
 author: GB
-downloads: 1433
+downloads: 1447
 updated: 1758080209000
 repo: gabosgab/ObsidianPrivateAI
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Private AI"
   description="Effortlessly chat with your notes using locally hosted AI.  Private by design, your notes never leave the device and use locally processing only."
   author="GB"
-  :downloads="1433"
+  :downloads="1447"
   :updated="1758080209000"
   repo="gabosgab/ObsidianPrivateAI"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Effortlessly chat with your notes using locally hosted AI.  Private by design, y
 - **下载量**：1.4K
 - **最后更新**：2025-09-17
 - **GitHub**：[gabosgab/ObsidianPrivateAI](https://github.com/gabosgab/ObsidianPrivateAI)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

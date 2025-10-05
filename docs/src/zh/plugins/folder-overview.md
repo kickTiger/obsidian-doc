@@ -2,11 +2,11 @@
 title: Folder overview
 description: Provides a dynamic overview of your vault or folders in the format of a codeblock.
 author: Lost Paul
-downloads: 1272
+downloads: 1275
 updated: 1753517866000
 repo: LostPaul/obsidian-folder-overview
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Folder overview"
   description="Provides a dynamic overview of your vault or folders in the format of a codeblock."
   author="Lost Paul"
-  :downloads="1272"
+  :downloads="1275"
   :updated="1753517866000"
   repo="LostPaul/obsidian-folder-overview"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Provides a dynamic overview of your vault or folders in the format of a codebloc
 - **下载量**：1.3K
 - **最后更新**：2025-07-26
 - **GitHub**：[LostPaul/obsidian-folder-overview](https://github.com/LostPaul/obsidian-folder-overview)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

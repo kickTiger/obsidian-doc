@@ -2,11 +2,11 @@
 title: Image Picker
 description: A blazingly fast way to browse, search, and embed pictures across your vault
 author: ari.the.elk
-downloads: 1715
+downloads: 1720
 updated: 1734547167000
 repo: ariamckinley/obsidian-image-picker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Image Picker"
   description="A blazingly fast way to browse, search, and embed pictures across your vault"
   author="ari.the.elk"
-  :downloads="1715"
+  :downloads="1720"
   :updated="1734547167000"
   repo="ariamckinley/obsidian-image-picker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ A blazingly fast way to browse, search, and embed pictures across your vault
 - **下载量**：1.7K
 - **最后更新**：2024-12-19
 - **GitHub**：[ariamckinley/obsidian-image-picker](https://github.com/ariamckinley/obsidian-image-picker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

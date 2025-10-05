@@ -2,11 +2,11 @@
 title: RPG Stat Tracker
 description: RPG-like stat tracker.
 author: Cunjur
-downloads: 1134
+downloads: 1138
 updated: 1719164064000
 repo: name/obsidian-rpg
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="RPG Stat Tracker"
   description="RPG-like stat tracker."
   author="Cunjur"
-  :downloads="1134"
+  :downloads="1138"
   :updated="1719164064000"
   repo="name/obsidian-rpg"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ RPG-like stat tracker.
 - **下载量**：1.1K
 - **最后更新**：2024-06-24
 - **GitHub**：[name/obsidian-rpg](https://github.com/name/obsidian-rpg)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

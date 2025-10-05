@@ -2,11 +2,11 @@
 title: GitHub Tasks
 description: Sync issues and pull requests from your GitHub account to tasks.
 author: Mike Thicke
-downloads: 85
+downloads: 86
 updated: 1757346399000
 repo: Epistemic-Technology/obsidian-github-tasks
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="GitHub Tasks"
   description="Sync issues and pull requests from your GitHub account to tasks."
   author="Mike Thicke"
-  :downloads="85"
+  :downloads="86"
   :updated="1757346399000"
   repo="Epistemic-Technology/obsidian-github-tasks"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Sync issues and pull requests from your GitHub account to tasks.
 - **插件 ID**：github-tasks
 - **作者**：Mike Thicke
 - **当前版本**：v1.0.0
-- **下载量**：85
+- **下载量**：86
 - **最后更新**：2025-09-08
 - **GitHub**：[Epistemic-Technology/obsidian-github-tasks](https://github.com/Epistemic-Technology/obsidian-github-tasks)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

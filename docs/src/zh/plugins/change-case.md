@@ -1,12 +1,12 @@
 ---
 title: Change Case
-description: Change the case (UPPER CASE, camelCase, snake_case, etc) of the current selection.
+description: 更改当前选中内容的大小写（大写、驼峰形、蛇形等）。
 author: David Brockman
-downloads: 19827
+downloads: 19841
 updated: 1732865327000
 repo: dbrockman/obsidian-change-case
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="change-case"
   name="Change Case"
-  description="Change the case (UPPER CASE, camelCase, snake_case, etc) of the current selection."
+  description="更改当前选中内容的大小写（大写、驼峰形、蛇形等）。"
   author="David Brockman"
-  :downloads="19827"
+  :downloads="19841"
   :updated="1732865327000"
   repo="dbrockman/obsidian-change-case"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Change Case 是一个功能强大的 Obsidian 插件。
 
-Change the case (UPPER CASE, camelCase, snake_case, etc) of the current selection.
+更改当前选中内容的大小写（大写、驼峰形、蛇形等）。
 
 通过 Change Case,您可以:
 
@@ -202,7 +202,7 @@ Change the case (UPPER CASE, camelCase, snake_case, etc) of the current selectio
 - **下载量**：19.8K
 - **最后更新**：2024-11-29
 - **GitHub**：[dbrockman/obsidian-change-case](https://github.com/dbrockman/obsidian-change-case)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

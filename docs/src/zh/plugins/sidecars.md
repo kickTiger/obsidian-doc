@@ -2,11 +2,11 @@
 title: Sidecars
 description: 'Automated, user-friendly management of ''sidecar'' companion notes for non-markdown files.'
 author: 'Albert O''Shea'
-downloads: 353
+downloads: 362
 updated: 1752284253000
 repo: Alb-O/obsidian-sidecars
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Sidecars"
   description="Automated, user-friendly management of &#39;sidecar&#39; companion notes for non-markdown files."
   author="Albert O&#39;Shea"
-  :downloads="353"
+  :downloads="362"
   :updated="1752284253000"
   repo="Alb-O/obsidian-sidecars"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automated, user-friendly management of &#39;sidecar&#39; companion notes for non
 - **插件 ID**：sidecars
 - **作者**：Albert O&#39;Shea
 - **当前版本**：v1.0.0
-- **下载量**：353
+- **下载量**：362
 - **最后更新**：2025-07-12
 - **GitHub**：[Alb-O/obsidian-sidecars](https://github.com/Alb-O/obsidian-sidecars)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

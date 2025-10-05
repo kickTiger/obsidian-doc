@@ -2,11 +2,11 @@
 title: Toggle Dark Mode
 description: Adds a command to toggle dark mode on and off
 author: Julia van der Kris
-downloads: 2546
+downloads: 2552
 updated: 1743596352000
 repo: juliavdkris/obsidian-toggle-dark-mode
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Toggle Dark Mode"
   description="Adds a command to toggle dark mode on and off"
   author="Julia van der Kris"
-  :downloads="2546"
+  :downloads="2552"
   :updated="1743596352000"
   repo="juliavdkris/obsidian-toggle-dark-mode"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Adds a command to toggle dark mode on and off
 - **插件 ID**：toggle-dark-mode
 - **作者**：Julia van der Kris
 - **当前版本**：v1.0.0
-- **下载量**：2.5K
+- **下载量**：2.6K
 - **最后更新**：2025-04-02
 - **GitHub**：[juliavdkris/obsidian-toggle-dark-mode](https://github.com/juliavdkris/obsidian-toggle-dark-mode)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

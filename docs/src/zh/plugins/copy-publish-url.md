@@ -1,12 +1,12 @@
 ---
 title: Publish and GitHub URL
-description: Copy or open the URL of the corresponding note on your Publish site. You can also open its Git commit history on GitHub.
+description: 在发布网站上复制或打开相应注释的 URL。您还可以在 GitHub 上打开其 Git 提交历史记录。
 author: kometenstaub
-downloads: 6012
+downloads: 6013
 updated: 1682792451000
 repo: kometenstaub/copy-publish-url
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="copy-publish-url"
   name="Publish and GitHub URL"
-  description="Copy or open the URL of the corresponding note on your Publish site. You can also open its Git commit history on GitHub."
+  description="在发布网站上复制或打开相应注释的 URL。您还可以在 GitHub 上打开其 Git 提交历史记录。"
   author="kometenstaub"
-  :downloads="6012"
+  :downloads="6013"
   :updated="1682792451000"
   repo="kometenstaub/copy-publish-url"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Publish and GitHub URL 是一个功能强大的 Obsidian 插件。
 
-Copy or open the URL of the corresponding note on your Publish site. You can also open its Git commit history on GitHub.
+在发布网站上复制或打开相应注释的 URL。您还可以在 GitHub 上打开其 Git 提交历史记录。
 
 通过 Publish and GitHub URL,您可以:
 
@@ -202,7 +202,7 @@ Copy or open the URL of the corresponding note on your Publish site. You can als
 - **下载量**：6.0K
 - **最后更新**：2023-04-30
 - **GitHub**：[kometenstaub/copy-publish-url](https://github.com/kometenstaub/copy-publish-url)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

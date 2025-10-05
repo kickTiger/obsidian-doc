@@ -2,11 +2,11 @@
 title: PDF Writer
 description: to write and fill a PDF.
 author: Jobelin Kom
-downloads: 1340
+downloads: 1346
 updated: 1741344917000
 repo: jkom4/obsidian-pdf-writer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="PDF Writer"
   description="to write and fill a PDF."
   author="Jobelin Kom"
-  :downloads="1340"
+  :downloads="1346"
   :updated="1741344917000"
   repo="jkom4/obsidian-pdf-writer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ to write and fill a PDF.
 - **下载量**：1.3K
 - **最后更新**：2025-03-07
 - **GitHub**：[jkom4/obsidian-pdf-writer](https://github.com/jkom4/obsidian-pdf-writer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

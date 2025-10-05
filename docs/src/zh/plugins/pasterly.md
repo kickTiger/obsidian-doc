@@ -6,7 +6,7 @@ downloads: 114
 updated: 1746367757000
 repo: easternkite/Pasterly
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1746367757000"
   repo="easternkite/Pasterly"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically upload clipboard images to Firebase Storage and insert them as mar
 - **下载量**：114
 - **最后更新**：2025-05-04
 - **GitHub**：[easternkite/Pasterly](https://github.com/easternkite/Pasterly)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

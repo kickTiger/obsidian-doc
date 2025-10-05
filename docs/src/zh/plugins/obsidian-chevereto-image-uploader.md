@@ -1,12 +1,12 @@
 ---
 title: Chevereto Image Uploader
-description: Upload images in your clipboard to Chevereto.
+description: 将剪贴板中的图片上传到 Chevereto。
 author: kkzzhizhou
 downloads: 3607
 updated: 1645076333000
 repo: kkzzhizhou/obsidian-chevereto-image-uploader
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-chevereto-image-uploader"
   name="Chevereto Image Uploader"
-  description="Upload images in your clipboard to Chevereto."
+  description="将剪贴板中的图片上传到 Chevereto。"
   author="kkzzhizhou"
   :downloads="3607"
   :updated="1645076333000"
   repo="kkzzhizhou/obsidian-chevereto-image-uploader"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chevereto Image Uploader 是一个功能强大的 Obsidian 插件。
 
-Upload images in your clipboard to Chevereto.
+将剪贴板中的图片上传到 Chevereto。
 
 通过 Chevereto Image Uploader,您可以:
 
@@ -202,7 +202,7 @@ Upload images in your clipboard to Chevereto.
 - **下载量**：3.6K
 - **最后更新**：2022-02-17
 - **GitHub**：[kkzzhizhou/obsidian-chevereto-image-uploader](https://github.com/kkzzhizhou/obsidian-chevereto-image-uploader)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

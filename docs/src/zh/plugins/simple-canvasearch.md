@@ -1,12 +1,12 @@
 ---
 title: Simple CanvaSearch
-description: Quickly fuzzysearch notes, cards and their content and shift focus to them within the currently opened canvas.
+description: 在当前打开的画布中，快速模糊搜索笔记、卡片及其内容，并将焦点转移到它们上。
 author: ddalexb
-downloads: 109349
+downloads: 109368
 updated: 1747686734000
 repo: ddalexb/obsidian-simple-canvasearch
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="simple-canvasearch"
   name="Simple CanvaSearch"
-  description="Quickly fuzzysearch notes, cards and their content and shift focus to them within the currently opened canvas."
+  description="在当前打开的画布中，快速模糊搜索笔记、卡片及其内容，并将焦点转移到它们上。"
   author="ddalexb"
-  :downloads="109349"
+  :downloads="109368"
   :updated="1747686734000"
   repo="ddalexb/obsidian-simple-canvasearch"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Simple CanvaSearch 是一个功能强大的 Obsidian 插件。
 
-Quickly fuzzysearch notes, cards and their content and shift focus to them within the currently opened canvas.
+在当前打开的画布中，快速模糊搜索笔记、卡片及其内容，并将焦点转移到它们上。
 
 通过 Simple CanvaSearch,您可以:
 
@@ -199,10 +199,10 @@ Quickly fuzzysearch notes, cards and their content and shift focus to them withi
 - **插件 ID**：simple-canvasearch
 - **作者**：ddalexb
 - **当前版本**：v1.0.0
-- **下载量**：109.3K
+- **下载量**：109.4K
 - **最后更新**：2025-05-20
 - **GitHub**：[ddalexb/obsidian-simple-canvasearch](https://github.com/ddalexb/obsidian-simple-canvasearch)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

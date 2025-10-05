@@ -1,12 +1,12 @@
 ---
 title: Structured
-description: 'Structured plugin. Create hierarchy in notes using "."'
+description: '结构化插件。使用". "在注释中创建层次结构'
 author: dobrovolsky
-downloads: 6379
+downloads: 6382
 updated: 1706351103000
 repo: dobrovolsky/obsidian-structure
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-structured-plugin"
   name="Structured"
-  description="Structured plugin. Create hierarchy in notes using &quot;.&quot;"
+  description="结构化插件。使用&quot;. &quot;在注释中创建层次结构"
   author="dobrovolsky"
-  :downloads="6379"
+  :downloads="6382"
   :updated="1706351103000"
   repo="dobrovolsky/obsidian-structure"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Structured 是一个功能强大的 Obsidian 插件。
 
-Structured plugin. Create hierarchy in notes using &quot;.&quot;
+结构化插件。使用&quot;. &quot;在注释中创建层次结构
 
 通过 Structured,您可以:
 
@@ -202,7 +202,7 @@ Structured plugin. Create hierarchy in notes using &quot;.&quot;
 - **下载量**：6.4K
 - **最后更新**：2024-01-27
 - **GitHub**：[dobrovolsky/obsidian-structure](https://github.com/dobrovolsky/obsidian-structure)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

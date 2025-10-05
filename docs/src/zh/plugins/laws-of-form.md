@@ -6,7 +6,7 @@ downloads: 3295
 updated: 1691747562000
 repo: Kevger/obsidian-laws-of-form
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1691747562000"
   repo="Kevger/obsidian-laws-of-form"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create, manage and display Laws of Form expressions like ((a)) (b) = a (b).
 - **下载量**：3.3K
 - **最后更新**：2023-08-11
 - **GitHub**：[Kevger/obsidian-laws-of-form](https://github.com/Kevger/obsidian-laws-of-form)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

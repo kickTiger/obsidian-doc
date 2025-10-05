@@ -1,12 +1,12 @@
 ---
 title: Code Editor Shortcuts
-description: Add keyboard shortcuts (hotkeys) commonly found in code editors such as Visual Studio Code (VS Code) or Sublime Text.
+description: 添加 Obsidian 编辑器的键盘快捷键。
 author: Tim Hor
-downloads: 43721
+downloads: 43747
 updated: 1684936222000
 repo: timhor/obsidian-editor-shortcuts
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-editor-shortcuts"
   name="Code Editor Shortcuts"
-  description="Add keyboard shortcuts (hotkeys) commonly found in code editors such as Visual Studio Code (VS Code) or Sublime Text."
+  description="添加 Obsidian 编辑器的键盘快捷键。"
   author="Tim Hor"
-  :downloads="43721"
+  :downloads="43747"
   :updated="1684936222000"
   repo="timhor/obsidian-editor-shortcuts"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Code Editor Shortcuts 是一个功能强大的 Obsidian 插件。
 
-Add keyboard shortcuts (hotkeys) commonly found in code editors such as Visual Studio Code (VS Code) or Sublime Text.
+添加 Obsidian 编辑器的键盘快捷键。
 
 通过 Code Editor Shortcuts,您可以:
 
@@ -202,7 +202,7 @@ Add keyboard shortcuts (hotkeys) commonly found in code editors such as Visual S
 - **下载量**：43.7K
 - **最后更新**：2023-05-24
 - **GitHub**：[timhor/obsidian-editor-shortcuts](https://github.com/timhor/obsidian-editor-shortcuts)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

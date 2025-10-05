@@ -1,12 +1,12 @@
 ---
 title: Gemini AI Assistant
-description: A Google Gemini integration, completely for free.
+description: 谷歌双子座集成，完全免费。
 author: Artel250
-downloads: 8435
+downloads: 8447
 updated: 1724839343000
 repo: Artel250/Obsidian-Gemini-Assistant
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chat-with-bard"
   name="Gemini AI Assistant"
-  description="A Google Gemini integration, completely for free."
+  description="谷歌双子座集成，完全免费。"
   author="Artel250"
-  :downloads="8435"
+  :downloads="8447"
   :updated="1724839343000"
   repo="Artel250/Obsidian-Gemini-Assistant"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Gemini AI Assistant 是一个功能强大的 Obsidian 插件。
 
-A Google Gemini integration, completely for free.
+谷歌双子座集成，完全免费。
 
 通过 Gemini AI Assistant,您可以:
 
@@ -202,7 +202,7 @@ A Google Gemini integration, completely for free.
 - **下载量**：8.4K
 - **最后更新**：2024-08-28
 - **GitHub**：[Artel250/Obsidian-Gemini-Assistant](https://github.com/Artel250/Obsidian-Gemini-Assistant)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

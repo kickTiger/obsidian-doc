@@ -1,12 +1,12 @@
 ---
 title: MathLive
-description: Faster and more intuitive MathJax editing using MathLive.
+description: 使用 MathLive 进行更快、更直观的 MathJax 编辑。
 author: Dan Zilberman
-downloads: 21234
+downloads: 21256
 updated: 1727672579000
 repo: danzilberdan/obsidian-mathlive
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mathlive"
   name="MathLive"
-  description="Faster and more intuitive MathJax editing using MathLive."
+  description="使用 MathLive 进行更快、更直观的 MathJax 编辑。"
   author="Dan Zilberman"
-  :downloads="21234"
+  :downloads="21256"
   :updated="1727672579000"
   repo="danzilberdan/obsidian-mathlive"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MathLive 是一个功能强大的 Obsidian 插件。
 
-Faster and more intuitive MathJax editing using MathLive.
+使用 MathLive 进行更快、更直观的 MathJax 编辑。
 
 通过 MathLive,您可以:
 
@@ -199,10 +199,10 @@ Faster and more intuitive MathJax editing using MathLive.
 - **插件 ID**：mathlive
 - **作者**：Dan Zilberman
 - **当前版本**：v1.0.0
-- **下载量**：21.2K
+- **下载量**：21.3K
 - **最后更新**：2024-09-30
 - **GitHub**：[danzilberdan/obsidian-mathlive](https://github.com/danzilberdan/obsidian-mathlive)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

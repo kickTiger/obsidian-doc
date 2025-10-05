@@ -2,11 +2,11 @@
 title: Cooklang
 description: Display and edit recipes written in the Cooklang format.
 author: Roger Veciana i Rovira
-downloads: 2519
+downloads: 2520
 updated: 1749072611000
 repo: rveciana/obsidian-cooklang
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Cooklang"
   description="Display and edit recipes written in the Cooklang format."
   author="Roger Veciana i Rovira"
-  :downloads="2519"
+  :downloads="2520"
   :updated="1749072611000"
   repo="rveciana/obsidian-cooklang"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Display and edit recipes written in the Cooklang format.
 - **下载量**：2.5K
 - **最后更新**：2025-06-05
 - **GitHub**：[rveciana/obsidian-cooklang](https://github.com/rveciana/obsidian-cooklang)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

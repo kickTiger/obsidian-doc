@@ -6,7 +6,7 @@ downloads: 520
 updated: 1740773043000
 repo: singh-inder/obsidian-images-to-gist
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1740773043000"
   repo="singh-inder/obsidian-images-to-gist"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Upload images to your GitHub secret Gists. Also, resize uploaded images on the f
 - **下载量**：520
 - **最后更新**：2025-03-01
 - **GitHub**：[singh-inder/obsidian-images-to-gist](https://github.com/singh-inder/obsidian-images-to-gist)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

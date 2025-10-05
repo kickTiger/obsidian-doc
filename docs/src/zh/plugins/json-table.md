@@ -1,12 +1,12 @@
 ---
 title: JSON table
-description: Simply switch between JSON and tables. Generate a table from a JSON string or a URL (which returns JSON) in your notes. Generate JSON from a table in your notes.
+description: 只需在 JSON 和表格之间切换即可。从笔记中的 JSON 字符串或 URL（返回 JSON）生成表格。从笔记中的表格生成 JSON。
 author: Dario Baumberger
-downloads: 6036
+downloads: 6049
 updated: 1758808775000
 repo: dario-baumberger/obsidian-json-table
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="json-table"
   name="JSON table"
-  description="Simply switch between JSON and tables. Generate a table from a JSON string or a URL (which returns JSON) in your notes. Generate JSON from a table in your notes."
+  description="只需在 JSON 和表格之间切换即可。从笔记中的 JSON 字符串或 URL（返回 JSON）生成表格。从笔记中的表格生成 JSON。"
   author="Dario Baumberger"
-  :downloads="6036"
+  :downloads="6049"
   :updated="1758808775000"
   repo="dario-baumberger/obsidian-json-table"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 JSON table 是一个功能强大的 Obsidian 插件。
 
-Simply switch between JSON and tables. Generate a table from a JSON string or a URL (which returns JSON) in your notes. Generate JSON from a table in your notes.
+只需在 JSON 和表格之间切换即可。从笔记中的 JSON 字符串或 URL（返回 JSON）生成表格。从笔记中的表格生成 JSON。
 
 通过 JSON table,您可以:
 
@@ -202,7 +202,7 @@ Simply switch between JSON and tables. Generate a table from a JSON string or a 
 - **下载量**：6.0K
 - **最后更新**：2025-09-25
 - **GitHub**：[dario-baumberger/obsidian-json-table](https://github.com/dario-baumberger/obsidian-json-table)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

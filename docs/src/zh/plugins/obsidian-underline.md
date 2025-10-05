@@ -1,12 +1,12 @@
 ---
 title: Underline
-description: Add underline with shortcut.
+description: 使用快捷键添加下划线。
 author: Benature
-downloads: 52513
+downloads: 52548
 updated: 1710744866000
 repo: Benature/obsidian-underline
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-underline"
   name="Underline"
-  description="Add underline with shortcut."
+  description="使用快捷键添加下划线。"
   author="Benature"
-  :downloads="52513"
+  :downloads="52548"
   :updated="1710744866000"
   repo="Benature/obsidian-underline"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Underline 是一个功能强大的 Obsidian 插件。
 
-Add underline with shortcut.
+使用快捷键添加下划线。
 
 通过 Underline,您可以:
 
@@ -202,7 +202,7 @@ Add underline with shortcut.
 - **下载量**：52.5K
 - **最后更新**：2024-03-18
 - **GitHub**：[Benature/obsidian-underline](https://github.com/Benature/obsidian-underline)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

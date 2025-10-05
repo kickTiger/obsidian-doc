@@ -2,11 +2,11 @@
 title: Checkbox Autochecker
 description: Sync notes or plugins between vaults.
 author: Klaas Klee
-downloads: 121
+downloads: 122
 updated: 1754062284000
 repo: klaasklee/checkbox-autochecker-obsidian
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Checkbox Autochecker"
   description="Sync notes or plugins between vaults."
   author="Klaas Klee"
-  :downloads="121"
+  :downloads="122"
   :updated="1754062284000"
   repo="klaasklee/checkbox-autochecker-obsidian"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Sync notes or plugins between vaults.
 - **插件 ID**：checkbox-autochecker
 - **作者**：Klaas Klee
 - **当前版本**：v1.0.0
-- **下载量**：121
+- **下载量**：122
 - **最后更新**：2025-08-01
 - **GitHub**：[klaasklee/checkbox-autochecker-obsidian](https://github.com/klaasklee/checkbox-autochecker-obsidian)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

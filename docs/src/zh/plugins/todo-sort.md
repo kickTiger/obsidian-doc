@@ -1,12 +1,12 @@
 ---
 title: Todo sort
-description: Sort todos by completion status.
+description: 按完成状态排序待办事项
 author: Ryan Gomba
-downloads: 6987
+downloads: 6997
 updated: 1672365874000
 repo: ryangomba/obsidian-todo-sort
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="todo-sort"
   name="Todo sort"
-  description="Sort todos by completion status."
+  description="按完成状态排序待办事项"
   author="Ryan Gomba"
-  :downloads="6987"
+  :downloads="6997"
   :updated="1672365874000"
   repo="ryangomba/obsidian-todo-sort"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Todo sort 是一个功能强大的 Obsidian 插件。
 
-Sort todos by completion status.
+按完成状态排序待办事项
 
 通过 Todo sort,您可以:
 
@@ -202,7 +202,7 @@ Sort todos by completion status.
 - **下载量**：7.0K
 - **最后更新**：2022-12-30
 - **GitHub**：[ryangomba/obsidian-todo-sort](https://github.com/ryangomba/obsidian-todo-sort)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

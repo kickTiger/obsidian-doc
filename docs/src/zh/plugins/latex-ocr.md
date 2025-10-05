@@ -1,12 +1,12 @@
 ---
 title: Latex OCR
-description: Generate LaTeX equations from images in your vault or clipboard.
+description: 从存储库或剪贴板中的图像生成 LaTeX 方程。
 author: Lucas Van Mol
-downloads: 10448
+downloads: 10458
 updated: 1758386190000
 repo: lucasvanmol/obsidian-latex-ocr
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="latex-ocr"
   name="Latex OCR"
-  description="Generate LaTeX equations from images in your vault or clipboard."
+  description="从存储库或剪贴板中的图像生成 LaTeX 方程。"
   author="Lucas Van Mol"
-  :downloads="10448"
+  :downloads="10458"
   :updated="1758386190000"
   repo="lucasvanmol/obsidian-latex-ocr"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Latex OCR 是一个功能强大的 Obsidian 插件。
 
-Generate LaTeX equations from images in your vault or clipboard.
+从存储库或剪贴板中的图像生成 LaTeX 方程。
 
 通过 Latex OCR,您可以:
 
@@ -199,10 +199,10 @@ Generate LaTeX equations from images in your vault or clipboard.
 - **插件 ID**：latex-ocr
 - **作者**：Lucas Van Mol
 - **当前版本**：v1.0.0
-- **下载量**：10.4K
+- **下载量**：10.5K
 - **最后更新**：2025-09-21
 - **GitHub**：[lucasvanmol/obsidian-latex-ocr](https://github.com/lucasvanmol/obsidian-latex-ocr)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Canvas Mindmap Helper
-description: Make the Canvas work like a mindmap.
+description: 让画布像思维导图一样工作。
 author: Tim Smart
-downloads: 6968
+downloads: 6980
 updated: 1750909559000
 repo: tim-smart/obsidian-canvas-mindmap
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="canvas-mindmap-helper"
   name="Canvas Mindmap Helper"
-  description="Make the Canvas work like a mindmap."
+  description="让画布像思维导图一样工作。"
   author="Tim Smart"
-  :downloads="6968"
+  :downloads="6980"
   :updated="1750909559000"
   repo="tim-smart/obsidian-canvas-mindmap"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas Mindmap Helper 是一个功能强大的 Obsidian 插件。
 
-Make the Canvas work like a mindmap.
+让画布像思维导图一样工作。
 
 通过 Canvas Mindmap Helper,您可以:
 
@@ -202,7 +202,7 @@ Make the Canvas work like a mindmap.
 - **下载量**：7.0K
 - **最后更新**：2025-06-26
 - **GitHub**：[tim-smart/obsidian-canvas-mindmap](https://github.com/tim-smart/obsidian-canvas-mindmap)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

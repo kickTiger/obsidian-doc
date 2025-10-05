@@ -1,12 +1,12 @@
 ---
 title: Quickly
-description: Quickly navigate and create notes through OS shortcut keys.
+description: 通过操作系统快捷键快速浏览和创建笔记。
 author: Sparsh Yadav
-downloads: 3627
+downloads: 3628
 updated: 1682104085000
 repo: tmfelwu/obsidian-inbox
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quickly"
   name="Quickly"
-  description="Quickly navigate and create notes through OS shortcut keys."
+  description="通过操作系统快捷键快速浏览和创建笔记。"
   author="Sparsh Yadav"
-  :downloads="3627"
+  :downloads="3628"
   :updated="1682104085000"
   repo="tmfelwu/obsidian-inbox"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quickly 是一个功能强大的 Obsidian 插件。
 
-Quickly navigate and create notes through OS shortcut keys.
+通过操作系统快捷键快速浏览和创建笔记。
 
 通过 Quickly,您可以:
 
@@ -202,7 +202,7 @@ Quickly navigate and create notes through OS shortcut keys.
 - **下载量**：3.6K
 - **最后更新**：2023-04-22
 - **GitHub**：[tmfelwu/obsidian-inbox](https://github.com/tmfelwu/obsidian-inbox)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

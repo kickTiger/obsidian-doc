@@ -2,11 +2,11 @@
 title: Kale Graph
 description: Render mathematical graphs.
 author: Oli
-downloads: 439
+downloads: 441
 updated: 1748895573000
 repo: olillin/obsidian-kale-graph
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Kale Graph"
   description="Render mathematical graphs."
   author="Oli"
-  :downloads="439"
+  :downloads="441"
   :updated="1748895573000"
   repo="olillin/obsidian-kale-graph"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Render mathematical graphs.
 - **插件 ID**：kale-graph
 - **作者**：Oli
 - **当前版本**：v1.0.0
-- **下载量**：439
+- **下载量**：441
 - **最后更新**：2025-06-03
 - **GitHub**：[olillin/obsidian-kale-graph](https://github.com/olillin/obsidian-kale-graph)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

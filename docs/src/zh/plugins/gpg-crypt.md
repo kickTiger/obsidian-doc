@@ -1,12 +1,12 @@
 ---
 title: gpgCrypt
-description: 'Encrypt your notes using GPG. Supports smartcards for enhanced security! Keep your information safe and accessible only to you.'
+description: 使用 GPG 加密笔记支持智能卡，增强安全性！确保您的信息安全，只有您自己才能访问。
 author: Tjado Mäcke
-downloads: 5973
+downloads: 5985
 updated: 1756323791000
 repo: tejado/obsidian-gpgCrypt
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gpg-crypt"
   name="gpgCrypt"
-  description="Encrypt your notes using GPG. Supports smartcards for enhanced security! Keep your information safe and accessible only to you."
+  description="使用 GPG 加密笔记支持智能卡，增强安全性！确保您的信息安全，只有您自己才能访问。"
   author="Tjado Mäcke"
-  :downloads="5973"
+  :downloads="5985"
   :updated="1756323791000"
   repo="tejado/obsidian-gpgCrypt"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 gpgCrypt 是一个功能强大的 Obsidian 插件。
 
-Encrypt your notes using GPG. Supports smartcards for enhanced security! Keep your information safe and accessible only to you.
+使用 GPG 加密笔记支持智能卡，增强安全性！确保您的信息安全，只有您自己才能访问。
 
 通过 gpgCrypt,您可以:
 
@@ -202,7 +202,7 @@ Encrypt your notes using GPG. Supports smartcards for enhanced security! Keep yo
 - **下载量**：6.0K
 - **最后更新**：2025-08-28
 - **GitHub**：[tejado/obsidian-gpgCrypt](https://github.com/tejado/obsidian-gpgCrypt)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

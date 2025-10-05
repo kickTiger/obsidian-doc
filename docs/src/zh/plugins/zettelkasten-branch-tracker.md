@@ -2,11 +2,11 @@
 title: Zettelkasten Branch Tracker
 description: Specialised graph visualisation for Zettelkasten note hierarchies
 author: James Cussen
-downloads: 481
+downloads: 505
 updated: 1751796780000
 repo: thelivingphilosophy/zettelkasten-branch-tracker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Zettelkasten Branch Tracker"
   description="Specialised graph visualisation for Zettelkasten note hierarchies"
   author="James Cussen"
-  :downloads="481"
+  :downloads="505"
   :updated="1751796780000"
   repo="thelivingphilosophy/zettelkasten-branch-tracker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Specialised graph visualisation for Zettelkasten note hierarchies
 - **插件 ID**：zettelkasten-branch-tracker
 - **作者**：James Cussen
 - **当前版本**：v1.0.0
-- **下载量**：481
+- **下载量**：505
 - **最后更新**：2025-07-06
 - **GitHub**：[thelivingphilosophy/zettelkasten-branch-tracker](https://github.com/thelivingphilosophy/zettelkasten-branch-tracker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

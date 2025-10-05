@@ -1,12 +1,12 @@
 ---
 title: Scribe
-description: 'Record voice notes, Fill in lost thoughts, Transcribe the audio, Summarize & Visualize the text - All in one clip'
+description: 录制语音笔记、填充丢失的想法、转录音频、总结和可视化文本--所有这些都在一个片段中完成
 author: Mike Alicea
-downloads: 7287
-updated: 1759219047000
+downloads: 7356
+updated: 1759546604000
 repo: Mikodin/obsidian-scribe
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="scribe"
   name="Scribe"
-  description="Record voice notes, Fill in lost thoughts, Transcribe the audio, Summarize &amp; Visualize the text - All in one clip"
+  description="录制语音笔记、填充丢失的想法、转录音频、总结和可视化文本--所有这些都在一个片段中完成"
   author="Mike Alicea"
-  :downloads="7287"
-  :updated="1759219047000"
+  :downloads="7356"
+  :updated="1759546604000"
   repo="Mikodin/obsidian-scribe"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Scribe 是一个功能强大的 Obsidian 插件。
 
-Record voice notes, Fill in lost thoughts, Transcribe the audio, Summarize &amp; Visualize the text - All in one clip
+录制语音笔记、填充丢失的想法、转录音频、总结和可视化文本--所有这些都在一个片段中完成
 
 通过 Scribe,您可以:
 
@@ -181,7 +181,7 @@ Record voice notes, Fill in lost thoughts, Transcribe the audio, Summarize &amp;
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-09-30
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/Mikodin/obsidian-scribe/releases) 查看详细更新日志
@@ -199,10 +199,10 @@ Record voice notes, Fill in lost thoughts, Transcribe the audio, Summarize &amp;
 - **插件 ID**：scribe
 - **作者**：Mike Alicea
 - **当前版本**：v1.0.0
-- **下载量**：7.3K
-- **最后更新**：2025-09-30
+- **下载量**：7.4K
+- **最后更新**：2025-10-04
 - **GitHub**：[Mikodin/obsidian-scribe](https://github.com/Mikodin/obsidian-scribe)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

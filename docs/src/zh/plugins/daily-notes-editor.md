@@ -1,12 +1,12 @@
 ---
 title: Daily Notes Editor
-description: 'Edit daily notes in one page (inline), which works similar to Roam Research''s default daily note view.'
+description: 在一个页面中编辑每日笔记（内嵌），与 Roam Research 的默认每日笔记视图类似。
 author: boninall
-downloads: 28867
+downloads: 28900
 updated: 1743861009000
 repo: Quorafind/Obsidian-Daily-Notes-Editor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="daily-notes-editor"
   name="Daily Notes Editor"
-  description="Edit daily notes in one page (inline), which works similar to Roam Research&#39;s default daily note view."
+  description="在一个页面中编辑每日笔记（内嵌），与 Roam Research 的默认每日笔记视图类似。"
   author="boninall"
-  :downloads="28867"
+  :downloads="28900"
   :updated="1743861009000"
   repo="Quorafind/Obsidian-Daily-Notes-Editor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Daily Notes Editor 是一个功能强大的 Obsidian 插件。
 
-Edit daily notes in one page (inline), which works similar to Roam Research&#39;s default daily note view.
+在一个页面中编辑每日笔记（内嵌），与 Roam Research 的默认每日笔记视图类似。
 
 通过 Daily Notes Editor,您可以:
 
@@ -202,7 +202,7 @@ Edit daily notes in one page (inline), which works similar to Roam Research&#39;
 - **下载量**：28.9K
 - **最后更新**：2025-04-05
 - **GitHub**：[Quorafind/Obsidian-Daily-Notes-Editor](https://github.com/Quorafind/Obsidian-Daily-Notes-Editor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

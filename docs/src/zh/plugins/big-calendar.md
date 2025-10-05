@@ -1,12 +1,12 @@
 ---
 title: Big Calendar
-description: A big calendar for Obsidian. All events from your daily notes OR tasks used TASKS/DATAVIEW/KANBAN format.
+description: 黑曜石的大日历。使用 TASKS/DATAVIEW/KANBAN 格式记录每日笔记或任务中的所有事件。
 author: Boninall
-downloads: 51492
+downloads: 51530
 updated: 1741671901000
 repo: Quorafind/Obsidian-Big-Calendar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="big-calendar"
   name="Big Calendar"
-  description="A big calendar for Obsidian. All events from your daily notes OR tasks used TASKS/DATAVIEW/KANBAN format."
+  description="黑曜石的大日历。使用 TASKS/DATAVIEW/KANBAN 格式记录每日笔记或任务中的所有事件。"
   author="Boninall"
-  :downloads="51492"
+  :downloads="51530"
   :updated="1741671901000"
   repo="Quorafind/Obsidian-Big-Calendar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Big Calendar 是一个功能强大的 Obsidian 插件。
 
-A big calendar for Obsidian. All events from your daily notes OR tasks used TASKS/DATAVIEW/KANBAN format.
+黑曜石的大日历。使用 TASKS/DATAVIEW/KANBAN 格式记录每日笔记或任务中的所有事件。
 
 通过 Big Calendar,您可以:
 
@@ -202,7 +202,7 @@ A big calendar for Obsidian. All events from your daily notes OR tasks used TASK
 - **下载量**：51.5K
 - **最后更新**：2025-03-11
 - **GitHub**：[Quorafind/Obsidian-Big-Calendar](https://github.com/Quorafind/Obsidian-Big-Calendar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

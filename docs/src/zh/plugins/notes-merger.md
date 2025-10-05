@@ -1,12 +1,12 @@
 ---
 title: Notes Merger
-description: Merge notes into a single Markdown document based on index Markdown file.
+description: 根据 Markdown 文件索引将笔记合并为一个 Markdown 文档。
 author: Nika Lopusna
-downloads: 4086
+downloads: 4089
 updated: 1704032633000
 repo: niffka/notes-merger
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="notes-merger"
   name="Notes Merger"
-  description="Merge notes into a single Markdown document based on index Markdown file."
+  description="根据 Markdown 文件索引将笔记合并为一个 Markdown 文档。"
   author="Nika Lopusna"
-  :downloads="4086"
+  :downloads="4089"
   :updated="1704032633000"
   repo="niffka/notes-merger"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Notes Merger 是一个功能强大的 Obsidian 插件。
 
-Merge notes into a single Markdown document based on index Markdown file.
+根据 Markdown 文件索引将笔记合并为一个 Markdown 文档。
 
 通过 Notes Merger,您可以:
 
@@ -202,7 +202,7 @@ Merge notes into a single Markdown document based on index Markdown file.
 - **下载量**：4.1K
 - **最后更新**：2023-12-31
 - **GitHub**：[niffka/notes-merger](https://github.com/niffka/notes-merger)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

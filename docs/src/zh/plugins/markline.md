@@ -2,11 +2,11 @@
 title: Markline
 description: Timeline view from Markdown
 author: 闲耘
-downloads: 2505
+downloads: 2507
 updated: 1712331705000
 repo: hotoo/obsidian-markline
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Markline"
   description="Timeline view from Markdown"
   author="闲耘"
-  :downloads="2505"
+  :downloads="2507"
   :updated="1712331705000"
   repo="hotoo/obsidian-markline"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Timeline view from Markdown
 - **下载量**：2.5K
 - **最后更新**：2024-04-05
 - **GitHub**：[hotoo/obsidian-markline](https://github.com/hotoo/obsidian-markline)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

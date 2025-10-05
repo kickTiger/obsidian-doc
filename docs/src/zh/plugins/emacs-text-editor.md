@@ -1,12 +1,12 @@
 ---
 title: Emacs text editor
-description: Partial emulation of Emacs text editor.
+description: 部分模拟 Emacs 文本编辑器。
 author: Klojer
-downloads: 6004
+downloads: 6006
 updated: 1748962474000
 repo: Klojer/obsidian-emacs-text-editor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="emacs-text-editor"
   name="Emacs text editor"
-  description="Partial emulation of Emacs text editor."
+  description="部分模拟 Emacs 文本编辑器。"
   author="Klojer"
-  :downloads="6004"
+  :downloads="6006"
   :updated="1748962474000"
   repo="Klojer/obsidian-emacs-text-editor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Emacs text editor 是一个功能强大的 Obsidian 插件。
 
-Partial emulation of Emacs text editor.
+部分模拟 Emacs 文本编辑器。
 
 通过 Emacs text editor,您可以:
 
@@ -202,7 +202,7 @@ Partial emulation of Emacs text editor.
 - **下载量**：6.0K
 - **最后更新**：2025-06-03
 - **GitHub**：[Klojer/obsidian-emacs-text-editor](https://github.com/Klojer/obsidian-emacs-text-editor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

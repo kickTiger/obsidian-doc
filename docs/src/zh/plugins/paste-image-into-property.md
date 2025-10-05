@@ -2,11 +2,11 @@
 title: Paste Image Into Property
 description: Allows pasting images from the clipboard into frontmatter properties in live preview.
 author: Nito
-downloads: 567
+downloads: 575
 updated: 1757922128000
 repo: Nitero/obsidian-paste-image-into-property
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Paste Image Into Property"
   description="Allows pasting images from the clipboard into frontmatter properties in live preview."
   author="Nito"
-  :downloads="567"
+  :downloads="575"
   :updated="1757922128000"
   repo="Nitero/obsidian-paste-image-into-property"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Allows pasting images from the clipboard into frontmatter properties in live pre
 - **插件 ID**：paste-image-into-property
 - **作者**：Nito
 - **当前版本**：v1.0.0
-- **下载量**：567
+- **下载量**：575
 - **最后更新**：2025-09-15
 - **GitHub**：[Nitero/obsidian-paste-image-into-property](https://github.com/Nitero/obsidian-paste-image-into-property)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

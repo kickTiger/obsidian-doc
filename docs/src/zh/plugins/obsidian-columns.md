@@ -1,12 +1,12 @@
 ---
 title: Columns
-description: Create columns in Markdown.
+description: 用 Markdown 创建列
 author: Trevor Nichols
-downloads: 70516
+downloads: 70560
 updated: 1733001800000
 repo: tnichols217/obsidian-columns
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-columns"
   name="Columns"
-  description="Create columns in Markdown."
+  description="用 Markdown 创建列"
   author="Trevor Nichols"
-  :downloads="70516"
+  :downloads="70560"
   :updated="1733001800000"
   repo="tnichols217/obsidian-columns"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Columns 是一个功能强大的 Obsidian 插件。
 
-Create columns in Markdown.
+用 Markdown 创建列
 
 通过 Columns,您可以:
 
@@ -199,10 +199,10 @@ Create columns in Markdown.
 - **插件 ID**：obsidian-columns
 - **作者**：Trevor Nichols
 - **当前版本**：v1.0.0
-- **下载量**：70.5K
+- **下载量**：70.6K
 - **最后更新**：2024-12-01
 - **GitHub**：[tnichols217/obsidian-columns](https://github.com/tnichols217/obsidian-columns)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

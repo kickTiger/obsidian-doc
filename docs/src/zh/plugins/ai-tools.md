@@ -1,12 +1,12 @@
 ---
 title: AI Tools
-description: Adding powerful semantic search, generative answers, and other AI tools, using Supabase + OpenAI.
+description: 使用 Supabase + OpenAI 添加强大的语义搜索、生成答案和其他人工智能工具。
 author: solderneer
-downloads: 4927
+downloads: 4929
 updated: 1691138474000
 repo: solderneer/obsidian-ai-tools
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ai-tools"
   name="AI Tools"
-  description="Adding powerful semantic search, generative answers, and other AI tools, using Supabase + OpenAI."
+  description="使用 Supabase + OpenAI 添加强大的语义搜索、生成答案和其他人工智能工具。"
   author="solderneer"
-  :downloads="4927"
+  :downloads="4929"
   :updated="1691138474000"
   repo="solderneer/obsidian-ai-tools"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AI Tools 是一个功能强大的 Obsidian 插件。
 
-Adding powerful semantic search, generative answers, and other AI tools, using Supabase + OpenAI.
+使用 Supabase + OpenAI 添加强大的语义搜索、生成答案和其他人工智能工具。
 
 通过 AI Tools,您可以:
 
@@ -202,7 +202,7 @@ Adding powerful semantic search, generative answers, and other AI tools, using S
 - **下载量**：4.9K
 - **最后更新**：2023-08-04
 - **GitHub**：[solderneer/obsidian-ai-tools](https://github.com/solderneer/obsidian-ai-tools)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

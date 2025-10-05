@@ -2,11 +2,11 @@
 title: Cloud Atlas
 description: 'The most effective way to use LLMs in your vault: Add your current note, reference backlinks/forward links, and a Canvas mode to assemble a prompt with all the context you.'
 author: Cloud Atlas
-downloads: 3521
+downloads: 3523
 updated: 1718065550000
 repo: cloud-atlas-ai/obsidian-client
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Cloud Atlas"
   description="The most effective way to use LLMs in your vault: Add your current note, reference backlinks/forward links, and a Canvas mode to assemble a prompt with all the context you."
   author="Cloud Atlas"
-  :downloads="3521"
+  :downloads="3523"
   :updated="1718065550000"
   repo="cloud-atlas-ai/obsidian-client"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ The most effective way to use LLMs in your vault: Add your current note, referen
 - **下载量**：3.5K
 - **最后更新**：2024-06-11
 - **GitHub**：[cloud-atlas-ai/obsidian-client](https://github.com/cloud-atlas-ai/obsidian-client)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

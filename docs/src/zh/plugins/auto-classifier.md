@@ -1,12 +1,12 @@
 ---
 title: Auto Classifier
-description: Automatically classify tag from your notes using ChatGPT API. It analyze your note (It can be title, frontmatter, content or selected area) and automatically insert tag where you set.
+description: 使用 ChatGPT API 自动对笔记中的标签进行分类。它会分析您的笔记（可以是标题、正文、内容或选定区域），并在您设置的位置自动插入标签。
 author: Hyeonseo Nam
-downloads: 12950
+downloads: 12960
 updated: 1752171074000
 repo: HyeonseoNam/auto-classifier
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-classifier"
   name="Auto Classifier"
-  description="Automatically classify tag from your notes using ChatGPT API. It analyze your note (It can be title, frontmatter, content or selected area) and automatically insert tag where you set."
+  description="使用 ChatGPT API 自动对笔记中的标签进行分类。它会分析您的笔记（可以是标题、正文、内容或选定区域），并在您设置的位置自动插入标签。"
   author="Hyeonseo Nam"
-  :downloads="12950"
+  :downloads="12960"
   :updated="1752171074000"
   repo="HyeonseoNam/auto-classifier"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Classifier 是一个功能强大的 Obsidian 插件。
 
-Automatically classify tag from your notes using ChatGPT API. It analyze your note (It can be title, frontmatter, content or selected area) and automatically insert tag where you set.
+使用 ChatGPT API 自动对笔记中的标签进行分类。它会分析您的笔记（可以是标题、正文、内容或选定区域），并在您设置的位置自动插入标签。
 
 通过 Auto Classifier,您可以:
 
@@ -199,10 +199,10 @@ Automatically classify tag from your notes using ChatGPT API. It analyze your no
 - **插件 ID**：auto-classifier
 - **作者**：Hyeonseo Nam
 - **当前版本**：v1.0.0
-- **下载量**：12.9K
+- **下载量**：13.0K
 - **最后更新**：2025-07-11
 - **GitHub**：[HyeonseoNam/auto-classifier](https://github.com/HyeonseoNam/auto-classifier)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

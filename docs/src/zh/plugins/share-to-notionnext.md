@@ -1,12 +1,12 @@
 ---
 title: Share to NotionNext
-description: Share files to any Notion database using the Notion API, originally created by EasyChris/obsidian-to-notion.
+description: 使用最初由 EasyChris/obsidian-to-notion 创建的 Notion API，将文件共享到任何 Notion 数据库。
 author: EasyChris, jxpeng98
-downloads: 9554
+downloads: 9564
 updated: 1732141206000
 repo: jxpeng98/obsidian-to-NotionNext
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="share-to-notionnext"
   name="Share to NotionNext"
-  description="Share files to any Notion database using the Notion API, originally created by EasyChris/obsidian-to-notion."
+  description="使用最初由 EasyChris/obsidian-to-notion 创建的 Notion API，将文件共享到任何 Notion 数据库。"
   author="EasyChris, jxpeng98"
-  :downloads="9554"
+  :downloads="9564"
   :updated="1732141206000"
   repo="jxpeng98/obsidian-to-NotionNext"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Share to NotionNext 是一个功能强大的 Obsidian 插件。
 
-Share files to any Notion database using the Notion API, originally created by EasyChris/obsidian-to-notion.
+使用最初由 EasyChris/obsidian-to-notion 创建的 Notion API，将文件共享到任何 Notion 数据库。
 
 通过 Share to NotionNext,您可以:
 
@@ -202,7 +202,7 @@ Share files to any Notion database using the Notion API, originally created by E
 - **下载量**：9.6K
 - **最后更新**：2024-11-21
 - **GitHub**：[jxpeng98/obsidian-to-NotionNext](https://github.com/jxpeng98/obsidian-to-NotionNext)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

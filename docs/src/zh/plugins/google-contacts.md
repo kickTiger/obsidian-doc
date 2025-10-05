@@ -2,11 +2,11 @@
 title: Google Contacts
 description: Synchronize your Google Contacts with separate contact-notes
 author: aleksejs1
-downloads: 471
+downloads: 475
 updated: 1758944863000
 repo: aleksejs1/obsidian-contact-sync-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Google Contacts"
   description="Synchronize your Google Contacts with separate contact-notes"
   author="aleksejs1"
-  :downloads="471"
+  :downloads="475"
   :updated="1758944863000"
   repo="aleksejs1/obsidian-contact-sync-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Synchronize your Google Contacts with separate contact-notes
 - **插件 ID**：google-contacts
 - **作者**：aleksejs1
 - **当前版本**：v1.0.0
-- **下载量**：471
+- **下载量**：475
 - **最后更新**：2025-09-27
 - **GitHub**：[aleksejs1/obsidian-contact-sync-plugin](https://github.com/aleksejs1/obsidian-contact-sync-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

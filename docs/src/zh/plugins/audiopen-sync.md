@@ -6,7 +6,7 @@ downloads: 317
 updated: 1734992010000
 repo: jonashaefele/audiopen-obsidian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1734992010000"
   repo="jonashaefele/audiopen-obsidian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync notes from AudioPen.
 - **下载量**：317
 - **最后更新**：2024-12-24
 - **GitHub**：[jonashaefele/audiopen-obsidian](https://github.com/jonashaefele/audiopen-obsidian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

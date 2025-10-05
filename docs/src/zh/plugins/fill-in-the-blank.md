@@ -1,12 +1,12 @@
 ---
 title: Fill in the Blank (FITB)
-description: Use --magic-- to render inline text as blank line(s) instead.
+description: 使用--magic--可将内联文本显示为空行。
 author: Shawn McGee
 downloads: 3682
 updated: 1702050102000
 repo: mister-mcgee/obsidian-fill-in-the-blank
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="fill-in-the-blank"
   name="Fill in the Blank (FITB)"
-  description="Use --magic-- to render inline text as blank line(s) instead."
+  description="使用--magic--可将内联文本显示为空行。"
   author="Shawn McGee"
   :downloads="3682"
   :updated="1702050102000"
   repo="mister-mcgee/obsidian-fill-in-the-blank"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Fill in the Blank (FITB) 是一个功能强大的 Obsidian 插件。
 
-Use --magic-- to render inline text as blank line(s) instead.
+使用--magic--可将内联文本显示为空行。
 
 通过 Fill in the Blank (FITB),您可以:
 
@@ -202,7 +202,7 @@ Use --magic-- to render inline text as blank line(s) instead.
 - **下载量**：3.7K
 - **最后更新**：2023-12-08
 - **GitHub**：[mister-mcgee/obsidian-fill-in-the-blank](https://github.com/mister-mcgee/obsidian-fill-in-the-blank)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

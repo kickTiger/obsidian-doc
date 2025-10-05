@@ -6,7 +6,7 @@ downloads: 1319
 updated: 1727650955000
 repo: patrickchiang/obsidian-dialogue-mode
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1727650955000"
   repo="patrickchiang/obsidian-dialogue-mode"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Dialogue mode for editing speech in writing.
 - **下载量**：1.3K
 - **最后更新**：2024-09-30
 - **GitHub**：[patrickchiang/obsidian-dialogue-mode](https://github.com/patrickchiang/obsidian-dialogue-mode)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

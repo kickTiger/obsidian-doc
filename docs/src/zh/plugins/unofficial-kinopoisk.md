@@ -2,11 +2,11 @@
 title: Kinopoisk search
 description: Helps you find movies and tv shows via Kinopoisk and create notes.
 author: Alintor
-downloads: 1527
+downloads: 1531
 updated: 1726751084000
 repo: Alintor/obsidian-kinopoisk-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Kinopoisk search"
   description="Helps you find movies and tv shows via Kinopoisk and create notes."
   author="Alintor"
-  :downloads="1527"
+  :downloads="1531"
   :updated="1726751084000"
   repo="Alintor/obsidian-kinopoisk-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Helps you find movies and tv shows via Kinopoisk and create notes.
 - **下载量**：1.5K
 - **最后更新**：2024-09-19
 - **GitHub**：[Alintor/obsidian-kinopoisk-plugin](https://github.com/Alintor/obsidian-kinopoisk-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Image OCR
-description: Run OCR on images and paste the result in the description.
+description: 在图像上运行 OCR，并将结果粘贴到说明中。
 author: kaffarell
-downloads: 6005
+downloads: 6006
 updated: 1692029362000
 repo: kaffarell/obsidian-tesseract-ocr
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="image-ocr"
   name="Image OCR"
-  description="Run OCR on images and paste the result in the description."
+  description="在图像上运行 OCR，并将结果粘贴到说明中。"
   author="kaffarell"
-  :downloads="6005"
+  :downloads="6006"
   :updated="1692029362000"
   repo="kaffarell/obsidian-tesseract-ocr"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image OCR 是一个功能强大的 Obsidian 插件。
 
-Run OCR on images and paste the result in the description.
+在图像上运行 OCR，并将结果粘贴到说明中。
 
 通过 Image OCR,您可以:
 
@@ -202,7 +202,7 @@ Run OCR on images and paste the result in the description.
 - **下载量**：6.0K
 - **最后更新**：2023-08-15
 - **GitHub**：[kaffarell/obsidian-tesseract-ocr](https://github.com/kaffarell/obsidian-tesseract-ocr)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

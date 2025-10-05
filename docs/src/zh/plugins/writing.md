@@ -1,12 +1,12 @@
 ---
 title: Writing
-description: Write and format your next book.
+description: 撰写和排版你的下一本书
 author: johackim
-downloads: 8760
+downloads: 8765
 updated: 1672302965000
 repo: johackim/obsidian-writing
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="writing"
   name="Writing"
-  description="Write and format your next book."
+  description="撰写和排版你的下一本书"
   author="johackim"
-  :downloads="8760"
+  :downloads="8765"
   :updated="1672302965000"
   repo="johackim/obsidian-writing"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Writing 是一个功能强大的 Obsidian 插件。
 
-Write and format your next book.
+撰写和排版你的下一本书
 
 通过 Writing,您可以:
 
@@ -202,7 +202,7 @@ Write and format your next book.
 - **下载量**：8.8K
 - **最后更新**：2022-12-29
 - **GitHub**：[johackim/obsidian-writing](https://github.com/johackim/obsidian-writing)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

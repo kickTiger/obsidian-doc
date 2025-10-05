@@ -2,11 +2,11 @@
 title: AI Summarize
 description: Summarize your notes using AI
 author: Alp Sariyer
-downloads: 1877
-updated: 1716036272000
+downloads: 1887
+updated: 1759585688000
 repo: ravenwits/obsidian-ai-summarize
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="AI Summarize"
   description="Summarize your notes using AI"
   author="Alp Sariyer"
-  :downloads="1877"
-  :updated="1716036272000"
+  :downloads="1887"
+  :updated="1759585688000"
   repo="ravenwits/obsidian-ai-summarize"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -181,7 +181,7 @@ Summarize your notes using AI
 
 ### 最新版本：v1.0.0
 
-更新时间：2024-05-18
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/ravenwits/obsidian-ai-summarize/releases) 查看详细更新日志
@@ -200,9 +200,9 @@ Summarize your notes using AI
 - **作者**：Alp Sariyer
 - **当前版本**：v1.0.0
 - **下载量**：1.9K
-- **最后更新**：2024-05-18
+- **最后更新**：2025-10-04
 - **GitHub**：[ravenwits/obsidian-ai-summarize](https://github.com/ravenwits/obsidian-ai-summarize)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

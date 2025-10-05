@@ -6,7 +6,7 @@ downloads: 88
 updated: 1717647285000
 repo: kndshein/obsidian-pt-url-helper
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1717647285000"
   repo="kndshein/obsidian-pt-url-helper"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically creates a Markdown link for Pivotal Tracker stories.
 - **下载量**：88
 - **最后更新**：2024-06-06
 - **GitHub**：[kndshein/obsidian-pt-url-helper](https://github.com/kndshein/obsidian-pt-url-helper)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

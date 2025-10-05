@@ -2,11 +2,11 @@
 title: Simple Todo
 description: A minimalist text-based todo manager (Text-Based GTD) for efficient task management.
 author: elliotxx
-downloads: 1518
+downloads: 1522
 updated: 1732196111000
 repo: elliotxx/obsidian-simple-todo
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Simple Todo"
   description="A minimalist text-based todo manager (Text-Based GTD) for efficient task management."
   author="elliotxx"
-  :downloads="1518"
+  :downloads="1522"
   :updated="1732196111000"
   repo="elliotxx/obsidian-simple-todo"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ A minimalist text-based todo manager (Text-Based GTD) for efficient task managem
 - **下载量**：1.5K
 - **最后更新**：2024-11-21
 - **GitHub**：[elliotxx/obsidian-simple-todo](https://github.com/elliotxx/obsidian-simple-todo)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

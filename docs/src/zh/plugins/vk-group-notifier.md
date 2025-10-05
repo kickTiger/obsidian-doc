@@ -6,7 +6,7 @@ downloads: 1171
 updated: 1703591319000
 repo: filichev-evgeny/obsidianvkupdatenotifier
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1703591319000"
   repo="filichev-evgeny/obsidianvkupdatenotifier"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Track news posts from vk.com groups.
 - **下载量**：1.2K
 - **最后更新**：2023-12-26
 - **GitHub**：[filichev-evgeny/obsidianvkupdatenotifier](https://github.com/filichev-evgeny/obsidianvkupdatenotifier)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

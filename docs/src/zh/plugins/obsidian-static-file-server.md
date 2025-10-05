@@ -1,12 +1,12 @@
 ---
 title: Static File Server
-description: Host subfolders as static file servers.
+description: 将子文件夹作为静态文件服务器托管。
 author: Elias Sundqvist
 downloads: 4672
 updated: 1623181460000
 repo: elias-sundqvist/obsidian-static-file-server
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-static-file-server"
   name="Static File Server"
-  description="Host subfolders as static file servers."
+  description="将子文件夹作为静态文件服务器托管。"
   author="Elias Sundqvist"
   :downloads="4672"
   :updated="1623181460000"
   repo="elias-sundqvist/obsidian-static-file-server"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Static File Server 是一个功能强大的 Obsidian 插件。
 
-Host subfolders as static file servers.
+将子文件夹作为静态文件服务器托管。
 
 通过 Static File Server,您可以:
 
@@ -202,7 +202,7 @@ Host subfolders as static file servers.
 - **下载量**：4.7K
 - **最后更新**：2021-06-09
 - **GitHub**：[elias-sundqvist/obsidian-static-file-server](https://github.com/elias-sundqvist/obsidian-static-file-server)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

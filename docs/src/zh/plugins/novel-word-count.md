@@ -1,12 +1,12 @@
 ---
 title: Novel Word Count
-description: Display a word count, page count, creation date, or other statistics for each file, folder and vault in the File Explorer pane.
+description: 在文件资源管理器窗格中显示每个文件、文件夹和保险库的字数、页数、创建日期或其他统计数据。
 author: Isaac Lyman
-downloads: 136233
+downloads: 136379
 updated: 1755897995000
 repo: isaaclyman/novel-word-count-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="novel-word-count"
   name="Novel Word Count"
-  description="Display a word count, page count, creation date, or other statistics for each file, folder and vault in the File Explorer pane."
+  description="在文件资源管理器窗格中显示每个文件、文件夹和保险库的字数、页数、创建日期或其他统计数据。"
   author="Isaac Lyman"
-  :downloads="136233"
+  :downloads="136379"
   :updated="1755897995000"
   repo="isaaclyman/novel-word-count-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Novel Word Count 是一个功能强大的 Obsidian 插件。
 
-Display a word count, page count, creation date, or other statistics for each file, folder and vault in the File Explorer pane.
+在文件资源管理器窗格中显示每个文件、文件夹和保险库的字数、页数、创建日期或其他统计数据。
 
 通过 Novel Word Count,您可以:
 
@@ -199,10 +199,10 @@ Display a word count, page count, creation date, or other statistics for each fi
 - **插件 ID**：novel-word-count
 - **作者**：Isaac Lyman
 - **当前版本**：v1.0.0
-- **下载量**：136.2K
+- **下载量**：136.4K
 - **最后更新**：2025-08-23
 - **GitHub**：[isaaclyman/novel-word-count-obsidian](https://github.com/isaaclyman/novel-word-count-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

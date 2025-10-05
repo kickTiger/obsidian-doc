@@ -1,12 +1,12 @@
 ---
 title: Table to CSV Exporter
-description: Export tables from a pane in reading mode into CSV files.
+description: 在读取模式下将窗格中的表格导出为 CSV 文件。
 author: Stefan Wolfrum
-downloads: 14490
+downloads: 14496
 updated: 1654960322000
 repo: metawops/obsidian-table-to-csv-export
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-table-to-csv-exporter"
   name="Table to CSV Exporter"
-  description="Export tables from a pane in reading mode into CSV files."
+  description="在读取模式下将窗格中的表格导出为 CSV 文件。"
   author="Stefan Wolfrum"
-  :downloads="14490"
+  :downloads="14496"
   :updated="1654960322000"
   repo="metawops/obsidian-table-to-csv-export"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Table to CSV Exporter 是一个功能强大的 Obsidian 插件。
 
-Export tables from a pane in reading mode into CSV files.
+在读取模式下将窗格中的表格导出为 CSV 文件。
 
 通过 Table to CSV Exporter,您可以:
 
@@ -202,7 +202,7 @@ Export tables from a pane in reading mode into CSV files.
 - **下载量**：14.5K
 - **最后更新**：2022-06-11
 - **GitHub**：[metawops/obsidian-table-to-csv-export](https://github.com/metawops/obsidian-table-to-csv-export)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

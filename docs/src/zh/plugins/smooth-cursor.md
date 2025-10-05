@@ -2,11 +2,11 @@
 title: Smooth Cursor
 description: 平滑光标 Smooth Cursor
 author: Busyo
-downloads: 908
+downloads: 913
 updated: 1758564935000
 repo: busyoGG/SmoothCursor
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Smooth Cursor"
   description="平滑光标 Smooth Cursor"
   author="Busyo"
-  :downloads="908"
+  :downloads="913"
   :updated="1758564935000"
   repo="busyoGG/SmoothCursor"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Smooth Cursor 是一个功能强大的 Obsidian 插件。
 - **插件 ID**：smooth-cursor
 - **作者**：Busyo
 - **当前版本**：v1.0.0
-- **下载量**：908
+- **下载量**：913
 - **最后更新**：2025-09-23
 - **GitHub**：[busyoGG/SmoothCursor](https://github.com/busyoGG/SmoothCursor)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

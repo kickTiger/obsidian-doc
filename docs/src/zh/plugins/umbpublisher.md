@@ -6,7 +6,7 @@ downloads: 50
 updated: 1757944821000
 repo: OwainWilliams/umbPublisher
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1757944821000"
   repo="OwainWilliams/umbPublisher"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Published notes to Umbraco CMS 15+
 - **下载量**：50
 - **最后更新**：2025-09-15
 - **GitHub**：[OwainWilliams/umbPublisher](https://github.com/OwainWilliams/umbPublisher)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

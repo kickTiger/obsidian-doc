@@ -2,11 +2,11 @@
 title: Simple Anki Sync
 description: 'Simple way to sync basic flashcards with Anki with zero time tweaking settings and 100 % of your time learning.'
 author: Lukas Mayr
-downloads: 210
+downloads: 211
 updated: 1756066416000
 repo: lukmay/simple-anki-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Simple Anki Sync"
   description="Simple way to sync basic flashcards with Anki with zero time tweaking settings and 100 % of your time learning."
   author="Lukas Mayr"
-  :downloads="210"
+  :downloads="211"
   :updated="1756066416000"
   repo="lukmay/simple-anki-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Simple way to sync basic flashcards with Anki with zero time tweaking settings a
 - **插件 ID**：simple-anki-sync
 - **作者**：Lukas Mayr
 - **当前版本**：v1.0.0
-- **下载量**：210
+- **下载量**：211
 - **最后更新**：2025-08-25
 - **GitHub**：[lukmay/simple-anki-sync](https://github.com/lukmay/simple-anki-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

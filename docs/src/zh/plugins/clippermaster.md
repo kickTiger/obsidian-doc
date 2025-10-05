@@ -2,11 +2,11 @@
 title: ClipperMaster
 description: Works with the ClipperMaster Chrome extension to clip structured content from the web and save it to your vault as Markdown files.
 author: aqeja
-downloads: 665
+downloads: 668
 updated: 1745562011000
 repo: aqeja/ClipperMaster-for-Obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="ClipperMaster"
   description="Works with the ClipperMaster Chrome extension to clip structured content from the web and save it to your vault as Markdown files."
   author="aqeja"
-  :downloads="665"
+  :downloads="668"
   :updated="1745562011000"
   repo="aqeja/ClipperMaster-for-Obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Works with the ClipperMaster Chrome extension to clip structured content from th
 - **插件 ID**：clippermaster
 - **作者**：aqeja
 - **当前版本**：v1.0.0
-- **下载量**：665
+- **下载量**：668
 - **最后更新**：2025-04-25
 - **GitHub**：[aqeja/ClipperMaster-for-Obsidian](https://github.com/aqeja/ClipperMaster-for-Obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

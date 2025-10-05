@@ -1,12 +1,12 @@
 ---
 title: Export Image
-description: Easily convert your article to image.
+description: 轻松将文章转换为图片
 author: Zhou Hua
-downloads: 45735
+downloads: 45771
 updated: 1739795490000
 repo: zhouhua/obsidian-export-image
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-export-image"
   name="Export Image"
-  description="Easily convert your article to image."
+  description="轻松将文章转换为图片"
   author="Zhou Hua"
-  :downloads="45735"
+  :downloads="45771"
   :updated="1739795490000"
   repo="zhouhua/obsidian-export-image"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Export Image 是一个功能强大的 Obsidian 插件。
 
-Easily convert your article to image.
+轻松将文章转换为图片
 
 通过 Export Image,您可以:
 
@@ -199,10 +199,10 @@ Easily convert your article to image.
 - **插件 ID**：obsidian-export-image
 - **作者**：Zhou Hua
 - **当前版本**：v1.0.0
-- **下载量**：45.7K
+- **下载量**：45.8K
 - **最后更新**：2025-02-17
 - **GitHub**：[zhouhua/obsidian-export-image](https://github.com/zhouhua/obsidian-export-image)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

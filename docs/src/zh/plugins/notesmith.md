@@ -2,11 +2,11 @@
 title: NoteSmith
 description: 'NoteSmith is a powerful note-refining plugin using OpenAI''s API. It allows you to refine your notes, generate summaries, and create new content based on your existing notes.'
 author: csteamengine
-downloads: 158
+downloads: 162
 updated: 1751816308000
 repo: csteamengine/notesmith
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="NoteSmith"
   description="NoteSmith is a powerful note-refining plugin using OpenAI&#39;s API. It allows you to refine your notes, generate summaries, and create new content based on your existing notes."
   author="csteamengine"
-  :downloads="158"
+  :downloads="162"
   :updated="1751816308000"
   repo="csteamengine/notesmith"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ NoteSmith is a powerful note-refining plugin using OpenAI&#39;s API. It allows y
 - **插件 ID**：notesmith
 - **作者**：csteamengine
 - **当前版本**：v1.0.0
-- **下载量**：158
+- **下载量**：162
 - **最后更新**：2025-07-06
 - **GitHub**：[csteamengine/notesmith](https://github.com/csteamengine/notesmith)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

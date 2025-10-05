@@ -1,12 +1,12 @@
 ---
 title: Chronos Timeline
-description: Render interactive timelines inline in your notes from simple markdown
+description: 通过简单的标记符在笔记中联机渲染交互式时间轴
 author: Claire Froelich
-downloads: 18693
+downloads: 18734
 updated: 1746042504000
 repo: clairefro/obsidian-plugin-chronos
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chronos"
   name="Chronos Timeline"
-  description="Render interactive timelines inline in your notes from simple markdown"
+  description="通过简单的标记符在笔记中联机渲染交互式时间轴"
   author="Claire Froelich"
-  :downloads="18693"
+  :downloads="18734"
   :updated="1746042504000"
   repo="clairefro/obsidian-plugin-chronos"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chronos Timeline 是一个功能强大的 Obsidian 插件。
 
-Render interactive timelines inline in your notes from simple markdown
+通过简单的标记符在笔记中联机渲染交互式时间轴
 
 通过 Chronos Timeline,您可以:
 
@@ -202,7 +202,7 @@ Render interactive timelines inline in your notes from simple markdown
 - **下载量**：18.7K
 - **最后更新**：2025-05-01
 - **GitHub**：[clairefro/obsidian-plugin-chronos](https://github.com/clairefro/obsidian-plugin-chronos)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

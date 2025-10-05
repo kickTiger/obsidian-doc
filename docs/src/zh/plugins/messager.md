@@ -1,12 +1,12 @@
 ---
 title: Messager
-description: Save messages into vault which sending through WeChat/HTTP API/Email
+description: 将通过微信/HTTP API/电子邮件发送的信息保存到保险库中
 author: Rainyluo
 downloads: 3841
 updated: 1747559997000
 repo: xiaotianhu/obsidian-messager
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="messager"
   name="Messager"
-  description="Save messages into vault which sending through WeChat/HTTP API/Email"
+  description="将通过微信/HTTP API/电子邮件发送的信息保存到保险库中"
   author="Rainyluo"
   :downloads="3841"
   :updated="1747559997000"
   repo="xiaotianhu/obsidian-messager"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Messager 是一个功能强大的 Obsidian 插件。
 
-Save messages into vault which sending through WeChat/HTTP API/Email
+将通过微信/HTTP API/电子邮件发送的信息保存到保险库中
 
 通过 Messager,您可以:
 
@@ -202,7 +202,7 @@ Save messages into vault which sending through WeChat/HTTP API/Email
 - **下载量**：3.8K
 - **最后更新**：2025-05-18
 - **GitHub**：[xiaotianhu/obsidian-messager](https://github.com/xiaotianhu/obsidian-messager)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

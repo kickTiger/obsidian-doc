@@ -1,12 +1,12 @@
 ---
 title: AI Notes Summary
-description: Use OpenAI to generate a summary of referenced notes.
+description: 使用 OpenAI 生成参考注释摘要。
 author: R. Ian Bull (irbull)
-downloads: 4868
+downloads: 4869
 updated: 1731368004000
 repo: irbull/obsidian-ai-summary
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ai-summary"
   name="AI Notes Summary"
-  description="Use OpenAI to generate a summary of referenced notes."
+  description="使用 OpenAI 生成参考注释摘要。"
   author="R. Ian Bull (irbull)"
-  :downloads="4868"
+  :downloads="4869"
   :updated="1731368004000"
   repo="irbull/obsidian-ai-summary"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AI Notes Summary 是一个功能强大的 Obsidian 插件。
 
-Use OpenAI to generate a summary of referenced notes.
+使用 OpenAI 生成参考注释摘要。
 
 通过 AI Notes Summary,您可以:
 
@@ -202,7 +202,7 @@ Use OpenAI to generate a summary of referenced notes.
 - **下载量**：4.9K
 - **最后更新**：2024-11-12
 - **GitHub**：[irbull/obsidian-ai-summary](https://github.com/irbull/obsidian-ai-summary)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Notes dater
-description: Add created on and last updated on dates of the active note to the status bar.
+description: 在状态栏中添加活动备忘的创建日期和最后更新日期。
 author: Paul Treanor
-downloads: 5816
+downloads: 5817
 updated: 1690556900000
 repo: PaulTreanor/notes-dater
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="notes-dater"
   name="Notes dater"
-  description="Add created on and last updated on dates of the active note to the status bar."
+  description="在状态栏中添加活动备忘的创建日期和最后更新日期。"
   author="Paul Treanor"
-  :downloads="5816"
+  :downloads="5817"
   :updated="1690556900000"
   repo="PaulTreanor/notes-dater"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Notes dater 是一个功能强大的 Obsidian 插件。
 
-Add created on and last updated on dates of the active note to the status bar.
+在状态栏中添加活动备忘的创建日期和最后更新日期。
 
 通过 Notes dater,您可以:
 
@@ -202,7 +202,7 @@ Add created on and last updated on dates of the active note to the status bar.
 - **下载量**：5.8K
 - **最后更新**：2023-07-28
 - **GitHub**：[PaulTreanor/notes-dater](https://github.com/PaulTreanor/notes-dater)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

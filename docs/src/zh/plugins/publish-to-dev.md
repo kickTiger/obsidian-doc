@@ -6,7 +6,7 @@ downloads: 231
 updated: 1720429409000
 repo: stroiman/obsidian-dev-publish
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1720429409000"
   repo="stroiman/obsidian-dev-publish"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish and update notes as articles on DEV (https://dev.to)
 - **下载量**：231
 - **最后更新**：2024-07-08
 - **GitHub**：[stroiman/obsidian-dev-publish](https://github.com/stroiman/obsidian-dev-publish)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Super Duper Audio Recorder
 description: Records audio directly, with input device and folder configuration, similar to the core one, but better
 author: Thiago MadPin
-downloads: 3473
+downloads: 3476
 updated: 1723638476000
 repo: madpin/super-duper-audio-recorder
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Super Duper Audio Recorder"
   description="Records audio directly, with input device and folder configuration, similar to the core one, but better"
   author="Thiago MadPin"
-  :downloads="3473"
+  :downloads="3476"
   :updated="1723638476000"
   repo="madpin/super-duper-audio-recorder"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Records audio directly, with input device and folder configuration, similar to t
 - **下载量**：3.5K
 - **最后更新**：2024-08-14
 - **GitHub**：[madpin/super-duper-audio-recorder](https://github.com/madpin/super-duper-audio-recorder)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

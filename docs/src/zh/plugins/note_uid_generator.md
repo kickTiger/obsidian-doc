@@ -2,11 +2,11 @@
 title: Note UID Generator
 description: Automatically or manually generates Unique IDs (UIDs) for notes and registers them in metadata (frontmatter).
 author: Valentin Pelletier
-downloads: 606
+downloads: 607
 updated: 1744274858000
 repo: Netajam/obsidian_note_uid_generator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note UID Generator"
   description="Automatically or manually generates Unique IDs (UIDs) for notes and registers them in metadata (frontmatter)."
   author="Valentin Pelletier"
-  :downloads="606"
+  :downloads="607"
   :updated="1744274858000"
   repo="Netajam/obsidian_note_uid_generator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically or manually generates Unique IDs (UIDs) for notes and registers th
 - **插件 ID**：note_uid_generator
 - **作者**：Valentin Pelletier
 - **当前版本**：v1.0.0
-- **下载量**：606
+- **下载量**：607
 - **最后更新**：2025-04-10
 - **GitHub**：[Netajam/obsidian_note_uid_generator](https://github.com/Netajam/obsidian_note_uid_generator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

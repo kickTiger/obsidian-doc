@@ -1,12 +1,12 @@
 ---
 title: Code Files
-description: 'Edit code files with VS Code''s powerful Monaco Editor.'
+description: 使用 VS Code 功能强大的摩纳哥编辑器编辑代码文件。
 author: Lukas Bach
-downloads: 14621
+downloads: 14634
 updated: 1741023004000
 repo: lukasbach/obsidian-code-files
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="code-files"
   name="Code Files"
-  description="Edit code files with VS Code&#39;s powerful Monaco Editor."
+  description="使用 VS Code 功能强大的摩纳哥编辑器编辑代码文件。"
   author="Lukas Bach"
-  :downloads="14621"
+  :downloads="14634"
   :updated="1741023004000"
   repo="lukasbach/obsidian-code-files"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Code Files 是一个功能强大的 Obsidian 插件。
 
-Edit code files with VS Code&#39;s powerful Monaco Editor.
+使用 VS Code 功能强大的摩纳哥编辑器编辑代码文件。
 
 通过 Code Files,您可以:
 
@@ -202,7 +202,7 @@ Edit code files with VS Code&#39;s powerful Monaco Editor.
 - **下载量**：14.6K
 - **最后更新**：2025-03-04
 - **GitHub**：[lukasbach/obsidian-code-files](https://github.com/lukasbach/obsidian-code-files)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

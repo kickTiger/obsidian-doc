@@ -1,12 +1,12 @@
 ---
 title: Time Ruler
-description: A drag-and-drop time ruler combining the best of a task list and a calendar view (integrates with Tasks, Full Calendar, and Dataview).
+description: 拖放式时间标尺，结合了任务列表和日历视图的优点（与任务、完整日历和 Dataview 集成）。
 author: Joshua Tazman Reinier
-downloads: 55442
+downloads: 55470
 updated: 1744869678000
 repo: j-palindrome/obsidian-time-ruler
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="time-ruler"
   name="Time Ruler"
-  description="A drag-and-drop time ruler combining the best of a task list and a calendar view (integrates with Tasks, Full Calendar, and Dataview)."
+  description="拖放式时间标尺，结合了任务列表和日历视图的优点（与任务、完整日历和 Dataview 集成）。"
   author="Joshua Tazman Reinier"
-  :downloads="55442"
+  :downloads="55470"
   :updated="1744869678000"
   repo="j-palindrome/obsidian-time-ruler"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Time Ruler 是一个功能强大的 Obsidian 插件。
 
-A drag-and-drop time ruler combining the best of a task list and a calendar view (integrates with Tasks, Full Calendar, and Dataview).
+拖放式时间标尺，结合了任务列表和日历视图的优点（与任务、完整日历和 Dataview 集成）。
 
 通过 Time Ruler,您可以:
 
@@ -199,10 +199,10 @@ A drag-and-drop time ruler combining the best of a task list and a calendar view
 - **插件 ID**：time-ruler
 - **作者**：Joshua Tazman Reinier
 - **当前版本**：v1.0.0
-- **下载量**：55.4K
+- **下载量**：55.5K
 - **最后更新**：2025-04-17
 - **GitHub**：[j-palindrome/obsidian-time-ruler](https://github.com/j-palindrome/obsidian-time-ruler)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

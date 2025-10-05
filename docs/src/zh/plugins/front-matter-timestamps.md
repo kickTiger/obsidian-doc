@@ -1,12 +1,12 @@
 ---
 title: Front Matter Timestamps
-description: 'Automatically manages and updates ''created'' and ''modified'' timestamps in the frontmatter of your notes.'
+description: '自动管理和更新笔记正文中的 "创建 "和 "修改 "时间戳。'
 author: LighthouseDino
-downloads: 6814
+downloads: 6831
 updated: 1751102517000
 repo: lighthousedino/obsidian-front-matter-timestamps
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="front-matter-timestamps"
   name="Front Matter Timestamps"
-  description="Automatically manages and updates &#39;created&#39; and &#39;modified&#39; timestamps in the frontmatter of your notes."
+  description="自动管理和更新笔记正文中的 &quot;创建 &quot;和 &quot;修改 &quot;时间戳。"
   author="LighthouseDino"
-  :downloads="6814"
+  :downloads="6831"
   :updated="1751102517000"
   repo="lighthousedino/obsidian-front-matter-timestamps"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Front Matter Timestamps 是一个功能强大的 Obsidian 插件。
 
-Automatically manages and updates &#39;created&#39; and &#39;modified&#39; timestamps in the frontmatter of your notes.
+自动管理和更新笔记正文中的 &quot;创建 &quot;和 &quot;修改 &quot;时间戳。
 
 通过 Front Matter Timestamps,您可以:
 
@@ -202,7 +202,7 @@ Automatically manages and updates &#39;created&#39; and &#39;modified&#39; times
 - **下载量**：6.8K
 - **最后更新**：2025-06-28
 - **GitHub**：[lighthousedino/obsidian-front-matter-timestamps](https://github.com/lighthousedino/obsidian-front-matter-timestamps)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

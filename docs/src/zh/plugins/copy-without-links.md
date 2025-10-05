@@ -2,11 +2,11 @@
 title: Strip Internal Links
 description: Copy the contents of files or selections within to the clipboard, without internal links.
 author: Adi Ron
-downloads: 2188
+downloads: 2189
 updated: 1707127330000
 repo: adiron/obsidian-strip-internal-links
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Strip Internal Links"
   description="Copy the contents of files or selections within to the clipboard, without internal links."
   author="Adi Ron"
-  :downloads="2188"
+  :downloads="2189"
   :updated="1707127330000"
   repo="adiron/obsidian-strip-internal-links"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Copy the contents of files or selections within to the clipboard, without intern
 - **下载量**：2.2K
 - **最后更新**：2024-02-05
 - **GitHub**：[adiron/obsidian-strip-internal-links](https://github.com/adiron/obsidian-strip-internal-links)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

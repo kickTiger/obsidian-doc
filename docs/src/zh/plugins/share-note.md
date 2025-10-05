@@ -1,12 +1,12 @@
 ---
 title: Share Note
-description: Instantly share/publish a note, with the full theme and content exactly like you see in Obsidian. Data is shared encrypted by default, and only you and the person you send it to have the key.
+description: 即时分享/发布便笺，完整的主题和内容与您在《黑曜石》中看到的一模一样。数据默认为加密共享，只有你和发送对象拥有密钥。
 author: Alan Grainger
-downloads: 59277
+downloads: 59352
 updated: 1741771193000
 repo: alangrainger/share-note
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="share-note"
   name="Share Note"
-  description="Instantly share/publish a note, with the full theme and content exactly like you see in Obsidian. Data is shared encrypted by default, and only you and the person you send it to have the key."
+  description="即时分享/发布便笺，完整的主题和内容与您在《黑曜石》中看到的一模一样。数据默认为加密共享，只有你和发送对象拥有密钥。"
   author="Alan Grainger"
-  :downloads="59277"
+  :downloads="59352"
   :updated="1741771193000"
   repo="alangrainger/share-note"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Share Note 是一个功能强大的 Obsidian 插件。
 
-Instantly share/publish a note, with the full theme and content exactly like you see in Obsidian. Data is shared encrypted by default, and only you and the person you send it to have the key.
+即时分享/发布便笺，完整的主题和内容与您在《黑曜石》中看到的一模一样。数据默认为加密共享，只有你和发送对象拥有密钥。
 
 通过 Share Note,您可以:
 
@@ -199,10 +199,10 @@ Instantly share/publish a note, with the full theme and content exactly like you
 - **插件 ID**：share-note
 - **作者**：Alan Grainger
 - **当前版本**：v1.0.0
-- **下载量**：59.3K
+- **下载量**：59.4K
 - **最后更新**：2025-03-12
 - **GitHub**：[alangrainger/share-note](https://github.com/alangrainger/share-note)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

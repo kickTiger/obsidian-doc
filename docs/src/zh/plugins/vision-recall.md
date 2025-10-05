@@ -2,11 +2,11 @@
 title: Vision Recall
 description: Transform screenshots into searchable notes using AI vision and text analysis.
 author: Travis Van Nimwegen
-downloads: 1312
+downloads: 1316
 updated: 1742506002000
 repo: travisvn/obsidian-vision-recall
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Vision Recall"
   description="Transform screenshots into searchable notes using AI vision and text analysis."
   author="Travis Van Nimwegen"
-  :downloads="1312"
+  :downloads="1316"
   :updated="1742506002000"
   repo="travisvn/obsidian-vision-recall"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Transform screenshots into searchable notes using AI vision and text analysis.
 - **下载量**：1.3K
 - **最后更新**：2025-03-21
 - **GitHub**：[travisvn/obsidian-vision-recall](https://github.com/travisvn/obsidian-vision-recall)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: New Note Fixer
 description: Unifies the way non-existing notes are created when clicking on their links.
 author: mnaoumov
-downloads: 1103
+downloads: 1113
 updated: 1759384597000
 repo: mnaoumov/obsidian-new-note-fixer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="New Note Fixer"
   description="Unifies the way non-existing notes are created when clicking on their links."
   author="mnaoumov"
-  :downloads="1103"
+  :downloads="1113"
   :updated="1759384597000"
   repo="mnaoumov/obsidian-new-note-fixer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Unifies the way non-existing notes are created when clicking on their links.
 - **下载量**：1.1K
 - **最后更新**：2025-10-02
 - **GitHub**：[mnaoumov/obsidian-new-note-fixer](https://github.com/mnaoumov/obsidian-new-note-fixer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

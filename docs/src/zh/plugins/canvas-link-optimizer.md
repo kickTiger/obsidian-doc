@@ -1,12 +1,12 @@
 ---
 title: Canvas Link Optimizer
-description: Optimize Canvas links by displaying a page thumbnail.
+description: 通过显示页面缩略图优化画布链接。
 author: Qbject
-downloads: 3891
+downloads: 3892
 updated: 1730128204000
 repo: Qbject/obsidian-canvas-link-optimizer
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="canvas-link-optimizer"
   name="Canvas Link Optimizer"
-  description="Optimize Canvas links by displaying a page thumbnail."
+  description="通过显示页面缩略图优化画布链接。"
   author="Qbject"
-  :downloads="3891"
+  :downloads="3892"
   :updated="1730128204000"
   repo="Qbject/obsidian-canvas-link-optimizer"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas Link Optimizer 是一个功能强大的 Obsidian 插件。
 
-Optimize Canvas links by displaying a page thumbnail.
+通过显示页面缩略图优化画布链接。
 
 通过 Canvas Link Optimizer,您可以:
 
@@ -202,7 +202,7 @@ Optimize Canvas links by displaying a page thumbnail.
 - **下载量**：3.9K
 - **最后更新**：2024-10-28
 - **GitHub**：[Qbject/obsidian-canvas-link-optimizer](https://github.com/Qbject/obsidian-canvas-link-optimizer)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

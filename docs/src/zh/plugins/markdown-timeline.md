@@ -2,11 +2,11 @@
 title: Markdown Timeline
 description: Convert markdown into timeline visualization
 author: Jiaheng Zhang
-downloads: 2857
+downloads: 2861
 updated: 1756350857000
 repo: recklyss/markdown-timeline
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Markdown Timeline"
   description="Convert markdown into timeline visualization"
   author="Jiaheng Zhang"
-  :downloads="2857"
+  :downloads="2861"
   :updated="1756350857000"
   repo="recklyss/markdown-timeline"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Convert markdown into timeline visualization
 - **下载量**：2.9K
 - **最后更新**：2025-08-28
 - **GitHub**：[recklyss/markdown-timeline](https://github.com/recklyss/markdown-timeline)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

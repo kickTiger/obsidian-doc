@@ -6,7 +6,7 @@ downloads: 3412
 updated: 1680928734000
 repo: autohub7/obsidian-tab-rotator
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1680928734000"
   repo="autohub7/obsidian-tab-rotator"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Rotate opened files to the left or right with a specified interval.
 - **下载量**：3.4K
 - **最后更新**：2023-04-08
 - **GitHub**：[autohub7/obsidian-tab-rotator](https://github.com/autohub7/obsidian-tab-rotator)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

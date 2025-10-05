@@ -1,12 +1,12 @@
 ---
 title: Sentence Navigator
-description: Manipulate sentences as a unit of movement.
+description: 以句子为运动单位进行操作。
 author: 'Tim Hor & Andrew Brown'
 downloads: 5635
 updated: 1673777471000
 repo: timhor/obsidian-sentence-navigator
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-sentence-navigator"
   name="Sentence Navigator"
-  description="Manipulate sentences as a unit of movement."
+  description="以句子为运动单位进行操作。"
   author="Tim Hor &amp; Andrew Brown"
   :downloads="5635"
   :updated="1673777471000"
   repo="timhor/obsidian-sentence-navigator"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sentence Navigator 是一个功能强大的 Obsidian 插件。
 
-Manipulate sentences as a unit of movement.
+以句子为运动单位进行操作。
 
 通过 Sentence Navigator,您可以:
 
@@ -202,7 +202,7 @@ Manipulate sentences as a unit of movement.
 - **下载量**：5.6K
 - **最后更新**：2023-01-15
 - **GitHub**：[timhor/obsidian-sentence-navigator](https://github.com/timhor/obsidian-sentence-navigator)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Dendron Tree
-description: Add tree for exploring Dendron note.
+description: 为探索 Dendron 注释添加树木。
 author: Levi Rizki Saputra
-downloads: 4678
+downloads: 4679
 updated: 1695652407000
 repo: levirs565/obsidian-dendron-tree
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="dendron-tree"
   name="Dendron Tree"
-  description="Add tree for exploring Dendron note."
+  description="为探索 Dendron 注释添加树木。"
   author="Levi Rizki Saputra"
-  :downloads="4678"
+  :downloads="4679"
   :updated="1695652407000"
   repo="levirs565/obsidian-dendron-tree"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dendron Tree 是一个功能强大的 Obsidian 插件。
 
-Add tree for exploring Dendron note.
+为探索 Dendron 注释添加树木。
 
 通过 Dendron Tree,您可以:
 
@@ -202,7 +202,7 @@ Add tree for exploring Dendron note.
 - **下载量**：4.7K
 - **最后更新**：2023-09-25
 - **GitHub**：[levirs565/obsidian-dendron-tree](https://github.com/levirs565/obsidian-dendron-tree)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

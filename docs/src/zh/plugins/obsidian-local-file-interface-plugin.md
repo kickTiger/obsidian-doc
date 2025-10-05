@@ -1,12 +1,12 @@
 ---
 title: Local File Interface
-description: Commands for moving files in and out of the vault.
+description: 将文件移入和移出保管库的命令。
 author: qawatake
 downloads: 5376
 updated: 1641556983000
 repo: qawatake/obsidian-local-file-interface-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-local-file-interface-plugin"
   name="Local File Interface"
-  description="Commands for moving files in and out of the vault."
+  description="将文件移入和移出保管库的命令。"
   author="qawatake"
   :downloads="5376"
   :updated="1641556983000"
   repo="qawatake/obsidian-local-file-interface-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Local File Interface 是一个功能强大的 Obsidian 插件。
 
-Commands for moving files in and out of the vault.
+将文件移入和移出保管库的命令。
 
 通过 Local File Interface,您可以:
 
@@ -202,7 +202,7 @@ Commands for moving files in and out of the vault.
 - **下载量**：5.4K
 - **最后更新**：2022-01-07
 - **GitHub**：[qawatake/obsidian-local-file-interface-plugin](https://github.com/qawatake/obsidian-local-file-interface-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

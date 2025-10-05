@@ -1,12 +1,12 @@
 ---
 title: Readability Score
-description: Score the readabilty of your writing using the Flesch Reading Ease (FRE) formula.
+description: 使用 Flesch 阅读容易度 (FRE) 公式为您的文章的可读性打分。
 author: zuchka
-downloads: 6186
+downloads: 6194
 updated: 1742580007000
 repo: zuchka/obsidian-readability
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="readability-score"
   name="Readability Score"
-  description="Score the readabilty of your writing using the Flesch Reading Ease (FRE) formula."
+  description="使用 Flesch 阅读容易度 (FRE) 公式为您的文章的可读性打分。"
   author="zuchka"
-  :downloads="6186"
+  :downloads="6194"
   :updated="1742580007000"
   repo="zuchka/obsidian-readability"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Readability Score 是一个功能强大的 Obsidian 插件。
 
-Score the readabilty of your writing using the Flesch Reading Ease (FRE) formula.
+使用 Flesch 阅读容易度 (FRE) 公式为您的文章的可读性打分。
 
 通过 Readability Score,您可以:
 
@@ -202,7 +202,7 @@ Score the readabilty of your writing using the Flesch Reading Ease (FRE) formula
 - **下载量**：6.2K
 - **最后更新**：2025-03-22
 - **GitHub**：[zuchka/obsidian-readability](https://github.com/zuchka/obsidian-readability)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

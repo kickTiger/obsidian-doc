@@ -2,11 +2,11 @@
 title: Backlink Settings
 description: 'Allow saving default settings for the backlinks / "Linked mentions" pane at the bottom of notes.'
 author: calvinwyoung
-downloads: 662
+downloads: 665
 updated: 1744344017000
 repo: calvinwyoung/obsidian-backlink-settings
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Backlink Settings"
   description="Allow saving default settings for the backlinks / &quot;Linked mentions&quot; pane at the bottom of notes."
   author="calvinwyoung"
-  :downloads="662"
+  :downloads="665"
   :updated="1744344017000"
   repo="calvinwyoung/obsidian-backlink-settings"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Allow saving default settings for the backlinks / &quot;Linked mentions&quot; pa
 - **插件 ID**：backlink-settings
 - **作者**：calvinwyoung
 - **当前版本**：v1.0.0
-- **下载量**：662
+- **下载量**：665
 - **最后更新**：2025-04-11
 - **GitHub**：[calvinwyoung/obsidian-backlink-settings](https://github.com/calvinwyoung/obsidian-backlink-settings)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

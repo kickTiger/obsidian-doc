@@ -2,11 +2,11 @@
 title: Atomizer
 description: Turn any text into insightful atomic notes.
 author: Zac Bagley
-downloads: 435
+downloads: 437
 updated: 1742320834000
 repo: Binxly/Atomizer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Atomizer"
   description="Turn any text into insightful atomic notes."
   author="Zac Bagley"
-  :downloads="435"
+  :downloads="437"
   :updated="1742320834000"
   repo="Binxly/Atomizer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Turn any text into insightful atomic notes.
 - **插件 ID**：note-atomizer
 - **作者**：Zac Bagley
 - **当前版本**：v1.0.0
-- **下载量**：435
+- **下载量**：437
 - **最后更新**：2025-03-19
 - **GitHub**：[Binxly/Atomizer](https://github.com/Binxly/Atomizer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

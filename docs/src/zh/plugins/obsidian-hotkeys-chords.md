@@ -1,12 +1,12 @@
 ---
 title: Hotkeys Chords
-description: Configurable hotkeys chords to activate commands.
+description: 可配置热键和弦以激活命令。
 author: Dario Balboni
-downloads: 4185
+downloads: 4189
 updated: 1645569895000
 repo: trenta3/obsidian-hotkeys-chords
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-hotkeys-chords"
   name="Hotkeys Chords"
-  description="Configurable hotkeys chords to activate commands."
+  description="可配置热键和弦以激活命令。"
   author="Dario Balboni"
-  :downloads="4185"
+  :downloads="4189"
   :updated="1645569895000"
   repo="trenta3/obsidian-hotkeys-chords"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hotkeys Chords 是一个功能强大的 Obsidian 插件。
 
-Configurable hotkeys chords to activate commands.
+可配置热键和弦以激活命令。
 
 通过 Hotkeys Chords,您可以:
 
@@ -202,7 +202,7 @@ Configurable hotkeys chords to activate commands.
 - **下载量**：4.2K
 - **最后更新**：2022-02-23
 - **GitHub**：[trenta3/obsidian-hotkeys-chords](https://github.com/trenta3/obsidian-hotkeys-chords)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

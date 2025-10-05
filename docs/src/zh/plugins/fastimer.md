@@ -6,7 +6,7 @@ downloads: 1748
 updated: 1717430136000
 repo: vkostyanetsky/ObsidianFastimer
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1717430136000"
   repo="vkostyanetsky/ObsidianFastimer"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Intermittent fasting tracker.
 - **下载量**：1.7K
 - **最后更新**：2024-06-03
 - **GitHub**：[vkostyanetsky/ObsidianFastimer](https://github.com/vkostyanetsky/ObsidianFastimer)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

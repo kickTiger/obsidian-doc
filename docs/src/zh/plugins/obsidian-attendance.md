@@ -1,12 +1,12 @@
 ---
 title: Attendance
-description: Take attendance directly inside of your notes.
+description: 直接在笔记中进行考勤。
 author: Tiim
-downloads: 4052
+downloads: 4053
 updated: 1656363356000
 repo: Tiim/obsidian-attendance
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-attendance"
   name="Attendance"
-  description="Take attendance directly inside of your notes."
+  description="直接在笔记中进行考勤。"
   author="Tiim"
-  :downloads="4052"
+  :downloads="4053"
   :updated="1656363356000"
   repo="Tiim/obsidian-attendance"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Attendance 是一个功能强大的 Obsidian 插件。
 
-Take attendance directly inside of your notes.
+直接在笔记中进行考勤。
 
 通过 Attendance,您可以:
 
@@ -202,7 +202,7 @@ Take attendance directly inside of your notes.
 - **下载量**：4.1K
 - **最后更新**：2022-06-28
 - **GitHub**：[Tiim/obsidian-attendance](https://github.com/Tiim/obsidian-attendance)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

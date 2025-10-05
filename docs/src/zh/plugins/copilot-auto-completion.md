@@ -1,12 +1,12 @@
 ---
 title: Copilot auto completion
-description: A highly configurable copilot-like auto-completion using the ChatGPT API.
+description: 使用 ChatGPT API 的高度可配置的类似副驾驶员的自动完成功能。
 author: Jordi Smit
-downloads: 10286
+downloads: 10292
 updated: 1710065715000
 repo: j0rd1smit/obsidian-copilot-auto-completion
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="copilot-auto-completion"
   name="Copilot auto completion"
-  description="A highly configurable copilot-like auto-completion using the ChatGPT API."
+  description="使用 ChatGPT API 的高度可配置的类似副驾驶员的自动完成功能。"
   author="Jordi Smit"
-  :downloads="10286"
+  :downloads="10292"
   :updated="1710065715000"
   repo="j0rd1smit/obsidian-copilot-auto-completion"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Copilot auto completion 是一个功能强大的 Obsidian 插件。
 
-A highly configurable copilot-like auto-completion using the ChatGPT API.
+使用 ChatGPT API 的高度可配置的类似副驾驶员的自动完成功能。
 
 通过 Copilot auto completion,您可以:
 
@@ -202,7 +202,7 @@ A highly configurable copilot-like auto-completion using the ChatGPT API.
 - **下载量**：10.3K
 - **最后更新**：2024-03-10
 - **GitHub**：[j0rd1smit/obsidian-copilot-auto-completion](https://github.com/j0rd1smit/obsidian-copilot-auto-completion)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

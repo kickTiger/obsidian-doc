@@ -1,12 +1,12 @@
 ---
 title: Text Finder
-description: A search bar that supports search, replace, regular expressions, and case sensitivity.
+description: 搜索栏支持搜索、替换、正则表达式和大小写敏感性。
 author: hafuhafu
-downloads: 4031
+downloads: 4039
 updated: 1747134776000
 repo: nyable/obsidian-text-finder
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="text-finder"
   name="Text Finder"
-  description="A search bar that supports search, replace, regular expressions, and case sensitivity."
+  description="搜索栏支持搜索、替换、正则表达式和大小写敏感性。"
   author="hafuhafu"
-  :downloads="4031"
+  :downloads="4039"
   :updated="1747134776000"
   repo="nyable/obsidian-text-finder"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text Finder 是一个功能强大的 Obsidian 插件。
 
-A search bar that supports search, replace, regular expressions, and case sensitivity.
+搜索栏支持搜索、替换、正则表达式和大小写敏感性。
 
 通过 Text Finder,您可以:
 
@@ -202,7 +202,7 @@ A search bar that supports search, replace, regular expressions, and case sensit
 - **下载量**：4.0K
 - **最后更新**：2025-05-13
 - **GitHub**：[nyable/obsidian-text-finder](https://github.com/nyable/obsidian-text-finder)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

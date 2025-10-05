@@ -2,11 +2,11 @@
 title: Note 2 Tag Generator
 description: Generate tags from notes without openai key in multiple languages
 author: Augustin
-downloads: 2302
+downloads: 2306
 updated: 1721204595000
 repo: augustin7698/note-2-tag-generator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note 2 Tag Generator"
   description="Generate tags from notes without openai key in multiple languages"
   author="Augustin"
-  :downloads="2302"
+  :downloads="2306"
   :updated="1721204595000"
   repo="augustin7698/note-2-tag-generator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate tags from notes without openai key in multiple languages
 - **下载量**：2.3K
 - **最后更新**：2024-07-17
 - **GitHub**：[augustin7698/note-2-tag-generator](https://github.com/augustin7698/note-2-tag-generator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

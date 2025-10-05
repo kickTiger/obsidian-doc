@@ -1,12 +1,12 @@
 ---
 title: GitHub Link
-description: Enrich your notes with issue and pull request content from GitHub.
+description: 用 GitHub 中的问题和拉取请求内容充实笔记。
 author: Nathonius
-downloads: 3737
+downloads: 3739
 updated: 1741480066000
 repo: nathonius/obsidian-github-link
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="github-link"
   name="GitHub Link"
-  description="Enrich your notes with issue and pull request content from GitHub."
+  description="用 GitHub 中的问题和拉取请求内容充实笔记。"
   author="Nathonius"
-  :downloads="3737"
+  :downloads="3739"
   :updated="1741480066000"
   repo="nathonius/obsidian-github-link"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 GitHub Link 是一个功能强大的 Obsidian 插件。
 
-Enrich your notes with issue and pull request content from GitHub.
+用 GitHub 中的问题和拉取请求内容充实笔记。
 
 通过 GitHub Link,您可以:
 
@@ -202,7 +202,7 @@ Enrich your notes with issue and pull request content from GitHub.
 - **下载量**：3.7K
 - **最后更新**：2025-03-09
 - **GitHub**：[nathonius/obsidian-github-link](https://github.com/nathonius/obsidian-github-link)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

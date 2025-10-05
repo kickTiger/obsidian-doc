@@ -1,12 +1,12 @@
 ---
 title: Prioritize
-description: Prioritize your tasks and notes.
+description: 确定任务和笔记的优先顺序。
 author: EloiMusk
-downloads: 4818
+downloads: 4822
 updated: 1678951439000
 repo: Tekknoman/obsidian-prio-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="prioritize"
   name="Prioritize"
-  description="Prioritize your tasks and notes."
+  description="确定任务和笔记的优先顺序。"
   author="EloiMusk"
-  :downloads="4818"
+  :downloads="4822"
   :updated="1678951439000"
   repo="Tekknoman/obsidian-prio-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Prioritize 是一个功能强大的 Obsidian 插件。
 
-Prioritize your tasks and notes.
+确定任务和笔记的优先顺序。
 
 通过 Prioritize,您可以:
 
@@ -202,7 +202,7 @@ Prioritize your tasks and notes.
 - **下载量**：4.8K
 - **最后更新**：2023-03-16
 - **GitHub**：[Tekknoman/obsidian-prio-plugin](https://github.com/Tekknoman/obsidian-prio-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

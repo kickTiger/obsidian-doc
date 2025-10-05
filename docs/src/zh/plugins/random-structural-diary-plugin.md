@@ -1,12 +1,12 @@
 ---
 title: Random Structural Diary
-description: Pick random questions from a prepared question list and answer different questions each time.
+description: 从准备好的问题单中随机挑选问题，每次回答不同的问题。
 author: Timur Sidoriuk
-downloads: 7551
+downloads: 7552
 updated: 1657980236000
 repo: ShockThunder/RandomStructuralDiary
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="random-structural-diary-plugin"
   name="Random Structural Diary"
-  description="Pick random questions from a prepared question list and answer different questions each time."
+  description="从准备好的问题单中随机挑选问题，每次回答不同的问题。"
   author="Timur Sidoriuk"
-  :downloads="7551"
+  :downloads="7552"
   :updated="1657980236000"
   repo="ShockThunder/RandomStructuralDiary"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Random Structural Diary 是一个功能强大的 Obsidian 插件。
 
-Pick random questions from a prepared question list and answer different questions each time.
+从准备好的问题单中随机挑选问题，每次回答不同的问题。
 
 通过 Random Structural Diary,您可以:
 
@@ -202,7 +202,7 @@ Pick random questions from a prepared question list and answer different questio
 - **下载量**：7.6K
 - **最后更新**：2022-07-16
 - **GitHub**：[ShockThunder/RandomStructuralDiary](https://github.com/ShockThunder/RandomStructuralDiary)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

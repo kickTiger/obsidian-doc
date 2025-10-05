@@ -1,12 +1,12 @@
 ---
 title: Antidote Grammar Checker Integration
-description: Unofficial integration of Antidote, a powerful English and French grammar checker.
+description: Antidote 的非官方集成，这是一款功能强大的英语和法语语法检查工具。
 author: Heziode
-downloads: 10304
+downloads: 10309
 updated: 1685295335000
 repo: Heziode/obsidian-antidote
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="antidote-grammar-checker-integration"
   name="Antidote Grammar Checker Integration"
-  description="Unofficial integration of Antidote, a powerful English and French grammar checker."
+  description="Antidote 的非官方集成，这是一款功能强大的英语和法语语法检查工具。"
   author="Heziode"
-  :downloads="10304"
+  :downloads="10309"
   :updated="1685295335000"
   repo="Heziode/obsidian-antidote"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Antidote Grammar Checker Integration 是一个功能强大的 Obsidian 插件。
 
-Unofficial integration of Antidote, a powerful English and French grammar checker.
+Antidote 的非官方集成，这是一款功能强大的英语和法语语法检查工具。
 
 通过 Antidote Grammar Checker Integration,您可以:
 
@@ -202,7 +202,7 @@ Unofficial integration of Antidote, a powerful English and French grammar checke
 - **下载量**：10.3K
 - **最后更新**：2023-05-29
 - **GitHub**：[Heziode/obsidian-antidote](https://github.com/Heziode/obsidian-antidote)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

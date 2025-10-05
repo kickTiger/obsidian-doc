@@ -6,7 +6,7 @@ downloads: 366
 updated: 1713643494000
 repo: lavaforge/obsidian-lava-vtt-uploader
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1713643494000"
   repo="lavaforge/obsidian-lava-vtt-uploader"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Display images from your vault in Lava VTT.
 - **下载量**：366
 - **最后更新**：2024-04-21
 - **GitHub**：[lavaforge/obsidian-lava-vtt-uploader](https://github.com/lavaforge/obsidian-lava-vtt-uploader)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

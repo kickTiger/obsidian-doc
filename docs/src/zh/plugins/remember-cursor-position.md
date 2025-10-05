@@ -1,12 +1,12 @@
 ---
 title: Remember cursor position
-description: Remember cursor and scroll position for each note.
+description: 记住每个音符的光标和滚动位置。
 author: Dmitry Savosh
-downloads: 125279
+downloads: 125364
 updated: 1717111604000
 repo: dy-sh/obsidian-remember-cursor-position
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="remember-cursor-position"
   name="Remember cursor position"
-  description="Remember cursor and scroll position for each note."
+  description="记住每个音符的光标和滚动位置。"
   author="Dmitry Savosh"
-  :downloads="125279"
+  :downloads="125364"
   :updated="1717111604000"
   repo="dy-sh/obsidian-remember-cursor-position"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Remember cursor position 是一个功能强大的 Obsidian 插件。
 
-Remember cursor and scroll position for each note.
+记住每个音符的光标和滚动位置。
 
 通过 Remember cursor position,您可以:
 
@@ -199,10 +199,10 @@ Remember cursor and scroll position for each note.
 - **插件 ID**：remember-cursor-position
 - **作者**：Dmitry Savosh
 - **当前版本**：v1.0.0
-- **下载量**：125.3K
+- **下载量**：125.4K
 - **最后更新**：2024-05-31
 - **GitHub**：[dy-sh/obsidian-remember-cursor-position](https://github.com/dy-sh/obsidian-remember-cursor-position)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

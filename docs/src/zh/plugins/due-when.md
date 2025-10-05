@@ -1,12 +1,12 @@
 ---
 title: Due When
-description: Add shortcuts to insert due dates for end of this week or end of next week.
+description: 添加插入本周末或下周末到期日期的快捷方式。
 author: Andy Baxter
-downloads: 3647
+downloads: 3648
 updated: 1687469543000
 repo: andrewbaxter439/due-when
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="due-when"
   name="Due When"
-  description="Add shortcuts to insert due dates for end of this week or end of next week."
+  description="添加插入本周末或下周末到期日期的快捷方式。"
   author="Andy Baxter"
-  :downloads="3647"
+  :downloads="3648"
   :updated="1687469543000"
   repo="andrewbaxter439/due-when"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Due When 是一个功能强大的 Obsidian 插件。
 
-Add shortcuts to insert due dates for end of this week or end of next week.
+添加插入本周末或下周末到期日期的快捷方式。
 
 通过 Due When,您可以:
 
@@ -202,7 +202,7 @@ Add shortcuts to insert due dates for end of this week or end of next week.
 - **下载量**：3.6K
 - **最后更新**：2023-06-23
 - **GitHub**：[andrewbaxter439/due-when](https://github.com/andrewbaxter439/due-when)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

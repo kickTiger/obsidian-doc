@@ -2,11 +2,11 @@
 title: Quick File Name
 description: Generates a note with a random string as its name.
 author: Wapply
-downloads: 1188
+downloads: 1190
 updated: 1710933438000
 repo: Wapply/obsidian-quick-file-name
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Quick File Name"
   description="Generates a note with a random string as its name."
   author="Wapply"
-  :downloads="1188"
+  :downloads="1190"
   :updated="1710933438000"
   repo="Wapply/obsidian-quick-file-name"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generates a note with a random string as its name.
 - **下载量**：1.2K
 - **最后更新**：2024-03-20
 - **GitHub**：[Wapply/obsidian-quick-file-name](https://github.com/Wapply/obsidian-quick-file-name)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

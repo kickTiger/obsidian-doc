@@ -1,12 +1,12 @@
 ---
 title: Lilypond
-description: Render Lilypond templates.
+description: 渲染 Lilypond 模板。
 author: DOT-ASTERISK
-downloads: 3873
+downloads: 3874
 updated: 1728912802000
 repo: dot-asterisk-nl/obsidian-lilypond
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="lilypond"
   name="Lilypond"
-  description="Render Lilypond templates."
+  description="渲染 Lilypond 模板。"
   author="DOT-ASTERISK"
-  :downloads="3873"
+  :downloads="3874"
   :updated="1728912802000"
   repo="dot-asterisk-nl/obsidian-lilypond"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Lilypond 是一个功能强大的 Obsidian 插件。
 
-Render Lilypond templates.
+渲染 Lilypond 模板。
 
 通过 Lilypond,您可以:
 
@@ -202,7 +202,7 @@ Render Lilypond templates.
 - **下载量**：3.9K
 - **最后更新**：2024-10-14
 - **GitHub**：[dot-asterisk-nl/obsidian-lilypond](https://github.com/dot-asterisk-nl/obsidian-lilypond)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

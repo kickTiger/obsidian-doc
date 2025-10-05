@@ -2,11 +2,11 @@
 title: Guid Renamer
 description: Rename selected file with a random GUID
 author: Taskscape LTD, Kacper Pabianiak
-downloads: 299
+downloads: 300
 updated: 1716469963000
 repo: taskscape/ObsidianUniqueFileName
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Guid Renamer"
   description="Rename selected file with a random GUID"
   author="Taskscape LTD, Kacper Pabianiak"
-  :downloads="299"
+  :downloads="300"
   :updated="1716469963000"
   repo="taskscape/ObsidianUniqueFileName"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Rename selected file with a random GUID
 - **插件 ID**：guid-renamer
 - **作者**：Taskscape LTD, Kacper Pabianiak
 - **当前版本**：v1.0.0
-- **下载量**：299
+- **下载量**：300
 - **最后更新**：2024-05-23
 - **GitHub**：[taskscape/ObsidianUniqueFileName](https://github.com/taskscape/ObsidianUniqueFileName)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

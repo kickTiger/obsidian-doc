@@ -2,11 +2,11 @@
 title: AutoPause
 description: Allows one audio track to be played at a time, pausing or stopping any others.
 author: Chris Kephart
-downloads: 1756
+downloads: 1780
 updated: 1749412503000
 repo: ckep1/obsidian-autopause
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="AutoPause"
   description="Allows one audio track to be played at a time, pausing or stopping any others."
   author="Chris Kephart"
-  :downloads="1756"
+  :downloads="1780"
   :updated="1749412503000"
   repo="ckep1/obsidian-autopause"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Allows one audio track to be played at a time, pausing or stopping any others.
 - **下载量**：1.8K
 - **最后更新**：2025-06-09
 - **GitHub**：[ckep1/obsidian-autopause](https://github.com/ckep1/obsidian-autopause)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

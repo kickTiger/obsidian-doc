@@ -6,7 +6,7 @@ downloads: 190
 updated: 1758619294000
 repo: forketyfork/obsidian-youtrack-fetcher
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1758619294000"
   repo="forketyfork/obsidian-youtrack-fetcher"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Fetches YouTrack issues into notes
 - **下载量**：190
 - **最后更新**：2025-09-23
 - **GitHub**：[forketyfork/obsidian-youtrack-fetcher](https://github.com/forketyfork/obsidian-youtrack-fetcher)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

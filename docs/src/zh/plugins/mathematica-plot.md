@@ -2,11 +2,11 @@
 title: Mathematica Plot
 description: Render graphs using Wolfram Mathematica code.
 author: Marcos Nicolau
-downloads: 2510
+downloads: 2513
 updated: 1702841713000
 repo: MarcosNicolau/obsidian-mathematica-plot
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Mathematica Plot"
   description="Render graphs using Wolfram Mathematica code."
   author="Marcos Nicolau"
-  :downloads="2510"
+  :downloads="2513"
   :updated="1702841713000"
   repo="MarcosNicolau/obsidian-mathematica-plot"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Render graphs using Wolfram Mathematica code.
 - **下载量**：2.5K
 - **最后更新**：2023-12-18
 - **GitHub**：[MarcosNicolau/obsidian-mathematica-plot](https://github.com/MarcosNicolau/obsidian-mathematica-plot)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

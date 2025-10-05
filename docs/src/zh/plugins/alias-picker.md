@@ -6,7 +6,7 @@ downloads: 766
 updated: 1712863642000
 repo: rostunic/obsidian-alias-picker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1712863642000"
   repo="rostunic/obsidian-alias-picker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Pick aliases or blocks of links.
 - **下载量**：766
 - **最后更新**：2024-04-12
 - **GitHub**：[rostunic/obsidian-alias-picker](https://github.com/rostunic/obsidian-alias-picker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

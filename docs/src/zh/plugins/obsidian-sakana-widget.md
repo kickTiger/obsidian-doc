@@ -1,12 +1,12 @@
 ---
 title: Sakana Widget
-description: 'Add the Sakana! widget.'
+description: '添加 Sakana!'
 author: Boninall
-downloads: 5176
+downloads: 5178
 updated: 1667036952000
 repo: Quorafind/obsidian-sakana-widget
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-sakana-widget"
   name="Sakana Widget"
-  description="Add the Sakana! widget."
+  description="添加 Sakana!"
   author="Boninall"
-  :downloads="5176"
+  :downloads="5178"
   :updated="1667036952000"
   repo="Quorafind/obsidian-sakana-widget"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sakana Widget 是一个功能强大的 Obsidian 插件。
 
-Add the Sakana! widget.
+添加 Sakana!
 
 通过 Sakana Widget,您可以:
 
@@ -202,7 +202,7 @@ Add the Sakana! widget.
 - **下载量**：5.2K
 - **最后更新**：2022-10-29
 - **GitHub**：[Quorafind/obsidian-sakana-widget](https://github.com/Quorafind/obsidian-sakana-widget)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

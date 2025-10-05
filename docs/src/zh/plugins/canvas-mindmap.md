@@ -1,12 +1,12 @@
 ---
 title: Canvas Mindmap
-description: Make your canvas work like a mindmap.
+description: 让你的画布像思维导图一样工作。
 author: Boninall
-downloads: 111082
+downloads: 111193
 updated: 1725418023000
 repo: Quorafind/Obsidian-Canvas-MindMap
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="canvas-mindmap"
   name="Canvas Mindmap"
-  description="Make your canvas work like a mindmap."
+  description="让你的画布像思维导图一样工作。"
   author="Boninall"
-  :downloads="111082"
+  :downloads="111193"
   :updated="1725418023000"
   repo="Quorafind/Obsidian-Canvas-MindMap"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas Mindmap 是一个功能强大的 Obsidian 插件。
 
-Make your canvas work like a mindmap.
+让你的画布像思维导图一样工作。
 
 通过 Canvas Mindmap,您可以:
 
@@ -199,10 +199,10 @@ Make your canvas work like a mindmap.
 - **插件 ID**：canvas-mindmap
 - **作者**：Boninall
 - **当前版本**：v1.0.0
-- **下载量**：111.1K
+- **下载量**：111.2K
 - **最后更新**：2024-09-04
 - **GitHub**：[Quorafind/Obsidian-Canvas-MindMap](https://github.com/Quorafind/Obsidian-Canvas-MindMap)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

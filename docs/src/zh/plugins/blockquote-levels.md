@@ -1,12 +1,12 @@
 ---
 title: Blockquote Levels
-description: Add commands for increasing/decreasing the blockquote level of the current line or selection(s).
+description: 添加用于增加/减少当前行或选区的小标题级别的命令。
 author: Carlo Zottmann
-downloads: 5097
+downloads: 5098
 updated: 1664381605000
 repo: czottmann/obsidian-blockquote-levels
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="blockquote-levels"
   name="Blockquote Levels"
-  description="Add commands for increasing/decreasing the blockquote level of the current line or selection(s)."
+  description="添加用于增加/减少当前行或选区的小标题级别的命令。"
   author="Carlo Zottmann"
-  :downloads="5097"
+  :downloads="5098"
   :updated="1664381605000"
   repo="czottmann/obsidian-blockquote-levels"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Blockquote Levels 是一个功能强大的 Obsidian 插件。
 
-Add commands for increasing/decreasing the blockquote level of the current line or selection(s).
+添加用于增加/减少当前行或选区的小标题级别的命令。
 
 通过 Blockquote Levels,您可以:
 
@@ -202,7 +202,7 @@ Add commands for increasing/decreasing the blockquote level of the current line 
 - **下载量**：5.1K
 - **最后更新**：2022-09-29
 - **GitHub**：[czottmann/obsidian-blockquote-levels](https://github.com/czottmann/obsidian-blockquote-levels)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

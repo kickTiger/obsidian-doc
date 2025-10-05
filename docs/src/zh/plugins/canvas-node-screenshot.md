@@ -2,11 +2,11 @@
 title: Node Screenshot
 description: Capture node effortlessly with precision screenshot.
 author: istfredy
-downloads: 1689
+downloads: 1690
 updated: 1709434151000
 repo: nullhq/obsidian-canvas-node-screenshot
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Node Screenshot"
   description="Capture node effortlessly with precision screenshot."
   author="istfredy"
-  :downloads="1689"
+  :downloads="1690"
   :updated="1709434151000"
   repo="nullhq/obsidian-canvas-node-screenshot"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Capture node effortlessly with precision screenshot.
 - **下载量**：1.7K
 - **最后更新**：2024-03-03
 - **GitHub**：[nullhq/obsidian-canvas-node-screenshot](https://github.com/nullhq/obsidian-canvas-node-screenshot)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

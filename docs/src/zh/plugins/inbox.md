@@ -1,12 +1,12 @@
 ---
 title: Inbox
-description: 'Show in app notification on startup if there is data to process in the "inbox" note.'
+description: '如果 "收件箱 "备注中有数据需要处理，则在启动时显示应用程序通知。'
 author: Zachatoo
-downloads: 5999
+downloads: 6000
 updated: 1709701580000
 repo: Zachatoo/obsidian-inbox
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="inbox"
   name="Inbox"
-  description="Show in app notification on startup if there is data to process in the &quot;inbox&quot; note."
+  description="如果 &quot;收件箱 &quot;备注中有数据需要处理，则在启动时显示应用程序通知。"
   author="Zachatoo"
-  :downloads="5999"
+  :downloads="6000"
   :updated="1709701580000"
   repo="Zachatoo/obsidian-inbox"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Inbox 是一个功能强大的 Obsidian 插件。
 
-Show in app notification on startup if there is data to process in the &quot;inbox&quot; note.
+如果 &quot;收件箱 &quot;备注中有数据需要处理，则在启动时显示应用程序通知。
 
 通过 Inbox,您可以:
 
@@ -202,7 +202,7 @@ Show in app notification on startup if there is data to process in the &quot;inb
 - **下载量**：6.0K
 - **最后更新**：2024-03-06
 - **GitHub**：[Zachatoo/obsidian-inbox](https://github.com/Zachatoo/obsidian-inbox)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

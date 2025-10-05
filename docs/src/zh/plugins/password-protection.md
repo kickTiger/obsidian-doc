@@ -1,12 +1,12 @@
 ---
 title: Password Protection
-description: Lock and protect your private notes and diary with a password, no encrypt, no decrypt.
+description: 用密码锁定和保护你的私人笔记和日记，无需加密，无需解密。
 author: Qing Li
-downloads: 39232
+downloads: 39311
 updated: 1758771933000
 repo: qing3962/password-protection
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="password-protection"
   name="Password Protection"
-  description="Lock and protect your private notes and diary with a password, no encrypt, no decrypt."
+  description="用密码锁定和保护你的私人笔记和日记，无需加密，无需解密。"
   author="Qing Li"
-  :downloads="39232"
+  :downloads="39311"
   :updated="1758771933000"
   repo="qing3962/password-protection"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Password Protection 是一个功能强大的 Obsidian 插件。
 
-Lock and protect your private notes and diary with a password, no encrypt, no decrypt.
+用密码锁定和保护你的私人笔记和日记，无需加密，无需解密。
 
 通过 Password Protection,您可以:
 
@@ -199,10 +199,10 @@ Lock and protect your private notes and diary with a password, no encrypt, no de
 - **插件 ID**：password-protection
 - **作者**：Qing Li
 - **当前版本**：v1.0.0
-- **下载量**：39.2K
+- **下载量**：39.3K
 - **最后更新**：2025-09-25
 - **GitHub**：[qing3962/password-protection](https://github.com/qing3962/password-protection)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Obsimian Exporter
-description: Simulation framework for testing Obsidian plugins.
+description: 用于测试 Obsidian 插件的模拟框架。
 author: Oliver Lade
 downloads: 3929
 updated: 1627186879000
 repo: motif-software/obsimian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsimian-exporter"
   name="Obsimian Exporter"
-  description="Simulation framework for testing Obsidian plugins."
+  description="用于测试 Obsidian 插件的模拟框架。"
   author="Oliver Lade"
   :downloads="3929"
   :updated="1627186879000"
   repo="motif-software/obsimian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Obsimian Exporter 是一个功能强大的 Obsidian 插件。
 
-Simulation framework for testing Obsidian plugins.
+用于测试 Obsidian 插件的模拟框架。
 
 通过 Obsimian Exporter,您可以:
 
@@ -202,7 +202,7 @@ Simulation framework for testing Obsidian plugins.
 - **下载量**：3.9K
 - **最后更新**：2021-07-25
 - **GitHub**：[motif-software/obsimian](https://github.com/motif-software/obsimian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

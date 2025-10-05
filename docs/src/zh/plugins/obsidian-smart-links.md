@@ -1,12 +1,12 @@
 ---
 title: Smart Links
-description: Automatically detect strings using regular expressions and turn them into links in reading view. Useful for stock symbols, issue tracking, etc.
+description: 使用正则表达式自动检测字符串，并在阅读视图中将其转化为链接。适用于股票代码、问题跟踪等。
 author: David Lynch
-downloads: 5633
+downloads: 5634
 updated: 1670603540000
 repo: kemayo/obsidian-smart-links
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-smart-links"
   name="Smart Links"
-  description="Automatically detect strings using regular expressions and turn them into links in reading view. Useful for stock symbols, issue tracking, etc."
+  description="使用正则表达式自动检测字符串，并在阅读视图中将其转化为链接。适用于股票代码、问题跟踪等。"
   author="David Lynch"
-  :downloads="5633"
+  :downloads="5634"
   :updated="1670603540000"
   repo="kemayo/obsidian-smart-links"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Links 是一个功能强大的 Obsidian 插件。
 
-Automatically detect strings using regular expressions and turn them into links in reading view. Useful for stock symbols, issue tracking, etc.
+使用正则表达式自动检测字符串，并在阅读视图中将其转化为链接。适用于股票代码、问题跟踪等。
 
 通过 Smart Links,您可以:
 
@@ -202,7 +202,7 @@ Automatically detect strings using regular expressions and turn them into links 
 - **下载量**：5.6K
 - **最后更新**：2022-12-10
 - **GitHub**：[kemayo/obsidian-smart-links](https://github.com/kemayo/obsidian-smart-links)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

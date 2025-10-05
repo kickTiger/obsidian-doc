@@ -2,11 +2,11 @@
 title: OnlyWorlds Builder
 description: World building toolset with OnlyWorlds integration.
 author: Titus
-downloads: 709
+downloads: 710
 updated: 1752056493000
 repo: OnlyWorlds/obsidian-plugin
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="OnlyWorlds Builder"
   description="World building toolset with OnlyWorlds integration."
   author="Titus"
-  :downloads="709"
+  :downloads="710"
   :updated="1752056493000"
   repo="OnlyWorlds/obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ World building toolset with OnlyWorlds integration.
 - **插件 ID**：onlyworlds-builder
 - **作者**：Titus
 - **当前版本**：v1.0.0
-- **下载量**：709
+- **下载量**：710
 - **最后更新**：2025-07-09
 - **GitHub**：[OnlyWorlds/obsidian-plugin](https://github.com/OnlyWorlds/obsidian-plugin)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

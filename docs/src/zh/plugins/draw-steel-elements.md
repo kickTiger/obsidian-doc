@@ -2,11 +2,11 @@
 title: Draw Steel Elements
 description: Components to support the Draw Steel TTRPG by MCDM.
 author: Scott Tomaszewski (Xentis)
-downloads: 1584
+downloads: 1591
 updated: 1757188292000
 repo: SteelCompendium/draw-steel-elements
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Draw Steel Elements"
   description="Components to support the Draw Steel TTRPG by MCDM."
   author="Scott Tomaszewski (Xentis)"
-  :downloads="1584"
+  :downloads="1591"
   :updated="1757188292000"
   repo="SteelCompendium/draw-steel-elements"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Components to support the Draw Steel TTRPG by MCDM.
 - **下载量**：1.6K
 - **最后更新**：2025-09-07
 - **GitHub**：[SteelCompendium/draw-steel-elements](https://github.com/SteelCompendium/draw-steel-elements)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

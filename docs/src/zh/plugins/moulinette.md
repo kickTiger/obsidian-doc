@@ -2,11 +2,11 @@
 title: Moulinette Search for TTRPG
 description: Search, browse and download TTRPG (tabletop role-playing game) content from Moulinette Cloud.
 author: Moulinette
-downloads: 2494
+downloads: 2497
 updated: 1741461136000
 repo: SvenWerlen/moulinette-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Moulinette Search for TTRPG"
   description="Search, browse and download TTRPG (tabletop role-playing game) content from Moulinette Cloud."
   author="Moulinette"
-  :downloads="2494"
+  :downloads="2497"
   :updated="1741461136000"
   repo="SvenWerlen/moulinette-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Search, browse and download TTRPG (tabletop role-playing game) content from Moul
 - **下载量**：2.5K
 - **最后更新**：2025-03-09
 - **GitHub**：[SvenWerlen/moulinette-obsidian-plugin](https://github.com/SvenWerlen/moulinette-obsidian-plugin)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

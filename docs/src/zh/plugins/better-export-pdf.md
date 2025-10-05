@@ -1,12 +1,12 @@
 ---
 title: Better Export PDF
-description: Export your notes to PDF, supports export preview, add bookmarks outline and header/footer.
+description: 将笔记导出为 PDF，支持导出预览、添加书签大纲和页眉/页脚。
 author: l1xnan
-downloads: 174748
+downloads: 174987
 updated: 1744520422000
 repo: l1xnan/obsidian-better-export-pdf
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="better-export-pdf"
   name="Better Export PDF"
-  description="Export your notes to PDF, supports export preview, add bookmarks outline and header/footer."
+  description="将笔记导出为 PDF，支持导出预览、添加书签大纲和页眉/页脚。"
   author="l1xnan"
-  :downloads="174748"
+  :downloads="174987"
   :updated="1744520422000"
   repo="l1xnan/obsidian-better-export-pdf"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better Export PDF 是一个功能强大的 Obsidian 插件。
 
-Export your notes to PDF, supports export preview, add bookmarks outline and header/footer.
+将笔记导出为 PDF，支持导出预览、添加书签大纲和页眉/页脚。
 
 通过 Better Export PDF,您可以:
 
@@ -199,10 +199,10 @@ Export your notes to PDF, supports export preview, add bookmarks outline and hea
 - **插件 ID**：better-export-pdf
 - **作者**：l1xnan
 - **当前版本**：v1.0.0
-- **下载量**：174.7K
+- **下载量**：175.0K
 - **最后更新**：2025-04-13
 - **GitHub**：[l1xnan/obsidian-better-export-pdf](https://github.com/l1xnan/obsidian-better-export-pdf)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

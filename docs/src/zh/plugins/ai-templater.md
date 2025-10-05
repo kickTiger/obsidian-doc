@@ -1,12 +1,12 @@
 ---
 title: AI for Templater
-description: AI Extension for the Templater plugin with the OpenAI Client Library.
+description: 带有 OpenAI 客户端库的 Templater 插件的 AI 扩展。
 author: TfTHacker
-downloads: 6489
-updated: 1730479395000
+downloads: 6585
+updated: 1759561309000
 repo: TfTHacker/obsidian-ai-templater
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ai-templater"
   name="AI for Templater"
-  description="AI Extension for the Templater plugin with the OpenAI Client Library."
+  description="带有 OpenAI 客户端库的 Templater 插件的 AI 扩展。"
   author="TfTHacker"
-  :downloads="6489"
-  :updated="1730479395000"
+  :downloads="6585"
+  :updated="1759561309000"
   repo="TfTHacker/obsidian-ai-templater"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AI for Templater 是一个功能强大的 Obsidian 插件。
 
-AI Extension for the Templater plugin with the OpenAI Client Library.
+带有 OpenAI 客户端库的 Templater 插件的 AI 扩展。
 
 通过 AI for Templater,您可以:
 
@@ -181,7 +181,7 @@ AI Extension for the Templater plugin with the OpenAI Client Library.
 
 ### 最新版本：v1.0.0
 
-更新时间：2024-11-02
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/TfTHacker/obsidian-ai-templater/releases) 查看详细更新日志
@@ -199,10 +199,10 @@ AI Extension for the Templater plugin with the OpenAI Client Library.
 - **插件 ID**：ai-templater
 - **作者**：TfTHacker
 - **当前版本**：v1.0.0
-- **下载量**：6.5K
-- **最后更新**：2024-11-02
+- **下载量**：6.6K
+- **最后更新**：2025-10-04
 - **GitHub**：[TfTHacker/obsidian-ai-templater](https://github.com/TfTHacker/obsidian-ai-templater)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

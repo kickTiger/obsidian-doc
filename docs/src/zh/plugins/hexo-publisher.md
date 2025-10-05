@@ -6,7 +6,7 @@ downloads: 229
 updated: 1719750289000
 repo: zhenlohuang/obsidian-hexo-publisher
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1719750289000"
   repo="zhenlohuang/obsidian-hexo-publisher"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish your notes to Hexo.
 - **下载量**：229
 - **最后更新**：2024-06-30
 - **GitHub**：[zhenlohuang/obsidian-hexo-publisher](https://github.com/zhenlohuang/obsidian-hexo-publisher)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

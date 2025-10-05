@@ -6,7 +6,7 @@ downloads: 3375
 updated: 1694027880000
 repo: lucifayr/archwiki-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1694027880000"
   repo="lucifayr/archwiki-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Read any ArchWiki page.
 - **下载量**：3.4K
 - **最后更新**：2023-09-07
 - **GitHub**：[lucifayr/archwiki-obsidian](https://github.com/lucifayr/archwiki-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

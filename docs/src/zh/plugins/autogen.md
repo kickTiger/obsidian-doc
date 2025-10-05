@@ -6,7 +6,7 @@ downloads: 1380
 updated: 1708386106000
 repo: AidanTilgner/AutogenObsidianPlugin
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1708386106000"
   repo="AidanTilgner/AutogenObsidianPlugin"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ In place autogeneration of content based on prompts within notes
 - **下载量**：1.4K
 - **最后更新**：2024-02-20
 - **GitHub**：[AidanTilgner/AutogenObsidianPlugin](https://github.com/AidanTilgner/AutogenObsidianPlugin)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

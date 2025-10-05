@@ -6,7 +6,7 @@ downloads: 707
 updated: 1742363316000
 repo: exmemo-ai/obsidian-exmemo-assistant
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1742363316000"
   repo="exmemo-ai/obsidian-exmemo-assistant"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Using LLMs to manage files and generating metadata such as tags and summaries.
 - **下载量**：707
 - **最后更新**：2025-03-19
 - **GitHub**：[exmemo-ai/obsidian-exmemo-assistant](https://github.com/exmemo-ai/obsidian-exmemo-assistant)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

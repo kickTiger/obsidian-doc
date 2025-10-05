@@ -1,12 +1,12 @@
 ---
 title: File Hider
-description: Hide files and folders from the file explorer.
+description: 从文件资源管理器中隐藏文件和文件夹。
 author: Oliver Akins
-downloads: 33559
+downloads: 33590
 updated: 1675894101000
 repo: Eldritch-Oliver/file-hider
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="OA-file-hider"
   name="File Hider"
-  description="Hide files and folders from the file explorer."
+  description="从文件资源管理器中隐藏文件和文件夹。"
   author="Oliver Akins"
-  :downloads="33559"
+  :downloads="33590"
   :updated="1675894101000"
   repo="Eldritch-Oliver/file-hider"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Hider 是一个功能强大的 Obsidian 插件。
 
-Hide files and folders from the file explorer.
+从文件资源管理器中隐藏文件和文件夹。
 
 通过 File Hider,您可以:
 
@@ -202,7 +202,7 @@ Hide files and folders from the file explorer.
 - **下载量**：33.6K
 - **最后更新**：2023-02-09
 - **GitHub**：[Eldritch-Oliver/file-hider](https://github.com/Eldritch-Oliver/file-hider)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

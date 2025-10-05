@@ -1,12 +1,12 @@
 ---
 title: Multi Properties
-description: Add properties to multiple notes at once. Either right-click a folder or select multiple notes and right-click the selection.
+description: 一次为多个笔记添加属性右键单击文件夹或选择多个笔记，然后右键单击选中内容。
 author: fez-github
-downloads: 49353
+downloads: 49457
 updated: 1754945285000
 repo: technohiker/obsidian-multi-properties
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="multi-properties"
   name="Multi Properties"
-  description="Add properties to multiple notes at once. Either right-click a folder or select multiple notes and right-click the selection."
+  description="一次为多个笔记添加属性右键单击文件夹或选择多个笔记，然后右键单击选中内容。"
   author="fez-github"
-  :downloads="49353"
+  :downloads="49457"
   :updated="1754945285000"
   repo="technohiker/obsidian-multi-properties"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Multi Properties 是一个功能强大的 Obsidian 插件。
 
-Add properties to multiple notes at once. Either right-click a folder or select multiple notes and right-click the selection.
+一次为多个笔记添加属性右键单击文件夹或选择多个笔记，然后右键单击选中内容。
 
 通过 Multi Properties,您可以:
 
@@ -199,10 +199,10 @@ Add properties to multiple notes at once. Either right-click a folder or select 
 - **插件 ID**：multi-properties
 - **作者**：fez-github
 - **当前版本**：v1.0.0
-- **下载量**：49.4K
+- **下载量**：49.5K
 - **最后更新**：2025-08-12
 - **GitHub**：[technohiker/obsidian-multi-properties](https://github.com/technohiker/obsidian-multi-properties)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

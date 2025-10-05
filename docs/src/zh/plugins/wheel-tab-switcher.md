@@ -2,11 +2,11 @@
 title: Wheel Tab Switcher
 description: Switch between Tabs using your mouse wheel when hovering over tab headers
 author: 22-2
-downloads: 1289
+downloads: 1291
 updated: 1757923305000
 repo: 22-2/wheel-tab-switcher
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Wheel Tab Switcher"
   description="Switch between Tabs using your mouse wheel when hovering over tab headers"
   author="22-2"
-  :downloads="1289"
+  :downloads="1291"
   :updated="1757923305000"
   repo="22-2/wheel-tab-switcher"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Switch between Tabs using your mouse wheel when hovering over tab headers
 - **下载量**：1.3K
 - **最后更新**：2025-09-15
 - **GitHub**：[22-2/wheel-tab-switcher](https://github.com/22-2/wheel-tab-switcher)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

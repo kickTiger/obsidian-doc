@@ -1,12 +1,12 @@
 ---
 title: Get Stock Information
-description: Take a stock symbol and returns a callout block with the latest stock information.
+description: 选取一个股票代码，并返回一个包含最新股票信息的呼出块。
 author: Mike Jongbloet
-downloads: 4772
+downloads: 4775
 updated: 1680469317000
 repo: mikejongbloet/obsidian-get-stock-information
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="get-stock-information"
   name="Get Stock Information"
-  description="Take a stock symbol and returns a callout block with the latest stock information."
+  description="选取一个股票代码，并返回一个包含最新股票信息的呼出块。"
   author="Mike Jongbloet"
-  :downloads="4772"
+  :downloads="4775"
   :updated="1680469317000"
   repo="mikejongbloet/obsidian-get-stock-information"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Get Stock Information 是一个功能强大的 Obsidian 插件。
 
-Take a stock symbol and returns a callout block with the latest stock information.
+选取一个股票代码，并返回一个包含最新股票信息的呼出块。
 
 通过 Get Stock Information,您可以:
 
@@ -202,7 +202,7 @@ Take a stock symbol and returns a callout block with the latest stock informatio
 - **下载量**：4.8K
 - **最后更新**：2023-04-03
 - **GitHub**：[mikejongbloet/obsidian-get-stock-information](https://github.com/mikejongbloet/obsidian-get-stock-information)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

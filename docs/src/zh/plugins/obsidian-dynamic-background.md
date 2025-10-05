@@ -1,12 +1,12 @@
 ---
 title: Dynamic Background
-description: Adding dynamic background effects to the editor.
+description: 为编辑器添加动态背景效果
 author: Samuel Song
-downloads: 17597
+downloads: 17608
 updated: 1685757477000
 repo: samuelsong70/obsidian-dynamic-background
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-dynamic-background"
   name="Dynamic Background"
-  description="Adding dynamic background effects to the editor."
+  description="为编辑器添加动态背景效果"
   author="Samuel Song"
-  :downloads="17597"
+  :downloads="17608"
   :updated="1685757477000"
   repo="samuelsong70/obsidian-dynamic-background"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dynamic Background 是一个功能强大的 Obsidian 插件。
 
-Adding dynamic background effects to the editor.
+为编辑器添加动态背景效果
 
 通过 Dynamic Background,您可以:
 
@@ -202,7 +202,7 @@ Adding dynamic background effects to the editor.
 - **下载量**：17.6K
 - **最后更新**：2023-06-03
 - **GitHub**：[samuelsong70/obsidian-dynamic-background](https://github.com/samuelsong70/obsidian-dynamic-background)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

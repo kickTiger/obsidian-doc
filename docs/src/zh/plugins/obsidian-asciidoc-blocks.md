@@ -1,12 +1,12 @@
 ---
 title: AsciiDoc Blocks
-description: Render asciidoc blocks, initially asciidoc tables.
+description: 渲染 asciidoc 块，最初为 asciidoc 表。
 author: Juracy Filho
-downloads: 5892
+downloads: 5893
 updated: 1649184329000
 repo: juracy/obsidian-asciidoc-blocks
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-asciidoc-blocks"
   name="AsciiDoc Blocks"
-  description="Render asciidoc blocks, initially asciidoc tables."
+  description="渲染 asciidoc 块，最初为 asciidoc 表。"
   author="Juracy Filho"
-  :downloads="5892"
+  :downloads="5893"
   :updated="1649184329000"
   repo="juracy/obsidian-asciidoc-blocks"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AsciiDoc Blocks 是一个功能强大的 Obsidian 插件。
 
-Render asciidoc blocks, initially asciidoc tables.
+渲染 asciidoc 块，最初为 asciidoc 表。
 
 通过 AsciiDoc Blocks,您可以:
 
@@ -202,7 +202,7 @@ Render asciidoc blocks, initially asciidoc tables.
 - **下载量**：5.9K
 - **最后更新**：2022-04-06
 - **GitHub**：[juracy/obsidian-asciidoc-blocks](https://github.com/juracy/obsidian-asciidoc-blocks)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

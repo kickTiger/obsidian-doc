@@ -2,11 +2,11 @@
 title: Duplicate line
 description: Duplicate line or selection with single hotkey.
 author: Marcin Sztolcman
-downloads: 522
+downloads: 524
 updated: 1742311151000
 repo: msztolcman/obsidian-duplicate-line
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Duplicate line"
   description="Duplicate line or selection with single hotkey."
   author="Marcin Sztolcman"
-  :downloads="522"
+  :downloads="524"
   :updated="1742311151000"
   repo="msztolcman/obsidian-duplicate-line"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Duplicate line or selection with single hotkey.
 - **插件 ID**：duplicate-line
 - **作者**：Marcin Sztolcman
 - **当前版本**：v1.0.0
-- **下载量**：522
+- **下载量**：524
 - **最后更新**：2025-03-18
 - **GitHub**：[msztolcman/obsidian-duplicate-line](https://github.com/msztolcman/obsidian-duplicate-line)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

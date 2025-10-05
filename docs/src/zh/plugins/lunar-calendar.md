@@ -2,11 +2,11 @@
 title: Lunar Calendar
 description: 一个支持农历的日历
 author: OSmile
-downloads: 3734
+downloads: 3736
 updated: 1716116918000
 repo: WHG555/lunar-calendar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Lunar Calendar"
   description="一个支持农历的日历"
   author="OSmile"
-  :downloads="3734"
+  :downloads="3736"
   :updated="1716116918000"
   repo="WHG555/lunar-calendar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Lunar Calendar 是一个功能强大的 Obsidian 插件。
 - **下载量**：3.7K
 - **最后更新**：2024-05-19
 - **GitHub**：[WHG555/lunar-calendar](https://github.com/WHG555/lunar-calendar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

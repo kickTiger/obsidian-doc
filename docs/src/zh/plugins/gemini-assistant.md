@@ -1,12 +1,12 @@
 ---
 title: Gemini Assistant
-description: Your Gemini AI assistant
+description: 您的双子座人工智能助手
 author: eatgrass
-downloads: 11929
+downloads: 11944
 updated: 1709617868000
 repo: eatgrass/obsidian-gemini-assistant
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gemini-assistant"
   name="Gemini Assistant"
-  description="Your Gemini AI assistant"
+  description="您的双子座人工智能助手"
   author="eatgrass"
-  :downloads="11929"
+  :downloads="11944"
   :updated="1709617868000"
   repo="eatgrass/obsidian-gemini-assistant"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Gemini Assistant 是一个功能强大的 Obsidian 插件。
 
-Your Gemini AI assistant
+您的双子座人工智能助手
 
 通过 Gemini Assistant,您可以:
 
@@ -202,7 +202,7 @@ Your Gemini AI assistant
 - **下载量**：11.9K
 - **最后更新**：2024-03-05
 - **GitHub**：[eatgrass/obsidian-gemini-assistant](https://github.com/eatgrass/obsidian-gemini-assistant)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

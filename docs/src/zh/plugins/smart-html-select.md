@@ -2,11 +2,11 @@
 title: Smart HTML Select
 description: Create select that change the markdown on change adding an action button to the ribbon (left sidebar)
 author: Isaia Riva
-downloads: 405
+downloads: 407
 updated: 1716819362000
 repo: IsaiaScope/smart-html-select-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Smart HTML Select"
   description="Create select that change the markdown on change adding an action button to the ribbon (left sidebar)"
   author="Isaia Riva"
-  :downloads="405"
+  :downloads="407"
   :updated="1716819362000"
   repo="IsaiaScope/smart-html-select-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create select that change the markdown on change adding an action button to the 
 - **插件 ID**：smart-html-select
 - **作者**：Isaia Riva
 - **当前版本**：v1.0.0
-- **下载量**：405
+- **下载量**：407
 - **最后更新**：2024-05-27
 - **GitHub**：[IsaiaScope/smart-html-select-plugin](https://github.com/IsaiaScope/smart-html-select-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Plugin Update Tracker
-description: Know when installed plugins have updates and evaluate the risk of upgrading.
+description: 跟踪插件更新并查看更新日志。
 author: Steven Swartz
-downloads: 143023
+downloads: 143102
 updated: 1748641958000
 repo: swar8080/obsidian-plugin-update-tracker
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-plugin-update-tracker"
   name="Plugin Update Tracker"
-  description="Know when installed plugins have updates and evaluate the risk of upgrading."
+  description="跟踪插件更新并查看更新日志。"
   author="Steven Swartz"
-  :downloads="143023"
+  :downloads="143102"
   :updated="1748641958000"
   repo="swar8080/obsidian-plugin-update-tracker"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Plugin Update Tracker 是一个功能强大的 Obsidian 插件。
 
-Know when installed plugins have updates and evaluate the risk of upgrading.
+跟踪插件更新并查看更新日志。
 
 通过 Plugin Update Tracker,您可以:
 
@@ -199,10 +199,10 @@ Know when installed plugins have updates and evaluate the risk of upgrading.
 - **插件 ID**：obsidian-plugin-update-tracker
 - **作者**：Steven Swartz
 - **当前版本**：v1.0.0
-- **下载量**：143.0K
+- **下载量**：143.1K
 - **最后更新**：2025-05-31
 - **GitHub**：[swar8080/obsidian-plugin-update-tracker](https://github.com/swar8080/obsidian-plugin-update-tracker)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

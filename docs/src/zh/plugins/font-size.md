@@ -1,12 +1,12 @@
 ---
 title: Font Size Adjuster
-description: Adjust font size via commands.
+description: 通过命令调整字体大小
 author: Ryota Ushio
-downloads: 9327
+downloads: 9341
 updated: 1711604908000
 repo: RyotaUshio/obsidian-font-size
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="font-size"
   name="Font Size Adjuster"
-  description="Adjust font size via commands."
+  description="通过命令调整字体大小"
   author="Ryota Ushio"
-  :downloads="9327"
+  :downloads="9341"
   :updated="1711604908000"
   repo="RyotaUshio/obsidian-font-size"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Font Size Adjuster 是一个功能强大的 Obsidian 插件。
 
-Adjust font size via commands.
+通过命令调整字体大小
 
 通过 Font Size Adjuster,您可以:
 
@@ -202,7 +202,7 @@ Adjust font size via commands.
 - **下载量**：9.3K
 - **最后更新**：2024-03-28
 - **GitHub**：[RyotaUshio/obsidian-font-size](https://github.com/RyotaUshio/obsidian-font-size)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

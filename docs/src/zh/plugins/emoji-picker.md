@@ -2,11 +2,11 @@
 title: Emoji Picker
 description: An Emoji Picker that allows you to insert the latest released emojis in your notes.
 author: Ali Faraji
-downloads: 1398
+downloads: 1403
 updated: 1732657902000
 repo: alifa98/obsidian-emoji-picker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Emoji Picker"
   description="An Emoji Picker that allows you to insert the latest released emojis in your notes."
   author="Ali Faraji"
-  :downloads="1398"
+  :downloads="1403"
   :updated="1732657902000"
   repo="alifa98/obsidian-emoji-picker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ An Emoji Picker that allows you to insert the latest released emojis in your not
 - **下载量**：1.4K
 - **最后更新**：2024-11-27
 - **GitHub**：[alifa98/obsidian-emoji-picker](https://github.com/alifa98/obsidian-emoji-picker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

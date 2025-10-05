@@ -1,12 +1,12 @@
 ---
 title: Trash Explorer
-description: Restore and delete files from the Obsidian .trash folder.
+description: 恢复和删除 Obsidian .trash 文件夹中的文件。
 author: Per Mortensen
-downloads: 41583
+downloads: 41620
 updated: 1727381098000
 repo: proog/obsidian-trash-explorer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-trash-explorer"
   name="Trash Explorer"
-  description="Restore and delete files from the Obsidian .trash folder."
+  description="恢复和删除 Obsidian .trash 文件夹中的文件。"
   author="Per Mortensen"
-  :downloads="41583"
+  :downloads="41620"
   :updated="1727381098000"
   repo="proog/obsidian-trash-explorer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Trash Explorer 是一个功能强大的 Obsidian 插件。
 
-Restore and delete files from the Obsidian .trash folder.
+恢复和删除 Obsidian .trash 文件夹中的文件。
 
 通过 Trash Explorer,您可以:
 
@@ -202,7 +202,7 @@ Restore and delete files from the Obsidian .trash folder.
 - **下载量**：41.6K
 - **最后更新**：2024-09-27
 - **GitHub**：[proog/obsidian-trash-explorer](https://github.com/proog/obsidian-trash-explorer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

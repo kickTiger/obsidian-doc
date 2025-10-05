@@ -2,11 +2,11 @@
 title: VaultAI
 description: 'Transform your note-taking with an intelligent AI assistant powered by Google''s Gemini AI. Features a sleek floating chat interface for seamless writing assistance, content generation, and smart note enhancement.'
 author: Tharushka Dinujaya
-downloads: 737
+downloads: 755
 updated: 1758029727000
 repo: 0xneobyte/VaultAI
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="VaultAI"
   description="Transform your note-taking with an intelligent AI assistant powered by Google&#39;s Gemini AI. Features a sleek floating chat interface for seamless writing assistance, content generation, and smart note enhancement."
   author="Tharushka Dinujaya"
-  :downloads="737"
+  :downloads="755"
   :updated="1758029727000"
   repo="0xneobyte/VaultAI"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Transform your note-taking with an intelligent AI assistant powered by Google&#3
 - **插件 ID**：vault-ai
 - **作者**：Tharushka Dinujaya
 - **当前版本**：v1.0.0
-- **下载量**：737
+- **下载量**：755
 - **最后更新**：2025-09-16
 - **GitHub**：[0xneobyte/VaultAI](https://github.com/0xneobyte/VaultAI)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

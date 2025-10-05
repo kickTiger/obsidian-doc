@@ -2,11 +2,11 @@
 title: Theme by Folder
 description: Automatically switch themes based on the folder of the opened note
 author: Jinmu Go
-downloads: 894
+downloads: 902
 updated: 1758160883000
 repo: JinmuGo/obsidian-theme-by-folder
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Theme by Folder"
   description="Automatically switch themes based on the folder of the opened note"
   author="Jinmu Go"
-  :downloads="894"
+  :downloads="902"
   :updated="1758160883000"
   repo="JinmuGo/obsidian-theme-by-folder"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically switch themes based on the folder of the opened note
 - **插件 ID**：theme-by-folder
 - **作者**：Jinmu Go
 - **当前版本**：v1.0.0
-- **下载量**：894
+- **下载量**：902
 - **最后更新**：2025-09-18
 - **GitHub**：[JinmuGo/obsidian-theme-by-folder](https://github.com/JinmuGo/obsidian-theme-by-folder)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Tenki
-description: A simple weather display.
+description: 一个简单的天气显示屏。
 author: HiroMike
-downloads: 5405
+downloads: 5408
 updated: 1694396571000
 repo: ms3056/Tenki
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tenki"
   name="Tenki"
-  description="A simple weather display."
+  description="一个简单的天气显示屏。"
   author="HiroMike"
-  :downloads="5405"
+  :downloads="5408"
   :updated="1694396571000"
   repo="ms3056/Tenki"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tenki 是一个功能强大的 Obsidian 插件。
 
-A simple weather display.
+一个简单的天气显示屏。
 
 通过 Tenki,您可以:
 
@@ -202,7 +202,7 @@ A simple weather display.
 - **下载量**：5.4K
 - **最后更新**：2023-09-11
 - **GitHub**：[ms3056/Tenki](https://github.com/ms3056/Tenki)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

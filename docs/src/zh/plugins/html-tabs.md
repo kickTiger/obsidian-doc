@@ -1,12 +1,12 @@
 ---
 title: HTML Tabs
-description: Create and render Tabs and tab panels in your notes.
+description: 在笔记中创建并呈现标签和标签面板。
 author: Patrick Tournet
-downloads: 6752
+downloads: 6757
 updated: 1701624990000
 repo: ptournet/obsidian-html-tabs
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="html-tabs"
   name="HTML Tabs"
-  description="Create and render Tabs and tab panels in your notes."
+  description="在笔记中创建并呈现标签和标签面板。"
   author="Patrick Tournet"
-  :downloads="6752"
+  :downloads="6757"
   :updated="1701624990000"
   repo="ptournet/obsidian-html-tabs"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 HTML Tabs 是一个功能强大的 Obsidian 插件。
 
-Create and render Tabs and tab panels in your notes.
+在笔记中创建并呈现标签和标签面板。
 
 通过 HTML Tabs,您可以:
 
@@ -202,7 +202,7 @@ Create and render Tabs and tab panels in your notes.
 - **下载量**：6.8K
 - **最后更新**：2023-12-04
 - **GitHub**：[ptournet/obsidian-html-tabs](https://github.com/ptournet/obsidian-html-tabs)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

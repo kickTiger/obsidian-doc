@@ -1,12 +1,12 @@
 ---
 title: braincache
-description: Create braincache flashcards.
+description: 创建 Braincache 闪存卡。
 author: XSPGMike
 downloads: 4541
 updated: 1711155554000
 repo: XSPGMike/braincache_obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="braincache"
   name="braincache"
-  description="Create braincache flashcards."
+  description="创建 Braincache 闪存卡。"
   author="XSPGMike"
   :downloads="4541"
   :updated="1711155554000"
   repo="XSPGMike/braincache_obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 braincache 是一个功能强大的 Obsidian 插件。
 
-Create braincache flashcards.
+创建 Braincache 闪存卡。
 
 通过 braincache,您可以:
 
@@ -202,7 +202,7 @@ Create braincache flashcards.
 - **下载量**：4.5K
 - **最后更新**：2024-03-23
 - **GitHub**：[XSPGMike/braincache_obsidian](https://github.com/XSPGMike/braincache_obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

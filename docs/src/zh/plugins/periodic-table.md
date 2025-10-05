@@ -1,12 +1,12 @@
 ---
 title: Periodic Table
-description: View a periodic table of elements in the sidebar.
+description: 在侧边栏中查看元素周期表。
 author: jake-cramer
-downloads: 4067
+downloads: 4069
 updated: 1736022363000
 repo: R-Cramer4/Periodic-Table-Obsidian
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="periodic-table"
   name="Periodic Table"
-  description="View a periodic table of elements in the sidebar."
+  description="在侧边栏中查看元素周期表。"
   author="jake-cramer"
-  :downloads="4067"
+  :downloads="4069"
   :updated="1736022363000"
   repo="R-Cramer4/Periodic-Table-Obsidian"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Periodic Table 是一个功能强大的 Obsidian 插件。
 
-View a periodic table of elements in the sidebar.
+在侧边栏中查看元素周期表。
 
 通过 Periodic Table,您可以:
 
@@ -202,7 +202,7 @@ View a periodic table of elements in the sidebar.
 - **下载量**：4.1K
 - **最后更新**：2025-01-05
 - **GitHub**：[R-Cramer4/Periodic-Table-Obsidian](https://github.com/R-Cramer4/Periodic-Table-Obsidian)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

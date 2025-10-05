@@ -6,7 +6,7 @@ downloads: 111
 updated: 1744867685000
 repo: estory1/t4-task-tree-time-totaler
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1744867685000"
   repo="estory1/t4-task-tree-time-totaler"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Calculates and assigns task estimates given subtask estimates in a task tree in 
 - **下载量**：111
 - **最后更新**：2025-04-17
 - **GitHub**：[estory1/t4-task-tree-time-totaler](https://github.com/estory1/t4-task-tree-time-totaler)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

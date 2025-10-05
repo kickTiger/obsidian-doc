@@ -2,11 +2,11 @@
 title: Checklist Progress
 description: Automatically fill progress (as fraction or percentage) of check-lists.
 author: acidghost
-downloads: 2209
+downloads: 2212
 updated: 1718344268000
 repo: acidghost/obsidian-checklist-progress
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Checklist Progress"
   description="Automatically fill progress (as fraction or percentage) of check-lists."
   author="acidghost"
-  :downloads="2209"
+  :downloads="2212"
   :updated="1718344268000"
   repo="acidghost/obsidian-checklist-progress"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically fill progress (as fraction or percentage) of check-lists.
 - **下载量**：2.2K
 - **最后更新**：2024-06-14
 - **GitHub**：[acidghost/obsidian-checklist-progress](https://github.com/acidghost/obsidian-checklist-progress)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

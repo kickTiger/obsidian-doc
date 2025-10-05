@@ -6,7 +6,7 @@ downloads: 1366
 updated: 1707343829000
 repo: jtucker2/obsidian-consecutive-lists
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1707343829000"
   repo="jtucker2/obsidian-consecutive-lists"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create consecutive lists that are displayed separately in reading mode.
 - **下载量**：1.4K
 - **最后更新**：2024-02-08
 - **GitHub**：[jtucker2/obsidian-consecutive-lists](https://github.com/jtucker2/obsidian-consecutive-lists)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

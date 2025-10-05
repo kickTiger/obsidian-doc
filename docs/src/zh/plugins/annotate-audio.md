@@ -6,7 +6,7 @@ downloads: 1352
 updated: 1751182751000
 repo: 12-VidE/annotate-audio
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1751182751000"
   repo="12-VidE/annotate-audio"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Listen to an audio and add comments to it.
 - **下载量**：1.4K
 - **最后更新**：2025-06-29
 - **GitHub**：[12-VidE/annotate-audio](https://github.com/12-VidE/annotate-audio)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Format Hotkeys
-description: Google Docs style formatting hotkeys.
+description: Google 文档风格的格式化热键。
 author: Ansel Santosa
-downloads: 7300
+downloads: 7301
 updated: 1621008871000
 repo: anstosa/format-hotkeys-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="format-hotkeys-obsidian"
   name="Format Hotkeys"
-  description="Google Docs style formatting hotkeys."
+  description="Google 文档风格的格式化热键。"
   author="Ansel Santosa"
-  :downloads="7300"
+  :downloads="7301"
   :updated="1621008871000"
   repo="anstosa/format-hotkeys-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Format Hotkeys 是一个功能强大的 Obsidian 插件。
 
-Google Docs style formatting hotkeys.
+Google 文档风格的格式化热键。
 
 通过 Format Hotkeys,您可以:
 
@@ -202,7 +202,7 @@ Google Docs style formatting hotkeys.
 - **下载量**：7.3K
 - **最后更新**：2021-05-15
 - **GitHub**：[anstosa/format-hotkeys-obsidian](https://github.com/anstosa/format-hotkeys-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

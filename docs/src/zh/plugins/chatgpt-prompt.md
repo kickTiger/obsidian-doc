@@ -1,12 +1,12 @@
 ---
 title: Prompt ChatGPT
-description: Send templated prompts to ChatGPT when you open a file.
+description: 打开文件时向 ChatGPT 发送模板化提示。
 author: Coduhuey
-downloads: 14328
+downloads: 14353
 updated: 1709964802000
 repo: Coduhuey/ChatGPT-Prompt-Plugin-For-Obsidian
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chatgpt-prompt"
   name="Prompt ChatGPT"
-  description="Send templated prompts to ChatGPT when you open a file."
+  description="打开文件时向 ChatGPT 发送模板化提示。"
   author="Coduhuey"
-  :downloads="14328"
+  :downloads="14353"
   :updated="1709964802000"
   repo="Coduhuey/ChatGPT-Prompt-Plugin-For-Obsidian"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Prompt ChatGPT 是一个功能强大的 Obsidian 插件。
 
-Send templated prompts to ChatGPT when you open a file.
+打开文件时向 ChatGPT 发送模板化提示。
 
 通过 Prompt ChatGPT,您可以:
 
@@ -199,10 +199,10 @@ Send templated prompts to ChatGPT when you open a file.
 - **插件 ID**：chatgpt-prompt
 - **作者**：Coduhuey
 - **当前版本**：v1.0.0
-- **下载量**：14.3K
+- **下载量**：14.4K
 - **最后更新**：2024-03-09
 - **GitHub**：[Coduhuey/ChatGPT-Prompt-Plugin-For-Obsidian](https://github.com/Coduhuey/ChatGPT-Prompt-Plugin-For-Obsidian)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

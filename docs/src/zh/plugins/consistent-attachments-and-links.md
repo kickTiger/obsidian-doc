@@ -1,12 +1,12 @@
 ---
 title: Consistent attachments and links
-description: Move note attachments and update links automatically.
+description: 移动备注附件并自动更新链接。
 author: Dmitry Savosh
-downloads: 87988
+downloads: 88145
 updated: 1759384706000
 repo: dy-sh/obsidian-consistent-attachments-and-links
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="consistent-attachments-and-links"
   name="Consistent attachments and links"
-  description="Move note attachments and update links automatically."
+  description="移动备注附件并自动更新链接。"
   author="Dmitry Savosh"
-  :downloads="87988"
+  :downloads="88145"
   :updated="1759384706000"
   repo="dy-sh/obsidian-consistent-attachments-and-links"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Consistent attachments and links 是一个功能强大的 Obsidian 插件。
 
-Move note attachments and update links automatically.
+移动备注附件并自动更新链接。
 
 通过 Consistent attachments and links,您可以:
 
@@ -199,10 +199,10 @@ Move note attachments and update links automatically.
 - **插件 ID**：consistent-attachments-and-links
 - **作者**：Dmitry Savosh
 - **当前版本**：v1.0.0
-- **下载量**：88.0K
+- **下载量**：88.1K
 - **最后更新**：2025-10-02
 - **GitHub**：[dy-sh/obsidian-consistent-attachments-and-links](https://github.com/dy-sh/obsidian-consistent-attachments-and-links)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

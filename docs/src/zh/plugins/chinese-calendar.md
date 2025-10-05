@@ -2,11 +2,11 @@
 title: Chinese Calendar
 description: 符合中国习惯的日历，可以显示农历、节日、调休、节气等信息，支持月视图和年视图切换，支持点击日期创建笔记，支持使用QuickAdd插件创建笔记。
 author: DevilRoshan
-downloads: 6235
+downloads: 6245
 updated: 1739798630000
 repo: DevilRoshan/obsidian-lunar-calendar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Chinese Calendar"
   description="符合中国习惯的日历，可以显示农历、节日、调休、节气等信息，支持月视图和年视图切换，支持点击日期创建笔记，支持使用QuickAdd插件创建笔记。"
   author="DevilRoshan"
-  :downloads="6235"
+  :downloads="6245"
   :updated="1739798630000"
   repo="DevilRoshan/obsidian-lunar-calendar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Chinese Calendar 是一个功能强大的 Obsidian 插件。
 - **下载量**：6.2K
 - **最后更新**：2025-02-17
 - **GitHub**：[DevilRoshan/obsidian-lunar-calendar](https://github.com/DevilRoshan/obsidian-lunar-calendar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

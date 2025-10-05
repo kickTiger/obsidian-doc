@@ -1,12 +1,12 @@
 ---
 title: Tagged Documents Viewer
-description: Open a modal with scrollable content of all documents that contain a specific tag or tags.
+description: 打开一个可滚动显示包含特定标记的所有文档内容的模态窗口。
 author: Marcus Geduld
-downloads: 39746
+downloads: 39766
 updated: 1658078582000
 repo: mgeduld/obsidian-tagged-documents-viewer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-plugin-tagged-documents-viewer"
   name="Tagged Documents Viewer"
-  description="Open a modal with scrollable content of all documents that contain a specific tag or tags."
+  description="打开一个可滚动显示包含特定标记的所有文档内容的模态窗口。"
   author="Marcus Geduld"
-  :downloads="39746"
+  :downloads="39766"
   :updated="1658078582000"
   repo="mgeduld/obsidian-tagged-documents-viewer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tagged Documents Viewer 是一个功能强大的 Obsidian 插件。
 
-Open a modal with scrollable content of all documents that contain a specific tag or tags.
+打开一个可滚动显示包含特定标记的所有文档内容的模态窗口。
 
 通过 Tagged Documents Viewer,您可以:
 
@@ -199,10 +199,10 @@ Open a modal with scrollable content of all documents that contain a specific ta
 - **插件 ID**：obsidian-plugin-tagged-documents-viewer
 - **作者**：Marcus Geduld
 - **当前版本**：v1.0.0
-- **下载量**：39.7K
+- **下载量**：39.8K
 - **最后更新**：2022-07-18
 - **GitHub**：[mgeduld/obsidian-tagged-documents-viewer](https://github.com/mgeduld/obsidian-tagged-documents-viewer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

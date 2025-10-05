@@ -1,12 +1,12 @@
 ---
 title: Wikilinks to MDLinks
-description: Convert wikilinks to Markdown links and vice versa.
+description: 将维基链接转换为 Markdown 链接，反之亦然。
 author: Agatha Uy
-downloads: 19137
+downloads: 19146
 updated: 1605733486000
 repo: agathauy/wikilinks-to-mdlinks-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="wikilinks-to-mdlinks-obsidian"
   name="Wikilinks to MDLinks"
-  description="Convert wikilinks to Markdown links and vice versa."
+  description="将维基链接转换为 Markdown 链接，反之亦然。"
   author="Agatha Uy"
-  :downloads="19137"
+  :downloads="19146"
   :updated="1605733486000"
   repo="agathauy/wikilinks-to-mdlinks-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Wikilinks to MDLinks 是一个功能强大的 Obsidian 插件。
 
-Convert wikilinks to Markdown links and vice versa.
+将维基链接转换为 Markdown 链接，反之亦然。
 
 通过 Wikilinks to MDLinks,您可以:
 
@@ -202,7 +202,7 @@ Convert wikilinks to Markdown links and vice versa.
 - **下载量**：19.1K
 - **最后更新**：2020-11-19
 - **GitHub**：[agathauy/wikilinks-to-mdlinks-obsidian](https://github.com/agathauy/wikilinks-to-mdlinks-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

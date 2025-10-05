@@ -2,11 +2,11 @@
 title: MOC Link Helper
 description: Helps with some MOC janitor-linking tasks.
 author: Bogdan Codreanu
-downloads: 768
+downloads: 769
 updated: 1734358781000
 repo: BogdanCodreanu/obsidian-moc-link-helper
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="MOC Link Helper"
   description="Helps with some MOC janitor-linking tasks."
   author="Bogdan Codreanu"
-  :downloads="768"
+  :downloads="769"
   :updated="1734358781000"
   repo="BogdanCodreanu/obsidian-moc-link-helper"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Helps with some MOC janitor-linking tasks.
 - **插件 ID**：moc-link-helper
 - **作者**：Bogdan Codreanu
 - **当前版本**：v1.0.0
-- **下载量**：768
+- **下载量**：769
 - **最后更新**：2024-12-16
 - **GitHub**：[BogdanCodreanu/obsidian-moc-link-helper](https://github.com/BogdanCodreanu/obsidian-moc-link-helper)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

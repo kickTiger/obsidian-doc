@@ -2,11 +2,11 @@
 title: Smart Link Formatter
 description: Automatically fetches page metadata from pasted links, with explicit support for specific websites.
 author: ccmdi
-downloads: 360
+downloads: 364
 updated: 1750336243000
 repo: ccmdi/smart-link-formatter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Smart Link Formatter"
   description="Automatically fetches page metadata from pasted links, with explicit support for specific websites."
   author="ccmdi"
-  :downloads="360"
+  :downloads="364"
   :updated="1750336243000"
   repo="ccmdi/smart-link-formatter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically fetches page metadata from pasted links, with explicit support for
 - **插件 ID**：smart-link-formatter
 - **作者**：ccmdi
 - **当前版本**：v1.0.0
-- **下载量**：360
+- **下载量**：364
 - **最后更新**：2025-06-19
 - **GitHub**：[ccmdi/smart-link-formatter](https://github.com/ccmdi/smart-link-formatter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

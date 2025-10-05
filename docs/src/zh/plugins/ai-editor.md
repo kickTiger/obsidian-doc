@@ -1,12 +1,12 @@
 ---
 title: AI Editor
-description: Elevate your workflow with customizable LLM actions.
+description: 利用可定制的 LLM 操作提升工作流程。
 author: Zekun Shen
 downloads: 5967
 updated: 1736140521000
 repo: buszk/obsidian-ai-editor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ai-editor"
   name="AI Editor"
-  description="Elevate your workflow with customizable LLM actions."
+  description="利用可定制的 LLM 操作提升工作流程。"
   author="Zekun Shen"
   :downloads="5967"
   :updated="1736140521000"
   repo="buszk/obsidian-ai-editor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AI Editor 是一个功能强大的 Obsidian 插件。
 
-Elevate your workflow with customizable LLM actions.
+利用可定制的 LLM 操作提升工作流程。
 
 通过 AI Editor,您可以:
 
@@ -202,7 +202,7 @@ Elevate your workflow with customizable LLM actions.
 - **下载量**：6.0K
 - **最后更新**：2025-01-06
 - **GitHub**：[buszk/obsidian-ai-editor](https://github.com/buszk/obsidian-ai-editor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

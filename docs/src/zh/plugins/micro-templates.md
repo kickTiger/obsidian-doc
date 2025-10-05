@@ -1,12 +1,12 @@
 ---
 title: Micro templates
-description: Flexible embedded micro templates powered by Javascript functions.
+description: 灵活的嵌入式微型模板由 Javascript 功能驱动。
 author: epszaw
-downloads: 3762
+downloads: 3763
 updated: 1690750757000
 repo: epszaw/obsidian-micro-templates
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="micro-templates"
   name="Micro templates"
-  description="Flexible embedded micro templates powered by Javascript functions."
+  description="灵活的嵌入式微型模板由 Javascript 功能驱动。"
   author="epszaw"
-  :downloads="3762"
+  :downloads="3763"
   :updated="1690750757000"
   repo="epszaw/obsidian-micro-templates"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Micro templates 是一个功能强大的 Obsidian 插件。
 
-Flexible embedded micro templates powered by Javascript functions.
+灵活的嵌入式微型模板由 Javascript 功能驱动。
 
 通过 Micro templates,您可以:
 
@@ -202,7 +202,7 @@ Flexible embedded micro templates powered by Javascript functions.
 - **下载量**：3.8K
 - **最后更新**：2023-07-31
 - **GitHub**：[epszaw/obsidian-micro-templates](https://github.com/epszaw/obsidian-micro-templates)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

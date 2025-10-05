@@ -2,11 +2,11 @@
 title: Blueprint Renderer
 description: Render Unreal Engine Blueprint nodes as interactive visual diagrams using BlueprintUE rendering engine
 author: goderyu
-downloads: 260
+downloads: 263
 updated: 1754125012000
 repo: goderyu/obsidian-blueprint-renderer
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Blueprint Renderer"
   description="Render Unreal Engine Blueprint nodes as interactive visual diagrams using BlueprintUE rendering engine"
   author="goderyu"
-  :downloads="260"
+  :downloads="263"
   :updated="1754125012000"
   repo="goderyu/obsidian-blueprint-renderer"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Render Unreal Engine Blueprint nodes as interactive visual diagrams using Bluepr
 - **插件 ID**：blueprint-renderer
 - **作者**：goderyu
 - **当前版本**：v1.0.0
-- **下载量**：260
+- **下载量**：263
 - **最后更新**：2025-08-02
 - **GitHub**：[goderyu/obsidian-blueprint-renderer](https://github.com/goderyu/obsidian-blueprint-renderer)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

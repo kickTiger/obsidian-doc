@@ -1,12 +1,12 @@
 ---
 title: Smart Random Note
-description: Open random notes with greater control.
+description: 以更强的控制力打开随机音符
 author: Eric Hall
-downloads: 67402
+downloads: 67464
 updated: 1625751354000
 repo: erichalldev/obsidian-smart-random-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smart-random-note"
   name="Smart Random Note"
-  description="Open random notes with greater control."
+  description="以更强的控制力打开随机音符"
   author="Eric Hall"
-  :downloads="67402"
+  :downloads="67464"
   :updated="1625751354000"
   repo="erichalldev/obsidian-smart-random-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Random Note 是一个功能强大的 Obsidian 插件。
 
-Open random notes with greater control.
+以更强的控制力打开随机音符
 
 通过 Smart Random Note,您可以:
 
@@ -199,10 +199,10 @@ Open random notes with greater control.
 - **插件 ID**：smart-random-note
 - **作者**：Eric Hall
 - **当前版本**：v1.0.0
-- **下载量**：67.4K
+- **下载量**：67.5K
 - **最后更新**：2021-07-08
 - **GitHub**：[erichalldev/obsidian-smart-random-note](https://github.com/erichalldev/obsidian-smart-random-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 92
 updated: 1754119260000
 repo: awfrok/obsidian-plugin-bibtex-entry-view
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1754119260000"
   repo="awfrok/obsidian-plugin-bibtex-entry-view"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Load the bibtex entry of a given bibkey from a given bib file and show the entry
 - **下载量**：92
 - **最后更新**：2025-08-02
 - **GitHub**：[awfrok/obsidian-plugin-bibtex-entry-view](https://github.com/awfrok/obsidian-plugin-bibtex-entry-view)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

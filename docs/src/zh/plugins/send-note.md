@@ -6,7 +6,7 @@ downloads: 214
 updated: 1734548428000
 repo: jvsteiner/send-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1734548428000"
   repo="jvsteiner/send-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Instantly send a note, to other users so they can import them into their vault v
 - **下载量**：214
 - **最后更新**：2024-12-19
 - **GitHub**：[jvsteiner/send-note](https://github.com/jvsteiner/send-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

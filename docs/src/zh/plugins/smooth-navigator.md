@@ -2,11 +2,11 @@
 title: Smooth Navigator
 description: Smoothly cycle through open files and splits via the keyboard.
 author: Michael Schrauzer
-downloads: 385
+downloads: 388
 updated: 1755490250000
 repo: gasparschott/smooth-navigator
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Smooth Navigator"
   description="Smoothly cycle through open files and splits via the keyboard."
   author="Michael Schrauzer"
-  :downloads="385"
+  :downloads="388"
   :updated="1755490250000"
   repo="gasparschott/smooth-navigator"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Smoothly cycle through open files and splits via the keyboard.
 - **插件 ID**：smooth-navigator
 - **作者**：Michael Schrauzer
 - **当前版本**：v1.0.0
-- **下载量**：385
+- **下载量**：388
 - **最后更新**：2025-08-18
 - **GitHub**：[gasparschott/smooth-navigator](https://github.com/gasparschott/smooth-navigator)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

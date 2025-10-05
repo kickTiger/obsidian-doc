@@ -1,12 +1,12 @@
 ---
 title: Open cards in imdone.
-description: Open cards in imdone kanban from their source in Obsidian.
+description: 从黑曜石中的源代码打开 imdone kanban 中的卡片。
 author: saxmanjes
-downloads: 5605
+downloads: 5606
 updated: 1737433060000
 repo: imdone/imdone-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="imdone-obsidian-plugin"
   name="Open cards in imdone."
-  description="Open cards in imdone kanban from their source in Obsidian."
+  description="从黑曜石中的源代码打开 imdone kanban 中的卡片。"
   author="saxmanjes"
-  :downloads="5605"
+  :downloads="5606"
   :updated="1737433060000"
   repo="imdone/imdone-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Open cards in imdone. 是一个功能强大的 Obsidian 插件。
 
-Open cards in imdone kanban from their source in Obsidian.
+从黑曜石中的源代码打开 imdone kanban 中的卡片。
 
 通过 Open cards in imdone.,您可以:
 
@@ -202,7 +202,7 @@ Open cards in imdone kanban from their source in Obsidian.
 - **下载量**：5.6K
 - **最后更新**：2025-01-21
 - **GitHub**：[imdone/imdone-obsidian-plugin](https://github.com/imdone/imdone-obsidian-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

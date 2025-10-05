@@ -1,12 +1,12 @@
 ---
 title: AI Tagger Universe
-description: Automatically analyze note content and add relevant tags using AI
+description: 利用人工智能自动分析笔记内容并添加相关标签
 author: Hu Nie
-downloads: 4195
+downloads: 4211
 updated: 1758030141000
 repo: niehu2018/obsidian-ai-tagger-universe
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ai-tagger-universe"
   name="AI Tagger Universe"
-  description="Automatically analyze note content and add relevant tags using AI"
+  description="利用人工智能自动分析笔记内容并添加相关标签"
   author="Hu Nie"
-  :downloads="4195"
+  :downloads="4211"
   :updated="1758030141000"
   repo="niehu2018/obsidian-ai-tagger-universe"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AI Tagger Universe 是一个功能强大的 Obsidian 插件。
 
-Automatically analyze note content and add relevant tags using AI
+利用人工智能自动分析笔记内容并添加相关标签
 
 通过 AI Tagger Universe,您可以:
 
@@ -202,7 +202,7 @@ Automatically analyze note content and add relevant tags using AI
 - **下载量**：4.2K
 - **最后更新**：2025-09-16
 - **GitHub**：[niehu2018/obsidian-ai-tagger-universe](https://github.com/niehu2018/obsidian-ai-tagger-universe)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

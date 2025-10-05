@@ -1,12 +1,12 @@
 ---
 title: Sheet Plus
-description: Create Excel-like spreadsheets and easily embed them in Markdown.
+description: 创建类似 Excel 的电子表格，并轻松嵌入 Markdown。
 author: ljcoder
-downloads: 75783
+downloads: 76068
 updated: 1759467512000
 repo: ljcoder2015/obsidian-sheet-plus
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="sheet-plus"
   name="Sheet Plus"
-  description="Create Excel-like spreadsheets and easily embed them in Markdown."
+  description="创建类似 Excel 的电子表格，并轻松嵌入 Markdown。"
   author="ljcoder"
-  :downloads="75783"
+  :downloads="76068"
   :updated="1759467512000"
   repo="ljcoder2015/obsidian-sheet-plus"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sheet Plus 是一个功能强大的 Obsidian 插件。
 
-Create Excel-like spreadsheets and easily embed them in Markdown.
+创建类似 Excel 的电子表格，并轻松嵌入 Markdown。
 
 通过 Sheet Plus,您可以:
 
@@ -199,10 +199,10 @@ Create Excel-like spreadsheets and easily embed them in Markdown.
 - **插件 ID**：sheet-plus
 - **作者**：ljcoder
 - **当前版本**：v1.0.0
-- **下载量**：75.8K
+- **下载量**：76.1K
 - **最后更新**：2025-10-03
 - **GitHub**：[ljcoder2015/obsidian-sheet-plus](https://github.com/ljcoder2015/obsidian-sheet-plus)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

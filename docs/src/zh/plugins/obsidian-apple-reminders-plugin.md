@@ -1,12 +1,12 @@
 ---
 title: Apple Reminders
-description: Import Apple Reminders.
+description: 导入 Apple 备忘录
 author: Rishi Raval
-downloads: 12458
+downloads: 12464
 updated: 1663059570000
 repo: urishiraval/obsidian-apple-reminders-plugin
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-apple-reminders-plugin"
   name="Apple Reminders"
-  description="Import Apple Reminders."
+  description="导入 Apple 备忘录"
   author="Rishi Raval"
-  :downloads="12458"
+  :downloads="12464"
   :updated="1663059570000"
   repo="urishiraval/obsidian-apple-reminders-plugin"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Apple Reminders 是一个功能强大的 Obsidian 插件。
 
-Import Apple Reminders.
+导入 Apple 备忘录
 
 通过 Apple Reminders,您可以:
 
@@ -202,7 +202,7 @@ Import Apple Reminders.
 - **下载量**：12.5K
 - **最后更新**：2022-09-13
 - **GitHub**：[urishiraval/obsidian-apple-reminders-plugin](https://github.com/urishiraval/obsidian-apple-reminders-plugin)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

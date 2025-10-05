@@ -2,11 +2,11 @@
 title: Serendipity
 description: Forces serendipitous discoveries by displaying random notes from your vault each time you open the app
 author: Gaurav Ramesh
-downloads: 733
+downloads: 734
 updated: 1722580090000
 repo: ggauravr/obsidian-serendipity-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Serendipity"
   description="Forces serendipitous discoveries by displaying random notes from your vault each time you open the app"
   author="Gaurav Ramesh"
-  :downloads="733"
+  :downloads="734"
   :updated="1722580090000"
   repo="ggauravr/obsidian-serendipity-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Forces serendipitous discoveries by displaying random notes from your vault each
 - **插件 ID**：serendipity
 - **作者**：Gaurav Ramesh
 - **当前版本**：v1.0.0
-- **下载量**：733
+- **下载量**：734
 - **最后更新**：2024-08-02
 - **GitHub**：[ggauravr/obsidian-serendipity-plugin](https://github.com/ggauravr/obsidian-serendipity-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

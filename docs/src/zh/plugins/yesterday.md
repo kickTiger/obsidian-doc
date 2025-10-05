@@ -1,12 +1,12 @@
 ---
 title: Yesterday
-description: Transform your notes into a visually stunning diary, integrating dialogs, chat logs, and media content blocks for a seamless journaling experience.
+description: 将你的笔记转化为视觉效果极佳的日记，整合对话框、聊天记录和媒体内容块，带来无缝的日记体验。
 author: Dominik Mayer
-downloads: 5242
+downloads: 5247
 updated: 1756055499000
 repo: dominikmayer/obsidian-yesterday
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="yesterday"
   name="Yesterday"
-  description="Transform your notes into a visually stunning diary, integrating dialogs, chat logs, and media content blocks for a seamless journaling experience."
+  description="将你的笔记转化为视觉效果极佳的日记，整合对话框、聊天记录和媒体内容块，带来无缝的日记体验。"
   author="Dominik Mayer"
-  :downloads="5242"
+  :downloads="5247"
   :updated="1756055499000"
   repo="dominikmayer/obsidian-yesterday"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Yesterday 是一个功能强大的 Obsidian 插件。
 
-Transform your notes into a visually stunning diary, integrating dialogs, chat logs, and media content blocks for a seamless journaling experience.
+将你的笔记转化为视觉效果极佳的日记，整合对话框、聊天记录和媒体内容块，带来无缝的日记体验。
 
 通过 Yesterday,您可以:
 
@@ -202,7 +202,7 @@ Transform your notes into a visually stunning diary, integrating dialogs, chat l
 - **下载量**：5.2K
 - **最后更新**：2025-08-25
 - **GitHub**：[dominikmayer/obsidian-yesterday](https://github.com/dominikmayer/obsidian-yesterday)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

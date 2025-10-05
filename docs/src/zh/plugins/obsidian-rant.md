@@ -1,12 +1,12 @@
 ---
 title: Rant-Lang
-description: Thin wrapper around the high-level procedural templating language Rant.
+description: 高级程序模板语言 Rant 的精简封装。
 author: Leander Neiß
 downloads: 4250
 updated: 1644739867000
 repo: lanice/obsidian-rant
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-rant"
   name="Rant-Lang"
-  description="Thin wrapper around the high-level procedural templating language Rant."
+  description="高级程序模板语言 Rant 的精简封装。"
   author="Leander Neiß"
   :downloads="4250"
   :updated="1644739867000"
   repo="lanice/obsidian-rant"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Rant-Lang 是一个功能强大的 Obsidian 插件。
 
-Thin wrapper around the high-level procedural templating language Rant.
+高级程序模板语言 Rant 的精简封装。
 
 通过 Rant-Lang,您可以:
 
@@ -202,7 +202,7 @@ Thin wrapper around the high-level procedural templating language Rant.
 - **下载量**：4.3K
 - **最后更新**：2022-02-13
 - **GitHub**：[lanice/obsidian-rant](https://github.com/lanice/obsidian-rant)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

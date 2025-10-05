@@ -2,11 +2,11 @@
 title: Clipper Catalog
 description: A catalog view of all the clippings gathered with a common source property.
 author: Greg K.
-downloads: 1969
+downloads: 1970
 updated: 1745100664000
 repo: soundslikeinfo/obsidian-clipper-catalog
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Clipper Catalog"
   description="A catalog view of all the clippings gathered with a common source property."
   author="Greg K."
-  :downloads="1969"
+  :downloads="1970"
   :updated="1745100664000"
   repo="soundslikeinfo/obsidian-clipper-catalog"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ A catalog view of all the clippings gathered with a common source property.
 - **下载量**：2.0K
 - **最后更新**：2025-04-20
 - **GitHub**：[soundslikeinfo/obsidian-clipper-catalog](https://github.com/soundslikeinfo/obsidian-clipper-catalog)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

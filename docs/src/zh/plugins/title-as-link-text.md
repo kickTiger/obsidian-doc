@@ -2,11 +2,11 @@
 title: Title As Link Text
 description: Automatically updates link text to use note titles instead of filenames.
 author: Lex Toumbourou
-downloads: 1496
-updated: 1743293668000
+downloads: 1511
+updated: 1759564834000
 repo: lextoumbourou/obsidian-title-as-link-text
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Title As Link Text"
   description="Automatically updates link text to use note titles instead of filenames."
   author="Lex Toumbourou"
-  :downloads="1496"
-  :updated="1743293668000"
+  :downloads="1511"
+  :updated="1759564834000"
   repo="lextoumbourou/obsidian-title-as-link-text"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -181,7 +181,7 @@ Automatically updates link text to use note titles instead of filenames.
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-03-30
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/lextoumbourou/obsidian-title-as-link-text/releases) 查看详细更新日志
@@ -200,9 +200,9 @@ Automatically updates link text to use note titles instead of filenames.
 - **作者**：Lex Toumbourou
 - **当前版本**：v1.0.0
 - **下载量**：1.5K
-- **最后更新**：2025-03-30
+- **最后更新**：2025-10-04
 - **GitHub**：[lextoumbourou/obsidian-title-as-link-text](https://github.com/lextoumbourou/obsidian-title-as-link-text)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

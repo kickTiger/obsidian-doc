@@ -1,12 +1,12 @@
 ---
 title: Reveal Active File Button
-description: Add a button to the top of the File Explorer, to reveal the active file.
+description: 在文件资源管理器顶部添加一个按钮，以显示活动文件。
 author: Clare Macrae
-downloads: 14332
+downloads: 14338
 updated: 1678651900000
 repo: claremacrae/reveal-active-file-button-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="reveal-active-file-button"
   name="Reveal Active File Button"
-  description="Add a button to the top of the File Explorer, to reveal the active file."
+  description="在文件资源管理器顶部添加一个按钮，以显示活动文件。"
   author="Clare Macrae"
-  :downloads="14332"
+  :downloads="14338"
   :updated="1678651900000"
   repo="claremacrae/reveal-active-file-button-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Reveal Active File Button 是一个功能强大的 Obsidian 插件。
 
-Add a button to the top of the File Explorer, to reveal the active file.
+在文件资源管理器顶部添加一个按钮，以显示活动文件。
 
 通过 Reveal Active File Button,您可以:
 
@@ -202,7 +202,7 @@ Add a button to the top of the File Explorer, to reveal the active file.
 - **下载量**：14.3K
 - **最后更新**：2023-03-13
 - **GitHub**：[claremacrae/reveal-active-file-button-plugin](https://github.com/claremacrae/reveal-active-file-button-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

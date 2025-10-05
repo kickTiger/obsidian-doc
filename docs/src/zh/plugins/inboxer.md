@@ -6,7 +6,7 @@ downloads: 135
 updated: 1746564809000
 repo: eoinhurrell/obsidian-inboxer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1746564809000"
   repo="eoinhurrell/obsidian-inboxer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds commands to quickly add entries to INBOX and TIMELINE sections of notes
 - **下载量**：135
 - **最后更新**：2025-05-07
 - **GitHub**：[eoinhurrell/obsidian-inboxer](https://github.com/eoinhurrell/obsidian-inboxer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: My Thesaurus
 description: Automagically adds tags based on a simple csv file or a Markdown table.
 author: Mara-Li
-downloads: 402
+downloads: 405
 updated: 1740655451000
 repo: Mara-Li/obsidian-my-thesaurus
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="My Thesaurus"
   description="Automagically adds tags based on a simple csv file or a Markdown table."
   author="Mara-Li"
-  :downloads="402"
+  :downloads="405"
   :updated="1740655451000"
   repo="Mara-Li/obsidian-my-thesaurus"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automagically adds tags based on a simple csv file or a Markdown table.
 - **插件 ID**：my-thesaurus
 - **作者**：Mara-Li
 - **当前版本**：v1.0.0
-- **下载量**：402
+- **下载量**：405
 - **最后更新**：2025-02-27
 - **GitHub**：[Mara-Li/obsidian-my-thesaurus](https://github.com/Mara-Li/obsidian-my-thesaurus)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

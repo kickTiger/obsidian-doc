@@ -1,12 +1,12 @@
 ---
 title: Etherpad Lite
-description: Copy and sync notes with an Etherpad Lite server to unlock easy web-based collaboration with others.
+description: 通过 Etherpad Lite 服务器复制和同步笔记，轻松实现与他人的网络协作。
 author: egradman
 downloads: 4382
 updated: 1647898452000
 repo: egradman/obsidian-etherpad-lite
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-etherpad-plugin"
   name="Etherpad Lite"
-  description="Copy and sync notes with an Etherpad Lite server to unlock easy web-based collaboration with others."
+  description="通过 Etherpad Lite 服务器复制和同步笔记，轻松实现与他人的网络协作。"
   author="egradman"
   :downloads="4382"
   :updated="1647898452000"
   repo="egradman/obsidian-etherpad-lite"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Etherpad Lite 是一个功能强大的 Obsidian 插件。
 
-Copy and sync notes with an Etherpad Lite server to unlock easy web-based collaboration with others.
+通过 Etherpad Lite 服务器复制和同步笔记，轻松实现与他人的网络协作。
 
 通过 Etherpad Lite,您可以:
 
@@ -202,7 +202,7 @@ Copy and sync notes with an Etherpad Lite server to unlock easy web-based collab
 - **下载量**：4.4K
 - **最后更新**：2022-03-22
 - **GitHub**：[egradman/obsidian-etherpad-lite](https://github.com/egradman/obsidian-etherpad-lite)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

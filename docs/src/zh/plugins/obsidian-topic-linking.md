@@ -1,12 +1,12 @@
 ---
 title: Topic Linking
-description: Convert PDF files and web links to Markdown, and create topics from Markdown.
+description: 将 PDF 文件和网络链接转换为 Markdown，并从 Markdown 创建主题。
 author: Liam Magee
-downloads: 23166
+downloads: 23172
 updated: 1713926320000
 repo: liammagee/obsidian-topic-linking
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-topic-linking"
   name="Topic Linking"
-  description="Convert PDF files and web links to Markdown, and create topics from Markdown."
+  description="将 PDF 文件和网络链接转换为 Markdown，并从 Markdown 创建主题。"
   author="Liam Magee"
-  :downloads="23166"
+  :downloads="23172"
   :updated="1713926320000"
   repo="liammagee/obsidian-topic-linking"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Topic Linking 是一个功能强大的 Obsidian 插件。
 
-Convert PDF files and web links to Markdown, and create topics from Markdown.
+将 PDF 文件和网络链接转换为 Markdown，并从 Markdown 创建主题。
 
 通过 Topic Linking,您可以:
 
@@ -202,7 +202,7 @@ Convert PDF files and web links to Markdown, and create topics from Markdown.
 - **下载量**：23.2K
 - **最后更新**：2024-04-24
 - **GitHub**：[liammagee/obsidian-topic-linking](https://github.com/liammagee/obsidian-topic-linking)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

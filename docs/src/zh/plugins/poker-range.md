@@ -6,7 +6,7 @@ downloads: 254
 updated: 1725505146000
 repo: marplek/obsidian-poker-range
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1725505146000"
   repo="marplek/obsidian-poker-range"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create a poker range grid
 - **下载量**：254
 - **最后更新**：2024-09-05
 - **GitHub**：[marplek/obsidian-poker-range](https://github.com/marplek/obsidian-poker-range)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Lemons Search
-description: A blazingly fast fuzzy finder with file preview.
+description: 快速模糊查找器，带文件预览功能。
 author: Moritz Jung
-downloads: 3723
+downloads: 3724
 updated: 1756252756000
 repo: mProjectsCode/obsidian-lemons-search-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="lemons-search"
   name="Lemons Search"
-  description="A blazingly fast fuzzy finder with file preview."
+  description="快速模糊查找器，带文件预览功能。"
   author="Moritz Jung"
-  :downloads="3723"
+  :downloads="3724"
   :updated="1756252756000"
   repo="mProjectsCode/obsidian-lemons-search-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Lemons Search 是一个功能强大的 Obsidian 插件。
 
-A blazingly fast fuzzy finder with file preview.
+快速模糊查找器，带文件预览功能。
 
 通过 Lemons Search,您可以:
 
@@ -202,7 +202,7 @@ A blazingly fast fuzzy finder with file preview.
 - **下载量**：3.7K
 - **最后更新**：2025-08-27
 - **GitHub**：[mProjectsCode/obsidian-lemons-search-plugin](https://github.com/mProjectsCode/obsidian-lemons-search-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

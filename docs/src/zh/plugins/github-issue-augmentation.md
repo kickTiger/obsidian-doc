@@ -1,12 +1,12 @@
 ---
 title: GitHub Issue Augmentation
-description: Augment GitHub issue IDs.
+description: 增强 GitHub 问题 ID。
 author: samprintz
-downloads: 3679
+downloads: 3680
 updated: 1697303481000
 repo: samprintz/obsidian-issue-augmentation-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="github-issue-augmentation"
   name="GitHub Issue Augmentation"
-  description="Augment GitHub issue IDs."
+  description="增强 GitHub 问题 ID。"
   author="samprintz"
-  :downloads="3679"
+  :downloads="3680"
   :updated="1697303481000"
   repo="samprintz/obsidian-issue-augmentation-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 GitHub Issue Augmentation 是一个功能强大的 Obsidian 插件。
 
-Augment GitHub issue IDs.
+增强 GitHub 问题 ID。
 
 通过 GitHub Issue Augmentation,您可以:
 
@@ -202,7 +202,7 @@ Augment GitHub issue IDs.
 - **下载量**：3.7K
 - **最后更新**：2023-10-15
 - **GitHub**：[samprintz/obsidian-issue-augmentation-plugin](https://github.com/samprintz/obsidian-issue-augmentation-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

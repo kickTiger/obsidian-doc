@@ -6,7 +6,7 @@ downloads: 186
 updated: 1756780437000
 repo: awaken233/open-in-cursor
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1756780437000"
   repo="awaken233/open-in-cursor"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add a hotkey to open the current file in Cursor IDE and jump to the cursor posit
 - **下载量**：186
 - **最后更新**：2025-09-02
 - **GitHub**：[awaken233/open-in-cursor](https://github.com/awaken233/open-in-cursor)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

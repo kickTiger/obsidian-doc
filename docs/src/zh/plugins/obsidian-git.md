@@ -1,12 +1,12 @@
 ---
 title: Git
-description: Integrate Git version control with automatic backup and other advanced features.
+description: 集成 Git 版本控制，支持自动备份和其他高级功能。
 author: Vinzent, (Denis Olehov)
-downloads: 1840858
+downloads: 1842533
 updated: 1758323107000
 repo: Vinzent03/obsidian-git
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-git"
   name="Git"
-  description="Integrate Git version control with automatic backup and other advanced features."
+  description="集成 Git 版本控制，支持自动备份和其他高级功能。"
   author="Vinzent, (Denis Olehov)"
-  :downloads="1840858"
+  :downloads="1842533"
   :updated="1758323107000"
   repo="Vinzent03/obsidian-git"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Git 是一个功能强大的 Obsidian 插件。
 
-Integrate Git version control with automatic backup and other advanced features.
+集成 Git 版本控制，支持自动备份和其他高级功能。
 
 通过 Git,您可以:
 
@@ -202,7 +202,7 @@ Integrate Git version control with automatic backup and other advanced features.
 - **下载量**：1.84M
 - **最后更新**：2025-09-20
 - **GitHub**：[Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

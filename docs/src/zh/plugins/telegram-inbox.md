@@ -1,12 +1,12 @@
 ---
 title: Telegram Inbox
-description: Receive messages from Telegram bot and add them to daily note.
+description: 接收来自 Telegram 机器人的信息，并将其添加到每日备忘中。
 author: icealtria
-downloads: 4199
+downloads: 4203
 updated: 1751161310000
 repo: icealtria/obsidian-telegram-inbox
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="telegram-inbox"
   name="Telegram Inbox"
-  description="Receive messages from Telegram bot and add them to daily note."
+  description="接收来自 Telegram 机器人的信息，并将其添加到每日备忘中。"
   author="icealtria"
-  :downloads="4199"
+  :downloads="4203"
   :updated="1751161310000"
   repo="icealtria/obsidian-telegram-inbox"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Telegram Inbox 是一个功能强大的 Obsidian 插件。
 
-Receive messages from Telegram bot and add them to daily note.
+接收来自 Telegram 机器人的信息，并将其添加到每日备忘中。
 
 通过 Telegram Inbox,您可以:
 
@@ -202,7 +202,7 @@ Receive messages from Telegram bot and add them to daily note.
 - **下载量**：4.2K
 - **最后更新**：2025-06-29
 - **GitHub**：[icealtria/obsidian-telegram-inbox](https://github.com/icealtria/obsidian-telegram-inbox)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

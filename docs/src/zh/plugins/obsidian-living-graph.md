@@ -1,12 +1,12 @@
 ---
 title: Living Graph
-description: A for-fun graph plugin.
+description: 好玩的图形插件
 author: Garrett
-downloads: 12132
+downloads: 12136
 updated: 1645776495000
 repo: geoffreysflaminglasersword/obsidian-living-graph
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-living-graph"
   name="Living Graph"
-  description="A for-fun graph plugin."
+  description="好玩的图形插件"
   author="Garrett"
-  :downloads="12132"
+  :downloads="12136"
   :updated="1645776495000"
   repo="geoffreysflaminglasersword/obsidian-living-graph"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Living Graph 是一个功能强大的 Obsidian 插件。
 
-A for-fun graph plugin.
+好玩的图形插件
 
 通过 Living Graph,您可以:
 
@@ -202,7 +202,7 @@ A for-fun graph plugin.
 - **下载量**：12.1K
 - **最后更新**：2022-02-25
 - **GitHub**：[geoffreysflaminglasersword/obsidian-living-graph](https://github.com/geoffreysflaminglasersword/obsidian-living-graph)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

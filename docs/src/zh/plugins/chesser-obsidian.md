@@ -1,12 +1,12 @@
 ---
 title: Chesser
-description: A chess game viewer/editor.
+description: 棋局查看器/编辑器
 author: SilentVoid
-downloads: 11319
+downloads: 11330
 updated: 1646554568000
 repo: SilentVoid13/Chesser
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chesser-obsidian"
   name="Chesser"
-  description="A chess game viewer/editor."
+  description="棋局查看器/编辑器"
   author="SilentVoid"
-  :downloads="11319"
+  :downloads="11330"
   :updated="1646554568000"
   repo="SilentVoid13/Chesser"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chesser 是一个功能强大的 Obsidian 插件。
 
-A chess game viewer/editor.
+棋局查看器/编辑器
 
 通过 Chesser,您可以:
 
@@ -202,7 +202,7 @@ A chess game viewer/editor.
 - **下载量**：11.3K
 - **最后更新**：2022-03-06
 - **GitHub**：[SilentVoid13/Chesser](https://github.com/SilentVoid13/Chesser)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

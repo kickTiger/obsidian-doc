@@ -2,11 +2,11 @@
 title: AWS DynamoDB
 description: Query AWS DynamoDB and render tables inside documents.
 author: Lee Nattress
-downloads: 3493
+downloads: 3494
 updated: 1668368623000
 repo: leenattress/obsidian-plugin-dynamodb
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="AWS DynamoDB"
   description="Query AWS DynamoDB and render tables inside documents."
   author="Lee Nattress"
-  :downloads="3493"
+  :downloads="3494"
   :updated="1668368623000"
   repo="leenattress/obsidian-plugin-dynamodb"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Query AWS DynamoDB and render tables inside documents.
 - **下载量**：3.5K
 - **最后更新**：2022-11-14
 - **GitHub**：[leenattress/obsidian-plugin-dynamodb](https://github.com/leenattress/obsidian-plugin-dynamodb)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: CSV Codeblock
-description: Render code blocks with CSV format.
+description: 使用 CSV 格式渲染代码块。
 author: elrindir
-downloads: 4735
+downloads: 4738
 updated: 1721288773000
 repo: elrindir/obsidian-csv-codeblock
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="csv-codeblock"
   name="CSV Codeblock"
-  description="Render code blocks with CSV format."
+  description="使用 CSV 格式渲染代码块。"
   author="elrindir"
-  :downloads="4735"
+  :downloads="4738"
   :updated="1721288773000"
   repo="elrindir/obsidian-csv-codeblock"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 CSV Codeblock 是一个功能强大的 Obsidian 插件。
 
-Render code blocks with CSV format.
+使用 CSV 格式渲染代码块。
 
 通过 CSV Codeblock,您可以:
 
@@ -202,7 +202,7 @@ Render code blocks with CSV format.
 - **下载量**：4.7K
 - **最后更新**：2024-07-18
 - **GitHub**：[elrindir/obsidian-csv-codeblock](https://github.com/elrindir/obsidian-csv-codeblock)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

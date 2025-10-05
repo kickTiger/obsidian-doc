@@ -1,12 +1,12 @@
 ---
 title: Shortcuts extender
-description: Use shortcuts for input special symbols without language switching.
+description: 使用快捷键输入特殊符号，无需切换语言。
 author: kitchenrunner
-downloads: 24627
+downloads: 24633
 updated: 1647208018000
 repo: ryjjin/Obsidian-shortcuts-extender
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="shortcuts-extender"
   name="Shortcuts extender"
-  description="Use shortcuts for input special symbols without language switching."
+  description="使用快捷键输入特殊符号，无需切换语言。"
   author="kitchenrunner"
-  :downloads="24627"
+  :downloads="24633"
   :updated="1647208018000"
   repo="ryjjin/Obsidian-shortcuts-extender"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Shortcuts extender 是一个功能强大的 Obsidian 插件。
 
-Use shortcuts for input special symbols without language switching.
+使用快捷键输入特殊符号，无需切换语言。
 
 通过 Shortcuts extender,您可以:
 
@@ -202,7 +202,7 @@ Use shortcuts for input special symbols without language switching.
 - **下载量**：24.6K
 - **最后更新**：2022-03-14
 - **GitHub**：[ryjjin/Obsidian-shortcuts-extender](https://github.com/ryjjin/Obsidian-shortcuts-extender)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

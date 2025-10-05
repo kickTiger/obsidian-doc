@@ -2,11 +2,11 @@
 title: Tab Group Arrangement
 description: Arrange the tab group in a more flexible way. For now, it supports arranging evenly and expanded like VSCode. User can make action and switch mode of arrangement by clicking the status bar or executing commands.
 author: situ2001
-downloads: 453
+downloads: 456
 updated: 1740633116000
 repo: situ2001/obsidian-tab-group-arrangement
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tab Group Arrangement"
   description="Arrange the tab group in a more flexible way. For now, it supports arranging evenly and expanded like VSCode. User can make action and switch mode of arrangement by clicking the status bar or executing commands."
   author="situ2001"
-  :downloads="453"
+  :downloads="456"
   :updated="1740633116000"
   repo="situ2001/obsidian-tab-group-arrangement"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Arrange the tab group in a more flexible way. For now, it supports arranging eve
 - **插件 ID**：tab-group-arrangement
 - **作者**：situ2001
 - **当前版本**：v1.0.0
-- **下载量**：453
+- **下载量**：456
 - **最后更新**：2025-02-27
 - **GitHub**：[situ2001/obsidian-tab-group-arrangement](https://github.com/situ2001/obsidian-tab-group-arrangement)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

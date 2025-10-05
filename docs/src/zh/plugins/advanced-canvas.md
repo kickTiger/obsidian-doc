@@ -1,12 +1,12 @@
 ---
 title: Advanced Canvas
-description: Supercharge your canvas experience. Create presentations, flowcharts and more.
+description: 增强画布体验。创建演示文稿、流程图等。
 author: Developer-Mike
-downloads: 345699
+downloads: 346544
 updated: 1759074251000
 repo: Developer-Mike/obsidian-advanced-canvas
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="advanced-canvas"
   name="Advanced Canvas"
-  description="Supercharge your canvas experience. Create presentations, flowcharts and more."
+  description="增强画布体验。创建演示文稿、流程图等。"
   author="Developer-Mike"
-  :downloads="345699"
+  :downloads="346544"
   :updated="1759074251000"
   repo="Developer-Mike/obsidian-advanced-canvas"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Advanced Canvas 是一个功能强大的 Obsidian 插件。
 
-Supercharge your canvas experience. Create presentations, flowcharts and more.
+增强画布体验。创建演示文稿、流程图等。
 
 通过 Advanced Canvas,您可以:
 
@@ -199,10 +199,10 @@ Supercharge your canvas experience. Create presentations, flowcharts and more.
 - **插件 ID**：advanced-canvas
 - **作者**：Developer-Mike
 - **当前版本**：v1.0.0
-- **下载量**：345.7K
+- **下载量**：346.5K
 - **最后更新**：2025-09-28
 - **GitHub**：[Developer-Mike/obsidian-advanced-canvas](https://github.com/Developer-Mike/obsidian-advanced-canvas)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

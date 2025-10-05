@@ -2,11 +2,11 @@
 title: Minimal Quiz
 description: 'Start a quick Markdown-based quiz on your current note. Simple, straightforward, and fully integrated — similar to flashcards in Anki or Quizlet!'
 author: Lutu-gl
-downloads: 465
+downloads: 468
 updated: 1743713200000
 repo: Lutu-gl/Obsidian-Minimal-Quiz
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Minimal Quiz"
   description="Start a quick Markdown-based quiz on your current note. Simple, straightforward, and fully integrated — similar to flashcards in Anki or Quizlet!"
   author="Lutu-gl"
-  :downloads="465"
+  :downloads="468"
   :updated="1743713200000"
   repo="Lutu-gl/Obsidian-Minimal-Quiz"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Start a quick Markdown-based quiz on your current note. Simple, straightforward,
 - **插件 ID**：minimal-quiz
 - **作者**：Lutu-gl
 - **当前版本**：v1.0.0
-- **下载量**：465
+- **下载量**：468
 - **最后更新**：2025-04-04
 - **GitHub**：[Lutu-gl/Obsidian-Minimal-Quiz](https://github.com/Lutu-gl/Obsidian-Minimal-Quiz)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

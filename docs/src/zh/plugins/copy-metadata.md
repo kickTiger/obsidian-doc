@@ -2,11 +2,11 @@
 title: Copy Metadata
 description: Copy file metadata, e.g., creation time, to clipboard. Insert copied metadata to file name.
 author: wenlzhang
-downloads: 3178
+downloads: 3180
 updated: 1697291218000
 repo: wenlzhang/obsidian-copy-metadata
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Copy Metadata"
   description="Copy file metadata, e.g., creation time, to clipboard. Insert copied metadata to file name."
   author="wenlzhang"
-  :downloads="3178"
+  :downloads="3180"
   :updated="1697291218000"
   repo="wenlzhang/obsidian-copy-metadata"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Copy file metadata, e.g., creation time, to clipboard. Insert copied metadata to
 - **下载量**：3.2K
 - **最后更新**：2023-10-14
 - **GitHub**：[wenlzhang/obsidian-copy-metadata](https://github.com/wenlzhang/obsidian-copy-metadata)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

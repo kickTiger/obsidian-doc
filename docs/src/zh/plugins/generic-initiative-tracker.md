@@ -1,12 +1,12 @@
 ---
 title: Generic Initiative Tracker
-description: TTRPG generic initiative tracker.
+description: TTRPG 通用倡议跟踪器。
 author: Beau Shinkle
-downloads: 7741
+downloads: 7744
 updated: 1643419767000
 repo: beaurancourt/obsidian-generic-initiative-tracker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="generic-initiative-tracker"
   name="Generic Initiative Tracker"
-  description="TTRPG generic initiative tracker."
+  description="TTRPG 通用倡议跟踪器。"
   author="Beau Shinkle"
-  :downloads="7741"
+  :downloads="7744"
   :updated="1643419767000"
   repo="beaurancourt/obsidian-generic-initiative-tracker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Generic Initiative Tracker 是一个功能强大的 Obsidian 插件。
 
-TTRPG generic initiative tracker.
+TTRPG 通用倡议跟踪器。
 
 通过 Generic Initiative Tracker,您可以:
 
@@ -202,7 +202,7 @@ TTRPG generic initiative tracker.
 - **下载量**：7.7K
 - **最后更新**：2022-01-29
 - **GitHub**：[beaurancourt/obsidian-generic-initiative-tracker](https://github.com/beaurancourt/obsidian-generic-initiative-tracker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

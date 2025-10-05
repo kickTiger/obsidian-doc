@@ -2,11 +2,11 @@
 title: Auto Definition Link
 description: Automatically converts text to definition links within the current folder when you type them.
 author: Nolan Carpenter
-downloads: 1994
+downloads: 1996
 updated: 1745215827000
 repo: nmcarp99/Obsidian-Auto-Definition-Link
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto Definition Link"
   description="Automatically converts text to definition links within the current folder when you type them."
   author="Nolan Carpenter"
-  :downloads="1994"
+  :downloads="1996"
   :updated="1745215827000"
   repo="nmcarp99/Obsidian-Auto-Definition-Link"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically converts text to definition links within the current folder when y
 - **下载量**：2.0K
 - **最后更新**：2025-04-21
 - **GitHub**：[nmcarp99/Obsidian-Auto-Definition-Link](https://github.com/nmcarp99/Obsidian-Auto-Definition-Link)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

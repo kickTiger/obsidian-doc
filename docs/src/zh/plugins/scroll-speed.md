@@ -1,12 +1,12 @@
 ---
 title: Scroll Speed
-description: Change the scroll speed.
+description: 更改滚动速度。
 author: Florian Ludewig
-downloads: 5710
+downloads: 5713
 updated: 1689662160000
 repo: flolu/obsidian-scroll-speed
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="scroll-speed"
   name="Scroll Speed"
-  description="Change the scroll speed."
+  description="更改滚动速度。"
   author="Florian Ludewig"
-  :downloads="5710"
+  :downloads="5713"
   :updated="1689662160000"
   repo="flolu/obsidian-scroll-speed"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Scroll Speed 是一个功能强大的 Obsidian 插件。
 
-Change the scroll speed.
+更改滚动速度。
 
 通过 Scroll Speed,您可以:
 
@@ -202,7 +202,7 @@ Change the scroll speed.
 - **下载量**：5.7K
 - **最后更新**：2023-07-18
 - **GitHub**：[flolu/obsidian-scroll-speed](https://github.com/flolu/obsidian-scroll-speed)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

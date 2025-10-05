@@ -1,12 +1,12 @@
 ---
 title: Incremental Writing
-description: Incrementally review notes and blocks over time.
+description: 随着时间的推移，逐步审查笔记和区块。
 author: 'Jamesb | Experimental Learning'
 downloads: 12075
 updated: 1633169183000
 repo: bjsi/incremental-writing
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-incremental-writing"
   name="Incremental Writing"
-  description="Incrementally review notes and blocks over time."
+  description="随着时间的推移，逐步审查笔记和区块。"
   author="Jamesb | Experimental Learning"
   :downloads="12075"
   :updated="1633169183000"
   repo="bjsi/incremental-writing"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Incremental Writing 是一个功能强大的 Obsidian 插件。
 
-Incrementally review notes and blocks over time.
+随着时间的推移，逐步审查笔记和区块。
 
 通过 Incremental Writing,您可以:
 
@@ -202,7 +202,7 @@ Incrementally review notes and blocks over time.
 - **下载量**：12.1K
 - **最后更新**：2021-10-02
 - **GitHub**：[bjsi/incremental-writing](https://github.com/bjsi/incremental-writing)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

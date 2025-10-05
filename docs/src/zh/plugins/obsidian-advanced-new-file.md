@@ -1,12 +1,12 @@
 ---
 title: Advanced New File
-description: Create notes in chosen folder.
+description: 在所选文件夹中创建备注。
 author: Ivan Chernov
-downloads: 21774
+downloads: 21780
 updated: 1749198034000
 repo: vanadium23/obsidian-advanced-new-file
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-advanced-new-file"
   name="Advanced New File"
-  description="Create notes in chosen folder."
+  description="在所选文件夹中创建备注。"
   author="Ivan Chernov"
-  :downloads="21774"
+  :downloads="21780"
   :updated="1749198034000"
   repo="vanadium23/obsidian-advanced-new-file"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Advanced New File 是一个功能强大的 Obsidian 插件。
 
-Create notes in chosen folder.
+在所选文件夹中创建备注。
 
 通过 Advanced New File,您可以:
 
@@ -202,7 +202,7 @@ Create notes in chosen folder.
 - **下载量**：21.8K
 - **最后更新**：2025-06-06
 - **GitHub**：[vanadium23/obsidian-advanced-new-file](https://github.com/vanadium23/obsidian-advanced-new-file)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

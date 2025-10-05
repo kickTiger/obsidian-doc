@@ -2,11 +2,11 @@
 title: YouTube downloader
 description: Download videos from YouTube
 author: Blake Chan
-downloads: 1877
+downloads: 1878
 updated: 1734763190000
 repo: ai-chen2050/obsidian-youtube-downloader
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="YouTube downloader"
   description="Download videos from YouTube"
   author="Blake Chan"
-  :downloads="1877"
+  :downloads="1878"
   :updated="1734763190000"
   repo="ai-chen2050/obsidian-youtube-downloader"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Download videos from YouTube
 - **下载量**：1.9K
 - **最后更新**：2024-12-21
 - **GitHub**：[ai-chen2050/obsidian-youtube-downloader](https://github.com/ai-chen2050/obsidian-youtube-downloader)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

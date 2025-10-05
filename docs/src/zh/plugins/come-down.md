@@ -2,11 +2,11 @@
 title: Come Down
 description: Maintains a cache of your notes’ embedded external images.
 author: mntno
-downloads: 545
-updated: 1758720993000
+downloads: 554
+updated: 1759596474000
 repo: mntno/obsidian-come-down
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Come Down"
   description="Maintains a cache of your notes’ embedded external images."
   author="mntno"
-  :downloads="545"
-  :updated="1758720993000"
+  :downloads="554"
+  :updated="1759596474000"
   repo="mntno/obsidian-come-down"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -181,7 +181,7 @@ Maintains a cache of your notes’ embedded external images.
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-09-24
+更新时间：2025-10-05
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/mntno/obsidian-come-down/releases) 查看详细更新日志
@@ -199,10 +199,10 @@ Maintains a cache of your notes’ embedded external images.
 - **插件 ID**：come-down
 - **作者**：mntno
 - **当前版本**：v1.0.0
-- **下载量**：545
-- **最后更新**：2025-09-24
+- **下载量**：554
+- **最后更新**：2025-10-05
 - **GitHub**：[mntno/obsidian-come-down](https://github.com/mntno/obsidian-come-down)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

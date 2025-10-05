@@ -2,11 +2,11 @@
 title: New Filename
 description: Change the default filename used for new notes
 author: Amin Sennour
-downloads: 502
+downloads: 507
 updated: 1735251230000
 repo: TheLoneWanderer4/obsidian-uuid-title
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="New Filename"
   description="Change the default filename used for new notes"
   author="Amin Sennour"
-  :downloads="502"
+  :downloads="507"
   :updated="1735251230000"
   repo="TheLoneWanderer4/obsidian-uuid-title"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Change the default filename used for new notes
 - **插件 ID**：new-file-name
 - **作者**：Amin Sennour
 - **当前版本**：v1.0.0
-- **下载量**：502
+- **下载量**：507
 - **最后更新**：2024-12-27
 - **GitHub**：[TheLoneWanderer4/obsidian-uuid-title](https://github.com/TheLoneWanderer4/obsidian-uuid-title)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

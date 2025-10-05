@@ -2,11 +2,11 @@
 title: Timestamp Link
 description: Copy timestamped links to blocks, headings and notes.
 author: wenlzhang
-downloads: 2773
+downloads: 2790
 updated: 1759519039000
 repo: wenlzhang/obsidian-timestamp-link
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Timestamp Link"
   description="Copy timestamped links to blocks, headings and notes."
   author="wenlzhang"
-  :downloads="2773"
+  :downloads="2790"
   :updated="1759519039000"
   repo="wenlzhang/obsidian-timestamp-link"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Copy timestamped links to blocks, headings and notes.
 - **下载量**：2.8K
 - **最后更新**：2025-10-04
 - **GitHub**：[wenlzhang/obsidian-timestamp-link](https://github.com/wenlzhang/obsidian-timestamp-link)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

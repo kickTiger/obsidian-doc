@@ -2,11 +2,11 @@
 title: Storyteller Suite
 description: A comprehensive suite for managing characters, locations, events, and galleries for your stories.
 author: Maws
-downloads: 2684
+downloads: 2710
 updated: 1757279532000
 repo: SamW7140/obsidian-storyteller-suite
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Storyteller Suite"
   description="A comprehensive suite for managing characters, locations, events, and galleries for your stories."
   author="Maws"
-  :downloads="2684"
+  :downloads="2710"
   :updated="1757279532000"
   repo="SamW7140/obsidian-storyteller-suite"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ A comprehensive suite for managing characters, locations, events, and galleries 
 - **下载量**：2.7K
 - **最后更新**：2025-09-08
 - **GitHub**：[SamW7140/obsidian-storyteller-suite](https://github.com/SamW7140/obsidian-storyteller-suite)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

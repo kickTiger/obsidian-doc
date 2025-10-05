@@ -1,12 +1,12 @@
 ---
 title: Gist
-description: Display the GitHub Gist.
+description: 显示 GitHub Gist。
 author: Jun Lin
 downloads: 9883
 updated: 1706097350000
 repo: linjunpop/obsidian-gist
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-gist"
   name="Gist"
-  description="Display the GitHub Gist."
+  description="显示 GitHub Gist。"
   author="Jun Lin"
   :downloads="9883"
   :updated="1706097350000"
   repo="linjunpop/obsidian-gist"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Gist 是一个功能强大的 Obsidian 插件。
 
-Display the GitHub Gist.
+显示 GitHub Gist。
 
 通过 Gist,您可以:
 
@@ -202,7 +202,7 @@ Display the GitHub Gist.
 - **下载量**：9.9K
 - **最后更新**：2024-01-24
 - **GitHub**：[linjunpop/obsidian-gist](https://github.com/linjunpop/obsidian-gist)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

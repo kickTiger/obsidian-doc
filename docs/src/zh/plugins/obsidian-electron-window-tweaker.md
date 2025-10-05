@@ -1,12 +1,12 @@
 ---
 title: Electron Window Tweaker
-description: Tweak various Electron window settings.
+description: 调整各种电子窗口设置
 author: mgmeyers
-downloads: 12597
+downloads: 12603
 updated: 1639520804000
 repo: mgmeyers/obsidian-electron-window-tweaker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-electron-window-tweaker"
   name="Electron Window Tweaker"
-  description="Tweak various Electron window settings."
+  description="调整各种电子窗口设置"
   author="mgmeyers"
-  :downloads="12597"
+  :downloads="12603"
   :updated="1639520804000"
   repo="mgmeyers/obsidian-electron-window-tweaker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Electron Window Tweaker 是一个功能强大的 Obsidian 插件。
 
-Tweak various Electron window settings.
+调整各种电子窗口设置
 
 通过 Electron Window Tweaker,您可以:
 
@@ -202,7 +202,7 @@ Tweak various Electron window settings.
 - **下载量**：12.6K
 - **最后更新**：2021-12-15
 - **GitHub**：[mgmeyers/obsidian-electron-window-tweaker](https://github.com/mgmeyers/obsidian-electron-window-tweaker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

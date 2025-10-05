@@ -1,12 +1,12 @@
 ---
 title: Tab Navigator
-description: Simple Tab Switcher, search open tabs.
+description: 简单标签切换器，搜索打开的标签。
 author: o02c
-downloads: 5198
+downloads: 5199
 updated: 1741604725000
 repo: o02c/obsidian-tab-navigator
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tab-navigator"
   name="Tab Navigator"
-  description="Simple Tab Switcher, search open tabs."
+  description="简单标签切换器，搜索打开的标签。"
   author="o02c"
-  :downloads="5198"
+  :downloads="5199"
   :updated="1741604725000"
   repo="o02c/obsidian-tab-navigator"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tab Navigator 是一个功能强大的 Obsidian 插件。
 
-Simple Tab Switcher, search open tabs.
+简单标签切换器，搜索打开的标签。
 
 通过 Tab Navigator,您可以:
 
@@ -202,7 +202,7 @@ Simple Tab Switcher, search open tabs.
 - **下载量**：5.2K
 - **最后更新**：2025-03-10
 - **GitHub**：[o02c/obsidian-tab-navigator](https://github.com/o02c/obsidian-tab-navigator)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

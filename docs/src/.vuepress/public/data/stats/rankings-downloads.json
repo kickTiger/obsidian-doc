@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": 1759643104303,
+  "lastUpdated": 1759654317853,
   "type": "downloads",
   "data": [
     {
@@ -12,10 +12,11 @@
       "repo": "zsviczian/obsidian-excalidraw-plugin",
       "downloads": 4625330,
       "updated": 1759610226000,
-      "weeklyDownloads": 216479,
-      "monthlyDownloads": 609015,
-      "weeklyGrowth": 4.68,
-      "monthlyGrowth": 13.17
+      "created": 1618684989000,
+      "weeklyDownloads": 201389,
+      "monthlyDownloads": 356715,
+      "weeklyGrowth": 4.35,
+      "monthlyGrowth": 7.71
     },
     {
       "rank": 2,
@@ -26,10 +27,11 @@
       "repo": "blacksmithgu/obsidian-dataview",
       "downloads": 3306708,
       "updated": 1744053450000,
-      "weeklyDownloads": 40859,
-      "monthlyDownloads": 471387,
-      "weeklyGrowth": 1.24,
-      "monthlyGrowth": 14.26
+      "created": 0,
+      "weeklyDownloads": 127281,
+      "monthlyDownloads": 202611,
+      "weeklyGrowth": 3.85,
+      "monthlyGrowth": 6.13
     },
     {
       "rank": 3,
@@ -40,10 +42,11 @@
       "repo": "SilentVoid13/Templater",
       "downloads": 3110072,
       "updated": 1759085696000,
-      "weeklyDownloads": 68795,
-      "monthlyDownloads": 305531,
-      "weeklyGrowth": 2.21,
-      "monthlyGrowth": 9.82
+      "created": 1604505033000,
+      "weeklyDownloads": 99027,
+      "monthlyDownloads": 412363,
+      "weeklyGrowth": 3.18,
+      "monthlyGrowth": 13.26
     },
     {
       "rank": 4,
@@ -54,10 +57,11 @@
       "repo": "obsidian-tasks-group/obsidian-tasks",
       "downloads": 2785802,
       "updated": 1759054105000,
-      "weeklyDownloads": 124980,
-      "monthlyDownloads": 377850,
-      "weeklyGrowth": 4.49,
-      "monthlyGrowth": 13.56
+      "created": 1616182973000,
+      "weeklyDownloads": 119250,
+      "monthlyDownloads": 386442,
+      "weeklyGrowth": 4.28,
+      "monthlyGrowth": 13.87
     },
     {
       "rank": 5,
@@ -68,10 +72,11 @@
       "repo": "tgrosinger/advanced-tables-obsidian",
       "downloads": 2431413,
       "updated": 1729698278000,
-      "weeklyDownloads": 90512,
-      "monthlyDownloads": 273251,
-      "weeklyGrowth": 3.72,
-      "monthlyGrowth": 11.24
+      "created": 0,
+      "weeklyDownloads": 45137,
+      "monthlyDownloads": 324329,
+      "weeklyGrowth": 1.86,
+      "monthlyGrowth": 13.34
     },
     {
       "rank": 6,
@@ -82,10 +87,11 @@
       "repo": "liamcain/obsidian-calendar-plugin",
       "downloads": 2082875,
       "updated": 1618944601000,
-      "weeklyDownloads": 82951,
-      "monthlyDownloads": 239854,
-      "weeklyGrowth": 3.98,
-      "monthlyGrowth": 11.52
+      "created": 0,
+      "weeklyDownloads": 68330,
+      "monthlyDownloads": 198959,
+      "weeklyGrowth": 3.28,
+      "monthlyGrowth": 9.55
     },
     {
       "rank": 7,
@@ -96,10 +102,11 @@
       "repo": "mgmeyers/obsidian-kanban",
       "downloads": 1912432,
       "updated": 1717117708000,
-      "weeklyDownloads": 77009,
-      "monthlyDownloads": 115448,
-      "weeklyGrowth": 4.03,
-      "monthlyGrowth": 6.04
+      "created": 0,
+      "weeklyDownloads": 93172,
+      "monthlyDownloads": 204231,
+      "weeklyGrowth": 4.87,
+      "monthlyGrowth": 10.68
     },
     {
       "rank": 8,
@@ -110,10 +117,11 @@
       "repo": "Vinzent03/obsidian-git",
       "downloads": 1842533,
       "updated": 1758323107000,
-      "weeklyDownloads": 84484,
-      "monthlyDownloads": 125178,
-      "weeklyGrowth": 4.59,
-      "monthlyGrowth": 6.79
+      "created": 0,
+      "weeklyDownloads": 44933,
+      "monthlyDownloads": 134852,
+      "weeklyGrowth": 2.44,
+      "monthlyGrowth": 7.32
     },
     {
       "rank": 9,
@@ -124,10 +132,11 @@
       "repo": "mgmeyers/obsidian-style-settings",
       "downloads": 1828550,
       "updated": 1724521516000,
-      "weeklyDownloads": 56602,
-      "monthlyDownloads": 154097,
-      "weeklyGrowth": 3.1,
-      "monthlyGrowth": 8.43
+      "created": 0,
+      "weeklyDownloads": 42424,
+      "monthlyDownloads": 254335,
+      "weeklyGrowth": 2.32,
+      "monthlyGrowth": 13.91
     },
     {
       "rank": 10,
@@ -138,10 +147,11 @@
       "repo": "FlorianWoelki/obsidian-iconize",
       "downloads": 1676317,
       "updated": 1735894995000,
-      "weeklyDownloads": 68203,
-      "monthlyDownloads": 184096,
-      "weeklyGrowth": 4.07,
-      "monthlyGrowth": 10.98
+      "created": 0,
+      "weeklyDownloads": 17503,
+      "monthlyDownloads": 136427,
+      "weeklyGrowth": 1.04,
+      "monthlyGrowth": 8.14
     }
   ]
 }

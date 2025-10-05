@@ -1,12 +1,12 @@
 ---
 title: Folder notes
-description: Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion.
+description: 在文件夹内创建笔记，无需折叠文件夹即可访问，类似于 Notion 提供的功能。
 author: Lost Paul
-downloads: 221310
+downloads: 221683
 updated: 1755508435000
 repo: LostPaul/obsidian-folder-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="folder-notes"
   name="Folder notes"
-  description="Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion."
+  description="在文件夹内创建笔记，无需折叠文件夹即可访问，类似于 Notion 提供的功能。"
   author="Lost Paul"
-  :downloads="221310"
+  :downloads="221683"
   :updated="1755508435000"
   repo="LostPaul/obsidian-folder-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Folder notes 是一个功能强大的 Obsidian 插件。
 
-Create notes within folders that can be accessed without collapsing the folder, similar to the functionality offered in Notion.
+在文件夹内创建笔记，无需折叠文件夹即可访问，类似于 Notion 提供的功能。
 
 通过 Folder notes,您可以:
 
@@ -199,10 +199,10 @@ Create notes within folders that can be accessed without collapsing the folder, 
 - **插件 ID**：folder-notes
 - **作者**：Lost Paul
 - **当前版本**：v1.0.0
-- **下载量**：221.3K
+- **下载量**：221.7K
 - **最后更新**：2025-08-18
 - **GitHub**：[LostPaul/obsidian-folder-notes](https://github.com/LostPaul/obsidian-folder-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

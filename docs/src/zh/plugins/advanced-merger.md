@@ -1,12 +1,12 @@
 ---
 title: Advanced Merger
-description: Merge a folder of notes for easier export.
+description: 合并笔记文件夹，方便导出。
 author: Anto Keinänen
-downloads: 15187
+downloads: 15207
 updated: 1751312103000
 repo: antoKeinanen/obsidian-advanced-merger
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="advanced-merger"
   name="Advanced Merger"
-  description="Merge a folder of notes for easier export."
+  description="合并笔记文件夹，方便导出。"
   author="Anto Keinänen"
-  :downloads="15187"
+  :downloads="15207"
   :updated="1751312103000"
   repo="antoKeinanen/obsidian-advanced-merger"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Advanced Merger 是一个功能强大的 Obsidian 插件。
 
-Merge a folder of notes for easier export.
+合并笔记文件夹，方便导出。
 
 通过 Advanced Merger,您可以:
 
@@ -202,7 +202,7 @@ Merge a folder of notes for easier export.
 - **下载量**：15.2K
 - **最后更新**：2025-07-01
 - **GitHub**：[antoKeinanen/obsidian-advanced-merger](https://github.com/antoKeinanen/obsidian-advanced-merger)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

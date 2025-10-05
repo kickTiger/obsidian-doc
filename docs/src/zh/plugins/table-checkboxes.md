@@ -1,12 +1,12 @@
 ---
 title: Markdown table checkboxes
-description: Add support for stateful checkboxes inside Markdown tables.
+description: 在 Markdown 表格中添加对有状态复选框的支持。
 author: 0x-DLN
-downloads: 16408
+downloads: 16427
 updated: 1734647855000
 repo: 0x-DLN/obsidian-table-checkboxes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="table-checkboxes"
   name="Markdown table checkboxes"
-  description="Add support for stateful checkboxes inside Markdown tables."
+  description="在 Markdown 表格中添加对有状态复选框的支持。"
   author="0x-DLN"
-  :downloads="16408"
+  :downloads="16427"
   :updated="1734647855000"
   repo="0x-DLN/obsidian-table-checkboxes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown table checkboxes 是一个功能强大的 Obsidian 插件。
 
-Add support for stateful checkboxes inside Markdown tables.
+在 Markdown 表格中添加对有状态复选框的支持。
 
 通过 Markdown table checkboxes,您可以:
 
@@ -202,7 +202,7 @@ Add support for stateful checkboxes inside Markdown tables.
 - **下载量**：16.4K
 - **最后更新**：2024-12-20
 - **GitHub**：[0x-DLN/obsidian-table-checkboxes](https://github.com/0x-DLN/obsidian-table-checkboxes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

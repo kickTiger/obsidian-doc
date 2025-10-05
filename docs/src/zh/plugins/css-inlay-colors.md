@@ -2,11 +2,11 @@
 title: CSS Inlay Colors
 description: Show inline color hints for CSS colors
 author: Benji Grant
-downloads: 2368
+downloads: 2382
 updated: 1759033521000
 repo: GRA0007/obsidian-css-inlay-colors
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="CSS Inlay Colors"
   description="Show inline color hints for CSS colors"
   author="Benji Grant"
-  :downloads="2368"
+  :downloads="2382"
   :updated="1759033521000"
   repo="GRA0007/obsidian-css-inlay-colors"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Show inline color hints for CSS colors
 - **下载量**：2.4K
 - **最后更新**：2025-09-28
 - **GitHub**：[GRA0007/obsidian-css-inlay-colors](https://github.com/GRA0007/obsidian-css-inlay-colors)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: New Tab +
-description: Allow to open markdown files, graph and canvas in new tab as the default behavior.
+description: 作为默认行为，允许在新标签页中打开标记符文件、图表和画布。
 author: Raphaël Le Carval
-downloads: 9479
+downloads: 9491
 updated: 1738951388000
 repo: Raphlette/obsidian-new-tab-plus
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="new-tab-plus"
   name="New Tab +"
-  description="Allow to open markdown files, graph and canvas in new tab as the default behavior."
+  description="作为默认行为，允许在新标签页中打开标记符文件、图表和画布。"
   author="Raphaël Le Carval"
-  :downloads="9479"
+  :downloads="9491"
   :updated="1738951388000"
   repo="Raphlette/obsidian-new-tab-plus"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 New Tab + 是一个功能强大的 Obsidian 插件。
 
-Allow to open markdown files, graph and canvas in new tab as the default behavior.
+作为默认行为，允许在新标签页中打开标记符文件、图表和画布。
 
 通过 New Tab +,您可以:
 
@@ -202,7 +202,7 @@ Allow to open markdown files, graph and canvas in new tab as the default behavio
 - **下载量**：9.5K
 - **最后更新**：2025-02-08
 - **GitHub**：[Raphlette/obsidian-new-tab-plus](https://github.com/Raphlette/obsidian-new-tab-plus)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

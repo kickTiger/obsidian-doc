@@ -2,11 +2,11 @@
 title: Paste Image Rename and Convert
 description: Renames pasted images and covert the formats
 author: iaos
-downloads: 612
+downloads: 615
 updated: 1748064837000
 repo: Yiaos/obsidian-paste-image-rename-convert
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Paste Image Rename and Convert"
   description="Renames pasted images and covert the formats"
   author="iaos"
-  :downloads="612"
+  :downloads="615"
   :updated="1748064837000"
   repo="Yiaos/obsidian-paste-image-rename-convert"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Renames pasted images and covert the formats
 - **插件 ID**：paste-image-rename-convert
 - **作者**：iaos
 - **当前版本**：v1.0.0
-- **下载量**：612
+- **下载量**：615
 - **最后更新**：2025-05-24
 - **GitHub**：[Yiaos/obsidian-paste-image-rename-convert](https://github.com/Yiaos/obsidian-paste-image-rename-convert)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

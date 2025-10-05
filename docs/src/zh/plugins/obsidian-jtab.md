@@ -1,12 +1,12 @@
 ---
 title: jTab Guitar Codeblocks
-description: Add guitar chords and tabs to your notes with jTab code blocks.
+description: 使用 jTab 代码块在笔记中添加吉他和弦和制表符。
 author: davfive
-downloads: 8429
+downloads: 8432
 updated: 1710109859000
 repo: davfive/obsidian-jtab
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-jtab"
   name="jTab Guitar Codeblocks"
-  description="Add guitar chords and tabs to your notes with jTab code blocks."
+  description="使用 jTab 代码块在笔记中添加吉他和弦和制表符。"
   author="davfive"
-  :downloads="8429"
+  :downloads="8432"
   :updated="1710109859000"
   repo="davfive/obsidian-jtab"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 jTab Guitar Codeblocks 是一个功能强大的 Obsidian 插件。
 
-Add guitar chords and tabs to your notes with jTab code blocks.
+使用 jTab 代码块在笔记中添加吉他和弦和制表符。
 
 通过 jTab Guitar Codeblocks,您可以:
 
@@ -202,7 +202,7 @@ Add guitar chords and tabs to your notes with jTab code blocks.
 - **下载量**：8.4K
 - **最后更新**：2024-03-11
 - **GitHub**：[davfive/obsidian-jtab](https://github.com/davfive/obsidian-jtab)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

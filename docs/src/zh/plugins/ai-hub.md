@@ -2,11 +2,11 @@
 title: AI integration Hub
 description: 'Integrate with AI models (currently Google''s Gemini only) to quickly generate and refine notes.'
 author: Hishmat Salehi
-downloads: 839
+downloads: 842
 updated: 1736982255000
 repo: hish-math/obsidian-ai-hub
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="AI integration Hub"
   description="Integrate with AI models (currently Google&#39;s Gemini only) to quickly generate and refine notes."
   author="Hishmat Salehi"
-  :downloads="839"
+  :downloads="842"
   :updated="1736982255000"
   repo="hish-math/obsidian-ai-hub"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Integrate with AI models (currently Google&#39;s Gemini only) to quickly generat
 - **插件 ID**：ai-hub
 - **作者**：Hishmat Salehi
 - **当前版本**：v1.0.0
-- **下载量**：839
+- **下载量**：842
 - **最后更新**：2025-01-16
 - **GitHub**：[hish-math/obsidian-ai-hub](https://github.com/hish-math/obsidian-ai-hub)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

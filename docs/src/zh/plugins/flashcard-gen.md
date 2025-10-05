@@ -1,12 +1,12 @@
 ---
 title: Flashcard Generator
-description: Generate quizzes and questions from your notes.
+description: 从笔记中生成测验和问题。
 author: ChloeDia
-downloads: 4998
+downloads: 5002
 updated: 1737501900000
 repo: chloedia/Obsidian_Quiz_Generator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="flashcard-gen"
   name="Flashcard Generator"
-  description="Generate quizzes and questions from your notes."
+  description="从笔记中生成测验和问题。"
   author="ChloeDia"
-  :downloads="4998"
+  :downloads="5002"
   :updated="1737501900000"
   repo="chloedia/Obsidian_Quiz_Generator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Flashcard Generator 是一个功能强大的 Obsidian 插件。
 
-Generate quizzes and questions from your notes.
+从笔记中生成测验和问题。
 
 通过 Flashcard Generator,您可以:
 
@@ -202,7 +202,7 @@ Generate quizzes and questions from your notes.
 - **下载量**：5.0K
 - **最后更新**：2025-01-22
 - **GitHub**：[chloedia/Obsidian_Quiz_Generator](https://github.com/chloedia/Obsidian_Quiz_Generator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

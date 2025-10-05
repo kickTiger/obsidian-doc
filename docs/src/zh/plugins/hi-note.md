@@ -1,12 +1,12 @@
 ---
 title: HiNote
-description: Add comments to highlighted notes, use AI for thinking, and flashcards for memory.
+description: 为突出显示的笔记添加注释，使用人工智能进行思考，使用闪存卡进行记忆。
 author: Kai
-downloads: 18401
+downloads: 18495
 updated: 1757852670000
 repo: CatMuse/HiNote
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="hi-note"
   name="HiNote"
-  description="Add comments to highlighted notes, use AI for thinking, and flashcards for memory."
+  description="为突出显示的笔记添加注释，使用人工智能进行思考，使用闪存卡进行记忆。"
   author="Kai"
-  :downloads="18401"
+  :downloads="18495"
   :updated="1757852670000"
   repo="CatMuse/HiNote"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 HiNote 是一个功能强大的 Obsidian 插件。
 
-Add comments to highlighted notes, use AI for thinking, and flashcards for memory.
+为突出显示的笔记添加注释，使用人工智能进行思考，使用闪存卡进行记忆。
 
 通过 HiNote,您可以:
 
@@ -199,10 +199,10 @@ Add comments to highlighted notes, use AI for thinking, and flashcards for memor
 - **插件 ID**：hi-note
 - **作者**：Kai
 - **当前版本**：v1.0.0
-- **下载量**：18.4K
+- **下载量**：18.5K
 - **最后更新**：2025-09-14
 - **GitHub**：[CatMuse/HiNote](https://github.com/CatMuse/HiNote)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

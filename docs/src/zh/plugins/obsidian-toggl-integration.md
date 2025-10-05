@@ -1,12 +1,12 @@
 ---
 title: Toggl Track
-description: Add integration with the Toggl Track API to manage your timers.
+description: 添加与 Toggl Track API 的集成，以管理计时器。
 author: Maxime Cannoodt
-downloads: 29840
+downloads: 29845
 updated: 1690116621000
 repo: mcndt/obsidian-toggl-integration
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-toggl-integration"
   name="Toggl Track"
-  description="Add integration with the Toggl Track API to manage your timers."
+  description="添加与 Toggl Track API 的集成，以管理计时器。"
   author="Maxime Cannoodt"
-  :downloads="29840"
+  :downloads="29845"
   :updated="1690116621000"
   repo="mcndt/obsidian-toggl-integration"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Toggl Track 是一个功能强大的 Obsidian 插件。
 
-Add integration with the Toggl Track API to manage your timers.
+添加与 Toggl Track API 的集成，以管理计时器。
 
 通过 Toggl Track,您可以:
 
@@ -202,7 +202,7 @@ Add integration with the Toggl Track API to manage your timers.
 - **下载量**：29.8K
 - **最后更新**：2023-07-23
 - **GitHub**：[mcndt/obsidian-toggl-integration](https://github.com/mcndt/obsidian-toggl-integration)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

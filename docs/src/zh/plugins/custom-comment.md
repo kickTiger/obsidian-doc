@@ -2,11 +2,11 @@
 title: Custom Comments
 description: Create custom keyboard shortcuts that enclose comments.
 author: Jack Chronicle
-downloads: 237
+downloads: 239
 updated: 1757371576000
 repo: Jack-Chronicle/custom-comment
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Custom Comments"
   description="Create custom keyboard shortcuts that enclose comments."
   author="Jack Chronicle"
-  :downloads="237"
+  :downloads="239"
   :updated="1757371576000"
   repo="Jack-Chronicle/custom-comment"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create custom keyboard shortcuts that enclose comments.
 - **插件 ID**：custom-comment
 - **作者**：Jack Chronicle
 - **当前版本**：v1.0.0
-- **下载量**：237
+- **下载量**：239
 - **最后更新**：2025-09-09
 - **GitHub**：[Jack-Chronicle/custom-comment](https://github.com/Jack-Chronicle/custom-comment)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

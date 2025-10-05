@@ -1,12 +1,12 @@
 ---
 title: Create Note in Folder
-description: Add commands to create a note in a specific folder.
+description: 添加在特定文件夹中创建备忘的命令。
 author: Mara-Li
-downloads: 11027
+downloads: 11048
 updated: 1751393974000
 repo: Mara-Li/obsidian-create-note-in-folder
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="create-note-in-folder"
   name="Create Note in Folder"
-  description="Add commands to create a note in a specific folder."
+  description="添加在特定文件夹中创建备忘的命令。"
   author="Mara-Li"
-  :downloads="11027"
+  :downloads="11048"
   :updated="1751393974000"
   repo="Mara-Li/obsidian-create-note-in-folder"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Create Note in Folder 是一个功能强大的 Obsidian 插件。
 
-Add commands to create a note in a specific folder.
+添加在特定文件夹中创建备忘的命令。
 
 通过 Create Note in Folder,您可以:
 
@@ -202,7 +202,7 @@ Add commands to create a note in a specific folder.
 - **下载量**：11.0K
 - **最后更新**：2025-07-02
 - **GitHub**：[Mara-Li/obsidian-create-note-in-folder](https://github.com/Mara-Li/obsidian-create-note-in-folder)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

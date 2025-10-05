@@ -6,7 +6,7 @@ downloads: 312
 updated: 1725975226000
 repo: FioPio/ObsidianAlignmentTracker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1725975226000"
   repo="FioPio/ObsidianAlignmentTracker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Track character alignment using a 3x3 grid.
 - **下载量**：312
 - **最后更新**：2024-09-10
 - **GitHub**：[FioPio/ObsidianAlignmentTracker](https://github.com/FioPio/ObsidianAlignmentTracker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

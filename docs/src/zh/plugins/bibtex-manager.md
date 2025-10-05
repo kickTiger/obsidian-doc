@@ -2,11 +2,11 @@
 title: BibTeX Manager
 description: Create a literature notes from a BibTeX entries.
 author: Akop Kesheshyan
-downloads: 3176
+downloads: 3183
 updated: 1748384712000
 repo: akopdev/obsidian-bibtex-manager
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="BibTeX Manager"
   description="Create a literature notes from a BibTeX entries."
   author="Akop Kesheshyan"
-  :downloads="3176"
+  :downloads="3183"
   :updated="1748384712000"
   repo="akopdev/obsidian-bibtex-manager"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create a literature notes from a BibTeX entries.
 - **下载量**：3.2K
 - **最后更新**：2025-05-28
 - **GitHub**：[akopdev/obsidian-bibtex-manager](https://github.com/akopdev/obsidian-bibtex-manager)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

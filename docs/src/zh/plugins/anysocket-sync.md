@@ -6,7 +6,7 @@ downloads: 644
 updated: 1730812790000
 repo: lynxaegon/obsidian-anysocket-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1730812790000"
   repo="lynxaegon/obsidian-anysocket-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Self-Hosted synchronization for you Vault using AnySocket
 - **下载量**：644
 - **最后更新**：2024-11-05
 - **GitHub**：[lynxaegon/obsidian-anysocket-sync](https://github.com/lynxaegon/obsidian-anysocket-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

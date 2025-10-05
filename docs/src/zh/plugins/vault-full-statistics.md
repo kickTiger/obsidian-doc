@@ -2,11 +2,11 @@
 title: Vault Full Statistics
 description: Status bar item with vault full statistics such as number of notes, files, attachments, links, tags and quality of vault.
 author: Mikhail Savin
-downloads: 3118
+downloads: 3122
 updated: 1746957332000
 repo: jtprogru/obsidian-vault-full-statistics-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Vault Full Statistics"
   description="Status bar item with vault full statistics such as number of notes, files, attachments, links, tags and quality of vault."
   author="Mikhail Savin"
-  :downloads="3118"
+  :downloads="3122"
   :updated="1746957332000"
   repo="jtprogru/obsidian-vault-full-statistics-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Status bar item with vault full statistics such as number of notes, files, attac
 - **下载量**：3.1K
 - **最后更新**：2025-05-11
 - **GitHub**：[jtprogru/obsidian-vault-full-statistics-plugin](https://github.com/jtprogru/obsidian-vault-full-statistics-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

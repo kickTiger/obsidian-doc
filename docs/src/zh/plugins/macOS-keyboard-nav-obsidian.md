@@ -1,12 +1,12 @@
 ---
 title: macOS Keyboard Navigation
-description: Enable alt+↑ and alt+↓ keyboard navigation.
+description: 启用 Alt+↑ 和 Alt+↓ 键盘导航。
 author: ryanjamurphy
 downloads: 7390
 updated: 1605840001000
 repo: ryanjamurphy/macOS-keyboard-nav-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="macOS-keyboard-nav-obsidian"
   name="macOS Keyboard Navigation"
-  description="Enable alt+↑ and alt+↓ keyboard navigation."
+  description="启用 Alt+↑ 和 Alt+↓ 键盘导航。"
   author="ryanjamurphy"
   :downloads="7390"
   :updated="1605840001000"
   repo="ryanjamurphy/macOS-keyboard-nav-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 macOS Keyboard Navigation 是一个功能强大的 Obsidian 插件。
 
-Enable alt+↑ and alt+↓ keyboard navigation.
+启用 Alt+↑ 和 Alt+↓ 键盘导航。
 
 通过 macOS Keyboard Navigation,您可以:
 
@@ -202,7 +202,7 @@ Enable alt+↑ and alt+↓ keyboard navigation.
 - **下载量**：7.4K
 - **最后更新**：2020-11-20
 - **GitHub**：[ryanjamurphy/macOS-keyboard-nav-obsidian](https://github.com/ryanjamurphy/macOS-keyboard-nav-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

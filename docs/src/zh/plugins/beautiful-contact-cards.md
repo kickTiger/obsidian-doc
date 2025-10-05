@@ -2,11 +2,11 @@
 title: Beautiful Contact Cards
 description: 'Renders "contact" code blocks with tappable links for phone, social media, etc.'
 author: Seth Tenembaum
-downloads: 859
+downloads: 860
 updated: 1731621863000
 repo: seth10/beautiful-obsidian-contacts
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Beautiful Contact Cards"
   description="Renders &quot;contact&quot; code blocks with tappable links for phone, social media, etc."
   author="Seth Tenembaum"
-  :downloads="859"
+  :downloads="860"
   :updated="1731621863000"
   repo="seth10/beautiful-obsidian-contacts"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Renders &quot;contact&quot; code blocks with tappable links for phone, social me
 - **插件 ID**：beautiful-contact-cards
 - **作者**：Seth Tenembaum
 - **当前版本**：v1.0.0
-- **下载量**：859
+- **下载量**：860
 - **最后更新**：2024-11-15
 - **GitHub**：[seth10/beautiful-obsidian-contacts](https://github.com/seth10/beautiful-obsidian-contacts)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

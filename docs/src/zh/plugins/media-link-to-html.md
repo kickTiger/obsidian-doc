@@ -6,7 +6,7 @@ downloads: 303
 updated: 1739691602000
 repo: cypar/obsidian-media-link-to-html
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1739691602000"
   repo="cypar/obsidian-media-link-to-html"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Converts media links to HTML elements.
 - **下载量**：303
 - **最后更新**：2025-02-16
 - **GitHub**：[cypar/obsidian-media-link-to-html](https://github.com/cypar/obsidian-media-link-to-html)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

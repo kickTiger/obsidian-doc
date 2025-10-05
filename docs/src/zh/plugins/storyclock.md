@@ -2,11 +2,11 @@
 title: Storyclock Viewer
 description: Map timing onto a storyclock. Inspired by Plot Devices Storyclock.
 author: Jonathan Fisher
-downloads: 2707
+downloads: 2708
 updated: 1702524529000
 repo: jonzfisher/obsidian-chronostory
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Storyclock Viewer"
   description="Map timing onto a storyclock. Inspired by Plot Devices Storyclock."
   author="Jonathan Fisher"
-  :downloads="2707"
+  :downloads="2708"
   :updated="1702524529000"
   repo="jonzfisher/obsidian-chronostory"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Map timing onto a storyclock. Inspired by Plot Devices Storyclock.
 - **下载量**：2.7K
 - **最后更新**：2023-12-14
 - **GitHub**：[jonzfisher/obsidian-chronostory](https://github.com/jonzfisher/obsidian-chronostory)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

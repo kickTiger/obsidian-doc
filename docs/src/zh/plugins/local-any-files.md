@@ -6,7 +6,7 @@ downloads: 1319
 updated: 1737173310000
 repo: ShermanTsang/obsidian-local-any-files
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1737173310000"
   repo="ShermanTsang/obsidian-local-any-files"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Extract and download any external files from links to local files
 - **下载量**：1.3K
 - **最后更新**：2025-01-18
 - **GitHub**：[ShermanTsang/obsidian-local-any-files](https://github.com/ShermanTsang/obsidian-local-any-files)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

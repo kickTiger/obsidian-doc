@@ -2,11 +2,11 @@
 title: Attachments MD Indexer
 description: Creates searchable metadata notes for Canvas files, PDFs, and images, enhancing graph view visibility and plugin compatibility.
 author: Ian Inkov
-downloads: 1396
+downloads: 1401
 updated: 1748977795000
 repo: iinkov/obsidian-attachments-md-indexer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Attachments MD Indexer"
   description="Creates searchable metadata notes for Canvas files, PDFs, and images, enhancing graph view visibility and plugin compatibility."
   author="Ian Inkov"
-  :downloads="1396"
+  :downloads="1401"
   :updated="1748977795000"
   repo="iinkov/obsidian-attachments-md-indexer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Creates searchable metadata notes for Canvas files, PDFs, and images, enhancing 
 - **下载量**：1.4K
 - **最后更新**：2025-06-04
 - **GitHub**：[iinkov/obsidian-attachments-md-indexer](https://github.com/iinkov/obsidian-attachments-md-indexer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

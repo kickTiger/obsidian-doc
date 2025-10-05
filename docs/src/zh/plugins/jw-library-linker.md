@@ -2,11 +2,11 @@
 title: JW Library Linker
 description: Converts JW Library and Bible references to actual links in JW Library.
 author: Martin Sakowski
-downloads: 431
+downloads: 433
 updated: 1757949037000
 repo: msakowski/obsidian-library-linker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="JW Library Linker"
   description="Converts JW Library and Bible references to actual links in JW Library."
   author="Martin Sakowski"
-  :downloads="431"
+  :downloads="433"
   :updated="1757949037000"
   repo="msakowski/obsidian-library-linker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Converts JW Library and Bible references to actual links in JW Library.
 - **插件 ID**：jw-library-linker
 - **作者**：Martin Sakowski
 - **当前版本**：v1.0.0
-- **下载量**：431
+- **下载量**：433
 - **最后更新**：2025-09-15
 - **GitHub**：[msakowski/obsidian-library-linker](https://github.com/msakowski/obsidian-library-linker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

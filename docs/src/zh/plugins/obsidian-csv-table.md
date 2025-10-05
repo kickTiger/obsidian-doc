@@ -1,12 +1,12 @@
 ---
 title: CSV Table
-description: Render CSV data as a table within your notes.
+description: 在笔记中以表格形式显示 CSV 数据。
 author: Adam Coddington
-downloads: 27225
+downloads: 27241
 updated: 1634103533000
 repo: coddingtonbear/obsidian-csv-table
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-csv-table"
   name="CSV Table"
-  description="Render CSV data as a table within your notes."
+  description="在笔记中以表格形式显示 CSV 数据。"
   author="Adam Coddington"
-  :downloads="27225"
+  :downloads="27241"
   :updated="1634103533000"
   repo="coddingtonbear/obsidian-csv-table"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 CSV Table 是一个功能强大的 Obsidian 插件。
 
-Render CSV data as a table within your notes.
+在笔记中以表格形式显示 CSV 数据。
 
 通过 CSV Table,您可以:
 
@@ -202,7 +202,7 @@ Render CSV data as a table within your notes.
 - **下载量**：27.2K
 - **最后更新**：2021-10-13
 - **GitHub**：[coddingtonbear/obsidian-csv-table](https://github.com/coddingtonbear/obsidian-csv-table)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

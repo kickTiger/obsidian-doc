@@ -1,12 +1,12 @@
 ---
 title: Semantic Canvas
-description: Create semantic knowledge graphs using Canvases to modify note properties graphically.
+description: 使用 Canvases 创建语义知识图谱，以图形方式修改注释属性。
 author: Aaron Gillespie
-downloads: 6438
+downloads: 6446
 updated: 1728681097000
 repo: aarongilly/obsidian-semantic-canvas-plugin
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="semantic-canvas"
   name="Semantic Canvas"
-  description="Create semantic knowledge graphs using Canvases to modify note properties graphically."
+  description="使用 Canvases 创建语义知识图谱，以图形方式修改注释属性。"
   author="Aaron Gillespie"
-  :downloads="6438"
+  :downloads="6446"
   :updated="1728681097000"
   repo="aarongilly/obsidian-semantic-canvas-plugin"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Semantic Canvas 是一个功能强大的 Obsidian 插件。
 
-Create semantic knowledge graphs using Canvases to modify note properties graphically.
+使用 Canvases 创建语义知识图谱，以图形方式修改注释属性。
 
 通过 Semantic Canvas,您可以:
 
@@ -202,7 +202,7 @@ Create semantic knowledge graphs using Canvases to modify note properties graphi
 - **下载量**：6.4K
 - **最后更新**：2024-10-12
 - **GitHub**：[aarongilly/obsidian-semantic-canvas-plugin](https://github.com/aarongilly/obsidian-semantic-canvas-plugin)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

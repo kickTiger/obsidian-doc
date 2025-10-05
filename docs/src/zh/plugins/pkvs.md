@@ -6,7 +6,7 @@ downloads: 1421
 updated: 1712102344000
 repo: iamrecursion/obsidian-pkvs
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1712102344000"
   repo="iamrecursion/obsidian-pkvs"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Provides a persistent key-value store for use in scripts in Obsidian.
 - **下载量**：1.4K
 - **最后更新**：2024-04-03
 - **GitHub**：[iamrecursion/obsidian-pkvs](https://github.com/iamrecursion/obsidian-pkvs)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

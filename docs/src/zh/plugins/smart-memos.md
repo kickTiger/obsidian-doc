@@ -1,12 +1,12 @@
 ---
 title: Smart Memos
-description: Create personalized and intelligent analysis, brainstorms, summaries, transcriptions, and more for audio recordings that can be imported or spoken directly into a note
+description: 为录音创建个性化的智能分析、头脑风暴、摘要、转录等，并可直接导入或说到笔记中
 author: Evan Moscoso
-downloads: 6780
+downloads: 6786
 updated: 1727645923000
 repo: Mossy1022/Smart-Memos
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smart-memos"
   name="Smart Memos"
-  description="Create personalized and intelligent analysis, brainstorms, summaries, transcriptions, and more for audio recordings that can be imported or spoken directly into a note"
+  description="为录音创建个性化的智能分析、头脑风暴、摘要、转录等，并可直接导入或说到笔记中"
   author="Evan Moscoso"
-  :downloads="6780"
+  :downloads="6786"
   :updated="1727645923000"
   repo="Mossy1022/Smart-Memos"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Memos 是一个功能强大的 Obsidian 插件。
 
-Create personalized and intelligent analysis, brainstorms, summaries, transcriptions, and more for audio recordings that can be imported or spoken directly into a note
+为录音创建个性化的智能分析、头脑风暴、摘要、转录等，并可直接导入或说到笔记中
 
 通过 Smart Memos,您可以:
 
@@ -202,7 +202,7 @@ Create personalized and intelligent analysis, brainstorms, summaries, transcript
 - **下载量**：6.8K
 - **最后更新**：2024-09-30
 - **GitHub**：[Mossy1022/Smart-Memos](https://github.com/Mossy1022/Smart-Memos)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Scroll Offset
-description: Preserve custom distances before or after cursor.
+description: 保留光标前后的自定义距离。
 author: Lijyze
-downloads: 8922
+downloads: 8925
 updated: 1658471870000
 repo: lijyze/scroll-offset
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-scroll-offset"
   name="Scroll Offset"
-  description="Preserve custom distances before or after cursor."
+  description="保留光标前后的自定义距离。"
   author="Lijyze"
-  :downloads="8922"
+  :downloads="8925"
   :updated="1658471870000"
   repo="lijyze/scroll-offset"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Scroll Offset 是一个功能强大的 Obsidian 插件。
 
-Preserve custom distances before or after cursor.
+保留光标前后的自定义距离。
 
 通过 Scroll Offset,您可以:
 
@@ -202,7 +202,7 @@ Preserve custom distances before or after cursor.
 - **下载量**：8.9K
 - **最后更新**：2022-07-22
 - **GitHub**：[lijyze/scroll-offset](https://github.com/lijyze/scroll-offset)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

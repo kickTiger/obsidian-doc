@@ -1,12 +1,12 @@
 ---
 title: Adjacency Matrix Maker
-description: Create an interactive adjacency matrix of your vault.
+description: 创建拱顶的交互式邻接矩阵。
 author: SkepticMystic
-downloads: 6166
+downloads: 6167
 updated: 1623857189000
 repo: SkepticMystic/adjacency-matrix-maker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="adjacency-matrix-maker"
   name="Adjacency Matrix Maker"
-  description="Create an interactive adjacency matrix of your vault."
+  description="创建拱顶的交互式邻接矩阵。"
   author="SkepticMystic"
-  :downloads="6166"
+  :downloads="6167"
   :updated="1623857189000"
   repo="SkepticMystic/adjacency-matrix-maker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Adjacency Matrix Maker 是一个功能强大的 Obsidian 插件。
 
-Create an interactive adjacency matrix of your vault.
+创建拱顶的交互式邻接矩阵。
 
 通过 Adjacency Matrix Maker,您可以:
 
@@ -202,7 +202,7 @@ Create an interactive adjacency matrix of your vault.
 - **下载量**：6.2K
 - **最后更新**：2021-06-16
 - **GitHub**：[SkepticMystic/adjacency-matrix-maker](https://github.com/SkepticMystic/adjacency-matrix-maker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

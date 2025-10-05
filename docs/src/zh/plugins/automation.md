@@ -2,11 +2,11 @@
 title: Automation
 description: Execute commands on specific events.
 author: Benature
-downloads: 2929
+downloads: 2932
 updated: 1717155455000
 repo: Benature/obsidian-automation
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Automation"
   description="Execute commands on specific events."
   author="Benature"
-  :downloads="2929"
+  :downloads="2932"
   :updated="1717155455000"
   repo="Benature/obsidian-automation"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Execute commands on specific events.
 - **下载量**：2.9K
 - **最后更新**：2024-05-31
 - **GitHub**：[Benature/obsidian-automation](https://github.com/Benature/obsidian-automation)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

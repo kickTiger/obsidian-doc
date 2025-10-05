@@ -1,12 +1,12 @@
 ---
 title: Folder Index
-description: Automatically generate a Map of Content for the current Folder and Subfolders.
+description: 为当前文件夹和子文件夹自动生成内容地图。
 author: turulix
-downloads: 30803
+downloads: 30830
 updated: 1757446339000
 repo: turulix/obsidian-folder-index
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-folder-index"
   name="Folder Index"
-  description="Automatically generate a Map of Content for the current Folder and Subfolders."
+  description="为当前文件夹和子文件夹自动生成内容地图。"
   author="turulix"
-  :downloads="30803"
+  :downloads="30830"
   :updated="1757446339000"
   repo="turulix/obsidian-folder-index"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Folder Index 是一个功能强大的 Obsidian 插件。
 
-Automatically generate a Map of Content for the current Folder and Subfolders.
+为当前文件夹和子文件夹自动生成内容地图。
 
 通过 Folder Index,您可以:
 
@@ -202,7 +202,7 @@ Automatically generate a Map of Content for the current Folder and Subfolders.
 - **下载量**：30.8K
 - **最后更新**：2025-09-10
 - **GitHub**：[turulix/obsidian-folder-index](https://github.com/turulix/obsidian-folder-index)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

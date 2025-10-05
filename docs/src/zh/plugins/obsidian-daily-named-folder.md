@@ -1,12 +1,12 @@
 ---
 title: Daily Named Folder
-description: 'Like daily notes, but nested in a daily folder with a oneline summary. Better for attachment management & glanceability.'
+description: 与每日笔记类似，但嵌套在每日文件夹中，并带有一条直线摘要。更有利于附件管理和一目了然。
 author: Nemo Andrea
-downloads: 22253
+downloads: 22275
 updated: 1755980971000
 repo: NemoAndrea/obsidian-daily-named-folder
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-daily-named-folder"
   name="Daily Named Folder"
-  description="Like daily notes, but nested in a daily folder with a oneline summary. Better for attachment management &amp; glanceability."
+  description="与每日笔记类似，但嵌套在每日文件夹中，并带有一条直线摘要。更有利于附件管理和一目了然。"
   author="Nemo Andrea"
-  :downloads="22253"
+  :downloads="22275"
   :updated="1755980971000"
   repo="NemoAndrea/obsidian-daily-named-folder"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Daily Named Folder 是一个功能强大的 Obsidian 插件。
 
-Like daily notes, but nested in a daily folder with a oneline summary. Better for attachment management &amp; glanceability.
+与每日笔记类似，但嵌套在每日文件夹中，并带有一条直线摘要。更有利于附件管理和一目了然。
 
 通过 Daily Named Folder,您可以:
 
@@ -202,7 +202,7 @@ Like daily notes, but nested in a daily folder with a oneline summary. Better fo
 - **下载量**：22.3K
 - **最后更新**：2025-08-24
 - **GitHub**：[NemoAndrea/obsidian-daily-named-folder](https://github.com/NemoAndrea/obsidian-daily-named-folder)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

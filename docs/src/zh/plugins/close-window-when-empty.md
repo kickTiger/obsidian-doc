@@ -6,7 +6,7 @@ downloads: 217
 updated: 1718656779000
 repo: TaylorJadin/close-window-when-empty
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1718656779000"
   repo="TaylorJadin/close-window-when-empty"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Close the window when the last note is closed, kind of how browsers work.
 - **下载量**：217
 - **最后更新**：2024-06-18
 - **GitHub**：[TaylorJadin/close-window-when-empty](https://github.com/TaylorJadin/close-window-when-empty)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

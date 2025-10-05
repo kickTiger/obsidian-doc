@@ -2,11 +2,11 @@
 title: Japanese note taking helper
 description: Streamline Japanese note-taking with romaji to kana conversion
 author: OverFitter
-downloads: 216
+downloads: 217
 updated: 1748590719000
 repo: OverFitted/obsidian-japanese-helper
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Japanese note taking helper"
   description="Streamline Japanese note-taking with romaji to kana conversion"
   author="OverFitter"
-  :downloads="216"
+  :downloads="217"
   :updated="1748590719000"
   repo="OverFitted/obsidian-japanese-helper"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Streamline Japanese note-taking with romaji to kana conversion
 - **插件 ID**：japanese-helper
 - **作者**：OverFitter
 - **当前版本**：v1.0.0
-- **下载量**：216
+- **下载量**：217
 - **最后更新**：2025-05-30
 - **GitHub**：[OverFitted/obsidian-japanese-helper](https://github.com/OverFitted/obsidian-japanese-helper)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

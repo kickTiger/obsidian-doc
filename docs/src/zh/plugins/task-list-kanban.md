@@ -1,12 +1,12 @@
 ---
 title: Task List Kanban
-description: Organizes all of the tasks within your files into a kanban view.
+description: 将文件中的所有任务整理成看板视图。
 author: Chris Kerr, Erika Rice Scherpelz
-downloads: 14946
+downloads: 15040
 updated: 1756765268000
 repo: ErikaRS/task-list-kanban
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="task-list-kanban"
   name="Task List Kanban"
-  description="Organizes all of the tasks within your files into a kanban view."
+  description="将文件中的所有任务整理成看板视图。"
   author="Chris Kerr, Erika Rice Scherpelz"
-  :downloads="14946"
+  :downloads="15040"
   :updated="1756765268000"
   repo="ErikaRS/task-list-kanban"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Task List Kanban 是一个功能强大的 Obsidian 插件。
 
-Organizes all of the tasks within your files into a kanban view.
+将文件中的所有任务整理成看板视图。
 
 通过 Task List Kanban,您可以:
 
@@ -199,10 +199,10 @@ Organizes all of the tasks within your files into a kanban view.
 - **插件 ID**：task-list-kanban
 - **作者**：Chris Kerr, Erika Rice Scherpelz
 - **当前版本**：v1.0.0
-- **下载量**：14.9K
+- **下载量**：15.0K
 - **最后更新**：2025-09-02
 - **GitHub**：[ErikaRS/task-list-kanban](https://github.com/ErikaRS/task-list-kanban)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

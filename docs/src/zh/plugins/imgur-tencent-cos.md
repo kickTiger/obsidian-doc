@@ -6,7 +6,7 @@ downloads: 287
 updated: 1745552120000
 repo: bobostudio/obsidian-imgur-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1745552120000"
   repo="bobostudio/obsidian-imgur-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Upload images to Tencent COS for Imgur.
 - **下载量**：287
 - **最后更新**：2025-04-25
 - **GitHub**：[bobostudio/obsidian-imgur-plugin](https://github.com/bobostudio/obsidian-imgur-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

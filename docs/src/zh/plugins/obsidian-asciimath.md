@@ -1,12 +1,12 @@
 ---
 title: asciimath
-description: Add asciimath support.
+description: 添加 asciimath 支持。
 author: widcardw
-downloads: 8279
+downloads: 8283
 updated: 1756454955000
 repo: widcardw/obsidian-asciimath
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-asciimath"
   name="asciimath"
-  description="Add asciimath support."
+  description="添加 asciimath 支持。"
   author="widcardw"
-  :downloads="8279"
+  :downloads="8283"
   :updated="1756454955000"
   repo="widcardw/obsidian-asciimath"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 asciimath 是一个功能强大的 Obsidian 插件。
 
-Add asciimath support.
+添加 asciimath 支持。
 
 通过 asciimath,您可以:
 
@@ -202,7 +202,7 @@ Add asciimath support.
 - **下载量**：8.3K
 - **最后更新**：2025-08-29
 - **GitHub**：[widcardw/obsidian-asciimath](https://github.com/widcardw/obsidian-asciimath)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

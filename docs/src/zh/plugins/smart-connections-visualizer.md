@@ -1,12 +1,12 @@
 ---
 title: Smart Connections Visualizer
-description: View your Smart Connections in a visualized format.
+description: 以可视化格式查看智能连接。
 author: Evan Moscoso
-downloads: 22345
+downloads: 22375
 updated: 1748618853000
 repo: Mossy1022/Smart-Connections-Visualizer
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smart-connections-visualizer"
   name="Smart Connections Visualizer"
-  description="View your Smart Connections in a visualized format."
+  description="以可视化格式查看智能连接。"
   author="Evan Moscoso"
-  :downloads="22345"
+  :downloads="22375"
   :updated="1748618853000"
   repo="Mossy1022/Smart-Connections-Visualizer"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Connections Visualizer 是一个功能强大的 Obsidian 插件。
 
-View your Smart Connections in a visualized format.
+以可视化格式查看智能连接。
 
 通过 Smart Connections Visualizer,您可以:
 
@@ -199,10 +199,10 @@ View your Smart Connections in a visualized format.
 - **插件 ID**：smart-connections-visualizer
 - **作者**：Evan Moscoso
 - **当前版本**：v1.0.0
-- **下载量**：22.3K
+- **下载量**：22.4K
 - **最后更新**：2025-05-30
 - **GitHub**：[Mossy1022/Smart-Connections-Visualizer](https://github.com/Mossy1022/Smart-Connections-Visualizer)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

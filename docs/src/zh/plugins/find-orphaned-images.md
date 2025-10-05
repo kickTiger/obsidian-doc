@@ -1,12 +1,12 @@
 ---
 title: Find Orphaned Images
-description: Finds images in the vault that are not linked to any notes. Either lists, or deletes them.
+description: 查找存储库中未链接到任何笔记的图像。列出或删除它们。
 author: Josmar Cristello
-downloads: 21259
+downloads: 21308
 updated: 1746294625000
 repo: josmarcristello/Obsidian-Find-Orphaned-Images
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="find-orphaned-images"
   name="Find Orphaned Images"
-  description="Finds images in the vault that are not linked to any notes. Either lists, or deletes them."
+  description="查找存储库中未链接到任何笔记的图像。列出或删除它们。"
   author="Josmar Cristello"
-  :downloads="21259"
+  :downloads="21308"
   :updated="1746294625000"
   repo="josmarcristello/Obsidian-Find-Orphaned-Images"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Find Orphaned Images 是一个功能强大的 Obsidian 插件。
 
-Finds images in the vault that are not linked to any notes. Either lists, or deletes them.
+查找存储库中未链接到任何笔记的图像。列出或删除它们。
 
 通过 Find Orphaned Images,您可以:
 
@@ -202,7 +202,7 @@ Finds images in the vault that are not linked to any notes. Either lists, or del
 - **下载量**：21.3K
 - **最后更新**：2025-05-04
 - **GitHub**：[josmarcristello/Obsidian-Find-Orphaned-Images](https://github.com/josmarcristello/Obsidian-Find-Orphaned-Images)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Callout Suggestions
-description: Adds a fuzzy searched suggestion modal for callouts.
+description: 为呼出添加模糊搜索建议模式。
 author: Casey Fryer
-downloads: 9913
+downloads: 9919
 updated: 1721668994000
 repo: cwfryer/obsidian-callout-suggestions
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="callout-suggestions"
   name="Callout Suggestions"
-  description="Adds a fuzzy searched suggestion modal for callouts."
+  description="为呼出添加模糊搜索建议模式。"
   author="Casey Fryer"
-  :downloads="9913"
+  :downloads="9919"
   :updated="1721668994000"
   repo="cwfryer/obsidian-callout-suggestions"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Callout Suggestions 是一个功能强大的 Obsidian 插件。
 
-Adds a fuzzy searched suggestion modal for callouts.
+为呼出添加模糊搜索建议模式。
 
 通过 Callout Suggestions,您可以:
 
@@ -202,7 +202,7 @@ Adds a fuzzy searched suggestion modal for callouts.
 - **下载量**：9.9K
 - **最后更新**：2024-07-23
 - **GitHub**：[cwfryer/obsidian-callout-suggestions](https://github.com/cwfryer/obsidian-callout-suggestions)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

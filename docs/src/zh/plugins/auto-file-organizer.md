@@ -2,11 +2,11 @@
 title: Auto File Organizer
 description: Automatically organizes files into folders based on their extensions.
 author: mofukuru
-downloads: 2484
+downloads: 2486
 updated: 1745581139000
 repo: mofukuru/auto_file_organizer
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto File Organizer"
   description="Automatically organizes files into folders based on their extensions."
   author="mofukuru"
-  :downloads="2484"
+  :downloads="2486"
   :updated="1745581139000"
   repo="mofukuru/auto_file_organizer"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically organizes files into folders based on their extensions.
 - **下载量**：2.5K
 - **最后更新**：2025-04-25
 - **GitHub**：[mofukuru/auto_file_organizer](https://github.com/mofukuru/auto_file_organizer)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

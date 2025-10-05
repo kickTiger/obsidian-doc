@@ -1,12 +1,12 @@
 ---
 title: Slash Commander
-description: Customize the slash command list, assign each command an icon.
+description: 自定义斜线命令列表，为每个命令分配一个图标。
 author: alephpiece
-downloads: 31547
+downloads: 31608
 updated: 1757406138000
 repo: alephpiece/obsidian-slash-commander
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="slash-commander"
   name="Slash Commander"
-  description="Customize the slash command list, assign each command an icon."
+  description="自定义斜线命令列表，为每个命令分配一个图标。"
   author="alephpiece"
-  :downloads="31547"
+  :downloads="31608"
   :updated="1757406138000"
   repo="alephpiece/obsidian-slash-commander"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Slash Commander 是一个功能强大的 Obsidian 插件。
 
-Customize the slash command list, assign each command an icon.
+自定义斜线命令列表，为每个命令分配一个图标。
 
 通过 Slash Commander,您可以:
 
@@ -199,10 +199,10 @@ Customize the slash command list, assign each command an icon.
 - **插件 ID**：slash-commander
 - **作者**：alephpiece
 - **当前版本**：v1.0.0
-- **下载量**：31.5K
+- **下载量**：31.6K
 - **最后更新**：2025-09-09
 - **GitHub**：[alephpiece/obsidian-slash-commander](https://github.com/alephpiece/obsidian-slash-commander)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Timestamp Notes
-description: Side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from.
+description: 与视频并排记事。用时间戳标注笔记，直接控制视频，记住每个笔记的出处。
 author: Julian Grunauer
-downloads: 23281
+downloads: 23287
 updated: 1658715201000
 repo: juliang22/ObsidianTimestampNotes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-timestamp-notes"
   name="Timestamp Notes"
-  description="Side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from."
+  description="与视频并排记事。用时间戳标注笔记，直接控制视频，记住每个笔记的出处。"
   author="Julian Grunauer"
-  :downloads="23281"
+  :downloads="23287"
   :updated="1658715201000"
   repo="juliang22/ObsidianTimestampNotes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Timestamp Notes 是一个功能强大的 Obsidian 插件。
 
-Side-by-side notetaking with videos. Annotate your notes with timestamps to directly control the video and remember where each note comes from.
+与视频并排记事。用时间戳标注笔记，直接控制视频，记住每个笔记的出处。
 
 通过 Timestamp Notes,您可以:
 
@@ -202,7 +202,7 @@ Side-by-side notetaking with videos. Annotate your notes with timestamps to dire
 - **下载量**：23.3K
 - **最后更新**：2022-07-25
 - **GitHub**：[juliang22/ObsidianTimestampNotes](https://github.com/juliang22/ObsidianTimestampNotes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

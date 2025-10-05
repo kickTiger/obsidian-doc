@@ -1,12 +1,12 @@
 ---
 title: Wielder
-description: Run Clojure/ClojureScript inside your notes.
+description: 在笔记中运行 Clojure/ClojureScript。
 author: victorb
 downloads: 3698
 updated: 1655927476000
 repo: victorb/obsidian-wielder
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="wielder"
   name="Wielder"
-  description="Run Clojure/ClojureScript inside your notes."
+  description="在笔记中运行 Clojure/ClojureScript。"
   author="victorb"
   :downloads="3698"
   :updated="1655927476000"
   repo="victorb/obsidian-wielder"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Wielder 是一个功能强大的 Obsidian 插件。
 
-Run Clojure/ClojureScript inside your notes.
+在笔记中运行 Clojure/ClojureScript。
 
 通过 Wielder,您可以:
 
@@ -202,7 +202,7 @@ Run Clojure/ClojureScript inside your notes.
 - **下载量**：3.7K
 - **最后更新**：2022-06-23
 - **GitHub**：[victorb/obsidian-wielder](https://github.com/victorb/obsidian-wielder)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

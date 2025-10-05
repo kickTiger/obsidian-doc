@@ -2,11 +2,11 @@
 title: TG Emoji Search
 description: Lets you type out emojis like in Telegram.
 author: MarsBatya
-downloads: 660
+downloads: 669
 updated: 1759142933000
 repo: MarsBatya/tg-emoji-search
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="TG Emoji Search"
   description="Lets you type out emojis like in Telegram."
   author="MarsBatya"
-  :downloads="660"
+  :downloads="669"
   :updated="1759142933000"
   repo="MarsBatya/tg-emoji-search"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Lets you type out emojis like in Telegram.
 - **插件 ID**：tg-emoji-search
 - **作者**：MarsBatya
 - **当前版本**：v1.0.0
-- **下载量**：660
+- **下载量**：669
 - **最后更新**：2025-09-29
 - **GitHub**：[MarsBatya/tg-emoji-search](https://github.com/MarsBatya/tg-emoji-search)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

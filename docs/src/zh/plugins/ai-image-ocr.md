@@ -2,11 +2,11 @@
 title: AI Image OCR
 description: Extracts text from images using AI Vision models.
 author: Rootiest
-downloads: 2576
+downloads: 2596
 updated: 1756136005000
 repo: rootiest/obsidian-ai-image-ocr
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="AI Image OCR"
   description="Extracts text from images using AI Vision models."
   author="Rootiest"
-  :downloads="2576"
+  :downloads="2596"
   :updated="1756136005000"
   repo="rootiest/obsidian-ai-image-ocr"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Extracts text from images using AI Vision models.
 - **下载量**：2.6K
 - **最后更新**：2025-08-25
 - **GitHub**：[rootiest/obsidian-ai-image-ocr](https://github.com/rootiest/obsidian-ai-image-ocr)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

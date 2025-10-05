@@ -1,12 +1,12 @@
 ---
 title: Image Captions
-description: Add captions to images with inline Markdown and link support. The caption format is compatible with the Commonmark spec and other Markdown applications.
+description: 为图片添加标题，支持内嵌 Markdown 和链接。标题格式与 Commonmark 规范和其他 Markdown 应用程序兼容。
 author: Alan Grainger
-downloads: 43895
+downloads: 43941
 updated: 1751606162000
 repo: alangrainger/obsidian-image-captions
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="image-captions"
   name="Image Captions"
-  description="Add captions to images with inline Markdown and link support. The caption format is compatible with the Commonmark spec and other Markdown applications."
+  description="为图片添加标题，支持内嵌 Markdown 和链接。标题格式与 Commonmark 规范和其他 Markdown 应用程序兼容。"
   author="Alan Grainger"
-  :downloads="43895"
+  :downloads="43941"
   :updated="1751606162000"
   repo="alangrainger/obsidian-image-captions"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Captions 是一个功能强大的 Obsidian 插件。
 
-Add captions to images with inline Markdown and link support. The caption format is compatible with the Commonmark spec and other Markdown applications.
+为图片添加标题，支持内嵌 Markdown 和链接。标题格式与 Commonmark 规范和其他 Markdown 应用程序兼容。
 
 通过 Image Captions,您可以:
 
@@ -202,7 +202,7 @@ Add captions to images with inline Markdown and link support. The caption format
 - **下载量**：43.9K
 - **最后更新**：2025-07-04
 - **GitHub**：[alangrainger/obsidian-image-captions](https://github.com/alangrainger/obsidian-image-captions)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

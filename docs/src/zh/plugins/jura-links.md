@@ -6,7 +6,7 @@ downloads: 330
 updated: 1744222997000
 repo: justanotherjurastudent/Jura-Links
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1744222997000"
   repo="justanotherjurastudent/Jura-Links"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Verlinke deine notierten Gesetzesnormen, Aktenzeichen und Zeitschriften-Fundstel
 - **下载量**：330
 - **最后更新**：2025-04-10
 - **GitHub**：[justanotherjurastudent/Jura-Links](https://github.com/justanotherjurastudent/Jura-Links)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

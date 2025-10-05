@@ -1,12 +1,12 @@
 ---
 title: Nuke Orphans
-description: Trash orphaned files and attachments.
+description: 销毁无用文件和附件
 author: Sandorex
-downloads: 11733
+downloads: 11739
 updated: 1705406336000
 repo: sandorex/nuke-orphans-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="nuke-orphans"
   name="Nuke Orphans"
-  description="Trash orphaned files and attachments."
+  description="销毁无用文件和附件"
   author="Sandorex"
-  :downloads="11733"
+  :downloads="11739"
   :updated="1705406336000"
   repo="sandorex/nuke-orphans-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Nuke Orphans 是一个功能强大的 Obsidian 插件。
 
-Trash orphaned files and attachments.
+销毁无用文件和附件
 
 通过 Nuke Orphans,您可以:
 
@@ -202,7 +202,7 @@ Trash orphaned files and attachments.
 - **下载量**：11.7K
 - **最后更新**：2024-01-16
 - **GitHub**：[sandorex/nuke-orphans-plugin](https://github.com/sandorex/nuke-orphans-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

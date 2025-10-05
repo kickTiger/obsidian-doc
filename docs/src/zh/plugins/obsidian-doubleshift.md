@@ -1,12 +1,12 @@
 ---
 title: Doubleshift
-description: Open the command palette by pressing Shift (or any other key) twice like in IntelliJ and create your own shortcuts.
+description: 像在 IntelliJ 中一样，按两次 Shift 键（或任何其他键）打开命令调板，并创建自己的快捷方式。
 author: Qwyntex
-downloads: 17470
+downloads: 17479
 updated: 1672513889000
 repo: Qwyntex/doubleshift
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-doubleshift"
   name="Doubleshift"
-  description="Open the command palette by pressing Shift (or any other key) twice like in IntelliJ and create your own shortcuts."
+  description="像在 IntelliJ 中一样，按两次 Shift 键（或任何其他键）打开命令调板，并创建自己的快捷方式。"
   author="Qwyntex"
-  :downloads="17470"
+  :downloads="17479"
   :updated="1672513889000"
   repo="Qwyntex/doubleshift"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Doubleshift 是一个功能强大的 Obsidian 插件。
 
-Open the command palette by pressing Shift (or any other key) twice like in IntelliJ and create your own shortcuts.
+像在 IntelliJ 中一样，按两次 Shift 键（或任何其他键）打开命令调板，并创建自己的快捷方式。
 
 通过 Doubleshift,您可以:
 
@@ -202,7 +202,7 @@ Open the command palette by pressing Shift (or any other key) twice like in Inte
 - **下载量**：17.5K
 - **最后更新**：2023-01-01
 - **GitHub**：[Qwyntex/doubleshift](https://github.com/Qwyntex/doubleshift)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

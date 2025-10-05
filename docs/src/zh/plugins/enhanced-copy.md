@@ -1,12 +1,12 @@
 ---
 title: Enhanced Copy
-description: 'Copy your selection and add it some edit to paste in other markdown software. Allows to keep markdown in reading view, removing wikilinks in editing, copy from locked canvas, and more!'
+description: 复制你的选中内容，并将其添加到一些编辑内容中，以便粘贴到其他标记符软件中。允许在阅读视图中保留标记符、在编辑中移除维基链接、从锁定的画布中复制等！
 author: Mara-Li
-downloads: 6740
+downloads: 6751
 updated: 1752836081000
 repo: Mara-Li/obsidian-enhanced-copy
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="enhanced-copy"
   name="Enhanced Copy"
-  description="Copy your selection and add it some edit to paste in other markdown software. Allows to keep markdown in reading view, removing wikilinks in editing, copy from locked canvas, and more!"
+  description="复制你的选中内容，并将其添加到一些编辑内容中，以便粘贴到其他标记符软件中。允许在阅读视图中保留标记符、在编辑中移除维基链接、从锁定的画布中复制等！"
   author="Mara-Li"
-  :downloads="6740"
+  :downloads="6751"
   :updated="1752836081000"
   repo="Mara-Li/obsidian-enhanced-copy"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Enhanced Copy 是一个功能强大的 Obsidian 插件。
 
-Copy your selection and add it some edit to paste in other markdown software. Allows to keep markdown in reading view, removing wikilinks in editing, copy from locked canvas, and more!
+复制你的选中内容，并将其添加到一些编辑内容中，以便粘贴到其他标记符软件中。允许在阅读视图中保留标记符、在编辑中移除维基链接、从锁定的画布中复制等！
 
 通过 Enhanced Copy,您可以:
 
@@ -199,10 +199,10 @@ Copy your selection and add it some edit to paste in other markdown software. Al
 - **插件 ID**：enhanced-copy
 - **作者**：Mara-Li
 - **当前版本**：v1.0.0
-- **下载量**：6.7K
+- **下载量**：6.8K
 - **最后更新**：2025-07-18
 - **GitHub**：[Mara-Li/obsidian-enhanced-copy](https://github.com/Mara-Li/obsidian-enhanced-copy)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

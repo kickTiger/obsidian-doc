@@ -1,12 +1,12 @@
 ---
 title: Shortcut Launcher
-description: 'Trigger shortcuts in Apple''s Shortcuts app from Obsidian with custom commands.'
+description: 在黑曜石的苹果快捷方式应用中使用自定义命令触发快捷方式。
 author: MacStories
-downloads: 16301
+downloads: 16305
 updated: 1712227070000
 repo: macstories/obsidian-shortcut-launcher
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-shortcut-launcher"
   name="Shortcut Launcher"
-  description="Trigger shortcuts in Apple&#39;s Shortcuts app from Obsidian with custom commands."
+  description="在黑曜石的苹果快捷方式应用中使用自定义命令触发快捷方式。"
   author="MacStories"
-  :downloads="16301"
+  :downloads="16305"
   :updated="1712227070000"
   repo="macstories/obsidian-shortcut-launcher"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Shortcut Launcher 是一个功能强大的 Obsidian 插件。
 
-Trigger shortcuts in Apple&#39;s Shortcuts app from Obsidian with custom commands.
+在黑曜石的苹果快捷方式应用中使用自定义命令触发快捷方式。
 
 通过 Shortcut Launcher,您可以:
 
@@ -202,7 +202,7 @@ Trigger shortcuts in Apple&#39;s Shortcuts app from Obsidian with custom command
 - **下载量**：16.3K
 - **最后更新**：2024-04-04
 - **GitHub**：[macstories/obsidian-shortcut-launcher](https://github.com/macstories/obsidian-shortcut-launcher)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

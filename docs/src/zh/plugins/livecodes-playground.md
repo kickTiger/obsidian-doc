@@ -2,11 +2,11 @@
 title: Livecodes Playground
 description: Client-side code editor playground - Powered by LiveCodes
 author: '@gapmiss'
-downloads: 1506
+downloads: 1510
 updated: 1747165168000
 repo: gapmiss/livecodes-playground
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Livecodes Playground"
   description="Client-side code editor playground - Powered by LiveCodes"
   author="@gapmiss"
-  :downloads="1506"
+  :downloads="1510"
   :updated="1747165168000"
   repo="gapmiss/livecodes-playground"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Client-side code editor playground - Powered by LiveCodes
 - **下载量**：1.5K
 - **最后更新**：2025-05-14
 - **GitHub**：[gapmiss/livecodes-playground](https://github.com/gapmiss/livecodes-playground)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

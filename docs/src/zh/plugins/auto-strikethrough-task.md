@@ -2,11 +2,11 @@
 title: Auto Strikethrough Tasks
 description: Automatically adds strikethrough to completed tasks.
 author: Nomekuma
-downloads: 526
+downloads: 528
 updated: 1728400845000
 repo: Nomekuma/auto-strikethrough-task-obsidian-pluggin
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto Strikethrough Tasks"
   description="Automatically adds strikethrough to completed tasks."
   author="Nomekuma"
-  :downloads="526"
+  :downloads="528"
   :updated="1728400845000"
   repo="Nomekuma/auto-strikethrough-task-obsidian-pluggin"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically adds strikethrough to completed tasks.
 - **插件 ID**：auto-strikethrough-task
 - **作者**：Nomekuma
 - **当前版本**：v1.0.0
-- **下载量**：526
+- **下载量**：528
 - **最后更新**：2024-10-08
 - **GitHub**：[Nomekuma/auto-strikethrough-task-obsidian-pluggin](https://github.com/Nomekuma/auto-strikethrough-task-obsidian-pluggin)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

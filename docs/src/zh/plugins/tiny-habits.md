@@ -2,11 +2,11 @@
 title: Tiny Habits
 description: Habit tracking in a calendar table
 author: Diego Nazoa
-downloads: 406
+downloads: 413
 updated: 1758394937000
 repo: nazoadiego/tiny-habits
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tiny Habits"
   description="Habit tracking in a calendar table"
   author="Diego Nazoa"
-  :downloads="406"
+  :downloads="413"
   :updated="1758394937000"
   repo="nazoadiego/tiny-habits"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Habit tracking in a calendar table
 - **插件 ID**：tiny-habits
 - **作者**：Diego Nazoa
 - **当前版本**：v1.0.0
-- **下载量**：406
+- **下载量**：413
 - **最后更新**：2025-09-21
 - **GitHub**：[nazoadiego/tiny-habits](https://github.com/nazoadiego/tiny-habits)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

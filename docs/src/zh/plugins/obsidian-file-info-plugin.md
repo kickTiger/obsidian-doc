@@ -1,12 +1,12 @@
 ---
 title: File Info Panel
-description: 'Create a File Info view that displays the active file''s date created, date modified, file size, and links to open the file in its native application and to open the file''s folder.'
+description: 创建文件信息视图，显示活动文件的创建日期、修改日期、文件大小，以及在本地应用程序中打开文件和打开文件文件夹的链接。
 author: CattailNu
-downloads: 19723
+downloads: 19734
 updated: 1673621329000
 repo: CattailNu/obsidian-file-info-panel-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-file-info-plugin"
   name="File Info Panel"
-  description="Create a File Info view that displays the active file&#39;s date created, date modified, file size, and links to open the file in its native application and to open the file&#39;s folder."
+  description="创建文件信息视图，显示活动文件的创建日期、修改日期、文件大小，以及在本地应用程序中打开文件和打开文件文件夹的链接。"
   author="CattailNu"
-  :downloads="19723"
+  :downloads="19734"
   :updated="1673621329000"
   repo="CattailNu/obsidian-file-info-panel-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Info Panel 是一个功能强大的 Obsidian 插件。
 
-Create a File Info view that displays the active file&#39;s date created, date modified, file size, and links to open the file in its native application and to open the file&#39;s folder.
+创建文件信息视图，显示活动文件的创建日期、修改日期、文件大小，以及在本地应用程序中打开文件和打开文件文件夹的链接。
 
 通过 File Info Panel,您可以:
 
@@ -202,7 +202,7 @@ Create a File Info view that displays the active file&#39;s date created, date m
 - **下载量**：19.7K
 - **最后更新**：2023-01-13
 - **GitHub**：[CattailNu/obsidian-file-info-panel-plugin](https://github.com/CattailNu/obsidian-file-info-panel-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Task Director
 description: Manage and change tasks targeting a specific page
 author: Cybertramp
-downloads: 227
+downloads: 228
 updated: 1731637511000
 repo: cybertramp/obsidian-task-director
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Task Director"
   description="Manage and change tasks targeting a specific page"
   author="Cybertramp"
-  :downloads="227"
+  :downloads="228"
   :updated="1731637511000"
   repo="cybertramp/obsidian-task-director"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Manage and change tasks targeting a specific page
 - **插件 ID**：task-director
 - **作者**：Cybertramp
 - **当前版本**：v1.0.0
-- **下载量**：227
+- **下载量**：228
 - **最后更新**：2024-11-15
 - **GitHub**：[cybertramp/obsidian-task-director](https://github.com/cybertramp/obsidian-task-director)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

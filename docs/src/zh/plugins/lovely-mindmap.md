@@ -1,12 +1,12 @@
 ---
 title: Lovely-Mindmap
-description: 'Build your own knowledge graph with smiles :-)'
+description: '用微笑构建自己的知识图谱 :-)'
 author: shaun
-downloads: 21563
+downloads: 21586
 updated: 1726902736000
 repo: shaunhurryup/lovely-mindmap
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="lovely-mindmap"
   name="Lovely-Mindmap"
-  description="Build your own knowledge graph with smiles :-)"
+  description="用微笑构建自己的知识图谱 :-)"
   author="shaun"
-  :downloads="21563"
+  :downloads="21586"
   :updated="1726902736000"
   repo="shaunhurryup/lovely-mindmap"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Lovely-Mindmap 是一个功能强大的 Obsidian 插件。
 
-Build your own knowledge graph with smiles :-)
+用微笑构建自己的知识图谱 :-)
 
 通过 Lovely-Mindmap,您可以:
 
@@ -202,7 +202,7 @@ Build your own knowledge graph with smiles :-)
 - **下载量**：21.6K
 - **最后更新**：2024-09-21
 - **GitHub**：[shaunhurryup/lovely-mindmap](https://github.com/shaunhurryup/lovely-mindmap)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Search Everywhere
-description: Search everywhere by pressing double shift like in IntelliJ.
+description: 像在 IntelliJ 中一样，按双击 shift 键即可搜索所有地方。
 author: Mom0
-downloads: 7022
+downloads: 7023
 updated: 1647267886000
 repo: Mom0aut/obsidian-search-everywhere
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-search-everywhere-plugin"
   name="Search Everywhere"
-  description="Search everywhere by pressing double shift like in IntelliJ."
+  description="像在 IntelliJ 中一样，按双击 shift 键即可搜索所有地方。"
   author="Mom0"
-  :downloads="7022"
+  :downloads="7023"
   :updated="1647267886000"
   repo="Mom0aut/obsidian-search-everywhere"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Search Everywhere 是一个功能强大的 Obsidian 插件。
 
-Search everywhere by pressing double shift like in IntelliJ.
+像在 IntelliJ 中一样，按双击 shift 键即可搜索所有地方。
 
 通过 Search Everywhere,您可以:
 
@@ -202,7 +202,7 @@ Search everywhere by pressing double shift like in IntelliJ.
 - **下载量**：7.0K
 - **最后更新**：2022-03-14
 - **GitHub**：[Mom0aut/obsidian-search-everywhere](https://github.com/Mom0aut/obsidian-search-everywhere)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

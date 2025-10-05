@@ -1,12 +1,12 @@
 ---
 title: Habit Tracker 21
-description: Your 21-day journey to habit formation simplified.
+description: 你的 21 天习惯养成简化之旅。
 author: zoreet
-downloads: 13013
+downloads: 13025
 updated: 1723807092000
 repo: zincplusplus/habit-tracker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="habit-tracker-21"
   name="Habit Tracker 21"
-  description="Your 21-day journey to habit formation simplified."
+  description="你的 21 天习惯养成简化之旅。"
   author="zoreet"
-  :downloads="13013"
+  :downloads="13025"
   :updated="1723807092000"
   repo="zincplusplus/habit-tracker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Habit Tracker 21 是一个功能强大的 Obsidian 插件。
 
-Your 21-day journey to habit formation simplified.
+你的 21 天习惯养成简化之旅。
 
 通过 Habit Tracker 21,您可以:
 
@@ -202,7 +202,7 @@ Your 21-day journey to habit formation simplified.
 - **下载量**：13.0K
 - **最后更新**：2024-08-16
 - **GitHub**：[zincplusplus/habit-tracker](https://github.com/zincplusplus/habit-tracker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

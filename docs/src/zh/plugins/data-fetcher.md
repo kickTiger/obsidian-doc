@@ -2,11 +2,11 @@
 title: Data Fetcher
 description: Fetch data from multiple sources (REST APIs, RPC, gRPC, GraphQL) and insert results into notes
 author: qf3l3k
-downloads: 593
+downloads: 595
 updated: 1745784366000
 repo: qf3l3k/obsidian-data-fetcher
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Data Fetcher"
   description="Fetch data from multiple sources (REST APIs, RPC, gRPC, GraphQL) and insert results into notes"
   author="qf3l3k"
-  :downloads="593"
+  :downloads="595"
   :updated="1745784366000"
   repo="qf3l3k/obsidian-data-fetcher"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Fetch data from multiple sources (REST APIs, RPC, gRPC, GraphQL) and insert resu
 - **插件 ID**：data-fetcher
 - **作者**：qf3l3k
 - **当前版本**：v1.0.0
-- **下载量**：593
+- **下载量**：595
 - **最后更新**：2025-04-28
 - **GitHub**：[qf3l3k/obsidian-data-fetcher](https://github.com/qf3l3k/obsidian-data-fetcher)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

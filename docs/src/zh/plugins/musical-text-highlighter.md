@@ -2,11 +2,11 @@
 title: Musical Text
 description: Highlight sentences with color based on their length as you write.
 author: Tynan Purdy
-downloads: 800
+downloads: 803
 updated: 1750534963000
 repo: tynanpurdy/musical-text
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Musical Text"
   description="Highlight sentences with color based on their length as you write."
   author="Tynan Purdy"
-  :downloads="800"
+  :downloads="803"
   :updated="1750534963000"
   repo="tynanpurdy/musical-text"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Highlight sentences with color based on their length as you write.
 - **插件 ID**：musical-text-highlighter
 - **作者**：Tynan Purdy
 - **当前版本**：v1.0.0
-- **下载量**：800
+- **下载量**：803
 - **最后更新**：2025-06-22
 - **GitHub**：[tynanpurdy/musical-text](https://github.com/tynanpurdy/musical-text)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

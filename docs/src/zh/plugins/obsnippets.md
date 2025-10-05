@@ -2,11 +2,11 @@
 title: Snippetsaurus
 description: Create and managing text and code snippets.
 author: Christian Humbert
-downloads: 645
+downloads: 646
 updated: 1732876095000
 repo: Chrstn67/Snippetsaurus
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Snippetsaurus"
   description="Create and managing text and code snippets."
   author="Christian Humbert"
-  :downloads="645"
+  :downloads="646"
   :updated="1732876095000"
   repo="Chrstn67/Snippetsaurus"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create and managing text and code snippets.
 - **插件 ID**：obsnippets
 - **作者**：Christian Humbert
 - **当前版本**：v1.0.0
-- **下载量**：645
+- **下载量**：646
 - **最后更新**：2024-11-29
 - **GitHub**：[Chrstn67/Snippetsaurus](https://github.com/Chrstn67/Snippetsaurus)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

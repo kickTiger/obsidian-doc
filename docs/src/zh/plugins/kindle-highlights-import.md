@@ -2,11 +2,11 @@
 title: Kindle Highlights Import
 description: Imports the Kindle highlights HTML file and saves it as a note in your vault.
 author: Leon Luttenberger
-downloads: 540
+downloads: 543
 updated: 1757780918000
 repo: LeonLuttenberger/obsidian-kindle-highlight-import
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Kindle Highlights Import"
   description="Imports the Kindle highlights HTML file and saves it as a note in your vault."
   author="Leon Luttenberger"
-  :downloads="540"
+  :downloads="543"
   :updated="1757780918000"
   repo="LeonLuttenberger/obsidian-kindle-highlight-import"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Imports the Kindle highlights HTML file and saves it as a note in your vault.
 - **插件 ID**：kindle-highlights-import
 - **作者**：Leon Luttenberger
 - **当前版本**：v1.0.0
-- **下载量**：540
+- **下载量**：543
 - **最后更新**：2025-09-14
 - **GitHub**：[LeonLuttenberger/obsidian-kindle-highlight-import](https://github.com/LeonLuttenberger/obsidian-kindle-highlight-import)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

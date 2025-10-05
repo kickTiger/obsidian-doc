@@ -2,11 +2,11 @@
 title: External File Card
 description: Display file cards for external files.
 author: James-Yu
-downloads: 586
+downloads: 587
 updated: 1738898173000
 repo: James-Yu/external-file-card
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="External File Card"
   description="Display file cards for external files."
   author="James-Yu"
-  :downloads="586"
+  :downloads="587"
   :updated="1738898173000"
   repo="James-Yu/external-file-card"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Display file cards for external files.
 - **插件 ID**：external-file-card
 - **作者**：James-Yu
 - **当前版本**：v1.0.0
-- **下载量**：586
+- **下载量**：587
 - **最后更新**：2025-02-07
 - **GitHub**：[James-Yu/external-file-card](https://github.com/James-Yu/external-file-card)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

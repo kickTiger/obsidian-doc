@@ -1,12 +1,12 @@
 ---
 title: Multi-line Formatting
-description: Apply formatting to selected text, dealing with the paragraph breaks.
+description: 对选中的文本应用格式，处理段落分隔符。
 author: nmady
-downloads: 7992
+downloads: 7995
 updated: 1632496690000
 repo: nmady/obsidian-multi-line-formatting
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="multi-line-formatting"
   name="Multi-line Formatting"
-  description="Apply formatting to selected text, dealing with the paragraph breaks."
+  description="对选中的文本应用格式，处理段落分隔符。"
   author="nmady"
-  :downloads="7992"
+  :downloads="7995"
   :updated="1632496690000"
   repo="nmady/obsidian-multi-line-formatting"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Multi-line Formatting 是一个功能强大的 Obsidian 插件。
 
-Apply formatting to selected text, dealing with the paragraph breaks.
+对选中的文本应用格式，处理段落分隔符。
 
 通过 Multi-line Formatting,您可以:
 
@@ -202,7 +202,7 @@ Apply formatting to selected text, dealing with the paragraph breaks.
 - **下载量**：8.0K
 - **最后更新**：2021-09-24
 - **GitHub**：[nmady/obsidian-multi-line-formatting](https://github.com/nmady/obsidian-multi-line-formatting)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

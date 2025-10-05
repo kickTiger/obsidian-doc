@@ -1,12 +1,12 @@
 ---
 title: Hover External Link
-description: Hover on external links to see the destination URL.
+description: 将鼠标悬停在外部链接上，即可看到目标 URL。
 author: Jamie Brynes
-downloads: 7316
+downloads: 7317
 updated: 1629754445000
 repo: jamiebrynes7/obsidian-hover-external-link
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="hover-external-link"
   name="Hover External Link"
-  description="Hover on external links to see the destination URL."
+  description="将鼠标悬停在外部链接上，即可看到目标 URL。"
   author="Jamie Brynes"
-  :downloads="7316"
+  :downloads="7317"
   :updated="1629754445000"
   repo="jamiebrynes7/obsidian-hover-external-link"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hover External Link 是一个功能强大的 Obsidian 插件。
 
-Hover on external links to see the destination URL.
+将鼠标悬停在外部链接上，即可看到目标 URL。
 
 通过 Hover External Link,您可以:
 
@@ -202,7 +202,7 @@ Hover on external links to see the destination URL.
 - **下载量**：7.3K
 - **最后更新**：2021-08-24
 - **GitHub**：[jamiebrynes7/obsidian-hover-external-link](https://github.com/jamiebrynes7/obsidian-hover-external-link)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

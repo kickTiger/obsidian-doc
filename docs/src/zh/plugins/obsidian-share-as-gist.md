@@ -1,12 +1,12 @@
 ---
 title: Share as Gist
-description: Share a note as a GitHub.com Gist.
+description: 以 GitHub.com Gist 的形式共享注释。
 author: timrogers
-downloads: 8847
+downloads: 8850
 updated: 1739874792000
 repo: timrogers/obsidian-share-as-gist
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-share-as-gist"
   name="Share as Gist"
-  description="Share a note as a GitHub.com Gist."
+  description="以 GitHub.com Gist 的形式共享注释。"
   author="timrogers"
-  :downloads="8847"
+  :downloads="8850"
   :updated="1739874792000"
   repo="timrogers/obsidian-share-as-gist"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Share as Gist 是一个功能强大的 Obsidian 插件。
 
-Share a note as a GitHub.com Gist.
+以 GitHub.com Gist 的形式共享注释。
 
 通过 Share as Gist,您可以:
 
@@ -202,7 +202,7 @@ Share a note as a GitHub.com Gist.
 - **下载量**：8.8K
 - **最后更新**：2025-02-18
 - **GitHub**：[timrogers/obsidian-share-as-gist](https://github.com/timrogers/obsidian-share-as-gist)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Text Wrapper
-description: Quickly wrap selected text with HTML tags by using a shortcut or from the command palette.
+description: 使用快捷键或从命令调板快速用 HTML 标记对选定文本进行包装。
 author: smx0
-downloads: 4913
+downloads: 4914
 updated: 1673989151000
 repo: smx0/obs-text-wrapper
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obs-text-wrapper"
   name="Text Wrapper"
-  description="Quickly wrap selected text with HTML tags by using a shortcut or from the command palette."
+  description="使用快捷键或从命令调板快速用 HTML 标记对选定文本进行包装。"
   author="smx0"
-  :downloads="4913"
+  :downloads="4914"
   :updated="1673989151000"
   repo="smx0/obs-text-wrapper"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text Wrapper 是一个功能强大的 Obsidian 插件。
 
-Quickly wrap selected text with HTML tags by using a shortcut or from the command palette.
+使用快捷键或从命令调板快速用 HTML 标记对选定文本进行包装。
 
 通过 Text Wrapper,您可以:
 
@@ -202,7 +202,7 @@ Quickly wrap selected text with HTML tags by using a shortcut or from the comman
 - **下载量**：4.9K
 - **最后更新**：2023-01-18
 - **GitHub**：[smx0/obs-text-wrapper](https://github.com/smx0/obs-text-wrapper)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

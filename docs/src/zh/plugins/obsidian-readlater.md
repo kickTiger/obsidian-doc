@@ -1,12 +1,12 @@
 ---
 title: Read Later
-description: Synch web pages to Markdown and integrate with read-it-later apps (Pocket, Instapaper).
+description: '将网页同步到 Markdown，并与 "稍后阅读 "应用程序（Pocket、Instapaper）集成。'
 author: Gabriele Cannata
 downloads: 6678
 updated: 1670778172000
 repo: Canna71/obsidian-readlater
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-readlater"
   name="Read Later"
-  description="Synch web pages to Markdown and integrate with read-it-later apps (Pocket, Instapaper)."
+  description="将网页同步到 Markdown，并与 &quot;稍后阅读 &quot;应用程序（Pocket、Instapaper）集成。"
   author="Gabriele Cannata"
   :downloads="6678"
   :updated="1670778172000"
   repo="Canna71/obsidian-readlater"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Read Later 是一个功能强大的 Obsidian 插件。
 
-Synch web pages to Markdown and integrate with read-it-later apps (Pocket, Instapaper).
+将网页同步到 Markdown，并与 &quot;稍后阅读 &quot;应用程序（Pocket、Instapaper）集成。
 
 通过 Read Later,您可以:
 
@@ -202,7 +202,7 @@ Synch web pages to Markdown and integrate with read-it-later apps (Pocket, Insta
 - **下载量**：6.7K
 - **最后更新**：2022-12-12
 - **GitHub**：[Canna71/obsidian-readlater](https://github.com/Canna71/obsidian-readlater)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

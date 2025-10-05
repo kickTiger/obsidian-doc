@@ -1,12 +1,12 @@
 ---
 title: Auto Note Mover
-description: Automatically move the active notes to their respective folders according to rules you set.
+description: 根据你设定的规则，自动将活动笔记移动到各自的文件夹中。
 author: faru
-downloads: 79338
+downloads: 79407
 updated: 1650103882000
 repo: farux/obsidian-auto-note-mover
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-note-mover"
   name="Auto Note Mover"
-  description="Automatically move the active notes to their respective folders according to rules you set."
+  description="根据你设定的规则，自动将活动笔记移动到各自的文件夹中。"
   author="faru"
-  :downloads="79338"
+  :downloads="79407"
   :updated="1650103882000"
   repo="farux/obsidian-auto-note-mover"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Note Mover 是一个功能强大的 Obsidian 插件。
 
-Automatically move the active notes to their respective folders according to rules you set.
+根据你设定的规则，自动将活动笔记移动到各自的文件夹中。
 
 通过 Auto Note Mover,您可以:
 
@@ -199,10 +199,10 @@ Automatically move the active notes to their respective folders according to rul
 - **插件 ID**：auto-note-mover
 - **作者**：faru
 - **当前版本**：v1.0.0
-- **下载量**：79.3K
+- **下载量**：79.4K
 - **最后更新**：2022-04-16
 - **GitHub**：[farux/obsidian-auto-note-mover](https://github.com/farux/obsidian-auto-note-mover)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

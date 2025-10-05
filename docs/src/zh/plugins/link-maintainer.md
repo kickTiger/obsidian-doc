@@ -2,11 +2,11 @@
 title: Link Maintainer
 description: Maintain note links when splitting or reorganizing notes.
 author: wenlzhang
-downloads: 1071
+downloads: 1105
 updated: 1759515808000
 repo: wenlzhang/obsidian-link-maintainer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Link Maintainer"
   description="Maintain note links when splitting or reorganizing notes."
   author="wenlzhang"
-  :downloads="1071"
+  :downloads="1105"
   :updated="1759515808000"
   repo="wenlzhang/obsidian-link-maintainer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Maintain note links when splitting or reorganizing notes.
 - **下载量**：1.1K
 - **最后更新**：2025-10-04
 - **GitHub**：[wenlzhang/obsidian-link-maintainer](https://github.com/wenlzhang/obsidian-link-maintainer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Zotero Sync
-description: Zotero API client to sync your Zotero library into your vault.
+description: Zotero API 客户端可将 Zotero 库同步到你的保险库。
 author: Frithjof Gressmann
-downloads: 7938
+downloads: 7946
 updated: 1753972600000
 repo: frthjf/obsidian-zotero-sync-client
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="zotero-sync-client"
   name="Zotero Sync"
-  description="Zotero API client to sync your Zotero library into your vault."
+  description="Zotero API 客户端可将 Zotero 库同步到你的保险库。"
   author="Frithjof Gressmann"
-  :downloads="7938"
+  :downloads="7946"
   :updated="1753972600000"
   repo="frthjf/obsidian-zotero-sync-client"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Zotero Sync 是一个功能强大的 Obsidian 插件。
 
-Zotero API client to sync your Zotero library into your vault.
+Zotero API 客户端可将 Zotero 库同步到你的保险库。
 
 通过 Zotero Sync,您可以:
 
@@ -202,7 +202,7 @@ Zotero API client to sync your Zotero library into your vault.
 - **下载量**：7.9K
 - **最后更新**：2025-07-31
 - **GitHub**：[frthjf/obsidian-zotero-sync-client](https://github.com/frthjf/obsidian-zotero-sync-client)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

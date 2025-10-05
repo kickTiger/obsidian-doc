@@ -6,7 +6,7 @@ downloads: 822
 updated: 1711753698000
 repo: amrojjeh/obsidian-buckwalter
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1711753698000"
   repo="amrojjeh/obsidian-buckwalter"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Renders Arabic using Buckwalter&#39;s encoding scheme.
 - **下载量**：822
 - **最后更新**：2024-03-30
 - **GitHub**：[amrojjeh/obsidian-buckwalter](https://github.com/amrojjeh/obsidian-buckwalter)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Canvas CSS class
-description: Add a CSS class to the canvas, but also other attributes.
+description: 为画布添加 CSS 类，还可添加其他属性。
 author: Mara-Li
-downloads: 24753
+downloads: 24772
 updated: 1717680386000
 repo: Mara-Li/obsidian-canvas-css-class
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="canvas-css-class"
   name="Canvas CSS class"
-  description="Add a CSS class to the canvas, but also other attributes."
+  description="为画布添加 CSS 类，还可添加其他属性。"
   author="Mara-Li"
-  :downloads="24753"
+  :downloads="24772"
   :updated="1717680386000"
   repo="Mara-Li/obsidian-canvas-css-class"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas CSS class 是一个功能强大的 Obsidian 插件。
 
-Add a CSS class to the canvas, but also other attributes.
+为画布添加 CSS 类，还可添加其他属性。
 
 通过 Canvas CSS class,您可以:
 
@@ -202,7 +202,7 @@ Add a CSS class to the canvas, but also other attributes.
 - **下载量**：24.8K
 - **最后更新**：2024-06-06
 - **GitHub**：[Mara-Li/obsidian-canvas-css-class](https://github.com/Mara-Li/obsidian-canvas-css-class)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

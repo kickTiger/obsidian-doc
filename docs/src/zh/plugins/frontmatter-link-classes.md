@@ -6,7 +6,7 @@ downloads: 129
 updated: 1749581406000
 repo: zmeeeeeva/obsidian-plugin-metadata-link-classes
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1749581406000"
   repo="zmeeeeeva/obsidian-plugin-metadata-link-classes"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds classes to internal links based on frontmatter metadata.
 - **下载量**：129
 - **最后更新**：2025-06-11
 - **GitHub**：[zmeeeeeva/obsidian-plugin-metadata-link-classes](https://github.com/zmeeeeeva/obsidian-plugin-metadata-link-classes)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

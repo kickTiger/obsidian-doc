@@ -1,12 +1,12 @@
 ---
 title: Initiative Tracker
-description: TTRPG initiative tracker.
+description: TTRPG 计划跟踪器。
 author: Jeremy Valentine
-downloads: 124473
+downloads: 124581
 updated: 1755469583000
 repo: javalent/initiative-tracker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="initiative-tracker"
   name="Initiative Tracker"
-  description="TTRPG initiative tracker."
+  description="TTRPG 计划跟踪器。"
   author="Jeremy Valentine"
-  :downloads="124473"
+  :downloads="124581"
   :updated="1755469583000"
   repo="javalent/initiative-tracker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Initiative Tracker 是一个功能强大的 Obsidian 插件。
 
-TTRPG initiative tracker.
+TTRPG 计划跟踪器。
 
 通过 Initiative Tracker,您可以:
 
@@ -199,10 +199,10 @@ TTRPG initiative tracker.
 - **插件 ID**：initiative-tracker
 - **作者**：Jeremy Valentine
 - **当前版本**：v1.0.0
-- **下载量**：124.5K
+- **下载量**：124.6K
 - **最后更新**：2025-08-18
 - **GitHub**：[javalent/initiative-tracker](https://github.com/javalent/initiative-tracker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: AI Note Tagger
 description: Automatically tag your notes using AI and update frontmatter with generated tags.
 author: Jasper Mayone
-downloads: 799
+downloads: 802
 updated: 1747310636000
 repo: jaspermayone/obsidian-ai-tagger
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="AI Note Tagger"
   description="Automatically tag your notes using AI and update frontmatter with generated tags."
   author="Jasper Mayone"
-  :downloads="799"
+  :downloads="802"
   :updated="1747310636000"
   repo="jaspermayone/obsidian-ai-tagger"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically tag your notes using AI and update frontmatter with generated tags
 - **插件 ID**：ai-note-tagger
 - **作者**：Jasper Mayone
 - **当前版本**：v1.0.0
-- **下载量**：799
+- **下载量**：802
 - **最后更新**：2025-05-15
 - **GitHub**：[jaspermayone/obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

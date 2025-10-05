@@ -1,12 +1,12 @@
 ---
 title: Task Genius
-description: Comprehensive task management that includes progress bars, task status cycling, and advanced task tracking features.
+description: 全面的任务管理，包括进度条、任务状态循环和高级任务跟踪功能。
 author: Boninall
-downloads: 89033
+downloads: 89190
 updated: 1758935777000
 repo: Quorafind/Obsidian-Task-Genius
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-task-progress-bar"
   name="Task Genius"
-  description="Comprehensive task management that includes progress bars, task status cycling, and advanced task tracking features."
+  description="全面的任务管理，包括进度条、任务状态循环和高级任务跟踪功能。"
   author="Boninall"
-  :downloads="89033"
+  :downloads="89190"
   :updated="1758935777000"
   repo="Quorafind/Obsidian-Task-Genius"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Task Genius 是一个功能强大的 Obsidian 插件。
 
-Comprehensive task management that includes progress bars, task status cycling, and advanced task tracking features.
+全面的任务管理，包括进度条、任务状态循环和高级任务跟踪功能。
 
 通过 Task Genius,您可以:
 
@@ -199,10 +199,10 @@ Comprehensive task management that includes progress bars, task status cycling, 
 - **插件 ID**：obsidian-task-progress-bar
 - **作者**：Boninall
 - **当前版本**：v1.0.0
-- **下载量**：89.0K
+- **下载量**：89.2K
 - **最后更新**：2025-09-27
 - **GitHub**：[Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

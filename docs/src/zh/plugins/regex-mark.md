@@ -1,12 +1,12 @@
 ---
 title: Regex Mark
-description: Add custom CSS classes to text based on regular expressions.
+description: 根据正则表达式为文本添加自定义 CSS 类。
 author: Mara-Li
-downloads: 5140
+downloads: 5161
 updated: 1756883747000
 repo: Mara-Li/obsidian-regex-mark
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="regex-mark"
   name="Regex Mark"
-  description="Add custom CSS classes to text based on regular expressions."
+  description="根据正则表达式为文本添加自定义 CSS 类。"
   author="Mara-Li"
-  :downloads="5140"
+  :downloads="5161"
   :updated="1756883747000"
   repo="Mara-Li/obsidian-regex-mark"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Regex Mark 是一个功能强大的 Obsidian 插件。
 
-Add custom CSS classes to text based on regular expressions.
+根据正则表达式为文本添加自定义 CSS 类。
 
 通过 Regex Mark,您可以:
 
@@ -199,10 +199,10 @@ Add custom CSS classes to text based on regular expressions.
 - **插件 ID**：regex-mark
 - **作者**：Mara-Li
 - **当前版本**：v1.0.0
-- **下载量**：5.1K
+- **下载量**：5.2K
 - **最后更新**：2025-09-03
 - **GitHub**：[Mara-Li/obsidian-regex-mark](https://github.com/Mara-Li/obsidian-regex-mark)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

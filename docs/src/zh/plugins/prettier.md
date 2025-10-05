@@ -2,11 +2,11 @@
 title: Prettier
 description: Format your notes with Prettier and custom formatting options.
 author: GoodbyeNJN
-downloads: 2869
+downloads: 2891
 updated: 1759213735000
 repo: GoodbyeNJN/obsidian-plugin-prettier
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Prettier"
   description="Format your notes with Prettier and custom formatting options."
   author="GoodbyeNJN"
-  :downloads="2869"
+  :downloads="2891"
   :updated="1759213735000"
   repo="GoodbyeNJN/obsidian-plugin-prettier"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Format your notes with Prettier and custom formatting options.
 - **下载量**：2.9K
 - **最后更新**：2025-09-30
 - **GitHub**：[GoodbyeNJN/obsidian-plugin-prettier](https://github.com/GoodbyeNJN/obsidian-plugin-prettier)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

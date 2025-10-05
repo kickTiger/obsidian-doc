@@ -1,12 +1,12 @@
 ---
 title: Customizable Menu
-description: 'Add any command to Obsidian''s right-click menu.'
+description: 在 Obsidian 的右键菜单中添加任何命令。
 author: kzhovn
-downloads: 27304
+downloads: 27312
 updated: 1654484565000
 repo: kzhovn/obsidian-customizable-menu
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="customizable-menu"
   name="Customizable Menu"
-  description="Add any command to Obsidian&#39;s right-click menu."
+  description="在 Obsidian 的右键菜单中添加任何命令。"
   author="kzhovn"
-  :downloads="27304"
+  :downloads="27312"
   :updated="1654484565000"
   repo="kzhovn/obsidian-customizable-menu"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Customizable Menu 是一个功能强大的 Obsidian 插件。
 
-Add any command to Obsidian&#39;s right-click menu.
+在 Obsidian 的右键菜单中添加任何命令。
 
 通过 Customizable Menu,您可以:
 
@@ -202,7 +202,7 @@ Add any command to Obsidian&#39;s right-click menu.
 - **下载量**：27.3K
 - **最后更新**：2022-06-06
 - **GitHub**：[kzhovn/obsidian-customizable-menu](https://github.com/kzhovn/obsidian-customizable-menu)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Toggle Meta Yaml
-description: Toggle metadata YAML.
+description: 切换元数据 YAML。
 author: hua
-downloads: 8169
+downloads: 8172
 updated: 1678959159000
 repo: hua03/obsidian-toggle-meta-yaml-plugin
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-toggle-meta-yaml-plugin"
   name="Toggle Meta Yaml"
-  description="Toggle metadata YAML."
+  description="切换元数据 YAML。"
   author="hua"
-  :downloads="8169"
+  :downloads="8172"
   :updated="1678959159000"
   repo="hua03/obsidian-toggle-meta-yaml-plugin"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Toggle Meta Yaml 是一个功能强大的 Obsidian 插件。
 
-Toggle metadata YAML.
+切换元数据 YAML。
 
 通过 Toggle Meta Yaml,您可以:
 
@@ -202,7 +202,7 @@ Toggle metadata YAML.
 - **下载量**：8.2K
 - **最后更新**：2023-03-16
 - **GitHub**：[hua03/obsidian-toggle-meta-yaml-plugin](https://github.com/hua03/obsidian-toggle-meta-yaml-plugin)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

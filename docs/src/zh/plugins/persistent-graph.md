@@ -1,12 +1,12 @@
 ---
 title: Persistent Graph
-description: Save and restore the positions of nodes on your graph.
+description: 保存和恢复图形上节点的位置。
 author: Sanqui
-downloads: 31812
+downloads: 31845
 updated: 1662290441000
 repo: Sanqui/obsidian-persistent-graph
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="persistent-graph"
   name="Persistent Graph"
-  description="Save and restore the positions of nodes on your graph."
+  description="保存和恢复图形上节点的位置。"
   author="Sanqui"
-  :downloads="31812"
+  :downloads="31845"
   :updated="1662290441000"
   repo="Sanqui/obsidian-persistent-graph"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Persistent Graph 是一个功能强大的 Obsidian 插件。
 
-Save and restore the positions of nodes on your graph.
+保存和恢复图形上节点的位置。
 
 通过 Persistent Graph,您可以:
 
@@ -202,7 +202,7 @@ Save and restore the positions of nodes on your graph.
 - **下载量**：31.8K
 - **最后更新**：2022-09-04
 - **GitHub**：[Sanqui/obsidian-persistent-graph](https://github.com/Sanqui/obsidian-persistent-graph)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

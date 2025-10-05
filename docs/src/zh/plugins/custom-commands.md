@@ -2,11 +2,11 @@
 title: Custom Commands
 description: Create custom commands to be executed in the command palette, and by hotkey. Currently supports opening specific notes, creating notes, inserting snippets, and executing sequences of commands.
 author: Staaaaaaaaaan
-downloads: 749
+downloads: 753
 updated: 1758829819000
 repo: Staaaaaaaaaan/obsidian-custom-commands
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Custom Commands"
   description="Create custom commands to be executed in the command palette, and by hotkey. Currently supports opening specific notes, creating notes, inserting snippets, and executing sequences of commands."
   author="Staaaaaaaaaan"
-  :downloads="749"
+  :downloads="753"
   :updated="1758829819000"
   repo="Staaaaaaaaaan/obsidian-custom-commands"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create custom commands to be executed in the command palette, and by hotkey. Cur
 - **插件 ID**：custom-commands
 - **作者**：Staaaaaaaaaan
 - **当前版本**：v1.0.0
-- **下载量**：749
+- **下载量**：753
 - **最后更新**：2025-09-26
 - **GitHub**：[Staaaaaaaaaan/obsidian-custom-commands](https://github.com/Staaaaaaaaaan/obsidian-custom-commands)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

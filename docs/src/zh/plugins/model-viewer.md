@@ -2,11 +2,11 @@
 title: Model Viewer
 description: 'View and embed interactive 3D models directly in your vault, powered by Google''s <model-viewer> component. Supports the glTF and GLB file formats.'
 author: Janis Pritzkau
-downloads: 482
+downloads: 483
 updated: 1745527615000
 repo: janispritzkau/obsidian-model-viewer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Model Viewer"
   description="View and embed interactive 3D models directly in your vault, powered by Google&#39;s &lt;model-viewer&gt; component. Supports the glTF and GLB file formats."
   author="Janis Pritzkau"
-  :downloads="482"
+  :downloads="483"
   :updated="1745527615000"
   repo="janispritzkau/obsidian-model-viewer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ View and embed interactive 3D models directly in your vault, powered by Google&#
 - **插件 ID**：model-viewer
 - **作者**：Janis Pritzkau
 - **当前版本**：v1.0.0
-- **下载量**：482
+- **下载量**：483
 - **最后更新**：2025-04-25
 - **GitHub**：[janispritzkau/obsidian-model-viewer](https://github.com/janispritzkau/obsidian-model-viewer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

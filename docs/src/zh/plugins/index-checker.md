@@ -1,12 +1,12 @@
 ---
 title: Index Checker
-description: 'Make sure your index "MOC" files (notes or Canvas) contain all links they should contain.'
+description: '确保您的索引 "MOC "文件（注释或画布）包含所有应包含的链接。'
 author: Pavlo Deshko
-downloads: 5219
+downloads: 5221
 updated: 1740739012000
 repo: pavloDeshko/obsidian-index-checker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="index-checker"
   name="Index Checker"
-  description="Make sure your index &quot;MOC&quot; files (notes or Canvas) contain all links they should contain."
+  description="确保您的索引 &quot;MOC &quot;文件（注释或画布）包含所有应包含的链接。"
   author="Pavlo Deshko"
-  :downloads="5219"
+  :downloads="5221"
   :updated="1740739012000"
   repo="pavloDeshko/obsidian-index-checker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Index Checker 是一个功能强大的 Obsidian 插件。
 
-Make sure your index &quot;MOC&quot; files (notes or Canvas) contain all links they should contain.
+确保您的索引 &quot;MOC &quot;文件（注释或画布）包含所有应包含的链接。
 
 通过 Index Checker,您可以:
 
@@ -202,7 +202,7 @@ Make sure your index &quot;MOC&quot; files (notes or Canvas) contain all links t
 - **下载量**：5.2K
 - **最后更新**：2025-02-28
 - **GitHub**：[pavloDeshko/obsidian-index-checker](https://github.com/pavloDeshko/obsidian-index-checker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

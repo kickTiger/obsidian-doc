@@ -1,12 +1,12 @@
 ---
 title: Inline spoilers
-description: Adds Discord-like syntax for inline spoilers in reader mode.
+description: 为读者模式下的内联剧透添加类似 Discord 的语法。
 author: logonoff
-downloads: 5810
+downloads: 5823
 updated: 1756572843000
 repo: logonoff/obsidian-inline-spoilers
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="inline-spoilers"
   name="Inline spoilers"
-  description="Adds Discord-like syntax for inline spoilers in reader mode."
+  description="为读者模式下的内联剧透添加类似 Discord 的语法。"
   author="logonoff"
-  :downloads="5810"
+  :downloads="5823"
   :updated="1756572843000"
   repo="logonoff/obsidian-inline-spoilers"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Inline spoilers 是一个功能强大的 Obsidian 插件。
 
-Adds Discord-like syntax for inline spoilers in reader mode.
+为读者模式下的内联剧透添加类似 Discord 的语法。
 
 通过 Inline spoilers,您可以:
 
@@ -202,7 +202,7 @@ Adds Discord-like syntax for inline spoilers in reader mode.
 - **下载量**：5.8K
 - **最后更新**：2025-08-31
 - **GitHub**：[logonoff/obsidian-inline-spoilers](https://github.com/logonoff/obsidian-inline-spoilers)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

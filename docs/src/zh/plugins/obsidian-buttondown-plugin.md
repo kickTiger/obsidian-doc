@@ -1,12 +1,12 @@
 ---
 title: Buttondown
-description: Send your notes to your buttondown.email account as email drafts.
+description: 将您的笔记作为电子邮件草稿发送到您的 buttondown.email 账户。
 author: caro401
 downloads: 3962
 updated: 1680086298000
 repo: caro401/obsidian-buttondown
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-buttondown-plugin"
   name="Buttondown"
-  description="Send your notes to your buttondown.email account as email drafts."
+  description="将您的笔记作为电子邮件草稿发送到您的 buttondown.email 账户。"
   author="caro401"
   :downloads="3962"
   :updated="1680086298000"
   repo="caro401/obsidian-buttondown"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Buttondown 是一个功能强大的 Obsidian 插件。
 
-Send your notes to your buttondown.email account as email drafts.
+将您的笔记作为电子邮件草稿发送到您的 buttondown.email 账户。
 
 通过 Buttondown,您可以:
 
@@ -202,7 +202,7 @@ Send your notes to your buttondown.email account as email drafts.
 - **下载量**：4.0K
 - **最后更新**：2023-03-29
 - **GitHub**：[caro401/obsidian-buttondown](https://github.com/caro401/obsidian-buttondown)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

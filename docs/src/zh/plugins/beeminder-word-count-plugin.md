@@ -1,12 +1,12 @@
 ---
 title: Beeminder Word Count
-description: Post word counts directly to Beeminder.
+description: 直接在 Beeminder 上发布字数。
 author: Yuta Miyama
 downloads: 4223
 updated: 1620597626000
 repo: kenzan100/beeminder-obsidian-word-count
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="beeminder-word-count-plugin"
   name="Beeminder Word Count"
-  description="Post word counts directly to Beeminder."
+  description="直接在 Beeminder 上发布字数。"
   author="Yuta Miyama"
   :downloads="4223"
   :updated="1620597626000"
   repo="kenzan100/beeminder-obsidian-word-count"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Beeminder Word Count 是一个功能强大的 Obsidian 插件。
 
-Post word counts directly to Beeminder.
+直接在 Beeminder 上发布字数。
 
 通过 Beeminder Word Count,您可以:
 
@@ -202,7 +202,7 @@ Post word counts directly to Beeminder.
 - **下载量**：4.2K
 - **最后更新**：2021-05-10
 - **GitHub**：[kenzan100/beeminder-obsidian-word-count](https://github.com/kenzan100/beeminder-obsidian-word-count)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

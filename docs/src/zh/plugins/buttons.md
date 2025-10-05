@@ -1,12 +1,12 @@
 ---
 title: Buttons
-description: Create Buttons in your notes to run commands, open links, and insert templates.
+description: 在笔记中创建按钮，以运行命令、打开链接和插入模板。
 author: Sam Morrison
-downloads: 322241
+downloads: 322580
 updated: 1756236430000
 repo: shabegom/buttons
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="buttons"
   name="Buttons"
-  description="Create Buttons in your notes to run commands, open links, and insert templates."
+  description="在笔记中创建按钮，以运行命令、打开链接和插入模板。"
   author="Sam Morrison"
-  :downloads="322241"
+  :downloads="322580"
   :updated="1756236430000"
   repo="shabegom/buttons"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Buttons 是一个功能强大的 Obsidian 插件。
 
-Create Buttons in your notes to run commands, open links, and insert templates.
+在笔记中创建按钮，以运行命令、打开链接和插入模板。
 
 通过 Buttons,您可以:
 
@@ -199,10 +199,10 @@ Create Buttons in your notes to run commands, open links, and insert templates.
 - **插件 ID**：buttons
 - **作者**：Sam Morrison
 - **当前版本**：v1.0.0
-- **下载量**：322.2K
+- **下载量**：322.6K
 - **最后更新**：2025-08-27
 - **GitHub**：[shabegom/buttons](https://github.com/shabegom/buttons)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

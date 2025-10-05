@@ -6,7 +6,7 @@ downloads: 83
 updated: 1757368861000
 repo: metagov/koi-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1757368861000"
   repo="metagov/koi-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Synchronizes data from a Slack Telescope instance using the KOI-net protocol.
 - **下载量**：83
 - **最后更新**：2025-09-09
 - **GitHub**：[metagov/koi-obsidian-plugin](https://github.com/metagov/koi-obsidian-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

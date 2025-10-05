@@ -1,12 +1,12 @@
 ---
 title: Markwhen
-description: Create timelines, gantt charts, calendars, and more using markwhen.
+description: 使用 markwhen 创建时间表、甘特图、日历等。
 author: Markwhen
-downloads: 24901
+downloads: 24954
 updated: 1752515119000
 repo: mark-when/obsidian-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="markwhen"
   name="Markwhen"
-  description="Create timelines, gantt charts, calendars, and more using markwhen."
+  description="使用 markwhen 创建时间表、甘特图、日历等。"
   author="Markwhen"
-  :downloads="24901"
+  :downloads="24954"
   :updated="1752515119000"
   repo="mark-when/obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markwhen 是一个功能强大的 Obsidian 插件。
 
-Create timelines, gantt charts, calendars, and more using markwhen.
+使用 markwhen 创建时间表、甘特图、日历等。
 
 通过 Markwhen,您可以:
 
@@ -199,10 +199,10 @@ Create timelines, gantt charts, calendars, and more using markwhen.
 - **插件 ID**：markwhen
 - **作者**：Markwhen
 - **当前版本**：v1.0.0
-- **下载量**：24.9K
+- **下载量**：25.0K
 - **最后更新**：2025-07-15
 - **GitHub**：[mark-when/obsidian-plugin](https://github.com/mark-when/obsidian-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

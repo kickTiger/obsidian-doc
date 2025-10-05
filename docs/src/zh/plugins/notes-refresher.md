@@ -2,11 +2,11 @@
 title: Notes Refresher
 description: Provides AI-generated refresher summaries of notes from your Vault using GPT-4.
 author: Connor Park
-downloads: 507
+downloads: 508
 updated: 1721322134000
 repo: connorpark24/refresher-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Notes Refresher"
   description="Provides AI-generated refresher summaries of notes from your Vault using GPT-4."
   author="Connor Park"
-  :downloads="507"
+  :downloads="508"
   :updated="1721322134000"
   repo="connorpark24/refresher-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Provides AI-generated refresher summaries of notes from your Vault using GPT-4.
 - **插件 ID**：notes-refresher
 - **作者**：Connor Park
 - **当前版本**：v1.0.0
-- **下载量**：507
+- **下载量**：508
 - **最后更新**：2024-07-19
 - **GitHub**：[connorpark24/refresher-plugin](https://github.com/connorpark24/refresher-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

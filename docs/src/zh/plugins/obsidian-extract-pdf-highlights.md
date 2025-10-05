@@ -1,12 +1,12 @@
 ---
 title: PDF Highlights
-description: Extract highlights, underlines and annotations from your PDFs.
+description: 从 PDF 文件中提取高亮、下划线和注释。
 author: Alexis Rondeau
-downloads: 101799
+downloads: 101823
 updated: 1613559524000
 repo: akaalias/obsidian-extract-pdf-highlights
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-extract-pdf-highlights"
   name="PDF Highlights"
-  description="Extract highlights, underlines and annotations from your PDFs."
+  description="从 PDF 文件中提取高亮、下划线和注释。"
   author="Alexis Rondeau"
-  :downloads="101799"
+  :downloads="101823"
   :updated="1613559524000"
   repo="akaalias/obsidian-extract-pdf-highlights"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 PDF Highlights 是一个功能强大的 Obsidian 插件。
 
-Extract highlights, underlines and annotations from your PDFs.
+从 PDF 文件中提取高亮、下划线和注释。
 
 通过 PDF Highlights,您可以:
 
@@ -202,7 +202,7 @@ Extract highlights, underlines and annotations from your PDFs.
 - **下载量**：101.8K
 - **最后更新**：2021-02-17
 - **GitHub**：[akaalias/obsidian-extract-pdf-highlights](https://github.com/akaalias/obsidian-extract-pdf-highlights)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

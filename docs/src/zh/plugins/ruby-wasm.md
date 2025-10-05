@@ -6,7 +6,7 @@ downloads: 298
 updated: 1714522993000
 repo: geeknees/obsidian-ruby-wasm-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1714522993000"
   repo="geeknees/obsidian-ruby-wasm-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Run ruby code in your notes using WebAssembly.
 - **下载量**：298
 - **最后更新**：2024-05-01
 - **GitHub**：[geeknees/obsidian-ruby-wasm-plugin](https://github.com/geeknees/obsidian-ruby-wasm-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

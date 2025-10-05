@@ -2,11 +2,11 @@
 title: Folder by tags distributor
 description: Automatically move notes into existing folders by tags specified in note.
 author: RevoTale
-downloads: 1368
+downloads: 1372
 updated: 1712754906000
 repo: RevoTale/obsidian-folder-by-tags-distributor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Folder by tags distributor"
   description="Automatically move notes into existing folders by tags specified in note."
   author="RevoTale"
-  :downloads="1368"
+  :downloads="1372"
   :updated="1712754906000"
   repo="RevoTale/obsidian-folder-by-tags-distributor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically move notes into existing folders by tags specified in note.
 - **下载量**：1.4K
 - **最后更新**：2024-04-10
 - **GitHub**：[RevoTale/obsidian-folder-by-tags-distributor](https://github.com/RevoTale/obsidian-folder-by-tags-distributor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Time Things
-description: Show a clock in the corner. Track the total editing time of a note and the last time it was modified.
+description: 在角落显示时钟跟踪笔记的总编辑时间和最后修改时间。
 author: Nick Winters
-downloads: 5407
+downloads: 5410
 updated: 1712499328000
 repo: plasmabit/timethings
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="timethings"
   name="Time Things"
-  description="Show a clock in the corner. Track the total editing time of a note and the last time it was modified."
+  description="在角落显示时钟跟踪笔记的总编辑时间和最后修改时间。"
   author="Nick Winters"
-  :downloads="5407"
+  :downloads="5410"
   :updated="1712499328000"
   repo="plasmabit/timethings"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Time Things 是一个功能强大的 Obsidian 插件。
 
-Show a clock in the corner. Track the total editing time of a note and the last time it was modified.
+在角落显示时钟跟踪笔记的总编辑时间和最后修改时间。
 
 通过 Time Things,您可以:
 
@@ -202,7 +202,7 @@ Show a clock in the corner. Track the total editing time of a note and the last 
 - **下载量**：5.4K
 - **最后更新**：2024-04-07
 - **GitHub**：[plasmabit/timethings](https://github.com/plasmabit/timethings)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Jira Linker
-description: Quickly format a Jira issue tag as a link to you Jira instance.
+description: 快速将 Jira 问题标签格式化为指向 Jira 实例的链接。
 author: Steven Zilberberg
-downloads: 3833
+downloads: 3834
 updated: 1719106638000
 repo: srz2/obsidian-jira-linker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="jira-linker"
   name="Jira Linker"
-  description="Quickly format a Jira issue tag as a link to you Jira instance."
+  description="快速将 Jira 问题标签格式化为指向 Jira 实例的链接。"
   author="Steven Zilberberg"
-  :downloads="3833"
+  :downloads="3834"
   :updated="1719106638000"
   repo="srz2/obsidian-jira-linker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Jira Linker 是一个功能强大的 Obsidian 插件。
 
-Quickly format a Jira issue tag as a link to you Jira instance.
+快速将 Jira 问题标签格式化为指向 Jira 实例的链接。
 
 通过 Jira Linker,您可以:
 
@@ -202,7 +202,7 @@ Quickly format a Jira issue tag as a link to you Jira instance.
 - **下载量**：3.8K
 - **最后更新**：2024-06-23
 - **GitHub**：[srz2/obsidian-jira-linker](https://github.com/srz2/obsidian-jira-linker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

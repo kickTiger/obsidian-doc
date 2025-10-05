@@ -1,12 +1,12 @@
 ---
 title: Smart Context
-description: Instantly copy folder contents or open notes—excluding specified headings—into your clipboard. Perfect for providing curated context to tools like ChatGPT, improving responses, and streamlining your AI workflows.
+description: 将文件夹内容或打开的笔记（不包括指定标题）即时复制到剪贴板。非常适合为 ChatGPT 等工具提供精心策划的上下文、改进回复和简化人工智能工作流程。
 author: 🌴 Brian
-downloads: 3995
+downloads: 4007
 updated: 1752024794000
 repo: brianpetro/smart-context-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smart-context"
   name="Smart Context"
-  description="Instantly copy folder contents or open notes—excluding specified headings—into your clipboard. Perfect for providing curated context to tools like ChatGPT, improving responses, and streamlining your AI workflows."
+  description="将文件夹内容或打开的笔记（不包括指定标题）即时复制到剪贴板。非常适合为 ChatGPT 等工具提供精心策划的上下文、改进回复和简化人工智能工作流程。"
   author="🌴 Brian"
-  :downloads="3995"
+  :downloads="4007"
   :updated="1752024794000"
   repo="brianpetro/smart-context-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Context 是一个功能强大的 Obsidian 插件。
 
-Instantly copy folder contents or open notes—excluding specified headings—into your clipboard. Perfect for providing curated context to tools like ChatGPT, improving responses, and streamlining your AI workflows.
+将文件夹内容或打开的笔记（不包括指定标题）即时复制到剪贴板。非常适合为 ChatGPT 等工具提供精心策划的上下文、改进回复和简化人工智能工作流程。
 
 通过 Smart Context,您可以:
 
@@ -202,7 +202,7 @@ Instantly copy folder contents or open notes—excluding specified headings—in
 - **下载量**：4.0K
 - **最后更新**：2025-07-09
 - **GitHub**：[brianpetro/smart-context-obsidian](https://github.com/brianpetro/smart-context-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

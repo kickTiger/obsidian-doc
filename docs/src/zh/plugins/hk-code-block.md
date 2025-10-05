@@ -1,12 +1,12 @@
 ---
 title: HK Code Block
-description: Improve the display of code blocks in reading view with titles, line numbers, line highlights, and more.
+description: 通过标题、行号、行高亮等改进阅读视图中代码块的显示。
 author: Heekang Park
-downloads: 8568
+downloads: 8570
 updated: 1681775907000
 repo: HeekangPark/obsidian-hk-code-block
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="hk-code-block"
   name="HK Code Block"
-  description="Improve the display of code blocks in reading view with titles, line numbers, line highlights, and more."
+  description="通过标题、行号、行高亮等改进阅读视图中代码块的显示。"
   author="Heekang Park"
-  :downloads="8568"
+  :downloads="8570"
   :updated="1681775907000"
   repo="HeekangPark/obsidian-hk-code-block"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 HK Code Block 是一个功能强大的 Obsidian 插件。
 
-Improve the display of code blocks in reading view with titles, line numbers, line highlights, and more.
+通过标题、行号、行高亮等改进阅读视图中代码块的显示。
 
 通过 HK Code Block,您可以:
 
@@ -202,7 +202,7 @@ Improve the display of code blocks in reading view with titles, line numbers, li
 - **下载量**：8.6K
 - **最后更新**：2023-04-18
 - **GitHub**：[HeekangPark/obsidian-hk-code-block](https://github.com/HeekangPark/obsidian-hk-code-block)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

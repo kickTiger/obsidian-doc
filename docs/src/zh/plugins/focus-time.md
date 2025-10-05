@@ -2,11 +2,11 @@
 title: Focus Time
 description: Track the time spent on each note and visualize the data.
 author: AstraDev
-downloads: 1002
+downloads: 1004
 updated: 1734275445000
 repo: astradev123/obsidian-focus-time
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Focus Time"
   description="Track the time spent on each note and visualize the data."
   author="AstraDev"
-  :downloads="1002"
+  :downloads="1004"
   :updated="1734275445000"
   repo="astradev123/obsidian-focus-time"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Track the time spent on each note and visualize the data.
 - **下载量**：1.0K
 - **最后更新**：2024-12-15
 - **GitHub**：[astradev123/obsidian-focus-time](https://github.com/astradev123/obsidian-focus-time)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

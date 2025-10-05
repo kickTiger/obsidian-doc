@@ -1,12 +1,12 @@
 ---
 title: Timelines (Revamped)
-description: 'Generate a chronological timeline in which all ''events'' are notes that include a specific tag or set of tags.'
+description: '生成按时间顺序排列的时间轴，其中所有 "事件 "都是包含特定标签或标签集的注释。'
 author: Sean Lowe
-downloads: 16451
+downloads: 16469
 updated: 1733269000000
 repo: seanlowe/obsidian-timelines
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="timelines-revamped"
   name="Timelines (Revamped)"
-  description="Generate a chronological timeline in which all &#39;events&#39; are notes that include a specific tag or set of tags."
+  description="生成按时间顺序排列的时间轴，其中所有 &quot;事件 &quot;都是包含特定标签或标签集的注释。"
   author="Sean Lowe"
-  :downloads="16451"
+  :downloads="16469"
   :updated="1733269000000"
   repo="seanlowe/obsidian-timelines"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Timelines (Revamped) 是一个功能强大的 Obsidian 插件。
 
-Generate a chronological timeline in which all &#39;events&#39; are notes that include a specific tag or set of tags.
+生成按时间顺序排列的时间轴，其中所有 &quot;事件 &quot;都是包含特定标签或标签集的注释。
 
 通过 Timelines (Revamped),您可以:
 
@@ -202,7 +202,7 @@ Generate a chronological timeline in which all &#39;events&#39; are notes that i
 - **下载量**：16.5K
 - **最后更新**：2024-12-04
 - **GitHub**：[seanlowe/obsidian-timelines](https://github.com/seanlowe/obsidian-timelines)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Tiff Viewer
 description: View .tif(f) files by generating duplicates in form of .tif(f).png
 author: Jan Ullmann
-downloads: 1486
+downloads: 1487
 updated: 1713197727000
 repo: ullmannJan/obsidian-tiff-viewer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tiff Viewer"
   description="View .tif(f) files by generating duplicates in form of .tif(f).png"
   author="Jan Ullmann"
-  :downloads="1486"
+  :downloads="1487"
   :updated="1713197727000"
   repo="ullmannJan/obsidian-tiff-viewer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ View .tif(f) files by generating duplicates in form of .tif(f).png
 - **下载量**：1.5K
 - **最后更新**：2024-04-16
 - **GitHub**：[ullmannJan/obsidian-tiff-viewer](https://github.com/ullmannJan/obsidian-tiff-viewer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 677
 updated: 1714237552000
 repo: alexandrerbb/obsidian-outline-tasklist-plugin
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1714237552000"
   repo="alexandrerbb/obsidian-outline-tasklist-plugin"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Convert a note&#39;s outline to a task list.
 - **下载量**：677
 - **最后更新**：2024-04-28
 - **GitHub**：[alexandrerbb/obsidian-outline-tasklist-plugin](https://github.com/alexandrerbb/obsidian-outline-tasklist-plugin)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

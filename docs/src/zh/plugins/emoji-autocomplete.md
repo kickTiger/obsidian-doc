@@ -1,12 +1,12 @@
 ---
 title: Emoji Autocomplete
-description: 'Smart suggestions when typing emoji shortcodes & more! :star:'
+description: 输入表情符号简码时的智能建议等！星星
 author: KraXen72
-downloads: 8756
+downloads: 8773
 updated: 1711535167000
 repo: KraXen72/obsidian-emoji-autocomplete
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="emoji-autocomplete"
   name="Emoji Autocomplete"
-  description="Smart suggestions when typing emoji shortcodes &amp; more! :star:"
+  description="输入表情符号简码时的智能建议等！星星"
   author="KraXen72"
-  :downloads="8756"
+  :downloads="8773"
   :updated="1711535167000"
   repo="KraXen72/obsidian-emoji-autocomplete"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Emoji Autocomplete 是一个功能强大的 Obsidian 插件。
 
-Smart suggestions when typing emoji shortcodes &amp; more! :star:
+输入表情符号简码时的智能建议等！星星
 
 通过 Emoji Autocomplete,您可以:
 
@@ -202,7 +202,7 @@ Smart suggestions when typing emoji shortcodes &amp; more! :star:
 - **下载量**：8.8K
 - **最后更新**：2024-03-27
 - **GitHub**：[KraXen72/obsidian-emoji-autocomplete](https://github.com/KraXen72/obsidian-emoji-autocomplete)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

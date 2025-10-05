@@ -1,12 +1,12 @@
 ---
 title: open-as-md
-description: Edit non-md file types as Markdown files.
+description: 将非 md 文件类型编辑为 Markdown 文件。
 author: kursad-k
-downloads: 3579
+downloads: 3585
 updated: 1702148277000
 repo: kursad-k/obsidian-openasmd
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="open-as-md"
   name="open-as-md"
-  description="Edit non-md file types as Markdown files."
+  description="将非 md 文件类型编辑为 Markdown 文件。"
   author="kursad-k"
-  :downloads="3579"
+  :downloads="3585"
   :updated="1702148277000"
   repo="kursad-k/obsidian-openasmd"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 open-as-md 是一个功能强大的 Obsidian 插件。
 
-Edit non-md file types as Markdown files.
+将非 md 文件类型编辑为 Markdown 文件。
 
 通过 open-as-md,您可以:
 
@@ -202,7 +202,7 @@ Edit non-md file types as Markdown files.
 - **下载量**：3.6K
 - **最后更新**：2023-12-10
 - **GitHub**：[kursad-k/obsidian-openasmd](https://github.com/kursad-k/obsidian-openasmd)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

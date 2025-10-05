@@ -6,7 +6,7 @@ downloads: 222
 updated: 1730768470000
 repo: shuxueshuxue/superstition
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1730768470000"
   repo="shuxueshuxue/superstition"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manage routines with traditional calendar concept of 宜/忌.
 - **下载量**：222
 - **最后更新**：2024-11-05
 - **GitHub**：[shuxueshuxue/superstition](https://github.com/shuxueshuxue/superstition)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

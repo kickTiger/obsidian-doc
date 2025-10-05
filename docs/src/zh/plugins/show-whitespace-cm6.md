@@ -1,12 +1,12 @@
 ---
 title: Show Whitespace
-description: CSS styles and CM6 extensions to highlight whitespace in Source and Live Preview modes.
+description: CSS 样式和 CM6 扩展，可在源代码和实时预览模式中突出显示空白。
 author: Erin Schnabel
-downloads: 10373
+downloads: 10390
 updated: 1758123265000
 repo: ebullient/obsidian-show-whitespace-cm6
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="show-whitespace-cm6"
   name="Show Whitespace"
-  description="CSS styles and CM6 extensions to highlight whitespace in Source and Live Preview modes."
+  description="CSS 样式和 CM6 扩展，可在源代码和实时预览模式中突出显示空白。"
   author="Erin Schnabel"
-  :downloads="10373"
+  :downloads="10390"
   :updated="1758123265000"
   repo="ebullient/obsidian-show-whitespace-cm6"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Show Whitespace 是一个功能强大的 Obsidian 插件。
 
-CSS styles and CM6 extensions to highlight whitespace in Source and Live Preview modes.
+CSS 样式和 CM6 扩展，可在源代码和实时预览模式中突出显示空白。
 
 通过 Show Whitespace,您可以:
 
@@ -202,7 +202,7 @@ CSS styles and CM6 extensions to highlight whitespace in Source and Live Preview
 - **下载量**：10.4K
 - **最后更新**：2025-09-17
 - **GitHub**：[ebullient/obsidian-show-whitespace-cm6](https://github.com/ebullient/obsidian-show-whitespace-cm6)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

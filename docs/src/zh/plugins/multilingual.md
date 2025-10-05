@@ -6,7 +6,7 @@ downloads: 1763
 updated: 1710878585000
 repo: leolazou/obsidian-multilingual
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1710878585000"
   repo="leolazou/obsidian-multilingual"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Simplify linking notes across multiple languages by automatically adding transla
 - **下载量**：1.8K
 - **最后更新**：2024-03-20
 - **GitHub**：[leolazou/obsidian-multilingual](https://github.com/leolazou/obsidian-multilingual)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

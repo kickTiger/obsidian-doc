@@ -1,12 +1,12 @@
 ---
 title: Translator
-description: Translate selected text.
+description: 翻译选定文本。
 author: Haifeng Lu
-downloads: 12737
+downloads: 12745
 updated: 1728214337000
 repo: luhaifeng666/obsidian-translator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-translator"
   name="Translator"
-  description="Translate selected text."
+  description="翻译选定文本。"
   author="Haifeng Lu"
-  :downloads="12737"
+  :downloads="12745"
   :updated="1728214337000"
   repo="luhaifeng666/obsidian-translator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Translator 是一个功能强大的 Obsidian 插件。
 
-Translate selected text.
+翻译选定文本。
 
 通过 Translator,您可以:
 
@@ -202,7 +202,7 @@ Translate selected text.
 - **下载量**：12.7K
 - **最后更新**：2024-10-06
 - **GitHub**：[luhaifeng666/obsidian-translator](https://github.com/luhaifeng666/obsidian-translator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

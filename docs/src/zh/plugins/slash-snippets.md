@@ -1,12 +1,12 @@
 ---
 title: Slash snippets
-description: Use slash command to insert quick text
+description: 使用斜线命令快速插入文本
 author: echo-saurav
-downloads: 4215
+downloads: 4230
 updated: 1751024712000
 repo: echo-saurav/slash-snippets-plugin
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="slash-snippets"
   name="Slash snippets"
-  description="Use slash command to insert quick text"
+  description="使用斜线命令快速插入文本"
   author="echo-saurav"
-  :downloads="4215"
+  :downloads="4230"
   :updated="1751024712000"
   repo="echo-saurav/slash-snippets-plugin"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Slash snippets 是一个功能强大的 Obsidian 插件。
 
-Use slash command to insert quick text
+使用斜线命令快速插入文本
 
 通过 Slash snippets,您可以:
 
@@ -202,7 +202,7 @@ Use slash command to insert quick text
 - **下载量**：4.2K
 - **最后更新**：2025-06-27
 - **GitHub**：[echo-saurav/slash-snippets-plugin](https://github.com/echo-saurav/slash-snippets-plugin)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

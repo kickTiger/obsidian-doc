@@ -1,12 +1,12 @@
 ---
 title: Surfing
-description: Surf the net like a web browser.
+description: 像浏览网页一样上网
 author: Boninall
-downloads: 103076
+downloads: 103151
 updated: 1731166858000
 repo: PKM-er/Obsidian-Surfing
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="surfing"
   name="Surfing"
-  description="Surf the net like a web browser."
+  description="像浏览网页一样上网"
   author="Boninall"
-  :downloads="103076"
+  :downloads="103151"
   :updated="1731166858000"
   repo="PKM-er/Obsidian-Surfing"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Surfing 是一个功能强大的 Obsidian 插件。
 
-Surf the net like a web browser.
+像浏览网页一样上网
 
 通过 Surfing,您可以:
 
@@ -199,10 +199,10 @@ Surf the net like a web browser.
 - **插件 ID**：surfing
 - **作者**：Boninall
 - **当前版本**：v1.0.0
-- **下载量**：103.1K
+- **下载量**：103.2K
 - **最后更新**：2024-11-09
 - **GitHub**：[PKM-er/Obsidian-Surfing](https://github.com/PKM-er/Obsidian-Surfing)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

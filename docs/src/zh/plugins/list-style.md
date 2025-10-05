@@ -1,12 +1,12 @@
 ---
 title: Ordered List Style
-description: Set ordered list style inline. Alphabetic lists, Roman numeral lists, etc.
+description: 在行内设置有序列表样式。字母列表、罗马数字列表等。
 author: erykwalder
-downloads: 8750
+downloads: 8754
 updated: 1666384268000
 repo: erykwalder/obsidian-list-style
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="list-style"
   name="Ordered List Style"
-  description="Set ordered list style inline. Alphabetic lists, Roman numeral lists, etc."
+  description="在行内设置有序列表样式。字母列表、罗马数字列表等。"
   author="erykwalder"
-  :downloads="8750"
+  :downloads="8754"
   :updated="1666384268000"
   repo="erykwalder/obsidian-list-style"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ordered List Style 是一个功能强大的 Obsidian 插件。
 
-Set ordered list style inline. Alphabetic lists, Roman numeral lists, etc.
+在行内设置有序列表样式。字母列表、罗马数字列表等。
 
 通过 Ordered List Style,您可以:
 
@@ -202,7 +202,7 @@ Set ordered list style inline. Alphabetic lists, Roman numeral lists, etc.
 - **下载量**：8.8K
 - **最后更新**：2022-10-22
 - **GitHub**：[erykwalder/obsidian-list-style](https://github.com/erykwalder/obsidian-list-style)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

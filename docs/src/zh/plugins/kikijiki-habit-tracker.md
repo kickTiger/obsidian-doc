@@ -2,11 +2,11 @@
 title: Kikijiki Habit Tracker
 description: A simple habit tracker
 author: KIKIJIKI
-downloads: 565
+downloads: 566
 updated: 1743085213000
 repo: kikijiki/obsidian-habit-tracker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Kikijiki Habit Tracker"
   description="A simple habit tracker"
   author="KIKIJIKI"
-  :downloads="565"
+  :downloads="566"
   :updated="1743085213000"
   repo="kikijiki/obsidian-habit-tracker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ A simple habit tracker
 - **插件 ID**：kikijiki-habit-tracker
 - **作者**：KIKIJIKI
 - **当前版本**：v1.0.0
-- **下载量**：565
+- **下载量**：566
 - **最后更新**：2025-03-27
 - **GitHub**：[kikijiki/obsidian-habit-tracker](https://github.com/kikijiki/obsidian-habit-tracker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

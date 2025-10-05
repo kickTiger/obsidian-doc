@@ -2,11 +2,11 @@
 title: Svelte Syntax Highlighter
 description: Syntax highlighting for Svelte code blocks.
 author: Typhoon-Kim
-downloads: 863
+downloads: 866
 updated: 1717439345000
 repo: typhoon-kim/obsidian-svelte-syntax-highlighter
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Svelte Syntax Highlighter"
   description="Syntax highlighting for Svelte code blocks."
   author="Typhoon-Kim"
-  :downloads="863"
+  :downloads="866"
   :updated="1717439345000"
   repo="typhoon-kim/obsidian-svelte-syntax-highlighter"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Syntax highlighting for Svelte code blocks.
 - **插件 ID**：svelte-syntax-highlighter
 - **作者**：Typhoon-Kim
 - **当前版本**：v1.0.0
-- **下载量**：863
+- **下载量**：866
 - **最后更新**：2024-06-04
 - **GitHub**：[typhoon-kim/obsidian-svelte-syntax-highlighter](https://github.com/typhoon-kim/obsidian-svelte-syntax-highlighter)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

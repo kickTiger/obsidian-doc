@@ -1,12 +1,12 @@
 ---
 title: Dynamic Embed
-description: Embed snippets, templates and any linkable by delegating the current scope to the embedded file, treating it as content instead of a reference.
+description: 通过将当前作用域委托给嵌入文件，将其视为内容而非引用，从而嵌入片段、模板和任何可链接文件。
 author: Ivaylo Dimitrov Dabravin
-downloads: 7857
+downloads: 7861
 updated: 1646817517000
 repo: dabravin/obsidian-dynamic-embed
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-dynamic-embed"
   name="Dynamic Embed"
-  description="Embed snippets, templates and any linkable by delegating the current scope to the embedded file, treating it as content instead of a reference."
+  description="通过将当前作用域委托给嵌入文件，将其视为内容而非引用，从而嵌入片段、模板和任何可链接文件。"
   author="Ivaylo Dimitrov Dabravin"
-  :downloads="7857"
+  :downloads="7861"
   :updated="1646817517000"
   repo="dabravin/obsidian-dynamic-embed"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dynamic Embed 是一个功能强大的 Obsidian 插件。
 
-Embed snippets, templates and any linkable by delegating the current scope to the embedded file, treating it as content instead of a reference.
+通过将当前作用域委托给嵌入文件，将其视为内容而非引用，从而嵌入片段、模板和任何可链接文件。
 
 通过 Dynamic Embed,您可以:
 
@@ -202,7 +202,7 @@ Embed snippets, templates and any linkable by delegating the current scope to th
 - **下载量**：7.9K
 - **最后更新**：2022-03-09
 - **GitHub**：[dabravin/obsidian-dynamic-embed](https://github.com/dabravin/obsidian-dynamic-embed)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

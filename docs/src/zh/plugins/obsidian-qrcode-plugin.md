@@ -1,12 +1,12 @@
 ---
 title: QR Code Generator
-description: QR code generator.
+description: QR 码生成器
 author: Rudi Häusler
-downloads: 11275
+downloads: 11277
 updated: 1707684343000
 repo: rudimuc/obsidian-qrcode
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-qrcode-plugin"
   name="QR Code Generator"
-  description="QR code generator."
+  description="QR 码生成器"
   author="Rudi Häusler"
-  :downloads="11275"
+  :downloads="11277"
   :updated="1707684343000"
   repo="rudimuc/obsidian-qrcode"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 QR Code Generator 是一个功能强大的 Obsidian 插件。
 
-QR code generator.
+QR 码生成器
 
 通过 QR Code Generator,您可以:
 
@@ -202,7 +202,7 @@ QR code generator.
 - **下载量**：11.3K
 - **最后更新**：2024-02-12
 - **GitHub**：[rudimuc/obsidian-qrcode](https://github.com/rudimuc/obsidian-qrcode)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

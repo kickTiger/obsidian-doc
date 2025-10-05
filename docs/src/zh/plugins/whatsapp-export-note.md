@@ -2,11 +2,11 @@
 title: WhatsApp export note
 description: Convert the current note for WhatsApp format to share.
 author: JoaoEmanuell
-downloads: 807
+downloads: 809
 updated: 1738799697000
 repo: JoaoEmanuell/obsidian-whatsapp-export-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="WhatsApp export note"
   description="Convert the current note for WhatsApp format to share."
   author="JoaoEmanuell"
-  :downloads="807"
+  :downloads="809"
   :updated="1738799697000"
   repo="JoaoEmanuell/obsidian-whatsapp-export-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Convert the current note for WhatsApp format to share.
 - **插件 ID**：whatsapp-export-note
 - **作者**：JoaoEmanuell
 - **当前版本**：v1.0.0
-- **下载量**：807
+- **下载量**：809
 - **最后更新**：2025-02-06
 - **GitHub**：[JoaoEmanuell/obsidian-whatsapp-export-note](https://github.com/JoaoEmanuell/obsidian-whatsapp-export-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Image Inline
-description: Paste your image without attachment files
+description: 粘贴图像，不带附件文件
 author: Zackary W
-downloads: 6801
+downloads: 6811
 updated: 1746860537000
 repo: ZackaryW/obsidian-image-inline
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="image-inline"
   name="Image Inline"
-  description="Paste your image without attachment files"
+  description="粘贴图像，不带附件文件"
   author="Zackary W"
-  :downloads="6801"
+  :downloads="6811"
   :updated="1746860537000"
   repo="ZackaryW/obsidian-image-inline"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Inline 是一个功能强大的 Obsidian 插件。
 
-Paste your image without attachment files
+粘贴图像，不带附件文件
 
 通过 Image Inline,您可以:
 
@@ -202,7 +202,7 @@ Paste your image without attachment files
 - **下载量**：6.8K
 - **最后更新**：2025-05-10
 - **GitHub**：[ZackaryW/obsidian-image-inline](https://github.com/ZackaryW/obsidian-image-inline)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: XMind Viewer
-description: Integrate viewing of your XMind files
+description: 整合查看 XMind 文件的功能
 author: Sentiago
-downloads: 5389
+downloads: 5399
 updated: 1725887112000
 repo: Ssentiago/obsidian-xmind-viewer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="xmind-viewer"
   name="XMind Viewer"
-  description="Integrate viewing of your XMind files"
+  description="整合查看 XMind 文件的功能"
   author="Sentiago"
-  :downloads="5389"
+  :downloads="5399"
   :updated="1725887112000"
   repo="Ssentiago/obsidian-xmind-viewer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 XMind Viewer 是一个功能强大的 Obsidian 插件。
 
-Integrate viewing of your XMind files
+整合查看 XMind 文件的功能
 
 通过 XMind Viewer,您可以:
 
@@ -202,7 +202,7 @@ Integrate viewing of your XMind files
 - **下载量**：5.4K
 - **最后更新**：2024-09-09
 - **GitHub**：[Ssentiago/obsidian-xmind-viewer](https://github.com/Ssentiago/obsidian-xmind-viewer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Random Number Generator
 description: Insert a random number.
 author: iRewiewer
-downloads: 2762
+downloads: 2763
 updated: 1701034120000
 repo: iRewiewer/obsidian-random-numbers-generator-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Random Number Generator"
   description="Insert a random number."
   author="iRewiewer"
-  :downloads="2762"
+  :downloads="2763"
   :updated="1701034120000"
   repo="iRewiewer/obsidian-random-numbers-generator-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Insert a random number.
 - **下载量**：2.8K
 - **最后更新**：2023-11-27
 - **GitHub**：[iRewiewer/obsidian-random-numbers-generator-plugin](https://github.com/iRewiewer/obsidian-random-numbers-generator-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

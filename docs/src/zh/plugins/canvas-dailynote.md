@@ -2,11 +2,11 @@
 title: Canvas Daily Note
 description: 'Add a daily note node to the canvas that will always show today''s note.'
 author: Andrew McGivery
-downloads: 2620
+downloads: 2622
 updated: 1707943942000
 repo: andrewmcgivery/obsidian-canvas-dailynote
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Canvas Daily Note"
   description="Add a daily note node to the canvas that will always show today&#39;s note."
   author="Andrew McGivery"
-  :downloads="2620"
+  :downloads="2622"
   :updated="1707943942000"
   repo="andrewmcgivery/obsidian-canvas-dailynote"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add a daily note node to the canvas that will always show today&#39;s note.
 - **下载量**：2.6K
 - **最后更新**：2024-02-15
 - **GitHub**：[andrewmcgivery/obsidian-canvas-dailynote](https://github.com/andrewmcgivery/obsidian-canvas-dailynote)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

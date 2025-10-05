@@ -1,12 +1,12 @@
 ---
 title: Content Linker
-description: Search and add bi-directional links to existing content.
+description: 搜索并为现有内容添加双向链接。
 author: Medill-East
-downloads: 3771
+downloads: 3772
 updated: 1712212490000
 repo: Medill-East/obsidian-content-linker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="content-linker"
   name="Content Linker"
-  description="Search and add bi-directional links to existing content."
+  description="搜索并为现有内容添加双向链接。"
   author="Medill-East"
-  :downloads="3771"
+  :downloads="3772"
   :updated="1712212490000"
   repo="Medill-East/obsidian-content-linker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Content Linker 是一个功能强大的 Obsidian 插件。
 
-Search and add bi-directional links to existing content.
+搜索并为现有内容添加双向链接。
 
 通过 Content Linker,您可以:
 
@@ -202,7 +202,7 @@ Search and add bi-directional links to existing content.
 - **下载量**：3.8K
 - **最后更新**：2024-04-04
 - **GitHub**：[Medill-East/obsidian-content-linker](https://github.com/Medill-East/obsidian-content-linker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

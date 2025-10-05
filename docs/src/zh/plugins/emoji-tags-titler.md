@@ -1,12 +1,12 @@
 ---
 title: EmoTagsTitler
-description: Add the emojis contained in the tags to the beginning of the note title.
+description: 将标签中包含的表情符号添加到备注标题的开头。
 author: Cyfine
 downloads: 4031
 updated: 1689604931000
 repo: Cyfine/EmoTagsTitler
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="emoji-tags-titler"
   name="EmoTagsTitler"
-  description="Add the emojis contained in the tags to the beginning of the note title."
+  description="将标签中包含的表情符号添加到备注标题的开头。"
   author="Cyfine"
   :downloads="4031"
   :updated="1689604931000"
   repo="Cyfine/EmoTagsTitler"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 EmoTagsTitler 是一个功能强大的 Obsidian 插件。
 
-Add the emojis contained in the tags to the beginning of the note title.
+将标签中包含的表情符号添加到备注标题的开头。
 
 通过 EmoTagsTitler,您可以:
 
@@ -202,7 +202,7 @@ Add the emojis contained in the tags to the beginning of the note title.
 - **下载量**：4.0K
 - **最后更新**：2023-07-17
 - **GitHub**：[Cyfine/EmoTagsTitler](https://github.com/Cyfine/EmoTagsTitler)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

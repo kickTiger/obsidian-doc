@@ -2,11 +2,11 @@
 title: Track-a-Lot
 description: Scrapes different webpages, builds lists with the items as Markdown tables, and allows you to track their status.
 author: Iulian Onofrei
-downloads: 2425
+downloads: 2426
 updated: 1750531485000
 repo: revolter/obsidian-track-a-lot-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Track-a-Lot"
   description="Scrapes different webpages, builds lists with the items as Markdown tables, and allows you to track their status."
   author="Iulian Onofrei"
-  :downloads="2425"
+  :downloads="2426"
   :updated="1750531485000"
   repo="revolter/obsidian-track-a-lot-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Scrapes different webpages, builds lists with the items as Markdown tables, and 
 - **下载量**：2.4K
 - **最后更新**：2025-06-22
 - **GitHub**：[revolter/obsidian-track-a-lot-plugin](https://github.com/revolter/obsidian-track-a-lot-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

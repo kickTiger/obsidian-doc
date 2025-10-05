@@ -1,12 +1,12 @@
 ---
 title: Voicenotes Sync
-description: A plugin for syncing Voicenotes.com data into notes
+description: 将 Voicenotes.com 数据同步到笔记中的插件
 author: Andrew Lombardi
-downloads: 7661
+downloads: 7664
 updated: 1756273656000
 repo: mysticcoders/voicenotes-sync
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="voicenotes-sync"
   name="Voicenotes Sync"
-  description="A plugin for syncing Voicenotes.com data into notes"
+  description="将 Voicenotes.com 数据同步到笔记中的插件"
   author="Andrew Lombardi"
-  :downloads="7661"
+  :downloads="7664"
   :updated="1756273656000"
   repo="mysticcoders/voicenotes-sync"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Voicenotes Sync 是一个功能强大的 Obsidian 插件。
 
-A plugin for syncing Voicenotes.com data into notes
+将 Voicenotes.com 数据同步到笔记中的插件
 
 通过 Voicenotes Sync,您可以:
 
@@ -202,7 +202,7 @@ A plugin for syncing Voicenotes.com data into notes
 - **下载量**：7.7K
 - **最后更新**：2025-08-27
 - **GitHub**：[mysticcoders/voicenotes-sync](https://github.com/mysticcoders/voicenotes-sync)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: GDScript Syntax Highlighting
 description: Add live GDScript syntax highlighting to code block.
 author: RobTheFiveNine
-downloads: 3202
+downloads: 3203
 updated: 1718384051000
 repo: RobTheFiveNine/obsidian-gdscript
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="GDScript Syntax Highlighting"
   description="Add live GDScript syntax highlighting to code block."
   author="RobTheFiveNine"
-  :downloads="3202"
+  :downloads="3203"
   :updated="1718384051000"
   repo="RobTheFiveNine/obsidian-gdscript"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add live GDScript syntax highlighting to code block.
 - **下载量**：3.2K
 - **最后更新**：2024-06-15
 - **GitHub**：[RobTheFiveNine/obsidian-gdscript](https://github.com/RobTheFiveNine/obsidian-gdscript)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

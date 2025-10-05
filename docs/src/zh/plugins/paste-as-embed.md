@@ -6,7 +6,7 @@ downloads: 267
 updated: 1721674581000
 repo: MatthewLeoLaporte/obsidian-paste-as-embed
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1721674581000"
   repo="MatthewLeoLaporte/obsidian-paste-as-embed"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Redirect pasted text into a separate note, and embed it.
 - **下载量**：267
 - **最后更新**：2024-07-23
 - **GitHub**：[MatthewLeoLaporte/obsidian-paste-as-embed](https://github.com/MatthewLeoLaporte/obsidian-paste-as-embed)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Pretty BibTeX
-description: Show raw BibTeX bibliography entries in a prettier way.
+description: 以更漂亮的方式显示原始 BibTeX 书目条目。
 author: Sandro Figo
-downloads: 8967
+downloads: 8972
 updated: 1708717010000
 repo: sandrofigo/obsidian-pretty-bibtex
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-pretty-bibtex"
   name="Pretty BibTeX"
-  description="Show raw BibTeX bibliography entries in a prettier way."
+  description="以更漂亮的方式显示原始 BibTeX 书目条目。"
   author="Sandro Figo"
-  :downloads="8967"
+  :downloads="8972"
   :updated="1708717010000"
   repo="sandrofigo/obsidian-pretty-bibtex"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pretty BibTeX 是一个功能强大的 Obsidian 插件。
 
-Show raw BibTeX bibliography entries in a prettier way.
+以更漂亮的方式显示原始 BibTeX 书目条目。
 
 通过 Pretty BibTeX,您可以:
 
@@ -202,7 +202,7 @@ Show raw BibTeX bibliography entries in a prettier way.
 - **下载量**：9.0K
 - **最后更新**：2024-02-24
 - **GitHub**：[sandrofigo/obsidian-pretty-bibtex](https://github.com/sandrofigo/obsidian-pretty-bibtex)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

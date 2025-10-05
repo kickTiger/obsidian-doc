@@ -2,11 +2,11 @@
 title: Ayanite
 description: An integrated thinking environment - advanced AI chat and knowledge copilot (Closed source).
 author: jemstelos
-downloads: 607
+downloads: 609
 updated: 1712562030000
 repo: jemstelos/obsidian-ayanite
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Ayanite"
   description="An integrated thinking environment - advanced AI chat and knowledge copilot (Closed source)."
   author="jemstelos"
-  :downloads="607"
+  :downloads="609"
   :updated="1712562030000"
   repo="jemstelos/obsidian-ayanite"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ An integrated thinking environment - advanced AI chat and knowledge copilot (Clo
 - **插件 ID**：ayanite
 - **作者**：jemstelos
 - **当前版本**：v1.0.0
-- **下载量**：607
+- **下载量**：609
 - **最后更新**：2024-04-08
 - **GitHub**：[jemstelos/obsidian-ayanite](https://github.com/jemstelos/obsidian-ayanite)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

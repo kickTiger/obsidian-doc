@@ -1,12 +1,12 @@
 ---
 title: Focus and Highlight
-description: Highlight and focus on the currently selected heading.
+description: 突出显示并聚焦于当前选定的标题。
 author: BO YI TSAI
-downloads: 7687
+downloads: 7689
 updated: 1667291667000
 repo: nagi1999a/obsidian-focus-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-focus-plugin"
   name="Focus and Highlight"
-  description="Highlight and focus on the currently selected heading."
+  description="突出显示并聚焦于当前选定的标题。"
   author="BO YI TSAI"
-  :downloads="7687"
+  :downloads="7689"
   :updated="1667291667000"
   repo="nagi1999a/obsidian-focus-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Focus and Highlight 是一个功能强大的 Obsidian 插件。
 
-Highlight and focus on the currently selected heading.
+突出显示并聚焦于当前选定的标题。
 
 通过 Focus and Highlight,您可以:
 
@@ -202,7 +202,7 @@ Highlight and focus on the currently selected heading.
 - **下载量**：7.7K
 - **最后更新**：2022-11-01
 - **GitHub**：[nagi1999a/obsidian-focus-plugin](https://github.com/nagi1999a/obsidian-focus-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

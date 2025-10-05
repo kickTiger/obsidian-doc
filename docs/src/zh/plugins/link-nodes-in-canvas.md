@@ -1,12 +1,12 @@
 ---
 title: Link Nodes in Canvas
-description: Add edges between notes in Canvas based on their links.
+description: 根据链接在 Canvas 中的笔记之间添加边缘。
 author: Boninall
-downloads: 14591
+downloads: 14604
 updated: 1714106007000
 repo: Quorafind/Obsidian-Link-Nodes-In-Canvas
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="link-nodes-in-canvas"
   name="Link Nodes in Canvas"
-  description="Add edges between notes in Canvas based on their links."
+  description="根据链接在 Canvas 中的笔记之间添加边缘。"
   author="Boninall"
-  :downloads="14591"
+  :downloads="14604"
   :updated="1714106007000"
   repo="Quorafind/Obsidian-Link-Nodes-In-Canvas"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Link Nodes in Canvas 是一个功能强大的 Obsidian 插件。
 
-Add edges between notes in Canvas based on their links.
+根据链接在 Canvas 中的笔记之间添加边缘。
 
 通过 Link Nodes in Canvas,您可以:
 
@@ -202,7 +202,7 @@ Add edges between notes in Canvas based on their links.
 - **下载量**：14.6K
 - **最后更新**：2024-04-26
 - **GitHub**：[Quorafind/Obsidian-Link-Nodes-In-Canvas](https://github.com/Quorafind/Obsidian-Link-Nodes-In-Canvas)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: YouHaveBeenStaring
-description: Add a status bar indicator showing how long your vault has been open.
+description: 添加状态栏指示器，显示保险库已打开多长时间。
 author: Felix Almer
-downloads: 5550
+downloads: 5553
 updated: 1621760660000
 repo: fxal/obsidian-youhavebeenstaring-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="youhavebeenstaring-plugin"
   name="YouHaveBeenStaring"
-  description="Add a status bar indicator showing how long your vault has been open."
+  description="添加状态栏指示器，显示保险库已打开多长时间。"
   author="Felix Almer"
-  :downloads="5550"
+  :downloads="5553"
   :updated="1621760660000"
   repo="fxal/obsidian-youhavebeenstaring-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 YouHaveBeenStaring 是一个功能强大的 Obsidian 插件。
 
-Add a status bar indicator showing how long your vault has been open.
+添加状态栏指示器，显示保险库已打开多长时间。
 
 通过 YouHaveBeenStaring,您可以:
 
@@ -199,10 +199,10 @@ Add a status bar indicator showing how long your vault has been open.
 - **插件 ID**：youhavebeenstaring-plugin
 - **作者**：Felix Almer
 - **当前版本**：v1.0.0
-- **下载量**：5.5K
+- **下载量**：5.6K
 - **最后更新**：2021-05-23
 - **GitHub**：[fxal/obsidian-youhavebeenstaring-plugin](https://github.com/fxal/obsidian-youhavebeenstaring-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

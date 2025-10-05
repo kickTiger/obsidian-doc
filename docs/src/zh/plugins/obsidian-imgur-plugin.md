@@ -1,12 +1,12 @@
 ---
 title: Imgur
-description: Upload images from your clipboard to imgur.com and embeds uploaded image to your note.
+description: 将剪贴板中的图片上传到 imgur.com，并将上传的图片嵌入到便笺中。
 author: Kirill Gavrilov
-downloads: 56897
+downloads: 56909
 updated: 1730591262000
 repo: gavvvr/obsidian-imgur-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-imgur-plugin"
   name="Imgur"
-  description="Upload images from your clipboard to imgur.com and embeds uploaded image to your note."
+  description="将剪贴板中的图片上传到 imgur.com，并将上传的图片嵌入到便笺中。"
   author="Kirill Gavrilov"
-  :downloads="56897"
+  :downloads="56909"
   :updated="1730591262000"
   repo="gavvvr/obsidian-imgur-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Imgur 是一个功能强大的 Obsidian 插件。
 
-Upload images from your clipboard to imgur.com and embeds uploaded image to your note.
+将剪贴板中的图片上传到 imgur.com，并将上传的图片嵌入到便笺中。
 
 通过 Imgur,您可以:
 
@@ -202,7 +202,7 @@ Upload images from your clipboard to imgur.com and embeds uploaded image to your
 - **下载量**：56.9K
 - **最后更新**：2024-11-03
 - **GitHub**：[gavvvr/obsidian-imgur-plugin](https://github.com/gavvvr/obsidian-imgur-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

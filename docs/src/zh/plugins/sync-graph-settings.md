@@ -1,12 +1,12 @@
 ---
 title: Sync Graph Settings
-description: Sync global graph settings (like color groups) to local graphs.
+description: 将全局图形设置（如颜色组）同步到本地图形。
 author: Xallt
-downloads: 13620
+downloads: 13632
 updated: 1749823871000
 repo: Xallt/sync-graph-settings
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="sync-graph-settings"
   name="Sync Graph Settings"
-  description="Sync global graph settings (like color groups) to local graphs."
+  description="将全局图形设置（如颜色组）同步到本地图形。"
   author="Xallt"
-  :downloads="13620"
+  :downloads="13632"
   :updated="1749823871000"
   repo="Xallt/sync-graph-settings"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sync Graph Settings 是一个功能强大的 Obsidian 插件。
 
-Sync global graph settings (like color groups) to local graphs.
+将全局图形设置（如颜色组）同步到本地图形。
 
 通过 Sync Graph Settings,您可以:
 
@@ -202,7 +202,7 @@ Sync global graph settings (like color groups) to local graphs.
 - **下载量**：13.6K
 - **最后更新**：2025-06-13
 - **GitHub**：[Xallt/sync-graph-settings](https://github.com/Xallt/sync-graph-settings)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

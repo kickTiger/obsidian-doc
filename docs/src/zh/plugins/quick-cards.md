@@ -6,7 +6,7 @@ downloads: 1177
 updated: 1725179142000
 repo: abcamus/obsidian-quick-card
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1725179142000"
   repo="abcamus/obsidian-quick-card"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Cardify your files.
 - **下载量**：1.2K
 - **最后更新**：2024-09-01
 - **GitHub**：[abcamus/obsidian-quick-card](https://github.com/abcamus/obsidian-quick-card)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

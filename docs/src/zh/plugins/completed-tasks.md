@@ -2,11 +2,11 @@
 title: Completed Tasks
 description: Automatically sort completed tasks to the bottom of the list.
 author: Mgussekloo
-downloads: 951
+downloads: 956
 updated: 1744399189000
 repo: mgussekloo/obsidian-completedtasks
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Completed Tasks"
   description="Automatically sort completed tasks to the bottom of the list."
   author="Mgussekloo"
-  :downloads="951"
+  :downloads="956"
   :updated="1744399189000"
   repo="mgussekloo/obsidian-completedtasks"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically sort completed tasks to the bottom of the list.
 - **插件 ID**：completed-tasks
 - **作者**：Mgussekloo
 - **当前版本**：v1.0.0
-- **下载量**：951
+- **下载量**：956
 - **最后更新**：2025-04-12
 - **GitHub**：[mgussekloo/obsidian-completedtasks](https://github.com/mgussekloo/obsidian-completedtasks)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

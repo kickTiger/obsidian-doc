@@ -2,11 +2,11 @@
 title: Bearings
 description: 'Flow through dynamically-scoped collapsible tree views of your vault''s semantic and logical architectures.'
 author: Jeet Sukumaran
-downloads: 1992
+downloads: 1993
 updated: 1727907645000
 repo: jeetsukumaran/obsidian-bearings
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Bearings"
   description="Flow through dynamically-scoped collapsible tree views of your vault&#39;s semantic and logical architectures."
   author="Jeet Sukumaran"
-  :downloads="1992"
+  :downloads="1993"
   :updated="1727907645000"
   repo="jeetsukumaran/obsidian-bearings"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Flow through dynamically-scoped collapsible tree views of your vault&#39;s seman
 - **下载量**：2.0K
 - **最后更新**：2024-10-03
 - **GitHub**：[jeetsukumaran/obsidian-bearings](https://github.com/jeetsukumaran/obsidian-bearings)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Path Title
-description: Add the path (or optional replacement) to the filename title of each pane.
+description: 在每个窗格的文件名标题中添加路径（或可选的替换）。
 author: Justin Deal
-downloads: 9091
+downloads: 9092
 updated: 1663721174000
 repo: jdeal/obsidian-path-title-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-path-title"
   name="Path Title"
-  description="Add the path (or optional replacement) to the filename title of each pane."
+  description="在每个窗格的文件名标题中添加路径（或可选的替换）。"
   author="Justin Deal"
-  :downloads="9091"
+  :downloads="9092"
   :updated="1663721174000"
   repo="jdeal/obsidian-path-title-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Path Title 是一个功能强大的 Obsidian 插件。
 
-Add the path (or optional replacement) to the filename title of each pane.
+在每个窗格的文件名标题中添加路径（或可选的替换）。
 
 通过 Path Title,您可以:
 
@@ -202,7 +202,7 @@ Add the path (or optional replacement) to the filename title of each pane.
 - **下载量**：9.1K
 - **最后更新**：2022-09-21
 - **GitHub**：[jdeal/obsidian-path-title-plugin](https://github.com/jdeal/obsidian-path-title-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

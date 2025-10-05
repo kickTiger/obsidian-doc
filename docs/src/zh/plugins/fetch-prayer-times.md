@@ -6,7 +6,7 @@ downloads: 193
 updated: 1741991118000
 repo: Eccys/obsidian-prayer-times
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1741991118000"
   repo="Eccys/obsidian-prayer-times"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Fetches current prayer times using the Aladhan API and saves them to a note.
 - **下载量**：193
 - **最后更新**：2025-03-15
 - **GitHub**：[Eccys/obsidian-prayer-times](https://github.com/Eccys/obsidian-prayer-times)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 3534
 updated: 1637463652000
 repo: James-Fallon/obsidian-lineup-builder
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1637463652000"
   repo="James-Fallon/obsidian-lineup-builder"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Build football lineups.
 - **下载量**：3.5K
 - **最后更新**：2021-11-21
 - **GitHub**：[James-Fallon/obsidian-lineup-builder](https://github.com/James-Fallon/obsidian-lineup-builder)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Auto Template Trigger
-description: Automatically prompt for a template, when creating a note.
+description: 创建备注时自动提示模板。
 author: Numeroflip
-downloads: 25886
+downloads: 25918
 updated: 1753738582000
 repo: numeroflip/obsidian-auto-template-trigger
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-template-trigger"
   name="Auto Template Trigger"
-  description="Automatically prompt for a template, when creating a note."
+  description="创建备注时自动提示模板。"
   author="Numeroflip"
-  :downloads="25886"
+  :downloads="25918"
   :updated="1753738582000"
   repo="numeroflip/obsidian-auto-template-trigger"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Template Trigger 是一个功能强大的 Obsidian 插件。
 
-Automatically prompt for a template, when creating a note.
+创建备注时自动提示模板。
 
 通过 Auto Template Trigger,您可以:
 
@@ -202,7 +202,7 @@ Automatically prompt for a template, when creating a note.
 - **下载量**：25.9K
 - **最后更新**：2025-07-29
 - **GitHub**：[numeroflip/obsidian-auto-template-trigger](https://github.com/numeroflip/obsidian-auto-template-trigger)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

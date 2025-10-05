@@ -2,11 +2,11 @@
 title: Paste as file link
 description: Paste clipboard content as file links into existing notes, when a file with this name is existing.
 author: Matthias Büge
-downloads: 70
+downloads: 72
 updated: 1757327516000
 repo: mbedded/obsidian-paste-file-link
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Paste as file link"
   description="Paste clipboard content as file links into existing notes, when a file with this name is existing."
   author="Matthias Büge"
-  :downloads="70"
+  :downloads="72"
   :updated="1757327516000"
   repo="mbedded/obsidian-paste-file-link"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Paste clipboard content as file links into existing notes, when a file with this
 - **插件 ID**：paste-as-file-link
 - **作者**：Matthias Büge
 - **当前版本**：v1.0.0
-- **下载量**：70
+- **下载量**：72
 - **最后更新**：2025-09-08
 - **GitHub**：[mbedded/obsidian-paste-file-link](https://github.com/mbedded/obsidian-paste-file-link)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

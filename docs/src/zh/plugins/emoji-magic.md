@@ -1,12 +1,12 @@
 ---
 title: Emoji Magic
-description: Easily add emoji, with a powerful keyword search.
+description: 通过强大的关键字搜索功能，轻松添加表情符号。
 author: simplgy
-downloads: 17769
+downloads: 17774
 updated: 1685928386000
 repo: SimplGy/obsidian-emoji-magic
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="emoji-magic"
   name="Emoji Magic"
-  description="Easily add emoji, with a powerful keyword search."
+  description="通过强大的关键字搜索功能，轻松添加表情符号。"
   author="simplgy"
-  :downloads="17769"
+  :downloads="17774"
   :updated="1685928386000"
   repo="SimplGy/obsidian-emoji-magic"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Emoji Magic 是一个功能强大的 Obsidian 插件。
 
-Easily add emoji, with a powerful keyword search.
+通过强大的关键字搜索功能，轻松添加表情符号。
 
 通过 Emoji Magic,您可以:
 
@@ -202,7 +202,7 @@ Easily add emoji, with a powerful keyword search.
 - **下载量**：17.8K
 - **最后更新**：2023-06-05
 - **GitHub**：[SimplGy/obsidian-emoji-magic](https://github.com/SimplGy/obsidian-emoji-magic)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

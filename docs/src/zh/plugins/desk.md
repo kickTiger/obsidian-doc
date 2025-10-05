@@ -1,12 +1,12 @@
 ---
 title: Desk
-description: A desk to see notes at a glance. Requires Dataview.
+description: 让笔记一目了然的办公桌。需要 Dataview。
 author: David Landry
-downloads: 3647
+downloads: 3648
 updated: 1701967458000
 repo: davidlandry93/obsidian-desk
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="desk"
   name="Desk"
-  description="A desk to see notes at a glance. Requires Dataview."
+  description="让笔记一目了然的办公桌。需要 Dataview。"
   author="David Landry"
-  :downloads="3647"
+  :downloads="3648"
   :updated="1701967458000"
   repo="davidlandry93/obsidian-desk"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Desk 是一个功能强大的 Obsidian 插件。
 
-A desk to see notes at a glance. Requires Dataview.
+让笔记一目了然的办公桌。需要 Dataview。
 
 通过 Desk,您可以:
 
@@ -202,7 +202,7 @@ A desk to see notes at a glance. Requires Dataview.
 - **下载量**：3.6K
 - **最后更新**：2023-12-08
 - **GitHub**：[davidlandry93/obsidian-desk](https://github.com/davidlandry93/obsidian-desk)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

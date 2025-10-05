@@ -1,12 +1,12 @@
 ---
 title: Share my plugin list
-description: Share the enabled plugins in list/table format.
+description: 以列表/表格形式共享已启用的插件。
 author: Benature
-downloads: 5083
+downloads: 5091
 updated: 1712234960000
 repo: Benature/obsidian-share-my-plugin-list
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="share-my-plugin-list"
   name="Share my plugin list"
-  description="Share the enabled plugins in list/table format."
+  description="以列表/表格形式共享已启用的插件。"
   author="Benature"
-  :downloads="5083"
+  :downloads="5091"
   :updated="1712234960000"
   repo="Benature/obsidian-share-my-plugin-list"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Share my plugin list 是一个功能强大的 Obsidian 插件。
 
-Share the enabled plugins in list/table format.
+以列表/表格形式共享已启用的插件。
 
 通过 Share my plugin list,您可以:
 
@@ -202,7 +202,7 @@ Share the enabled plugins in list/table format.
 - **下载量**：5.1K
 - **最后更新**：2024-04-04
 - **GitHub**：[Benature/obsidian-share-my-plugin-list](https://github.com/Benature/obsidian-share-my-plugin-list)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

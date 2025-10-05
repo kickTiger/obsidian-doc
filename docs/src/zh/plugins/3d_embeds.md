@@ -2,11 +2,11 @@
 title: Embed 3D
 description: Embed 3DModels in markdown notes.
 author: Jesse Strijker
-downloads: 1221
+downloads: 1222
 updated: 1738352497000
 repo: ElmoNeedsArson/Obsidian-3D-embed
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Embed 3D"
   description="Embed 3DModels in markdown notes."
   author="Jesse Strijker"
-  :downloads="1221"
+  :downloads="1222"
   :updated="1738352497000"
   repo="ElmoNeedsArson/Obsidian-3D-embed"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Embed 3DModels in markdown notes.
 - **下载量**：1.2K
 - **最后更新**：2025-02-01
 - **GitHub**：[ElmoNeedsArson/Obsidian-3D-embed](https://github.com/ElmoNeedsArson/Obsidian-3D-embed)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

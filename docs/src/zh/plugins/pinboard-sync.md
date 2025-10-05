@@ -1,12 +1,12 @@
 ---
 title: Pinboard Sync
-description: Sync Pinboard.in links with your daily notes.
+description: 将 Pinboard.in 链接与日常笔记同步。
 author: Mathew Spolin
 downloads: 4321
 updated: 1747427241000
 repo: Automatt/obsidian-pinboard-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pinboard-sync"
   name="Pinboard Sync"
-  description="Sync Pinboard.in links with your daily notes."
+  description="将 Pinboard.in 链接与日常笔记同步。"
   author="Mathew Spolin"
   :downloads="4321"
   :updated="1747427241000"
   repo="Automatt/obsidian-pinboard-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pinboard Sync 是一个功能强大的 Obsidian 插件。
 
-Sync Pinboard.in links with your daily notes.
+将 Pinboard.in 链接与日常笔记同步。
 
 通过 Pinboard Sync,您可以:
 
@@ -202,7 +202,7 @@ Sync Pinboard.in links with your daily notes.
 - **下载量**：4.3K
 - **最后更新**：2025-05-17
 - **GitHub**：[Automatt/obsidian-pinboard-sync](https://github.com/Automatt/obsidian-pinboard-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

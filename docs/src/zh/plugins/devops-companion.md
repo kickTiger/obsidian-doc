@@ -2,11 +2,11 @@
 title: DevOps Companion
 description: Document infrastructure as clearly as you build it.
 author: Jobelin Kom
-downloads: 994
+downloads: 1011
 updated: 1749587263000
 repo: jkom4/obsidian-devops-compagnon
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="DevOps Companion"
   description="Document infrastructure as clearly as you build it."
   author="Jobelin Kom"
-  :downloads="994"
+  :downloads="1011"
   :updated="1749587263000"
   repo="jkom4/obsidian-devops-compagnon"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Document infrastructure as clearly as you build it.
 - **插件 ID**：devops-companion
 - **作者**：Jobelin Kom
 - **当前版本**：v1.0.0
-- **下载量**：994
+- **下载量**：1.0K
 - **最后更新**：2025-06-11
 - **GitHub**：[jkom4/obsidian-devops-compagnon](https://github.com/jkom4/obsidian-devops-compagnon)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

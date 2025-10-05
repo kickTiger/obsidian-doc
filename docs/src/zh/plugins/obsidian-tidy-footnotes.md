@@ -1,12 +1,12 @@
 ---
 title: Tidy Footnotes
-description: Tidy your footnotes seamlessly.
+description: 整理脚注编号。
 author: Charlie Chao
-downloads: 20281
+downloads: 20296
 updated: 1728974868000
 repo: charliecm/obsidian-tidy-footnotes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-tidy-footnotes"
   name="Tidy Footnotes"
-  description="Tidy your footnotes seamlessly."
+  description="整理脚注编号。"
   author="Charlie Chao"
-  :downloads="20281"
+  :downloads="20296"
   :updated="1728974868000"
   repo="charliecm/obsidian-tidy-footnotes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tidy Footnotes 是一个功能强大的 Obsidian 插件。
 
-Tidy your footnotes seamlessly.
+整理脚注编号。
 
 通过 Tidy Footnotes,您可以:
 
@@ -202,7 +202,7 @@ Tidy your footnotes seamlessly.
 - **下载量**：20.3K
 - **最后更新**：2024-10-15
 - **GitHub**：[charliecm/obsidian-tidy-footnotes](https://github.com/charliecm/obsidian-tidy-footnotes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

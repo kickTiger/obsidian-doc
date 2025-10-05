@@ -1,12 +1,12 @@
 ---
 title: File Cleaner
-description: Clean empty files and unused attachments in your vault.
+description: 清理保险库中的空文件和未使用的附件。
 author: Johnson0907
-downloads: 25216
+downloads: 25225
 updated: 1648817345000
 repo: johnsonhong997/obsidian-file-cleaner
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-file-cleaner"
   name="File Cleaner"
-  description="Clean empty files and unused attachments in your vault."
+  description="清理保险库中的空文件和未使用的附件。"
   author="Johnson0907"
-  :downloads="25216"
+  :downloads="25225"
   :updated="1648817345000"
   repo="johnsonhong997/obsidian-file-cleaner"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Cleaner 是一个功能强大的 Obsidian 插件。
 
-Clean empty files and unused attachments in your vault.
+清理保险库中的空文件和未使用的附件。
 
 通过 File Cleaner,您可以:
 
@@ -202,7 +202,7 @@ Clean empty files and unused attachments in your vault.
 - **下载量**：25.2K
 - **最后更新**：2022-04-01
 - **GitHub**：[johnsonhong997/obsidian-file-cleaner](https://github.com/johnsonhong997/obsidian-file-cleaner)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 466
 updated: 1750164198000
 repo: noy4/browser-history
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1750164198000"
   repo="noy4/browser-history"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync your browser history to notes.
 - **下载量**：466
 - **最后更新**：2025-06-17
 - **GitHub**：[noy4/browser-history](https://github.com/noy4/browser-history)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

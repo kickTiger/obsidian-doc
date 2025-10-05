@@ -1,12 +1,12 @@
 ---
 title: Chat Stream
-description: Create branching GPT chats using canvas notes.
+description: 使用画布笔记创建分支 GPT 聊天。
 author: Ryan P Smith
 downloads: 7831
 updated: 1722385548000
 repo: rpggio/obsidian-chat-stream
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chat-stream"
   name="Chat Stream"
-  description="Create branching GPT chats using canvas notes."
+  description="使用画布笔记创建分支 GPT 聊天。"
   author="Ryan P Smith"
   :downloads="7831"
   :updated="1722385548000"
   repo="rpggio/obsidian-chat-stream"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chat Stream 是一个功能强大的 Obsidian 插件。
 
-Create branching GPT chats using canvas notes.
+使用画布笔记创建分支 GPT 聊天。
 
 通过 Chat Stream,您可以:
 
@@ -202,7 +202,7 @@ Create branching GPT chats using canvas notes.
 - **下载量**：7.8K
 - **最后更新**：2024-07-31
 - **GitHub**：[rpggio/obsidian-chat-stream](https://github.com/rpggio/obsidian-chat-stream)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

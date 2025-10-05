@@ -1,12 +1,12 @@
 ---
 title: ToggleList
-description: Toggle the checklist states (paragraph/list/checklist/custom styles).
+description: 切换核对表状态（段落/列表/核对表/自定义样式）。
 author: Lite C
-downloads: 17582
+downloads: 17587
 updated: 1725793762000
 repo: thingnotok/obsidian-toggle-list
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-toggle-list"
   name="ToggleList"
-  description="Toggle the checklist states (paragraph/list/checklist/custom styles)."
+  description="切换核对表状态（段落/列表/核对表/自定义样式）。"
   author="Lite C"
-  :downloads="17582"
+  :downloads="17587"
   :updated="1725793762000"
   repo="thingnotok/obsidian-toggle-list"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ToggleList 是一个功能强大的 Obsidian 插件。
 
-Toggle the checklist states (paragraph/list/checklist/custom styles).
+切换核对表状态（段落/列表/核对表/自定义样式）。
 
 通过 ToggleList,您可以:
 
@@ -202,7 +202,7 @@ Toggle the checklist states (paragraph/list/checklist/custom styles).
 - **下载量**：17.6K
 - **最后更新**：2024-09-08
 - **GitHub**：[thingnotok/obsidian-toggle-list](https://github.com/thingnotok/obsidian-toggle-list)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

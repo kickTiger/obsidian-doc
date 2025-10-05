@@ -2,11 +2,11 @@
 title: TaskWarrior Task Wiki
 description: Wrapper and integration around TaskWarrior. Allows you to view and edit tasks in your TaskWarrior database as tables.
 author: SntTGR
-downloads: 1134
+downloads: 1135
 updated: 1756009668000
 repo: SntTGR/obsidian-tw-task-wiki
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="TaskWarrior Task Wiki"
   description="Wrapper and integration around TaskWarrior. Allows you to view and edit tasks in your TaskWarrior database as tables."
   author="SntTGR"
-  :downloads="1134"
+  :downloads="1135"
   :updated="1756009668000"
   repo="SntTGR/obsidian-tw-task-wiki"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Wrapper and integration around TaskWarrior. Allows you to view and edit tasks in
 - **下载量**：1.1K
 - **最后更新**：2025-08-24
 - **GitHub**：[SntTGR/obsidian-tw-task-wiki](https://github.com/SntTGR/obsidian-tw-task-wiki)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

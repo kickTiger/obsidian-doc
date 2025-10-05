@@ -6,7 +6,7 @@ downloads: 879
 updated: 1738703006000
 repo: Binaris00/Theme-Controller
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1738703006000"
   repo="Binaris00/Theme-Controller"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Set when and how the themes will be displayed.
 - **下载量**：879
 - **最后更新**：2025-02-05
 - **GitHub**：[Binaris00/Theme-Controller](https://github.com/Binaris00/Theme-Controller)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

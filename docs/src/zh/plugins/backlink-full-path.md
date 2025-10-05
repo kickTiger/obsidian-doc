@@ -2,11 +2,11 @@
 title: Backlink Full Path
 description: 'Shows the backlink''s full path in the backlinks panel.'
 author: mnaoumov
-downloads: 1041
+downloads: 1045
 updated: 1759383759000
 repo: mnaoumov/obsidian-backlink-full-path
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Backlink Full Path"
   description="Shows the backlink&#39;s full path in the backlinks panel."
   author="mnaoumov"
-  :downloads="1041"
+  :downloads="1045"
   :updated="1759383759000"
   repo="mnaoumov/obsidian-backlink-full-path"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Shows the backlink&#39;s full path in the backlinks panel.
 - **下载量**：1.0K
 - **最后更新**：2025-10-02
 - **GitHub**：[mnaoumov/obsidian-backlink-full-path](https://github.com/mnaoumov/obsidian-backlink-full-path)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

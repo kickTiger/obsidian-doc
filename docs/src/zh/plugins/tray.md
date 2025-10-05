@@ -1,12 +1,12 @@
 ---
 title: Tray
-description: Run Obsidian from the system tray for customisable window management and global quick notes.
+description: 从系统托盘运行 Obsidian，可自定义窗口管理和全局快速备注。
 author: dragonwocky
-downloads: 24948
+downloads: 24973
 updated: 1693826873000
 repo: dragonwocky/obsidian-tray
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tray"
   name="Tray"
-  description="Run Obsidian from the system tray for customisable window management and global quick notes."
+  description="从系统托盘运行 Obsidian，可自定义窗口管理和全局快速备注。"
   author="dragonwocky"
-  :downloads="24948"
+  :downloads="24973"
   :updated="1693826873000"
   repo="dragonwocky/obsidian-tray"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tray 是一个功能强大的 Obsidian 插件。
 
-Run Obsidian from the system tray for customisable window management and global quick notes.
+从系统托盘运行 Obsidian，可自定义窗口管理和全局快速备注。
 
 通过 Tray,您可以:
 
@@ -199,10 +199,10 @@ Run Obsidian from the system tray for customisable window management and global 
 - **插件 ID**：tray
 - **作者**：dragonwocky
 - **当前版本**：v1.0.0
-- **下载量**：24.9K
+- **下载量**：25.0K
 - **最后更新**：2023-09-04
 - **GitHub**：[dragonwocky/obsidian-tray](https://github.com/dragonwocky/obsidian-tray)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

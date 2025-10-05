@@ -1,12 +1,12 @@
 ---
 title: Ninja Cursor
-description: Enhance cursor visibility.
+description: 提高光标的可见度。
 author: vorotamoroz
-downloads: 27755
+downloads: 27837
 updated: 1686902397000
 repo: vrtmrz/ninja-cursor
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ninja-cursor"
   name="Ninja Cursor"
-  description="Enhance cursor visibility."
+  description="提高光标的可见度。"
   author="vorotamoroz"
-  :downloads="27755"
+  :downloads="27837"
   :updated="1686902397000"
   repo="vrtmrz/ninja-cursor"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ninja Cursor 是一个功能强大的 Obsidian 插件。
 
-Enhance cursor visibility.
+提高光标的可见度。
 
 通过 Ninja Cursor,您可以:
 
@@ -202,7 +202,7 @@ Enhance cursor visibility.
 - **下载量**：27.8K
 - **最后更新**：2023-06-16
 - **GitHub**：[vrtmrz/ninja-cursor](https://github.com/vrtmrz/ninja-cursor)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

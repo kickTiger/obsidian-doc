@@ -6,7 +6,7 @@ downloads: 345
 updated: 1744010294000
 repo: markusmo3/obsidian-private-mode
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1744010294000"
   repo="markusmo3/obsidian-private-mode"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Simple #private mode
 - **下载量**：345
 - **最后更新**：2025-04-07
 - **GitHub**：[markusmo3/obsidian-private-mode](https://github.com/markusmo3/obsidian-private-mode)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

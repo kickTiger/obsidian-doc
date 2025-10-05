@@ -2,11 +2,11 @@
 title: URL Formatter
 description: Automatically formats specific URLs pasted into your notes into clean Markdown links.
 author: Thomas Snoeck
-downloads: 246
+downloads: 249
 updated: 1758188617000
 repo: thomassnoeck/url-formatter-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="URL Formatter"
   description="Automatically formats specific URLs pasted into your notes into clean Markdown links."
   author="Thomas Snoeck"
-  :downloads="246"
+  :downloads="249"
   :updated="1758188617000"
   repo="thomassnoeck/url-formatter-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically formats specific URLs pasted into your notes into clean Markdown l
 - **插件 ID**：url-formatter
 - **作者**：Thomas Snoeck
 - **当前版本**：v1.0.0
-- **下载量**：246
+- **下载量**：249
 - **最后更新**：2025-09-18
 - **GitHub**：[thomassnoeck/url-formatter-obsidian](https://github.com/thomassnoeck/url-formatter-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

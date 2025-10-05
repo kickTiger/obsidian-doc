@@ -2,11 +2,11 @@
 title: VLC Bridge
 description: Take video/movie notes with timestamp links and snapshots from VLC Player.
 author: zuluwi
-downloads: 2576
+downloads: 2580
 updated: 1759281492000
 repo: zuluwi/obsidian-vlc-bridge
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="VLC Bridge"
   description="Take video/movie notes with timestamp links and snapshots from VLC Player."
   author="zuluwi"
-  :downloads="2576"
+  :downloads="2580"
   :updated="1759281492000"
   repo="zuluwi/obsidian-vlc-bridge"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Take video/movie notes with timestamp links and snapshots from VLC Player.
 - **下载量**：2.6K
 - **最后更新**：2025-10-01
 - **GitHub**：[zuluwi/obsidian-vlc-bridge](https://github.com/zuluwi/obsidian-vlc-bridge)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

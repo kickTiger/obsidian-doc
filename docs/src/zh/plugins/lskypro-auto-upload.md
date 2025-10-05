@@ -1,12 +1,12 @@
 ---
 title: Image To Lskypro
-description: Auto upload images from clipboard to Lskypro.
+description: 自动将剪贴板中的图片上传到 Lskypro。
 author: NekouTarou
-downloads: 3837
+downloads: 3838
 updated: 1756266151000
 repo: NekoTarou/lskypro-auto-upload
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="lskypro-auto-upload"
   name="Image To Lskypro"
-  description="Auto upload images from clipboard to Lskypro."
+  description="自动将剪贴板中的图片上传到 Lskypro。"
   author="NekouTarou"
-  :downloads="3837"
+  :downloads="3838"
   :updated="1756266151000"
   repo="NekoTarou/lskypro-auto-upload"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image To Lskypro 是一个功能强大的 Obsidian 插件。
 
-Auto upload images from clipboard to Lskypro.
+自动将剪贴板中的图片上传到 Lskypro。
 
 通过 Image To Lskypro,您可以:
 
@@ -202,7 +202,7 @@ Auto upload images from clipboard to Lskypro.
 - **下载量**：3.8K
 - **最后更新**：2025-08-27
 - **GitHub**：[NekoTarou/lskypro-auto-upload](https://github.com/NekoTarou/lskypro-auto-upload)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

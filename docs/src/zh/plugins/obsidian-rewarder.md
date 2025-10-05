@@ -1,12 +1,12 @@
 ---
 title: Rewarder
-description: Reward yourself for completing tasks/todos, highly configurable.
+description: 奖励自己完成任务/时间表，高度可配置。
 author: Gustav Gnosspelius
-downloads: 31758
+downloads: 31781
 updated: 1703536340000
 repo: Gnopps/obsidian-rewarder
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-rewarder"
   name="Rewarder"
-  description="Reward yourself for completing tasks/todos, highly configurable."
+  description="奖励自己完成任务/时间表，高度可配置。"
   author="Gustav Gnosspelius"
-  :downloads="31758"
+  :downloads="31781"
   :updated="1703536340000"
   repo="Gnopps/obsidian-rewarder"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Rewarder 是一个功能强大的 Obsidian 插件。
 
-Reward yourself for completing tasks/todos, highly configurable.
+奖励自己完成任务/时间表，高度可配置。
 
 通过 Rewarder,您可以:
 
@@ -202,7 +202,7 @@ Reward yourself for completing tasks/todos, highly configurable.
 - **下载量**：31.8K
 - **最后更新**：2023-12-26
 - **GitHub**：[Gnopps/obsidian-rewarder](https://github.com/Gnopps/obsidian-rewarder)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

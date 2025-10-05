@@ -2,11 +2,11 @@
 title: Static Site MD Exporter
 description: Export specific notes to general Markdown files for static page generator like Hugo, Hexo, Astro and more.
 author: Yunfi
-downloads: 1800
+downloads: 1805
 updated: 1731453647000
 repo: yy4382/obsidian-static-site-export
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Static Site MD Exporter"
   description="Export specific notes to general Markdown files for static page generator like Hugo, Hexo, Astro and more."
   author="Yunfi"
-  :downloads="1800"
+  :downloads="1805"
   :updated="1731453647000"
   repo="yy4382/obsidian-static-site-export"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Export specific notes to general Markdown files for static page generator like H
 - **下载量**：1.8K
 - **最后更新**：2024-11-13
 - **GitHub**：[yy4382/obsidian-static-site-export](https://github.com/yy4382/obsidian-static-site-export)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

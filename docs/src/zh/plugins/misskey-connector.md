@@ -6,7 +6,7 @@ downloads: 770
 updated: 1712305304000
 repo: minimarimo3/Obsidian-plugin-for-Misskey
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1712305304000"
   repo="minimarimo3/Obsidian-plugin-for-Misskey"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enables posting and embedding Misskey notes.
 - **下载量**：770
 - **最后更新**：2024-04-05
 - **GitHub**：[minimarimo3/Obsidian-plugin-for-Misskey](https://github.com/minimarimo3/Obsidian-plugin-for-Misskey)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

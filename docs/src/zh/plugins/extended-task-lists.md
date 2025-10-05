@@ -2,11 +2,11 @@
 title: Extended Task Lists
 description: 'Extended reader view support for task lists, including in-progress and won''t do task items.'
 author: joeriddles
-downloads: 3210
+downloads: 3212
 updated: 1723009772000
 repo: joeriddles/extended-task-lists
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Extended Task Lists"
   description="Extended reader view support for task lists, including in-progress and won&#39;t do task items."
   author="joeriddles"
-  :downloads="3210"
+  :downloads="3212"
   :updated="1723009772000"
   repo="joeriddles/extended-task-lists"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Extended reader view support for task lists, including in-progress and won&#39;t
 - **下载量**：3.2K
 - **最后更新**：2024-08-07
 - **GitHub**：[joeriddles/extended-task-lists](https://github.com/joeriddles/extended-task-lists)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

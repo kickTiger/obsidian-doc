@@ -1,12 +1,12 @@
 ---
 title: Canvas minimap
-description: Obsidian Canvas minimap support.
+description: 支持黑曜石画布最小地图。
 author: ifree
-downloads: 9177
+downloads: 9183
 updated: 1710736635000
 repo: ifree/Obsidian-canvas-minimap
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="canvas-minimap"
   name="Canvas minimap"
-  description="Obsidian Canvas minimap support."
+  description="支持黑曜石画布最小地图。"
   author="ifree"
-  :downloads="9177"
+  :downloads="9183"
   :updated="1710736635000"
   repo="ifree/Obsidian-canvas-minimap"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas minimap 是一个功能强大的 Obsidian 插件。
 
-Obsidian Canvas minimap support.
+支持黑曜石画布最小地图。
 
 通过 Canvas minimap,您可以:
 
@@ -202,7 +202,7 @@ Obsidian Canvas minimap support.
 - **下载量**：9.2K
 - **最后更新**：2024-03-18
 - **GitHub**：[ifree/Obsidian-canvas-minimap](https://github.com/ifree/Obsidian-canvas-minimap)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

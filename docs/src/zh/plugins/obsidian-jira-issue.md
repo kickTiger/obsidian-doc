@@ -1,12 +1,12 @@
 ---
 title: Jira Issue
-description: Track the progress of Atlassian Jira issues from your notes.
+description: 通过笔记跟踪 Atlassian Jira 问题的进度。
 author: marc0l92
-downloads: 35497
+downloads: 35528
 updated: 1758819736000
 repo: marc0l92/obsidian-jira-issue
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-jira-issue"
   name="Jira Issue"
-  description="Track the progress of Atlassian Jira issues from your notes."
+  description="通过笔记跟踪 Atlassian Jira 问题的进度。"
   author="marc0l92"
-  :downloads="35497"
+  :downloads="35528"
   :updated="1758819736000"
   repo="marc0l92/obsidian-jira-issue"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Jira Issue 是一个功能强大的 Obsidian 插件。
 
-Track the progress of Atlassian Jira issues from your notes.
+通过笔记跟踪 Atlassian Jira 问题的进度。
 
 通过 Jira Issue,您可以:
 
@@ -202,7 +202,7 @@ Track the progress of Atlassian Jira issues from your notes.
 - **下载量**：35.5K
 - **最后更新**：2025-09-26
 - **GitHub**：[marc0l92/obsidian-jira-issue](https://github.com/marc0l92/obsidian-jira-issue)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

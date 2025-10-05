@@ -2,11 +2,11 @@
 title: Better Order List
 description: Support new line order list like 1、 or (1)., etc.
 author: Boninall
-downloads: 1933
+downloads: 1934
 updated: 1705061738000
 repo: Quorafind/Obsidian-Better-Order-List
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Better Order List"
   description="Support new line order list like 1、 or (1)., etc."
   author="Boninall"
-  :downloads="1933"
+  :downloads="1934"
   :updated="1705061738000"
   repo="Quorafind/Obsidian-Better-Order-List"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Support new line order list like 1、 or (1)., etc.
 - **下载量**：1.9K
 - **最后更新**：2024-01-12
 - **GitHub**：[Quorafind/Obsidian-Better-Order-List](https://github.com/Quorafind/Obsidian-Better-Order-List)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

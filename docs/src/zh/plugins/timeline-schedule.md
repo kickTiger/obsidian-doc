@@ -2,11 +2,11 @@
 title: Timeline Schedule
 description: 'Inline timelines generated from human-readable time strings, e.g. ''Walk dog (30min)'' in a ```schedule codeblock.'
 author: Evan Bonsignori
-downloads: 2772
+downloads: 2773
 updated: 1703383156000
 repo: Ebonsignori/obsidian-timeline-schedule
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Timeline Schedule"
   description="Inline timelines generated from human-readable time strings, e.g. &#39;Walk dog (30min)&#39; in a ```schedule codeblock."
   author="Evan Bonsignori"
-  :downloads="2772"
+  :downloads="2773"
   :updated="1703383156000"
   repo="Ebonsignori/obsidian-timeline-schedule"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Inline timelines generated from human-readable time strings, e.g. &#39;Walk dog 
 - **下载量**：2.8K
 - **最后更新**：2023-12-24
 - **GitHub**：[Ebonsignori/obsidian-timeline-schedule](https://github.com/Ebonsignori/obsidian-timeline-schedule)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Immich
 description: Link your Immich images within your vault.
 author: Talal Abou Haiba
-downloads: 546
+downloads: 547
 updated: 1742800875000
 repo: Talal-A/obsidian-immich
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Immich"
   description="Link your Immich images within your vault."
   author="Talal Abou Haiba"
-  :downloads="546"
+  :downloads="547"
   :updated="1742800875000"
   repo="Talal-A/obsidian-immich"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Link your Immich images within your vault.
 - **插件 ID**：immich
 - **作者**：Talal Abou Haiba
 - **当前版本**：v1.0.0
-- **下载量**：546
+- **下载量**：547
 - **最后更新**：2025-03-24
 - **GitHub**：[Talal-A/obsidian-immich](https://github.com/Talal-A/obsidian-immich)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: OCR
-description: Use optical character recognition to search for text in you images and PDFs.
+description: 使用光学字符识别功能搜索图像和 PDF 文件中的文本。
 author: Jonas Mohr
-downloads: 19171
+downloads: 19176
 updated: 1705001895000
 repo: MohrJonas/obsidian-ocr
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-ocr"
   name="OCR"
-  description="Use optical character recognition to search for text in you images and PDFs."
+  description="使用光学字符识别功能搜索图像和 PDF 文件中的文本。"
   author="Jonas Mohr"
-  :downloads="19171"
+  :downloads="19176"
   :updated="1705001895000"
   repo="MohrJonas/obsidian-ocr"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 OCR 是一个功能强大的 Obsidian 插件。
 
-Use optical character recognition to search for text in you images and PDFs.
+使用光学字符识别功能搜索图像和 PDF 文件中的文本。
 
 通过 OCR,您可以:
 
@@ -202,7 +202,7 @@ Use optical character recognition to search for text in you images and PDFs.
 - **下载量**：19.2K
 - **最后更新**：2024-01-12
 - **GitHub**：[MohrJonas/obsidian-ocr](https://github.com/MohrJonas/obsidian-ocr)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

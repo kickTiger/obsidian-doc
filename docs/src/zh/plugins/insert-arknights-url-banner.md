@@ -6,7 +6,7 @@ downloads: 76
 updated: 1752483016000
 repo: Rerurate514/insert_ArknightsURL_banners
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1752483016000"
   repo="Rerurate514/insert_ArknightsURL_banners"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Select the Arknights image and place it in the banner property.
 - **下载量**：76
 - **最后更新**：2025-07-14
 - **GitHub**：[Rerurate514/insert_ArknightsURL_banners](https://github.com/Rerurate514/insert_ArknightsURL_banners)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

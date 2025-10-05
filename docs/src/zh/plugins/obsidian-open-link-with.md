@@ -1,12 +1,12 @@
 ---
 title: Open Link With
-description: Open external link with specific browser.
+description: 使用特定浏览器打开外部链接。
 author: MamoruDS
-downloads: 17150
+downloads: 17162
 updated: 1675241574000
 repo: MamoruDS/obsidian-open-link-with
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-open-link-with"
   name="Open Link With"
-  description="Open external link with specific browser."
+  description="使用特定浏览器打开外部链接。"
   author="MamoruDS"
-  :downloads="17150"
+  :downloads="17162"
   :updated="1675241574000"
   repo="MamoruDS/obsidian-open-link-with"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Open Link With 是一个功能强大的 Obsidian 插件。
 
-Open external link with specific browser.
+使用特定浏览器打开外部链接。
 
 通过 Open Link With,您可以:
 
@@ -199,10 +199,10 @@ Open external link with specific browser.
 - **插件 ID**：obsidian-open-link-with
 - **作者**：MamoruDS
 - **当前版本**：v1.0.0
-- **下载量**：17.1K
+- **下载量**：17.2K
 - **最后更新**：2023-02-01
 - **GitHub**：[MamoruDS/obsidian-open-link-with](https://github.com/MamoruDS/obsidian-open-link-with)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

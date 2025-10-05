@@ -1,12 +1,12 @@
 ---
 title: Custom Note Width
-description: Effortlessly change the line width of each note individually. Provides multiple ways to customize the experience, making it both efficient and user-friendly to adjust line widths.
+description: 轻松改变每个音符的线宽。提供多种自定义体验方式，使调整线宽既高效又方便用户。
 author: 0skater0
-downloads: 10309
+downloads: 10326
 updated: 1700756095000
 repo: 0skater0/obsidian-custom-note-width
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="custom-note-width"
   name="Custom Note Width"
-  description="Effortlessly change the line width of each note individually. Provides multiple ways to customize the experience, making it both efficient and user-friendly to adjust line widths."
+  description="轻松改变每个音符的线宽。提供多种自定义体验方式，使调整线宽既高效又方便用户。"
   author="0skater0"
-  :downloads="10309"
+  :downloads="10326"
   :updated="1700756095000"
   repo="0skater0/obsidian-custom-note-width"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Custom Note Width 是一个功能强大的 Obsidian 插件。
 
-Effortlessly change the line width of each note individually. Provides multiple ways to customize the experience, making it both efficient and user-friendly to adjust line widths.
+轻松改变每个音符的线宽。提供多种自定义体验方式，使调整线宽既高效又方便用户。
 
 通过 Custom Note Width,您可以:
 
@@ -202,7 +202,7 @@ Effortlessly change the line width of each note individually. Provides multiple 
 - **下载量**：10.3K
 - **最后更新**：2023-11-24
 - **GitHub**：[0skater0/obsidian-custom-note-width](https://github.com/0skater0/obsidian-custom-note-width)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

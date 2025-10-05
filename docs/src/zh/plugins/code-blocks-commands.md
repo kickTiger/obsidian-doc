@@ -2,11 +2,11 @@
 title: Code Blocks commands
 description: Provide commands to insert code blocks with markup, and support triggering commands with backticks.
 author: dragonish
-downloads: 89
+downloads: 91
 updated: 1751893611000
 repo: dragonish/code-blocks-commands
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Code Blocks commands"
   description="Provide commands to insert code blocks with markup, and support triggering commands with backticks."
   author="dragonish"
-  :downloads="89"
+  :downloads="91"
   :updated="1751893611000"
   repo="dragonish/code-blocks-commands"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Provide commands to insert code blocks with markup, and support triggering comma
 - **插件 ID**：code-blocks-commands
 - **作者**：dragonish
 - **当前版本**：v1.0.0
-- **下载量**：89
+- **下载量**：91
 - **最后更新**：2025-07-07
 - **GitHub**：[dragonish/code-blocks-commands](https://github.com/dragonish/code-blocks-commands)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

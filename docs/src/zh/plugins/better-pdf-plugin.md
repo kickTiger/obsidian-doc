@@ -1,12 +1,12 @@
 ---
 title: Better PDF
-description: Insert, scale, rotate and cut-out PDF pages into your notes.
+description: 在笔记中插入、缩放、旋转和剪切 PDF 页面。
 author: MSzturc
-downloads: 61903
+downloads: 61920
 updated: 1655674173000
 repo: MSzturc/obsidian-better-pdf-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="better-pdf-plugin"
   name="Better PDF"
-  description="Insert, scale, rotate and cut-out PDF pages into your notes."
+  description="在笔记中插入、缩放、旋转和剪切 PDF 页面。"
   author="MSzturc"
-  :downloads="61903"
+  :downloads="61920"
   :updated="1655674173000"
   repo="MSzturc/obsidian-better-pdf-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better PDF 是一个功能强大的 Obsidian 插件。
 
-Insert, scale, rotate and cut-out PDF pages into your notes.
+在笔记中插入、缩放、旋转和剪切 PDF 页面。
 
 通过 Better PDF,您可以:
 
@@ -202,7 +202,7 @@ Insert, scale, rotate and cut-out PDF pages into your notes.
 - **下载量**：61.9K
 - **最后更新**：2022-06-20
 - **GitHub**：[MSzturc/obsidian-better-pdf-plugin](https://github.com/MSzturc/obsidian-better-pdf-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

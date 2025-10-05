@@ -2,11 +2,11 @@
 title: Attachments Cache
 description: Store images and other attachments on the vault
 author: luisbs
-downloads: 318
+downloads: 320
 updated: 1744784363000
 repo: luisbs/obsidian-attachments-cache
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Attachments Cache"
   description="Store images and other attachments on the vault"
   author="luisbs"
-  :downloads="318"
+  :downloads="320"
   :updated="1744784363000"
   repo="luisbs/obsidian-attachments-cache"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Store images and other attachments on the vault
 - **插件 ID**：attachments-cache
 - **作者**：luisbs
 - **当前版本**：v1.0.0
-- **下载量**：318
+- **下载量**：320
 - **最后更新**：2025-04-16
 - **GitHub**：[luisbs/obsidian-attachments-cache](https://github.com/luisbs/obsidian-attachments-cache)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

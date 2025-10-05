@@ -1,12 +1,12 @@
 ---
 title: Save as Gist
-description: Save current note as a GitHub Gist.
+description: 将当前注释保存为 GitHub Gist。
 author: ghedamat
 downloads: 4214
 updated: 1643081772000
 repo: ghedamat/obsidian-save-as-gist
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-save-as-gist"
   name="Save as Gist"
-  description="Save current note as a GitHub Gist."
+  description="将当前注释保存为 GitHub Gist。"
   author="ghedamat"
   :downloads="4214"
   :updated="1643081772000"
   repo="ghedamat/obsidian-save-as-gist"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Save as Gist 是一个功能强大的 Obsidian 插件。
 
-Save current note as a GitHub Gist.
+将当前注释保存为 GitHub Gist。
 
 通过 Save as Gist,您可以:
 
@@ -202,7 +202,7 @@ Save current note as a GitHub Gist.
 - **下载量**：4.2K
 - **最后更新**：2022-01-25
 - **GitHub**：[ghedamat/obsidian-save-as-gist](https://github.com/ghedamat/obsidian-save-as-gist)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

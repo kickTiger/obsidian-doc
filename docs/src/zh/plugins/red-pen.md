@@ -1,12 +1,12 @@
 ---
 title: Red Pen
-description: Red Pen acts as a proofreader for your writing.
+description: Red Pen 可为您的写作提供校对服务。
 author: Lucas Melin
-downloads: 5045
+downloads: 5046
 updated: 1690836532000
 repo: lucasmelin/red-pen
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="red-pen"
   name="Red Pen"
-  description="Red Pen acts as a proofreader for your writing."
+  description="Red Pen 可为您的写作提供校对服务。"
   author="Lucas Melin"
-  :downloads="5045"
+  :downloads="5046"
   :updated="1690836532000"
   repo="lucasmelin/red-pen"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Red Pen 是一个功能强大的 Obsidian 插件。
 
-Red Pen acts as a proofreader for your writing.
+Red Pen 可为您的写作提供校对服务。
 
 通过 Red Pen,您可以:
 
@@ -202,7 +202,7 @@ Red Pen acts as a proofreader for your writing.
 - **下载量**：5.0K
 - **最后更新**：2023-08-01
 - **GitHub**：[lucasmelin/red-pen](https://github.com/lucasmelin/red-pen)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

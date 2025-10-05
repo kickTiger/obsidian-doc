@@ -1,12 +1,12 @@
 ---
 title: Natural Language Dates
-description: Create date-links based on natural language.
+description: 基于自然语言创建日期链接。
 author: Argentina Ortega Sainz
-downloads: 444490
+downloads: 444641
 updated: 1701462704000
 repo: argenos/nldates-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="nldates-obsidian"
   name="Natural Language Dates"
-  description="Create date-links based on natural language."
+  description="基于自然语言创建日期链接。"
   author="Argentina Ortega Sainz"
-  :downloads="444490"
+  :downloads="444641"
   :updated="1701462704000"
   repo="argenos/nldates-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Natural Language Dates 是一个功能强大的 Obsidian 插件。
 
-Create date-links based on natural language.
+基于自然语言创建日期链接。
 
 通过 Natural Language Dates,您可以:
 
@@ -199,10 +199,10 @@ Create date-links based on natural language.
 - **插件 ID**：nldates-obsidian
 - **作者**：Argentina Ortega Sainz
 - **当前版本**：v1.0.0
-- **下载量**：444.5K
+- **下载量**：444.6K
 - **最后更新**：2023-12-02
 - **GitHub**：[argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

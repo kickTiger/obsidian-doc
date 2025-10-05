@@ -1,12 +1,12 @@
 ---
 title: Quick Switcher++
-description: Enhanced Quick Switcher, search open panels, and symbols.
+description: 增强的快速切换器、搜索打开的面板和符号。
 author: darlal
-downloads: 323213
+downloads: 323409
 updated: 1756332611000
 repo: darlal/obsidian-switcher-plus
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="darlal-switcher-plus"
   name="Quick Switcher++"
-  description="Enhanced Quick Switcher, search open panels, and symbols."
+  description="增强的快速切换器、搜索打开的面板和符号。"
   author="darlal"
-  :downloads="323213"
+  :downloads="323409"
   :updated="1756332611000"
   repo="darlal/obsidian-switcher-plus"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quick Switcher++ 是一个功能强大的 Obsidian 插件。
 
-Enhanced Quick Switcher, search open panels, and symbols.
+增强的快速切换器、搜索打开的面板和符号。
 
 通过 Quick Switcher++,您可以:
 
@@ -199,10 +199,10 @@ Enhanced Quick Switcher, search open panels, and symbols.
 - **插件 ID**：darlal-switcher-plus
 - **作者**：darlal
 - **当前版本**：v1.0.0
-- **下载量**：323.2K
+- **下载量**：323.4K
 - **最后更新**：2025-08-28
 - **GitHub**：[darlal/obsidian-switcher-plus](https://github.com/darlal/obsidian-switcher-plus)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

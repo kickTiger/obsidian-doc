@@ -2,11 +2,11 @@
 title: Smart Vault Visualizer
 description: Visualizes and manages smart clusters and cluster groups in your vault.
 author: Evan Moscoso
-downloads: 1270
+downloads: 1280
 updated: 1751389663000
 repo: Mossy1022/Smart-Connections-Vault-Visualizer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Smart Vault Visualizer"
   description="Visualizes and manages smart clusters and cluster groups in your vault."
   author="Evan Moscoso"
-  :downloads="1270"
+  :downloads="1280"
   :updated="1751389663000"
   repo="Mossy1022/Smart-Connections-Vault-Visualizer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Visualizes and manages smart clusters and cluster groups in your vault.
 - **下载量**：1.3K
 - **最后更新**：2025-07-02
 - **GitHub**：[Mossy1022/Smart-Connections-Vault-Visualizer](https://github.com/Mossy1022/Smart-Connections-Vault-Visualizer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

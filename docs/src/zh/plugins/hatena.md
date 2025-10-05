@@ -6,7 +6,7 @@ downloads: 1311
 updated: 1749162952000
 repo: takmatsukawa/obsidian-hatena
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1749162952000"
   repo="takmatsukawa/obsidian-hatena"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Post directly to your Hatena Blog.
 - **下载量**：1.3K
 - **最后更新**：2025-06-06
 - **GitHub**：[takmatsukawa/obsidian-hatena](https://github.com/takmatsukawa/obsidian-hatena)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

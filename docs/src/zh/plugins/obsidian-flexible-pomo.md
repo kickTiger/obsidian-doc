@@ -1,12 +1,12 @@
 ---
 title: Flexible Pomodoro
-description: Add a pomodoro timer to your status bar. This pomodoro has additional options such as early log and extend.
+description: 在状态栏中添加番茄定时器。此番茄定时器有提前记录和延长等附加选项。
 author: grassbl8d
-downloads: 13624
+downloads: 13626
 updated: 1660977659000
 repo: grassbl8d/flexible-pomo-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-flexible-pomo"
   name="Flexible Pomodoro"
-  description="Add a pomodoro timer to your status bar. This pomodoro has additional options such as early log and extend."
+  description="在状态栏中添加番茄定时器。此番茄定时器有提前记录和延长等附加选项。"
   author="grassbl8d"
-  :downloads="13624"
+  :downloads="13626"
   :updated="1660977659000"
   repo="grassbl8d/flexible-pomo-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Flexible Pomodoro 是一个功能强大的 Obsidian 插件。
 
-Add a pomodoro timer to your status bar. This pomodoro has additional options such as early log and extend.
+在状态栏中添加番茄定时器。此番茄定时器有提前记录和延长等附加选项。
 
 通过 Flexible Pomodoro,您可以:
 
@@ -202,7 +202,7 @@ Add a pomodoro timer to your status bar. This pomodoro has additional options su
 - **下载量**：13.6K
 - **最后更新**：2022-08-20
 - **GitHub**：[grassbl8d/flexible-pomo-obsidian](https://github.com/grassbl8d/flexible-pomo-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

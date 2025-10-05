@@ -1,12 +1,12 @@
 ---
 title: D2
-description: Official D2 plugin. D2 is a modern diagram scripting language that turns text to diagrams.
+description: D2 官方插件。D2 是一种现代图表脚本语言，可将文本转化为图表。
 author: Terrastruct
-downloads: 14662
+downloads: 14666
 updated: 1701471175000
 repo: terrastruct/d2-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="d2-obsidian"
   name="D2"
-  description="Official D2 plugin. D2 is a modern diagram scripting language that turns text to diagrams."
+  description="D2 官方插件。D2 是一种现代图表脚本语言，可将文本转化为图表。"
   author="Terrastruct"
-  :downloads="14662"
+  :downloads="14666"
   :updated="1701471175000"
   repo="terrastruct/d2-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 D2 是一个功能强大的 Obsidian 插件。
 
-Official D2 plugin. D2 is a modern diagram scripting language that turns text to diagrams.
+D2 官方插件。D2 是一种现代图表脚本语言，可将文本转化为图表。
 
 通过 D2,您可以:
 
@@ -202,7 +202,7 @@ Official D2 plugin. D2 is a modern diagram scripting language that turns text to
 - **下载量**：14.7K
 - **最后更新**：2023-12-02
 - **GitHub**：[terrastruct/d2-obsidian](https://github.com/terrastruct/d2-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

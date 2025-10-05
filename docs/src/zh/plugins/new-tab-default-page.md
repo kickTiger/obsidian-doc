@@ -1,12 +1,12 @@
 ---
 title: Default New Tab Page
-description: Open a note of your choice when creating a new tab, like in the browser.
+description: 在创建新标签页时，像在浏览器中一样，打开您选择的备注。
 author: Chris Grieser (aka pseudometa)
-downloads: 33336
+downloads: 33356
 updated: 1736763839000
 repo: chrisgrieser/new-tab-default-page
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="new-tab-default-page"
   name="Default New Tab Page"
-  description="Open a note of your choice when creating a new tab, like in the browser."
+  description="在创建新标签页时，像在浏览器中一样，打开您选择的备注。"
   author="Chris Grieser (aka pseudometa)"
-  :downloads="33336"
+  :downloads="33356"
   :updated="1736763839000"
   repo="chrisgrieser/new-tab-default-page"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Default New Tab Page 是一个功能强大的 Obsidian 插件。
 
-Open a note of your choice when creating a new tab, like in the browser.
+在创建新标签页时，像在浏览器中一样，打开您选择的备注。
 
 通过 Default New Tab Page,您可以:
 
@@ -199,10 +199,10 @@ Open a note of your choice when creating a new tab, like in the browser.
 - **插件 ID**：new-tab-default-page
 - **作者**：Chris Grieser (aka pseudometa)
 - **当前版本**：v1.0.0
-- **下载量**：33.3K
+- **下载量**：33.4K
 - **最后更新**：2025-01-13
 - **GitHub**：[chrisgrieser/new-tab-default-page](https://github.com/chrisgrieser/new-tab-default-page)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

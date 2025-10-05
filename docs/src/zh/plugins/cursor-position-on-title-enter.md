@@ -2,11 +2,11 @@
 title: Cursor Position on Title Enter
 description: Set the cursor position after pressing Enter on the note title.
 author: Por Chainarong Tangsurakit
-downloads: 274
+downloads: 275
 updated: 1735181626000
 repo: chaintng/cursor-position-on-title-enter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Cursor Position on Title Enter"
   description="Set the cursor position after pressing Enter on the note title."
   author="Por Chainarong Tangsurakit"
-  :downloads="274"
+  :downloads="275"
   :updated="1735181626000"
   repo="chaintng/cursor-position-on-title-enter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Set the cursor position after pressing Enter on the note title.
 - **插件 ID**：cursor-position-on-title-enter
 - **作者**：Por Chainarong Tangsurakit
 - **当前版本**：v1.0.0
-- **下载量**：274
+- **下载量**：275
 - **最后更新**：2024-12-26
 - **GitHub**：[chaintng/cursor-position-on-title-enter](https://github.com/chaintng/cursor-position-on-title-enter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

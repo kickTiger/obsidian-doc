@@ -1,12 +1,12 @@
 ---
 title: Note Definitions
-description: Personal dictionary for your notes
+description: 个人字典
 author: Dominic Let
-downloads: 16030
+downloads: 16045
 updated: 1751469796000
 repo: dominiclet/obsidian-note-definitions
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="note-definitions"
   name="Note Definitions"
-  description="Personal dictionary for your notes"
+  description="个人字典"
   author="Dominic Let"
-  :downloads="16030"
+  :downloads="16045"
   :updated="1751469796000"
   repo="dominiclet/obsidian-note-definitions"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note Definitions 是一个功能强大的 Obsidian 插件。
 
-Personal dictionary for your notes
+个人字典
 
 通过 Note Definitions,您可以:
 
@@ -202,7 +202,7 @@ Personal dictionary for your notes
 - **下载量**：16.0K
 - **最后更新**：2025-07-02
 - **GitHub**：[dominiclet/obsidian-note-definitions](https://github.com/dominiclet/obsidian-note-definitions)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

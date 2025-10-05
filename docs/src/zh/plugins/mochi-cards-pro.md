@@ -2,11 +2,11 @@
 title: Mochi Cards Pro
 description: 'Create flashcards on Mochi.cards using the API provided by Mochi''s Pro subscription.'
 author: Hayden Carpenter
-downloads: 2796
+downloads: 2797
 updated: 1758739528000
 repo: xHayden/obsidian-mochi-cards-pro
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Mochi Cards Pro"
   description="Create flashcards on Mochi.cards using the API provided by Mochi&#39;s Pro subscription."
   author="Hayden Carpenter"
-  :downloads="2796"
+  :downloads="2797"
   :updated="1758739528000"
   repo="xHayden/obsidian-mochi-cards-pro"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create flashcards on Mochi.cards using the API provided by Mochi&#39;s Pro subsc
 - **下载量**：2.8K
 - **最后更新**：2025-09-25
 - **GitHub**：[xHayden/obsidian-mochi-cards-pro](https://github.com/xHayden/obsidian-mochi-cards-pro)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Youtube Iframe Timestamps
 description: Allows you to embed YouTube videos with timestamps directly in your notes, enabling seamless referencing and note-taking without needing to open a separate browser window.
 author: Nils Leo
-downloads: 2151
+downloads: 2162
 updated: 1727969074000
 repo: NilsLeo/obsidian-youtube-iframe-timestamps
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Youtube Iframe Timestamps"
   description="Allows you to embed YouTube videos with timestamps directly in your notes, enabling seamless referencing and note-taking without needing to open a separate browser window."
   author="Nils Leo"
-  :downloads="2151"
+  :downloads="2162"
   :updated="1727969074000"
   repo="NilsLeo/obsidian-youtube-iframe-timestamps"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Allows you to embed YouTube videos with timestamps directly in your notes, enabl
 - **下载量**：2.2K
 - **最后更新**：2024-10-03
 - **GitHub**：[NilsLeo/obsidian-youtube-iframe-timestamps](https://github.com/NilsLeo/obsidian-youtube-iframe-timestamps)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Edit MDX
 description: Edit and create .mdx files.
 author: Tim Peters
-downloads: 3120
+downloads: 3122
 updated: 1700655857000
 repo: timppeters/obsidian-edit-mdx
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Edit MDX"
   description="Edit and create .mdx files."
   author="Tim Peters"
-  :downloads="3120"
+  :downloads="3122"
   :updated="1700655857000"
   repo="timppeters/obsidian-edit-mdx"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Edit and create .mdx files.
 - **下载量**：3.1K
 - **最后更新**：2023-11-22
 - **GitHub**：[timppeters/obsidian-edit-mdx](https://github.com/timppeters/obsidian-edit-mdx)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

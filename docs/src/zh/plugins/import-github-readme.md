@@ -2,11 +2,11 @@
 title: Import GitHub Readme
 description: Allows you to import a GitHub README file into your vault.
 author: Chasebank87
-downloads: 665
+downloads: 666
 updated: 1719647581000
 repo: chasebank87/import-github-readme
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Import GitHub Readme"
   description="Allows you to import a GitHub README file into your vault."
   author="Chasebank87"
-  :downloads="665"
+  :downloads="666"
   :updated="1719647581000"
   repo="chasebank87/import-github-readme"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Allows you to import a GitHub README file into your vault.
 - **插件 ID**：import-github-readme
 - **作者**：Chasebank87
 - **当前版本**：v1.0.0
-- **下载量**：665
+- **下载量**：666
 - **最后更新**：2024-06-29
 - **GitHub**：[chasebank87/import-github-readme](https://github.com/chasebank87/import-github-readme)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

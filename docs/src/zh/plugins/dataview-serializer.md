@@ -1,12 +1,12 @@
 ---
 title: Dataview Serializer
-description: Serialize Dataview queries to Markdown, and keep the Markdown representation up to date
+description: 将 Dataview 查询序列化为 Markdown，并更新 Markdown 表示法
 author: Sébastien Dubois
-downloads: 5943
+downloads: 5954
 updated: 1754212334000
 repo: dsebastien/obsidian-dataview-serializer
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="dataview-serializer"
   name="Dataview Serializer"
-  description="Serialize Dataview queries to Markdown, and keep the Markdown representation up to date"
+  description="将 Dataview 查询序列化为 Markdown，并更新 Markdown 表示法"
   author="Sébastien Dubois"
-  :downloads="5943"
+  :downloads="5954"
   :updated="1754212334000"
   repo="dsebastien/obsidian-dataview-serializer"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dataview Serializer 是一个功能强大的 Obsidian 插件。
 
-Serialize Dataview queries to Markdown, and keep the Markdown representation up to date
+将 Dataview 查询序列化为 Markdown，并更新 Markdown 表示法
 
 通过 Dataview Serializer,您可以:
 
@@ -199,10 +199,10 @@ Serialize Dataview queries to Markdown, and keep the Markdown representation up 
 - **插件 ID**：dataview-serializer
 - **作者**：Sébastien Dubois
 - **当前版本**：v1.0.0
-- **下载量**：5.9K
+- **下载量**：6.0K
 - **最后更新**：2025-08-03
 - **GitHub**：[dsebastien/obsidian-dataview-serializer](https://github.com/dsebastien/obsidian-dataview-serializer)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

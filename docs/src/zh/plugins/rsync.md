@@ -2,11 +2,11 @@
 title: Rsync
 description: Sync notes and automate backups using Rsync.
 author: Ganapathy Raman
-downloads: 382
+downloads: 386
 updated: 1740587590000
 repo: GanapathyRaman/rsync-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Rsync"
   description="Sync notes and automate backups using Rsync."
   author="Ganapathy Raman"
-  :downloads="382"
+  :downloads="386"
   :updated="1740587590000"
   repo="GanapathyRaman/rsync-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Sync notes and automate backups using Rsync.
 - **插件 ID**：rsync
 - **作者**：Ganapathy Raman
 - **当前版本**：v1.0.0
-- **下载量**：382
+- **下载量**：386
 - **最后更新**：2025-02-27
 - **GitHub**：[GanapathyRaman/rsync-plugin](https://github.com/GanapathyRaman/rsync-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

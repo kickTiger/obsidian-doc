@@ -2,11 +2,11 @@
 title: 复制图文 (Copy Image Text)
 description: Copy note content (including text and images) to clipboard. 复制笔记内容（包括文本和图片）到剪贴板。
 author: msgk
-downloads: 1359
+downloads: 1362
 updated: 1749304472000
 repo: msgk239/obsidian-copy-image-text
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="复制图文 (Copy Image Text)"
   description="Copy note content (including text and images) to clipboard. 复制笔记内容（包括文本和图片）到剪贴板。"
   author="msgk"
-  :downloads="1359"
+  :downloads="1362"
   :updated="1749304472000"
   repo="msgk239/obsidian-copy-image-text"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Copy note content (including text and images) to clipboard. 复制笔记内容�
 - **下载量**：1.4K
 - **最后更新**：2025-06-07
 - **GitHub**：[msgk239/obsidian-copy-image-text](https://github.com/msgk239/obsidian-copy-image-text)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

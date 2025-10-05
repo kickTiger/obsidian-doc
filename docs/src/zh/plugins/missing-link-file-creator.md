@@ -2,11 +2,11 @@
 title: Missing Link File Creator
 description: Creates missing linked files and detects missing wiki links.
 author: Lemon695
-downloads: 788
+downloads: 789
 updated: 1741775659000
 repo: Lemon695/obsidian-missing-link-file-creator
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Missing Link File Creator"
   description="Creates missing linked files and detects missing wiki links."
   author="Lemon695"
-  :downloads="788"
+  :downloads="789"
   :updated="1741775659000"
   repo="Lemon695/obsidian-missing-link-file-creator"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Creates missing linked files and detects missing wiki links.
 - **插件 ID**：missing-link-file-creator
 - **作者**：Lemon695
 - **当前版本**：v1.0.0
-- **下载量**：788
+- **下载量**：789
 - **最后更新**：2025-03-12
 - **GitHub**：[Lemon695/obsidian-missing-link-file-creator](https://github.com/Lemon695/obsidian-missing-link-file-creator)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Obsius Publish
-description: Make single notes instantly available on the web.
+description: 在网络上即时提供单个笔记。
 author: Jon Grythe Stødle
-downloads: 16062
+downloads: 16066
 updated: 1720705679000
 repo: jonstodle/obsius-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsius-publish"
   name="Obsius Publish"
-  description="Make single notes instantly available on the web."
+  description="在网络上即时提供单个笔记。"
   author="Jon Grythe Stødle"
-  :downloads="16062"
+  :downloads="16066"
   :updated="1720705679000"
   repo="jonstodle/obsius-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Obsius Publish 是一个功能强大的 Obsidian 插件。
 
-Make single notes instantly available on the web.
+在网络上即时提供单个笔记。
 
 通过 Obsius Publish,您可以:
 
@@ -202,7 +202,7 @@ Make single notes instantly available on the web.
 - **下载量**：16.1K
 - **最后更新**：2024-07-11
 - **GitHub**：[jonstodle/obsius-obsidian-plugin](https://github.com/jonstodle/obsius-obsidian-plugin)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

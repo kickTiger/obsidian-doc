@@ -6,7 +6,7 @@ downloads: 372
 updated: 1734185816000
 repo: freddyouellette/obsidian-insert-new-line-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1734185816000"
   repo="freddyouellette/obsidian-insert-new-line-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Insert a new line above or below the current line.
 - **下载量**：372
 - **最后更新**：2024-12-14
 - **GitHub**：[freddyouellette/obsidian-insert-new-line-plugin](https://github.com/freddyouellette/obsidian-insert-new-line-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

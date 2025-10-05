@@ -1,12 +1,12 @@
 ---
 title: Highlight Public Notes
-description: Warn that a note is public (based on a frontmatter attribute) by coloring the note red.
+description: 通过将注释染成红色来警告注释是公开的（基于 frontmatter 属性）。
 author: dennis seidel
-downloads: 6649
+downloads: 6658
 updated: 1659193325000
 repo: dennisseidel/highlightpublicnotes-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-highlightpublicnotes-plugin"
   name="Highlight Public Notes"
-  description="Warn that a note is public (based on a frontmatter attribute) by coloring the note red."
+  description="通过将注释染成红色来警告注释是公开的（基于 frontmatter 属性）。"
   author="dennis seidel"
-  :downloads="6649"
+  :downloads="6658"
   :updated="1659193325000"
   repo="dennisseidel/highlightpublicnotes-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Highlight Public Notes 是一个功能强大的 Obsidian 插件。
 
-Warn that a note is public (based on a frontmatter attribute) by coloring the note red.
+通过将注释染成红色来警告注释是公开的（基于 frontmatter 属性）。
 
 通过 Highlight Public Notes,您可以:
 
@@ -199,10 +199,10 @@ Warn that a note is public (based on a frontmatter attribute) by coloring the no
 - **插件 ID**：obsidian-highlightpublicnotes-plugin
 - **作者**：dennis seidel
 - **当前版本**：v1.0.0
-- **下载量**：6.6K
+- **下载量**：6.7K
 - **最后更新**：2022-07-30
 - **GitHub**：[dennisseidel/highlightpublicnotes-obsidian-plugin](https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

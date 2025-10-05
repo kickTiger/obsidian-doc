@@ -2,11 +2,11 @@
 title: PomoBar
 description: A simple Pomodoro timer that lives in your status bar. Left click to start/stop, right click to reset when paused, middle click to cycle between 25/15/5 minute durations.
 author: Miguel Pimentel
-downloads: 1830
+downloads: 1838
 updated: 1757386523000
 repo: semanticdata/obsidian-pomodoro
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="PomoBar"
   description="A simple Pomodoro timer that lives in your status bar. Left click to start/stop, right click to reset when paused, middle click to cycle between 25/15/5 minute durations."
   author="Miguel Pimentel"
-  :downloads="1830"
+  :downloads="1838"
   :updated="1757386523000"
   repo="semanticdata/obsidian-pomodoro"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ A simple Pomodoro timer that lives in your status bar. Left click to start/stop,
 - **下载量**：1.8K
 - **最后更新**：2025-09-09
 - **GitHub**：[semanticdata/obsidian-pomodoro](https://github.com/semanticdata/obsidian-pomodoro)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

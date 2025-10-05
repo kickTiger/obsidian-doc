@@ -1,12 +1,12 @@
 ---
 title: Perilous Writing
-description: Write continuously—or lose all progress.
+description: 持续写作，否则就会前功尽弃。
 author: Sameer Ismail
 downloads: 4725
 updated: 1756703070000
 repo: sameersismail/obsidian-perilous-writing
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="perilous-writing"
   name="Perilous Writing"
-  description="Write continuously—or lose all progress."
+  description="持续写作，否则就会前功尽弃。"
   author="Sameer Ismail"
   :downloads="4725"
   :updated="1756703070000"
   repo="sameersismail/obsidian-perilous-writing"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Perilous Writing 是一个功能强大的 Obsidian 插件。
 
-Write continuously—or lose all progress.
+持续写作，否则就会前功尽弃。
 
 通过 Perilous Writing,您可以:
 
@@ -202,7 +202,7 @@ Write continuously—or lose all progress.
 - **下载量**：4.7K
 - **最后更新**：2025-09-01
 - **GitHub**：[sameersismail/obsidian-perilous-writing](https://github.com/sameersismail/obsidian-perilous-writing)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

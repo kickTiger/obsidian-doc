@@ -2,11 +2,11 @@
 title: HackMD Sync
 description: Sync notes to from HackMD
 author: thor kampefner
-downloads: 1387
+downloads: 1392
 updated: 1731114754000
 repo: thor314/hackmd-obsidian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="HackMD Sync"
   description="Sync notes to from HackMD"
   author="thor kampefner"
-  :downloads="1387"
+  :downloads="1392"
   :updated="1731114754000"
   repo="thor314/hackmd-obsidian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync notes to from HackMD
 - **下载量**：1.4K
 - **最后更新**：2024-11-09
 - **GitHub**：[thor314/hackmd-obsidian](https://github.com/thor314/hackmd-obsidian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

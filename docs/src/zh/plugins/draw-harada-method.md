@@ -1,12 +1,12 @@
 ---
 title: Draw Harada Method
-description: 'Draw the harada method. Create your own 1 goal, 8 plans, and 64 actions!'
+description: 绘制原田方法。创建自己的 1 个目标、8 个计划和 64 个行动！
 author: yildbs
-downloads: 5524
+downloads: 5527
 updated: 1682696014000
 repo: yildbs/obsidian-harada-method-plugin
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="draw-harada-method"
   name="Draw Harada Method"
-  description="Draw the harada method. Create your own 1 goal, 8 plans, and 64 actions!"
+  description="绘制原田方法。创建自己的 1 个目标、8 个计划和 64 个行动！"
   author="yildbs"
-  :downloads="5524"
+  :downloads="5527"
   :updated="1682696014000"
   repo="yildbs/obsidian-harada-method-plugin"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Draw Harada Method 是一个功能强大的 Obsidian 插件。
 
-Draw the harada method. Create your own 1 goal, 8 plans, and 64 actions!
+绘制原田方法。创建自己的 1 个目标、8 个计划和 64 个行动！
 
 通过 Draw Harada Method,您可以:
 
@@ -202,7 +202,7 @@ Draw the harada method. Create your own 1 goal, 8 plans, and 64 actions!
 - **下载量**：5.5K
 - **最后更新**：2023-04-28
 - **GitHub**：[yildbs/obsidian-harada-method-plugin](https://github.com/yildbs/obsidian-harada-method-plugin)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 1777
 updated: 1709715772000
 repo: stroiman/obsidian-title-sync
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1709715772000"
   repo="stroiman/obsidian-title-sync"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Keep top heading in note synced with file name.
 - **下载量**：1.8K
 - **最后更新**：2024-03-06
 - **GitHub**：[stroiman/obsidian-title-sync](https://github.com/stroiman/obsidian-title-sync)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

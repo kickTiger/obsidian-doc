@@ -1,12 +1,12 @@
 ---
 title: Vim Yank Highlight
-description: 'Highlight yanked text in Vim mode. Enjoy that subtle animation you''ve missed so much.'
+description: 在 Vim 模式下高亮显示被删除的文本。尽情享受你非常怀念的微妙动画效果吧。
 author: Aleksey Rowan
-downloads: 5858
+downloads: 5866
 updated: 1703279386000
 repo: aleksey-rowan/obsidian-vim-yank-highlight
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vim-yank-highlight"
   name="Vim Yank Highlight"
-  description="Highlight yanked text in Vim mode. Enjoy that subtle animation you&#39;ve missed so much."
+  description="在 Vim 模式下高亮显示被删除的文本。尽情享受你非常怀念的微妙动画效果吧。"
   author="Aleksey Rowan"
-  :downloads="5858"
+  :downloads="5866"
   :updated="1703279386000"
   repo="aleksey-rowan/obsidian-vim-yank-highlight"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vim Yank Highlight 是一个功能强大的 Obsidian 插件。
 
-Highlight yanked text in Vim mode. Enjoy that subtle animation you&#39;ve missed so much.
+在 Vim 模式下高亮显示被删除的文本。尽情享受你非常怀念的微妙动画效果吧。
 
 通过 Vim Yank Highlight,您可以:
 
@@ -202,7 +202,7 @@ Highlight yanked text in Vim mode. Enjoy that subtle animation you&#39;ve missed
 - **下载量**：5.9K
 - **最后更新**：2023-12-23
 - **GitHub**：[aleksey-rowan/obsidian-vim-yank-highlight](https://github.com/aleksey-rowan/obsidian-vim-yank-highlight)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

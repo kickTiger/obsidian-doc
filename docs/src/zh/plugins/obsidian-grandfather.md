@@ -1,12 +1,12 @@
 ---
 title: Grandfather
-description: Display the time and date in the status bar.
+description: 在状态栏中显示时间和日期。
 author: Danny Hernandez
-downloads: 9063
+downloads: 9067
 updated: 1623205567000
 repo: noatpad/obsidian-grandfather
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-grandfather"
   name="Grandfather"
-  description="Display the time and date in the status bar."
+  description="在状态栏中显示时间和日期。"
   author="Danny Hernandez"
-  :downloads="9063"
+  :downloads="9067"
   :updated="1623205567000"
   repo="noatpad/obsidian-grandfather"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Grandfather 是一个功能强大的 Obsidian 插件。
 
-Display the time and date in the status bar.
+在状态栏中显示时间和日期。
 
 通过 Grandfather,您可以:
 
@@ -202,7 +202,7 @@ Display the time and date in the status bar.
 - **下载量**：9.1K
 - **最后更新**：2021-06-09
 - **GitHub**：[noatpad/obsidian-grandfather](https://github.com/noatpad/obsidian-grandfather)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

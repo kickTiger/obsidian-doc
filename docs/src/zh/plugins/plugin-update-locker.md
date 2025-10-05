@@ -2,11 +2,11 @@
 title: Plugin Update Locker
 description: Prevent specific plugins from being updated
 author: Lemon695
-downloads: 234
+downloads: 239
 updated: 1738720121000
 repo: Lemon695/obsidian-plugin-update-locker
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Plugin Update Locker"
   description="Prevent specific plugins from being updated"
   author="Lemon695"
-  :downloads="234"
+  :downloads="239"
   :updated="1738720121000"
   repo="Lemon695/obsidian-plugin-update-locker"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Prevent specific plugins from being updated
 - **插件 ID**：plugin-update-locker
 - **作者**：Lemon695
 - **当前版本**：v1.0.0
-- **下载量**：234
+- **下载量**：239
 - **最后更新**：2025-02-05
 - **GitHub**：[Lemon695/obsidian-plugin-update-locker](https://github.com/Lemon695/obsidian-plugin-update-locker)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Marp
-description: Create slide decks in Markdown with Marp.
+description: 用 Marp 在 Markdown 中创建幻灯片。
 author: JichouP
-downloads: 13265
+downloads: 13272
 updated: 1691328767000
 repo: JichouP/obsidian-marp-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="marp"
   name="Marp"
-  description="Create slide decks in Markdown with Marp."
+  description="用 Marp 在 Markdown 中创建幻灯片。"
   author="JichouP"
-  :downloads="13265"
+  :downloads="13272"
   :updated="1691328767000"
   repo="JichouP/obsidian-marp-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Marp 是一个功能强大的 Obsidian 插件。
 
-Create slide decks in Markdown with Marp.
+用 Marp 在 Markdown 中创建幻灯片。
 
 通过 Marp,您可以:
 
@@ -202,7 +202,7 @@ Create slide decks in Markdown with Marp.
 - **下载量**：13.3K
 - **最后更新**：2023-08-06
 - **GitHub**：[JichouP/obsidian-marp-plugin](https://github.com/JichouP/obsidian-marp-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

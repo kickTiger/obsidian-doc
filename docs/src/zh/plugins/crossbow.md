@@ -1,12 +1,12 @@
 ---
 title: Crossbow
-description: Find backlinks in your notes.
+description: 在笔记中查找反向链接。
 author: shoedler
 downloads: 7899
 updated: 1699381320000
 repo: shoedler/crossbow
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="crossbow"
   name="Crossbow"
-  description="Find backlinks in your notes."
+  description="在笔记中查找反向链接。"
   author="shoedler"
   :downloads="7899"
   :updated="1699381320000"
   repo="shoedler/crossbow"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Crossbow 是一个功能强大的 Obsidian 插件。
 
-Find backlinks in your notes.
+在笔记中查找反向链接。
 
 通过 Crossbow,您可以:
 
@@ -202,7 +202,7 @@ Find backlinks in your notes.
 - **下载量**：7.9K
 - **最后更新**：2023-11-08
 - **GitHub**：[shoedler/crossbow](https://github.com/shoedler/crossbow)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

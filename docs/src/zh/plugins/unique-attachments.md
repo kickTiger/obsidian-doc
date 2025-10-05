@@ -1,12 +1,12 @@
 ---
 title: Unique attachments
-description: Rename attachments, making their names unique (based on hashing of file content).
+description: 重命名附件，使其名称独一无二（基于文件内容的哈希值）。
 author: Dmitry Savosh
 downloads: 11896
 updated: 1630336989000
 repo: dy-sh/obsidian-unique-attachments
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="unique-attachments"
   name="Unique attachments"
-  description="Rename attachments, making their names unique (based on hashing of file content)."
+  description="重命名附件，使其名称独一无二（基于文件内容的哈希值）。"
   author="Dmitry Savosh"
   :downloads="11896"
   :updated="1630336989000"
   repo="dy-sh/obsidian-unique-attachments"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Unique attachments 是一个功能强大的 Obsidian 插件。
 
-Rename attachments, making their names unique (based on hashing of file content).
+重命名附件，使其名称独一无二（基于文件内容的哈希值）。
 
 通过 Unique attachments,您可以:
 
@@ -202,7 +202,7 @@ Rename attachments, making their names unique (based on hashing of file content)
 - **下载量**：11.9K
 - **最后更新**：2021-08-30
 - **GitHub**：[dy-sh/obsidian-unique-attachments](https://github.com/dy-sh/obsidian-unique-attachments)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

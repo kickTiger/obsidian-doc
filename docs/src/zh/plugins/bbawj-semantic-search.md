@@ -1,12 +1,12 @@
 ---
 title: Semantic Search
-description: 'Semantic search for files using OpenAI''s text embeddings.'
+description: 使用 OpenAI 的文本嵌入对文件进行语义搜索。
 author: bbawj
-downloads: 6196
+downloads: 6198
 updated: 1750426569000
 repo: bbawj/obsidian-semantic-search
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="bbawj-semantic-search"
   name="Semantic Search"
-  description="Semantic search for files using OpenAI&#39;s text embeddings."
+  description="使用 OpenAI 的文本嵌入对文件进行语义搜索。"
   author="bbawj"
-  :downloads="6196"
+  :downloads="6198"
   :updated="1750426569000"
   repo="bbawj/obsidian-semantic-search"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Semantic Search 是一个功能强大的 Obsidian 插件。
 
-Semantic search for files using OpenAI&#39;s text embeddings.
+使用 OpenAI 的文本嵌入对文件进行语义搜索。
 
 通过 Semantic Search,您可以:
 
@@ -202,7 +202,7 @@ Semantic search for files using OpenAI&#39;s text embeddings.
 - **下载量**：6.2K
 - **最后更新**：2025-06-20
 - **GitHub**：[bbawj/obsidian-semantic-search](https://github.com/bbawj/obsidian-semantic-search)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Color Palette
-description: Create and insert color palettes into your notes.
+description: 在笔记中创建和插入调色板。
 author: ALegendsTale
-downloads: 21862
+downloads: 21883
 updated: 1741939802000
 repo: ALegendsTale/obsidian-color-palette
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="color-palette"
   name="Color Palette"
-  description="Create and insert color palettes into your notes."
+  description="在笔记中创建和插入调色板。"
   author="ALegendsTale"
-  :downloads="21862"
+  :downloads="21883"
   :updated="1741939802000"
   repo="ALegendsTale/obsidian-color-palette"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Color Palette 是一个功能强大的 Obsidian 插件。
 
-Create and insert color palettes into your notes.
+在笔记中创建和插入调色板。
 
 通过 Color Palette,您可以:
 
@@ -202,7 +202,7 @@ Create and insert color palettes into your notes.
 - **下载量**：21.9K
 - **最后更新**：2025-03-14
 - **GitHub**：[ALegendsTale/obsidian-color-palette](https://github.com/ALegendsTale/obsidian-color-palette)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Meal Plan
-description: Meal planning and recipe manager.
+description: 膳食计划和食谱管理器
 author: Tyler Mayoff
-downloads: 4752
+downloads: 4776
 updated: 1757453262000
 repo: tmayoff/obsidian-meals
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tmayoff-meals"
   name="Meal Plan"
-  description="Meal planning and recipe manager."
+  description="膳食计划和食谱管理器"
   author="Tyler Mayoff"
-  :downloads="4752"
+  :downloads="4776"
   :updated="1757453262000"
   repo="tmayoff/obsidian-meals"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Meal Plan 是一个功能强大的 Obsidian 插件。
 
-Meal planning and recipe manager.
+膳食计划和食谱管理器
 
 通过 Meal Plan,您可以:
 
@@ -202,7 +202,7 @@ Meal planning and recipe manager.
 - **下载量**：4.8K
 - **最后更新**：2025-09-10
 - **GitHub**：[tmayoff/obsidian-meals](https://github.com/tmayoff/obsidian-meals)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

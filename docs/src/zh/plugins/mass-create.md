@@ -2,11 +2,11 @@
 title: Mass Create
 description: Create large quantities of notes easily at one time.
 author: vellikhor
-downloads: 891
+downloads: 892
 updated: 1736627007000
 repo: vellikhor/mass-create
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Mass Create"
   description="Create large quantities of notes easily at one time."
   author="vellikhor"
-  :downloads="891"
+  :downloads="892"
   :updated="1736627007000"
   repo="vellikhor/mass-create"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create large quantities of notes easily at one time.
 - **插件 ID**：mass-create
 - **作者**：vellikhor
 - **当前版本**：v1.0.0
-- **下载量**：891
+- **下载量**：892
 - **最后更新**：2025-01-12
 - **GitHub**：[vellikhor/mass-create](https://github.com/vellikhor/mass-create)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

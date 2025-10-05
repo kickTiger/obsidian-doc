@@ -2,11 +2,11 @@
 title: Edit mode switch
 description: Add a button in the file header, in edit mode, to switch between source and live-preview.
 author: Mara-Li
-downloads: 1976
+downloads: 2000
 updated: 1743929728000
 repo: Mara-Li/obsidian-edit-shortcut
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Edit mode switch"
   description="Add a button in the file header, in edit mode, to switch between source and live-preview."
   author="Mara-Li"
-  :downloads="1976"
+  :downloads="2000"
   :updated="1743929728000"
   repo="Mara-Li/obsidian-edit-shortcut"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add a button in the file header, in edit mode, to switch between source and live
 - **下载量**：2.0K
 - **最后更新**：2025-04-06
 - **GitHub**：[Mara-Li/obsidian-edit-shortcut](https://github.com/Mara-Li/obsidian-edit-shortcut)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

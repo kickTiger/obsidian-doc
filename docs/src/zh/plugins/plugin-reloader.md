@@ -2,11 +2,11 @@
 title: Plugin Reloader
 description: Manually reload plugins.
 author: Benature
-downloads: 3349
+downloads: 3354
 updated: 1711904914000
 repo: Benature/obsidian-plugin-reloader
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Plugin Reloader"
   description="Manually reload plugins."
   author="Benature"
-  :downloads="3349"
+  :downloads="3354"
   :updated="1711904914000"
   repo="Benature/obsidian-plugin-reloader"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Manually reload plugins.
 - **插件 ID**：plugin-reloader
 - **作者**：Benature
 - **当前版本**：v1.0.0
-- **下载量**：3.3K
+- **下载量**：3.4K
 - **最后更新**：2024-04-01
 - **GitHub**：[Benature/obsidian-plugin-reloader](https://github.com/Benature/obsidian-plugin-reloader)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

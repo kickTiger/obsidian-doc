@@ -2,11 +2,11 @@
 title: Azure DevOps Linker
 description: Quickly format an Azure DevOps issue tag as a link to you Azure DevOps instance.
 author: Steven Zilberberg
-downloads: 624
+downloads: 625
 updated: 1736050462000
 repo: srz2/obsidian-azure-devops-linker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Azure DevOps Linker"
   description="Quickly format an Azure DevOps issue tag as a link to you Azure DevOps instance."
   author="Steven Zilberberg"
-  :downloads="624"
+  :downloads="625"
   :updated="1736050462000"
   repo="srz2/obsidian-azure-devops-linker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Quickly format an Azure DevOps issue tag as a link to you Azure DevOps instance.
 - **插件 ID**：azure-linker
 - **作者**：Steven Zilberberg
 - **当前版本**：v1.0.0
-- **下载量**：624
+- **下载量**：625
 - **最后更新**：2025-01-05
 - **GitHub**：[srz2/obsidian-azure-devops-linker](https://github.com/srz2/obsidian-azure-devops-linker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Calendar
-description: Simple calendar widget.
+description: 简单的日历小部件。
 author: Liam Cain
-downloads: 2081163
+downloads: 2082875
 updated: 1618944601000
 repo: liamcain/obsidian-calendar-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="calendar"
   name="Calendar"
-  description="Simple calendar widget."
+  description="简单的日历小部件。"
   author="Liam Cain"
-  :downloads="2081163"
+  :downloads="2082875"
   :updated="1618944601000"
   repo="liamcain/obsidian-calendar-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Calendar 是一个功能强大的 Obsidian 插件。
 
-Simple calendar widget.
+简单的日历小部件。
 
 通过 Calendar,您可以:
 
@@ -202,7 +202,7 @@ Simple calendar widget.
 - **下载量**：2.08M
 - **最后更新**：2021-04-21
 - **GitHub**：[liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

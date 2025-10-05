@@ -1,12 +1,12 @@
 ---
 title: Aloud
-description: Speak text from your notes. Converts text to speech in real-time using lifelike voices from OpenAI.
+description: 说出笔记中的文字使用来自 OpenAI 的逼真语音将文本实时转换为语音。
 author: Adrian Lyjak
-downloads: 9699
+downloads: 9715
 updated: 1757736072000
 repo: adrianlyjak/obsidian-aloud-tts
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="aloud-tts"
   name="Aloud"
-  description="Speak text from your notes. Converts text to speech in real-time using lifelike voices from OpenAI."
+  description="说出笔记中的文字使用来自 OpenAI 的逼真语音将文本实时转换为语音。"
   author="Adrian Lyjak"
-  :downloads="9699"
+  :downloads="9715"
   :updated="1757736072000"
   repo="adrianlyjak/obsidian-aloud-tts"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Aloud 是一个功能强大的 Obsidian 插件。
 
-Speak text from your notes. Converts text to speech in real-time using lifelike voices from OpenAI.
+说出笔记中的文字使用来自 OpenAI 的逼真语音将文本实时转换为语音。
 
 通过 Aloud,您可以:
 
@@ -202,7 +202,7 @@ Speak text from your notes. Converts text to speech in real-time using lifelike 
 - **下载量**：9.7K
 - **最后更新**：2025-09-13
 - **GitHub**：[adrianlyjak/obsidian-aloud-tts](https://github.com/adrianlyjak/obsidian-aloud-tts)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: WordCraft
 description: Find rhymes, synonyms, and describing words. Designed for songwriting and poetry.
 author: Daniel Fernandes
-downloads: 1015
+downloads: 1017
 updated: 1741759256000
 repo: danferns/obsidian-wordcraft
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="WordCraft"
   description="Find rhymes, synonyms, and describing words. Designed for songwriting and poetry."
   author="Daniel Fernandes"
-  :downloads="1015"
+  :downloads="1017"
   :updated="1741759256000"
   repo="danferns/obsidian-wordcraft"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Find rhymes, synonyms, and describing words. Designed for songwriting and poetry
 - **下载量**：1.0K
 - **最后更新**：2025-03-12
 - **GitHub**：[danferns/obsidian-wordcraft](https://github.com/danferns/obsidian-wordcraft)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

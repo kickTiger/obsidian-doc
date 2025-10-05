@@ -1,12 +1,12 @@
 ---
 title: Media Sync
-description: Download images from the image URLs in notes and display the content.
+description: 从备注中的图片 URL 下载图片并显示内容。
 author: fnya
-downloads: 6123
+downloads: 6124
 updated: 1720944153000
 repo: fnya/media-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="media-sync"
   name="Media Sync"
-  description="Download images from the image URLs in notes and display the content."
+  description="从备注中的图片 URL 下载图片并显示内容。"
   author="fnya"
-  :downloads="6123"
+  :downloads="6124"
   :updated="1720944153000"
   repo="fnya/media-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Media Sync 是一个功能强大的 Obsidian 插件。
 
-Download images from the image URLs in notes and display the content.
+从备注中的图片 URL 下载图片并显示内容。
 
 通过 Media Sync,您可以:
 
@@ -202,7 +202,7 @@ Download images from the image URLs in notes and display the content.
 - **下载量**：6.1K
 - **最后更新**：2024-07-14
 - **GitHub**：[fnya/media-sync](https://github.com/fnya/media-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

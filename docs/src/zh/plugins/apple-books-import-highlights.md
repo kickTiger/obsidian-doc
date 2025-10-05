@@ -1,12 +1,12 @@
 ---
 title: Apple Books - Import Highlights
-description: Import your Apple Books highlights and notes to Obsidian.
+description: 将 Apple Books 摘要和笔记导入 Obsidian。
 author: bandantonio
-downloads: 5805
+downloads: 5821
 updated: 1757619744000
 repo: bandantonio/obsidian-apple-books-highlights-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="apple-books-import-highlights"
   name="Apple Books - Import Highlights"
-  description="Import your Apple Books highlights and notes to Obsidian."
+  description="将 Apple Books 摘要和笔记导入 Obsidian。"
   author="bandantonio"
-  :downloads="5805"
+  :downloads="5821"
   :updated="1757619744000"
   repo="bandantonio/obsidian-apple-books-highlights-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Apple Books - Import Highlights 是一个功能强大的 Obsidian 插件。
 
-Import your Apple Books highlights and notes to Obsidian.
+将 Apple Books 摘要和笔记导入 Obsidian。
 
 通过 Apple Books - Import Highlights,您可以:
 
@@ -202,7 +202,7 @@ Import your Apple Books highlights and notes to Obsidian.
 - **下载量**：5.8K
 - **最后更新**：2025-09-12
 - **GitHub**：[bandantonio/obsidian-apple-books-highlights-plugin](https://github.com/bandantonio/obsidian-apple-books-highlights-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Jump to link
-description: Quickly navigate between links, or jump to any word on the page using hotkeys.
+description: 在链接之间快速导航，或使用热键跳转到页面上的任何单词。
 author: MrJackphil
-downloads: 29694
+downloads: 29710
 updated: 1755874108000
 repo: mrjackphil/obsidian-jump-to-link
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mrj-jump-to-link"
   name="Jump to link"
-  description="Quickly navigate between links, or jump to any word on the page using hotkeys."
+  description="在链接之间快速导航，或使用热键跳转到页面上的任何单词。"
   author="MrJackphil"
-  :downloads="29694"
+  :downloads="29710"
   :updated="1755874108000"
   repo="mrjackphil/obsidian-jump-to-link"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Jump to link 是一个功能强大的 Obsidian 插件。
 
-Quickly navigate between links, or jump to any word on the page using hotkeys.
+在链接之间快速导航，或使用热键跳转到页面上的任何单词。
 
 通过 Jump to link,您可以:
 
@@ -202,7 +202,7 @@ Quickly navigate between links, or jump to any word on the page using hotkeys.
 - **下载量**：29.7K
 - **最后更新**：2025-08-22
 - **GitHub**：[mrjackphil/obsidian-jump-to-link](https://github.com/mrjackphil/obsidian-jump-to-link)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

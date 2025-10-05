@@ -1,12 +1,12 @@
 ---
 title: Icons
-description: Add icons to your notes.
+description: 为笔记添加图标
 author: Camillo Visini
-downloads: 98635
+downloads: 98679
 updated: 1613557429000
 repo: visini/obsidian-icons-plugin
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-icons-plugin"
   name="Icons"
-  description="Add icons to your notes."
+  description="为笔记添加图标"
   author="Camillo Visini"
-  :downloads="98635"
+  :downloads="98679"
   :updated="1613557429000"
   repo="visini/obsidian-icons-plugin"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Icons 是一个功能强大的 Obsidian 插件。
 
-Add icons to your notes.
+为笔记添加图标
 
 通过 Icons,您可以:
 
@@ -199,10 +199,10 @@ Add icons to your notes.
 - **插件 ID**：obsidian-icons-plugin
 - **作者**：Camillo Visini
 - **当前版本**：v1.0.0
-- **下载量**：98.6K
+- **下载量**：98.7K
 - **最后更新**：2021-02-17
 - **GitHub**：[visini/obsidian-icons-plugin](https://github.com/visini/obsidian-icons-plugin)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

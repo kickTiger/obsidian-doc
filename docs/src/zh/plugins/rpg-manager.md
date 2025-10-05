@@ -1,12 +1,12 @@
 ---
 title: RPG Manager
-description: Tabletop role playing game campaign manager.
+description: 桌面角色扮演游戏活动管理器。
 author: Carlo Nicora
-downloads: 36053
+downloads: 36081
 updated: 1703167874000
 repo: carlonicora/obsidian-rpg-manager
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="rpg-manager"
   name="RPG Manager"
-  description="Tabletop role playing game campaign manager."
+  description="桌面角色扮演游戏活动管理器。"
   author="Carlo Nicora"
-  :downloads="36053"
+  :downloads="36081"
   :updated="1703167874000"
   repo="carlonicora/obsidian-rpg-manager"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 RPG Manager 是一个功能强大的 Obsidian 插件。
 
-Tabletop role playing game campaign manager.
+桌面角色扮演游戏活动管理器。
 
 通过 RPG Manager,您可以:
 
@@ -202,7 +202,7 @@ Tabletop role playing game campaign manager.
 - **下载量**：36.1K
 - **最后更新**：2023-12-21
 - **GitHub**：[carlonicora/obsidian-rpg-manager](https://github.com/carlonicora/obsidian-rpg-manager)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

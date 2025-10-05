@@ -1,12 +1,12 @@
 ---
 title: MagicCalendar
-description: Leverage natural language processing techniques to find calendar events in Markdown notes, seamlessly synchronizing them with a calendar of choice.
+description: 利用自然语言处理技术查找 Markdown 笔记中的日历事件，并将其与所选日历无缝同步。
 author: Vaccarini Lorenzo
-downloads: 6633
+downloads: 6637
 updated: 1700078745000
 repo: Vaccarini-Lorenzo/MagicCalendar
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="magic-calendar"
   name="MagicCalendar"
-  description="Leverage natural language processing techniques to find calendar events in Markdown notes, seamlessly synchronizing them with a calendar of choice."
+  description="利用自然语言处理技术查找 Markdown 笔记中的日历事件，并将其与所选日历无缝同步。"
   author="Vaccarini Lorenzo"
-  :downloads="6633"
+  :downloads="6637"
   :updated="1700078745000"
   repo="Vaccarini-Lorenzo/MagicCalendar"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MagicCalendar 是一个功能强大的 Obsidian 插件。
 
-Leverage natural language processing techniques to find calendar events in Markdown notes, seamlessly synchronizing them with a calendar of choice.
+利用自然语言处理技术查找 Markdown 笔记中的日历事件，并将其与所选日历无缝同步。
 
 通过 MagicCalendar,您可以:
 
@@ -202,7 +202,7 @@ Leverage natural language processing techniques to find calendar events in Markd
 - **下载量**：6.6K
 - **最后更新**：2023-11-16
 - **GitHub**：[Vaccarini-Lorenzo/MagicCalendar](https://github.com/Vaccarini-Lorenzo/MagicCalendar)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

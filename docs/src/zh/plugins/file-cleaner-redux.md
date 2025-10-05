@@ -1,12 +1,12 @@
 ---
 title: File Cleaner Redux
-description: Help you to clean empty files and unused attachments in the vault.
+description: 帮你清理保险库中的空文件和未使用的附件。
 author: husjon
-downloads: 41586
+downloads: 41683
 updated: 1758878946000
 repo: husjon/obsidian-file-cleaner-redux
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-cleaner-redux"
   name="File Cleaner Redux"
-  description="Help you to clean empty files and unused attachments in the vault."
+  description="帮你清理保险库中的空文件和未使用的附件。"
   author="husjon"
-  :downloads="41586"
+  :downloads="41683"
   :updated="1758878946000"
   repo="husjon/obsidian-file-cleaner-redux"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Cleaner Redux 是一个功能强大的 Obsidian 插件。
 
-Help you to clean empty files and unused attachments in the vault.
+帮你清理保险库中的空文件和未使用的附件。
 
 通过 File Cleaner Redux,您可以:
 
@@ -199,10 +199,10 @@ Help you to clean empty files and unused attachments in the vault.
 - **插件 ID**：file-cleaner-redux
 - **作者**：husjon
 - **当前版本**：v1.0.0
-- **下载量**：41.6K
+- **下载量**：41.7K
 - **最后更新**：2025-09-26
 - **GitHub**：[husjon/obsidian-file-cleaner-redux](https://github.com/husjon/obsidian-file-cleaner-redux)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

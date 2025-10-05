@@ -1,12 +1,12 @@
 ---
 title: Snippet Commands
-description: Register custom CSS snippets as commands (which you can bind hotkeys to).
+description: 将自定义 CSS 代码段注册为命令（可绑定热键）。
 author: death_au
-downloads: 6894
+downloads: 6897
 updated: 1634021118000
 repo: deathau/snippet-commands-obsidian
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="snippet-commands-obsidian"
   name="Snippet Commands"
-  description="Register custom CSS snippets as commands (which you can bind hotkeys to)."
+  description="将自定义 CSS 代码段注册为命令（可绑定热键）。"
   author="death_au"
-  :downloads="6894"
+  :downloads="6897"
   :updated="1634021118000"
   repo="deathau/snippet-commands-obsidian"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Snippet Commands 是一个功能强大的 Obsidian 插件。
 
-Register custom CSS snippets as commands (which you can bind hotkeys to).
+将自定义 CSS 代码段注册为命令（可绑定热键）。
 
 通过 Snippet Commands,您可以:
 
@@ -202,7 +202,7 @@ Register custom CSS snippets as commands (which you can bind hotkeys to).
 - **下载量**：6.9K
 - **最后更新**：2021-10-12
 - **GitHub**：[deathau/snippet-commands-obsidian](https://github.com/deathau/snippet-commands-obsidian)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

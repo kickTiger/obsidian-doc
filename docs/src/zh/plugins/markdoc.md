@@ -6,7 +6,7 @@ downloads: 3405
 updated: 1682630868000
 repo: kamoshi/obsidian-markdoc
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1682630868000"
   repo="kamoshi/obsidian-markdoc"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Basic support for Markdoc files.
 - **下载量**：3.4K
 - **最后更新**：2023-04-28
 - **GitHub**：[kamoshi/obsidian-markdoc](https://github.com/kamoshi/obsidian-markdoc)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

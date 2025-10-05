@@ -1,12 +1,12 @@
 ---
 title: Map of Content
-description: Automatically generate a Map of Content for your vault.
+description: 为您的保险库自动生成内容地图。
 author: Robin Haupt
-downloads: 39571
+downloads: 39578
 updated: 1695471086000
 repo: Robin-Haupt-1/Obsidian-Map-of-Content
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="map-of-content"
   name="Map of Content"
-  description="Automatically generate a Map of Content for your vault."
+  description="为您的保险库自动生成内容地图。"
   author="Robin Haupt"
-  :downloads="39571"
+  :downloads="39578"
   :updated="1695471086000"
   repo="Robin-Haupt-1/Obsidian-Map-of-Content"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Map of Content 是一个功能强大的 Obsidian 插件。
 
-Automatically generate a Map of Content for your vault.
+为您的保险库自动生成内容地图。
 
 通过 Map of Content,您可以:
 
@@ -202,7 +202,7 @@ Automatically generate a Map of Content for your vault.
 - **下载量**：39.6K
 - **最后更新**：2023-09-23
 - **GitHub**：[Robin-Haupt-1/Obsidian-Map-of-Content](https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

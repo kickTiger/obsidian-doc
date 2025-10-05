@@ -1,12 +1,12 @@
 ---
 title: Smart Second Brain
-description: Interact with your privacy focused assistant by leveraging Ollama or OpenAI and making your second brain even smarter.
+description: 利用 Ollama 或 OpenAI 与注重隐私的助手互动，让你的第二大脑更加智能。
 author: Leo310, nicobrauchtgit
-downloads: 50474
+downloads: 50502
 updated: 1716032748000
 repo: your-papa/obsidian-Smart2Brain
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smart-second-brain"
   name="Smart Second Brain"
-  description="Interact with your privacy focused assistant by leveraging Ollama or OpenAI and making your second brain even smarter."
+  description="利用 Ollama 或 OpenAI 与注重隐私的助手互动，让你的第二大脑更加智能。"
   author="Leo310, nicobrauchtgit"
-  :downloads="50474"
+  :downloads="50502"
   :updated="1716032748000"
   repo="your-papa/obsidian-Smart2Brain"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Second Brain 是一个功能强大的 Obsidian 插件。
 
-Interact with your privacy focused assistant by leveraging Ollama or OpenAI and making your second brain even smarter.
+利用 Ollama 或 OpenAI 与注重隐私的助手互动，让你的第二大脑更加智能。
 
 通过 Smart Second Brain,您可以:
 
@@ -202,7 +202,7 @@ Interact with your privacy focused assistant by leveraging Ollama or OpenAI and 
 - **下载量**：50.5K
 - **最后更新**：2024-05-18
 - **GitHub**：[your-papa/obsidian-Smart2Brain](https://github.com/your-papa/obsidian-Smart2Brain)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: KoReader Highlight Importer
 description: Imports highlights and metadata from KoReader
 author: Tahsin Kocaman
-downloads: 1179
+downloads: 1180
 updated: 1756075642000
 repo: t5k6/obsidian-koreader-highlights
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="KoReader Highlight Importer"
   description="Imports highlights and metadata from KoReader"
   author="Tahsin Kocaman"
-  :downloads="1179"
+  :downloads="1180"
   :updated="1756075642000"
   repo="t5k6/obsidian-koreader-highlights"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Imports highlights and metadata from KoReader
 - **下载量**：1.2K
 - **最后更新**：2025-08-25
 - **GitHub**：[t5k6/obsidian-koreader-highlights](https://github.com/t5k6/obsidian-koreader-highlights)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

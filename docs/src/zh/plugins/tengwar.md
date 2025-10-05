@@ -6,7 +6,7 @@ downloads: 203
 updated: 1737326609000
 repo: mikevetkin/obsidian-tengwar
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1737326609000"
   repo="mikevetkin/obsidian-tengwar"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Support Tengwar (The Elvish Letters).
 - **下载量**：203
 - **最后更新**：2025-01-20
 - **GitHub**：[mikevetkin/obsidian-tengwar](https://github.com/mikevetkin/obsidian-tengwar)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

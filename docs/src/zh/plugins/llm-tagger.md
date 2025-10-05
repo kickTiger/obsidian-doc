@@ -6,7 +6,7 @@ downloads: 1198
 updated: 1743624123000
 repo: djayatillake/obsidian-llm-tagger
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1743624123000"
   repo="djayatillake/obsidian-llm-tagger"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically tag your documents using a local LLM
 - **下载量**：1.2K
 - **最后更新**：2025-04-03
 - **GitHub**：[djayatillake/obsidian-llm-tagger](https://github.com/djayatillake/obsidian-llm-tagger)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

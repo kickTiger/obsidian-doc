@@ -1,12 +1,12 @@
 ---
 title: Shell commands
-description: Define system commands that you want to execute via command palette, hotkeys, URI links or automated events. E.g. open external applications or perform automated file modifications.
+description: 执行系统命令。
 author: Jarkko Linnanvirta
-downloads: 60349
+downloads: 60385
 updated: 1731170132000
 repo: Taitava/obsidian-shellcommands
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-shellcommands"
   name="Shell commands"
-  description="Define system commands that you want to execute via command palette, hotkeys, URI links or automated events. E.g. open external applications or perform automated file modifications."
+  description="执行系统命令。"
   author="Jarkko Linnanvirta"
-  :downloads="60349"
+  :downloads="60385"
   :updated="1731170132000"
   repo="Taitava/obsidian-shellcommands"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Shell commands 是一个功能强大的 Obsidian 插件。
 
-Define system commands that you want to execute via command palette, hotkeys, URI links or automated events. E.g. open external applications or perform automated file modifications.
+执行系统命令。
 
 通过 Shell commands,您可以:
 
@@ -199,10 +199,10 @@ Define system commands that you want to execute via command palette, hotkeys, UR
 - **插件 ID**：obsidian-shellcommands
 - **作者**：Jarkko Linnanvirta
 - **当前版本**：v1.0.0
-- **下载量**：60.3K
+- **下载量**：60.4K
 - **最后更新**：2024-11-10
 - **GitHub**：[Taitava/obsidian-shellcommands](https://github.com/Taitava/obsidian-shellcommands)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

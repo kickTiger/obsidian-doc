@@ -1,12 +1,12 @@
 ---
 title: FolderFile Splitter
-description: Splits folder and file lists into separate views, simplifying navigation, improving clarity, and making it more intuitive to organize your notes
+description: 将文件夹和文件列表拆分为不同的视图，简化导航，提高清晰度，使笔记整理更直观
 author: Xu Quan
-downloads: 4492
+downloads: 4499
 updated: 1756561694000
 repo: XuQuan-nikkkki/FolderFile-Splitter-Plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="folder-file-splitter"
   name="FolderFile Splitter"
-  description="Splits folder and file lists into separate views, simplifying navigation, improving clarity, and making it more intuitive to organize your notes"
+  description="将文件夹和文件列表拆分为不同的视图，简化导航，提高清晰度，使笔记整理更直观"
   author="Xu Quan"
-  :downloads="4492"
+  :downloads="4499"
   :updated="1756561694000"
   repo="XuQuan-nikkkki/FolderFile-Splitter-Plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 FolderFile Splitter 是一个功能强大的 Obsidian 插件。
 
-Splits folder and file lists into separate views, simplifying navigation, improving clarity, and making it more intuitive to organize your notes
+将文件夹和文件列表拆分为不同的视图，简化导航，提高清晰度，使笔记整理更直观
 
 通过 FolderFile Splitter,您可以:
 
@@ -202,7 +202,7 @@ Splits folder and file lists into separate views, simplifying navigation, improv
 - **下载量**：4.5K
 - **最后更新**：2025-08-30
 - **GitHub**：[XuQuan-nikkkki/FolderFile-Splitter-Plugin](https://github.com/XuQuan-nikkkki/FolderFile-Splitter-Plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

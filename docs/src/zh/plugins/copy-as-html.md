@@ -1,12 +1,12 @@
 ---
 title: Copy as HTML
-description: Convert the selected Markdown to HTML and copy it to the clipboard.
+description: 将选定的 Markdown 转换为 HTML 并复制到剪贴板。
 author: Bailey Jennings
-downloads: 42660
+downloads: 42683
 updated: 1685103258000
 repo: jenningsb2/copy-as-html
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="copy-as-html"
   name="Copy as HTML"
-  description="Convert the selected Markdown to HTML and copy it to the clipboard."
+  description="将选定的 Markdown 转换为 HTML 并复制到剪贴板。"
   author="Bailey Jennings"
-  :downloads="42660"
+  :downloads="42683"
   :updated="1685103258000"
   repo="jenningsb2/copy-as-html"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Copy as HTML 是一个功能强大的 Obsidian 插件。
 
-Convert the selected Markdown to HTML and copy it to the clipboard.
+将选定的 Markdown 转换为 HTML 并复制到剪贴板。
 
 通过 Copy as HTML,您可以:
 
@@ -202,7 +202,7 @@ Convert the selected Markdown to HTML and copy it to the clipboard.
 - **下载量**：42.7K
 - **最后更新**：2023-05-26
 - **GitHub**：[jenningsb2/copy-as-html](https://github.com/jenningsb2/copy-as-html)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

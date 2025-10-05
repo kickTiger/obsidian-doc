@@ -1,12 +1,12 @@
 ---
 title: Movie
-description: Search movies info and trailers.
+description: 搜索电影信息和预告片。
 author: Onur Ayçiçek
-downloads: 8427
+downloads: 8432
 updated: 1696364581000
 repo: onuraycicek/obsidian-movie
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="movie-obsidian"
   name="Movie"
-  description="Search movies info and trailers."
+  description="搜索电影信息和预告片。"
   author="Onur Ayçiçek"
-  :downloads="8427"
+  :downloads="8432"
   :updated="1696364581000"
   repo="onuraycicek/obsidian-movie"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Movie 是一个功能强大的 Obsidian 插件。
 
-Search movies info and trailers.
+搜索电影信息和预告片。
 
 通过 Movie,您可以:
 
@@ -202,7 +202,7 @@ Search movies info and trailers.
 - **下载量**：8.4K
 - **最后更新**：2023-10-04
 - **GitHub**：[onuraycicek/obsidian-movie](https://github.com/onuraycicek/obsidian-movie)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

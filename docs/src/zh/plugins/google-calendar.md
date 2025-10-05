@@ -1,12 +1,12 @@
 ---
 title: Google Calendar
-description: Interact with your Google Calendar.
+description: 与 Google 日历互动
 author: YukiGasai
-downloads: 159196
+downloads: 159283
 updated: 1742484586000
 repo: YukiGasai/obsidian-google-calendar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="google-calendar"
   name="Google Calendar"
-  description="Interact with your Google Calendar."
+  description="与 Google 日历互动"
   author="YukiGasai"
-  :downloads="159196"
+  :downloads="159283"
   :updated="1742484586000"
   repo="YukiGasai/obsidian-google-calendar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Google Calendar 是一个功能强大的 Obsidian 插件。
 
-Interact with your Google Calendar.
+与 Google 日历互动
 
 通过 Google Calendar,您可以:
 
@@ -199,10 +199,10 @@ Interact with your Google Calendar.
 - **插件 ID**：google-calendar
 - **作者**：YukiGasai
 - **当前版本**：v1.0.0
-- **下载量**：159.2K
+- **下载量**：159.3K
 - **最后更新**：2025-03-20
 - **GitHub**：[YukiGasai/obsidian-google-calendar](https://github.com/YukiGasai/obsidian-google-calendar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

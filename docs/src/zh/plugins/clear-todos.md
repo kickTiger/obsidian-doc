@@ -6,7 +6,7 @@ downloads: 409
 updated: 1735290479000
 repo: gutentag2012/obsidian-plugin-clear-todos
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1735290479000"
   repo="gutentag2012/obsidian-plugin-clear-todos"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Quickly remove all completed todos from your notes or selected text.
 - **下载量**：409
 - **最后更新**：2024-12-27
 - **GitHub**：[gutentag2012/obsidian-plugin-clear-todos](https://github.com/gutentag2012/obsidian-plugin-clear-todos)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

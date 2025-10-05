@@ -1,12 +1,12 @@
 ---
 title: Banners
-description: 'Add banner images to your notes!'
+description: 为笔记添加横幅图片。
 author: Danny Hernandez
-downloads: 301225
+downloads: 301453
 updated: 1697310259000
 repo: noatpad/obsidian-banners
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-banners"
   name="Banners"
-  description="Add banner images to your notes!"
+  description="为笔记添加横幅图片。"
   author="Danny Hernandez"
-  :downloads="301225"
+  :downloads="301453"
   :updated="1697310259000"
   repo="noatpad/obsidian-banners"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Banners 是一个功能强大的 Obsidian 插件。
 
-Add banner images to your notes!
+为笔记添加横幅图片。
 
 通过 Banners,您可以:
 
@@ -199,10 +199,10 @@ Add banner images to your notes!
 - **插件 ID**：obsidian-banners
 - **作者**：Danny Hernandez
 - **当前版本**：v1.0.0
-- **下载量**：301.2K
+- **下载量**：301.5K
 - **最后更新**：2023-10-15
 - **GitHub**：[noatpad/obsidian-banners](https://github.com/noatpad/obsidian-banners)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

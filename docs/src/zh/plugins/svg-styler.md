@@ -6,7 +6,7 @@ downloads: 710
 updated: 1731100642000
 repo: arg1998/obsidian-svg-styler
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1731100642000"
   repo="arg1998/obsidian-svg-styler"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Change the color and other style properies of an embded SVG file
 - **下载量**：710
 - **最后更新**：2024-11-09
 - **GitHub**：[arg1998/obsidian-svg-styler](https://github.com/arg1998/obsidian-svg-styler)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

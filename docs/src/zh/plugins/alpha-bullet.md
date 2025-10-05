@@ -2,11 +2,11 @@
 title: Alpha Bullet
 description: Sorts bulleted lists alphabetically.
 author: Mara-Li
-downloads: 442
+downloads: 446
 updated: 1748077497000
 repo: Mara-Li/obsidian-alpha-bullet
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Alpha Bullet"
   description="Sorts bulleted lists alphabetically."
   author="Mara-Li"
-  :downloads="442"
+  :downloads="446"
   :updated="1748077497000"
   repo="Mara-Li/obsidian-alpha-bullet"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Sorts bulleted lists alphabetically.
 - **插件 ID**：alpha-bullet
 - **作者**：Mara-Li
 - **当前版本**：v1.0.0
-- **下载量**：442
+- **下载量**：446
 - **最后更新**：2025-05-24
 - **GitHub**：[Mara-Li/obsidian-alpha-bullet](https://github.com/Mara-Li/obsidian-alpha-bullet)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

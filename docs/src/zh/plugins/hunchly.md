@@ -2,11 +2,11 @@
 title: Hunchly
 description: Import notes and images from Hunchly.
 author: sapperlabs
-downloads: 2129
+downloads: 2131
 updated: 1757432879000
 repo: shadowoption/Hunchly-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hunchly"
   description="Import notes and images from Hunchly."
   author="sapperlabs"
-  :downloads="2129"
+  :downloads="2131"
   :updated="1757432879000"
   repo="shadowoption/Hunchly-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Import notes and images from Hunchly.
 - **下载量**：2.1K
 - **最后更新**：2025-09-09
 - **GitHub**：[shadowoption/Hunchly-obsidian-plugin](https://github.com/shadowoption/Hunchly-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Extended File Support
 description: 'Adds file support for various file types. Allows viewing and embedding these filetypes. Includes: .kra, .psd, .obj, .glb, .gltf, and more.'
 author: Nick de Bruin
-downloads: 1147
+downloads: 1151
 updated: 1753731266000
 repo: Nick-de-Bruin/obsidian-extended-file-support
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Extended File Support"
   description="Adds file support for various file types. Allows viewing and embedding these filetypes. Includes: .kra, .psd, .obj, .glb, .gltf, and more."
   author="Nick de Bruin"
-  :downloads="1147"
+  :downloads="1151"
   :updated="1753731266000"
   repo="Nick-de-Bruin/obsidian-extended-file-support"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Adds file support for various file types. Allows viewing and embedding these fil
 - **插件 ID**：extended-file-support
 - **作者**：Nick de Bruin
 - **当前版本**：v1.0.0
-- **下载量**：1.1K
+- **下载量**：1.2K
 - **最后更新**：2025-07-29
 - **GitHub**：[Nick-de-Bruin/obsidian-extended-file-support](https://github.com/Nick-de-Bruin/obsidian-extended-file-support)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

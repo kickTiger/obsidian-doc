@@ -2,11 +2,11 @@
 title: Simple Archiver
 description: Move old, stinky notes and folders to an archive, where they belong.
 author: Mike Farr
-downloads: 627
+downloads: 630
 updated: 1751379746000
 repo: mfarr/obsidian-archive
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Simple Archiver"
   description="Move old, stinky notes and folders to an archive, where they belong."
   author="Mike Farr"
-  :downloads="627"
+  :downloads="630"
   :updated="1751379746000"
   repo="mfarr/obsidian-archive"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Move old, stinky notes and folders to an archive, where they belong.
 - **插件 ID**：simple-archiver
 - **作者**：Mike Farr
 - **当前版本**：v1.0.0
-- **下载量**：627
+- **下载量**：630
 - **最后更新**：2025-07-01
 - **GitHub**：[mfarr/obsidian-archive](https://github.com/mfarr/obsidian-archive)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

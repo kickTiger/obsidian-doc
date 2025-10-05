@@ -1,12 +1,12 @@
 ---
 title: 'AidenLx''s Folder Note - folderv Component'
-description: 'Optional `folderv` component for alx-folder-note.'
+description: '用于 alx-folder-note 的可选组件 "folderv"。'
 author: AidenLx
-downloads: 12812
+downloads: 12817
 updated: 1645172942000
 repo: aidenlx/alx-folder-note-folderv
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="alx-folder-note-folderv"
   name="AidenLx&#39;s Folder Note - folderv Component"
-  description="Optional `folderv` component for alx-folder-note."
+  description="用于 alx-folder-note 的可选组件 &quot;folderv&quot;。"
   author="AidenLx"
-  :downloads="12812"
+  :downloads="12817"
   :updated="1645172942000"
   repo="aidenlx/alx-folder-note-folderv"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AidenLx&#39;s Folder Note - folderv Component 是一个功能强大的 Obsidian 插件。
 
-Optional `folderv` component for alx-folder-note.
+用于 alx-folder-note 的可选组件 &quot;folderv&quot;。
 
 通过 AidenLx&#39;s Folder Note - folderv Component,您可以:
 
@@ -202,7 +202,7 @@ Optional `folderv` component for alx-folder-note.
 - **下载量**：12.8K
 - **最后更新**：2022-02-18
 - **GitHub**：[aidenlx/alx-folder-note-folderv](https://github.com/aidenlx/alx-folder-note-folderv)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

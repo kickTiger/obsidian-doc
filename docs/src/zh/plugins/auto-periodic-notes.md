@@ -2,11 +2,11 @@
 title: Auto Periodic Notes
 description: Creates new periodic notes automatically in the background and allows these to be pinned in your open tabs, requires the Periodic Notes plugin.
 author: Jamie Hurst
-downloads: 2554
+downloads: 2558
 updated: 1752957024000
 repo: jamiefdhurst/obsidian-auto-periodic-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto Periodic Notes"
   description="Creates new periodic notes automatically in the background and allows these to be pinned in your open tabs, requires the Periodic Notes plugin."
   author="Jamie Hurst"
-  :downloads="2554"
+  :downloads="2558"
   :updated="1752957024000"
   repo="jamiefdhurst/obsidian-auto-periodic-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Creates new periodic notes automatically in the background and allows these to b
 - **下载量**：2.6K
 - **最后更新**：2025-07-20
 - **GitHub**：[jamiefdhurst/obsidian-auto-periodic-notes](https://github.com/jamiefdhurst/obsidian-auto-periodic-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

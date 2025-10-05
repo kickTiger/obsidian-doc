@@ -2,11 +2,11 @@
 title: Copy Local Graph Paths
 description: Copies file paths of local graph links to clipboard.
 author: Amy Z
-downloads: 233
+downloads: 235
 updated: 1741396637000
 repo: 0melette/copy-local-graph-paths
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Copy Local Graph Paths"
   description="Copies file paths of local graph links to clipboard."
   author="Amy Z"
-  :downloads="233"
+  :downloads="235"
   :updated="1741396637000"
   repo="0melette/copy-local-graph-paths"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Copies file paths of local graph links to clipboard.
 - **插件 ID**：copy-local-graph-paths
 - **作者**：Amy Z
 - **当前版本**：v1.0.0
-- **下载量**：233
+- **下载量**：235
 - **最后更新**：2025-03-08
 - **GitHub**：[0melette/copy-local-graph-paths](https://github.com/0melette/copy-local-graph-paths)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Gitlab Wiki Exporter
 description: Makes your entire vault Gitlab Wiki compatible and exports it to a specified location.
 author: Josef Rabmer
-downloads: 1778
+downloads: 1780
 updated: 1758213616000
 repo: jrabmer/obsidian-to-gitlab-wiki
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Gitlab Wiki Exporter"
   description="Makes your entire vault Gitlab Wiki compatible and exports it to a specified location."
   author="Josef Rabmer"
-  :downloads="1778"
+  :downloads="1780"
   :updated="1758213616000"
   repo="jrabmer/obsidian-to-gitlab-wiki"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Makes your entire vault Gitlab Wiki compatible and exports it to a specified loc
 - **下载量**：1.8K
 - **最后更新**：2025-09-19
 - **GitHub**：[jrabmer/obsidian-to-gitlab-wiki](https://github.com/jrabmer/obsidian-to-gitlab-wiki)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

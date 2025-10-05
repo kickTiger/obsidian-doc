@@ -2,11 +2,11 @@
 title: Photopea Editor
 description: Automatically opens images in Photopea when clicked in your vault.
 author: KarmaToast40340
-downloads: 599
+downloads: 600
 updated: 1733840453000
 repo: KarmaToast40340/photopea-editor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Photopea Editor"
   description="Automatically opens images in Photopea when clicked in your vault."
   author="KarmaToast40340"
-  :downloads="599"
+  :downloads="600"
   :updated="1733840453000"
   repo="KarmaToast40340/photopea-editor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically opens images in Photopea when clicked in your vault.
 - **插件 ID**：photopea-editor
 - **作者**：KarmaToast40340
 - **当前版本**：v1.0.0
-- **下载量**：599
+- **下载量**：600
 - **最后更新**：2024-12-10
 - **GitHub**：[KarmaToast40340/photopea-editor](https://github.com/KarmaToast40340/photopea-editor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

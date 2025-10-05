@@ -6,7 +6,7 @@ downloads: 634
 updated: 1725412577000
 repo: situ2001/obsidian-enhanced-image
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1725412577000"
   repo="situ2001/obsidian-enhanced-image"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enhance the experience of image seamlessly. For example, operations for image in
 - **下载量**：634
 - **最后更新**：2024-09-04
 - **GitHub**：[situ2001/obsidian-enhanced-image](https://github.com/situ2001/obsidian-enhanced-image)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

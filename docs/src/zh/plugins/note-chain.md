@@ -1,12 +1,12 @@
 ---
 title: Note Chain
-description: Thoughts as river, notes as chain. Add prev and next notes to a notes, and order files by the chain in File Explorer.
+description: 思想如河，笔记如链。在笔记中添加上一笔记和下一笔记，并在文件资源管理器中按链条排序文件。
 author: ZigHolding
-downloads: 3708
+downloads: 3709
 updated: 1756395345000
 repo: zigholding/obsidian-notechain-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="note-chain"
   name="Note Chain"
-  description="Thoughts as river, notes as chain. Add prev and next notes to a notes, and order files by the chain in File Explorer."
+  description="思想如河，笔记如链。在笔记中添加上一笔记和下一笔记，并在文件资源管理器中按链条排序文件。"
   author="ZigHolding"
-  :downloads="3708"
+  :downloads="3709"
   :updated="1756395345000"
   repo="zigholding/obsidian-notechain-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note Chain 是一个功能强大的 Obsidian 插件。
 
-Thoughts as river, notes as chain. Add prev and next notes to a notes, and order files by the chain in File Explorer.
+思想如河，笔记如链。在笔记中添加上一笔记和下一笔记，并在文件资源管理器中按链条排序文件。
 
 通过 Note Chain,您可以:
 
@@ -202,7 +202,7 @@ Thoughts as river, notes as chain. Add prev and next notes to a notes, and order
 - **下载量**：3.7K
 - **最后更新**：2025-08-28
 - **GitHub**：[zigholding/obsidian-notechain-plugin](https://github.com/zigholding/obsidian-notechain-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Daily Activity
-description: Output a list of the files changed/created today in the active file.
+description: 输出活动文件中今天更改/创建的文件列表。
 author: trydalch
-downloads: 15879
+downloads: 15886
 updated: 1744419754000
 repo: trydalch/obsidian-daily-activity
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="daily-activity"
   name="Daily Activity"
-  description="Output a list of the files changed/created today in the active file."
+  description="输出活动文件中今天更改/创建的文件列表。"
   author="trydalch"
-  :downloads="15879"
+  :downloads="15886"
   :updated="1744419754000"
   repo="trydalch/obsidian-daily-activity"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Daily Activity 是一个功能强大的 Obsidian 插件。
 
-Output a list of the files changed/created today in the active file.
+输出活动文件中今天更改/创建的文件列表。
 
 通过 Daily Activity,您可以:
 
@@ -202,7 +202,7 @@ Output a list of the files changed/created today in the active file.
 - **下载量**：15.9K
 - **最后更新**：2025-04-12
 - **GitHub**：[trydalch/obsidian-daily-activity](https://github.com/trydalch/obsidian-daily-activity)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -67,24 +67,60 @@
                 <span>全部分类</span>
               </label>
               <label class="filter-option">
-                <input type="radio" v-model="filters.category" value="productivity" />
-                <span>生产力</span>
+                <input type="radio" v-model="filters.category" value="note-taking" />
+                <span>笔记增强</span>
               </label>
               <label class="filter-option">
-                <input type="radio" v-model="filters.category" value="note-taking" />
-                <span>笔记</span>
+                <input type="radio" v-model="filters.category" value="task-management" />
+                <span>任务管理</span>
+              </label>
+              <label class="filter-option">
+                <input type="radio" v-model="filters.category" value="data-processing" />
+                <span>数据处理</span>
               </label>
               <label class="filter-option">
                 <input type="radio" v-model="filters.category" value="visualization" />
                 <span>可视化</span>
               </label>
               <label class="filter-option">
+                <input type="radio" v-model="filters.category" value="drawing" />
+                <span>绘图</span>
+              </label>
+              <label class="filter-option">
+                <input type="radio" v-model="filters.category" value="calendar-time" />
+                <span>日历时间</span>
+              </label>
+              <label class="filter-option">
+                <input type="radio" v-model="filters.category" value="template" />
+                <span>模板</span>
+              </label>
+              <label class="filter-option">
                 <input type="radio" v-model="filters.category" value="automation" />
                 <span>自动化</span>
               </label>
               <label class="filter-option">
+                <input type="radio" v-model="filters.category" value="sync-backup" />
+                <span>备份同步</span>
+              </label>
+              <label class="filter-option">
+                <input type="radio" v-model="filters.category" value="editor-enhancement" />
+                <span>编辑增强</span>
+              </label>
+              <label class="filter-option">
+                <input type="radio" v-model="filters.category" value="appearance" />
+                <span>外观定制</span>
+              </label>
+              <label class="filter-option">
+                <input type="radio" v-model="filters.category" value="productivity" />
+                <span>效率工具</span>
+              </label>
+              <label class="filter-option">
                 <input type="radio" v-model="filters.category" value="integration" />
                 <span>集成</span>
+              </label>
+              <label class="filter-option">
+                <input type="radio" v-model="filters.category" value="other" />
+                <span>其他</span>
               </label>
             </div>
           </div>
@@ -188,11 +224,15 @@
           
           <!-- 卡片视图 -->
           <div v-else-if="viewMode === 'card'" class="plugin-list plugin-list-card">
-            <div 
-              v-for="item in paginatedPlugins" 
-              :key="item.id" 
+            <div
+              v-for="item in paginatedPlugins"
+              :key="item.id"
               class="plugin-item plugin-card"
             >
+              <!-- 徽标：优先显示新增，其次显示更新 -->
+              <div v-if="isNewlyAdded(item.created)" class="new-badge">新增</div>
+              <div v-else-if="isRecentlyUpdated(item.updated)" class="update-badge">更新</div>
+
               <!-- 左侧：下载量徽章 -->
               <div class="plugin-badge">
                 <i class="iconfont icon-download badge-icon"></i>
@@ -246,6 +286,10 @@
               :key="item.id"
               class="plugin-row-card"
             >
+              <!-- 徽标：优先显示新增，其次显示更新 -->
+              <div v-if="isNewlyAdded(item.created)" class="new-badge">新增</div>
+              <div v-else-if="isRecentlyUpdated(item.updated)" class="update-badge">更新</div>
+
               <!-- 左侧：插件信息 -->
               <div class="row-main">
                 <div class="row-header">
@@ -370,6 +414,7 @@ type ViewMode = 'card' | 'list' | 'compact';
 // 响应式数据
 const plugins = ref<Plugin[]>([]);
 const pluginStats = ref<PluginStats | null>(null);
+const translations = ref<Record<string, { description: string; notes?: string }>>({});
 const loading = ref(true);
 const error = ref<string | null>(null);
 const searchQuery = ref('');
@@ -380,9 +425,25 @@ const currentPage = ref(1);
 const pageSize = ref(21); // 21个插件 = 7行 × 3列，确保最后一排铺满
 let searchTimeout: NodeJS.Timeout | null = null;
 
+// 合并翻译数据的插件列表
+const mergedPlugins = computed(() => {
+  return plugins.value.map(plugin => {
+    const translation = translations.value[plugin.id];
+    if (translation) {
+      return {
+        ...plugin,
+        description: translation.description,
+        descriptionEn: plugin.description, // 保留英文原文
+        notes: translation.notes
+      };
+    }
+    return plugin;
+  });
+});
+
 // 过滤后的插件列表
 const filteredPlugins = computed(() => {
-  let result = [...plugins.value];
+  let result = [...mergedPlugins.value];
   
   // 1. 搜索过滤
   if (searchQuery.value.trim()) {
@@ -469,7 +530,18 @@ const loadData = async () => {
       throw new Error('加载统计数据失败');
     }
     pluginStats.value = await statsResponse.json();
-    
+
+    // 加载翻译数据（可选，如果文件不存在也不影响）
+    try {
+      const translationsResponse = await fetch('/data/plugin-translations.json');
+      if (translationsResponse.ok) {
+        translations.value = await translationsResponse.json();
+        console.log(`✓ 已加载 ${Object.keys(translations.value).length} 个插件翻译`);
+      }
+    } catch (err) {
+      console.log('翻译数据文件不存在，使用原始描述');
+    }
+
     loading.value = false;
   } catch (err) {
     error.value = err instanceof Error ? err.message : '加载数据时发生错误';
@@ -536,6 +608,18 @@ const formatDate = (timestamp: number): string => {
     month: '2-digit',
     day: '2-digit'
   });
+};
+
+// 判断插件是否在一周内更新
+const isRecentlyUpdated = (timestamp: number): boolean => {
+  const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000; // 7天前的时间戳
+  return timestamp > oneWeekAgo;
+};
+
+// 判断插件是否在一个月内新增
+const isNewlyAdded = (timestamp: number): boolean => {
+  const oneMonthAgo = Date.now() - 30 * 24 * 60 * 60 * 1000; // 30天前的时间戳
+  return timestamp > oneMonthAgo;
 };
 
 // 分类ID到中文名称的映射
@@ -1261,12 +1345,58 @@ onMounted(() => {
   display: flex;
   flex-direction: column;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  position: relative; /* 为 NEW 徽标定位 */
 }
 
 .plugin-card:hover {
   transform: translateY(-6px);
   box-shadow: 0 12px 32px rgba(102, 126, 234, 0.15);
   border-color: #8b9cf5;
+}
+
+/* 新增徽标（一个月内新增） */
+.new-badge {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: linear-gradient(135deg, #ff6b6b 0%, #ff8787 100%);
+  color: white;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 8px;
+  letter-spacing: 0.3px;
+  box-shadow: 0 2px 6px rgba(255, 107, 107, 0.25);
+  z-index: 10;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* 更新徽标（一周内更新） */
+.update-badge {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: linear-gradient(135deg, #4CAF50 0%, #66BB6A 100%);
+  color: white;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 8px;
+  letter-spacing: 0.3px;
+  box-shadow: 0 2px 6px rgba(76, 175, 80, 0.25);
+  z-index: 10;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    box-shadow: 0 2px 8px rgba(255, 107, 107, 0.3);
+  }
+  50% {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(255, 107, 107, 0.5);
+  }
 }
 
 /* 徽章 */
@@ -1439,6 +1569,7 @@ onMounted(() => {
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   cursor: pointer;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  position: relative; /* 为 NEW 徽标定位 */
 }
 
 .plugin-row-card:hover {

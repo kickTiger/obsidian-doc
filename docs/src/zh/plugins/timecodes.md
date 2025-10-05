@@ -2,11 +2,11 @@
 title: Timecodes
 description: Converts raw text timecodes into clickable URLs if a note contains a link to a video
 author: Kirill Gavrilov
-downloads: 242
-updated: 1737549287000
+downloads: 246
+updated: 1759619883000
 repo: gavvvr/obsidian-timecodes-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Timecodes"
   description="Converts raw text timecodes into clickable URLs if a note contains a link to a video"
   author="Kirill Gavrilov"
-  :downloads="242"
-  :updated="1737549287000"
+  :downloads="246"
+  :updated="1759619883000"
   repo="gavvvr/obsidian-timecodes-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -181,7 +181,7 @@ Converts raw text timecodes into clickable URLs if a note contains a link to a v
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-01-22
+更新时间：2025-10-05
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/gavvvr/obsidian-timecodes-plugin/releases) 查看详细更新日志
@@ -199,10 +199,10 @@ Converts raw text timecodes into clickable URLs if a note contains a link to a v
 - **插件 ID**：timecodes
 - **作者**：Kirill Gavrilov
 - **当前版本**：v1.0.0
-- **下载量**：242
-- **最后更新**：2025-01-22
+- **下载量**：246
+- **最后更新**：2025-10-05
 - **GitHub**：[gavvvr/obsidian-timecodes-plugin](https://github.com/gavvvr/obsidian-timecodes-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

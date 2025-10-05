@@ -2,11 +2,11 @@
 title: Disciples Journal
 description: Embed Bible references and passages in your notes and read the Bible.
 author: Scott Tomaszewski (Xentis)
-downloads: 504
+downloads: 506
 updated: 1748551558000
 repo: scottTomaszewski/obsidian-disciples-journal
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Disciples Journal"
   description="Embed Bible references and passages in your notes and read the Bible."
   author="Scott Tomaszewski (Xentis)"
-  :downloads="504"
+  :downloads="506"
   :updated="1748551558000"
   repo="scottTomaszewski/obsidian-disciples-journal"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Embed Bible references and passages in your notes and read the Bible.
 - **插件 ID**：disciples-journal
 - **作者**：Scott Tomaszewski (Xentis)
 - **当前版本**：v1.0.0
-- **下载量**：504
+- **下载量**：506
 - **最后更新**：2025-05-30
 - **GitHub**：[scottTomaszewski/obsidian-disciples-journal](https://github.com/scottTomaszewski/obsidian-disciples-journal)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

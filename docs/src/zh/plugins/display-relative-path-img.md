@@ -2,11 +2,11 @@
 title: Display Relative Path Img
 description: 'Display the image of the <img> tag'
 author: Dyc
-downloads: 1777
+downloads: 1778
 updated: 1707376716000
 repo: dyc2424748461/obsidian-display-relative-path-img
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Display Relative Path Img"
   description="Display the image of the &lt;img&gt; tag"
   author="Dyc"
-  :downloads="1777"
+  :downloads="1778"
   :updated="1707376716000"
   repo="dyc2424748461/obsidian-display-relative-path-img"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Display the image of the &lt;img&gt; tag
 - **下载量**：1.8K
 - **最后更新**：2024-02-08
 - **GitHub**：[dyc2424748461/obsidian-display-relative-path-img](https://github.com/dyc2424748461/obsidian-display-relative-path-img)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

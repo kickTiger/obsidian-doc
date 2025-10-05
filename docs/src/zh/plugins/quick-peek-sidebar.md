@@ -2,11 +2,11 @@
 title: Quick Peek Sidebar
 description: Opens the left and/or right side panel by hovering over it.
 author: Bradley Wyatt
-downloads: 1407
+downloads: 1420
 updated: 1745288400000
 repo: bwya77/obsidian-quick-peek-sidebar
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Quick Peek Sidebar"
   description="Opens the left and/or right side panel by hovering over it."
   author="Bradley Wyatt"
-  :downloads="1407"
+  :downloads="1420"
   :updated="1745288400000"
   repo="bwya77/obsidian-quick-peek-sidebar"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Opens the left and/or right side panel by hovering over it.
 - **下载量**：1.4K
 - **最后更新**：2025-04-22
 - **GitHub**：[bwya77/obsidian-quick-peek-sidebar](https://github.com/bwya77/obsidian-quick-peek-sidebar)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

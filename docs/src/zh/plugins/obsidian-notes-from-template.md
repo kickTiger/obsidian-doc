@@ -1,12 +1,12 @@
 ---
 title: From Template
-description: Create new notes from Templates - for each Template, provides a Command to trigger it, and a form to fill in any variables in the template.
+description: 从模板创建新注释--为每个模板提供一个命令来触发它，并提供一个表单来填写模板中的任何变量。
 author: mo-seph
-downloads: 13620
+downloads: 13627
 updated: 1723106633000
 repo: mo-seph/obsidian-note-from-template
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-notes-from-template"
   name="From Template"
-  description="Create new notes from Templates - for each Template, provides a Command to trigger it, and a form to fill in any variables in the template."
+  description="从模板创建新注释--为每个模板提供一个命令来触发它，并提供一个表单来填写模板中的任何变量。"
   author="mo-seph"
-  :downloads="13620"
+  :downloads="13627"
   :updated="1723106633000"
   repo="mo-seph/obsidian-note-from-template"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 From Template 是一个功能强大的 Obsidian 插件。
 
-Create new notes from Templates - for each Template, provides a Command to trigger it, and a form to fill in any variables in the template.
+从模板创建新注释--为每个模板提供一个命令来触发它，并提供一个表单来填写模板中的任何变量。
 
 通过 From Template,您可以:
 
@@ -202,7 +202,7 @@ Create new notes from Templates - for each Template, provides a Command to trigg
 - **下载量**：13.6K
 - **最后更新**：2024-08-08
 - **GitHub**：[mo-seph/obsidian-note-from-template](https://github.com/mo-seph/obsidian-note-from-template)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

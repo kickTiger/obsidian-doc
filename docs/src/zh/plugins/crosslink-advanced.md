@@ -6,7 +6,7 @@ downloads: 492
 updated: 1741794627000
 repo: d7sd6u/obsidian-crosslink-advanced
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1741794627000"
   repo="d7sd6u/obsidian-crosslink-advanced"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Tag files using folders and symlinks system (ftags).
 - **下载量**：492
 - **最后更新**：2025-03-12
 - **GitHub**：[d7sd6u/obsidian-crosslink-advanced](https://github.com/d7sd6u/obsidian-crosslink-advanced)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

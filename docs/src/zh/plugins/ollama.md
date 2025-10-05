@@ -1,12 +1,12 @@
 ---
 title: Ollama
-description: Enable the usage of Ollama within your notes.
+description: 在笔记中启用 Ollama。
 author: hinterdupfinger
-downloads: 20843
+downloads: 20859
 updated: 1695086461000
 repo: hinterdupfinger/obsidian-ollama
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ollama"
   name="Ollama"
-  description="Enable the usage of Ollama within your notes."
+  description="在笔记中启用 Ollama。"
   author="hinterdupfinger"
-  :downloads="20843"
+  :downloads="20859"
   :updated="1695086461000"
   repo="hinterdupfinger/obsidian-ollama"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ollama 是一个功能强大的 Obsidian 插件。
 
-Enable the usage of Ollama within your notes.
+在笔记中启用 Ollama。
 
 通过 Ollama,您可以:
 
@@ -199,10 +199,10 @@ Enable the usage of Ollama within your notes.
 - **插件 ID**：ollama
 - **作者**：hinterdupfinger
 - **当前版本**：v1.0.0
-- **下载量**：20.8K
+- **下载量**：20.9K
 - **最后更新**：2023-09-19
 - **GitHub**：[hinterdupfinger/obsidian-ollama](https://github.com/hinterdupfinger/obsidian-ollama)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

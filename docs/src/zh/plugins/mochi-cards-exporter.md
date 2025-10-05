@@ -1,12 +1,12 @@
 ---
 title: Mochi Cards Exporter
-description: Export Markdown notes to Mochi cards.
+description: 将 Markdown 注释导出为 Mochi 卡。
 author: kalbetre
-downloads: 5158
+downloads: 5159
 updated: 1622017130000
 repo: kalibetre/mochi-cards-exporter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mochi-cards-exporter"
   name="Mochi Cards Exporter"
-  description="Export Markdown notes to Mochi cards."
+  description="将 Markdown 注释导出为 Mochi 卡。"
   author="kalbetre"
-  :downloads="5158"
+  :downloads="5159"
   :updated="1622017130000"
   repo="kalibetre/mochi-cards-exporter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mochi Cards Exporter 是一个功能强大的 Obsidian 插件。
 
-Export Markdown notes to Mochi cards.
+将 Markdown 注释导出为 Mochi 卡。
 
 通过 Mochi Cards Exporter,您可以:
 
@@ -202,7 +202,7 @@ Export Markdown notes to Mochi cards.
 - **下载量**：5.2K
 - **最后更新**：2021-05-26
 - **GitHub**：[kalibetre/mochi-cards-exporter](https://github.com/kalibetre/mochi-cards-exporter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

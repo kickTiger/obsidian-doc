@@ -6,7 +6,7 @@ downloads: 496
 updated: 1734630965000
 repo: IvanKalmar/simple-quiz
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1734630965000"
   repo="IvanKalmar/simple-quiz"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Creating simple quizzes.
 - **下载量**：496
 - **最后更新**：2024-12-20
 - **GitHub**：[IvanKalmar/simple-quiz](https://github.com/IvanKalmar/simple-quiz)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 274
 updated: 1733994026000
 repo: angelperezasenjo/obsidian-to-jira
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1733994026000"
   repo="angelperezasenjo/obsidian-to-jira"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Update and creating of Jira issues directly
 - **下载量**：274
 - **最后更新**：2024-12-12
 - **GitHub**：[angelperezasenjo/obsidian-to-jira](https://github.com/angelperezasenjo/obsidian-to-jira)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

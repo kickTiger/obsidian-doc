@@ -6,7 +6,7 @@ downloads: 221
 updated: 1750751110000
 repo: nota/gyazo-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1750751110000"
   repo="nota/gyazo-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Display your Gyazo captures and embed them into your notes.
 - **下载量**：221
 - **最后更新**：2025-06-24
 - **GitHub**：[nota/gyazo-obsidian-plugin](https://github.com/nota/gyazo-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

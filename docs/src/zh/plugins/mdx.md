@@ -1,12 +1,12 @@
 ---
 title: MDX
-description: Preview MDX in Obsidian, with support for Code Hike.
+description: 在 Obsidian 中预览 MDX，支持 Code Hike。
 author: Yulei Chen
-downloads: 4136
+downloads: 4140
 updated: 1692190071000
 repo: yulei-chen/obsidian-mdx
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mdx"
   name="MDX"
-  description="Preview MDX in Obsidian, with support for Code Hike."
+  description="在 Obsidian 中预览 MDX，支持 Code Hike。"
   author="Yulei Chen"
-  :downloads="4136"
+  :downloads="4140"
   :updated="1692190071000"
   repo="yulei-chen/obsidian-mdx"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MDX 是一个功能强大的 Obsidian 插件。
 
-Preview MDX in Obsidian, with support for Code Hike.
+在 Obsidian 中预览 MDX，支持 Code Hike。
 
 通过 MDX,您可以:
 
@@ -202,7 +202,7 @@ Preview MDX in Obsidian, with support for Code Hike.
 - **下载量**：4.1K
 - **最后更新**：2023-08-16
 - **GitHub**：[yulei-chen/obsidian-mdx](https://github.com/yulei-chen/obsidian-mdx)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

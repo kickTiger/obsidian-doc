@@ -2,11 +2,11 @@
 title: Note Favicon
 description: Extracts a URL from the frontmatter of notes and displays an associated favicon image next to the note title in the file tree. Supports standard URLs and base64-encoded images.
 author: mdklab
-downloads: 623
+downloads: 625
 updated: 1743766970000
 repo: mdklab/note-favicon
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note Favicon"
   description="Extracts a URL from the frontmatter of notes and displays an associated favicon image next to the note title in the file tree. Supports standard URLs and base64-encoded images."
   author="mdklab"
-  :downloads="623"
+  :downloads="625"
   :updated="1743766970000"
   repo="mdklab/note-favicon"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Extracts a URL from the frontmatter of notes and displays an associated favicon 
 - **插件 ID**：note-favicon
 - **作者**：mdklab
 - **当前版本**：v1.0.0
-- **下载量**：623
+- **下载量**：625
 - **最后更新**：2025-04-04
 - **GitHub**：[mdklab/note-favicon](https://github.com/mdklab/note-favicon)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

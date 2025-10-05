@@ -1,12 +1,12 @@
 ---
 title: Vimrc Support
-description: Auto-load a startup file with Vim commands.
+description: 支持.vimrc配置文件。
 author: esm
-downloads: 127190
+downloads: 127272
 updated: 1730626633000
 repo: esm7/obsidian-vimrc-support
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-vimrc-support"
   name="Vimrc Support"
-  description="Auto-load a startup file with Vim commands."
+  description="支持.vimrc配置文件。"
   author="esm"
-  :downloads="127190"
+  :downloads="127272"
   :updated="1730626633000"
   repo="esm7/obsidian-vimrc-support"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vimrc Support 是一个功能强大的 Obsidian 插件。
 
-Auto-load a startup file with Vim commands.
+支持.vimrc配置文件。
 
 通过 Vimrc Support,您可以:
 
@@ -199,10 +199,10 @@ Auto-load a startup file with Vim commands.
 - **插件 ID**：obsidian-vimrc-support
 - **作者**：esm
 - **当前版本**：v1.0.0
-- **下载量**：127.2K
+- **下载量**：127.3K
 - **最后更新**：2024-11-03
 - **GitHub**：[esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

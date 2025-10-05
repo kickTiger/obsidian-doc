@@ -2,11 +2,11 @@
 title: Nav Weight
 description: Sort your navigation items by markdown frontmatter.
 author: shu307
-downloads: 289
+downloads: 290
 updated: 1731995616000
 repo: shu307/obsidian-nav-weight
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Nav Weight"
   description="Sort your navigation items by markdown frontmatter."
   author="shu307"
-  :downloads="289"
+  :downloads="290"
   :updated="1731995616000"
   repo="shu307/obsidian-nav-weight"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Sort your navigation items by markdown frontmatter.
 - **插件 ID**：nav-weight
 - **作者**：shu307
 - **当前版本**：v1.0.0
-- **下载量**：289
+- **下载量**：290
 - **最后更新**：2024-11-19
 - **GitHub**：[shu307/obsidian-nav-weight](https://github.com/shu307/obsidian-nav-weight)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

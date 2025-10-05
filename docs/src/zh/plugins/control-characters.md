@@ -1,12 +1,12 @@
 ---
 title: Control Characters
-description: Show control/non-printing characters in edit mode.
+description: 在编辑模式下显示控制/非打印字符。
 author: Johannes Theiner
-downloads: 6266
+downloads: 6267
 updated: 1655734543000
 repo: joethei/obsidian-control-characters
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="control-characters"
   name="Control Characters"
-  description="Show control/non-printing characters in edit mode."
+  description="在编辑模式下显示控制/非打印字符。"
   author="Johannes Theiner"
-  :downloads="6266"
+  :downloads="6267"
   :updated="1655734543000"
   repo="joethei/obsidian-control-characters"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Control Characters 是一个功能强大的 Obsidian 插件。
 
-Show control/non-printing characters in edit mode.
+在编辑模式下显示控制/非打印字符。
 
 通过 Control Characters,您可以:
 
@@ -202,7 +202,7 @@ Show control/non-printing characters in edit mode.
 - **下载量**：6.3K
 - **最后更新**：2022-06-20
 - **GitHub**：[joethei/obsidian-control-characters](https://github.com/joethei/obsidian-control-characters)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

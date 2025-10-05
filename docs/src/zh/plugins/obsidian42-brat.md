@@ -1,12 +1,12 @@
 ---
 title: BRAT
-description: Easily install a beta version of a plugin for testing.
+description: 轻松安装插件的测试版本。
 author: TfTHacker
-downloads: 437442
+downloads: 438300
 updated: 1758983211000
 repo: TfTHacker/obsidian42-brat
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian42-brat"
   name="BRAT"
-  description="Easily install a beta version of a plugin for testing."
+  description="轻松安装插件的测试版本。"
   author="TfTHacker"
-  :downloads="437442"
+  :downloads="438300"
   :updated="1758983211000"
   repo="TfTHacker/obsidian42-brat"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 BRAT 是一个功能强大的 Obsidian 插件。
 
-Easily install a beta version of a plugin for testing.
+轻松安装插件的测试版本。
 
 通过 BRAT,您可以:
 
@@ -199,10 +199,10 @@ Easily install a beta version of a plugin for testing.
 - **插件 ID**：obsidian42-brat
 - **作者**：TfTHacker
 - **当前版本**：v1.0.0
-- **下载量**：437.4K
+- **下载量**：438.3K
 - **最后更新**：2025-09-27
 - **GitHub**：[TfTHacker/obsidian42-brat](https://github.com/TfTHacker/obsidian42-brat)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

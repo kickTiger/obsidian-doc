@@ -1,12 +1,12 @@
 ---
 title: Habit Tracker
-description: Create a simple month view for visualizing your punch records.
+description: 创建简单的月份视图，使打孔记录可视化。
 author: duo
-downloads: 17103
+downloads: 17112
 updated: 1631895684000
 repo: duoani/obsidian-habit-tracker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-habit-tracker"
   name="Habit Tracker"
-  description="Create a simple month view for visualizing your punch records."
+  description="创建简单的月份视图，使打孔记录可视化。"
   author="duo"
-  :downloads="17103"
+  :downloads="17112"
   :updated="1631895684000"
   repo="duoani/obsidian-habit-tracker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Habit Tracker 是一个功能强大的 Obsidian 插件。
 
-Create a simple month view for visualizing your punch records.
+创建简单的月份视图，使打孔记录可视化。
 
 通过 Habit Tracker,您可以:
 
@@ -202,7 +202,7 @@ Create a simple month view for visualizing your punch records.
 - **下载量**：17.1K
 - **最后更新**：2021-09-18
 - **GitHub**：[duoani/obsidian-habit-tracker](https://github.com/duoani/obsidian-habit-tracker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

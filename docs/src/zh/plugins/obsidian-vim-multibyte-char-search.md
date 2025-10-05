@@ -1,12 +1,12 @@
 ---
 title: Vim Multibyte Char Search
-description: Search multibyte characters by the first character of corresponding ASCII encoding of input method. For example, for Chinese, search by the first character of Pinyin.
+description: 按输入法对应 ASCII 编码的第一个字符搜索多字节字符。例如，对于中文，按拼音的第一个字符搜索。
 author: anselmwang
 downloads: 4059
 updated: 1650577556000
 repo: anselmwang/obsidian-vim-multibyte-char-search
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-vim-multibyte-char-search"
   name="Vim Multibyte Char Search"
-  description="Search multibyte characters by the first character of corresponding ASCII encoding of input method. For example, for Chinese, search by the first character of Pinyin."
+  description="按输入法对应 ASCII 编码的第一个字符搜索多字节字符。例如，对于中文，按拼音的第一个字符搜索。"
   author="anselmwang"
   :downloads="4059"
   :updated="1650577556000"
   repo="anselmwang/obsidian-vim-multibyte-char-search"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vim Multibyte Char Search 是一个功能强大的 Obsidian 插件。
 
-Search multibyte characters by the first character of corresponding ASCII encoding of input method. For example, for Chinese, search by the first character of Pinyin.
+按输入法对应 ASCII 编码的第一个字符搜索多字节字符。例如，对于中文，按拼音的第一个字符搜索。
 
 通过 Vim Multibyte Char Search,您可以:
 
@@ -202,7 +202,7 @@ Search multibyte characters by the first character of corresponding ASCII encodi
 - **下载量**：4.1K
 - **最后更新**：2022-04-22
 - **GitHub**：[anselmwang/obsidian-vim-multibyte-char-search](https://github.com/anselmwang/obsidian-vim-multibyte-char-search)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

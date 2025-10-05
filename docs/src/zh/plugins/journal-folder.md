@@ -2,11 +2,11 @@
 title: Journal Folder
 description: Utilities for folder-based journaling.
 author: Charl Fourie
-downloads: 2060
+downloads: 2064
 updated: 1747486395000
 repo: chfourie/obsidian-journal-folder
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Journal Folder"
   description="Utilities for folder-based journaling."
   author="Charl Fourie"
-  :downloads="2060"
+  :downloads="2064"
   :updated="1747486395000"
   repo="chfourie/obsidian-journal-folder"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Utilities for folder-based journaling.
 - **下载量**：2.1K
 - **最后更新**：2025-05-17
 - **GitHub**：[chfourie/obsidian-journal-folder](https://github.com/chfourie/obsidian-journal-folder)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

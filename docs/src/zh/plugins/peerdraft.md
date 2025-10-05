@@ -1,12 +1,12 @@
 ---
 title: Peerdraft
-description: 'Real-time, instant collaboration on documents or folders. Whether for quick note-taking or building a team knowledge base, Peerdaft syncs with your collaborators'' vaults and also offers a Web Editor.'
+description: 实时、即时的文档或文件夹协作。无论是快速记笔记还是建立团队知识库，Peerdaft 都能与协作者的资料库同步，还提供网络编辑器。
 author: Peerdraft
-downloads: 12963
+downloads: 12983
 updated: 1748811788000
 repo: peerdraft/obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="peerdraft"
   name="Peerdraft"
-  description="Real-time, instant collaboration on documents or folders. Whether for quick note-taking or building a team knowledge base, Peerdaft syncs with your collaborators&#39; vaults and also offers a Web Editor."
+  description="实时、即时的文档或文件夹协作。无论是快速记笔记还是建立团队知识库，Peerdaft 都能与协作者的资料库同步，还提供网络编辑器。"
   author="Peerdraft"
-  :downloads="12963"
+  :downloads="12983"
   :updated="1748811788000"
   repo="peerdraft/obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Peerdraft 是一个功能强大的 Obsidian 插件。
 
-Real-time, instant collaboration on documents or folders. Whether for quick note-taking or building a team knowledge base, Peerdaft syncs with your collaborators&#39; vaults and also offers a Web Editor.
+实时、即时的文档或文件夹协作。无论是快速记笔记还是建立团队知识库，Peerdaft 都能与协作者的资料库同步，还提供网络编辑器。
 
 通过 Peerdraft,您可以:
 
@@ -202,7 +202,7 @@ Real-time, instant collaboration on documents or folders. Whether for quick note
 - **下载量**：13.0K
 - **最后更新**：2025-06-02
 - **GitHub**：[peerdraft/obsidian-plugin](https://github.com/peerdraft/obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

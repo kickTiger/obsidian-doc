@@ -1,12 +1,12 @@
 ---
 title: 'Code::Stats'
-description: Track your coding progress and earn XP for writing Markdown.
+description: 跟踪你的编码进度，并通过编写 Markdown 获得 XP。
 author: MiskaMyasa
 downloads: 3931
 updated: 1746102393000
 repo: Miskamyasa/obsidian-codestats
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="codestats"
   name="Code::Stats"
-  description="Track your coding progress and earn XP for writing Markdown."
+  description="跟踪你的编码进度，并通过编写 Markdown 获得 XP。"
   author="MiskaMyasa"
   :downloads="3931"
   :updated="1746102393000"
   repo="Miskamyasa/obsidian-codestats"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Code::Stats 是一个功能强大的 Obsidian 插件。
 
-Track your coding progress and earn XP for writing Markdown.
+跟踪你的编码进度，并通过编写 Markdown 获得 XP。
 
 通过 Code::Stats,您可以:
 
@@ -202,7 +202,7 @@ Track your coding progress and earn XP for writing Markdown.
 - **下载量**：3.9K
 - **最后更新**：2025-05-01
 - **GitHub**：[Miskamyasa/obsidian-codestats](https://github.com/Miskamyasa/obsidian-codestats)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

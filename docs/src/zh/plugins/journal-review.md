@@ -1,12 +1,12 @@
 ---
 title: Journal Review
-description: 'Review your daily notes on their anniversaries, like "what happened today last year".'
+description: '在周年纪念日回顾你的每日笔记，比如 "去年今天发生了什么"。'
 author: Kageetai
-downloads: 14384
+downloads: 14390
 updated: 1748186232000
 repo: Kageetai/obsidian-plugin-journal-review
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="journal-review"
   name="Journal Review"
-  description="Review your daily notes on their anniversaries, like &quot;what happened today last year&quot;."
+  description="在周年纪念日回顾你的每日笔记，比如 &quot;去年今天发生了什么&quot;。"
   author="Kageetai"
-  :downloads="14384"
+  :downloads="14390"
   :updated="1748186232000"
   repo="Kageetai/obsidian-plugin-journal-review"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Journal Review 是一个功能强大的 Obsidian 插件。
 
-Review your daily notes on their anniversaries, like &quot;what happened today last year&quot;.
+在周年纪念日回顾你的每日笔记，比如 &quot;去年今天发生了什么&quot;。
 
 通过 Journal Review,您可以:
 
@@ -202,7 +202,7 @@ Review your daily notes on their anniversaries, like &quot;what happened today l
 - **下载量**：14.4K
 - **最后更新**：2025-05-25
 - **GitHub**：[Kageetai/obsidian-plugin-journal-review](https://github.com/Kageetai/obsidian-plugin-journal-review)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Recent Notes
-description: List of recently edited notes with previews by time periods.
+description: 最近编辑的笔记列表，可按时间段预览。
 author: Kamil Rudnicki
-downloads: 8490
+downloads: 8516
 updated: 1758047666000
 repo: kamil-rudnicki/obsidian-recent-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="recent-notes"
   name="Recent Notes"
-  description="List of recently edited notes with previews by time periods."
+  description="最近编辑的笔记列表，可按时间段预览。"
   author="Kamil Rudnicki"
-  :downloads="8490"
+  :downloads="8516"
   :updated="1758047666000"
   repo="kamil-rudnicki/obsidian-recent-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Recent Notes 是一个功能强大的 Obsidian 插件。
 
-List of recently edited notes with previews by time periods.
+最近编辑的笔记列表，可按时间段预览。
 
 通过 Recent Notes,您可以:
 
@@ -202,7 +202,7 @@ List of recently edited notes with previews by time periods.
 - **下载量**：8.5K
 - **最后更新**：2025-09-17
 - **GitHub**：[kamil-rudnicki/obsidian-recent-notes](https://github.com/kamil-rudnicki/obsidian-recent-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

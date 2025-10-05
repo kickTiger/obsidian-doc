@@ -6,7 +6,7 @@ downloads: 840
 updated: 1739899924000
 repo: bwya77/Inline-Checkbox-Groups
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1739899924000"
   repo="bwya77/Inline-Checkbox-Groups"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create multiple checkboxes on a single line, separated by a customizable separat
 - **下载量**：840
 - **最后更新**：2025-02-19
 - **GitHub**：[bwya77/Inline-Checkbox-Groups](https://github.com/bwya77/Inline-Checkbox-Groups)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

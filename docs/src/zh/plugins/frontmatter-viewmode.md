@@ -2,11 +2,11 @@
 title: Set View Mode per Note
 description: Use YAML frontmatter to specify a view mode per note.
 author: Alex Davies
-downloads: 2245
+downloads: 2247
 updated: 1707800978000
 repo: AlexDavies8/obsidian-frontmatter-viewmode
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Set View Mode per Note"
   description="Use YAML frontmatter to specify a view mode per note."
   author="Alex Davies"
-  :downloads="2245"
+  :downloads="2247"
   :updated="1707800978000"
   repo="AlexDavies8/obsidian-frontmatter-viewmode"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Use YAML frontmatter to specify a view mode per note.
 - **下载量**：2.2K
 - **最后更新**：2024-02-13
 - **GitHub**：[AlexDavies8/obsidian-frontmatter-viewmode](https://github.com/AlexDavies8/obsidian-frontmatter-viewmode)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 184
 updated: 1746418287000
 repo: clockblocker/filler-de
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1746418287000"
   repo="clockblocker/filler-de"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Building your a personal German dictionary, based on the contexts in the German 
 - **下载量**：184
 - **最后更新**：2025-05-05
 - **GitHub**：[clockblocker/filler-de](https://github.com/clockblocker/filler-de)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

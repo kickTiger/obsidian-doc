@@ -2,11 +2,11 @@
 title: SQLite DB
 description: Interact with local SQLite files in your notes
 author: Stefano Frigerio
-downloads: 1110
+downloads: 1113
 updated: 1746804845000
 repo: stfrigerio/sqliteDB
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="SQLite DB"
   description="Interact with local SQLite files in your notes"
   author="Stefano Frigerio"
-  :downloads="1110"
+  :downloads="1113"
   :updated="1746804845000"
   repo="stfrigerio/sqliteDB"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Interact with local SQLite files in your notes
 - **下载量**：1.1K
 - **最后更新**：2025-05-09
 - **GitHub**：[stfrigerio/sqliteDB](https://github.com/stfrigerio/sqliteDB)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

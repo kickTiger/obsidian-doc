@@ -6,7 +6,7 @@ downloads: 428
 updated: 1724013740000
 repo: javierarce/arena-manager
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1724013740000"
   repo="javierarce/arena-manager"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish content from your vault to Arena and the other way around.
 - **下载量**：428
 - **最后更新**：2024-08-19
 - **GitHub**：[javierarce/arena-manager](https://github.com/javierarce/arena-manager)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

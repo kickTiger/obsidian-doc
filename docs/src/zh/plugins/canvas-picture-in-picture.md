@@ -2,11 +2,11 @@
 title: Canvas Picture in Picture
 description: Enables ability to pin Canvas nodes and float them above the board (Picture-in-Picture mode)
 author: hypersphere
-downloads: 1147
+downloads: 1148
 updated: 1722630145000
 repo: h-sphere/obsidian-canvas-picture-in-picture
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Canvas Picture in Picture"
   description="Enables ability to pin Canvas nodes and float them above the board (Picture-in-Picture mode)"
   author="hypersphere"
-  :downloads="1147"
+  :downloads="1148"
   :updated="1722630145000"
   repo="h-sphere/obsidian-canvas-picture-in-picture"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enables ability to pin Canvas nodes and float them above the board (Picture-in-P
 - **下载量**：1.1K
 - **最后更新**：2024-08-03
 - **GitHub**：[h-sphere/obsidian-canvas-picture-in-picture](https://github.com/h-sphere/obsidian-canvas-picture-in-picture)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

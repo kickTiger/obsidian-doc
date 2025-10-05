@@ -6,7 +6,7 @@ downloads: 371
 updated: 1743412478000
 repo: leoleelxh/obsidian-memos-ai-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1743412478000"
   repo="leoleelxh/obsidian-memos-ai-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync Memos content powered by AI
 - **下载量**：371
 - **最后更新**：2025-03-31
 - **GitHub**：[leoleelxh/obsidian-memos-ai-sync](https://github.com/leoleelxh/obsidian-memos-ai-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

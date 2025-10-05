@@ -1,12 +1,12 @@
 ---
 title: Tars
-description: 'Text generation based on tag suggestions, using Claude, OpenAI, Ollama, Kimi, Doubao, Qwen, Zhipu, DeepSeek, QianFan & more.'
+description: 基于标签建议生成文本，使用 Claude、OpenAI、Ollama、Kimi、豆瓣、Qwen、Zhipu、DeepSeek、千帆等。
 author: Tarslab
-downloads: 27345
+downloads: 27392
 updated: 1758876992000
 repo: TarsLab/obsidian-tars
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tars"
   name="Tars"
-  description="Text generation based on tag suggestions, using Claude, OpenAI, Ollama, Kimi, Doubao, Qwen, Zhipu, DeepSeek, QianFan &amp; more."
+  description="基于标签建议生成文本，使用 Claude、OpenAI、Ollama、Kimi、豆瓣、Qwen、Zhipu、DeepSeek、千帆等。"
   author="Tarslab"
-  :downloads="27345"
+  :downloads="27392"
   :updated="1758876992000"
   repo="TarsLab/obsidian-tars"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tars 是一个功能强大的 Obsidian 插件。
 
-Text generation based on tag suggestions, using Claude, OpenAI, Ollama, Kimi, Doubao, Qwen, Zhipu, DeepSeek, QianFan &amp; more.
+基于标签建议生成文本，使用 Claude、OpenAI、Ollama、Kimi、豆瓣、Qwen、Zhipu、DeepSeek、千帆等。
 
 通过 Tars,您可以:
 
@@ -199,10 +199,10 @@ Text generation based on tag suggestions, using Claude, OpenAI, Ollama, Kimi, Do
 - **插件 ID**：tars
 - **作者**：Tarslab
 - **当前版本**：v1.0.0
-- **下载量**：27.3K
+- **下载量**：27.4K
 - **最后更新**：2025-09-26
 - **GitHub**：[TarsLab/obsidian-tars](https://github.com/TarsLab/obsidian-tars)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

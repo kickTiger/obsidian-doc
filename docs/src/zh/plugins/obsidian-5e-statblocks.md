@@ -1,12 +1,12 @@
 ---
 title: Fantasy Statblocks
-description: Create, manage and view a Fantasy Bestiary with Dungeons and Dragons style statblocks.
+description: 创建、管理和查看具有龙与地下城风格统计块的奇幻兽书。
 author: Jeremy Valentine
-downloads: 242256
+downloads: 242611
 updated: 1758934291000
 repo: javalent/fantasy-statblocks
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-5e-statblocks"
   name="Fantasy Statblocks"
-  description="Create, manage and view a Fantasy Bestiary with Dungeons and Dragons style statblocks."
+  description="创建、管理和查看具有龙与地下城风格统计块的奇幻兽书。"
   author="Jeremy Valentine"
-  :downloads="242256"
+  :downloads="242611"
   :updated="1758934291000"
   repo="javalent/fantasy-statblocks"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Fantasy Statblocks 是一个功能强大的 Obsidian 插件。
 
-Create, manage and view a Fantasy Bestiary with Dungeons and Dragons style statblocks.
+创建、管理和查看具有龙与地下城风格统计块的奇幻兽书。
 
 通过 Fantasy Statblocks,您可以:
 
@@ -199,10 +199,10 @@ Create, manage and view a Fantasy Bestiary with Dungeons and Dragons style statb
 - **插件 ID**：obsidian-5e-statblocks
 - **作者**：Jeremy Valentine
 - **当前版本**：v1.0.0
-- **下载量**：242.3K
+- **下载量**：242.6K
 - **最后更新**：2025-09-27
 - **GitHub**：[javalent/fantasy-statblocks](https://github.com/javalent/fantasy-statblocks)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

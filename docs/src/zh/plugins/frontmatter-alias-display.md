@@ -1,12 +1,12 @@
 ---
 title: Frontmatter Alias Display
-description: Show frontmatter aliases as display names in the File Explorer.
+description: 在文件资源管理器中显示前置别名作为显示名称。
 author: muhammadv-i
-downloads: 5105
+downloads: 5107
 updated: 1683728831000
 repo: notmuhammad/obsidian-frontmatter-alias-display
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="frontmatter-alias-display"
   name="Frontmatter Alias Display"
-  description="Show frontmatter aliases as display names in the File Explorer."
+  description="在文件资源管理器中显示前置别名作为显示名称。"
   author="muhammadv-i"
-  :downloads="5105"
+  :downloads="5107"
   :updated="1683728831000"
   repo="notmuhammad/obsidian-frontmatter-alias-display"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Frontmatter Alias Display 是一个功能强大的 Obsidian 插件。
 
-Show frontmatter aliases as display names in the File Explorer.
+在文件资源管理器中显示前置别名作为显示名称。
 
 通过 Frontmatter Alias Display,您可以:
 
@@ -202,7 +202,7 @@ Show frontmatter aliases as display names in the File Explorer.
 - **下载量**：5.1K
 - **最后更新**：2023-05-10
 - **GitHub**：[notmuhammad/obsidian-frontmatter-alias-display](https://github.com/notmuhammad/obsidian-frontmatter-alias-display)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

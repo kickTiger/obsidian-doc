@@ -1,12 +1,12 @@
 ---
 title: TickTick
-description: Check and create tasks in TickTick.
+description: 在 TickTick 中检查和创建任务。
 author: Viduy Cheung
-downloads: 8789
+downloads: 8791
 updated: 1701332020000
 repo: viduycheung/ticktick-obsidian
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ticktick"
   name="TickTick"
-  description="Check and create tasks in TickTick."
+  description="在 TickTick 中检查和创建任务。"
   author="Viduy Cheung"
-  :downloads="8789"
+  :downloads="8791"
   :updated="1701332020000"
   repo="viduycheung/ticktick-obsidian"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 TickTick 是一个功能强大的 Obsidian 插件。
 
-Check and create tasks in TickTick.
+在 TickTick 中检查和创建任务。
 
 通过 TickTick,您可以:
 
@@ -202,7 +202,7 @@ Check and create tasks in TickTick.
 - **下载量**：8.8K
 - **最后更新**：2023-11-30
 - **GitHub**：[viduycheung/ticktick-obsidian](https://github.com/viduycheung/ticktick-obsidian)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

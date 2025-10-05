@@ -1,12 +1,12 @@
 ---
 title: Custom Classes
-description: Add your own HTML classes to chosen Markdown elements directly from your notes.
+description: 直接从笔记中为选定的 Markdown 元素添加自己的 HTML 类。
 author: Lila Rest
-downloads: 7892
+downloads: 7899
 updated: 1677331431000
 repo: LilaRest/obsidian-custom-classes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="custom-classes"
   name="Custom Classes"
-  description="Add your own HTML classes to chosen Markdown elements directly from your notes."
+  description="直接从笔记中为选定的 Markdown 元素添加自己的 HTML 类。"
   author="Lila Rest"
-  :downloads="7892"
+  :downloads="7899"
   :updated="1677331431000"
   repo="LilaRest/obsidian-custom-classes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Custom Classes 是一个功能强大的 Obsidian 插件。
 
-Add your own HTML classes to chosen Markdown elements directly from your notes.
+直接从笔记中为选定的 Markdown 元素添加自己的 HTML 类。
 
 通过 Custom Classes,您可以:
 
@@ -202,7 +202,7 @@ Add your own HTML classes to chosen Markdown elements directly from your notes.
 - **下载量**：7.9K
 - **最后更新**：2023-02-25
 - **GitHub**：[LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Ace Code Editor
 description: An enhanced code editor using Ace editor, providing syntax highlighting, code folding, and other advanced editing features.
 author: RavenHogWarts
-downloads: 2397
+downloads: 2410
 updated: 1755151524000
 repo: RavenHogWarts/obsidian-ace-code-editor
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Ace Code Editor"
   description="An enhanced code editor using Ace editor, providing syntax highlighting, code folding, and other advanced editing features."
   author="RavenHogWarts"
-  :downloads="2397"
+  :downloads="2410"
   :updated="1755151524000"
   repo="RavenHogWarts/obsidian-ace-code-editor"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ An enhanced code editor using Ace editor, providing syntax highlighting, code fo
 - **下载量**：2.4K
 - **最后更新**：2025-08-14
 - **GitHub**：[RavenHogWarts/obsidian-ace-code-editor](https://github.com/RavenHogWarts/obsidian-ace-code-editor)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

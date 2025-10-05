@@ -6,7 +6,7 @@ downloads: 917
 updated: 1709192885000
 repo: kingwrcy/obsidian-mblog
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1709192885000"
   repo="kingwrcy/obsidian-mblog"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ MBlog Publish 是一个功能强大的 Obsidian 插件。
 - **下载量**：917
 - **最后更新**：2024-02-29
 - **GitHub**：[kingwrcy/obsidian-mblog](https://github.com/kingwrcy/obsidian-mblog)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

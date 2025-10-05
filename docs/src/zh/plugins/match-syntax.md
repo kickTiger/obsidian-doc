@@ -2,11 +2,11 @@
 title: MatchSyntax
 description: A flexible, regex-like lookups for your notes.
 author: Eda
-downloads: 174
+downloads: 175
 updated: 1752406472000
 repo: rivea0/obsidian-match-syntax
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="MatchSyntax"
   description="A flexible, regex-like lookups for your notes."
   author="Eda"
-  :downloads="174"
+  :downloads="175"
   :updated="1752406472000"
   repo="rivea0/obsidian-match-syntax"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ A flexible, regex-like lookups for your notes.
 - **插件 ID**：match-syntax
 - **作者**：Eda
 - **当前版本**：v1.0.0
-- **下载量**：174
+- **下载量**：175
 - **最后更新**：2025-07-13
 - **GitHub**：[rivea0/obsidian-match-syntax](https://github.com/rivea0/obsidian-match-syntax)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

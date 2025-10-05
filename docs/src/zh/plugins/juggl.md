@@ -1,12 +1,12 @@
 ---
 title: Juggl
-description: Add a completely interactive, stylable and expandable graph view.
+description: 添加完全互动、可风格化和可扩展的图表视图。
 author: Emile van Krieken
-downloads: 102192
+downloads: 102269
 updated: 1699621029000
 repo: HEmile/juggl
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="juggl"
   name="Juggl"
-  description="Add a completely interactive, stylable and expandable graph view."
+  description="添加完全互动、可风格化和可扩展的图表视图。"
   author="Emile van Krieken"
-  :downloads="102192"
+  :downloads="102269"
   :updated="1699621029000"
   repo="HEmile/juggl"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Juggl 是一个功能强大的 Obsidian 插件。
 
-Add a completely interactive, stylable and expandable graph view.
+添加完全互动、可风格化和可扩展的图表视图。
 
 通过 Juggl,您可以:
 
@@ -199,10 +199,10 @@ Add a completely interactive, stylable and expandable graph view.
 - **插件 ID**：juggl
 - **作者**：Emile van Krieken
 - **当前版本**：v1.0.0
-- **下载量**：102.2K
+- **下载量**：102.3K
 - **最后更新**：2023-11-10
 - **GitHub**：[HEmile/juggl](https://github.com/HEmile/juggl)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

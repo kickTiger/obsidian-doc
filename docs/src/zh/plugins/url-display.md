@@ -1,12 +1,12 @@
 ---
 title: URL Display
-description: Extract and display external URLs of the note.
+description: 提取并显示注释的外部 URL。
 author: Stephanie Lin
-downloads: 4676
+downloads: 4677
 updated: 1701678701000
 repo: lin-stephanie/obsidian-url-display
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="url-display"
   name="URL Display"
-  description="Extract and display external URLs of the note."
+  description="提取并显示注释的外部 URL。"
   author="Stephanie Lin"
-  :downloads="4676"
+  :downloads="4677"
   :updated="1701678701000"
   repo="lin-stephanie/obsidian-url-display"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 URL Display 是一个功能强大的 Obsidian 插件。
 
-Extract and display external URLs of the note.
+提取并显示注释的外部 URL。
 
 通过 URL Display,您可以:
 
@@ -202,7 +202,7 @@ Extract and display external URLs of the note.
 - **下载量**：4.7K
 - **最后更新**：2023-12-04
 - **GitHub**：[lin-stephanie/obsidian-url-display](https://github.com/lin-stephanie/obsidian-url-display)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

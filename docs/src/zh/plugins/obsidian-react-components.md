@@ -1,12 +1,12 @@
 ---
 title: React Components
-description: Write and use React (Jsx) components in your notes.
+description: 在笔记中编写和使用 React (Jsx) 组件。
 author: Elias Sundqvist
-downloads: 21265
+downloads: 21273
 updated: 1642890372000
 repo: elias-sundqvist/obsidian-react-components
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-react-components"
   name="React Components"
-  description="Write and use React (Jsx) components in your notes."
+  description="在笔记中编写和使用 React (Jsx) 组件。"
   author="Elias Sundqvist"
-  :downloads="21265"
+  :downloads="21273"
   :updated="1642890372000"
   repo="elias-sundqvist/obsidian-react-components"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 React Components 是一个功能强大的 Obsidian 插件。
 
-Write and use React (Jsx) components in your notes.
+在笔记中编写和使用 React (Jsx) 组件。
 
 通过 React Components,您可以:
 
@@ -202,7 +202,7 @@ Write and use React (Jsx) components in your notes.
 - **下载量**：21.3K
 - **最后更新**：2022-01-23
 - **GitHub**：[elias-sundqvist/obsidian-react-components](https://github.com/elias-sundqvist/obsidian-react-components)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

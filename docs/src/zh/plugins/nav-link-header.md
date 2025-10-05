@@ -2,11 +2,11 @@
 title: Nav Link Header
 description: Display navigation links at the top of the notes.
 author: ahts4962
-downloads: 2080
+downloads: 2089
 updated: 1757581318000
 repo: ahts4962/nav-link-header
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Nav Link Header"
   description="Display navigation links at the top of the notes."
   author="ahts4962"
-  :downloads="2080"
+  :downloads="2089"
   :updated="1757581318000"
   repo="ahts4962/nav-link-header"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Display navigation links at the top of the notes.
 - **下载量**：2.1K
 - **最后更新**：2025-09-11
 - **GitHub**：[ahts4962/nav-link-header](https://github.com/ahts4962/nav-link-header)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

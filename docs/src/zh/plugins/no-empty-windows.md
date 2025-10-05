@@ -1,12 +1,12 @@
 ---
 title: No Empty Windows
-description: Close the window with cmd+W on macOS when the last tab is closed.
+description: 在 macOS 上关闭最后一个标签页时，用 cmd+W 关闭窗口。
 author: L Fahn-Lai
 downloads: 3825
 updated: 1677461504000
 repo: popscallion/obsidian-no-empty-windows
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="no-empty-windows"
   name="No Empty Windows"
-  description="Close the window with cmd+W on macOS when the last tab is closed."
+  description="在 macOS 上关闭最后一个标签页时，用 cmd+W 关闭窗口。"
   author="L Fahn-Lai"
   :downloads="3825"
   :updated="1677461504000"
   repo="popscallion/obsidian-no-empty-windows"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 No Empty Windows 是一个功能强大的 Obsidian 插件。
 
-Close the window with cmd+W on macOS when the last tab is closed.
+在 macOS 上关闭最后一个标签页时，用 cmd+W 关闭窗口。
 
 通过 No Empty Windows,您可以:
 
@@ -202,7 +202,7 @@ Close the window with cmd+W on macOS when the last tab is closed.
 - **下载量**：3.8K
 - **最后更新**：2023-02-27
 - **GitHub**：[popscallion/obsidian-no-empty-windows](https://github.com/popscallion/obsidian-no-empty-windows)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

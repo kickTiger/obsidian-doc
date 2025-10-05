@@ -1,12 +1,12 @@
 ---
 title: Personal Assistant
-description: AI-powered workflows to streamline the management of records, callouts, frontmatter, graph view, themes, and plugins.
+description: 人工智能驱动的工作流程，可简化记录、呼出、前置事项、图表视图、主题和插件的管理。
 author: edony
-downloads: 16115
+downloads: 16121
 updated: 1755082390000
 repo: edonyzpc/personal-assistant
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="personal-assistant"
   name="Personal Assistant"
-  description="AI-powered workflows to streamline the management of records, callouts, frontmatter, graph view, themes, and plugins."
+  description="人工智能驱动的工作流程，可简化记录、呼出、前置事项、图表视图、主题和插件的管理。"
   author="edony"
-  :downloads="16115"
+  :downloads="16121"
   :updated="1755082390000"
   repo="edonyzpc/personal-assistant"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Personal Assistant 是一个功能强大的 Obsidian 插件。
 
-AI-powered workflows to streamline the management of records, callouts, frontmatter, graph view, themes, and plugins.
+人工智能驱动的工作流程，可简化记录、呼出、前置事项、图表视图、主题和插件的管理。
 
 通过 Personal Assistant,您可以:
 
@@ -202,7 +202,7 @@ AI-powered workflows to streamline the management of records, callouts, frontmat
 - **下载量**：16.1K
 - **最后更新**：2025-08-13
 - **GitHub**：[edonyzpc/personal-assistant](https://github.com/edonyzpc/personal-assistant)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

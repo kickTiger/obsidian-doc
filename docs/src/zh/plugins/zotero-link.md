@@ -1,12 +1,12 @@
 ---
 title: Zotero Link
-description: Insert link to a Zotero item.
+description: 插入 Zotero 项目的链接。
 author: Shmavon Gazanchyan
-downloads: 12613
+downloads: 12621
 updated: 1729954778000
 repo: vanakat/zotero-link
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="zotero-link"
   name="Zotero Link"
-  description="Insert link to a Zotero item."
+  description="插入 Zotero 项目的链接。"
   author="Shmavon Gazanchyan"
-  :downloads="12613"
+  :downloads="12621"
   :updated="1729954778000"
   repo="vanakat/zotero-link"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Zotero Link 是一个功能强大的 Obsidian 插件。
 
-Insert link to a Zotero item.
+插入 Zotero 项目的链接。
 
 通过 Zotero Link,您可以:
 
@@ -202,7 +202,7 @@ Insert link to a Zotero item.
 - **下载量**：12.6K
 - **最后更新**：2024-10-26
 - **GitHub**：[vanakat/zotero-link](https://github.com/vanakat/zotero-link)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: cursor-goaway
-description: Hide the cursor after opening a note
+description: 打开笔记后隐藏光标
 author: Xuer
-downloads: 16876
+downloads: 16901
 updated: 1757502709000
 repo: liuxingyu521/obsidian-plugin-cursor-goaway
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cursor-goaway"
   name="cursor-goaway"
-  description="Hide the cursor after opening a note"
+  description="打开笔记后隐藏光标"
   author="Xuer"
-  :downloads="16876"
+  :downloads="16901"
   :updated="1757502709000"
   repo="liuxingyu521/obsidian-plugin-cursor-goaway"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 cursor-goaway 是一个功能强大的 Obsidian 插件。
 
-Hide the cursor after opening a note
+打开笔记后隐藏光标
 
 通过 cursor-goaway,您可以:
 
@@ -202,7 +202,7 @@ Hide the cursor after opening a note
 - **下载量**：16.9K
 - **最后更新**：2025-09-10
 - **GitHub**：[liuxingyu521/obsidian-plugin-cursor-goaway](https://github.com/liuxingyu521/obsidian-plugin-cursor-goaway)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

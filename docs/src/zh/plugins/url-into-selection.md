@@ -1,12 +1,12 @@
 ---
 title: Paste URL into selection
-description: 'Paste URL "into" selected text.'
+description: 将URL粘贴到选定文本中。
 author: Denis Olehov
-downloads: 386223
+downloads: 386739
 updated: 1756330969000
 repo: denolehov/obsidian-url-into-selection
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="url-into-selection"
   name="Paste URL into selection"
-  description="Paste URL &quot;into&quot; selected text."
+  description="将URL粘贴到选定文本中。"
   author="Denis Olehov"
-  :downloads="386223"
+  :downloads="386739"
   :updated="1756330969000"
   repo="denolehov/obsidian-url-into-selection"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Paste URL into selection 是一个功能强大的 Obsidian 插件。
 
-Paste URL &quot;into&quot; selected text.
+将URL粘贴到选定文本中。
 
 通过 Paste URL into selection,您可以:
 
@@ -199,10 +199,10 @@ Paste URL &quot;into&quot; selected text.
 - **插件 ID**：url-into-selection
 - **作者**：Denis Olehov
 - **当前版本**：v1.0.0
-- **下载量**：386.2K
+- **下载量**：386.7K
 - **最后更新**：2025-08-28
 - **GitHub**：[denolehov/obsidian-url-into-selection](https://github.com/denolehov/obsidian-url-into-selection)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

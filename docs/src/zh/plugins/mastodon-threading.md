@@ -6,7 +6,7 @@ downloads: 373
 updated: 1753119525000
 repo: elpamplina/mastodon-threading
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1753119525000"
   repo="elpamplina/mastodon-threading"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Compose and post threads to Mastodon.
 - **下载量**：373
 - **最后更新**：2025-07-22
 - **GitHub**：[elpamplina/mastodon-threading](https://github.com/elpamplina/mastodon-threading)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Omnivore
-description: Import your saved Omnivore articles and highlights.
+description: 导入您保存的 Omnivore 文章和要点。
 author: Omnivore
-downloads: 128859
+downloads: 128868
 updated: 1721103320000
 repo: omnivore-app/obsidian-omnivore
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-omnivore"
   name="Omnivore"
-  description="Import your saved Omnivore articles and highlights."
+  description="导入您保存的 Omnivore 文章和要点。"
   author="Omnivore"
-  :downloads="128859"
+  :downloads="128868"
   :updated="1721103320000"
   repo="omnivore-app/obsidian-omnivore"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Omnivore 是一个功能强大的 Obsidian 插件。
 
-Import your saved Omnivore articles and highlights.
+导入您保存的 Omnivore 文章和要点。
 
 通过 Omnivore,您可以:
 
@@ -202,7 +202,7 @@ Import your saved Omnivore articles and highlights.
 - **下载量**：128.9K
 - **最后更新**：2024-07-16
 - **GitHub**：[omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

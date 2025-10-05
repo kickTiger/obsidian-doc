@@ -1,12 +1,12 @@
 ---
 title: digital paper
-description: turn off backspace and undo, just like writing with a pen on real paper.
+description: 关闭退格和撤销，就像用笔在真正的纸上写字一样。
 author: Daniel Fernandes
 downloads: 4039
 updated: 1738486720000
 repo: danferns/digital-paper-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="digital-paper"
   name="digital paper"
-  description="turn off backspace and undo, just like writing with a pen on real paper."
+  description="关闭退格和撤销，就像用笔在真正的纸上写字一样。"
   author="Daniel Fernandes"
   :downloads="4039"
   :updated="1738486720000"
   repo="danferns/digital-paper-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 digital paper 是一个功能强大的 Obsidian 插件。
 
-turn off backspace and undo, just like writing with a pen on real paper.
+关闭退格和撤销，就像用笔在真正的纸上写字一样。
 
 通过 digital paper,您可以:
 
@@ -202,7 +202,7 @@ turn off backspace and undo, just like writing with a pen on real paper.
 - **下载量**：4.0K
 - **最后更新**：2025-02-02
 - **GitHub**：[danferns/digital-paper-obsidian-plugin](https://github.com/danferns/digital-paper-obsidian-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

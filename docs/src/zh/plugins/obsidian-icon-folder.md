@@ -1,12 +1,12 @@
 ---
 title: Iconize
-description: Add icons to anything in Obsidian, including files, folders, and text.
+description: 为 Obsidian 中的任何内容添加图标，包括文件、文件夹和文本。
 author: FlorianWoelki
-downloads: 1675049
+downloads: 1676317
 updated: 1735894995000
 repo: FlorianWoelki/obsidian-iconize
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-icon-folder"
   name="Iconize"
-  description="Add icons to anything in Obsidian, including files, folders, and text."
+  description="为 Obsidian 中的任何内容添加图标，包括文件、文件夹和文本。"
   author="FlorianWoelki"
-  :downloads="1675049"
+  :downloads="1676317"
   :updated="1735894995000"
   repo="FlorianWoelki/obsidian-iconize"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Iconize 是一个功能强大的 Obsidian 插件。
 
-Add icons to anything in Obsidian, including files, folders, and text.
+为 Obsidian 中的任何内容添加图标，包括文件、文件夹和文本。
 
 通过 Iconize,您可以:
 
@@ -202,7 +202,7 @@ Add icons to anything in Obsidian, including files, folders, and text.
 - **下载量**：1.68M
 - **最后更新**：2025-01-03
 - **GitHub**：[FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

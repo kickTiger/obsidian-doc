@@ -1,12 +1,12 @@
 ---
 title: Natural Language Syntax Highlighting
-description: Highlight adjectives, nouns, adverbs, verbs, and conjunctions in the editor.
+description: 突出编辑中的形容词、名词、副词、动词和连词。
 author: artisticat
-downloads: 17091
+downloads: 17101
 updated: 1733400175000
 repo: artisticat1/nl-syntax-highlighting
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="nl-syntax-highlighting"
   name="Natural Language Syntax Highlighting"
-  description="Highlight adjectives, nouns, adverbs, verbs, and conjunctions in the editor."
+  description="突出编辑中的形容词、名词、副词、动词和连词。"
   author="artisticat"
-  :downloads="17091"
+  :downloads="17101"
   :updated="1733400175000"
   repo="artisticat1/nl-syntax-highlighting"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Natural Language Syntax Highlighting 是一个功能强大的 Obsidian 插件。
 
-Highlight adjectives, nouns, adverbs, verbs, and conjunctions in the editor.
+突出编辑中的形容词、名词、副词、动词和连词。
 
 通过 Natural Language Syntax Highlighting,您可以:
 
@@ -202,7 +202,7 @@ Highlight adjectives, nouns, adverbs, verbs, and conjunctions in the editor.
 - **下载量**：17.1K
 - **最后更新**：2024-12-05
 - **GitHub**：[artisticat1/nl-syntax-highlighting](https://github.com/artisticat1/nl-syntax-highlighting)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

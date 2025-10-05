@@ -6,7 +6,7 @@ downloads: 155
 updated: 1740326053000
 repo: alberto98fx/idle-monitor-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1740326053000"
   repo="alberto98fx/idle-monitor-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Get notified when you stop typing to stay motivated.
 - **下载量**：155
 - **最后更新**：2025-02-23
 - **GitHub**：[alberto98fx/idle-monitor-obsidian](https://github.com/alberto98fx/idle-monitor-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

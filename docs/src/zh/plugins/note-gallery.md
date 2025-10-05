@@ -1,12 +1,12 @@
 ---
 title: Note Gallery
-description: A masonry gallery that will visualize your notes, similar to Craft note view.
+description: 类似于 Craft 笔记视图的砖石图库，可将笔记可视化。
 author: Pash Shocky
-downloads: 24194
+downloads: 24241
 updated: 1732452776000
 repo: pashashocky/obsidian-note-gallery
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="note-gallery"
   name="Note Gallery"
-  description="A masonry gallery that will visualize your notes, similar to Craft note view."
+  description="类似于 Craft 笔记视图的砖石图库，可将笔记可视化。"
   author="Pash Shocky"
-  :downloads="24194"
+  :downloads="24241"
   :updated="1732452776000"
   repo="pashashocky/obsidian-note-gallery"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note Gallery 是一个功能强大的 Obsidian 插件。
 
-A masonry gallery that will visualize your notes, similar to Craft note view.
+类似于 Craft 笔记视图的砖石图库，可将笔记可视化。
 
 通过 Note Gallery,您可以:
 
@@ -202,7 +202,7 @@ A masonry gallery that will visualize your notes, similar to Craft note view.
 - **下载量**：24.2K
 - **最后更新**：2024-11-24
 - **GitHub**：[pashashocky/obsidian-note-gallery](https://github.com/pashashocky/obsidian-note-gallery)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

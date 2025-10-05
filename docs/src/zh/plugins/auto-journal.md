@@ -1,12 +1,12 @@
 ---
 title: Auto Journal
-description: 'Opinionated journaling automation like daily notes but with backfills for the days when Obsidian wasn''t opened.'
+description: 观点式日志自动化，就像每日笔记一样，但在黑曜石没有打开的日子里会进行回填。
 author: Evan Bonsignori
-downloads: 5066
+downloads: 5071
 updated: 1759030509000
 repo: Ebonsignori/obsidian-auto-journal
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-journal"
   name="Auto Journal"
-  description="Opinionated journaling automation like daily notes but with backfills for the days when Obsidian wasn&#39;t opened."
+  description="观点式日志自动化，就像每日笔记一样，但在黑曜石没有打开的日子里会进行回填。"
   author="Evan Bonsignori"
-  :downloads="5066"
+  :downloads="5071"
   :updated="1759030509000"
   repo="Ebonsignori/obsidian-auto-journal"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Journal 是一个功能强大的 Obsidian 插件。
 
-Opinionated journaling automation like daily notes but with backfills for the days when Obsidian wasn&#39;t opened.
+观点式日志自动化，就像每日笔记一样，但在黑曜石没有打开的日子里会进行回填。
 
 通过 Auto Journal,您可以:
 
@@ -202,7 +202,7 @@ Opinionated journaling automation like daily notes but with backfills for the da
 - **下载量**：5.1K
 - **最后更新**：2025-09-28
 - **GitHub**：[Ebonsignori/obsidian-auto-journal](https://github.com/Ebonsignori/obsidian-auto-journal)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

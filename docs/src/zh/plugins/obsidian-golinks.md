@@ -1,12 +1,12 @@
 ---
 title: GoLinks
-description: Render go/links as clickable links.
+description: 将转到/链接渲染为可点击链接。
 author: 'David Brownman (@xavdid)'
 downloads: 4190
 updated: 1745813545000
 repo: xavdid/obsidian-golinks
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-golinks"
   name="GoLinks"
-  description="Render go/links as clickable links."
+  description="将转到/链接渲染为可点击链接。"
   author="David Brownman (@xavdid)"
   :downloads="4190"
   :updated="1745813545000"
   repo="xavdid/obsidian-golinks"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 GoLinks 是一个功能强大的 Obsidian 插件。
 
-Render go/links as clickable links.
+将转到/链接渲染为可点击链接。
 
 通过 GoLinks,您可以:
 
@@ -202,7 +202,7 @@ Render go/links as clickable links.
 - **下载量**：4.2K
 - **最后更新**：2025-04-28
 - **GitHub**：[xavdid/obsidian-golinks](https://github.com/xavdid/obsidian-golinks)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

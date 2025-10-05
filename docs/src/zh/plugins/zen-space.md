@@ -2,11 +2,11 @@
 title: Zen Space
 description: An enhanced file explorer showing relevant only relevant files when required.
 author: Aditya Amatya
-downloads: 2133
+downloads: 2142
 updated: 1749266261000
 repo: amatya-aditya/obsidian-zen-space
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Zen Space"
   description="An enhanced file explorer showing relevant only relevant files when required."
   author="Aditya Amatya"
-  :downloads="2133"
+  :downloads="2142"
   :updated="1749266261000"
   repo="amatya-aditya/obsidian-zen-space"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ An enhanced file explorer showing relevant only relevant files when required.
 - **下载量**：2.1K
 - **最后更新**：2025-06-07
 - **GitHub**：[amatya-aditya/obsidian-zen-space](https://github.com/amatya-aditya/obsidian-zen-space)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

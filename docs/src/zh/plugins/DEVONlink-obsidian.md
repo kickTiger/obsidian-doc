@@ -1,12 +1,12 @@
 ---
 title: DEVONlink
-description: Open or reveal the current note in DEVONthink.
+description: 在 DEVONthink 中打开或显示当前笔记。
 author: ryanjamurphy
-downloads: 9019
+downloads: 9020
 updated: 1624043241000
 repo: ryanjamurphy/DEVONlink-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="DEVONlink-obsidian"
   name="DEVONlink"
-  description="Open or reveal the current note in DEVONthink."
+  description="在 DEVONthink 中打开或显示当前笔记。"
   author="ryanjamurphy"
-  :downloads="9019"
+  :downloads="9020"
   :updated="1624043241000"
   repo="ryanjamurphy/DEVONlink-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 DEVONlink 是一个功能强大的 Obsidian 插件。
 
-Open or reveal the current note in DEVONthink.
+在 DEVONthink 中打开或显示当前笔记。
 
 通过 DEVONlink,您可以:
 
@@ -202,7 +202,7 @@ Open or reveal the current note in DEVONthink.
 - **下载量**：9.0K
 - **最后更新**：2021-06-19
 - **GitHub**：[ryanjamurphy/DEVONlink-obsidian](https://github.com/ryanjamurphy/DEVONlink-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

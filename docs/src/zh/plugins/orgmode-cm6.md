@@ -1,12 +1,12 @@
 ---
 title: Orgmode (CM6)
-description: Edit Orgmode files.
+description: 编辑 Orgmode 文件
 author: Benoit Bazard
-downloads: 4958
+downloads: 4965
 updated: 1743858784000
 repo: BBazard/obsidian-orgmode-cm6
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="orgmode-cm6"
   name="Orgmode (CM6)"
-  description="Edit Orgmode files."
+  description="编辑 Orgmode 文件"
   author="Benoit Bazard"
-  :downloads="4958"
+  :downloads="4965"
   :updated="1743858784000"
   repo="BBazard/obsidian-orgmode-cm6"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Orgmode (CM6) 是一个功能强大的 Obsidian 插件。
 
-Edit Orgmode files.
+编辑 Orgmode 文件
 
 通过 Orgmode (CM6),您可以:
 
@@ -202,7 +202,7 @@ Edit Orgmode files.
 - **下载量**：5.0K
 - **最后更新**：2025-04-05
 - **GitHub**：[BBazard/obsidian-orgmode-cm6](https://github.com/BBazard/obsidian-orgmode-cm6)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

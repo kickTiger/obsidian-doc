@@ -1,12 +1,12 @@
 ---
 title: Bulk open selected links
-description: Easily open all selected links in edit mode.
+description: 在编辑模式下轻松打开所有选定链接。
 author: Steven Jin
-downloads: 3861
+downloads: 3862
 updated: 1681743879000
 repo: autohub7/obsidian-open-selected-links
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="bulkopen-selected-links"
   name="Bulk open selected links"
-  description="Easily open all selected links in edit mode."
+  description="在编辑模式下轻松打开所有选定链接。"
   author="Steven Jin"
-  :downloads="3861"
+  :downloads="3862"
   :updated="1681743879000"
   repo="autohub7/obsidian-open-selected-links"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Bulk open selected links 是一个功能强大的 Obsidian 插件。
 
-Easily open all selected links in edit mode.
+在编辑模式下轻松打开所有选定链接。
 
 通过 Bulk open selected links,您可以:
 
@@ -202,7 +202,7 @@ Easily open all selected links in edit mode.
 - **下载量**：3.9K
 - **最后更新**：2023-04-17
 - **GitHub**：[autohub7/obsidian-open-selected-links](https://github.com/autohub7/obsidian-open-selected-links)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Anki Integration
 description: Create flashcards from your notes with a seamless interface, structuring them with metadata and syncing effortlessly via AnkiConnect.
 author: Noah Boos AKA Rift
-downloads: 1058
+downloads: 1059
 updated: 1749987821000
 repo: NoahBoos/obsidian-anki-integration
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Anki Integration"
   description="Create flashcards from your notes with a seamless interface, structuring them with metadata and syncing effortlessly via AnkiConnect."
   author="Noah Boos AKA Rift"
-  :downloads="1058"
+  :downloads="1059"
   :updated="1749987821000"
   repo="NoahBoos/obsidian-anki-integration"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create flashcards from your notes with a seamless interface, structuring them wi
 - **下载量**：1.1K
 - **最后更新**：2025-06-15
 - **GitHub**：[NoahBoos/obsidian-anki-integration](https://github.com/NoahBoos/obsidian-anki-integration)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

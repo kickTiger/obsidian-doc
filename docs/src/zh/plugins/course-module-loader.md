@@ -2,11 +2,11 @@
 title: Course Module Loader
 description: Downloads and unzips course module zip files from a URL into a specified vault folder, skipping existing files.
 author: Sebastian Kamilli
-downloads: 247
+downloads: 249
 updated: 1749712844000
 repo: QuintSmart/obsidian-course-module-loader
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Course Module Loader"
   description="Downloads and unzips course module zip files from a URL into a specified vault folder, skipping existing files."
   author="Sebastian Kamilli"
-  :downloads="247"
+  :downloads="249"
   :updated="1749712844000"
   repo="QuintSmart/obsidian-course-module-loader"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Downloads and unzips course module zip files from a URL into a specified vault f
 - **插件 ID**：course-module-loader
 - **作者**：Sebastian Kamilli
 - **当前版本**：v1.0.0
-- **下载量**：247
+- **下载量**：249
 - **最后更新**：2025-06-12
 - **GitHub**：[QuintSmart/obsidian-course-module-loader](https://github.com/QuintSmart/obsidian-course-module-loader)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

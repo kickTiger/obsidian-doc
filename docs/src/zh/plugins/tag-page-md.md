@@ -1,12 +1,12 @@
 ---
 title: Tag Page
-description: 'Dynamically generate and update tag-specific pages, offering a consolidated view of each tag''s references across your vault.'
+description: 动态生成和更新特定标签的页面，提供整个数据库中每个标签引用的综合视图。
 author: Matthew Sumpter
-downloads: 9945
+downloads: 9950
 updated: 1741321905000
 repo: mjsumpter/obsidian-tag-page
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tag-page-md"
   name="Tag Page"
-  description="Dynamically generate and update tag-specific pages, offering a consolidated view of each tag&#39;s references across your vault."
+  description="动态生成和更新特定标签的页面，提供整个数据库中每个标签引用的综合视图。"
   author="Matthew Sumpter"
-  :downloads="9945"
+  :downloads="9950"
   :updated="1741321905000"
   repo="mjsumpter/obsidian-tag-page"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tag Page 是一个功能强大的 Obsidian 插件。
 
-Dynamically generate and update tag-specific pages, offering a consolidated view of each tag&#39;s references across your vault.
+动态生成和更新特定标签的页面，提供整个数据库中每个标签引用的综合视图。
 
 通过 Tag Page,您可以:
 
@@ -202,7 +202,7 @@ Dynamically generate and update tag-specific pages, offering a consolidated view
 - **下载量**：9.9K
 - **最后更新**：2025-03-07
 - **GitHub**：[mjsumpter/obsidian-tag-page](https://github.com/mjsumpter/obsidian-tag-page)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Fantasy name generator
-description: Insert a random fantasy name.
+description: 随机插入一个幻想的名字。
 author: Lukewh
-downloads: 26578
+downloads: 26598
 updated: 1692107893000
 repo: Lukewh/fantasy-name
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="fantasy-name"
   name="Fantasy name generator"
-  description="Insert a random fantasy name."
+  description="随机插入一个幻想的名字。"
   author="Lukewh"
-  :downloads="26578"
+  :downloads="26598"
   :updated="1692107893000"
   repo="Lukewh/fantasy-name"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Fantasy name generator 是一个功能强大的 Obsidian 插件。
 
-Insert a random fantasy name.
+随机插入一个幻想的名字。
 
 通过 Fantasy name generator,您可以:
 
@@ -202,7 +202,7 @@ Insert a random fantasy name.
 - **下载量**：26.6K
 - **最后更新**：2023-08-15
 - **GitHub**：[Lukewh/fantasy-name](https://github.com/Lukewh/fantasy-name)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

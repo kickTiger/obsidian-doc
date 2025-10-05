@@ -6,7 +6,7 @@ downloads: 1079
 updated: 1705040541000
 repo: seanrcollings/orion-publish-plugin
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1705040541000"
   repo="seanrcollings/orion-publish-plugin"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Quickly and easily publish your notes to the web with Orion Publish.
 - **下载量**：1.1K
 - **最后更新**：2024-01-12
 - **GitHub**：[seanrcollings/orion-publish-plugin](https://github.com/seanrcollings/orion-publish-plugin)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

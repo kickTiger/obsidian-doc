@@ -2,11 +2,11 @@
 title: Cursor Bridge
 description: Seamlessly bridge your notes with Cursor, the AI-powered code editor.
 author: Adam Cloud
-downloads: 2494
+downloads: 2497
 updated: 1740068748000
 repo: lengff123/cursor-bridge
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Cursor Bridge"
   description="Seamlessly bridge your notes with Cursor, the AI-powered code editor."
   author="Adam Cloud"
-  :downloads="2494"
+  :downloads="2497"
   :updated="1740068748000"
   repo="lengff123/cursor-bridge"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Seamlessly bridge your notes with Cursor, the AI-powered code editor.
 - **下载量**：2.5K
 - **最后更新**：2025-02-21
 - **GitHub**：[lengff123/cursor-bridge](https://github.com/lengff123/cursor-bridge)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

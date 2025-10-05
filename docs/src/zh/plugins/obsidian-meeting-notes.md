@@ -1,12 +1,12 @@
 ---
 title: Meeting notes
-description: Automatically create meeting notes in a specified folder.
+description: 在指定文件夹中自动创建会议记录。
 author: Tim Hiller
 downloads: 7658
 updated: 1726188362000
 repo: TimHi/obsidian-meeting-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-meeting-notes"
   name="Meeting notes"
-  description="Automatically create meeting notes in a specified folder."
+  description="在指定文件夹中自动创建会议记录。"
   author="Tim Hiller"
   :downloads="7658"
   :updated="1726188362000"
   repo="TimHi/obsidian-meeting-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Meeting notes 是一个功能强大的 Obsidian 插件。
 
-Automatically create meeting notes in a specified folder.
+在指定文件夹中自动创建会议记录。
 
 通过 Meeting notes,您可以:
 
@@ -202,7 +202,7 @@ Automatically create meeting notes in a specified folder.
 - **下载量**：7.7K
 - **最后更新**：2024-09-13
 - **GitHub**：[TimHi/obsidian-meeting-notes](https://github.com/TimHi/obsidian-meeting-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

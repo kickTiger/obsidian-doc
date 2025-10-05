@@ -1,12 +1,12 @@
 ---
 title: Multi-Column Markdown
-description: Create Markdown documents with multiple columns of content viewable in reading mode.
+description: 创建可在阅读模式下查看多列内容的 Markdown 文档。
 author: Cameron Robinson
-downloads: 170804
+downloads: 170902
 updated: 1705297017000
 repo: ckRobinson/multi-column-markdown
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="multi-column-markdown"
   name="Multi-Column Markdown"
-  description="Create Markdown documents with multiple columns of content viewable in reading mode."
+  description="创建可在阅读模式下查看多列内容的 Markdown 文档。"
   author="Cameron Robinson"
-  :downloads="170804"
+  :downloads="170902"
   :updated="1705297017000"
   repo="ckRobinson/multi-column-markdown"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Multi-Column Markdown 是一个功能强大的 Obsidian 插件。
 
-Create Markdown documents with multiple columns of content viewable in reading mode.
+创建可在阅读模式下查看多列内容的 Markdown 文档。
 
 通过 Multi-Column Markdown,您可以:
 
@@ -199,10 +199,10 @@ Create Markdown documents with multiple columns of content viewable in reading m
 - **插件 ID**：multi-column-markdown
 - **作者**：Cameron Robinson
 - **当前版本**：v1.0.0
-- **下载量**：170.8K
+- **下载量**：170.9K
 - **最后更新**：2024-01-15
 - **GitHub**：[ckRobinson/multi-column-markdown](https://github.com/ckRobinson/multi-column-markdown)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

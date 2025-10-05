@@ -1,12 +1,12 @@
 ---
 title: Dashboard navigator
-description: Vault dashboard and navigator. Show recent files by type, files per day, week, month, search files by name, date, tags and more.
+description: Vault 面板和导航器。按类型显示最近的文件，按日、周、月显示文件，按名称、日期、标签等搜索文件。
 author: Bernardo Pires
-downloads: 43546
+downloads: 43635
 updated: 1757379814000
 repo: drbap/dashboard-navigator-for-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="dashboard-navigator"
   name="Dashboard navigator"
-  description="Vault dashboard and navigator. Show recent files by type, files per day, week, month, search files by name, date, tags and more."
+  description="Vault 面板和导航器。按类型显示最近的文件，按日、周、月显示文件，按名称、日期、标签等搜索文件。"
   author="Bernardo Pires"
-  :downloads="43546"
+  :downloads="43635"
   :updated="1757379814000"
   repo="drbap/dashboard-navigator-for-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dashboard navigator 是一个功能强大的 Obsidian 插件。
 
-Vault dashboard and navigator. Show recent files by type, files per day, week, month, search files by name, date, tags and more.
+Vault 面板和导航器。按类型显示最近的文件，按日、周、月显示文件，按名称、日期、标签等搜索文件。
 
 通过 Dashboard navigator,您可以:
 
@@ -199,10 +199,10 @@ Vault dashboard and navigator. Show recent files by type, files per day, week, m
 - **插件 ID**：dashboard-navigator
 - **作者**：Bernardo Pires
 - **当前版本**：v1.0.0
-- **下载量**：43.5K
+- **下载量**：43.6K
 - **最后更新**：2025-09-09
 - **GitHub**：[drbap/dashboard-navigator-for-obsidian](https://github.com/drbap/dashboard-navigator-for-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Wikidata Importer
-description: Import data from Wikidata into your vault.
+description: 从 Wikidata 将数据导入你的保险库。
 author: Sam Rose
-downloads: 5635
+downloads: 5637
 updated: 1743184698000
 repo: samwho/obsidian-wikidata-importer
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="wikidata-importer"
   name="Wikidata Importer"
-  description="Import data from Wikidata into your vault."
+  description="从 Wikidata 将数据导入你的保险库。"
   author="Sam Rose"
-  :downloads="5635"
+  :downloads="5637"
   :updated="1743184698000"
   repo="samwho/obsidian-wikidata-importer"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Wikidata Importer 是一个功能强大的 Obsidian 插件。
 
-Import data from Wikidata into your vault.
+从 Wikidata 将数据导入你的保险库。
 
 通过 Wikidata Importer,您可以:
 
@@ -202,7 +202,7 @@ Import data from Wikidata into your vault.
 - **下载量**：5.6K
 - **最后更新**：2025-03-29
 - **GitHub**：[samwho/obsidian-wikidata-importer](https://github.com/samwho/obsidian-wikidata-importer)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

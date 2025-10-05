@@ -1,12 +1,12 @@
 ---
 title: Short links
-description: Display short internal links to files, notes, headings, and blocks.
+description: 显示指向文件、注释、标题和区块的简短内部链接。
 author: Scott Moore
-downloads: 12047
+downloads: 12054
 updated: 1697364424000
 repo: scottwillmoore/obsidian-short-links
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="short-internal-links-to-headings"
   name="Short links"
-  description="Display short internal links to files, notes, headings, and blocks."
+  description="显示指向文件、注释、标题和区块的简短内部链接。"
   author="Scott Moore"
-  :downloads="12047"
+  :downloads="12054"
   :updated="1697364424000"
   repo="scottwillmoore/obsidian-short-links"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Short links 是一个功能强大的 Obsidian 插件。
 
-Display short internal links to files, notes, headings, and blocks.
+显示指向文件、注释、标题和区块的简短内部链接。
 
 通过 Short links,您可以:
 
@@ -199,10 +199,10 @@ Display short internal links to files, notes, headings, and blocks.
 - **插件 ID**：short-internal-links-to-headings
 - **作者**：Scott Moore
 - **当前版本**：v1.0.0
-- **下载量**：12.0K
+- **下载量**：12.1K
 - **最后更新**：2023-10-15
 - **GitHub**：[scottwillmoore/obsidian-short-links](https://github.com/scottwillmoore/obsidian-short-links)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

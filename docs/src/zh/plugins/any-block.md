@@ -1,12 +1,12 @@
 ---
 title: AnyBlock
-description: 'Take any fragment as a block and render it into multiple effects. You can select a section by list/heading/table/quote/codeBlock/markdown-it-container(`:::`), and turn into table/tabs/dir/cards/column/mindmap/mermaid/PlantUML/markmap/timeLine/jsonChart/nodeTree and more.'
+description: '将任何片段作为一个块，并将其渲染成多种效果。您可以通过 list/heading/table/quote/codeBlock/markdown-it-container(`:::`) 选择一个片段，并将其变成 table/tabs/dir/cards/column/mindmap/mermaid/PlantUML/markmap/timeLine/jsonChart/nodeTree 等。'
 author: LincZero
-downloads: 41956
+downloads: 42011
 updated: 1757080038000
 repo: any-block/any-block
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="any-block"
   name="AnyBlock"
-  description="Take any fragment as a block and render it into multiple effects. You can select a section by list/heading/table/quote/codeBlock/markdown-it-container(`:::`), and turn into table/tabs/dir/cards/column/mindmap/mermaid/PlantUML/markmap/timeLine/jsonChart/nodeTree and more."
+  description="将任何片段作为一个块，并将其渲染成多种效果。您可以通过 list/heading/table/quote/codeBlock/markdown-it-container(`:::`) 选择一个片段，并将其变成 table/tabs/dir/cards/column/mindmap/mermaid/PlantUML/markmap/timeLine/jsonChart/nodeTree 等。"
   author="LincZero"
-  :downloads="41956"
+  :downloads="42011"
   :updated="1757080038000"
   repo="any-block/any-block"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AnyBlock 是一个功能强大的 Obsidian 插件。
 
-Take any fragment as a block and render it into multiple effects. You can select a section by list/heading/table/quote/codeBlock/markdown-it-container(`:::`), and turn into table/tabs/dir/cards/column/mindmap/mermaid/PlantUML/markmap/timeLine/jsonChart/nodeTree and more.
+将任何片段作为一个块，并将其渲染成多种效果。您可以通过 list/heading/table/quote/codeBlock/markdown-it-container(`:::`) 选择一个片段，并将其变成 table/tabs/dir/cards/column/mindmap/mermaid/PlantUML/markmap/timeLine/jsonChart/nodeTree 等。
 
 通过 AnyBlock,您可以:
 
@@ -202,7 +202,7 @@ Take any fragment as a block and render it into multiple effects. You can select
 - **下载量**：42.0K
 - **最后更新**：2025-09-05
 - **GitHub**：[any-block/any-block](https://github.com/any-block/any-block)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

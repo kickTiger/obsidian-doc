@@ -1,12 +1,12 @@
 ---
 title: Tracker+
-description: Track and visualize data from your notes. Works with Tracker Markdown.
+description: 跟踪并可视化笔记中的数据。支持 Tracker Markdown。
 author: GreaterThan (original by pyrochlore)
-downloads: 5261
+downloads: 5264
 updated: 1696785499000
 repo: greater-than/Obsidian-Tracker-Plus
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tracker-plus"
   name="Tracker+"
-  description="Track and visualize data from your notes. Works with Tracker Markdown."
+  description="跟踪并可视化笔记中的数据。支持 Tracker Markdown。"
   author="GreaterThan (original by pyrochlore)"
-  :downloads="5261"
+  :downloads="5264"
   :updated="1696785499000"
   repo="greater-than/Obsidian-Tracker-Plus"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tracker+ 是一个功能强大的 Obsidian 插件。
 
-Track and visualize data from your notes. Works with Tracker Markdown.
+跟踪并可视化笔记中的数据。支持 Tracker Markdown。
 
 通过 Tracker+,您可以:
 
@@ -202,7 +202,7 @@ Track and visualize data from your notes. Works with Tracker Markdown.
 - **下载量**：5.3K
 - **最后更新**：2023-10-09
 - **GitHub**：[greater-than/Obsidian-Tracker-Plus](https://github.com/greater-than/Obsidian-Tracker-Plus)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

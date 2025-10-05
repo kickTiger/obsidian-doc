@@ -1,12 +1,12 @@
 ---
 title: Vocabulary Cards
-description: An easy way to display vocabulary words as flashcards and as a list.
+description: 以闪存卡和列表的形式显示生词的简便方法。
 author: Eugene Myazin
-downloads: 5745
+downloads: 5749
 updated: 1696021999000
 repo: meniam/obsidian-vocabulary-cards
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vocabulary-cards"
   name="Vocabulary Cards"
-  description="An easy way to display vocabulary words as flashcards and as a list."
+  description="以闪存卡和列表的形式显示生词的简便方法。"
   author="Eugene Myazin"
-  :downloads="5745"
+  :downloads="5749"
   :updated="1696021999000"
   repo="meniam/obsidian-vocabulary-cards"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vocabulary Cards 是一个功能强大的 Obsidian 插件。
 
-An easy way to display vocabulary words as flashcards and as a list.
+以闪存卡和列表的形式显示生词的简便方法。
 
 通过 Vocabulary Cards,您可以:
 
@@ -202,7 +202,7 @@ An easy way to display vocabulary words as flashcards and as a list.
 - **下载量**：5.7K
 - **最后更新**：2023-09-30
 - **GitHub**：[meniam/obsidian-vocabulary-cards](https://github.com/meniam/obsidian-vocabulary-cards)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Reading View Enhancer
-description: Use arrow keys to navigate between text blocks and fold/unfold elements.
+description: 使用箭头键在文本块之间导航，并折叠/展开元素。
 author: Galacsh
-downloads: 6741
+downloads: 6744
 updated: 1739094362000
 repo: Galacsh/obsidian-reading-view-enhancer
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="reading-view-enhancer"
   name="Reading View Enhancer"
-  description="Use arrow keys to navigate between text blocks and fold/unfold elements."
+  description="使用箭头键在文本块之间导航，并折叠/展开元素。"
   author="Galacsh"
-  :downloads="6741"
+  :downloads="6744"
   :updated="1739094362000"
   repo="Galacsh/obsidian-reading-view-enhancer"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Reading View Enhancer 是一个功能强大的 Obsidian 插件。
 
-Use arrow keys to navigate between text blocks and fold/unfold elements.
+使用箭头键在文本块之间导航，并折叠/展开元素。
 
 通过 Reading View Enhancer,您可以:
 
@@ -202,7 +202,7 @@ Use arrow keys to navigate between text blocks and fold/unfold elements.
 - **下载量**：6.7K
 - **最后更新**：2025-02-09
 - **GitHub**：[Galacsh/obsidian-reading-view-enhancer](https://github.com/Galacsh/obsidian-reading-view-enhancer)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

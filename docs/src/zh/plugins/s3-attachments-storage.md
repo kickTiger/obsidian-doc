@@ -1,12 +1,12 @@
 ---
 title: S3 attachments storage
-description: Storage and retrieval of media attachments on S3 compatible services.
+description: 在 S3 兼容服务上存储和检索媒体附件。
 author: TechTheAwesome
 downloads: 3819
 updated: 1686473973000
 repo: ttax00/obsidian-s3
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="s3-attachments-storage"
   name="S3 attachments storage"
-  description="Storage and retrieval of media attachments on S3 compatible services."
+  description="在 S3 兼容服务上存储和检索媒体附件。"
   author="TechTheAwesome"
   :downloads="3819"
   :updated="1686473973000"
   repo="ttax00/obsidian-s3"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 S3 attachments storage 是一个功能强大的 Obsidian 插件。
 
-Storage and retrieval of media attachments on S3 compatible services.
+在 S3 兼容服务上存储和检索媒体附件。
 
 通过 S3 attachments storage,您可以:
 
@@ -202,7 +202,7 @@ Storage and retrieval of media attachments on S3 compatible services.
 - **下载量**：3.8K
 - **最后更新**：2023-06-11
 - **GitHub**：[ttax00/obsidian-s3](https://github.com/ttax00/obsidian-s3)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

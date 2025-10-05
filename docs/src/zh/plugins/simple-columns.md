@@ -1,12 +1,12 @@
 ---
 title: Simple Columns
-description: Create and manage columns in your notes effortlessly, featuring customizable columns with easy-to-resize widths.
+description: 在笔记中毫不费力地创建和管理列，具有宽度易于调整的自定义列。
 author: Josie
-downloads: 6830
+downloads: 6877
 updated: 1758473251000
 repo: Josie1902/Simple-Columns
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="simple-columns"
   name="Simple Columns"
-  description="Create and manage columns in your notes effortlessly, featuring customizable columns with easy-to-resize widths."
+  description="在笔记中毫不费力地创建和管理列，具有宽度易于调整的自定义列。"
   author="Josie"
-  :downloads="6830"
+  :downloads="6877"
   :updated="1758473251000"
   repo="Josie1902/Simple-Columns"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Simple Columns 是一个功能强大的 Obsidian 插件。
 
-Create and manage columns in your notes effortlessly, featuring customizable columns with easy-to-resize widths.
+在笔记中毫不费力地创建和管理列，具有宽度易于调整的自定义列。
 
 通过 Simple Columns,您可以:
 
@@ -199,10 +199,10 @@ Create and manage columns in your notes effortlessly, featuring customizable col
 - **插件 ID**：simple-columns
 - **作者**：Josie
 - **当前版本**：v1.0.0
-- **下载量**：6.8K
+- **下载量**：6.9K
 - **最后更新**：2025-09-22
 - **GitHub**：[Josie1902/Simple-Columns](https://github.com/Josie1902/Simple-Columns)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

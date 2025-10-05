@@ -1,12 +1,12 @@
 ---
 title: Tabs
-description: Create tabs in your notes.
+description: 在笔记中创建标签。
 author: Huajin
-downloads: 18801
+downloads: 18831
 updated: 1722438925000
 repo: xhuajin/obsidian-tabs
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tabs"
   name="Tabs"
-  description="Create tabs in your notes."
+  description="在笔记中创建标签。"
   author="Huajin"
-  :downloads="18801"
+  :downloads="18831"
   :updated="1722438925000"
   repo="xhuajin/obsidian-tabs"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tabs 是一个功能强大的 Obsidian 插件。
 
-Create tabs in your notes.
+在笔记中创建标签。
 
 通过 Tabs,您可以:
 
@@ -202,7 +202,7 @@ Create tabs in your notes.
 - **下载量**：18.8K
 - **最后更新**：2024-07-31
 - **GitHub**：[xhuajin/obsidian-tabs](https://github.com/xhuajin/obsidian-tabs)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

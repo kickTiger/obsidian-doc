@@ -1,12 +1,12 @@
 ---
 title: Persian Calendar
-description: Persian Calendar for managing periodic notes based on persian solar (shamsi) calendar.
+description: 波斯日历，用于管理基于波斯阳历（shamsi）的定期笔记。
 author: Hossein Maleknejad
-downloads: 5696
+downloads: 5699
 updated: 1724146032000
 repo: maleknejad/obsidian-persian-calendar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="persian-calendar"
   name="Persian Calendar"
-  description="Persian Calendar for managing periodic notes based on persian solar (shamsi) calendar."
+  description="波斯日历，用于管理基于波斯阳历（shamsi）的定期笔记。"
   author="Hossein Maleknejad"
-  :downloads="5696"
+  :downloads="5699"
   :updated="1724146032000"
   repo="maleknejad/obsidian-persian-calendar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Persian Calendar 是一个功能强大的 Obsidian 插件。
 
-Persian Calendar for managing periodic notes based on persian solar (shamsi) calendar.
+波斯日历，用于管理基于波斯阳历（shamsi）的定期笔记。
 
 通过 Persian Calendar,您可以:
 
@@ -202,7 +202,7 @@ Persian Calendar for managing periodic notes based on persian solar (shamsi) cal
 - **下载量**：5.7K
 - **最后更新**：2024-08-20
 - **GitHub**：[maleknejad/obsidian-persian-calendar](https://github.com/maleknejad/obsidian-persian-calendar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Légifrance Intégration
 description: 'Intégration de l''API Légifrance.'
 author: hurj
-downloads: 436
+downloads: 437
 updated: 1739900582000
 repo: carnetdethese/legifrance-integration
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Légifrance Intégration"
   description="Intégration de l&#39;API Légifrance."
   author="hurj"
-  :downloads="436"
+  :downloads="437"
   :updated="1739900582000"
   repo="carnetdethese/legifrance-integration"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Intégration de l&#39;API Légifrance.
 - **插件 ID**：legifrance-integration
 - **作者**：hurj
 - **当前版本**：v1.0.0
-- **下载量**：436
+- **下载量**：437
 - **最后更新**：2025-02-19
 - **GitHub**：[carnetdethese/legifrance-integration](https://github.com/carnetdethese/legifrance-integration)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

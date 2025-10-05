@@ -1,12 +1,12 @@
 ---
 title: Material Symbols
-description: 'Add Google''s Material Symbols (outlined).'
+description: 添加谷歌材质符号（概述）。
 author: Cristoph Berane
-downloads: 4238
+downloads: 4240
 updated: 1675669937000
 repo: cberane/obsidian-material-symbols
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="material-symbols"
   name="Material Symbols"
-  description="Add Google&#39;s Material Symbols (outlined)."
+  description="添加谷歌材质符号（概述）。"
   author="Cristoph Berane"
-  :downloads="4238"
+  :downloads="4240"
   :updated="1675669937000"
   repo="cberane/obsidian-material-symbols"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Material Symbols 是一个功能强大的 Obsidian 插件。
 
-Add Google&#39;s Material Symbols (outlined).
+添加谷歌材质符号（概述）。
 
 通过 Material Symbols,您可以:
 
@@ -202,7 +202,7 @@ Add Google&#39;s Material Symbols (outlined).
 - **下载量**：4.2K
 - **最后更新**：2023-02-06
 - **GitHub**：[cberane/obsidian-material-symbols](https://github.com/cberane/obsidian-material-symbols)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

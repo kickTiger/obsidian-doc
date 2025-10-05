@@ -1,12 +1,12 @@
 ---
 title: Lineage
-description: A writing interface that combines structure and content. Inspired by Gingko Writer.
+description: 结构与内容相结合的写作界面。灵感来自 Gingko Writer。
 author: ycnmhd
-downloads: 15567
+downloads: 15593
 updated: 1755559576000
 repo: ycnmhd/obsidian-lineage
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="lineage"
   name="Lineage"
-  description="A writing interface that combines structure and content. Inspired by Gingko Writer."
+  description="结构与内容相结合的写作界面。灵感来自 Gingko Writer。"
   author="ycnmhd"
-  :downloads="15567"
+  :downloads="15593"
   :updated="1755559576000"
   repo="ycnmhd/obsidian-lineage"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Lineage 是一个功能强大的 Obsidian 插件。
 
-A writing interface that combines structure and content. Inspired by Gingko Writer.
+结构与内容相结合的写作界面。灵感来自 Gingko Writer。
 
 通过 Lineage,您可以:
 
@@ -202,7 +202,7 @@ A writing interface that combines structure and content. Inspired by Gingko Writ
 - **下载量**：15.6K
 - **最后更新**：2025-08-19
 - **GitHub**：[ycnmhd/obsidian-lineage](https://github.com/ycnmhd/obsidian-lineage)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

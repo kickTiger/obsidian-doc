@@ -1,12 +1,12 @@
 ---
 title: Notion Video Embed
-description: Embed Notion videos.
+description: 嵌入 Notion 视频。
 author: lastknightcoder
 downloads: 4325
 updated: 1664034640000
 repo: LastKnightCoder/obsidian-notion-video
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-notion-video"
   name="Notion Video Embed"
-  description="Embed Notion videos."
+  description="嵌入 Notion 视频。"
   author="lastknightcoder"
   :downloads="4325"
   :updated="1664034640000"
   repo="LastKnightCoder/obsidian-notion-video"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Notion Video Embed 是一个功能强大的 Obsidian 插件。
 
-Embed Notion videos.
+嵌入 Notion 视频。
 
 通过 Notion Video Embed,您可以:
 
@@ -202,7 +202,7 @@ Embed Notion videos.
 - **下载量**：4.3K
 - **最后更新**：2022-09-24
 - **GitHub**：[LastKnightCoder/obsidian-notion-video](https://github.com/LastKnightCoder/obsidian-notion-video)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: User Plugins
-description: Use js files or snippets to code your own quick and dirty plugins.
+description: 使用 js 文件或片段来编写自己的快速插件。
 author: mnowotnik
-downloads: 5539
+downloads: 5540
 updated: 1731769147000
 repo: mnowotnik/obsidian-user-plugins
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-user-plugins"
   name="User Plugins"
-  description="Use js files or snippets to code your own quick and dirty plugins."
+  description="使用 js 文件或片段来编写自己的快速插件。"
   author="mnowotnik"
-  :downloads="5539"
+  :downloads="5540"
   :updated="1731769147000"
   repo="mnowotnik/obsidian-user-plugins"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 User Plugins 是一个功能强大的 Obsidian 插件。
 
-Use js files or snippets to code your own quick and dirty plugins.
+使用 js 文件或片段来编写自己的快速插件。
 
 通过 User Plugins,您可以:
 
@@ -202,7 +202,7 @@ Use js files or snippets to code your own quick and dirty plugins.
 - **下载量**：5.5K
 - **最后更新**：2024-11-16
 - **GitHub**：[mnowotnik/obsidian-user-plugins](https://github.com/mnowotnik/obsidian-user-plugins)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

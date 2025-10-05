@@ -1,12 +1,12 @@
 ---
 title: Advanced Cursors
-description: Use multiple cursors even more powerfully.
+description: 使用多个光标，功能更强大
 author: SkepticMystic
-downloads: 17426
+downloads: 17431
 updated: 1641667629000
 repo: SkepticMystic/advanced-cursors
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="advanced-cursors"
   name="Advanced Cursors"
-  description="Use multiple cursors even more powerfully."
+  description="使用多个光标，功能更强大"
   author="SkepticMystic"
-  :downloads="17426"
+  :downloads="17431"
   :updated="1641667629000"
   repo="SkepticMystic/advanced-cursors"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Advanced Cursors 是一个功能强大的 Obsidian 插件。
 
-Use multiple cursors even more powerfully.
+使用多个光标，功能更强大
 
 通过 Advanced Cursors,您可以:
 
@@ -202,7 +202,7 @@ Use multiple cursors even more powerfully.
 - **下载量**：17.4K
 - **最后更新**：2022-01-09
 - **GitHub**：[SkepticMystic/advanced-cursors](https://github.com/SkepticMystic/advanced-cursors)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

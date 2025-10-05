@@ -1,12 +1,12 @@
 ---
 title: Edit Gemini
-description: Edit and create .gmi files.
+description: 编辑和创建 .gmi 文件。
 author: Basil_Mori
 downloads: 3579
 updated: 1666546200000
 repo: Basil-Mori/obsidian-edit-gemini
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="edit-gemini"
   name="Edit Gemini"
-  description="Edit and create .gmi files."
+  description="编辑和创建 .gmi 文件。"
   author="Basil_Mori"
   :downloads="3579"
   :updated="1666546200000"
   repo="Basil-Mori/obsidian-edit-gemini"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Edit Gemini 是一个功能强大的 Obsidian 插件。
 
-Edit and create .gmi files.
+编辑和创建 .gmi 文件。
 
 通过 Edit Gemini,您可以:
 
@@ -202,7 +202,7 @@ Edit and create .gmi files.
 - **下载量**：3.6K
 - **最后更新**：2022-10-24
 - **GitHub**：[Basil-Mori/obsidian-edit-gemini](https://github.com/Basil-Mori/obsidian-edit-gemini)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Mixa
-description: Publish your notes and blog posts with Mixa.
+description: 使用 Mixa 发布您的笔记和博文。
 author: Mixa Team
-downloads: 4145
+downloads: 4148
 updated: 1714370302000
 repo: mixasite/obsidian-mixa
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mixa"
   name="Mixa"
-  description="Publish your notes and blog posts with Mixa."
+  description="使用 Mixa 发布您的笔记和博文。"
   author="Mixa Team"
-  :downloads="4145"
+  :downloads="4148"
   :updated="1714370302000"
   repo="mixasite/obsidian-mixa"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mixa 是一个功能强大的 Obsidian 插件。
 
-Publish your notes and blog posts with Mixa.
+使用 Mixa 发布您的笔记和博文。
 
 通过 Mixa,您可以:
 
@@ -202,7 +202,7 @@ Publish your notes and blog posts with Mixa.
 - **下载量**：4.1K
 - **最后更新**：2024-04-29
 - **GitHub**：[mixasite/obsidian-mixa](https://github.com/mixasite/obsidian-mixa)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

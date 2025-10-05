@@ -1,12 +1,12 @@
 ---
 title: Screwdriver
-description: Utility to put any files in and out under your vault.
+description: 将任何文件放入或取出保险库的实用程序。
 author: vorotamoroz
 downloads: 4740
 updated: 1745982349000
 repo: vrtmrz/obsidian-screwdriver
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-screwdriver"
   name="Screwdriver"
-  description="Utility to put any files in and out under your vault."
+  description="将任何文件放入或取出保险库的实用程序。"
   author="vorotamoroz"
   :downloads="4740"
   :updated="1745982349000"
   repo="vrtmrz/obsidian-screwdriver"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Screwdriver 是一个功能强大的 Obsidian 插件。
 
-Utility to put any files in and out under your vault.
+将任何文件放入或取出保险库的实用程序。
 
 通过 Screwdriver,您可以:
 
@@ -202,7 +202,7 @@ Utility to put any files in and out under your vault.
 - **下载量**：4.7K
 - **最后更新**：2025-04-30
 - **GitHub**：[vrtmrz/obsidian-screwdriver](https://github.com/vrtmrz/obsidian-screwdriver)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

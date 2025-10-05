@@ -1,12 +1,12 @@
 ---
 title: ibook
-description: Export your Apple iBook highlights and annotations into your vault.
+description: 将 Apple iBook 的重点内容和注释导出到你的资料库。
 author: bingryan
 downloads: 13105
 updated: 1690771816000
 repo: bingryan/obsidian-ibook-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ibook"
   name="ibook"
-  description="Export your Apple iBook highlights and annotations into your vault."
+  description="将 Apple iBook 的重点内容和注释导出到你的资料库。"
   author="bingryan"
   :downloads="13105"
   :updated="1690771816000"
   repo="bingryan/obsidian-ibook-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ibook 是一个功能强大的 Obsidian 插件。
 
-Export your Apple iBook highlights and annotations into your vault.
+将 Apple iBook 的重点内容和注释导出到你的资料库。
 
 通过 ibook,您可以:
 
@@ -202,7 +202,7 @@ Export your Apple iBook highlights and annotations into your vault.
 - **下载量**：13.1K
 - **最后更新**：2023-07-31
 - **GitHub**：[bingryan/obsidian-ibook-plugin](https://github.com/bingryan/obsidian-ibook-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

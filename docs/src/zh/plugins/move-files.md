@@ -2,11 +2,11 @@
 title: Move Files
 description: Moves all the files linked to a open md file to a folder and updates the link in md file.
 author: Nitish Khurana
-downloads: 429
+downloads: 430
 updated: 1758087703000
 repo: nitishkhurana/obsidian-move-files-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Move Files"
   description="Moves all the files linked to a open md file to a folder and updates the link in md file."
   author="Nitish Khurana"
-  :downloads="429"
+  :downloads="430"
   :updated="1758087703000"
   repo="nitishkhurana/obsidian-move-files-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Moves all the files linked to a open md file to a folder and updates the link in
 - **插件 ID**：move-files
 - **作者**：Nitish Khurana
 - **当前版本**：v1.0.0
-- **下载量**：429
+- **下载量**：430
 - **最后更新**：2025-09-17
 - **GitHub**：[nitishkhurana/obsidian-move-files-plugin](https://github.com/nitishkhurana/obsidian-move-files-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

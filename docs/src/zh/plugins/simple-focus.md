@@ -6,7 +6,7 @@ downloads: 943
 updated: 1731972454000
 repo: linqing24/obsidian-simple-focus
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1731972454000"
   repo="linqing24/obsidian-simple-focus"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Allows you to focus on a specific file or folder
 - **下载量**：943
 - **最后更新**：2024-11-19
 - **GitHub**：[linqing24/obsidian-simple-focus](https://github.com/linqing24/obsidian-simple-focus)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

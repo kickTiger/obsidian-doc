@@ -6,7 +6,7 @@ downloads: 459
 updated: 1738253444000
 repo: finnromaneessen/obsidian-sankey
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1738253444000"
   repo="finnromaneessen/obsidian-sankey"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create Sankey diagrams in your notes.
 - **下载量**：459
 - **最后更新**：2025-01-31
 - **GitHub**：[finnromaneessen/obsidian-sankey](https://github.com/finnromaneessen/obsidian-sankey)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

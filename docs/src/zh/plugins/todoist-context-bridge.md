@@ -2,11 +2,11 @@
 title: Todoist Context Bridge
 description: Bridge your note-taking and Todoist task management workflows with contextual connections. Seamlessly integrate with Dataview and Tasks plugins.
 author: wenlzhang
-downloads: 2698
+downloads: 2704
 updated: 1754085985000
 repo: wenlzhang/obsidian-todoist-context-bridge
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Todoist Context Bridge"
   description="Bridge your note-taking and Todoist task management workflows with contextual connections. Seamlessly integrate with Dataview and Tasks plugins."
   author="wenlzhang"
-  :downloads="2698"
+  :downloads="2704"
   :updated="1754085985000"
   repo="wenlzhang/obsidian-todoist-context-bridge"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Bridge your note-taking and Todoist task management workflows with contextual co
 - **下载量**：2.7K
 - **最后更新**：2025-08-02
 - **GitHub**：[wenlzhang/obsidian-todoist-context-bridge](https://github.com/wenlzhang/obsidian-todoist-context-bridge)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Dust Calendar
 description: 更符合中国习惯的日历，可以显示农历、节气、节假日、调休信息，支持月视图和年视图切换，支持关联创建周期性笔记。
 author: 纳米级尘埃
-downloads: 9347
+downloads: 9363
 updated: 1718643770000
 repo: a-nano-dust/dust-obsidian-calendar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Dust Calendar"
   description="更符合中国习惯的日历，可以显示农历、节气、节假日、调休信息，支持月视图和年视图切换，支持关联创建周期性笔记。"
   author="纳米级尘埃"
-  :downloads="9347"
+  :downloads="9363"
   :updated="1718643770000"
   repo="a-nano-dust/dust-obsidian-calendar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Dust Calendar 是一个功能强大的 Obsidian 插件。
 - **插件 ID**：dust-calendar
 - **作者**：纳米级尘埃
 - **当前版本**：v1.0.0
-- **下载量**：9.3K
+- **下载量**：9.4K
 - **最后更新**：2024-06-18
 - **GitHub**：[a-nano-dust/dust-obsidian-calendar](https://github.com/a-nano-dust/dust-obsidian-calendar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

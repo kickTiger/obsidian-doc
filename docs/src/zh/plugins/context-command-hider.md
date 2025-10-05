@@ -2,11 +2,11 @@
 title: Context Command Hider
 description: Hide any command from the right-click menu.
 author: Mara-Li
-downloads: 1482
+downloads: 1495
 updated: 1737222343000
 repo: Mara-Li/obsidian-context-menu-hider
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Context Command Hider"
   description="Hide any command from the right-click menu."
   author="Mara-Li"
-  :downloads="1482"
+  :downloads="1495"
   :updated="1737222343000"
   repo="Mara-Li/obsidian-context-menu-hider"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Hide any command from the right-click menu.
 - **下载量**：1.5K
 - **最后更新**：2025-01-19
 - **GitHub**：[Mara-Li/obsidian-context-menu-hider](https://github.com/Mara-Li/obsidian-context-menu-hider)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

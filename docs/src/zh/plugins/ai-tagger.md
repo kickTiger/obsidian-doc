@@ -1,12 +1,12 @@
 ---
 title: AI Tagger
-description: Simplify tagging. Instantly analyze and tag your document with one click for efficient note organization. OpenAI API key required.
+description: 简化标记。只需单击一下，即可立即分析并标记您的文档，实现高效的笔记组织。需要 OpenAI API 密钥。
 author: Luca Grippa
-downloads: 10875
+downloads: 10887
 updated: 1735330061000
 repo: lucagrippa/obsidian-ai-tagger
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ai-tagger"
   name="AI Tagger"
-  description="Simplify tagging. Instantly analyze and tag your document with one click for efficient note organization. OpenAI API key required."
+  description="简化标记。只需单击一下，即可立即分析并标记您的文档，实现高效的笔记组织。需要 OpenAI API 密钥。"
   author="Luca Grippa"
-  :downloads="10875"
+  :downloads="10887"
   :updated="1735330061000"
   repo="lucagrippa/obsidian-ai-tagger"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AI Tagger 是一个功能强大的 Obsidian 插件。
 
-Simplify tagging. Instantly analyze and tag your document with one click for efficient note organization. OpenAI API key required.
+简化标记。只需单击一下，即可立即分析并标记您的文档，实现高效的笔记组织。需要 OpenAI API 密钥。
 
 通过 AI Tagger,您可以:
 
@@ -202,7 +202,7 @@ Simplify tagging. Instantly analyze and tag your document with one click for eff
 - **下载量**：10.9K
 - **最后更新**：2024-12-28
 - **GitHub**：[lucagrippa/obsidian-ai-tagger](https://github.com/lucagrippa/obsidian-ai-tagger)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

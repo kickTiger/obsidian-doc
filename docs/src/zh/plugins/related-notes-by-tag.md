@@ -2,11 +2,11 @@
 title: Related Notes by Tag
 description: Displays list of notes in the sidebar that share tags with the currently active note.
 author: Chris Howard
-downloads: 1781
+downloads: 1791
 updated: 1757403954000
 repo: chrishoward-projects/related-notes-by-tag
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Related Notes by Tag"
   description="Displays list of notes in the sidebar that share tags with the currently active note."
   author="Chris Howard"
-  :downloads="1781"
+  :downloads="1791"
   :updated="1757403954000"
   repo="chrishoward-projects/related-notes-by-tag"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Displays list of notes in the sidebar that share tags with the currently active 
 - **下载量**：1.8K
 - **最后更新**：2025-09-09
 - **GitHub**：[chrishoward-projects/related-notes-by-tag](https://github.com/chrishoward-projects/related-notes-by-tag)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

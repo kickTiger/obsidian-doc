@@ -2,11 +2,11 @@
 title: Easy Timeline
 description: This simplifies creating and visualizing timelines from text using dates and metadata.
 author: Romeliun
-downloads: 1698
+downloads: 1705
 updated: 1737540524000
 repo: Romelium/obsidian-easy-timeline
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Easy Timeline"
   description="This simplifies creating and visualizing timelines from text using dates and metadata."
   author="Romeliun"
-  :downloads="1698"
+  :downloads="1705"
   :updated="1737540524000"
   repo="Romelium/obsidian-easy-timeline"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ This simplifies creating and visualizing timelines from text using dates and met
 - **下载量**：1.7K
 - **最后更新**：2025-01-22
 - **GitHub**：[Romelium/obsidian-easy-timeline](https://github.com/Romelium/obsidian-easy-timeline)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

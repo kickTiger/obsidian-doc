@@ -6,7 +6,7 @@ downloads: 826
 updated: 1714151075000
 repo: privet-kitty/obsidian-blogger
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1714151075000"
   repo="privet-kitty/obsidian-blogger"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish notes to Google Blogger.
 - **下载量**：826
 - **最后更新**：2024-04-27
 - **GitHub**：[privet-kitty/obsidian-blogger](https://github.com/privet-kitty/obsidian-blogger)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

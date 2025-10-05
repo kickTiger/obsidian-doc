@@ -1,12 +1,12 @@
 ---
 title: Completed Task Display
-description: Controls for displaying or hiding completed tasks.
+description: 用于显示或隐藏已完成任务的控件。
 author: Ben Lee-Cohen
-downloads: 50391
+downloads: 50403
 updated: 1752862619000
 repo: heliostatic/completed-task-display
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="completed-task-display"
   name="Completed Task Display"
-  description="Controls for displaying or hiding completed tasks."
+  description="用于显示或隐藏已完成任务的控件。"
   author="Ben Lee-Cohen"
-  :downloads="50391"
+  :downloads="50403"
   :updated="1752862619000"
   repo="heliostatic/completed-task-display"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Completed Task Display 是一个功能强大的 Obsidian 插件。
 
-Controls for displaying or hiding completed tasks.
+用于显示或隐藏已完成任务的控件。
 
 通过 Completed Task Display,您可以:
 
@@ -202,7 +202,7 @@ Controls for displaying or hiding completed tasks.
 - **下载量**：50.4K
 - **最后更新**：2025-07-19
 - **GitHub**：[heliostatic/completed-task-display](https://github.com/heliostatic/completed-task-display)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

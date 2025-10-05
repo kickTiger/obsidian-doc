@@ -6,7 +6,7 @@ downloads: 520
 updated: 1721703454000
 repo: Lord-Turmoil/heading-toggler-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1721703454000"
   repo="Lord-Turmoil/heading-toggler-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily toggle heading levels in Markdown documents with shortcuts.
 - **下载量**：520
 - **最后更新**：2024-07-23
 - **GitHub**：[Lord-Turmoil/heading-toggler-obsidian](https://github.com/Lord-Turmoil/heading-toggler-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

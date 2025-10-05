@@ -1,12 +1,12 @@
 ---
 title: Multi Tag
-description: Add tags to multiple notes at once. Either right-click a folder, or select multiple notes and right-click the selection.
+description: 一次为多个笔记添加标签右键单击文件夹，或选择多个笔记并右键单击选中内容。
 author: fez-github
-downloads: 15291
+downloads: 15314
 updated: 1701224051000
 repo: technohiker/obsidian-multi-tag
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="multi-tag"
   name="Multi Tag"
-  description="Add tags to multiple notes at once. Either right-click a folder, or select multiple notes and right-click the selection."
+  description="一次为多个笔记添加标签右键单击文件夹，或选择多个笔记并右键单击选中内容。"
   author="fez-github"
-  :downloads="15291"
+  :downloads="15314"
   :updated="1701224051000"
   repo="technohiker/obsidian-multi-tag"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Multi Tag 是一个功能强大的 Obsidian 插件。
 
-Add tags to multiple notes at once. Either right-click a folder, or select multiple notes and right-click the selection.
+一次为多个笔记添加标签右键单击文件夹，或选择多个笔记并右键单击选中内容。
 
 通过 Multi Tag,您可以:
 
@@ -202,7 +202,7 @@ Add tags to multiple notes at once. Either right-click a folder, or select multi
 - **下载量**：15.3K
 - **最后更新**：2023-11-29
 - **GitHub**：[technohiker/obsidian-multi-tag](https://github.com/technohiker/obsidian-multi-tag)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Gemmy
-description: 'Obsidian Unhelper. 2023 April Fool''s plugin brought to you by Obsidian.'
+description: 黑曜石解救者。黑曜石为您带来 2023 年愚人节插件。
 author: Obsidian
-downloads: 5875
+downloads: 5900
 updated: 1759431763000
 repo: ericaxu/gemmy
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gemmy"
   name="Gemmy"
-  description="Obsidian Unhelper. 2023 April Fool&#39;s plugin brought to you by Obsidian."
+  description="黑曜石解救者。黑曜石为您带来 2023 年愚人节插件。"
   author="Obsidian"
-  :downloads="5875"
+  :downloads="5900"
   :updated="1759431763000"
   repo="ericaxu/gemmy"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Gemmy 是一个功能强大的 Obsidian 插件。
 
-Obsidian Unhelper. 2023 April Fool&#39;s plugin brought to you by Obsidian.
+黑曜石解救者。黑曜石为您带来 2023 年愚人节插件。
 
 通过 Gemmy,您可以:
 
@@ -202,7 +202,7 @@ Obsidian Unhelper. 2023 April Fool&#39;s plugin brought to you by Obsidian.
 - **下载量**：5.9K
 - **最后更新**：2025-10-03
 - **GitHub**：[ericaxu/gemmy](https://github.com/ericaxu/gemmy)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Map View
-description: An interactive map view for your notes.
+description: 在交互式地图上查看笔记。
 author: esm
-downloads: 105217
+downloads: 105362
 updated: 1757859358000
 repo: esm7/obsidian-map-view
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-map-view"
   name="Map View"
-  description="An interactive map view for your notes."
+  description="在交互式地图上查看笔记。"
   author="esm"
-  :downloads="105217"
+  :downloads="105362"
   :updated="1757859358000"
   repo="esm7/obsidian-map-view"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Map View 是一个功能强大的 Obsidian 插件。
 
-An interactive map view for your notes.
+在交互式地图上查看笔记。
 
 通过 Map View,您可以:
 
@@ -199,10 +199,10 @@ An interactive map view for your notes.
 - **插件 ID**：obsidian-map-view
 - **作者**：esm
 - **当前版本**：v1.0.0
-- **下载量**：105.2K
+- **下载量**：105.4K
 - **最后更新**：2025-09-14
 - **GitHub**：[esm7/obsidian-map-view](https://github.com/esm7/obsidian-map-view)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

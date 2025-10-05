@@ -1,12 +1,12 @@
 ---
 title: Link Converter
-description: Scan all your links in the vault and convert them to your desired format.
+description: 扫描保险库中的所有链接，并将其转换为所需格式。
 author: Ozan Tellioglu
-downloads: 26454
+downloads: 26465
 updated: 1707594311000
 repo: ozntel/obsidian-link-converter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-link-converter"
   name="Link Converter"
-  description="Scan all your links in the vault and convert them to your desired format."
+  description="扫描保险库中的所有链接，并将其转换为所需格式。"
   author="Ozan Tellioglu"
-  :downloads="26454"
+  :downloads="26465"
   :updated="1707594311000"
   repo="ozntel/obsidian-link-converter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Link Converter 是一个功能强大的 Obsidian 插件。
 
-Scan all your links in the vault and convert them to your desired format.
+扫描保险库中的所有链接，并将其转换为所需格式。
 
 通过 Link Converter,您可以:
 
@@ -202,7 +202,7 @@ Scan all your links in the vault and convert them to your desired format.
 - **下载量**：26.5K
 - **最后更新**：2024-02-11
 - **GitHub**：[ozntel/obsidian-link-converter](https://github.com/ozntel/obsidian-link-converter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Generate Hash
 description: Generates a cryptographically strong pseudorandom hash.
 author: zigahertz
-downloads: 592
+downloads: 594
 updated: 1714080002000
 repo: zigahertz/obsidian-hash
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Generate Hash"
   description="Generates a cryptographically strong pseudorandom hash."
   author="zigahertz"
-  :downloads="592"
+  :downloads="594"
   :updated="1714080002000"
   repo="zigahertz/obsidian-hash"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Generates a cryptographically strong pseudorandom hash.
 - **插件 ID**：generate-hash
 - **作者**：zigahertz
 - **当前版本**：v1.0.0
-- **下载量**：592
+- **下载量**：594
 - **最后更新**：2024-04-26
 - **GitHub**：[zigahertz/obsidian-hash](https://github.com/zigahertz/obsidian-hash)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

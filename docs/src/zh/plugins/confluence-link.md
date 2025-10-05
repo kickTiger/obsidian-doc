@@ -6,7 +6,7 @@ downloads: 1508
 updated: 1736533182000
 repo: BungaRazvan/confluence-link
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1736533182000"
   repo="BungaRazvan/confluence-link"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Upload files to Confluence pages
 - **下载量**：1.5K
 - **最后更新**：2025-01-11
 - **GitHub**：[BungaRazvan/confluence-link](https://github.com/BungaRazvan/confluence-link)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

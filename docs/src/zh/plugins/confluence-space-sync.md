@@ -2,11 +2,11 @@
 title: Confluence Space Sync
 description: Sync entire Confluence spaces in your Vault.
 author: Pwnyprod
-downloads: 621
+downloads: 622
 updated: 1728418381000
 repo: pwnyprod/obsidian-confluence-space-sync-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Confluence Space Sync"
   description="Sync entire Confluence spaces in your Vault."
   author="Pwnyprod"
-  :downloads="621"
+  :downloads="622"
   :updated="1728418381000"
   repo="pwnyprod/obsidian-confluence-space-sync-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Sync entire Confluence spaces in your Vault.
 - **插件 ID**：confluence-space-sync
 - **作者**：Pwnyprod
 - **当前版本**：v1.0.0
-- **下载量**：621
+- **下载量**：622
 - **最后更新**：2024-10-09
 - **GitHub**：[pwnyprod/obsidian-confluence-space-sync-plugin](https://github.com/pwnyprod/obsidian-confluence-space-sync-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

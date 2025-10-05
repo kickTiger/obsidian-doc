@@ -1,12 +1,12 @@
 ---
 title: Quoth
-description: More flexible embedding. Embed precise selections, inline embeds, optionally include author and title.
+description: 更灵活的嵌入。嵌入精确选择、内嵌嵌入，可选择包含作者和标题。
 author: Eric Rykwalder
-downloads: 7097
+downloads: 7099
 updated: 1688046014000
 repo: erykwalder/quoth
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quoth"
   name="Quoth"
-  description="More flexible embedding. Embed precise selections, inline embeds, optionally include author and title."
+  description="更灵活的嵌入。嵌入精确选择、内嵌嵌入，可选择包含作者和标题。"
   author="Eric Rykwalder"
-  :downloads="7097"
+  :downloads="7099"
   :updated="1688046014000"
   repo="erykwalder/quoth"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quoth 是一个功能强大的 Obsidian 插件。
 
-More flexible embedding. Embed precise selections, inline embeds, optionally include author and title.
+更灵活的嵌入。嵌入精确选择、内嵌嵌入，可选择包含作者和标题。
 
 通过 Quoth,您可以:
 
@@ -202,7 +202,7 @@ More flexible embedding. Embed precise selections, inline embeds, optionally inc
 - **下载量**：7.1K
 - **最后更新**：2023-06-29
 - **GitHub**：[erykwalder/quoth](https://github.com/erykwalder/quoth)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

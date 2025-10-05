@@ -2,11 +2,11 @@
 title: GitHub Integration
 description: Sync your data from GitHub into your Vault.
 author: Kirill Zhuravlev
-downloads: 825
+downloads: 829
 updated: 1756565523000
 repo: kazhuravlev/obsidian-github
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="GitHub Integration"
   description="Sync your data from GitHub into your Vault."
   author="Kirill Zhuravlev"
-  :downloads="825"
+  :downloads="829"
   :updated="1756565523000"
   repo="kazhuravlev/obsidian-github"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Sync your data from GitHub into your Vault.
 - **插件 ID**：github
 - **作者**：Kirill Zhuravlev
 - **当前版本**：v1.0.0
-- **下载量**：825
+- **下载量**：829
 - **最后更新**：2025-08-30
 - **GitHub**：[kazhuravlev/obsidian-github](https://github.com/kazhuravlev/obsidian-github)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

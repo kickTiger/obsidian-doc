@@ -1,12 +1,12 @@
 ---
 title: Smart ChatGPT
-description: 'Integrate OpenAI''s ChatGPT seamlessly in notes. Automatically saves links, allows marking threads as done, and integrates with Dataview.'
+description: 在笔记中无缝集成 OpenAI 的 ChatGPT。自动保存链接，允许标记已完成的线程，并与 Dataview 集成。
 author: 🌴 Brian
-downloads: 7947
+downloads: 7966
 updated: 1753964206000
 repo: brianpetro/smart-chatgpt-obsidian
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smart-chatgpt"
   name="Smart ChatGPT"
-  description="Integrate OpenAI&#39;s ChatGPT seamlessly in notes. Automatically saves links, allows marking threads as done, and integrates with Dataview."
+  description="在笔记中无缝集成 OpenAI 的 ChatGPT。自动保存链接，允许标记已完成的线程，并与 Dataview 集成。"
   author="🌴 Brian"
-  :downloads="7947"
+  :downloads="7966"
   :updated="1753964206000"
   repo="brianpetro/smart-chatgpt-obsidian"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart ChatGPT 是一个功能强大的 Obsidian 插件。
 
-Integrate OpenAI&#39;s ChatGPT seamlessly in notes. Automatically saves links, allows marking threads as done, and integrates with Dataview.
+在笔记中无缝集成 OpenAI 的 ChatGPT。自动保存链接，允许标记已完成的线程，并与 Dataview 集成。
 
 通过 Smart ChatGPT,您可以:
 
@@ -199,10 +199,10 @@ Integrate OpenAI&#39;s ChatGPT seamlessly in notes. Automatically saves links, a
 - **插件 ID**：smart-chatgpt
 - **作者**：🌴 Brian
 - **当前版本**：v1.0.0
-- **下载量**：7.9K
+- **下载量**：8.0K
 - **最后更新**：2025-07-31
 - **GitHub**：[brianpetro/smart-chatgpt-obsidian](https://github.com/brianpetro/smart-chatgpt-obsidian)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Autocorrect Formatter
-description: Format Markdown content using Autocorrect.
+description: 使用自动更正功能对 Markdown 内容进行格式化。
 author: b-yp
-downloads: 5682
+downloads: 5689
 updated: 1704783975000
 repo: b-yp/obsidian-autocorrect
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="autocorrect-formatter"
   name="Autocorrect Formatter"
-  description="Format Markdown content using Autocorrect."
+  description="使用自动更正功能对 Markdown 内容进行格式化。"
   author="b-yp"
-  :downloads="5682"
+  :downloads="5689"
   :updated="1704783975000"
   repo="b-yp/obsidian-autocorrect"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Autocorrect Formatter 是一个功能强大的 Obsidian 插件。
 
-Format Markdown content using Autocorrect.
+使用自动更正功能对 Markdown 内容进行格式化。
 
 通过 Autocorrect Formatter,您可以:
 
@@ -202,7 +202,7 @@ Format Markdown content using Autocorrect.
 - **下载量**：5.7K
 - **最后更新**：2024-01-09
 - **GitHub**：[b-yp/obsidian-autocorrect](https://github.com/b-yp/obsidian-autocorrect)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

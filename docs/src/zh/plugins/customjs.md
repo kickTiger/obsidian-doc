@@ -1,12 +1,12 @@
 ---
 title: CustomJS
-description: Reuse custom JavaScript across desktop and mobile.
+description: 在桌面和移动设备上重复使用自定义 JavaScript。
 author: Sam Lewis
-downloads: 48414
+downloads: 48442
 updated: 1717722297000
 repo: saml-dev/obsidian-custom-js
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="customjs"
   name="CustomJS"
-  description="Reuse custom JavaScript across desktop and mobile."
+  description="在桌面和移动设备上重复使用自定义 JavaScript。"
   author="Sam Lewis"
-  :downloads="48414"
+  :downloads="48442"
   :updated="1717722297000"
   repo="saml-dev/obsidian-custom-js"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 CustomJS 是一个功能强大的 Obsidian 插件。
 
-Reuse custom JavaScript across desktop and mobile.
+在桌面和移动设备上重复使用自定义 JavaScript。
 
 通过 CustomJS,您可以:
 
@@ -202,7 +202,7 @@ Reuse custom JavaScript across desktop and mobile.
 - **下载量**：48.4K
 - **最后更新**：2024-06-07
 - **GitHub**：[saml-dev/obsidian-custom-js](https://github.com/saml-dev/obsidian-custom-js)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

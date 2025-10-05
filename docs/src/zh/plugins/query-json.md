@@ -2,11 +2,11 @@
 title: Query JSON
 description: Read, query and work with JSON.
 author: rooyca
-downloads: 1836
+downloads: 1838
 updated: 1755215039000
 repo: Rooyca/query-json
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Query JSON"
   description="Read, query and work with JSON."
   author="rooyca"
-  :downloads="1836"
+  :downloads="1838"
   :updated="1755215039000"
   repo="Rooyca/query-json"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Read, query and work with JSON.
 - **下载量**：1.8K
 - **最后更新**：2025-08-15
 - **GitHub**：[Rooyca/query-json](https://github.com/Rooyca/query-json)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

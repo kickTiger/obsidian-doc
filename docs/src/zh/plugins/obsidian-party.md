@@ -1,12 +1,12 @@
 ---
 title: Party
-description: 'An implementation of party.js. Create confetti, sparkles, and even custom effects in your notes!'
+description: party.js 的实现。在笔记中创建纸屑、火花甚至自定义效果！
 author: Shap Po
-downloads: 6255
+downloads: 6259
 updated: 1669065093000
 repo: shap-po/obsidian-party
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-party"
   name="Party"
-  description="An implementation of party.js. Create confetti, sparkles, and even custom effects in your notes!"
+  description="party.js 的实现。在笔记中创建纸屑、火花甚至自定义效果！"
   author="Shap Po"
-  :downloads="6255"
+  :downloads="6259"
   :updated="1669065093000"
   repo="shap-po/obsidian-party"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Party 是一个功能强大的 Obsidian 插件。
 
-An implementation of party.js. Create confetti, sparkles, and even custom effects in your notes!
+party.js 的实现。在笔记中创建纸屑、火花甚至自定义效果！
 
 通过 Party,您可以:
 
@@ -202,7 +202,7 @@ An implementation of party.js. Create confetti, sparkles, and even custom effect
 - **下载量**：6.3K
 - **最后更新**：2022-11-22
 - **GitHub**：[shap-po/obsidian-party](https://github.com/shap-po/obsidian-party)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 309
 updated: 1733832548000
 repo: dilantha/link-formatter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1733832548000"
   repo="dilantha/link-formatter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Formats a block of links into a clean markdown list
 - **下载量**：309
 - **最后更新**：2024-12-10
 - **GitHub**：[dilantha/link-formatter](https://github.com/dilantha/link-formatter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

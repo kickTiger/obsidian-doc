@@ -1,12 +1,12 @@
 ---
 title: Binary File Manager
-description: Detect new binary files in the vault and create Markdown files with metadata.
+description: 检测保险库中的新二进制文件，并创建带元数据的 Markdown 文件。
 author: qawatake
-downloads: 9252
+downloads: 9258
 updated: 1641554813000
 repo: qawatake/obsidian-binary-file-manager-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-binary-file-manager-plugin"
   name="Binary File Manager"
-  description="Detect new binary files in the vault and create Markdown files with metadata."
+  description="检测保险库中的新二进制文件，并创建带元数据的 Markdown 文件。"
   author="qawatake"
-  :downloads="9252"
+  :downloads="9258"
   :updated="1641554813000"
   repo="qawatake/obsidian-binary-file-manager-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Binary File Manager 是一个功能强大的 Obsidian 插件。
 
-Detect new binary files in the vault and create Markdown files with metadata.
+检测保险库中的新二进制文件，并创建带元数据的 Markdown 文件。
 
 通过 Binary File Manager,您可以:
 
@@ -202,7 +202,7 @@ Detect new binary files in the vault and create Markdown files with metadata.
 - **下载量**：9.3K
 - **最后更新**：2022-01-07
 - **GitHub**：[qawatake/obsidian-binary-file-manager-plugin](https://github.com/qawatake/obsidian-binary-file-manager-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

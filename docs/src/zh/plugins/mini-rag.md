@@ -2,11 +2,11 @@
 title: Mini-RAG
 description: Leverage Retrieval Augmented Generation (RAG) for your notes using a locally running LLM or AI.
 author: John Wheatley
-downloads: 330
+downloads: 334
 updated: 1749714188000
 repo: jjwheatley/mini-rag
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Mini-RAG"
   description="Leverage Retrieval Augmented Generation (RAG) for your notes using a locally running LLM or AI."
   author="John Wheatley"
-  :downloads="330"
+  :downloads="334"
   :updated="1749714188000"
   repo="jjwheatley/mini-rag"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Leverage Retrieval Augmented Generation (RAG) for your notes using a locally run
 - **插件 ID**：mini-rag
 - **作者**：John Wheatley
 - **当前版本**：v1.0.0
-- **下载量**：330
+- **下载量**：334
 - **最后更新**：2025-06-12
 - **GitHub**：[jjwheatley/mini-rag](https://github.com/jjwheatley/mini-rag)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

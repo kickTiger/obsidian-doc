@@ -1,12 +1,12 @@
 ---
 title: Timeline
-description: Build great timelines.
+description: 建立伟大的时间表。
 author: George Butco
-downloads: 64676
+downloads: 64738
 updated: 1658512472000
 repo: George-debug/obsidian-timeline
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-timeline"
   name="Timeline"
-  description="Build great timelines."
+  description="建立伟大的时间表。"
   author="George Butco"
-  :downloads="64676"
+  :downloads="64738"
   :updated="1658512472000"
   repo="George-debug/obsidian-timeline"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Timeline 是一个功能强大的 Obsidian 插件。
 
-Build great timelines.
+建立伟大的时间表。
 
 通过 Timeline,您可以:
 
@@ -202,7 +202,7 @@ Build great timelines.
 - **下载量**：64.7K
 - **最后更新**：2022-07-23
 - **GitHub**：[George-debug/obsidian-timeline](https://github.com/George-debug/obsidian-timeline)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

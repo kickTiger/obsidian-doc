@@ -2,11 +2,11 @@
 title: Image Border Style
 description: Border styling for images in markdown notes.
 author: Anurag Shenoy
-downloads: 399
+downloads: 401
 updated: 1746237900000
 repo: shenoy-anurag/obsidian-image-border-style
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Image Border Style"
   description="Border styling for images in markdown notes."
   author="Anurag Shenoy"
-  :downloads="399"
+  :downloads="401"
   :updated="1746237900000"
   repo="shenoy-anurag/obsidian-image-border-style"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Border styling for images in markdown notes.
 - **插件 ID**：image-border-style
 - **作者**：Anurag Shenoy
 - **当前版本**：v1.0.0
-- **下载量**：399
+- **下载量**：401
 - **最后更新**：2025-05-03
 - **GitHub**：[shenoy-anurag/obsidian-image-border-style](https://github.com/shenoy-anurag/obsidian-image-border-style)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

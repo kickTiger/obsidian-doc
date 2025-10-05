@@ -6,7 +6,7 @@ downloads: 75
 updated: 1737043910000
 repo: Appleec/e-obsidian-upload-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1737043910000"
   repo="Appleec/e-obsidian-upload-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Support uploading files to different platforms.
 - **下载量**：75
 - **最后更新**：2025-01-17
 - **GitHub**：[Appleec/e-obsidian-upload-plugin](https://github.com/Appleec/e-obsidian-upload-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Carry-Forward
-description: Copy text from a note, linking back to its copied source, or copy a link to a note block.
+description: 从注释中复制文本，链接回复制源，或复制链接到注释块。
 author: Jacob Levernier
-downloads: 14183
+downloads: 14185
 updated: 1673526019000
 repo: jglev/obsidian-carry-forward
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-carry-forward"
   name="Carry-Forward"
-  description="Copy text from a note, linking back to its copied source, or copy a link to a note block."
+  description="从注释中复制文本，链接回复制源，或复制链接到注释块。"
   author="Jacob Levernier"
-  :downloads="14183"
+  :downloads="14185"
   :updated="1673526019000"
   repo="jglev/obsidian-carry-forward"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Carry-Forward 是一个功能强大的 Obsidian 插件。
 
-Copy text from a note, linking back to its copied source, or copy a link to a note block.
+从注释中复制文本，链接回复制源，或复制链接到注释块。
 
 通过 Carry-Forward,您可以:
 
@@ -202,7 +202,7 @@ Copy text from a note, linking back to its copied source, or copy a link to a no
 - **下载量**：14.2K
 - **最后更新**：2023-01-12
 - **GitHub**：[jglev/obsidian-carry-forward](https://github.com/jglev/obsidian-carry-forward)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

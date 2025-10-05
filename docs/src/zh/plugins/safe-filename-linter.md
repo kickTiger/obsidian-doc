@@ -1,12 +1,12 @@
 ---
 title: Safe Filename Linter
-description: Lint filenames for invalid or troublesome characters.
+description: 检查文件名中是否有无效或有问题的字符。
 author: sneaky-foxes
-downloads: 4839
+downloads: 4842
 updated: 1691459188000
 repo: sneakyfoxes/obsidian-safe-filename-linter
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="safe-filename-linter"
   name="Safe Filename Linter"
-  description="Lint filenames for invalid or troublesome characters."
+  description="检查文件名中是否有无效或有问题的字符。"
   author="sneaky-foxes"
-  :downloads="4839"
+  :downloads="4842"
   :updated="1691459188000"
   repo="sneakyfoxes/obsidian-safe-filename-linter"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Safe Filename Linter 是一个功能强大的 Obsidian 插件。
 
-Lint filenames for invalid or troublesome characters.
+检查文件名中是否有无效或有问题的字符。
 
 通过 Safe Filename Linter,您可以:
 
@@ -202,7 +202,7 @@ Lint filenames for invalid or troublesome characters.
 - **下载量**：4.8K
 - **最后更新**：2023-08-08
 - **GitHub**：[sneakyfoxes/obsidian-safe-filename-linter](https://github.com/sneakyfoxes/obsidian-safe-filename-linter)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

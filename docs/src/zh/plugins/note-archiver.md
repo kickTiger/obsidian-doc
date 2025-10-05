@@ -1,12 +1,12 @@
 ---
 title: Note archiver
-description: Tools to archive your notes in another folder.
+description: 将笔记存档到另一个文件夹的工具。
 author: thenomadlad
-downloads: 5485
+downloads: 5486
 updated: 1685915016000
 repo: thenomadlad/obsidian-note-archiver
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="note-archiver"
   name="Note archiver"
-  description="Tools to archive your notes in another folder."
+  description="将笔记存档到另一个文件夹的工具。"
   author="thenomadlad"
-  :downloads="5485"
+  :downloads="5486"
   :updated="1685915016000"
   repo="thenomadlad/obsidian-note-archiver"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note archiver 是一个功能强大的 Obsidian 插件。
 
-Tools to archive your notes in another folder.
+将笔记存档到另一个文件夹的工具。
 
 通过 Note archiver,您可以:
 
@@ -202,7 +202,7 @@ Tools to archive your notes in another folder.
 - **下载量**：5.5K
 - **最后更新**：2023-06-05
 - **GitHub**：[thenomadlad/obsidian-note-archiver](https://github.com/thenomadlad/obsidian-note-archiver)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

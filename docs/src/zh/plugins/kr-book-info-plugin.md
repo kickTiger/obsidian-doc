@@ -1,12 +1,12 @@
 ---
 title: Korean Book Info
-description: Crawl Yes24 to get book information.
+description: Crawl Yes24 获取图书信息。
 author: kmsk99
-downloads: 18518
+downloads: 18536
 updated: 1745836694000
 repo: kmsk99/kr-book-info-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="kr-book-info-plugin"
   name="Korean Book Info"
-  description="Crawl Yes24 to get book information."
+  description="Crawl Yes24 获取图书信息。"
   author="kmsk99"
-  :downloads="18518"
+  :downloads="18536"
   :updated="1745836694000"
   repo="kmsk99/kr-book-info-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Korean Book Info 是一个功能强大的 Obsidian 插件。
 
-Crawl Yes24 to get book information.
+Crawl Yes24 获取图书信息。
 
 通过 Korean Book Info,您可以:
 
@@ -202,7 +202,7 @@ Crawl Yes24 to get book information.
 - **下载量**：18.5K
 - **最后更新**：2025-04-28
 - **GitHub**：[kmsk99/kr-book-info-plugin](https://github.com/kmsk99/kr-book-info-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Advanced Copy
 description: Copy Markdown and transform it into HTML, Anki, or any custom format. Create custom profiles with versatile templates tailored to your workflow.
 author: leschuster
-downloads: 2615
+downloads: 2624
 updated: 1754244351000
 repo: leschuster/obsidian-advanced-copy
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Advanced Copy"
   description="Copy Markdown and transform it into HTML, Anki, or any custom format. Create custom profiles with versatile templates tailored to your workflow."
   author="leschuster"
-  :downloads="2615"
+  :downloads="2624"
   :updated="1754244351000"
   repo="leschuster/obsidian-advanced-copy"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Copy Markdown and transform it into HTML, Anki, or any custom format. Create cus
 - **下载量**：2.6K
 - **最后更新**：2025-08-04
 - **GitHub**：[leschuster/obsidian-advanced-copy](https://github.com/leschuster/obsidian-advanced-copy)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

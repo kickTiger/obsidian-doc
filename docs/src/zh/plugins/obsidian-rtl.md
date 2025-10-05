@@ -1,12 +1,12 @@
 ---
 title: RTL Support
-description: Right-to-left (RTL) text direction support for languages like Arabic, Hebrew, and Farsi.
+description: 支持阿拉伯语、希伯来语和波斯语等语言的从右到左 (RTL) 文本方向。
 author: esm
-downloads: 45020
+downloads: 45044
 updated: 1743337921000
 repo: esm7/obsidian-rtl
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-rtl"
   name="RTL Support"
-  description="Right-to-left (RTL) text direction support for languages like Arabic, Hebrew, and Farsi."
+  description="支持阿拉伯语、希伯来语和波斯语等语言的从右到左 (RTL) 文本方向。"
   author="esm"
-  :downloads="45020"
+  :downloads="45044"
   :updated="1743337921000"
   repo="esm7/obsidian-rtl"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 RTL Support 是一个功能强大的 Obsidian 插件。
 
-Right-to-left (RTL) text direction support for languages like Arabic, Hebrew, and Farsi.
+支持阿拉伯语、希伯来语和波斯语等语言的从右到左 (RTL) 文本方向。
 
 通过 RTL Support,您可以:
 
@@ -202,7 +202,7 @@ Right-to-left (RTL) text direction support for languages like Arabic, Hebrew, an
 - **下载量**：45.0K
 - **最后更新**：2025-03-30
 - **GitHub**：[esm7/obsidian-rtl](https://github.com/esm7/obsidian-rtl)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

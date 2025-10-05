@@ -1,12 +1,12 @@
 ---
 title: Statblock Sidekick
-description: 'Create and expand D&D 5e statblocks.'
+description: '创建并扩展 D&D 5e 状态块。'
 author: n21rl
-downloads: 4717
+downloads: 4729
 updated: 1718300003000
 repo: n21rl/stablock-sidekick
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="statblock-sidekick"
   name="Statblock Sidekick"
-  description="Create and expand D&amp;D 5e statblocks."
+  description="创建并扩展 D&amp;D 5e 状态块。"
   author="n21rl"
-  :downloads="4717"
+  :downloads="4729"
   :updated="1718300003000"
   repo="n21rl/stablock-sidekick"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Statblock Sidekick 是一个功能强大的 Obsidian 插件。
 
-Create and expand D&amp;D 5e statblocks.
+创建并扩展 D&amp;D 5e 状态块。
 
 通过 Statblock Sidekick,您可以:
 
@@ -202,7 +202,7 @@ Create and expand D&amp;D 5e statblocks.
 - **下载量**：4.7K
 - **最后更新**：2024-06-14
 - **GitHub**：[n21rl/stablock-sidekick](https://github.com/n21rl/stablock-sidekick)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

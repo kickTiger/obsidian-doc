@@ -1,12 +1,12 @@
 ---
 title: Typing Assistant
-description: Support multiple shortcut menus to improve input efficiency.
+description: 支持多个快捷菜单，提高输入效率。
 author: Jambo
-downloads: 26896
+downloads: 26962
 updated: 1719743062000
 repo: Jambo2018/notion-assistant-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="typing-assistant"
   name="Typing Assistant"
-  description="Support multiple shortcut menus to improve input efficiency."
+  description="支持多个快捷菜单，提高输入效率。"
   author="Jambo"
-  :downloads="26896"
+  :downloads="26962"
   :updated="1719743062000"
   repo="Jambo2018/notion-assistant-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Typing Assistant 是一个功能强大的 Obsidian 插件。
 
-Support multiple shortcut menus to improve input efficiency.
+支持多个快捷菜单，提高输入效率。
 
 通过 Typing Assistant,您可以:
 
@@ -199,10 +199,10 @@ Support multiple shortcut menus to improve input efficiency.
 - **插件 ID**：typing-assistant
 - **作者**：Jambo
 - **当前版本**：v1.0.0
-- **下载量**：26.9K
+- **下载量**：27.0K
 - **最后更新**：2024-06-30
 - **GitHub**：[Jambo2018/notion-assistant-plugin](https://github.com/Jambo2018/notion-assistant-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 391
 updated: 1759143208000
 repo: Epiphany-Notes/epiphany-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1759143208000"
   repo="Epiphany-Notes/epiphany-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Synchronize voice notes from the Epiphany app directly into your vault
 - **下载量**：391
 - **最后更新**：2025-09-29
 - **GitHub**：[Epiphany-Notes/epiphany-obsidian-plugin](https://github.com/Epiphany-Notes/epiphany-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

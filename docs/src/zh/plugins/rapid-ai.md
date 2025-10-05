@@ -6,7 +6,7 @@ downloads: 751
 updated: 1715997303000
 repo: ahmed3developer/rapid-ai
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1715997303000"
   repo="ahmed3developer/rapid-ai"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ An AI assistant for selected text, along with generating content with Markdown. 
 - **下载量**：751
 - **最后更新**：2024-05-18
 - **GitHub**：[ahmed3developer/rapid-ai](https://github.com/ahmed3developer/rapid-ai)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

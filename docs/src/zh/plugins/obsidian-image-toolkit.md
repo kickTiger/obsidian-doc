@@ -1,12 +1,12 @@
 ---
 title: Image Toolkit
-description: Click images to preview with zoom, move, rotate, flip, invert, and copy.
+description: 查看图片时提供更好的体验。
 author: sissilab
-downloads: 32244
+downloads: 32594
 updated: 1756723158000
 repo: obsidian-community/obsidian-image-toolkit
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-image-toolkit"
   name="Image Toolkit"
-  description="Click images to preview with zoom, move, rotate, flip, invert, and copy."
+  description="查看图片时提供更好的体验。"
   author="sissilab"
-  :downloads="32244"
+  :downloads="32594"
   :updated="1756723158000"
   repo="obsidian-community/obsidian-image-toolkit"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Toolkit 是一个功能强大的 Obsidian 插件。
 
-Click images to preview with zoom, move, rotate, flip, invert, and copy.
+查看图片时提供更好的体验。
 
 通过 Image Toolkit,您可以:
 
@@ -199,10 +199,10 @@ Click images to preview with zoom, move, rotate, flip, invert, and copy.
 - **插件 ID**：obsidian-image-toolkit
 - **作者**：sissilab
 - **当前版本**：v1.0.0
-- **下载量**：32.2K
+- **下载量**：32.6K
 - **最后更新**：2025-09-01
 - **GitHub**：[obsidian-community/obsidian-image-toolkit](https://github.com/obsidian-community/obsidian-image-toolkit)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

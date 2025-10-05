@@ -2,11 +2,11 @@
 title: NoteMover shortcut
 description: Quickly and easily move notes to a predefined folder. Perfect for organizing your notes.
 author: Lars Bücker
-downloads: 955
+downloads: 965
 updated: 1759094537000
 repo: bueckerlars/obsidian-note-mover-shortcut
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="NoteMover shortcut"
   description="Quickly and easily move notes to a predefined folder. Perfect for organizing your notes."
   author="Lars Bücker"
-  :downloads="955"
+  :downloads="965"
   :updated="1759094537000"
   repo="bueckerlars/obsidian-note-mover-shortcut"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Quickly and easily move notes to a predefined folder. Perfect for organizing you
 - **插件 ID**：note-mover-shortcut
 - **作者**：Lars Bücker
 - **当前版本**：v1.0.0
-- **下载量**：955
+- **下载量**：965
 - **最后更新**：2025-09-29
 - **GitHub**：[bueckerlars/obsidian-note-mover-shortcut](https://github.com/bueckerlars/obsidian-note-mover-shortcut)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

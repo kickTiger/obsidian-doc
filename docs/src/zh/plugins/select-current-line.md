@@ -1,12 +1,12 @@
 ---
 title: Select current line
-description: 'Select the current line where the cursor is placed. Press ''ESC'' key to select.'
+description: '选择光标所在的当前行。按 "ESC "键选择。'
 author: Gokul
-downloads: 4129
+downloads: 4132
 updated: 1681232184000
 repo: gokulk16/select-current-line-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="select-current-line"
   name="Select current line"
-  description="Select the current line where the cursor is placed. Press &#39;ESC&#39; key to select."
+  description="选择光标所在的当前行。按 &quot;ESC &quot;键选择。"
   author="Gokul"
-  :downloads="4129"
+  :downloads="4132"
   :updated="1681232184000"
   repo="gokulk16/select-current-line-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Select current line 是一个功能强大的 Obsidian 插件。
 
-Select the current line where the cursor is placed. Press &#39;ESC&#39; key to select.
+选择光标所在的当前行。按 &quot;ESC &quot;键选择。
 
 通过 Select current line,您可以:
 
@@ -202,7 +202,7 @@ Select the current line where the cursor is placed. Press &#39;ESC&#39; key to s
 - **下载量**：4.1K
 - **最后更新**：2023-04-12
 - **GitHub**：[gokulk16/select-current-line-plugin](https://github.com/gokulk16/select-current-line-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

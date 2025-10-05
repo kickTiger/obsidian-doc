@@ -1,12 +1,12 @@
 ---
 title: SamePage
-description: Official SamePage client, the intra tool-for-thought protocol.
+description: 官方 SamePage 客户端，内部思想工具协议。
 author: SamePage
 downloads: 5262
 updated: 1688442142000
 repo: samepage-network/obsidian-samepage
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="samepage"
   name="SamePage"
-  description="Official SamePage client, the intra tool-for-thought protocol."
+  description="官方 SamePage 客户端，内部思想工具协议。"
   author="SamePage"
   :downloads="5262"
   :updated="1688442142000"
   repo="samepage-network/obsidian-samepage"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 SamePage 是一个功能强大的 Obsidian 插件。
 
-Official SamePage client, the intra tool-for-thought protocol.
+官方 SamePage 客户端，内部思想工具协议。
 
 通过 SamePage,您可以:
 
@@ -202,7 +202,7 @@ Official SamePage client, the intra tool-for-thought protocol.
 - **下载量**：5.3K
 - **最后更新**：2023-07-04
 - **GitHub**：[samepage-network/obsidian-samepage](https://github.com/samepage-network/obsidian-samepage)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Block Link Plus
-description: Simplifies the creation of multi-line blockquotes, with customizable block IDs.
+description: 通过自定义块 ID，简化了多行块引号的创建。
 author: Jasper
-downloads: 3731
+downloads: 3751
 updated: 1758939230000
 repo: Jasper-1024/block-link-plus
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="block-link-plus"
   name="Block Link Plus"
-  description="Simplifies the creation of multi-line blockquotes, with customizable block IDs."
+  description="通过自定义块 ID，简化了多行块引号的创建。"
   author="Jasper"
-  :downloads="3731"
+  :downloads="3751"
   :updated="1758939230000"
   repo="Jasper-1024/block-link-plus"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Block Link Plus 是一个功能强大的 Obsidian 插件。
 
-Simplifies the creation of multi-line blockquotes, with customizable block IDs.
+通过自定义块 ID，简化了多行块引号的创建。
 
 通过 Block Link Plus,您可以:
 
@@ -199,10 +199,10 @@ Simplifies the creation of multi-line blockquotes, with customizable block IDs.
 - **插件 ID**：block-link-plus
 - **作者**：Jasper
 - **当前版本**：v1.0.0
-- **下载量**：3.7K
+- **下载量**：3.8K
 - **最后更新**：2025-09-27
 - **GitHub**：[Jasper-1024/block-link-plus](https://github.com/Jasper-1024/block-link-plus)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

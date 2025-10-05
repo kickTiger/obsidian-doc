@@ -1,12 +1,12 @@
 ---
 title: TinyPNG Image
-description: Compress images using TinyPNG to save your storage.
+description: 使用 TinyPNG 压缩图像，节省存储空间。
 author: ckt1031
-downloads: 4371
+downloads: 4374
 updated: 1746525419000
 repo: ckt1031/obsidian-tinypng-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tinypng-image"
   name="TinyPNG Image"
-  description="Compress images using TinyPNG to save your storage."
+  description="使用 TinyPNG 压缩图像，节省存储空间。"
   author="ckt1031"
-  :downloads="4371"
+  :downloads="4374"
   :updated="1746525419000"
   repo="ckt1031/obsidian-tinypng-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 TinyPNG Image 是一个功能强大的 Obsidian 插件。
 
-Compress images using TinyPNG to save your storage.
+使用 TinyPNG 压缩图像，节省存储空间。
 
 通过 TinyPNG Image,您可以:
 
@@ -202,7 +202,7 @@ Compress images using TinyPNG to save your storage.
 - **下载量**：4.4K
 - **最后更新**：2025-05-06
 - **GitHub**：[ckt1031/obsidian-tinypng-plugin](https://github.com/ckt1031/obsidian-tinypng-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

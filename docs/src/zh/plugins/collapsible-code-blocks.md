@@ -2,11 +2,11 @@
 title: Collapsible Code Blocks
 description: Makes code blocks collapsible in preview mode as well as enabling scroll-able code blocks.
 author: Bradley Wyatt
-downloads: 2610
+downloads: 2642
 updated: 1757338721000
 repo: bwya77/collapsible-code-blocks
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Collapsible Code Blocks"
   description="Makes code blocks collapsible in preview mode as well as enabling scroll-able code blocks."
   author="Bradley Wyatt"
-  :downloads="2610"
+  :downloads="2642"
   :updated="1757338721000"
   repo="bwya77/collapsible-code-blocks"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Makes code blocks collapsible in preview mode as well as enabling scroll-able co
 - **下载量**：2.6K
 - **最后更新**：2025-09-08
 - **GitHub**：[bwya77/collapsible-code-blocks](https://github.com/bwya77/collapsible-code-blocks)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

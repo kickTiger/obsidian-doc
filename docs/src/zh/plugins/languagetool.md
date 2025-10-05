@@ -1,12 +1,12 @@
 ---
 title: LanguageTool
-description: Unofficial integration of the LanguageTool spell and grammar checker.
+description: LanguageTool 拼写和语法检查程序的非官方集成。
 author: Lars Wrenger, Clemens Ertle
-downloads: 23210
+downloads: 23311
 updated: 1759137058000
 repo: wrenger/obsidian-languagetool
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="languagetool"
   name="LanguageTool"
-  description="Unofficial integration of the LanguageTool spell and grammar checker."
+  description="LanguageTool 拼写和语法检查程序的非官方集成。"
   author="Lars Wrenger, Clemens Ertle"
-  :downloads="23210"
+  :downloads="23311"
   :updated="1759137058000"
   repo="wrenger/obsidian-languagetool"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 LanguageTool 是一个功能强大的 Obsidian 插件。
 
-Unofficial integration of the LanguageTool spell and grammar checker.
+LanguageTool 拼写和语法检查程序的非官方集成。
 
 通过 LanguageTool,您可以:
 
@@ -199,10 +199,10 @@ Unofficial integration of the LanguageTool spell and grammar checker.
 - **插件 ID**：languagetool
 - **作者**：Lars Wrenger, Clemens Ertle
 - **当前版本**：v1.0.0
-- **下载量**：23.2K
+- **下载量**：23.3K
 - **最后更新**：2025-09-29
 - **GitHub**：[wrenger/obsidian-languagetool](https://github.com/wrenger/obsidian-languagetool)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

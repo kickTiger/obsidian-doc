@@ -6,7 +6,7 @@ downloads: 85
 updated: 1731069461000
 repo: AmpliFlow/obsidian-ampliflow-page
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1731069461000"
   repo="AmpliFlow/obsidian-ampliflow-page"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish notes easily to AmpliFlow (https://www.ampliflow.se)
 - **下载量**：85
 - **最后更新**：2024-11-08
 - **GitHub**：[AmpliFlow/obsidian-ampliflow-page](https://github.com/AmpliFlow/obsidian-ampliflow-page)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

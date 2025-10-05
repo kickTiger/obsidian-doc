@@ -1,12 +1,12 @@
 ---
 title: AnkiBridge
-description: Yet Another Anki Bridge. Focuses on a strict grammar and integrity of your data.
+description: 又一座 Anki 桥。注重严格的语法和数据的完整性。
 author: JeppeKlitgaard
-downloads: 7316
+downloads: 7320
 updated: 1680188250000
 repo: JeppeKlitgaard/ObsidianAnkiBridge
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-ankibridge"
   name="AnkiBridge"
-  description="Yet Another Anki Bridge. Focuses on a strict grammar and integrity of your data."
+  description="又一座 Anki 桥。注重严格的语法和数据的完整性。"
   author="JeppeKlitgaard"
-  :downloads="7316"
+  :downloads="7320"
   :updated="1680188250000"
   repo="JeppeKlitgaard/ObsidianAnkiBridge"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AnkiBridge 是一个功能强大的 Obsidian 插件。
 
-Yet Another Anki Bridge. Focuses on a strict grammar and integrity of your data.
+又一座 Anki 桥。注重严格的语法和数据的完整性。
 
 通过 AnkiBridge,您可以:
 
@@ -202,7 +202,7 @@ Yet Another Anki Bridge. Focuses on a strict grammar and integrity of your data.
 - **下载量**：7.3K
 - **最后更新**：2023-03-30
 - **GitHub**：[JeppeKlitgaard/ObsidianAnkiBridge](https://github.com/JeppeKlitgaard/ObsidianAnkiBridge)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

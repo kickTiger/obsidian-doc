@@ -6,7 +6,7 @@ downloads: 2000
 updated: 1722502323000
 repo: flyer1b/LightRead-master
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1722502323000"
   repo="flyer1b/LightRead-master"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync articles from SyncRead.
 - **下载量**：2.0K
 - **最后更新**：2024-08-01
 - **GitHub**：[flyer1b/LightRead-master](https://github.com/flyer1b/LightRead-master)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

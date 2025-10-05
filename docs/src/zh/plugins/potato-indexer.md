@@ -1,12 +1,12 @@
 ---
 title: Potato Indexer
-description: Generate a content index based on your selection or the whole file.
+description: 根据所选内容或整个文件生成内容索引。
 author: LoyalPotato
-downloads: 3583
+downloads: 3584
 updated: 1758912453000
 repo: LoyalPotato/potato-indexer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="potato-indexer"
   name="Potato Indexer"
-  description="Generate a content index based on your selection or the whole file."
+  description="根据所选内容或整个文件生成内容索引。"
   author="LoyalPotato"
-  :downloads="3583"
+  :downloads="3584"
   :updated="1758912453000"
   repo="LoyalPotato/potato-indexer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Potato Indexer 是一个功能强大的 Obsidian 插件。
 
-Generate a content index based on your selection or the whole file.
+根据所选内容或整个文件生成内容索引。
 
 通过 Potato Indexer,您可以:
 
@@ -202,7 +202,7 @@ Generate a content index based on your selection or the whole file.
 - **下载量**：3.6K
 - **最后更新**：2025-09-27
 - **GitHub**：[LoyalPotato/potato-indexer](https://github.com/LoyalPotato/potato-indexer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

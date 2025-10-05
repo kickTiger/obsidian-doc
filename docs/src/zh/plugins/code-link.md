@@ -6,7 +6,7 @@ downloads: 627
 updated: 1730019174000
 repo: observerw/obsidian-code-link
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1730019174000"
   repo="observerw/obsidian-code-link"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Link to code files in your notes
 - **下载量**：627
 - **最后更新**：2024-10-27
 - **GitHub**：[observerw/obsidian-code-link](https://github.com/observerw/obsidian-code-link)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

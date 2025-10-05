@@ -1,12 +1,12 @@
 ---
 title: Pdf Annotator
-description: Simple but powerful pdf annotator.
+description: 简单但功能强大的 pdf 注释器
 author: Boninall
-downloads: 9315
+downloads: 9337
 updated: 1721023715000
 repo: Quorafind/Obsidian-PDF-Annotator
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pdf-annotator"
   name="Pdf Annotator"
-  description="Simple but powerful pdf annotator."
+  description="简单但功能强大的 pdf 注释器"
   author="Boninall"
-  :downloads="9315"
+  :downloads="9337"
   :updated="1721023715000"
   repo="Quorafind/Obsidian-PDF-Annotator"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pdf Annotator 是一个功能强大的 Obsidian 插件。
 
-Simple but powerful pdf annotator.
+简单但功能强大的 pdf 注释器
 
 通过 Pdf Annotator,您可以:
 
@@ -202,7 +202,7 @@ Simple but powerful pdf annotator.
 - **下载量**：9.3K
 - **最后更新**：2024-07-15
 - **GitHub**：[Quorafind/Obsidian-PDF-Annotator](https://github.com/Quorafind/Obsidian-PDF-Annotator)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

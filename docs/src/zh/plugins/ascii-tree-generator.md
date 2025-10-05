@@ -2,11 +2,11 @@
 title: ASCII Tree Generator
 description: Convert indented code blocks with hierarchy markers into formatted ASCII tree diagrams.
 author: Matěj Michálek
-downloads: 1142
+downloads: 1147
 updated: 1744644456000
 repo: michalekmatej/obsidian.md-ascii-tree-generator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="ASCII Tree Generator"
   description="Convert indented code blocks with hierarchy markers into formatted ASCII tree diagrams."
   author="Matěj Michálek"
-  :downloads="1142"
+  :downloads="1147"
   :updated="1744644456000"
   repo="michalekmatej/obsidian.md-ascii-tree-generator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Convert indented code blocks with hierarchy markers into formatted ASCII tree di
 - **下载量**：1.1K
 - **最后更新**：2025-04-14
 - **GitHub**：[michalekmatej/obsidian.md-ascii-tree-generator](https://github.com/michalekmatej/obsidian.md-ascii-tree-generator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

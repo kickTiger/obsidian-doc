@@ -6,7 +6,7 @@ downloads: 489
 updated: 1732378137000
 repo: br4in/calloutX
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1732378137000"
   repo="br4in/calloutX"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ An easy way to explore, visualise, and modify callout icons.
 - **下载量**：489
 - **最后更新**：2024-11-24
 - **GitHub**：[br4in/calloutX](https://github.com/br4in/calloutX)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

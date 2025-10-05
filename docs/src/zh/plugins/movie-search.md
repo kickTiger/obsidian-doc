@@ -2,11 +2,11 @@
 title: Movie Search
 description: Helps you find movies and create notes.
 author: Gubchik123
-downloads: 2378
+downloads: 2383
 updated: 1711704009000
 repo: Gubchik123/obsidian-movie-search-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Movie Search"
   description="Helps you find movies and create notes."
   author="Gubchik123"
-  :downloads="2378"
+  :downloads="2383"
   :updated="1711704009000"
   repo="Gubchik123/obsidian-movie-search-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Helps you find movies and create notes.
 - **下载量**：2.4K
 - **最后更新**：2024-03-29
 - **GitHub**：[Gubchik123/obsidian-movie-search-plugin](https://github.com/Gubchik123/obsidian-movie-search-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Double Colon Conceal
-description: Display double colon (i.e. Dataview inline fields) as a single colon for more natural reading experience.
+description: 将双冒号（即 Dataview 内联字段）显示为单冒号，以获得更自然的阅读体验。
 author: Michal Srch
-downloads: 6227
+downloads: 6234
 updated: 1718625998000
 repo: msrch/obsidian-double-colon-conceal
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="double-colon-conceal"
   name="Double Colon Conceal"
-  description="Display double colon (i.e. Dataview inline fields) as a single colon for more natural reading experience."
+  description="将双冒号（即 Dataview 内联字段）显示为单冒号，以获得更自然的阅读体验。"
   author="Michal Srch"
-  :downloads="6227"
+  :downloads="6234"
   :updated="1718625998000"
   repo="msrch/obsidian-double-colon-conceal"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Double Colon Conceal 是一个功能强大的 Obsidian 插件。
 
-Display double colon (i.e. Dataview inline fields) as a single colon for more natural reading experience.
+将双冒号（即 Dataview 内联字段）显示为单冒号，以获得更自然的阅读体验。
 
 通过 Double Colon Conceal,您可以:
 
@@ -202,7 +202,7 @@ Display double colon (i.e. Dataview inline fields) as a single colon for more na
 - **下载量**：6.2K
 - **最后更新**：2024-06-17
 - **GitHub**：[msrch/obsidian-double-colon-conceal](https://github.com/msrch/obsidian-double-colon-conceal)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

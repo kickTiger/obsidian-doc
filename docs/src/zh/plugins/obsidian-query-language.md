@@ -1,12 +1,12 @@
 ---
 title: Obsidian Query Language
-description: Query notes and represent data.
+description: 查询注释和表示数据。
 author: Joost Plattel
-downloads: 15023
+downloads: 15024
 updated: 1663585780000
 repo: jplattel/obsidian-query-language
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-query-language"
   name="Obsidian Query Language"
-  description="Query notes and represent data."
+  description="查询注释和表示数据。"
   author="Joost Plattel"
-  :downloads="15023"
+  :downloads="15024"
   :updated="1663585780000"
   repo="jplattel/obsidian-query-language"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Obsidian Query Language 是一个功能强大的 Obsidian 插件。
 
-Query notes and represent data.
+查询注释和表示数据。
 
 通过 Obsidian Query Language,您可以:
 
@@ -202,7 +202,7 @@ Query notes and represent data.
 - **下载量**：15.0K
 - **最后更新**：2022-09-19
 - **GitHub**：[jplattel/obsidian-query-language](https://github.com/jplattel/obsidian-query-language)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

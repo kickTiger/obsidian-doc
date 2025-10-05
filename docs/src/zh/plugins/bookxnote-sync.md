@@ -2,11 +2,11 @@
 title: BookXNote Sync
 description: 同步bookxnote中的读书笔记
 author: CodeListening
-downloads: 477
+downloads: 479
 updated: 1724376778000
 repo: CodeListening/obsidian-bookxnote
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="BookXNote Sync"
   description="同步bookxnote中的读书笔记"
   author="CodeListening"
-  :downloads="477"
+  :downloads="479"
   :updated="1724376778000"
   repo="CodeListening/obsidian-bookxnote"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ BookXNote Sync 是一个功能强大的 Obsidian 插件。
 - **插件 ID**：bookxnote-sync
 - **作者**：CodeListening
 - **当前版本**：v1.0.0
-- **下载量**：477
+- **下载量**：479
 - **最后更新**：2024-08-23
 - **GitHub**：[CodeListening/obsidian-bookxnote](https://github.com/CodeListening/obsidian-bookxnote)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

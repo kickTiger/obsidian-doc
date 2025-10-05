@@ -1,12 +1,12 @@
 ---
 title: File path to URI
-description: Convert file path to URI for easier use of links to local files outside of Obsidian.
+description: 将文件路径转换为URI。
 author: Michal Bureš
-downloads: 21673
+downloads: 21677
 updated: 1662293177000
 repo: MichalBures/obsidian-file-path-to-uri
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-file-path-to-uri"
   name="File path to URI"
-  description="Convert file path to URI for easier use of links to local files outside of Obsidian."
+  description="将文件路径转换为URI。"
   author="Michal Bureš"
-  :downloads="21673"
+  :downloads="21677"
   :updated="1662293177000"
   repo="MichalBures/obsidian-file-path-to-uri"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File path to URI 是一个功能强大的 Obsidian 插件。
 
-Convert file path to URI for easier use of links to local files outside of Obsidian.
+将文件路径转换为URI。
 
 通过 File path to URI,您可以:
 
@@ -202,7 +202,7 @@ Convert file path to URI for easier use of links to local files outside of Obsid
 - **下载量**：21.7K
 - **最后更新**：2022-09-04
 - **GitHub**：[MichalBures/obsidian-file-path-to-uri](https://github.com/MichalBures/obsidian-file-path-to-uri)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Hugo codeblock highlight
 description: 'Highlights lines in code blocks using Hugo''s hl_lines syntax.'
 author: aarol
-downloads: 2495
+downloads: 2497
 updated: 1718362596000
 repo: aarol/obsidian-hugo-codeblock-highlight
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hugo codeblock highlight"
   description="Highlights lines in code blocks using Hugo&#39;s hl_lines syntax."
   author="aarol"
-  :downloads="2495"
+  :downloads="2497"
   :updated="1718362596000"
   repo="aarol/obsidian-hugo-codeblock-highlight"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Highlights lines in code blocks using Hugo&#39;s hl_lines syntax.
 - **下载量**：2.5K
 - **最后更新**：2024-06-14
 - **GitHub**：[aarol/obsidian-hugo-codeblock-highlight](https://github.com/aarol/obsidian-hugo-codeblock-highlight)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Typewriter Scroll
-description: Typewriter-style scrolling which keeps the view centered in the editor.
+description: 打字机式滚动，使视图在编辑器中保持居中。
 author: death_au
-downloads: 92092
+downloads: 92154
 updated: 1649908247000
 repo: deathau/cm-typewriter-scroll-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cm-typewriter-scroll-obsidian"
   name="Typewriter Scroll"
-  description="Typewriter-style scrolling which keeps the view centered in the editor."
+  description="打字机式滚动，使视图在编辑器中保持居中。"
   author="death_au"
-  :downloads="92092"
+  :downloads="92154"
   :updated="1649908247000"
   repo="deathau/cm-typewriter-scroll-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Typewriter Scroll 是一个功能强大的 Obsidian 插件。
 
-Typewriter-style scrolling which keeps the view centered in the editor.
+打字机式滚动，使视图在编辑器中保持居中。
 
 通过 Typewriter Scroll,您可以:
 
@@ -199,10 +199,10 @@ Typewriter-style scrolling which keeps the view centered in the editor.
 - **插件 ID**：cm-typewriter-scroll-obsidian
 - **作者**：death_au
 - **当前版本**：v1.0.0
-- **下载量**：92.1K
+- **下载量**：92.2K
 - **最后更新**：2022-04-14
 - **GitHub**：[deathau/cm-typewriter-scroll-obsidian](https://github.com/deathau/cm-typewriter-scroll-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

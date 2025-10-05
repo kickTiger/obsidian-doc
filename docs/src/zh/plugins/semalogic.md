@@ -6,7 +6,7 @@ downloads: 1355
 updated: 1721145554000
 repo: MM-GO/UseSemaLogic
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1721145554000"
   repo="MM-GO/UseSemaLogic"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Real-time use of the SemaLogic formal language
 - **下载量**：1.4K
 - **最后更新**：2024-07-16
 - **GitHub**：[MM-GO/UseSemaLogic](https://github.com/MM-GO/UseSemaLogic)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

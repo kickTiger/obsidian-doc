@@ -2,11 +2,11 @@
 title: File Index
 description: Create a metadata file about the files present in the Vault.
 author: Steffo
-downloads: 2995
+downloads: 2997
 updated: 1700230789000
 repo: Steffo99/obsidian-file-index
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="File Index"
   description="Create a metadata file about the files present in the Vault."
   author="Steffo"
-  :downloads="2995"
+  :downloads="2997"
   :updated="1700230789000"
   repo="Steffo99/obsidian-file-index"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create a metadata file about the files present in the Vault.
 - **下载量**：3.0K
 - **最后更新**：2023-11-17
 - **GitHub**：[Steffo99/obsidian-file-index](https://github.com/Steffo99/obsidian-file-index)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: GPT Assistant
-description: Use a GPT-3 based model on your notes and get personalized answers from your knowledge base.
+description: 在笔记中使用基于 GPT-3 的模型，从知识库中获取个性化答案。
 author: M7mdisk
 downloads: 6426
 updated: 1684689029000
 repo: M7mdisk/obsidian-gpt
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gpt-assistant"
   name="GPT Assistant"
-  description="Use a GPT-3 based model on your notes and get personalized answers from your knowledge base."
+  description="在笔记中使用基于 GPT-3 的模型，从知识库中获取个性化答案。"
   author="M7mdisk"
   :downloads="6426"
   :updated="1684689029000"
   repo="M7mdisk/obsidian-gpt"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 GPT Assistant 是一个功能强大的 Obsidian 插件。
 
-Use a GPT-3 based model on your notes and get personalized answers from your knowledge base.
+在笔记中使用基于 GPT-3 的模型，从知识库中获取个性化答案。
 
 通过 GPT Assistant,您可以:
 
@@ -202,7 +202,7 @@ Use a GPT-3 based model on your notes and get personalized answers from your kno
 - **下载量**：6.4K
 - **最后更新**：2023-05-22
 - **GitHub**：[M7mdisk/obsidian-gpt](https://github.com/M7mdisk/obsidian-gpt)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

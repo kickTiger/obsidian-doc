@@ -1,12 +1,12 @@
 ---
 title: Citations
-description: Automatically search and insert citations from a Zotero library.
+description: 从 Zotero 库中自动搜索和插入引文。
 author: Jon Gauthier
-downloads: 200952
+downloads: 201023
 updated: 1664033158000
 repo: hans/obsidian-citation-plugin
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-citation-plugin"
   name="Citations"
-  description="Automatically search and insert citations from a Zotero library."
+  description="从 Zotero 库中自动搜索和插入引文。"
   author="Jon Gauthier"
-  :downloads="200952"
+  :downloads="201023"
   :updated="1664033158000"
   repo="hans/obsidian-citation-plugin"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Citations 是一个功能强大的 Obsidian 插件。
 
-Automatically search and insert citations from a Zotero library.
+从 Zotero 库中自动搜索和插入引文。
 
 通过 Citations,您可以:
 
@@ -202,7 +202,7 @@ Automatically search and insert citations from a Zotero library.
 - **下载量**：201.0K
 - **最后更新**：2022-09-24
 - **GitHub**：[hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 1950
 updated: 1743070311000
 repo: jfsicilia/obsidian-file-manager
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1743070311000"
   repo="jfsicilia/obsidian-file-manager"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds missing features to the file explorer.
 - **下载量**：1.9K
 - **最后更新**：2025-03-27
 - **GitHub**：[jfsicilia/obsidian-file-manager](https://github.com/jfsicilia/obsidian-file-manager)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

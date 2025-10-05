@@ -2,11 +2,11 @@
 title: Notification Controller
 description: Manages notifications at startup.
 author: juan-miii
-downloads: 1659
+downloads: 1660
 updated: 1740503461000
 repo: juan-miii/obsidian-notice-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Notification Controller"
   description="Manages notifications at startup."
   author="juan-miii"
-  :downloads="1659"
+  :downloads="1660"
   :updated="1740503461000"
   repo="juan-miii/obsidian-notice-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manages notifications at startup.
 - **下载量**：1.7K
 - **最后更新**：2025-02-26
 - **GitHub**：[juan-miii/obsidian-notice-plugin](https://github.com/juan-miii/obsidian-notice-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

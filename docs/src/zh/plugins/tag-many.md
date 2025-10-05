@@ -1,12 +1,12 @@
 ---
 title: TagMany
-description: Add the same tag(s) to multiple notes in a folder (optionally including subfolders) at once.
+description: 一次为文件夹（可选择包括子文件夹）中的多个笔记添加相同的标记。
 author: Joshua Martius
-downloads: 5684
+downloads: 5686
 updated: 1693466316000
 repo: joshua-martius/tagmany
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tag-many"
   name="TagMany"
-  description="Add the same tag(s) to multiple notes in a folder (optionally including subfolders) at once."
+  description="一次为文件夹（可选择包括子文件夹）中的多个笔记添加相同的标记。"
   author="Joshua Martius"
-  :downloads="5684"
+  :downloads="5686"
   :updated="1693466316000"
   repo="joshua-martius/tagmany"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 TagMany 是一个功能强大的 Obsidian 插件。
 
-Add the same tag(s) to multiple notes in a folder (optionally including subfolders) at once.
+一次为文件夹（可选择包括子文件夹）中的多个笔记添加相同的标记。
 
 通过 TagMany,您可以:
 
@@ -202,7 +202,7 @@ Add the same tag(s) to multiple notes in a folder (optionally including subfolde
 - **下载量**：5.7K
 - **最后更新**：2023-08-31
 - **GitHub**：[joshua-martius/tagmany](https://github.com/joshua-martius/tagmany)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

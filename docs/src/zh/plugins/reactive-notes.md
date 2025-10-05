@@ -2,11 +2,11 @@
 title: Reactive Notes
 description: Transform your vault into a reactive computational environment. Create dynamic React components directly in your notes.
 author: Elias Noesis
-downloads: 788
+downloads: 791
 updated: 1747863659000
 repo: Prodigist/ReactiveNotes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Reactive Notes"
   description="Transform your vault into a reactive computational environment. Create dynamic React components directly in your notes."
   author="Elias Noesis"
-  :downloads="788"
+  :downloads="791"
   :updated="1747863659000"
   repo="Prodigist/ReactiveNotes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Transform your vault into a reactive computational environment. Create dynamic R
 - **插件 ID**：reactive-notes
 - **作者**：Elias Noesis
 - **当前版本**：v1.0.0
-- **下载量**：788
+- **下载量**：791
 - **最后更新**：2025-05-22
 - **GitHub**：[Prodigist/ReactiveNotes](https://github.com/Prodigist/ReactiveNotes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Spaced everything
 description: Apply spaced repetition algorithms to everything in your vault.
 author: Zach Mueller
-downloads: 832
+downloads: 835
 updated: 1756960641000
 repo: zachmueller/spaced-everything
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Spaced everything"
   description="Apply spaced repetition algorithms to everything in your vault."
   author="Zach Mueller"
-  :downloads="832"
+  :downloads="835"
   :updated="1756960641000"
   repo="zachmueller/spaced-everything"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Apply spaced repetition algorithms to everything in your vault.
 - **插件 ID**：spaced-everything
 - **作者**：Zach Mueller
 - **当前版本**：v1.0.0
-- **下载量**：832
+- **下载量**：835
 - **最后更新**：2025-09-04
 - **GitHub**：[zachmueller/spaced-everything](https://github.com/zachmueller/spaced-everything)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

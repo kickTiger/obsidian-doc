@@ -1,12 +1,12 @@
 ---
 title: Webpage HTML Export
-description: Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.
+description: 从单个文件、画布页面或整个库导出 HTML。通过直接访问导出的 HTML 文件，您可以在任何地方发布您的数字花园。注重灵活性、功能和风格的一致性。
 author: Nathan George
-downloads: 106671
+downloads: 106826
 updated: 1753718506000
 repo: KosmosisDire/obsidian-webpage-export
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="webpage-html-export"
   name="Webpage HTML Export"
-  description="Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity."
+  description="从单个文件、画布页面或整个库导出 HTML。通过直接访问导出的 HTML 文件，您可以在任何地方发布您的数字花园。注重灵活性、功能和风格的一致性。"
   author="Nathan George"
-  :downloads="106671"
+  :downloads="106826"
   :updated="1753718506000"
   repo="KosmosisDire/obsidian-webpage-export"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Webpage HTML Export 是一个功能强大的 Obsidian 插件。
 
-Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style parity.
+从单个文件、画布页面或整个库导出 HTML。通过直接访问导出的 HTML 文件，您可以在任何地方发布您的数字花园。注重灵活性、功能和风格的一致性。
 
 通过 Webpage HTML Export,您可以:
 
@@ -199,10 +199,10 @@ Export html from single files, canvas pages, or whole vaults. Direct access to t
 - **插件 ID**：webpage-html-export
 - **作者**：Nathan George
 - **当前版本**：v1.0.0
-- **下载量**：106.7K
+- **下载量**：106.8K
 - **最后更新**：2025-07-29
 - **GitHub**：[KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 498
 updated: 1755143750000
 repo: bfloydd/coalesce
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1755143750000"
   repo="bfloydd/coalesce"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Coalesce your backlinked notes into a single view
 - **下载量**：498
 - **最后更新**：2025-08-14
 - **GitHub**：[bfloydd/coalesce](https://github.com/bfloydd/coalesce)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

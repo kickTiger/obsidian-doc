@@ -1,12 +1,12 @@
 ---
 title: Subdivider
-description: Convert your notes into nested folders, and automatically create separate files for each subheading.
+description: 将笔记转换为嵌套文件夹，并自动为每个小标题创建单独的文件。
 author: Tricster
-downloads: 3960
+downloads: 3961
 updated: 1723603623000
 repo: MediosZ/obsidian-subdivider
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="subdivider"
   name="Subdivider"
-  description="Convert your notes into nested folders, and automatically create separate files for each subheading."
+  description="将笔记转换为嵌套文件夹，并自动为每个小标题创建单独的文件。"
   author="Tricster"
-  :downloads="3960"
+  :downloads="3961"
   :updated="1723603623000"
   repo="MediosZ/obsidian-subdivider"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Subdivider 是一个功能强大的 Obsidian 插件。
 
-Convert your notes into nested folders, and automatically create separate files for each subheading.
+将笔记转换为嵌套文件夹，并自动为每个小标题创建单独的文件。
 
 通过 Subdivider,您可以:
 
@@ -202,7 +202,7 @@ Convert your notes into nested folders, and automatically create separate files 
 - **下载量**：4.0K
 - **最后更新**：2024-08-14
 - **GitHub**：[MediosZ/obsidian-subdivider](https://github.com/MediosZ/obsidian-subdivider)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

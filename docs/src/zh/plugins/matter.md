@@ -1,12 +1,12 @@
 ---
 title: Matter
-description: Official Matter integration.
+description: 正式事项整合。
 author: Matter
-downloads: 20146
+downloads: 20148
 updated: 1668528762000
 repo: getmatterapp/obsidian-matter
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="matter"
   name="Matter"
-  description="Official Matter integration."
+  description="正式事项整合。"
   author="Matter"
-  :downloads="20146"
+  :downloads="20148"
   :updated="1668528762000"
   repo="getmatterapp/obsidian-matter"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Matter 是一个功能强大的 Obsidian 插件。
 
-Official Matter integration.
+正式事项整合。
 
 通过 Matter,您可以:
 
@@ -202,7 +202,7 @@ Official Matter integration.
 - **下载量**：20.1K
 - **最后更新**：2022-11-16
 - **GitHub**：[getmatterapp/obsidian-matter](https://github.com/getmatterapp/obsidian-matter)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

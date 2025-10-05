@@ -1,12 +1,12 @@
 ---
 title: WordNet Dictionary
-description: A large lexical database of English developed by Princeton University.
+description: 普林斯顿大学开发的大型英语词库。
 author: TfTHacker
-downloads: 23472
-updated: 1730647523000
+downloads: 23566
+updated: 1759562128000
 repo: TfTHacker/Obsidian-WordNet
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-wordnet-plugin"
   name="WordNet Dictionary"
-  description="A large lexical database of English developed by Princeton University."
+  description="普林斯顿大学开发的大型英语词库。"
   author="TfTHacker"
-  :downloads="23472"
-  :updated="1730647523000"
+  :downloads="23566"
+  :updated="1759562128000"
   repo="TfTHacker/Obsidian-WordNet"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 WordNet Dictionary 是一个功能强大的 Obsidian 插件。
 
-A large lexical database of English developed by Princeton University.
+普林斯顿大学开发的大型英语词库。
 
 通过 WordNet Dictionary,您可以:
 
@@ -181,7 +181,7 @@ A large lexical database of English developed by Princeton University.
 
 ### 最新版本：v1.0.0
 
-更新时间：2024-11-03
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/TfTHacker/Obsidian-WordNet/releases) 查看详细更新日志
@@ -199,10 +199,10 @@ A large lexical database of English developed by Princeton University.
 - **插件 ID**：obsidian-wordnet-plugin
 - **作者**：TfTHacker
 - **当前版本**：v1.0.0
-- **下载量**：23.5K
-- **最后更新**：2024-11-03
+- **下载量**：23.6K
+- **最后更新**：2025-10-04
 - **GitHub**：[TfTHacker/Obsidian-WordNet](https://github.com/TfTHacker/Obsidian-WordNet)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Import/Export TiddlyWiki
-description: Import and export TiddlyWiki notes.
+description: 导入和导出 TiddlyWiki 笔记。
 author: Lucas Bordeau
 downloads: 4352
 updated: 1734912945000
 repo: lucasbordeau/obsidian-tiddlywiki
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tiddlywiki-import-export"
   name="Import/Export TiddlyWiki"
-  description="Import and export TiddlyWiki notes."
+  description="导入和导出 TiddlyWiki 笔记。"
   author="Lucas Bordeau"
   :downloads="4352"
   :updated="1734912945000"
   repo="lucasbordeau/obsidian-tiddlywiki"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Import/Export TiddlyWiki 是一个功能强大的 Obsidian 插件。
 
-Import and export TiddlyWiki notes.
+导入和导出 TiddlyWiki 笔记。
 
 通过 Import/Export TiddlyWiki,您可以:
 
@@ -202,7 +202,7 @@ Import and export TiddlyWiki notes.
 - **下载量**：4.4K
 - **最后更新**：2024-12-23
 - **GitHub**：[lucasbordeau/obsidian-tiddlywiki](https://github.com/lucasbordeau/obsidian-tiddlywiki)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

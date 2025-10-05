@@ -1,12 +1,12 @@
 ---
 title: Gnome Terminal Loader
-description: Sidebar action icons to quickly open the Gnome Terminal or to have the Gnome Terminal run a Python module.
+description: 侧边栏操作图标，用于快速打开 Gnome 终端或让 Gnome 终端运行 Python 模块。
 author: David Carmichael
-downloads: 4450
+downloads: 4453
 updated: 1693341268000
 repo: CheeseCake87/gnome-terminal-loader
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gnome-terminal-loader"
   name="Gnome Terminal Loader"
-  description="Sidebar action icons to quickly open the Gnome Terminal or to have the Gnome Terminal run a Python module."
+  description="侧边栏操作图标，用于快速打开 Gnome 终端或让 Gnome 终端运行 Python 模块。"
   author="David Carmichael"
-  :downloads="4450"
+  :downloads="4453"
   :updated="1693341268000"
   repo="CheeseCake87/gnome-terminal-loader"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Gnome Terminal Loader 是一个功能强大的 Obsidian 插件。
 
-Sidebar action icons to quickly open the Gnome Terminal or to have the Gnome Terminal run a Python module.
+侧边栏操作图标，用于快速打开 Gnome 终端或让 Gnome 终端运行 Python 模块。
 
 通过 Gnome Terminal Loader,您可以:
 
@@ -202,7 +202,7 @@ Sidebar action icons to quickly open the Gnome Terminal or to have the Gnome Ter
 - **下载量**：4.5K
 - **最后更新**：2023-08-30
 - **GitHub**：[CheeseCake87/gnome-terminal-loader](https://github.com/CheeseCake87/gnome-terminal-loader)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

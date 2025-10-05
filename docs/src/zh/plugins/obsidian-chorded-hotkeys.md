@@ -1,12 +1,12 @@
 ---
 title: Chorded Hotkeys
-description: Type multiple letters at the same time to trigger text insertion, template insertion, or command execution.
+description: 同时键入多个字母可触发文本插入、模板插入或命令执行。
 author: Trey Connor Meyers
-downloads: 4702
+downloads: 4703
 updated: 1698630782000
 repo: ConnorMeyers/obsidian-chorded-hotkeys
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-chorded-hotkeys"
   name="Chorded Hotkeys"
-  description="Type multiple letters at the same time to trigger text insertion, template insertion, or command execution."
+  description="同时键入多个字母可触发文本插入、模板插入或命令执行。"
   author="Trey Connor Meyers"
-  :downloads="4702"
+  :downloads="4703"
   :updated="1698630782000"
   repo="ConnorMeyers/obsidian-chorded-hotkeys"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chorded Hotkeys 是一个功能强大的 Obsidian 插件。
 
-Type multiple letters at the same time to trigger text insertion, template insertion, or command execution.
+同时键入多个字母可触发文本插入、模板插入或命令执行。
 
 通过 Chorded Hotkeys,您可以:
 
@@ -202,7 +202,7 @@ Type multiple letters at the same time to trigger text insertion, template inser
 - **下载量**：4.7K
 - **最后更新**：2023-10-30
 - **GitHub**：[ConnorMeyers/obsidian-chorded-hotkeys](https://github.com/ConnorMeyers/obsidian-chorded-hotkeys)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

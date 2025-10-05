@@ -6,7 +6,7 @@ downloads: 1055
 updated: 1733906036000
 repo: HoBeom/obsidian-mouse-navigation
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1733906036000"
   repo="HoBeom/obsidian-mouse-navigation"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enables smooth navigation using mouse gestures for scrolling and switching pages
 - **下载量**：1.1K
 - **最后更新**：2024-12-11
 - **GitHub**：[HoBeom/obsidian-mouse-navigation](https://github.com/HoBeom/obsidian-mouse-navigation)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

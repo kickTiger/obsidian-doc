@@ -1,12 +1,12 @@
 ---
 title: Typst Renderer
-description: 'Render `typst` code blocks and math blocks to images with Typst.'
+description: '使用 Typst 将 `typst` 代码块和数学块渲染为图像。'
 author: fenjalien
-downloads: 9650
+downloads: 9654
 updated: 1710811883000
 repo: fenjalien/obsidian-typst
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="typst"
   name="Typst Renderer"
-  description="Render `typst` code blocks and math blocks to images with Typst."
+  description="使用 Typst 将 `typst` 代码块和数学块渲染为图像。"
   author="fenjalien"
-  :downloads="9650"
+  :downloads="9654"
   :updated="1710811883000"
   repo="fenjalien/obsidian-typst"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Typst Renderer 是一个功能强大的 Obsidian 插件。
 
-Render `typst` code blocks and math blocks to images with Typst.
+使用 Typst 将 `typst` 代码块和数学块渲染为图像。
 
 通过 Typst Renderer,您可以:
 
@@ -202,7 +202,7 @@ Render `typst` code blocks and math blocks to images with Typst.
 - **下载量**：9.7K
 - **最后更新**：2024-03-19
 - **GitHub**：[fenjalien/obsidian-typst](https://github.com/fenjalien/obsidian-typst)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

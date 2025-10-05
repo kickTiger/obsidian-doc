@@ -2,11 +2,11 @@
 title: KeepSidian
 description: Commands to import Google Keep notes.
 author: lc0rp
-downloads: 1207
+downloads: 1211
 updated: 1758371429000
 repo: lc0rp/KeepSidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="KeepSidian"
   description="Commands to import Google Keep notes."
   author="lc0rp"
-  :downloads="1207"
+  :downloads="1211"
   :updated="1758371429000"
   repo="lc0rp/KeepSidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Commands to import Google Keep notes.
 - **下载量**：1.2K
 - **最后更新**：2025-09-20
 - **GitHub**：[lc0rp/KeepSidian](https://github.com/lc0rp/KeepSidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

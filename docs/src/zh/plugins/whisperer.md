@@ -2,11 +2,11 @@
 title: WHISPERER.md
 description: 'Play ambience in your vault, assign audio to files through metadata with support of local (from vault) and URLs (Youtube, Soundcloud) versions of audio: works on mobile vaults.'
 author: Falcion
-downloads: 802
+downloads: 804
 updated: 1747225023000
 repo: Falcion/Whisperer.md
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="WHISPERER.md"
   description="Play ambience in your vault, assign audio to files through metadata with support of local (from vault) and URLs (Youtube, Soundcloud) versions of audio: works on mobile vaults."
   author="Falcion"
-  :downloads="802"
+  :downloads="804"
   :updated="1747225023000"
   repo="Falcion/Whisperer.md"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Play ambience in your vault, assign audio to files through metadata with support
 - **插件 ID**：whisperer
 - **作者**：Falcion
 - **当前版本**：v1.0.0
-- **下载量**：802
+- **下载量**：804
 - **最后更新**：2025-05-14
 - **GitHub**：[Falcion/Whisperer.md](https://github.com/Falcion/Whisperer.md)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

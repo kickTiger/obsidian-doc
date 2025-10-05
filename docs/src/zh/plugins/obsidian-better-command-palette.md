@@ -1,12 +1,12 @@
 ---
 title: Better Command Palette
-description: A command palette that does all of the things you want it to do.
+description: 一个命令调色板，可以做你想做的所有事情。
 author: Alex Bieg
-downloads: 35050
+downloads: 35066
 updated: 1695758088000
 repo: AlexBieg/obsidian-better-command-palette
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-better-command-palette"
   name="Better Command Palette"
-  description="A command palette that does all of the things you want it to do."
+  description="一个命令调色板，可以做你想做的所有事情。"
   author="Alex Bieg"
-  :downloads="35050"
+  :downloads="35066"
   :updated="1695758088000"
   repo="AlexBieg/obsidian-better-command-palette"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better Command Palette 是一个功能强大的 Obsidian 插件。
 
-A command palette that does all of the things you want it to do.
+一个命令调色板，可以做你想做的所有事情。
 
 通过 Better Command Palette,您可以:
 
@@ -199,10 +199,10 @@ A command palette that does all of the things you want it to do.
 - **插件 ID**：obsidian-better-command-palette
 - **作者**：Alex Bieg
 - **当前版本**：v1.0.0
-- **下载量**：35.0K
+- **下载量**：35.1K
 - **最后更新**：2023-09-27
 - **GitHub**：[AlexBieg/obsidian-better-command-palette](https://github.com/AlexBieg/obsidian-better-command-palette)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

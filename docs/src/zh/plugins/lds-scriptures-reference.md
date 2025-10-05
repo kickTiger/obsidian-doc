@@ -6,7 +6,7 @@ downloads: 3510
 updated: 1691211667000
 repo: pacokwon/obsidian-lds-scriptures-plugin
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1691211667000"
   repo="pacokwon/obsidian-lds-scriptures-plugin"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily insert references to LDS scriptures.
 - **下载量**：3.5K
 - **最后更新**：2023-08-05
 - **GitHub**：[pacokwon/obsidian-lds-scriptures-plugin](https://github.com/pacokwon/obsidian-lds-scriptures-plugin)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

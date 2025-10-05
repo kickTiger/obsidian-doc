@@ -1,12 +1,12 @@
 ---
 title: Global Search and Replace
-description: Search and replace in all vault files.
+description: 在所有保险库文件中进行搜索和替换。
 author: Mahmoud Fawzy Khalil
-downloads: 43546
+downloads: 43596
 updated: 1717438996000
 repo: MahmoudFawzyKhalil/obsidian-global-search-and-replace
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="global-search-and-replace"
   name="Global Search and Replace"
-  description="Search and replace in all vault files."
+  description="在所有保险库文件中进行搜索和替换。"
   author="Mahmoud Fawzy Khalil"
-  :downloads="43546"
+  :downloads="43596"
   :updated="1717438996000"
   repo="MahmoudFawzyKhalil/obsidian-global-search-and-replace"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Global Search and Replace 是一个功能强大的 Obsidian 插件。
 
-Search and replace in all vault files.
+在所有保险库文件中进行搜索和替换。
 
 通过 Global Search and Replace,您可以:
 
@@ -199,10 +199,10 @@ Search and replace in all vault files.
 - **插件 ID**：global-search-and-replace
 - **作者**：Mahmoud Fawzy Khalil
 - **当前版本**：v1.0.0
-- **下载量**：43.5K
+- **下载量**：43.6K
 - **最后更新**：2024-06-04
 - **GitHub**：[MahmoudFawzyKhalil/obsidian-global-search-and-replace](https://github.com/MahmoudFawzyKhalil/obsidian-global-search-and-replace)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

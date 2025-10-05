@@ -1,12 +1,12 @@
 ---
 title: BookFusion
-description: 'Import your BookFusion highlights & annotations into your vault.'
+description: 将您的 BookFusion 重点内容和注释导入您的资料库。
 author: BookFusion
-downloads: 3806
+downloads: 3812
 updated: 1710764939000
 repo: BookFusion/obsidian-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="bookfusion"
   name="BookFusion"
-  description="Import your BookFusion highlights &amp; annotations into your vault."
+  description="将您的 BookFusion 重点内容和注释导入您的资料库。"
   author="BookFusion"
-  :downloads="3806"
+  :downloads="3812"
   :updated="1710764939000"
   repo="BookFusion/obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 BookFusion 是一个功能强大的 Obsidian 插件。
 
-Import your BookFusion highlights &amp; annotations into your vault.
+将您的 BookFusion 重点内容和注释导入您的资料库。
 
 通过 BookFusion,您可以:
 
@@ -202,7 +202,7 @@ Import your BookFusion highlights &amp; annotations into your vault.
 - **下载量**：3.8K
 - **最后更新**：2024-03-18
 - **GitHub**：[BookFusion/obsidian-plugin](https://github.com/BookFusion/obsidian-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

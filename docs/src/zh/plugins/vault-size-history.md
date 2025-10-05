@@ -1,12 +1,12 @@
 ---
 title: Vault Size History
-description: Graph of the Number of Files in the Vault.
+description: 保险库中文件数量的图表。
 author: Technerium
-downloads: 5149
+downloads: 5153
 updated: 1754716119000
 repo: technerium/obsidian-vault-size-history
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vault-size-history"
   name="Vault Size History"
-  description="Graph of the Number of Files in the Vault."
+  description="保险库中文件数量的图表。"
   author="Technerium"
-  :downloads="5149"
+  :downloads="5153"
   :updated="1754716119000"
   repo="technerium/obsidian-vault-size-history"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vault Size History 是一个功能强大的 Obsidian 插件。
 
-Graph of the Number of Files in the Vault.
+保险库中文件数量的图表。
 
 通过 Vault Size History,您可以:
 
@@ -199,10 +199,10 @@ Graph of the Number of Files in the Vault.
 - **插件 ID**：vault-size-history
 - **作者**：Technerium
 - **当前版本**：v1.0.0
-- **下载量**：5.1K
+- **下载量**：5.2K
 - **最后更新**：2025-08-09
 - **GitHub**：[technerium/obsidian-vault-size-history](https://github.com/technerium/obsidian-vault-size-history)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 2920
 updated: 1693181754000
 repo: dmitrichev/pickly-page-blend
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1693181754000"
   repo="dmitrichev/pickly-page-blend"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish your notes in one click.
 - **下载量**：2.9K
 - **最后更新**：2023-08-28
 - **GitHub**：[dmitrichev/pickly-page-blend](https://github.com/dmitrichev/pickly-page-blend)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

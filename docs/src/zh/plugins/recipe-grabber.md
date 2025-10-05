@@ -1,12 +1,12 @@
 ---
 title: Recipe Grabber
-description: Quickly grab the important contents of any online recipe.
+description: 快速获取任何在线食谱的重要内容。
 author: seethroughdev
-downloads: 7330
+downloads: 7342
 updated: 1717604223000
 repo: seethroughdev/obsidian-recipe-grabber
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="recipe-grabber"
   name="Recipe Grabber"
-  description="Quickly grab the important contents of any online recipe."
+  description="快速获取任何在线食谱的重要内容。"
   author="seethroughdev"
-  :downloads="7330"
+  :downloads="7342"
   :updated="1717604223000"
   repo="seethroughdev/obsidian-recipe-grabber"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Recipe Grabber 是一个功能强大的 Obsidian 插件。
 
-Quickly grab the important contents of any online recipe.
+快速获取任何在线食谱的重要内容。
 
 通过 Recipe Grabber,您可以:
 
@@ -202,7 +202,7 @@ Quickly grab the important contents of any online recipe.
 - **下载量**：7.3K
 - **最后更新**：2024-06-06
 - **GitHub**：[seethroughdev/obsidian-recipe-grabber](https://github.com/seethroughdev/obsidian-recipe-grabber)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

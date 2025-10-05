@@ -6,7 +6,7 @@ downloads: 874
 updated: 1742943418000
 repo: sky150/obsidian-image-embedder
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1742943418000"
   repo="sky150/obsidian-image-embedder"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically downloads and embeds images from URLs when pasting
 - **下载量**：874
 - **最后更新**：2025-03-26
 - **GitHub**：[sky150/obsidian-image-embedder](https://github.com/sky150/obsidian-image-embedder)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

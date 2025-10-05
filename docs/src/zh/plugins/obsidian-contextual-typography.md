@@ -1,12 +1,12 @@
 ---
 title: Contextual Typography
-description: 'Add a data-tag-name attribute to all top-level divs in preview mode containing the child''s tag name, allowing contextual typography styling.'
+description: 在预览模式下为所有顶层 div 添加包含子标签名称的 data-tag-name 属性，以便根据上下文进行排版样式设计。
 author: mgmeyers
-downloads: 101846
+downloads: 101878
 updated: 1683425664000
 repo: mgmeyers/obsidian-contextual-typography
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-contextual-typography"
   name="Contextual Typography"
-  description="Add a data-tag-name attribute to all top-level divs in preview mode containing the child&#39;s tag name, allowing contextual typography styling."
+  description="在预览模式下为所有顶层 div 添加包含子标签名称的 data-tag-name 属性，以便根据上下文进行排版样式设计。"
   author="mgmeyers"
-  :downloads="101846"
+  :downloads="101878"
   :updated="1683425664000"
   repo="mgmeyers/obsidian-contextual-typography"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Contextual Typography 是一个功能强大的 Obsidian 插件。
 
-Add a data-tag-name attribute to all top-level divs in preview mode containing the child&#39;s tag name, allowing contextual typography styling.
+在预览模式下为所有顶层 div 添加包含子标签名称的 data-tag-name 属性，以便根据上下文进行排版样式设计。
 
 通过 Contextual Typography,您可以:
 
@@ -199,10 +199,10 @@ Add a data-tag-name attribute to all top-level divs in preview mode containing t
 - **插件 ID**：obsidian-contextual-typography
 - **作者**：mgmeyers
 - **当前版本**：v1.0.0
-- **下载量**：101.8K
+- **下载量**：101.9K
 - **最后更新**：2023-05-07
 - **GitHub**：[mgmeyers/obsidian-contextual-typography](https://github.com/mgmeyers/obsidian-contextual-typography)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

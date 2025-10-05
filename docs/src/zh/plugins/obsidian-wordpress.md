@@ -1,12 +1,12 @@
 ---
 title: WordPress
-description: Publish to WordPress.
+description: 发布到 WordPress。
 author: devbean
-downloads: 18609
+downloads: 18613
 updated: 1703042667000
 repo: devbean/obsidian-wordpress
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-wordpress"
   name="WordPress"
-  description="Publish to WordPress."
+  description="发布到 WordPress。"
   author="devbean"
-  :downloads="18609"
+  :downloads="18613"
   :updated="1703042667000"
   repo="devbean/obsidian-wordpress"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 WordPress 是一个功能强大的 Obsidian 插件。
 
-Publish to WordPress.
+发布到 WordPress。
 
 通过 WordPress,您可以:
 
@@ -202,7 +202,7 @@ Publish to WordPress.
 - **下载量**：18.6K
 - **最后更新**：2023-12-20
 - **GitHub**：[devbean/obsidian-wordpress](https://github.com/devbean/obsidian-wordpress)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

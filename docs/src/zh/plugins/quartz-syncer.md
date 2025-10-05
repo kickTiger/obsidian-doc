@@ -2,11 +2,11 @@
 title: Quartz Syncer
 description: Manage and publish your notes to Quartz, the fast, batteries-included static-site generator.
 author: Emile Bangma
-downloads: 3310
+downloads: 3324
 updated: 1754551721000
 repo: saberzero1/quartz-syncer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Quartz Syncer"
   description="Manage and publish your notes to Quartz, the fast, batteries-included static-site generator."
   author="Emile Bangma"
-  :downloads="3310"
+  :downloads="3324"
   :updated="1754551721000"
   repo="saberzero1/quartz-syncer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manage and publish your notes to Quartz, the fast, batteries-included static-sit
 - **下载量**：3.3K
 - **最后更新**：2025-08-07
 - **GitHub**：[saberzero1/quartz-syncer](https://github.com/saberzero1/quartz-syncer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

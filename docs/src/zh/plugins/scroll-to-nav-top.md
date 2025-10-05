@@ -2,11 +2,11 @@
 title: Scrolls To Nav Top
 description: Scrolls File Explorer to top position.
 author: mario
-downloads: 252
+downloads: 253
 updated: 1754576700000
 repo: mariomui/scroll-to-nav-top
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Scrolls To Nav Top"
   description="Scrolls File Explorer to top position."
   author="mario"
-  :downloads="252"
+  :downloads="253"
   :updated="1754576700000"
   repo="mariomui/scroll-to-nav-top"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Scrolls File Explorer to top position.
 - **插件 ID**：scroll-to-nav-top
 - **作者**：mario
 - **当前版本**：v1.0.0
-- **下载量**：252
+- **下载量**：253
 - **最后更新**：2025-08-07
 - **GitHub**：[mariomui/scroll-to-nav-top](https://github.com/mariomui/scroll-to-nav-top)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

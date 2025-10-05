@@ -2,11 +2,11 @@
 title: Simple Citations
 description: 'Add & update simple literature notes from Zotero.'
 author: masaki39
-downloads: 3329
+downloads: 3331
 updated: 1755418794000
 repo: masaki39/simple-citations
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Simple Citations"
   description="Add &amp; update simple literature notes from Zotero."
   author="masaki39"
-  :downloads="3329"
+  :downloads="3331"
   :updated="1755418794000"
   repo="masaki39/simple-citations"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add &amp; update simple literature notes from Zotero.
 - **下载量**：3.3K
 - **最后更新**：2025-08-17
 - **GitHub**：[masaki39/simple-citations](https://github.com/masaki39/simple-citations)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

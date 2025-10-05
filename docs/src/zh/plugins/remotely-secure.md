@@ -1,12 +1,12 @@
 ---
 title: Remotely Sync
-description: Security fixes for the remotely-save unofficial plugin allowing users to synchronize notes between local device and the cloud service. Not backwards compatible.
+description: 远程保存非官方插件的安全修复，允许用户在本地设备和云服务之间同步笔记。不向后兼容。
 author: sboesen
-downloads: 47872
+downloads: 47930
 updated: 1714857020000
 repo: sboesen/remotely-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="remotely-secure"
   name="Remotely Sync"
-  description="Security fixes for the remotely-save unofficial plugin allowing users to synchronize notes between local device and the cloud service. Not backwards compatible."
+  description="远程保存非官方插件的安全修复，允许用户在本地设备和云服务之间同步笔记。不向后兼容。"
   author="sboesen"
-  :downloads="47872"
+  :downloads="47930"
   :updated="1714857020000"
   repo="sboesen/remotely-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Remotely Sync 是一个功能强大的 Obsidian 插件。
 
-Security fixes for the remotely-save unofficial plugin allowing users to synchronize notes between local device and the cloud service. Not backwards compatible.
+远程保存非官方插件的安全修复，允许用户在本地设备和云服务之间同步笔记。不向后兼容。
 
 通过 Remotely Sync,您可以:
 
@@ -202,7 +202,7 @@ Security fixes for the remotely-save unofficial plugin allowing users to synchro
 - **下载量**：47.9K
 - **最后更新**：2024-05-05
 - **GitHub**：[sboesen/remotely-sync](https://github.com/sboesen/remotely-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

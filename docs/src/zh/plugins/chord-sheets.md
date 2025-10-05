@@ -1,12 +1,12 @@
 ---
 title: Chord Sheets
-description: 'Work with chord sheets (chords over lyrics or inline) in Live Preview and reading mode: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll, and more.'
+description: 在实时预览和阅读模式下使用和弦谱（歌词上的和弦或内嵌和弦）：吉他、尤克里里和曼陀林和弦图，移调、自动滚动等功能。
 author: Marcel Schaeben
-downloads: 15097
+downloads: 15117
 updated: 1752076371000
 repo: olvidalo/obsidian-chord-sheets
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chord-sheets"
   name="Chord Sheets"
-  description="Work with chord sheets (chords over lyrics or inline) in Live Preview and reading mode: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll, and more."
+  description="在实时预览和阅读模式下使用和弦谱（歌词上的和弦或内嵌和弦）：吉他、尤克里里和曼陀林和弦图，移调、自动滚动等功能。"
   author="Marcel Schaeben"
-  :downloads="15097"
+  :downloads="15117"
   :updated="1752076371000"
   repo="olvidalo/obsidian-chord-sheets"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chord Sheets 是一个功能强大的 Obsidian 插件。
 
-Work with chord sheets (chords over lyrics or inline) in Live Preview and reading mode: Chord diagrams for guitar, ukulele and mandolin, transpose, autoscroll, and more.
+在实时预览和阅读模式下使用和弦谱（歌词上的和弦或内嵌和弦）：吉他、尤克里里和曼陀林和弦图，移调、自动滚动等功能。
 
 通过 Chord Sheets,您可以:
 
@@ -202,7 +202,7 @@ Work with chord sheets (chords over lyrics or inline) in Live Preview and readin
 - **下载量**：15.1K
 - **最后更新**：2025-07-09
 - **GitHub**：[olvidalo/obsidian-chord-sheets](https://github.com/olvidalo/obsidian-chord-sheets)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Outline Converter
 description: Convert outline to continuous text.
 author: masaki39
-downloads: 1758
+downloads: 1759
 updated: 1751083674000
 repo: masaki39/outline-converter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Outline Converter"
   description="Convert outline to continuous text."
   author="masaki39"
-  :downloads="1758"
+  :downloads="1759"
   :updated="1751083674000"
   repo="masaki39/outline-converter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Convert outline to continuous text.
 - **下载量**：1.8K
 - **最后更新**：2025-06-28
 - **GitHub**：[masaki39/outline-converter](https://github.com/masaki39/outline-converter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: YTSummarizer
 description: Fetch YouTube video transcripts and generate summaries using OpenAI models.
 author: Arda Kalaycı
-downloads: 594
+downloads: 599
 updated: 1742302225000
 repo: ardakalayci/ytsummarizer
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="YTSummarizer"
   description="Fetch YouTube video transcripts and generate summaries using OpenAI models."
   author="Arda Kalaycı"
-  :downloads="594"
+  :downloads="599"
   :updated="1742302225000"
   repo="ardakalayci/ytsummarizer"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Fetch YouTube video transcripts and generate summaries using OpenAI models.
 - **插件 ID**：yt-summarizer
 - **作者**：Arda Kalaycı
 - **当前版本**：v1.0.0
-- **下载量**：594
+- **下载量**：599
 - **最后更新**：2025-03-18
 - **GitHub**：[ardakalayci/ytsummarizer](https://github.com/ardakalayci/ytsummarizer)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

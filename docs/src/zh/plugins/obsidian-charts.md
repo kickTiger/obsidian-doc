@@ -1,12 +1,12 @@
 ---
 title: Charts
-description: Easily create interactive charts in your notes.
+description: 在笔记中创建交互式图表。
 author: phibr0
-downloads: 253480
+downloads: 253641
 updated: 1706264023000
 repo: phibr0/obsidian-charts
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-charts"
   name="Charts"
-  description="Easily create interactive charts in your notes."
+  description="在笔记中创建交互式图表。"
   author="phibr0"
-  :downloads="253480"
+  :downloads="253641"
   :updated="1706264023000"
   repo="phibr0/obsidian-charts"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Charts 是一个功能强大的 Obsidian 插件。
 
-Easily create interactive charts in your notes.
+在笔记中创建交互式图表。
 
 通过 Charts,您可以:
 
@@ -199,10 +199,10 @@ Easily create interactive charts in your notes.
 - **插件 ID**：obsidian-charts
 - **作者**：phibr0
 - **当前版本**：v1.0.0
-- **下载量**：253.5K
+- **下载量**：253.6K
 - **最后更新**：2024-01-26
 - **GitHub**：[phibr0/obsidian-charts](https://github.com/phibr0/obsidian-charts)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

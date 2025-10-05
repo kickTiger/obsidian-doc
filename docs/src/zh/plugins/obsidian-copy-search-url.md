@@ -1,12 +1,12 @@
 ---
 title: Copy Search URL
-description: Add a button to the search view to copy the search URL.
+description: 在搜索视图中添加一个按钮，用于复制搜索 URL。
 author: Carlo Zottmann
 downloads: 5233
 updated: 1683051115000
 repo: czottmann/obsidian-copy-search-url
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-copy-search-url"
   name="Copy Search URL"
-  description="Add a button to the search view to copy the search URL."
+  description="在搜索视图中添加一个按钮，用于复制搜索 URL。"
   author="Carlo Zottmann"
   :downloads="5233"
   :updated="1683051115000"
   repo="czottmann/obsidian-copy-search-url"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Copy Search URL 是一个功能强大的 Obsidian 插件。
 
-Add a button to the search view to copy the search URL.
+在搜索视图中添加一个按钮，用于复制搜索 URL。
 
 通过 Copy Search URL,您可以:
 
@@ -202,7 +202,7 @@ Add a button to the search view to copy the search URL.
 - **下载量**：5.2K
 - **最后更新**：2023-05-03
 - **GitHub**：[czottmann/obsidian-copy-search-url](https://github.com/czottmann/obsidian-copy-search-url)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

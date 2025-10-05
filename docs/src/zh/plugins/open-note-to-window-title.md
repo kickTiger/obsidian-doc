@@ -1,12 +1,12 @@
 ---
 title: Custom window title
-description: Show the current open note in the window title.
+description: 在窗口标题中显示当前打开的笔记。
 author: Joost Plattel
-downloads: 14920
+downloads: 14921
 updated: 1653328474000
 repo: jplattel/open-note-to-window-title
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="open-note-to-window-title"
   name="Custom window title"
-  description="Show the current open note in the window title."
+  description="在窗口标题中显示当前打开的笔记。"
   author="Joost Plattel"
-  :downloads="14920"
+  :downloads="14921"
   :updated="1653328474000"
   repo="jplattel/open-note-to-window-title"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Custom window title 是一个功能强大的 Obsidian 插件。
 
-Show the current open note in the window title.
+在窗口标题中显示当前打开的笔记。
 
 通过 Custom window title,您可以:
 
@@ -202,7 +202,7 @@ Show the current open note in the window title.
 - **下载量**：14.9K
 - **最后更新**：2022-05-24
 - **GitHub**：[jplattel/open-note-to-window-title](https://github.com/jplattel/open-note-to-window-title)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

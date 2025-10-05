@@ -2,11 +2,11 @@
 title: Bookmarks Caller
 description: Easily open bookmarks.
 author: namikaze-40p
-downloads: 3514
+downloads: 3520
 updated: 1757145986000
 repo: namikaze-40p/obsidian-bookmarks-caller
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Bookmarks Caller"
   description="Easily open bookmarks."
   author="namikaze-40p"
-  :downloads="3514"
+  :downloads="3520"
   :updated="1757145986000"
   repo="namikaze-40p/obsidian-bookmarks-caller"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily open bookmarks.
 - **下载量**：3.5K
 - **最后更新**：2025-09-06
 - **GitHub**：[namikaze-40p/obsidian-bookmarks-caller](https://github.com/namikaze-40p/obsidian-bookmarks-caller)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

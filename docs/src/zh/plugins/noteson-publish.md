@@ -2,11 +2,11 @@
 title: NotesOn Publish
 description: Make single notes instantly available on the web.
 author: Andrey Shapkin
-downloads: 1091
+downloads: 1092
 updated: 1756906436000
 repo: shapkinaa/noteson-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="NotesOn Publish"
   description="Make single notes instantly available on the web."
   author="Andrey Shapkin"
-  :downloads="1091"
+  :downloads="1092"
   :updated="1756906436000"
   repo="shapkinaa/noteson-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Make single notes instantly available on the web.
 - **下载量**：1.1K
 - **最后更新**：2025-09-03
 - **GitHub**：[shapkinaa/noteson-obsidian-plugin](https://github.com/shapkinaa/noteson-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

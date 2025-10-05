@@ -1,12 +1,12 @@
 ---
 title: Force note view mode
-description: 'Force the view mode for a note by using frontmatter: YAML block with ''obsidian_ui_mode'' as key.'
+description: '使用 frontmatter.YAML 代码块，以 "obsidian_ui_mode "为关键字，强制设置注释的视图模式：以 "obsidian_ui_mode "为关键字的 YAML 代码块。'
 author: Benny Wydooghe
-downloads: 58767
+downloads: 58805
 updated: 1701978027000
 repo: bwydoogh/obsidian-force-view-mode-of-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-view-mode-by-frontmatter"
   name="Force note view mode"
-  description="Force the view mode for a note by using frontmatter: YAML block with &#39;obsidian_ui_mode&#39; as key."
+  description="使用 frontmatter.YAML 代码块，以 &quot;obsidian_ui_mode &quot;为关键字，强制设置注释的视图模式：以 &quot;obsidian_ui_mode &quot;为关键字的 YAML 代码块。"
   author="Benny Wydooghe"
-  :downloads="58767"
+  :downloads="58805"
   :updated="1701978027000"
   repo="bwydoogh/obsidian-force-view-mode-of-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Force note view mode 是一个功能强大的 Obsidian 插件。
 
-Force the view mode for a note by using frontmatter: YAML block with &#39;obsidian_ui_mode&#39; as key.
+使用 frontmatter.YAML 代码块，以 &quot;obsidian_ui_mode &quot;为关键字，强制设置注释的视图模式：以 &quot;obsidian_ui_mode &quot;为关键字的 YAML 代码块。
 
 通过 Force note view mode,您可以:
 
@@ -202,7 +202,7 @@ Force the view mode for a note by using frontmatter: YAML block with &#39;obsidi
 - **下载量**：58.8K
 - **最后更新**：2023-12-08
 - **GitHub**：[bwydoogh/obsidian-force-view-mode-of-note](https://github.com/bwydoogh/obsidian-force-view-mode-of-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

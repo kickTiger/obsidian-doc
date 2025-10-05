@@ -1,12 +1,12 @@
 ---
 title: Emoji Shortcodes
-description: 'Enable the use of Markdown Emoji shortcodes :smile:, just like in Slack or Discord.'
+description: '启用 Markdown Emoji 简码 :smile:，就像在 Slack 或 Discord 中一样。'
 author: phibr0
-downloads: 119862
+downloads: 119927
 updated: 1670756346000
 repo: phibr0/obsidian-emoji-shortcodes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="emoji-shortcodes"
   name="Emoji Shortcodes"
-  description="Enable the use of Markdown Emoji shortcodes :smile:, just like in Slack or Discord."
+  description="启用 Markdown Emoji 简码 :smile:，就像在 Slack 或 Discord 中一样。"
   author="phibr0"
-  :downloads="119862"
+  :downloads="119927"
   :updated="1670756346000"
   repo="phibr0/obsidian-emoji-shortcodes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Emoji Shortcodes 是一个功能强大的 Obsidian 插件。
 
-Enable the use of Markdown Emoji shortcodes :smile:, just like in Slack or Discord.
+启用 Markdown Emoji 简码 :smile:，就像在 Slack 或 Discord 中一样。
 
 通过 Emoji Shortcodes,您可以:
 
@@ -202,7 +202,7 @@ Enable the use of Markdown Emoji shortcodes :smile:, just like in Slack or Disco
 - **下载量**：119.9K
 - **最后更新**：2022-12-11
 - **GitHub**：[phibr0/obsidian-emoji-shortcodes](https://github.com/phibr0/obsidian-emoji-shortcodes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

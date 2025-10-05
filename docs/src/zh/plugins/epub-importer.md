@@ -1,12 +1,12 @@
 ---
 title: Epub Importer
-description: Import EPUB files as Markdown.
+description: 导入 EPUB 文件为 Markdown。
 author: aoout
-downloads: 26371
+downloads: 26395
 updated: 1753614611000
 repo: aoout/obsidian-epub-importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="epub-importer"
   name="Epub Importer"
-  description="Import EPUB files as Markdown."
+  description="导入 EPUB 文件为 Markdown。"
   author="aoout"
-  :downloads="26371"
+  :downloads="26395"
   :updated="1753614611000"
   repo="aoout/obsidian-epub-importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Epub Importer 是一个功能强大的 Obsidian 插件。
 
-Import EPUB files as Markdown.
+导入 EPUB 文件为 Markdown。
 
 通过 Epub Importer,您可以:
 
@@ -202,7 +202,7 @@ Import EPUB files as Markdown.
 - **下载量**：26.4K
 - **最后更新**：2025-07-27
 - **GitHub**：[aoout/obsidian-epub-importer](https://github.com/aoout/obsidian-epub-importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 614
 updated: 1749827839000
 repo: AmmarCodes/obsidian-quran-helper-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1749827839000"
   repo="AmmarCodes/obsidian-quran-helper-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Find and insert any Quran Ayah (verse) in your notes.
 - **下载量**：614
 - **最后更新**：2025-06-13
 - **GitHub**：[AmmarCodes/obsidian-quran-helper-plugin](https://github.com/AmmarCodes/obsidian-quran-helper-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

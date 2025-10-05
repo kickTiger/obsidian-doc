@@ -6,7 +6,7 @@ downloads: 1374
 updated: 1732642835000
 repo: usysrc/obsidian-text-focus-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1732642835000"
   repo="usysrc/obsidian-text-focus-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Focus the text area when creating new notes
 - **下载量**：1.4K
 - **最后更新**：2024-11-27
 - **GitHub**：[usysrc/obsidian-text-focus-plugin](https://github.com/usysrc/obsidian-text-focus-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

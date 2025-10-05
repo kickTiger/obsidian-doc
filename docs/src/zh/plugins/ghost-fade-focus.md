@@ -1,12 +1,12 @@
 ---
 title: Ghost Fade Focus
-description: 'Focused on the current line, others faded like a ghost!'
+description: 专注于当前线路，其他人则像幽灵一样消失了！
 author: Sami Korpela
-downloads: 10243
+downloads: 10246
 updated: 1664045670000
 repo: skipadu/obsidian-ghost-fade-focus
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ghost-fade-focus"
   name="Ghost Fade Focus"
-  description="Focused on the current line, others faded like a ghost!"
+  description="专注于当前线路，其他人则像幽灵一样消失了！"
   author="Sami Korpela"
-  :downloads="10243"
+  :downloads="10246"
   :updated="1664045670000"
   repo="skipadu/obsidian-ghost-fade-focus"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ghost Fade Focus 是一个功能强大的 Obsidian 插件。
 
-Focused on the current line, others faded like a ghost!
+专注于当前线路，其他人则像幽灵一样消失了！
 
 通过 Ghost Fade Focus,您可以:
 
@@ -202,7 +202,7 @@ Focused on the current line, others faded like a ghost!
 - **下载量**：10.2K
 - **最后更新**：2022-09-25
 - **GitHub**：[skipadu/obsidian-ghost-fade-focus](https://github.com/skipadu/obsidian-ghost-fade-focus)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

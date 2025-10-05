@@ -6,7 +6,7 @@ downloads: 3284
 updated: 1686086483000
 repo: JonnyDeates/obsidian-pivotal-tracker-integration-plugin
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1686086483000"
   repo="JonnyDeates/obsidian-pivotal-tracker-integration-plugin"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Pull stories, bugs, chores from Pivotal Tracker.
 - **下载量**：3.3K
 - **最后更新**：2023-06-07
 - **GitHub**：[JonnyDeates/obsidian-pivotal-tracker-integration-plugin](https://github.com/JonnyDeates/obsidian-pivotal-tracker-integration-plugin)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

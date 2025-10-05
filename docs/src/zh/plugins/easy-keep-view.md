@@ -2,11 +2,11 @@
 title: Easy Keep View
 description: Easy Keep View mimics the Google Keep interface, allowing you to view and manage your notes with image thumbnails and excerpts.
 author: '@tazihad'
-downloads: 1064
+downloads: 1067
 updated: 1746934582000
 repo: tazihad/obsidian-easy-keep-view
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Easy Keep View"
   description="Easy Keep View mimics the Google Keep interface, allowing you to view and manage your notes with image thumbnails and excerpts."
   author="@tazihad"
-  :downloads="1064"
+  :downloads="1067"
   :updated="1746934582000"
   repo="tazihad/obsidian-easy-keep-view"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easy Keep View mimics the Google Keep interface, allowing you to view and manage
 - **下载量**：1.1K
 - **最后更新**：2025-05-11
 - **GitHub**：[tazihad/obsidian-easy-keep-view](https://github.com/tazihad/obsidian-easy-keep-view)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

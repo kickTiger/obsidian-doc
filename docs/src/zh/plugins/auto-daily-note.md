@@ -2,11 +2,11 @@
 title: Auto Daily Note
 description: 'Automatically creates today''s daily note. Daily note plugin must be enabled'
 author: John Dolittle
-downloads: 250
+downloads: 252
 updated: 1742927440000
 repo: litegral/auto-daily-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto Daily Note"
   description="Automatically creates today&#39;s daily note. Daily note plugin must be enabled"
   author="John Dolittle"
-  :downloads="250"
+  :downloads="252"
   :updated="1742927440000"
   repo="litegral/auto-daily-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically creates today&#39;s daily note. Daily note plugin must be enabled
 - **插件 ID**：auto-daily-note
 - **作者**：John Dolittle
 - **当前版本**：v1.0.0
-- **下载量**：250
+- **下载量**：252
 - **最后更新**：2025-03-26
 - **GitHub**：[litegral/auto-daily-note](https://github.com/litegral/auto-daily-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

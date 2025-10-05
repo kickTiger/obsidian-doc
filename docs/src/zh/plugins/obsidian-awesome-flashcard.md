@@ -1,12 +1,12 @@
 ---
 title: Awesome Flashcard
-description: Handy Anki integration.
+description: 便捷的 Anki 集成。
 author: AwesomeDog
 downloads: 5025
 updated: 1674967440000
 repo: AwesomeDog/obsidian-awesome-flashcard
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-awesome-flashcard"
   name="Awesome Flashcard"
-  description="Handy Anki integration."
+  description="便捷的 Anki 集成。"
   author="AwesomeDog"
   :downloads="5025"
   :updated="1674967440000"
   repo="AwesomeDog/obsidian-awesome-flashcard"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Awesome Flashcard 是一个功能强大的 Obsidian 插件。
 
-Handy Anki integration.
+便捷的 Anki 集成。
 
 通过 Awesome Flashcard,您可以:
 
@@ -202,7 +202,7 @@ Handy Anki integration.
 - **下载量**：5.0K
 - **最后更新**：2023-01-29
 - **GitHub**：[AwesomeDog/obsidian-awesome-flashcard](https://github.com/AwesomeDog/obsidian-awesome-flashcard)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

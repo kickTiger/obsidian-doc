@@ -2,11 +2,11 @@
 title: TODO Highlighter
 description: Highlights TODO regex as green.
 author: Nuraly Dyussenov
-downloads: 300
+downloads: 303
 updated: 1745180267000
 repo: heavenlygaze/obsidian-todo-highlighter
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="TODO Highlighter"
   description="Highlights TODO regex as green."
   author="Nuraly Dyussenov"
-  :downloads="300"
+  :downloads="303"
   :updated="1745180267000"
   repo="heavenlygaze/obsidian-todo-highlighter"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Highlights TODO regex as green.
 - **插件 ID**：todo-highlighter
 - **作者**：Nuraly Dyussenov
 - **当前版本**：v1.0.0
-- **下载量**：300
+- **下载量**：303
 - **最后更新**：2025-04-21
 - **GitHub**：[heavenlygaze/obsidian-todo-highlighter](https://github.com/heavenlygaze/obsidian-todo-highlighter)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

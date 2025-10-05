@@ -1,12 +1,12 @@
 ---
 title: Old Note Admonitor
-description: Show warnings if the note has not been updated for over specific days.
+description: 如果备注超过特定天数未更新，则显示警告。
 author: tadashi-aikawa
-downloads: 4764
+downloads: 4765
 updated: 1697272750000
 repo: tadashi-aikawa/obsidian-old-note-admonitor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-old-note-admonitor"
   name="Old Note Admonitor"
-  description="Show warnings if the note has not been updated for over specific days."
+  description="如果备注超过特定天数未更新，则显示警告。"
   author="tadashi-aikawa"
-  :downloads="4764"
+  :downloads="4765"
   :updated="1697272750000"
   repo="tadashi-aikawa/obsidian-old-note-admonitor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Old Note Admonitor 是一个功能强大的 Obsidian 插件。
 
-Show warnings if the note has not been updated for over specific days.
+如果备注超过特定天数未更新，则显示警告。
 
 通过 Old Note Admonitor,您可以:
 
@@ -202,7 +202,7 @@ Show warnings if the note has not been updated for over specific days.
 - **下载量**：4.8K
 - **最后更新**：2023-10-14
 - **GitHub**：[tadashi-aikawa/obsidian-old-note-admonitor](https://github.com/tadashi-aikawa/obsidian-old-note-admonitor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

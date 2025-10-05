@@ -6,7 +6,7 @@ downloads: 1175
 updated: 1719675634000
 repo: taichimaeda/markpilot
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1719675634000"
   repo="taichimaeda/markpilot"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Inline completions and chat view powered by OpenAI.
 - **下载量**：1.2K
 - **最后更新**：2024-06-29
 - **GitHub**：[taichimaeda/markpilot](https://github.com/taichimaeda/markpilot)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

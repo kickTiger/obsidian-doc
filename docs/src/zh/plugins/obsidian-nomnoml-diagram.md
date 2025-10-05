@@ -1,12 +1,12 @@
 ---
 title: Nomnoml Diagram
-description: Draw nomnoml diagrams.
+description: 绘制示意图。
 author: Daeik Kim
-downloads: 9934
+downloads: 9940
 updated: 1695743257000
 repo: Daeik/obsidian-nomnoml-diagram
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-nomnoml-diagram"
   name="Nomnoml Diagram"
-  description="Draw nomnoml diagrams."
+  description="绘制示意图。"
   author="Daeik Kim"
-  :downloads="9934"
+  :downloads="9940"
   :updated="1695743257000"
   repo="Daeik/obsidian-nomnoml-diagram"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Nomnoml Diagram 是一个功能强大的 Obsidian 插件。
 
-Draw nomnoml diagrams.
+绘制示意图。
 
 通过 Nomnoml Diagram,您可以:
 
@@ -202,7 +202,7 @@ Draw nomnoml diagrams.
 - **下载量**：9.9K
 - **最后更新**：2023-09-26
 - **GitHub**：[Daeik/obsidian-nomnoml-diagram](https://github.com/Daeik/obsidian-nomnoml-diagram)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

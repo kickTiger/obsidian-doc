@@ -1,12 +1,12 @@
 ---
 title: Additional Icons
-description: Add additional iconsets.
+description: 添加其他图标集。
 author: Matthew Turk
-downloads: 3721
+downloads: 3723
 updated: 1703712168000
 repo: matthewturk/obsidian-additional-icons
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="additional-icons"
   name="Additional Icons"
-  description="Add additional iconsets."
+  description="添加其他图标集。"
   author="Matthew Turk"
-  :downloads="3721"
+  :downloads="3723"
   :updated="1703712168000"
   repo="matthewturk/obsidian-additional-icons"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Additional Icons 是一个功能强大的 Obsidian 插件。
 
-Add additional iconsets.
+添加其他图标集。
 
 通过 Additional Icons,您可以:
 
@@ -202,7 +202,7 @@ Add additional iconsets.
 - **下载量**：3.7K
 - **最后更新**：2023-12-28
 - **GitHub**：[matthewturk/obsidian-additional-icons](https://github.com/matthewturk/obsidian-additional-icons)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Simple Dice Roller
-description: Simulate and average dice formulas.
+description: 模拟和平均骰子公式。
 author: yeeshue99
-downloads: 5852
+downloads: 5856
 updated: 1656044443000
 repo: yeeshue99/SimpleDiceRoller
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="simple-dice-roller"
   name="Simple Dice Roller"
-  description="Simulate and average dice formulas."
+  description="模拟和平均骰子公式。"
   author="yeeshue99"
-  :downloads="5852"
+  :downloads="5856"
   :updated="1656044443000"
   repo="yeeshue99/SimpleDiceRoller"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Simple Dice Roller 是一个功能强大的 Obsidian 插件。
 
-Simulate and average dice formulas.
+模拟和平均骰子公式。
 
 通过 Simple Dice Roller,您可以:
 
@@ -202,7 +202,7 @@ Simulate and average dice formulas.
 - **下载量**：5.9K
 - **最后更新**：2022-06-24
 - **GitHub**：[yeeshue99/SimpleDiceRoller](https://github.com/yeeshue99/SimpleDiceRoller)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

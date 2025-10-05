@@ -1,12 +1,12 @@
 ---
 title: OpenWeather
-description: Return the current weather from OpenWeather in a configurable string format.
+description: 以可配置的字符串格式从 OpenWeather 返回当前天气。
 author: willasm
-downloads: 12694
+downloads: 12696
 updated: 1725934810000
 repo: willasm/obsidian-open-weather
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="open-weather"
   name="OpenWeather"
-  description="Return the current weather from OpenWeather in a configurable string format."
+  description="以可配置的字符串格式从 OpenWeather 返回当前天气。"
   author="willasm"
-  :downloads="12694"
+  :downloads="12696"
   :updated="1725934810000"
   repo="willasm/obsidian-open-weather"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 OpenWeather 是一个功能强大的 Obsidian 插件。
 
-Return the current weather from OpenWeather in a configurable string format.
+以可配置的字符串格式从 OpenWeather 返回当前天气。
 
 通过 OpenWeather,您可以:
 
@@ -202,7 +202,7 @@ Return the current weather from OpenWeather in a configurable string format.
 - **下载量**：12.7K
 - **最后更新**：2024-09-10
 - **GitHub**：[willasm/obsidian-open-weather](https://github.com/willasm/obsidian-open-weather)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

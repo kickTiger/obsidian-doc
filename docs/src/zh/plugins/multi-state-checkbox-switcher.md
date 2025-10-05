@@ -1,12 +1,12 @@
 ---
 title: Multi State CheckBox Switcher
-description: Click to handle multistate checkboxes.
+description: 单击以处理多态复选框。
 author: KubaMiszcz
-downloads: 4830
+downloads: 4834
 updated: 1701729797000
 repo: KubaMiszcz/MultiStateCheckBoxSwitcher
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="multi-state-checkbox-switcher"
   name="Multi State CheckBox Switcher"
-  description="Click to handle multistate checkboxes."
+  description="单击以处理多态复选框。"
   author="KubaMiszcz"
-  :downloads="4830"
+  :downloads="4834"
   :updated="1701729797000"
   repo="KubaMiszcz/MultiStateCheckBoxSwitcher"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Multi State CheckBox Switcher 是一个功能强大的 Obsidian 插件。
 
-Click to handle multistate checkboxes.
+单击以处理多态复选框。
 
 通过 Multi State CheckBox Switcher,您可以:
 
@@ -202,7 +202,7 @@ Click to handle multistate checkboxes.
 - **下载量**：4.8K
 - **最后更新**：2023-12-05
 - **GitHub**：[KubaMiszcz/MultiStateCheckBoxSwitcher](https://github.com/KubaMiszcz/MultiStateCheckBoxSwitcher)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

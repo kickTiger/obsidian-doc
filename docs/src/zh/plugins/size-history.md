@@ -1,12 +1,12 @@
 ---
 title: Size History
-description: 'Admire the growth of your vault with a "hand-drawn" chart.'
+description: '用 "手绘 "图表欣赏金库的成长。'
 author: Piotr Borowski
 downloads: 4110
 updated: 1693430665000
 repo: pbrw/obsidian-size-history
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="size-history"
   name="Size History"
-  description="Admire the growth of your vault with a &quot;hand-drawn&quot; chart."
+  description="用 &quot;手绘 &quot;图表欣赏金库的成长。"
   author="Piotr Borowski"
   :downloads="4110"
   :updated="1693430665000"
   repo="pbrw/obsidian-size-history"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Size History 是一个功能强大的 Obsidian 插件。
 
-Admire the growth of your vault with a &quot;hand-drawn&quot; chart.
+用 &quot;手绘 &quot;图表欣赏金库的成长。
 
 通过 Size History,您可以:
 
@@ -202,7 +202,7 @@ Admire the growth of your vault with a &quot;hand-drawn&quot; chart.
 - **下载量**：4.1K
 - **最后更新**：2023-08-31
 - **GitHub**：[pbrw/obsidian-size-history](https://github.com/pbrw/obsidian-size-history)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

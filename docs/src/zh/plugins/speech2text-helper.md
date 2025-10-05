@@ -1,12 +1,12 @@
 ---
 title: Speech To Text Keyboard Helper
-description: Make Google Speech to Text on Android available from the command palette.
+description: 让 Android 上的谷歌语音转文字功能在命令调板上可用。
 author: mwoz123
-downloads: 4474
+downloads: 4475
 updated: 1692214269000
 repo: mwoz123/speech-to-text-keyboard-helper
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="speech2text-helper"
   name="Speech To Text Keyboard Helper"
-  description="Make Google Speech to Text on Android available from the command palette."
+  description="让 Android 上的谷歌语音转文字功能在命令调板上可用。"
   author="mwoz123"
-  :downloads="4474"
+  :downloads="4475"
   :updated="1692214269000"
   repo="mwoz123/speech-to-text-keyboard-helper"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Speech To Text Keyboard Helper 是一个功能强大的 Obsidian 插件。
 
-Make Google Speech to Text on Android available from the command palette.
+让 Android 上的谷歌语音转文字功能在命令调板上可用。
 
 通过 Speech To Text Keyboard Helper,您可以:
 
@@ -202,7 +202,7 @@ Make Google Speech to Text on Android available from the command palette.
 - **下载量**：4.5K
 - **最后更新**：2023-08-17
 - **GitHub**：[mwoz123/speech-to-text-keyboard-helper](https://github.com/mwoz123/speech-to-text-keyboard-helper)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

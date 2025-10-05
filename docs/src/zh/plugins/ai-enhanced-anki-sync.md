@@ -6,7 +6,7 @@ downloads: 484
 updated: 1733951581000
 repo: jannusgoe/obsidian-ankisync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1733951581000"
   repo="jannusgoe/obsidian-ankisync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync ai-enhanced flashcards with Anki via AnkiConnect
 - **下载量**：484
 - **最后更新**：2024-12-12
 - **GitHub**：[jannusgoe/obsidian-ankisync](https://github.com/jannusgoe/obsidian-ankisync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Search Templates Library
-description: Save search templates for future re-use.
+description: 保存搜索模板，以便将来再次使用。
 author: Pentchaff
-downloads: 3585
+downloads: 3588
 updated: 1691601040000
 repo: Pentchaff/obsidian-search-library
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="template-search-library"
   name="Search Templates Library"
-  description="Save search templates for future re-use."
+  description="保存搜索模板，以便将来再次使用。"
   author="Pentchaff"
-  :downloads="3585"
+  :downloads="3588"
   :updated="1691601040000"
   repo="Pentchaff/obsidian-search-library"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Search Templates Library 是一个功能强大的 Obsidian 插件。
 
-Save search templates for future re-use.
+保存搜索模板，以便将来再次使用。
 
 通过 Search Templates Library,您可以:
 
@@ -202,7 +202,7 @@ Save search templates for future re-use.
 - **下载量**：3.6K
 - **最后更新**：2023-08-10
 - **GitHub**：[Pentchaff/obsidian-search-library](https://github.com/Pentchaff/obsidian-search-library)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

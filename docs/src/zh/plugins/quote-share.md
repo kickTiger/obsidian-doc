@@ -1,12 +1,12 @@
 ---
 title: Quote Share
-description: Easily generate beautiful gradient images from text and share them on social media.
+description: 轻松从文本生成漂亮的渐变图像，并在社交媒体上分享。
 author: DuocNV
-downloads: 4643
+downloads: 4644
 updated: 1675621873000
 repo: nguyenvanduocit/quote-share
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quote-share"
   name="Quote Share"
-  description="Easily generate beautiful gradient images from text and share them on social media."
+  description="轻松从文本生成漂亮的渐变图像，并在社交媒体上分享。"
   author="DuocNV"
-  :downloads="4643"
+  :downloads="4644"
   :updated="1675621873000"
   repo="nguyenvanduocit/quote-share"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quote Share 是一个功能强大的 Obsidian 插件。
 
-Easily generate beautiful gradient images from text and share them on social media.
+轻松从文本生成漂亮的渐变图像，并在社交媒体上分享。
 
 通过 Quote Share,您可以:
 
@@ -202,7 +202,7 @@ Easily generate beautiful gradient images from text and share them on social med
 - **下载量**：4.6K
 - **最后更新**：2023-02-06
 - **GitHub**：[nguyenvanduocit/quote-share](https://github.com/nguyenvanduocit/quote-share)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Tabout
-description: 'Easily ''tab out'' of links or other Markdown formatting characters.'
+description: '轻松 "制表 "链接或其他 Markdown 格式字符。'
 author: phibr0
-downloads: 10108
+downloads: 10112
 updated: 1719222926000
 repo: phibr0/obsidian-tabout
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tabout"
   name="Tabout"
-  description="Easily &#39;tab out&#39; of links or other Markdown formatting characters."
+  description="轻松 &quot;制表 &quot;链接或其他 Markdown 格式字符。"
   author="phibr0"
-  :downloads="10108"
+  :downloads="10112"
   :updated="1719222926000"
   repo="phibr0/obsidian-tabout"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tabout 是一个功能强大的 Obsidian 插件。
 
-Easily &#39;tab out&#39; of links or other Markdown formatting characters.
+轻松 &quot;制表 &quot;链接或其他 Markdown 格式字符。
 
 通过 Tabout,您可以:
 
@@ -202,7 +202,7 @@ Easily &#39;tab out&#39; of links or other Markdown formatting characters.
 - **下载量**：10.1K
 - **最后更新**：2024-06-24
 - **GitHub**：[phibr0/obsidian-tabout](https://github.com/phibr0/obsidian-tabout)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

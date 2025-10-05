@@ -1,12 +1,12 @@
 ---
 title: Audio Notes
-description: Create notes for podcasts and audio files, and automatically generate transcripts while listening so you can quickly take notes on the best parts of the podcast.
+description: 为播客和音频文件创建笔记，并在收听时自动生成文字稿，以便快速记录播客的精彩部分。
 author: Jason Maldonis
-downloads: 24557
+downloads: 24571
 updated: 1683046284000
 repo: jjmaldonis/obsidian-audio-notes
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-audio-notes"
   name="Audio Notes"
-  description="Create notes for podcasts and audio files, and automatically generate transcripts while listening so you can quickly take notes on the best parts of the podcast."
+  description="为播客和音频文件创建笔记，并在收听时自动生成文字稿，以便快速记录播客的精彩部分。"
   author="Jason Maldonis"
-  :downloads="24557"
+  :downloads="24571"
   :updated="1683046284000"
   repo="jjmaldonis/obsidian-audio-notes"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Audio Notes 是一个功能强大的 Obsidian 插件。
 
-Create notes for podcasts and audio files, and automatically generate transcripts while listening so you can quickly take notes on the best parts of the podcast.
+为播客和音频文件创建笔记，并在收听时自动生成文字稿，以便快速记录播客的精彩部分。
 
 通过 Audio Notes,您可以:
 
@@ -202,7 +202,7 @@ Create notes for podcasts and audio files, and automatically generate transcript
 - **下载量**：24.6K
 - **最后更新**：2023-05-03
 - **GitHub**：[jjmaldonis/obsidian-audio-notes](https://github.com/jjmaldonis/obsidian-audio-notes)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Go To Heading
-description: Quickly navigate between headings.
+description: 快速浏览标题。
 author: join
-downloads: 4112
+downloads: 4114
 updated: 1702577779000
 repo: oin/obsidian-gotoheading
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="oin-gotoheading"
   name="Go To Heading"
-  description="Quickly navigate between headings."
+  description="快速浏览标题。"
   author="join"
-  :downloads="4112"
+  :downloads="4114"
   :updated="1702577779000"
   repo="oin/obsidian-gotoheading"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Go To Heading 是一个功能强大的 Obsidian 插件。
 
-Quickly navigate between headings.
+快速浏览标题。
 
 通过 Go To Heading,您可以:
 
@@ -202,7 +202,7 @@ Quickly navigate between headings.
 - **下载量**：4.1K
 - **最后更新**：2023-12-15
 - **GitHub**：[oin/obsidian-gotoheading](https://github.com/oin/obsidian-gotoheading)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

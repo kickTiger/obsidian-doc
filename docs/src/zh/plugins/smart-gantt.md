@@ -1,12 +1,12 @@
 ---
 title: Smart Gantt
-description: Intelligently generate Gantt chart from your tasks
+description: 根据任务智能生成甘特图
 author: Nhan Nguyen
-downloads: 8383
+downloads: 8387
 updated: 1722313349000
 repo: nhannht/obsidian-smart-gantt
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smart-gantt"
   name="Smart Gantt"
-  description="Intelligently generate Gantt chart from your tasks"
+  description="根据任务智能生成甘特图"
   author="Nhan Nguyen"
-  :downloads="8383"
+  :downloads="8387"
   :updated="1722313349000"
   repo="nhannht/obsidian-smart-gantt"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Gantt 是一个功能强大的 Obsidian 插件。
 
-Intelligently generate Gantt chart from your tasks
+根据任务智能生成甘特图
 
 通过 Smart Gantt,您可以:
 
@@ -202,7 +202,7 @@ Intelligently generate Gantt chart from your tasks
 - **下载量**：8.4K
 - **最后更新**：2024-07-30
 - **GitHub**：[nhannht/obsidian-smart-gantt](https://github.com/nhannht/obsidian-smart-gantt)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Min3ditorHotkeys
-description: Additional editor hotkeys inspired by coding editors.
+description: 附加编辑器热键，灵感来自编码编辑器。
 author: Davor Sauer
 downloads: 4682
 updated: 1611421761000
 repo: d-sauer/Obsidian-Min3ditorHotkeys-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-min3ditorhotkeys-plugin"
   name="Min3ditorHotkeys"
-  description="Additional editor hotkeys inspired by coding editors."
+  description="附加编辑器热键，灵感来自编码编辑器。"
   author="Davor Sauer"
   :downloads="4682"
   :updated="1611421761000"
   repo="d-sauer/Obsidian-Min3ditorHotkeys-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Min3ditorHotkeys 是一个功能强大的 Obsidian 插件。
 
-Additional editor hotkeys inspired by coding editors.
+附加编辑器热键，灵感来自编码编辑器。
 
 通过 Min3ditorHotkeys,您可以:
 
@@ -202,7 +202,7 @@ Additional editor hotkeys inspired by coding editors.
 - **下载量**：4.7K
 - **最后更新**：2021-01-24
 - **GitHub**：[d-sauer/Obsidian-Min3ditorHotkeys-plugin](https://github.com/d-sauer/Obsidian-Min3ditorHotkeys-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

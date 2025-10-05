@@ -2,11 +2,11 @@
 title: Image Magician
 description: Supports viewing and exporting various image formats using ImageMagick.
 author: luxmargos
-downloads: 3466
+downloads: 3467
 updated: 1715769407000
 repo: luxmargos/obsidian-image-magician-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Image Magician"
   description="Supports viewing and exporting various image formats using ImageMagick."
   author="luxmargos"
-  :downloads="3466"
+  :downloads="3467"
   :updated="1715769407000"
   repo="luxmargos/obsidian-image-magician-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Supports viewing and exporting various image formats using ImageMagick.
 - **下载量**：3.5K
 - **最后更新**：2024-05-15
 - **GitHub**：[luxmargos/obsidian-image-magician-plugin](https://github.com/luxmargos/obsidian-image-magician-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

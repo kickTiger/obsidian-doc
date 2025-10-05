@@ -1,12 +1,12 @@
 ---
 title: Folders to Graph
-description: Display your vault folder structure into your graphs.
+description: 在图表中显示保险库文件夹结构。
 author: Ratibus11
-downloads: 11309
+downloads: 11337
 updated: 1734625026000
 repo: ratibus11/folders2graph
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="folders2graph"
   name="Folders to Graph"
-  description="Display your vault folder structure into your graphs."
+  description="在图表中显示保险库文件夹结构。"
   author="Ratibus11"
-  :downloads="11309"
+  :downloads="11337"
   :updated="1734625026000"
   repo="ratibus11/folders2graph"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Folders to Graph 是一个功能强大的 Obsidian 插件。
 
-Display your vault folder structure into your graphs.
+在图表中显示保险库文件夹结构。
 
 通过 Folders to Graph,您可以:
 
@@ -202,7 +202,7 @@ Display your vault folder structure into your graphs.
 - **下载量**：11.3K
 - **最后更新**：2024-12-20
 - **GitHub**：[ratibus11/folders2graph](https://github.com/ratibus11/folders2graph)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

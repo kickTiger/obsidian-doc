@@ -1,12 +1,12 @@
 ---
 title: Smart Typography
-description: Convert quotes to curly quotes, dashes to em dashes, and periods to ellipses.
+description: 将引号转换为大括号，将破折号转换为横线，将句号转换为省略号。
 author: mgmeyers
-downloads: 125514
+downloads: 125630
 updated: 1655492531000
 repo: mgmeyers/obsidian-smart-typography
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-smart-typography"
   name="Smart Typography"
-  description="Convert quotes to curly quotes, dashes to em dashes, and periods to ellipses."
+  description="将引号转换为大括号，将破折号转换为横线，将句号转换为省略号。"
   author="mgmeyers"
-  :downloads="125514"
+  :downloads="125630"
   :updated="1655492531000"
   repo="mgmeyers/obsidian-smart-typography"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Typography 是一个功能强大的 Obsidian 插件。
 
-Convert quotes to curly quotes, dashes to em dashes, and periods to ellipses.
+将引号转换为大括号，将破折号转换为横线，将句号转换为省略号。
 
 通过 Smart Typography,您可以:
 
@@ -199,10 +199,10 @@ Convert quotes to curly quotes, dashes to em dashes, and periods to ellipses.
 - **插件 ID**：obsidian-smart-typography
 - **作者**：mgmeyers
 - **当前版本**：v1.0.0
-- **下载量**：125.5K
+- **下载量**：125.6K
 - **最后更新**：2022-06-18
 - **GitHub**：[mgmeyers/obsidian-smart-typography](https://github.com/mgmeyers/obsidian-smart-typography)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Image Uploader
-description: Upload the image in your clipboard to any image hosting automatically when pasting.
+description: 粘贴时自动将剪贴板中的图片上传到任何图片托管服务。
 author: Creling
-downloads: 7059
+downloads: 7062
 updated: 1697794754000
 repo: Creling/obsidian-image-uploader
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-image-uploader"
   name="Image Uploader"
-  description="Upload the image in your clipboard to any image hosting automatically when pasting."
+  description="粘贴时自动将剪贴板中的图片上传到任何图片托管服务。"
   author="Creling"
-  :downloads="7059"
+  :downloads="7062"
   :updated="1697794754000"
   repo="Creling/obsidian-image-uploader"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Uploader 是一个功能强大的 Obsidian 插件。
 
-Upload the image in your clipboard to any image hosting automatically when pasting.
+粘贴时自动将剪贴板中的图片上传到任何图片托管服务。
 
 通过 Image Uploader,您可以:
 
@@ -202,7 +202,7 @@ Upload the image in your clipboard to any image hosting automatically when pasti
 - **下载量**：7.1K
 - **最后更新**：2023-10-20
 - **GitHub**：[Creling/obsidian-image-uploader](https://github.com/Creling/obsidian-image-uploader)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

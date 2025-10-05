@@ -2,11 +2,11 @@
 title: Dataview Autocompletion
 description: Adds autocompletion to Dataview metadata fields
 author: Daniel Bauer
-downloads: 1697
+downloads: 1699
 updated: 1739615419000
 repo: dnlbauer/obsidian-dataview-autocompletion
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Dataview Autocompletion"
   description="Adds autocompletion to Dataview metadata fields"
   author="Daniel Bauer"
-  :downloads="1697"
+  :downloads="1699"
   :updated="1739615419000"
   repo="dnlbauer/obsidian-dataview-autocompletion"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds autocompletion to Dataview metadata fields
 - **下载量**：1.7K
 - **最后更新**：2025-02-15
 - **GitHub**：[dnlbauer/obsidian-dataview-autocompletion](https://github.com/dnlbauer/obsidian-dataview-autocompletion)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Jisage -Japanese Indentation-
 description: 'Display ''Jisage'' (indenting with a full-width space at the beginning of a line) text correctly.'
 author: Telehakke
-downloads: 1188
+downloads: 1191
 updated: 1729167711000
 repo: Telehakke/jisage-japanese-indentation
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Jisage -Japanese Indentation-"
   description="Display &#39;Jisage&#39; (indenting with a full-width space at the beginning of a line) text correctly."
   author="Telehakke"
-  :downloads="1188"
+  :downloads="1191"
   :updated="1729167711000"
   repo="Telehakke/jisage-japanese-indentation"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Display &#39;Jisage&#39; (indenting with a full-width space at the beginning of 
 - **下载量**：1.2K
 - **最后更新**：2024-10-17
 - **GitHub**：[Telehakke/jisage-japanese-indentation](https://github.com/Telehakke/jisage-japanese-indentation)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

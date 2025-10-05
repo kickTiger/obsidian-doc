@@ -6,7 +6,7 @@ downloads: 1638
 updated: 1747033254000
 repo: hokim-m/click-up-x-obsidian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1747033254000"
   repo="hokim-m/click-up-x-obsidian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manage ClickUp space from notes.
 - **下载量**：1.6K
 - **最后更新**：2025-05-12
 - **GitHub**：[hokim-m/click-up-x-obsidian](https://github.com/hokim-m/click-up-x-obsidian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

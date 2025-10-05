@@ -2,11 +2,11 @@
 title: Markwhen File Sync
 description: Synchronize properties from your notes with a Markwhen timeline file
 author: rouvenjahnke
-downloads: 482
+downloads: 485
 updated: 1758367874000
 repo: rouvenjahnke/markwhen-file-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Markwhen File Sync"
   description="Synchronize properties from your notes with a Markwhen timeline file"
   author="rouvenjahnke"
-  :downloads="482"
+  :downloads="485"
   :updated="1758367874000"
   repo="rouvenjahnke/markwhen-file-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Synchronize properties from your notes with a Markwhen timeline file
 - **插件 ID**：markfilesync
 - **作者**：rouvenjahnke
 - **当前版本**：v1.0.0
-- **下载量**：482
+- **下载量**：485
 - **最后更新**：2025-09-20
 - **GitHub**：[rouvenjahnke/markwhen-file-sync](https://github.com/rouvenjahnke/markwhen-file-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

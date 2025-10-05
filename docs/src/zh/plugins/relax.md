@@ -1,12 +1,12 @@
 ---
 title: R.E.L.A.X.
-description: Multi-regex management for data linking and batch processing across selection, files, and folders.
+description: 多词法管理，用于跨选择、文件和文件夹的数据链接和批处理。
 author: Syr
-downloads: 3752
+downloads: 3754
 updated: 1742395699000
 repo: Syr0/R.E.L.A.X.
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="relax"
   name="R.E.L.A.X."
-  description="Multi-regex management for data linking and batch processing across selection, files, and folders."
+  description="多词法管理，用于跨选择、文件和文件夹的数据链接和批处理。"
   author="Syr"
-  :downloads="3752"
+  :downloads="3754"
   :updated="1742395699000"
   repo="Syr0/R.E.L.A.X."
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 R.E.L.A.X. 是一个功能强大的 Obsidian 插件。
 
-Multi-regex management for data linking and batch processing across selection, files, and folders.
+多词法管理，用于跨选择、文件和文件夹的数据链接和批处理。
 
 通过 R.E.L.A.X.,您可以:
 
@@ -202,7 +202,7 @@ Multi-regex management for data linking and batch processing across selection, f
 - **下载量**：3.8K
 - **最后更新**：2025-03-19
 - **GitHub**：[Syr0/R.E.L.A.X.](https://github.com/Syr0/R.E.L.A.X.)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

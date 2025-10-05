@@ -1,12 +1,12 @@
 ---
 title: screen.garden
-description: Realtime multiplayer collaboration, live cursors without merge conflicts, folder sync, share links, web editing, and more—for teams or working solo.
+description: 实时多人协作、无合并冲突的实时光标、文件夹同步、共享链接、网络编辑等功能，适用于团队或个人工作。
 author: screengarden, LLC
-downloads: 5149
+downloads: 5197
 updated: 1759274500000
 repo: screendotgarden/screengarden-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="screengarden-obsidian"
   name="screen.garden"
-  description="Realtime multiplayer collaboration, live cursors without merge conflicts, folder sync, share links, web editing, and more—for teams or working solo."
+  description="实时多人协作、无合并冲突的实时光标、文件夹同步、共享链接、网络编辑等功能，适用于团队或个人工作。"
   author="screengarden, LLC"
-  :downloads="5149"
+  :downloads="5197"
   :updated="1759274500000"
   repo="screendotgarden/screengarden-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 screen.garden 是一个功能强大的 Obsidian 插件。
 
-Realtime multiplayer collaboration, live cursors without merge conflicts, folder sync, share links, web editing, and more—for teams or working solo.
+实时多人协作、无合并冲突的实时光标、文件夹同步、共享链接、网络编辑等功能，适用于团队或个人工作。
 
 通过 screen.garden,您可以:
 
@@ -199,10 +199,10 @@ Realtime multiplayer collaboration, live cursors without merge conflicts, folder
 - **插件 ID**：screengarden-obsidian
 - **作者**：screengarden, LLC
 - **当前版本**：v1.0.0
-- **下载量**：5.1K
+- **下载量**：5.2K
 - **最后更新**：2025-10-01
 - **GitHub**：[screendotgarden/screengarden-obsidian](https://github.com/screendotgarden/screengarden-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

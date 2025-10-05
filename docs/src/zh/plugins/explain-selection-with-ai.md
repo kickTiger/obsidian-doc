@@ -1,12 +1,12 @@
 ---
 title: Explain Selection With AI
-description: Use an OpenAI Chat Completion API-compatible LLM endpoint to expand on selected text in the context of your notes.
+description: 使用与 OpenAI Chat Completion API 兼容的 LLM 端点，在笔记上下文中扩展所选文本。
 author: Ben Wurster
-downloads: 4267
+downloads: 4272
 updated: 1718764324000
 repo: BWurster/explain-selection-with-ai
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="explain-selection-with-ai"
   name="Explain Selection With AI"
-  description="Use an OpenAI Chat Completion API-compatible LLM endpoint to expand on selected text in the context of your notes."
+  description="使用与 OpenAI Chat Completion API 兼容的 LLM 端点，在笔记上下文中扩展所选文本。"
   author="Ben Wurster"
-  :downloads="4267"
+  :downloads="4272"
   :updated="1718764324000"
   repo="BWurster/explain-selection-with-ai"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Explain Selection With AI 是一个功能强大的 Obsidian 插件。
 
-Use an OpenAI Chat Completion API-compatible LLM endpoint to expand on selected text in the context of your notes.
+使用与 OpenAI Chat Completion API 兼容的 LLM 端点，在笔记上下文中扩展所选文本。
 
 通过 Explain Selection With AI,您可以:
 
@@ -202,7 +202,7 @@ Use an OpenAI Chat Completion API-compatible LLM endpoint to expand on selected 
 - **下载量**：4.3K
 - **最后更新**：2024-06-19
 - **GitHub**：[BWurster/explain-selection-with-ai](https://github.com/BWurster/explain-selection-with-ai)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

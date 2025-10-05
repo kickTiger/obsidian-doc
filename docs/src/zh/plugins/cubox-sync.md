@@ -1,12 +1,12 @@
 ---
 title: Cubox
-description: 'Sync your Cubox articles & annotations'
+description: 同步您的 Cubox 文章和注释
 author: delphi-2015
-downloads: 4919
+downloads: 4935
 updated: 1748251477000
 repo: OLCUBO/obsidian-cubox
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cubox-sync"
   name="Cubox"
-  description="Sync your Cubox articles &amp; annotations"
+  description="同步您的 Cubox 文章和注释"
   author="delphi-2015"
-  :downloads="4919"
+  :downloads="4935"
   :updated="1748251477000"
   repo="OLCUBO/obsidian-cubox"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Cubox 是一个功能强大的 Obsidian 插件。
 
-Sync your Cubox articles &amp; annotations
+同步您的 Cubox 文章和注释
 
 通过 Cubox,您可以:
 
@@ -202,7 +202,7 @@ Sync your Cubox articles &amp; annotations
 - **下载量**：4.9K
 - **最后更新**：2025-05-26
 - **GitHub**：[OLCUBO/obsidian-cubox](https://github.com/OLCUBO/obsidian-cubox)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

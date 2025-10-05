@@ -1,12 +1,12 @@
 ---
 title: Habit Calendar
-description: Monthly Habit Calendar for DataviewJS. Render a calendar inside DataviewJS code block, showing your habit status within a month.
+description: DataviewJS 的月度习惯日历。在 DataviewJS 代码块中渲染日历，显示一个月内的习惯状态。
 author: Hedonihilist
-downloads: 9662
+downloads: 9666
 updated: 1679207691000
 repo: hedonihilist/obsidian-habit-calendar
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="habit-calendar"
   name="Habit Calendar"
-  description="Monthly Habit Calendar for DataviewJS. Render a calendar inside DataviewJS code block, showing your habit status within a month."
+  description="DataviewJS 的月度习惯日历。在 DataviewJS 代码块中渲染日历，显示一个月内的习惯状态。"
   author="Hedonihilist"
-  :downloads="9662"
+  :downloads="9666"
   :updated="1679207691000"
   repo="hedonihilist/obsidian-habit-calendar"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Habit Calendar 是一个功能强大的 Obsidian 插件。
 
-Monthly Habit Calendar for DataviewJS. Render a calendar inside DataviewJS code block, showing your habit status within a month.
+DataviewJS 的月度习惯日历。在 DataviewJS 代码块中渲染日历，显示一个月内的习惯状态。
 
 通过 Habit Calendar,您可以:
 
@@ -202,7 +202,7 @@ Monthly Habit Calendar for DataviewJS. Render a calendar inside DataviewJS code 
 - **下载量**：9.7K
 - **最后更新**：2023-03-19
 - **GitHub**：[hedonihilist/obsidian-habit-calendar](https://github.com/hedonihilist/obsidian-habit-calendar)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

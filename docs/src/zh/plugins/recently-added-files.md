@@ -6,7 +6,7 @@ downloads: 1872
 updated: 1742101723000
 repo: Lemon695/obsidian-recently-added-files
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1742101723000"
   repo="Lemon695/obsidian-recently-added-files"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ List files by last added, including pictures, MP4s, PDFs etc.
 - **下载量**：1.9K
 - **最后更新**：2025-03-16
 - **GitHub**：[Lemon695/obsidian-recently-added-files](https://github.com/Lemon695/obsidian-recently-added-files)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

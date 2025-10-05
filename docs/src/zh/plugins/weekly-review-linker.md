@@ -2,11 +2,11 @@
 title: Weekly Review notes linker
 description: This links all of the files you have created in the last week into a Weekly Review note.
 author: Aditya Khowal and Brandon Boswell
-downloads: 656
+downloads: 657
 updated: 1715011456000
 repo: AdityaKhowalGithub/weekly-review-notes-linker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Weekly Review notes linker"
   description="This links all of the files you have created in the last week into a Weekly Review note."
   author="Aditya Khowal and Brandon Boswell"
-  :downloads="656"
+  :downloads="657"
   :updated="1715011456000"
   repo="AdityaKhowalGithub/weekly-review-notes-linker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ This links all of the files you have created in the last week into a Weekly Revi
 - **插件 ID**：weekly-review-linker
 - **作者**：Aditya Khowal and Brandon Boswell
 - **当前版本**：v1.0.0
-- **下载量**：656
+- **下载量**：657
 - **最后更新**：2024-05-07
 - **GitHub**：[AdityaKhowalGithub/weekly-review-notes-linker](https://github.com/AdityaKhowalGithub/weekly-review-notes-linker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

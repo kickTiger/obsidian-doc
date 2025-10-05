@@ -1,12 +1,12 @@
 ---
 title: Post Webhook
-description: Send notes to webhook endpoints, for seamless integration with i.a. n8n, Make.com, and Zapier.
+description: 将笔记发送到 webhook 端点，实现与 i.a. n8n、Make.com 和 Zapier 的无缝集成。
 author: MasterB1234
-downloads: 4023
+downloads: 4039
 updated: 1757875307000
 repo: Masterb1234/obsidian-post-webhook
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="post-webhook"
   name="Post Webhook"
-  description="Send notes to webhook endpoints, for seamless integration with i.a. n8n, Make.com, and Zapier."
+  description="将笔记发送到 webhook 端点，实现与 i.a. n8n、Make.com 和 Zapier 的无缝集成。"
   author="MasterB1234"
-  :downloads="4023"
+  :downloads="4039"
   :updated="1757875307000"
   repo="Masterb1234/obsidian-post-webhook"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Post Webhook 是一个功能强大的 Obsidian 插件。
 
-Send notes to webhook endpoints, for seamless integration with i.a. n8n, Make.com, and Zapier.
+将笔记发送到 webhook 端点，实现与 i.a. n8n、Make.com 和 Zapier 的无缝集成。
 
 通过 Post Webhook,您可以:
 
@@ -202,7 +202,7 @@ Send notes to webhook endpoints, for seamless integration with i.a. n8n, Make.co
 - **下载量**：4.0K
 - **最后更新**：2025-09-15
 - **GitHub**：[Masterb1234/obsidian-post-webhook](https://github.com/Masterb1234/obsidian-post-webhook)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

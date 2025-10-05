@@ -2,11 +2,11 @@
 title: LLM Test Generator
 description: Generate AI-powered test questions from your notes with multiple LLM providers (OpenAI, Claude, Mistral, Gemini, DeepSeek) to enhance your learning and retention.
 author: Aldo E George
-downloads: 1756
+downloads: 1758
 updated: 1744105056000
 repo: aldo-g/obsidian-llm-test
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="LLM Test Generator"
   description="Generate AI-powered test questions from your notes with multiple LLM providers (OpenAI, Claude, Mistral, Gemini, DeepSeek) to enhance your learning and retention."
   author="Aldo E George"
-  :downloads="1756"
+  :downloads="1758"
   :updated="1744105056000"
   repo="aldo-g/obsidian-llm-test"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate AI-powered test questions from your notes with multiple LLM providers (
 - **下载量**：1.8K
 - **最后更新**：2025-04-08
 - **GitHub**：[aldo-g/obsidian-llm-test](https://github.com/aldo-g/obsidian-llm-test)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

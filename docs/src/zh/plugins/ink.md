@@ -1,12 +1,12 @@
 ---
 title: Ink
-description: Hand write or draw directly between paragraphs using a digital pen, stylus, or Apple pencil. Useful for handwriting, sketches, scribbles, or even math equations and scientific notation. Runs on the tldraw framework and drawing provides an infinite canvas.
+description: 使用数码笔、触控笔或 Apple 铅笔直接在段落之间手写或绘图。适用于手写、草图、涂鸦，甚至数学公式和科学符号。在 tldraw 框架上运行，绘图提供了无限画布。
 author: Dale de Silva
-downloads: 116047
+downloads: 116255
 updated: 1758026093000
 repo: daledesilva/obsidian_ink
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ink"
   name="Ink"
-  description="Hand write or draw directly between paragraphs using a digital pen, stylus, or Apple pencil. Useful for handwriting, sketches, scribbles, or even math equations and scientific notation. Runs on the tldraw framework and drawing provides an infinite canvas."
+  description="使用数码笔、触控笔或 Apple 铅笔直接在段落之间手写或绘图。适用于手写、草图、涂鸦，甚至数学公式和科学符号。在 tldraw 框架上运行，绘图提供了无限画布。"
   author="Dale de Silva"
-  :downloads="116047"
+  :downloads="116255"
   :updated="1758026093000"
   repo="daledesilva/obsidian_ink"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ink 是一个功能强大的 Obsidian 插件。
 
-Hand write or draw directly between paragraphs using a digital pen, stylus, or Apple pencil. Useful for handwriting, sketches, scribbles, or even math equations and scientific notation. Runs on the tldraw framework and drawing provides an infinite canvas.
+使用数码笔、触控笔或 Apple 铅笔直接在段落之间手写或绘图。适用于手写、草图、涂鸦，甚至数学公式和科学符号。在 tldraw 框架上运行，绘图提供了无限画布。
 
 通过 Ink,您可以:
 
@@ -199,10 +199,10 @@ Hand write or draw directly between paragraphs using a digital pen, stylus, or A
 - **插件 ID**：ink
 - **作者**：Dale de Silva
 - **当前版本**：v1.0.0
-- **下载量**：116.0K
+- **下载量**：116.3K
 - **最后更新**：2025-09-16
 - **GitHub**：[daledesilva/obsidian_ink](https://github.com/daledesilva/obsidian_ink)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

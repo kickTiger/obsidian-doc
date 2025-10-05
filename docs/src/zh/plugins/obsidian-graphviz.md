@@ -1,12 +1,12 @@
 ---
 title: Graphviz
-description: Render Graphviz diagrams.
+description: 渲染 Graphviz 图表
 author: Feng Peng
-downloads: 14250
+downloads: 14261
 updated: 1672071625000
 repo: QAMichaelPeng/obsidian-graphviz
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-graphviz"
   name="Graphviz"
-  description="Render Graphviz diagrams."
+  description="渲染 Graphviz 图表"
   author="Feng Peng"
-  :downloads="14250"
+  :downloads="14261"
   :updated="1672071625000"
   repo="QAMichaelPeng/obsidian-graphviz"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Graphviz 是一个功能强大的 Obsidian 插件。
 
-Render Graphviz diagrams.
+渲染 Graphviz 图表
 
 通过 Graphviz,您可以:
 
@@ -202,7 +202,7 @@ Render Graphviz diagrams.
 - **下载量**：14.3K
 - **最后更新**：2022-12-27
 - **GitHub**：[QAMichaelPeng/obsidian-graphviz](https://github.com/QAMichaelPeng/obsidian-graphviz)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

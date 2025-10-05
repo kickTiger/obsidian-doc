@@ -2,11 +2,11 @@
 title: Hanko
 description: Register and paste any text.
 author: Telehakke
-downloads: 165
+downloads: 166
 updated: 1736356246000
 repo: Telehakke/hanko
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hanko"
   description="Register and paste any text."
   author="Telehakke"
-  :downloads="165"
+  :downloads="166"
   :updated="1736356246000"
   repo="Telehakke/hanko"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Register and paste any text.
 - **插件 ID**：hanko
 - **作者**：Telehakke
 - **当前版本**：v1.0.0
-- **下载量**：165
+- **下载量**：166
 - **最后更新**：2025-01-09
 - **GitHub**：[Telehakke/hanko](https://github.com/Telehakke/hanko)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

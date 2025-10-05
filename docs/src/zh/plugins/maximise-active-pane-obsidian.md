@@ -1,12 +1,12 @@
 ---
 title: Maximise Active Pane
-description: Fill the workspace with the active pane.
+description: 用活动窗格填充工作区。
 author: death_au
 downloads: 15153
 updated: 1611874137000
 repo: deathau/maximise-active-pane-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="maximise-active-pane-obsidian"
   name="Maximise Active Pane"
-  description="Fill the workspace with the active pane."
+  description="用活动窗格填充工作区。"
   author="death_au"
   :downloads="15153"
   :updated="1611874137000"
   repo="deathau/maximise-active-pane-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Maximise Active Pane 是一个功能强大的 Obsidian 插件。
 
-Fill the workspace with the active pane.
+用活动窗格填充工作区。
 
 通过 Maximise Active Pane,您可以:
 
@@ -202,7 +202,7 @@ Fill the workspace with the active pane.
 - **下载量**：15.2K
 - **最后更新**：2021-01-29
 - **GitHub**：[deathau/maximise-active-pane-obsidian](https://github.com/deathau/maximise-active-pane-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

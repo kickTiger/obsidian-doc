@@ -2,11 +2,11 @@
 title: Wypst
 description: Render math blocks with Typst
 author: 0xpapercut
-downloads: 3289
+downloads: 3292
 updated: 1715589120000
 repo: 0xbolt/obsidian-wypst
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Wypst"
   description="Render math blocks with Typst"
   author="0xpapercut"
-  :downloads="3289"
+  :downloads="3292"
   :updated="1715589120000"
   repo="0xbolt/obsidian-wypst"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Render math blocks with Typst
 - **下载量**：3.3K
 - **最后更新**：2024-05-13
 - **GitHub**：[0xbolt/obsidian-wypst](https://github.com/0xbolt/obsidian-wypst)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

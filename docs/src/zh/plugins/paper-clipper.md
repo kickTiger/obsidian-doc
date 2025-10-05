@@ -2,11 +2,11 @@
 title: Paper Clipper
 description: Capture and manage academic papers
 author: ras0q
-downloads: 733
+downloads: 735
 updated: 1749289987000
 repo: ras0q/obsidian-paper-clipper
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Paper Clipper"
   description="Capture and manage academic papers"
   author="ras0q"
-  :downloads="733"
+  :downloads="735"
   :updated="1749289987000"
   repo="ras0q/obsidian-paper-clipper"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Capture and manage academic papers
 - **插件 ID**：paper-clipper
 - **作者**：ras0q
 - **当前版本**：v1.0.0
-- **下载量**：733
+- **下载量**：735
 - **最后更新**：2025-06-07
 - **GitHub**：[ras0q/obsidian-paper-clipper](https://github.com/ras0q/obsidian-paper-clipper)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

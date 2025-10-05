@@ -1,12 +1,12 @@
 ---
 title: Readwise Official
-description: Official Readwise integration.
+description: 官方 Readwise 集成。
 author: Readwise
-downloads: 194706
+downloads: 194794
 updated: 1738014664000
 repo: readwiseio/obsidian-readwise
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="readwise-official"
   name="Readwise Official"
-  description="Official Readwise integration."
+  description="官方 Readwise 集成。"
   author="Readwise"
-  :downloads="194706"
+  :downloads="194794"
   :updated="1738014664000"
   repo="readwiseio/obsidian-readwise"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Readwise Official 是一个功能强大的 Obsidian 插件。
 
-Official Readwise integration.
+官方 Readwise 集成。
 
 通过 Readwise Official,您可以:
 
@@ -199,10 +199,10 @@ Official Readwise integration.
 - **插件 ID**：readwise-official
 - **作者**：Readwise
 - **当前版本**：v1.0.0
-- **下载量**：194.7K
+- **下载量**：194.8K
 - **最后更新**：2025-01-28
 - **GitHub**：[readwiseio/obsidian-readwise](https://github.com/readwiseio/obsidian-readwise)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Todoist completed tasks
-description: Add completed Todoist tasks to your notes.
+description: 在笔记中添加已完成的 Todoist 任务。
 author: Andrey Kulishov
-downloads: 8943
+downloads: 8945
 updated: 1744976033000
 repo: Ledaryy/obsidian-todoist-completed-tasks
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="todoist-completed-tasks-plugin"
   name="Todoist completed tasks"
-  description="Add completed Todoist tasks to your notes."
+  description="在笔记中添加已完成的 Todoist 任务。"
   author="Andrey Kulishov"
-  :downloads="8943"
+  :downloads="8945"
   :updated="1744976033000"
   repo="Ledaryy/obsidian-todoist-completed-tasks"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Todoist completed tasks 是一个功能强大的 Obsidian 插件。
 
-Add completed Todoist tasks to your notes.
+在笔记中添加已完成的 Todoist 任务。
 
 通过 Todoist completed tasks,您可以:
 
@@ -202,7 +202,7 @@ Add completed Todoist tasks to your notes.
 - **下载量**：8.9K
 - **最后更新**：2025-04-18
 - **GitHub**：[Ledaryy/obsidian-todoist-completed-tasks](https://github.com/Ledaryy/obsidian-todoist-completed-tasks)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

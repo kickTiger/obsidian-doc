@@ -1,12 +1,12 @@
 ---
 title: Commander
-description: Customize your workspace by adding commands everywhere, create macros and supercharge your mobile toolbar.
+description: 通过在任何地方添加命令、创建宏和增强移动工具栏来自定义工作区。
 author: Johnny and phibr0
-downloads: 406186
+downloads: 406613
 updated: 1749727943000
 repo: phibr0/obsidian-commander
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cmdr"
   name="Commander"
-  description="Customize your workspace by adding commands everywhere, create macros and supercharge your mobile toolbar."
+  description="通过在任何地方添加命令、创建宏和增强移动工具栏来自定义工作区。"
   author="Johnny and phibr0"
-  :downloads="406186"
+  :downloads="406613"
   :updated="1749727943000"
   repo="phibr0/obsidian-commander"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Commander 是一个功能强大的 Obsidian 插件。
 
-Customize your workspace by adding commands everywhere, create macros and supercharge your mobile toolbar.
+通过在任何地方添加命令、创建宏和增强移动工具栏来自定义工作区。
 
 通过 Commander,您可以:
 
@@ -199,10 +199,10 @@ Customize your workspace by adding commands everywhere, create macros and superc
 - **插件 ID**：cmdr
 - **作者**：Johnny and phibr0
 - **当前版本**：v1.0.0
-- **下载量**：406.2K
+- **下载量**：406.6K
 - **最后更新**：2025-06-12
 - **GitHub**：[phibr0/obsidian-commander](https://github.com/phibr0/obsidian-commander)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

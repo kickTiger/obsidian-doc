@@ -2,11 +2,11 @@
 title: Performium
 description: 'Integrates the osu! Performance Points system to to gamify your note-taking experience!'
 author: Louie Kurenai
-downloads: 477
+downloads: 479
 updated: 1754209179000
 repo: ruikurenaii/performium
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Performium"
   description="Integrates the osu! Performance Points system to to gamify your note-taking experience!"
   author="Louie Kurenai"
-  :downloads="477"
+  :downloads="479"
   :updated="1754209179000"
   repo="ruikurenaii/performium"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Integrates the osu! Performance Points system to to gamify your note-taking expe
 - **插件 ID**：performosu
 - **作者**：Louie Kurenai
 - **当前版本**：v1.0.0
-- **下载量**：477
+- **下载量**：479
 - **最后更新**：2025-08-03
 - **GitHub**：[ruikurenaii/performium](https://github.com/ruikurenaii/performium)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

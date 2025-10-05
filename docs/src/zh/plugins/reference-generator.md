@@ -2,11 +2,11 @@
 title: Reference Generator
 description: Turn links into bibliographies in styles like Harvard, MLA, APA, and more.
 author: Kadison McLellan
-downloads: 2898
+downloads: 2899
 updated: 1706926447000
 repo: kadisonm/obsidian-reference-generator
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Reference Generator"
   description="Turn links into bibliographies in styles like Harvard, MLA, APA, and more."
   author="Kadison McLellan"
-  :downloads="2898"
+  :downloads="2899"
   :updated="1706926447000"
   repo="kadisonm/obsidian-reference-generator"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Turn links into bibliographies in styles like Harvard, MLA, APA, and more.
 - **下载量**：2.9K
 - **最后更新**：2024-02-03
 - **GitHub**：[kadisonm/obsidian-reference-generator](https://github.com/kadisonm/obsidian-reference-generator)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

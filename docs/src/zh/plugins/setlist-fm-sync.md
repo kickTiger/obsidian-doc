@@ -6,7 +6,7 @@ downloads: 112
 updated: 1733421207000
 repo: Fleker/setlist-for-obsidian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1733421207000"
   repo="Fleker/setlist-for-obsidian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Syncs your setlist.fm attended concerts.
 - **下载量**：112
 - **最后更新**：2024-12-06
 - **GitHub**：[Fleker/setlist-for-obsidian](https://github.com/Fleker/setlist-for-obsidian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

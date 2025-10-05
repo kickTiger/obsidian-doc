@@ -6,7 +6,7 @@ downloads: 1501
 updated: 1712082172000
 repo: LarrySAL/pinyin-replacer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1712082172000"
   repo="LarrySAL/pinyin-replacer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Use the Pinyin tones without having to install extra keyboard layouts.
 - **下载量**：1.5K
 - **最后更新**：2024-04-03
 - **GitHub**：[LarrySAL/pinyin-replacer](https://github.com/LarrySAL/pinyin-replacer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

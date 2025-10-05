@@ -2,11 +2,11 @@
 title: KaTeX to MathJax
 description: Converts KaTeX format to MathJax format
 author: Darko Pejakovic
-downloads: 3410
+downloads: 3450
 updated: 1759498405000
 repo: pejakovic/obsidian-convert-katex-to-mathjax
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="KaTeX to MathJax"
   description="Converts KaTeX format to MathJax format"
   author="Darko Pejakovic"
-  :downloads="3410"
+  :downloads="3450"
   :updated="1759498405000"
   repo="pejakovic/obsidian-convert-katex-to-mathjax"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Converts KaTeX format to MathJax format
 - **插件 ID**：convert-katex-to-mathjax
 - **作者**：Darko Pejakovic
 - **当前版本**：v1.0.0
-- **下载量**：3.4K
+- **下载量**：3.5K
 - **最后更新**：2025-10-03
 - **GitHub**：[pejakovic/obsidian-convert-katex-to-mathjax](https://github.com/pejakovic/obsidian-convert-katex-to-mathjax)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

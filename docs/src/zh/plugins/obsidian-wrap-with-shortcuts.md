@@ -1,12 +1,12 @@
 ---
 title: Wrap with shortcuts
-description: 'Wrap selected text in custom tags with shortcuts. E.g.: underline, sub, ruby(フリガナ).'
+description: 用快捷方式在自定义标签中包选中的文本。例如：下划线、sub、ruby(フリガナ)。
 author: Manic Chuang
-downloads: 10493
+downloads: 10494
 updated: 1679402726000
 repo: manic/obsidian-wrap-with-shortcuts
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-wrap-with-shortcuts"
   name="Wrap with shortcuts"
-  description="Wrap selected text in custom tags with shortcuts. E.g.: underline, sub, ruby(フリガナ)."
+  description="用快捷方式在自定义标签中包选中的文本。例如：下划线、sub、ruby(フリガナ)。"
   author="Manic Chuang"
-  :downloads="10493"
+  :downloads="10494"
   :updated="1679402726000"
   repo="manic/obsidian-wrap-with-shortcuts"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Wrap with shortcuts 是一个功能强大的 Obsidian 插件。
 
-Wrap selected text in custom tags with shortcuts. E.g.: underline, sub, ruby(フリガナ).
+用快捷方式在自定义标签中包选中的文本。例如：下划线、sub、ruby(フリガナ)。
 
 通过 Wrap with shortcuts,您可以:
 
@@ -202,7 +202,7 @@ Wrap selected text in custom tags with shortcuts. E.g.: underline, sub, ruby(フ
 - **下载量**：10.5K
 - **最后更新**：2023-03-21
 - **GitHub**：[manic/obsidian-wrap-with-shortcuts](https://github.com/manic/obsidian-wrap-with-shortcuts)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

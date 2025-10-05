@@ -6,7 +6,7 @@ downloads: 226
 updated: 1743829304000
 repo: EurFelux/obsidian-another-name-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1743829304000"
   repo="EurFelux/obsidian-another-name-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add an another name after your inline title!
 - **下载量**：226
 - **最后更新**：2025-04-05
 - **GitHub**：[EurFelux/obsidian-another-name-plugin](https://github.com/EurFelux/obsidian-another-name-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

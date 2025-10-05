@@ -2,11 +2,11 @@
 title: QueryDash
 description: Refer to Dataview and add search, sorting, and pagination functions, just like Notion.
 author: lwx
-downloads: 2367
+downloads: 2371
 updated: 1749486285000
 repo: liufree/obsidian-querydash
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="QueryDash"
   description="Refer to Dataview and add search, sorting, and pagination functions, just like Notion."
   author="lwx"
-  :downloads="2367"
+  :downloads="2371"
   :updated="1749486285000"
   repo="liufree/obsidian-querydash"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Refer to Dataview and add search, sorting, and pagination functions, just like N
 - **下载量**：2.4K
 - **最后更新**：2025-06-10
 - **GitHub**：[liufree/obsidian-querydash](https://github.com/liufree/obsidian-querydash)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

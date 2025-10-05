@@ -2,11 +2,11 @@
 title: VARE
 description: Now you can easily manage your plugins and themes. Simply select the version you want or install unlisted versions from GitHub. You can also install beta version and switch back if necessary.
 author: 4Source
-downloads: 1638
+downloads: 1642
 updated: 1755643005000
 repo: 4Source/vare-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="VARE"
   description="Now you can easily manage your plugins and themes. Simply select the version you want or install unlisted versions from GitHub. You can also install beta version and switch back if necessary."
   author="4Source"
-  :downloads="1638"
+  :downloads="1642"
   :updated="1755643005000"
   repo="4Source/vare-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Now you can easily manage your plugins and themes. Simply select the version you
 - **下载量**：1.6K
 - **最后更新**：2025-08-20
 - **GitHub**：[4Source/vare-obsidian-plugin](https://github.com/4Source/vare-obsidian-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

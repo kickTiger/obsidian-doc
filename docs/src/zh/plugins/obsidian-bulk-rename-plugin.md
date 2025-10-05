@@ -1,12 +1,12 @@
 ---
 title: Bulk Rename
-description: Rename files based on a pattern.
+description: 根据模式重命名文件
 author: Oleg Lustenko
-downloads: 14880
+downloads: 14897
 updated: 1676746088000
 repo: OlegLustenko/obsidian-bulk-rename
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-bulk-rename-plugin"
   name="Bulk Rename"
-  description="Rename files based on a pattern."
+  description="根据模式重命名文件"
   author="Oleg Lustenko"
-  :downloads="14880"
+  :downloads="14897"
   :updated="1676746088000"
   repo="OlegLustenko/obsidian-bulk-rename"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Bulk Rename 是一个功能强大的 Obsidian 插件。
 
-Rename files based on a pattern.
+根据模式重命名文件
 
 通过 Bulk Rename,您可以:
 
@@ -202,7 +202,7 @@ Rename files based on a pattern.
 - **下载量**：14.9K
 - **最后更新**：2023-02-19
 - **GitHub**：[OlegLustenko/obsidian-bulk-rename](https://github.com/OlegLustenko/obsidian-bulk-rename)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

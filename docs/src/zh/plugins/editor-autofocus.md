@@ -6,7 +6,7 @@ downloads: 2454
 updated: 1699819284000
 repo: mgussekloo/obsidian-editor-autofocus
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1699819284000"
   repo="mgussekloo/obsidian-editor-autofocus"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Autofocus the editor when opening a new file.
 - **下载量**：2.5K
 - **最后更新**：2023-11-13
 - **GitHub**：[mgussekloo/obsidian-editor-autofocus](https://github.com/mgussekloo/obsidian-editor-autofocus)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

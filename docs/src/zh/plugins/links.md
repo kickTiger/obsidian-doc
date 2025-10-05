@@ -1,12 +1,12 @@
 ---
 title: Links
-description: Manipulate links.
+description: 操纵链接
 author: MiiKey
-downloads: 62647
+downloads: 62663
 updated: 1753912748000
 repo: mii-key/obsidian-links
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="links"
   name="Links"
-  description="Manipulate links."
+  description="操纵链接"
   author="MiiKey"
-  :downloads="62647"
+  :downloads="62663"
   :updated="1753912748000"
   repo="mii-key/obsidian-links"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Links 是一个功能强大的 Obsidian 插件。
 
-Manipulate links.
+操纵链接
 
 通过 Links,您可以:
 
@@ -199,10 +199,10 @@ Manipulate links.
 - **插件 ID**：links
 - **作者**：MiiKey
 - **当前版本**：v1.0.0
-- **下载量**：62.6K
+- **下载量**：62.7K
 - **最后更新**：2025-07-31
 - **GitHub**：[mii-key/obsidian-links](https://github.com/mii-key/obsidian-links)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

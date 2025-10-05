@@ -1,12 +1,12 @@
 ---
 title: Quiet Outline
-description: Make outline quiet and more powerful, including no-auto-expand, rendering heading as Markdown, and search support.
+description: 使大纲更安静、更有用。
 author: the_tree
-downloads: 205809
+downloads: 205985
 updated: 1756888582000
 repo: guopenghui/obsidian-quiet-outline
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-quiet-outline"
   name="Quiet Outline"
-  description="Make outline quiet and more powerful, including no-auto-expand, rendering heading as Markdown, and search support."
+  description="使大纲更安静、更有用。"
   author="the_tree"
-  :downloads="205809"
+  :downloads="205985"
   :updated="1756888582000"
   repo="guopenghui/obsidian-quiet-outline"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quiet Outline 是一个功能强大的 Obsidian 插件。
 
-Make outline quiet and more powerful, including no-auto-expand, rendering heading as Markdown, and search support.
+使大纲更安静、更有用。
 
 通过 Quiet Outline,您可以:
 
@@ -199,10 +199,10 @@ Make outline quiet and more powerful, including no-auto-expand, rendering headin
 - **插件 ID**：obsidian-quiet-outline
 - **作者**：the_tree
 - **当前版本**：v1.0.0
-- **下载量**：205.8K
+- **下载量**：206.0K
 - **最后更新**：2025-09-03
 - **GitHub**：[guopenghui/obsidian-quiet-outline](https://github.com/guopenghui/obsidian-quiet-outline)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

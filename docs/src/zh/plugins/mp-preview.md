@@ -2,11 +2,11 @@
 title: MP Preview
 description: Preview and convert Markdown files to MP format
 author: Yeban
-downloads: 1252
+downloads: 1255
 updated: 1755745117000
 repo: Yeban8090/mp-preview
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="MP Preview"
   description="Preview and convert Markdown files to MP format"
   author="Yeban"
-  :downloads="1252"
+  :downloads="1255"
   :updated="1755745117000"
   repo="Yeban8090/mp-preview"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Preview and convert Markdown files to MP format
 - **下载量**：1.3K
 - **最后更新**：2025-08-21
 - **GitHub**：[Yeban8090/mp-preview](https://github.com/Yeban8090/mp-preview)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

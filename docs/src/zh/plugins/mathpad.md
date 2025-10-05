@@ -1,12 +1,12 @@
 ---
 title: Mathpad
-description: Computer algebra system and calculator.
+description: 计算机代数系统和计算器。
 author: Gabriele Cannata
-downloads: 14289
+downloads: 14299
 updated: 1673710888000
 repo: Canna71/obsidian-mathpad
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mathpad"
   name="Mathpad"
-  description="Computer algebra system and calculator."
+  description="计算机代数系统和计算器。"
   author="Gabriele Cannata"
-  :downloads="14289"
+  :downloads="14299"
   :updated="1673710888000"
   repo="Canna71/obsidian-mathpad"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mathpad 是一个功能强大的 Obsidian 插件。
 
-Computer algebra system and calculator.
+计算机代数系统和计算器。
 
 通过 Mathpad,您可以:
 
@@ -202,7 +202,7 @@ Computer algebra system and calculator.
 - **下载量**：14.3K
 - **最后更新**：2023-01-14
 - **GitHub**：[Canna71/obsidian-mathpad](https://github.com/Canna71/obsidian-mathpad)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

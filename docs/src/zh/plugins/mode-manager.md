@@ -2,11 +2,11 @@
 title: Mode manager
 description: Provide an easier way to manipulate reading/editing and preview/source mode
 author: dk949
-downloads: 557
+downloads: 558
 updated: 1743853024000
 repo: dk949/obsidian-mode-manager
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Mode manager"
   description="Provide an easier way to manipulate reading/editing and preview/source mode"
   author="dk949"
-  :downloads="557"
+  :downloads="558"
   :updated="1743853024000"
   repo="dk949/obsidian-mode-manager"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Provide an easier way to manipulate reading/editing and preview/source mode
 - **插件 ID**：mode-manager
 - **作者**：dk949
 - **当前版本**：v1.0.0
-- **下载量**：557
+- **下载量**：558
 - **最后更新**：2025-04-05
 - **GitHub**：[dk949/obsidian-mode-manager](https://github.com/dk949/obsidian-mode-manager)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

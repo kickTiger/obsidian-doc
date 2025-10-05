@@ -1,12 +1,12 @@
 ---
 title: DataCards
-description: Transform Dataview query results into visually appealing, customizable card layouts.
+description: 将 Dataview 查询结果转化为具有视觉吸引力的可定制卡片布局。
 author: Sophokles187
-downloads: 15788
+downloads: 15818
 updated: 1750530851000
 repo: Sophokles187/data-cards
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="data-cards"
   name="DataCards"
-  description="Transform Dataview query results into visually appealing, customizable card layouts."
+  description="将 Dataview 查询结果转化为具有视觉吸引力的可定制卡片布局。"
   author="Sophokles187"
-  :downloads="15788"
+  :downloads="15818"
   :updated="1750530851000"
   repo="Sophokles187/data-cards"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 DataCards 是一个功能强大的 Obsidian 插件。
 
-Transform Dataview query results into visually appealing, customizable card layouts.
+将 Dataview 查询结果转化为具有视觉吸引力的可定制卡片布局。
 
 通过 DataCards,您可以:
 
@@ -202,7 +202,7 @@ Transform Dataview query results into visually appealing, customizable card layo
 - **下载量**：15.8K
 - **最后更新**：2025-06-22
 - **GitHub**：[Sophokles187/data-cards](https://github.com/Sophokles187/data-cards)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

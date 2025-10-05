@@ -2,11 +2,11 @@
 title: GitHub Stars
 description: Displays the number of stars for GitHub repositories mentioned in notes.
 author: Flying Nobita
-downloads: 178
+downloads: 179
 updated: 1749023360000
 repo: flyingnobita/obsidian-github-stars
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="GitHub Stars"
   description="Displays the number of stars for GitHub repositories mentioned in notes."
   author="Flying Nobita"
-  :downloads="178"
+  :downloads="179"
   :updated="1749023360000"
   repo="flyingnobita/obsidian-github-stars"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Displays the number of stars for GitHub repositories mentioned in notes.
 - **插件 ID**：github-stars
 - **作者**：Flying Nobita
 - **当前版本**：v1.0.0
-- **下载量**：178
+- **下载量**：179
 - **最后更新**：2025-06-04
 - **GitHub**：[flyingnobita/obsidian-github-stars](https://github.com/flyingnobita/obsidian-github-stars)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

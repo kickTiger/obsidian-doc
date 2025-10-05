@@ -1,12 +1,12 @@
 ---
 title: Copy Block Link
-description: Get links to blocks and headings from the right-click menu.
+description: 获取块引用链接。
 author: mgmeyers
-downloads: 59229
+downloads: 59258
 updated: 1648673384000
 repo: mgmeyers/obsidian-copy-block-link
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-copy-block-link"
   name="Copy Block Link"
-  description="Get links to blocks and headings from the right-click menu."
+  description="获取块引用链接。"
   author="mgmeyers"
-  :downloads="59229"
+  :downloads="59258"
   :updated="1648673384000"
   repo="mgmeyers/obsidian-copy-block-link"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Copy Block Link 是一个功能强大的 Obsidian 插件。
 
-Get links to blocks and headings from the right-click menu.
+获取块引用链接。
 
 通过 Copy Block Link,您可以:
 
@@ -199,10 +199,10 @@ Get links to blocks and headings from the right-click menu.
 - **插件 ID**：obsidian-copy-block-link
 - **作者**：mgmeyers
 - **当前版本**：v1.0.0
-- **下载量**：59.2K
+- **下载量**：59.3K
 - **最后更新**：2022-03-31
 - **GitHub**：[mgmeyers/obsidian-copy-block-link](https://github.com/mgmeyers/obsidian-copy-block-link)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Cluster
 description: Make the notes clustering simpler on mobile devices and work well on PCs ether, Notes Clustering is the process of creating hierarchical notes structures.
 author: Lorens Osman
-downloads: 2109
+downloads: 2112
 updated: 1743203964000
 repo: lorens-osman-dev/cluster
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Cluster"
   description="Make the notes clustering simpler on mobile devices and work well on PCs ether, Notes Clustering is the process of creating hierarchical notes structures."
   author="Lorens Osman"
-  :downloads="2109"
+  :downloads="2112"
   :updated="1743203964000"
   repo="lorens-osman-dev/cluster"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Make the notes clustering simpler on mobile devices and work well on PCs ether, 
 - **下载量**：2.1K
 - **最后更新**：2025-03-29
 - **GitHub**：[lorens-osman-dev/cluster](https://github.com/lorens-osman-dev/cluster)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: WonderBox
 description: Create more relevant text sections your tips, top notes, warnings and more
 author: Christian HUMBERT
-downloads: 823
+downloads: 825
 updated: 1734967149000
 repo: Chrstn67/WonderBox
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="WonderBox"
   description="Create more relevant text sections your tips, top notes, warnings and more"
   author="Christian HUMBERT"
-  :downloads="823"
+  :downloads="825"
   :updated="1734967149000"
   repo="Chrstn67/WonderBox"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create more relevant text sections your tips, top notes, warnings and more
 - **插件 ID**：wonderbox
 - **作者**：Christian HUMBERT
 - **当前版本**：v1.0.0
-- **下载量**：823
+- **下载量**：825
 - **最后更新**：2024-12-23
 - **GitHub**：[Chrstn67/WonderBox](https://github.com/Chrstn67/WonderBox)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Hoarder Sync
 description: Sync your Hoarder bookmarks
 author: Jordan Hofker
-downloads: 1819
+downloads: 1825
 updated: 1756918046000
 repo: jhofker/obsidian-hoarder
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hoarder Sync"
   description="Sync your Hoarder bookmarks"
   author="Jordan Hofker"
-  :downloads="1819"
+  :downloads="1825"
   :updated="1756918046000"
   repo="jhofker/obsidian-hoarder"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync your Hoarder bookmarks
 - **下载量**：1.8K
 - **最后更新**：2025-09-04
 - **GitHub**：[jhofker/obsidian-hoarder](https://github.com/jhofker/obsidian-hoarder)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

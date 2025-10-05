@@ -2,11 +2,11 @@
 title: Perplexity Converter
 description: Fix references and their hyperlinks in text pasted from Perplexity.
 author: Henrik Seidel
-downloads: 2942
+downloads: 2951
 updated: 1750714164000
 repo: heseber/perplexity-converter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Perplexity Converter"
   description="Fix references and their hyperlinks in text pasted from Perplexity."
   author="Henrik Seidel"
-  :downloads="2942"
+  :downloads="2951"
   :updated="1750714164000"
   repo="heseber/perplexity-converter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Fix references and their hyperlinks in text pasted from Perplexity.
 - **插件 ID**：perplexity-converter
 - **作者**：Henrik Seidel
 - **当前版本**：v1.0.0
-- **下载量**：2.9K
+- **下载量**：3.0K
 - **最后更新**：2025-06-24
 - **GitHub**：[heseber/perplexity-converter](https://github.com/heseber/perplexity-converter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

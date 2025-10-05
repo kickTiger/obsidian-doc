@@ -2,11 +2,11 @@
 title: Task list
 description: Enable better task management via lists.
 author: Ted Marozzi
-downloads: 2409
+downloads: 2411
 updated: 1712310017000
 repo: ted-marozzi/task-list
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Task list"
   description="Enable better task management via lists."
   author="Ted Marozzi"
-  :downloads="2409"
+  :downloads="2411"
   :updated="1712310017000"
   repo="ted-marozzi/task-list"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enable better task management via lists.
 - **下载量**：2.4K
 - **最后更新**：2024-04-05
 - **GitHub**：[ted-marozzi/task-list](https://github.com/ted-marozzi/task-list)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

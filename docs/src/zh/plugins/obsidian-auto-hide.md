@@ -1,12 +1,12 @@
 ---
 title: Auto Hide
-description: Collapse sidebars when clicking on the editor/viewer panel.
+description: 点击编辑器/查看器面板时折叠侧边栏。
 author: skelato1
-downloads: 14657
+downloads: 14666
 updated: 1711371810000
 repo: skelato1/obsidian-auto-hide
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-auto-hide"
   name="Auto Hide"
-  description="Collapse sidebars when clicking on the editor/viewer panel."
+  description="点击编辑器/查看器面板时折叠侧边栏。"
   author="skelato1"
-  :downloads="14657"
+  :downloads="14666"
   :updated="1711371810000"
   repo="skelato1/obsidian-auto-hide"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Hide 是一个功能强大的 Obsidian 插件。
 
-Collapse sidebars when clicking on the editor/viewer panel.
+点击编辑器/查看器面板时折叠侧边栏。
 
 通过 Auto Hide,您可以:
 
@@ -202,7 +202,7 @@ Collapse sidebars when clicking on the editor/viewer panel.
 - **下载量**：14.7K
 - **最后更新**：2024-03-25
 - **GitHub**：[skelato1/obsidian-auto-hide](https://github.com/skelato1/obsidian-auto-hide)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

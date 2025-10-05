@@ -1,12 +1,12 @@
 ---
 title: Link Favicons
-description: See the favicon for a linked website.
+description: 请参见链接网站的图标。
 author: Johannes Theiner
-downloads: 48793
+downloads: 48808
 updated: 1701365159000
 repo: joethei/obsidian-link-favicon
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="link-favicon"
   name="Link Favicons"
-  description="See the favicon for a linked website."
+  description="请参见链接网站的图标。"
   author="Johannes Theiner"
-  :downloads="48793"
+  :downloads="48808"
   :updated="1701365159000"
   repo="joethei/obsidian-link-favicon"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Link Favicons 是一个功能强大的 Obsidian 插件。
 
-See the favicon for a linked website.
+请参见链接网站的图标。
 
 通过 Link Favicons,您可以:
 
@@ -202,7 +202,7 @@ See the favicon for a linked website.
 - **下载量**：48.8K
 - **最后更新**：2023-12-01
 - **GitHub**：[joethei/obsidian-link-favicon](https://github.com/joethei/obsidian-link-favicon)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

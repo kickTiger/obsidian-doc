@@ -1,12 +1,12 @@
 ---
 title: ChatCBT
-description: AI-powered journaling assistant for your notes, inspired by cognitive behavioral therapy (CBT).
+description: 受认知行为疗法（CBT）启发，为您的笔记提供人工智能支持的日记助手。
 author: Claire Froelich
-downloads: 5402
+downloads: 5404
 updated: 1750007305000
 repo: clairefro/obsidian-chat-cbt-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chat-cbt"
   name="ChatCBT"
-  description="AI-powered journaling assistant for your notes, inspired by cognitive behavioral therapy (CBT)."
+  description="受认知行为疗法（CBT）启发，为您的笔记提供人工智能支持的日记助手。"
   author="Claire Froelich"
-  :downloads="5402"
+  :downloads="5404"
   :updated="1750007305000"
   repo="clairefro/obsidian-chat-cbt-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ChatCBT 是一个功能强大的 Obsidian 插件。
 
-AI-powered journaling assistant for your notes, inspired by cognitive behavioral therapy (CBT).
+受认知行为疗法（CBT）启发，为您的笔记提供人工智能支持的日记助手。
 
 通过 ChatCBT,您可以:
 
@@ -202,7 +202,7 @@ AI-powered journaling assistant for your notes, inspired by cognitive behavioral
 - **下载量**：5.4K
 - **最后更新**：2025-06-16
 - **GitHub**：[clairefro/obsidian-chat-cbt-plugin](https://github.com/clairefro/obsidian-chat-cbt-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Reveal Folded
 description: Reveal the current file in the file explorer while collapsing all other tree items.
 author: d7sd6u
-downloads: 782
+downloads: 786
 updated: 1748469549000
 repo: d7sd6u/obsidian-reveal-folded
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Reveal Folded"
   description="Reveal the current file in the file explorer while collapsing all other tree items."
   author="d7sd6u"
-  :downloads="782"
+  :downloads="786"
   :updated="1748469549000"
   repo="d7sd6u/obsidian-reveal-folded"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Reveal the current file in the file explorer while collapsing all other tree ite
 - **插件 ID**：reveal-folded
 - **作者**：d7sd6u
 - **当前版本**：v1.0.0
-- **下载量**：782
+- **下载量**：786
 - **最后更新**：2025-05-29
 - **GitHub**：[d7sd6u/obsidian-reveal-folded](https://github.com/d7sd6u/obsidian-reveal-folded)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

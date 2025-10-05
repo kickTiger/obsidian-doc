@@ -1,12 +1,12 @@
 ---
 title: Apply Patterns
-description: Apply custom patterns of find-and-replace in succession to text.
+description: 在文本中连续应用自定义的查找和替换模式。
 author: Jacob Levernier
-downloads: 10289
+downloads: 10302
 updated: 1744473626000
 repo: jglev/obsidian-apply-patterns-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-apply-patterns"
   name="Apply Patterns"
-  description="Apply custom patterns of find-and-replace in succession to text."
+  description="在文本中连续应用自定义的查找和替换模式。"
   author="Jacob Levernier"
-  :downloads="10289"
+  :downloads="10302"
   :updated="1744473626000"
   repo="jglev/obsidian-apply-patterns-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Apply Patterns 是一个功能强大的 Obsidian 插件。
 
-Apply custom patterns of find-and-replace in succession to text.
+在文本中连续应用自定义的查找和替换模式。
 
 通过 Apply Patterns,您可以:
 
@@ -202,7 +202,7 @@ Apply custom patterns of find-and-replace in succession to text.
 - **下载量**：10.3K
 - **最后更新**：2025-04-13
 - **GitHub**：[jglev/obsidian-apply-patterns-plugin](https://github.com/jglev/obsidian-apply-patterns-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

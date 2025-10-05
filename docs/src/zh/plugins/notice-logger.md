@@ -2,11 +2,11 @@
 title: Notice logger
 description: Logs all notices to the developer console, with optional prefix.
 author: '@gapmiss'
-downloads: 1264
+downloads: 1267
 updated: 1746530038000
 repo: gapmiss/notice-logger
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Notice logger"
   description="Logs all notices to the developer console, with optional prefix."
   author="@gapmiss"
-  :downloads="1264"
+  :downloads="1267"
   :updated="1746530038000"
   repo="gapmiss/notice-logger"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Logs all notices to the developer console, with optional prefix.
 - **下载量**：1.3K
 - **最后更新**：2025-05-06
 - **GitHub**：[gapmiss/notice-logger](https://github.com/gapmiss/notice-logger)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

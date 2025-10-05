@@ -1,12 +1,12 @@
 ---
 title: Discordian Theme
-description: Fine-grained control of Discordian Theme.
+description: 对 Discordian 主题进行精细控制。
 author: '@radekkozak'
-downloads: 16315
+downloads: 16320
 updated: 1615375320000
 repo: radekkozak/discordian-plugin
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="discordian-plugin"
   name="Discordian Theme"
-  description="Fine-grained control of Discordian Theme."
+  description="对 Discordian 主题进行精细控制。"
   author="@radekkozak"
-  :downloads="16315"
+  :downloads="16320"
   :updated="1615375320000"
   repo="radekkozak/discordian-plugin"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Discordian Theme 是一个功能强大的 Obsidian 插件。
 
-Fine-grained control of Discordian Theme.
+对 Discordian 主题进行精细控制。
 
 通过 Discordian Theme,您可以:
 
@@ -202,7 +202,7 @@ Fine-grained control of Discordian Theme.
 - **下载量**：16.3K
 - **最后更新**：2021-03-10
 - **GitHub**：[radekkozak/discordian-plugin](https://github.com/radekkozak/discordian-plugin)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

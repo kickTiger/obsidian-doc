@@ -1,12 +1,12 @@
 ---
 title: Quote of the Day
-description: Insert random quotes in the editor.
+description: 在编辑器中插入随机引语。
 author: Florin Bobis
-downloads: 13841
+downloads: 13844
 updated: 1732812896000
 repo: twentytwokhz/quote-of-the-day
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quote-of-the-day"
   name="Quote of the Day"
-  description="Insert random quotes in the editor."
+  description="在编辑器中插入随机引语。"
   author="Florin Bobis"
-  :downloads="13841"
+  :downloads="13844"
   :updated="1732812896000"
   repo="twentytwokhz/quote-of-the-day"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quote of the Day 是一个功能强大的 Obsidian 插件。
 
-Insert random quotes in the editor.
+在编辑器中插入随机引语。
 
 通过 Quote of the Day,您可以:
 
@@ -202,7 +202,7 @@ Insert random quotes in the editor.
 - **下载量**：13.8K
 - **最后更新**：2024-11-29
 - **GitHub**：[twentytwokhz/quote-of-the-day](https://github.com/twentytwokhz/quote-of-the-day)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

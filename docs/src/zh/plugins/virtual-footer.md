@@ -2,11 +2,11 @@
 title: Virtual Content
 description: Display markdown text (including dataview queries or Obsidian bases) at the bottom, top or in the sidebar for all notes which match a specified rule, without modifying them.
 author: Signynt
-downloads: 2883
+downloads: 2889
 updated: 1756576198000
 repo: Signynt/virtual-content
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Virtual Content"
   description="Display markdown text (including dataview queries or Obsidian bases) at the bottom, top or in the sidebar for all notes which match a specified rule, without modifying them."
   author="Signynt"
-  :downloads="2883"
+  :downloads="2889"
   :updated="1756576198000"
   repo="Signynt/virtual-content"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Display markdown text (including dataview queries or Obsidian bases) at the bott
 - **下载量**：2.9K
 - **最后更新**：2025-08-31
 - **GitHub**：[Signynt/virtual-content](https://github.com/Signynt/virtual-content)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Advanced Progress Bars
-description: Progress bars that can change color depending on completion value - fully customizable.
+description: 进度条可根据完成值改变颜色--完全可定制。
 author: cactuzhead
-downloads: 5461
+downloads: 5493
 updated: 1758480043000
 repo: cactuzhead/Advanced-Progress-Bars
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="advanced-progress-bars"
   name="Advanced Progress Bars"
-  description="Progress bars that can change color depending on completion value - fully customizable."
+  description="进度条可根据完成值改变颜色--完全可定制。"
   author="cactuzhead"
-  :downloads="5461"
+  :downloads="5493"
   :updated="1758480043000"
   repo="cactuzhead/Advanced-Progress-Bars"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Advanced Progress Bars 是一个功能强大的 Obsidian 插件。
 
-Progress bars that can change color depending on completion value - fully customizable.
+进度条可根据完成值改变颜色--完全可定制。
 
 通过 Advanced Progress Bars,您可以:
 
@@ -202,7 +202,7 @@ Progress bars that can change color depending on completion value - fully custom
 - **下载量**：5.5K
 - **最后更新**：2025-09-22
 - **GitHub**：[cactuzhead/Advanced-Progress-Bars](https://github.com/cactuzhead/Advanced-Progress-Bars)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

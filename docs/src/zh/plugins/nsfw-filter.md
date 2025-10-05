@@ -6,7 +6,7 @@ downloads: 379
 updated: 1719338565000
 repo: catvatar/Obsidian-NSFW-Plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1719338565000"
   repo="catvatar/Obsidian-NSFW-Plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds customizable and easly togglable NSFW filter
 - **下载量**：379
 - **最后更新**：2024-06-26
 - **GitHub**：[catvatar/Obsidian-NSFW-Plugin](https://github.com/catvatar/Obsidian-NSFW-Plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

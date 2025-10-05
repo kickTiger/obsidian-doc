@@ -1,12 +1,12 @@
 ---
 title: Text Extractor
-description: A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs.
+description: 一个便于从图像（OCR）和 PDF 中提取文本的（配套）插件。
 author: Simon Cambier
-downloads: 218993
+downloads: 219249
 updated: 1753344955000
 repo: scambier/obsidian-text-extractor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="text-extractor"
   name="Text Extractor"
-  description="A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs."
+  description="一个便于从图像（OCR）和 PDF 中提取文本的（配套）插件。"
   author="Simon Cambier"
-  :downloads="218993"
+  :downloads="219249"
   :updated="1753344955000"
   repo="scambier/obsidian-text-extractor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text Extractor 是一个功能强大的 Obsidian 插件。
 
-A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs.
+一个便于从图像（OCR）和 PDF 中提取文本的（配套）插件。
 
 通过 Text Extractor,您可以:
 
@@ -199,10 +199,10 @@ A (companion) plugin to facilitate the extraction of text from images (OCR) and 
 - **插件 ID**：text-extractor
 - **作者**：Simon Cambier
 - **当前版本**：v1.0.0
-- **下载量**：219.0K
+- **下载量**：219.2K
 - **最后更新**：2025-07-24
 - **GitHub**：[scambier/obsidian-text-extractor](https://github.com/scambier/obsidian-text-extractor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

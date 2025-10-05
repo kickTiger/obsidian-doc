@@ -1,12 +1,12 @@
 ---
 title: Date Inserter
-description: Insert a date at the cursor position using a calendar.
+description: 使用日历在光标位置插入日期。
 author: namikaze-40p
-downloads: 10217
+downloads: 10232
 updated: 1757144054000
 repo: namikaze-40p/obsidian-date-inserter
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="date-inserter"
   name="Date Inserter"
-  description="Insert a date at the cursor position using a calendar."
+  description="使用日历在光标位置插入日期。"
   author="namikaze-40p"
-  :downloads="10217"
+  :downloads="10232"
   :updated="1757144054000"
   repo="namikaze-40p/obsidian-date-inserter"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Date Inserter 是一个功能强大的 Obsidian 插件。
 
-Insert a date at the cursor position using a calendar.
+使用日历在光标位置插入日期。
 
 通过 Date Inserter,您可以:
 
@@ -202,7 +202,7 @@ Insert a date at the cursor position using a calendar.
 - **下载量**：10.2K
 - **最后更新**：2025-09-06
 - **GitHub**：[namikaze-40p/obsidian-date-inserter](https://github.com/namikaze-40p/obsidian-date-inserter)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

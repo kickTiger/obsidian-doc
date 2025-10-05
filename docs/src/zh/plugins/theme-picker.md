@@ -1,12 +1,12 @@
 ---
 title: Theme Picker
-description: Quickly preview and select installed themes.
+description: 快速预览和选择已安装的主题
 author: kenset
-downloads: 34015
+downloads: 34038
 updated: 1665854721000
 repo: trey-sedate/obsidian-theme-picker
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="theme-picker"
   name="Theme Picker"
-  description="Quickly preview and select installed themes."
+  description="快速预览和选择已安装的主题"
   author="kenset"
-  :downloads="34015"
+  :downloads="34038"
   :updated="1665854721000"
   repo="trey-sedate/obsidian-theme-picker"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Theme Picker 是一个功能强大的 Obsidian 插件。
 
-Quickly preview and select installed themes.
+快速预览和选择已安装的主题
 
 通过 Theme Picker,您可以:
 
@@ -202,7 +202,7 @@ Quickly preview and select installed themes.
 - **下载量**：34.0K
 - **最后更新**：2022-10-16
 - **GitHub**：[trey-sedate/obsidian-theme-picker](https://github.com/trey-sedate/obsidian-theme-picker)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

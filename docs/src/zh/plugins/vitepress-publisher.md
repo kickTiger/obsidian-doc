@@ -2,11 +2,11 @@
 title: Vitepress Publisher
 description: Conveniently preview and publish Markdown files using vitepress.
 author: mistj
-downloads: 513
+downloads: 514
 updated: 1754634564000
 repo: tyrad/obsidian-vitepress
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Vitepress Publisher"
   description="Conveniently preview and publish Markdown files using vitepress."
   author="mistj"
-  :downloads="513"
+  :downloads="514"
   :updated="1754634564000"
   repo="tyrad/obsidian-vitepress"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Conveniently preview and publish Markdown files using vitepress.
 - **插件 ID**：vitepress-publisher
 - **作者**：mistj
 - **当前版本**：v1.0.0
-- **下载量**：513
+- **下载量**：514
 - **最后更新**：2025-08-08
 - **GitHub**：[tyrad/obsidian-vitepress](https://github.com/tyrad/obsidian-vitepress)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

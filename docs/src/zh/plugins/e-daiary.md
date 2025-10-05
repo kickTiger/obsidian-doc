@@ -6,7 +6,7 @@ downloads: 262
 updated: 1735909545000
 repo: wholetomy/obsidian-e-daiary
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1735909545000"
   repo="wholetomy/obsidian-e-daiary"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Creates directories and notes based on the day of the year.
 - **下载量**：262
 - **最后更新**：2025-01-03
 - **GitHub**：[wholetomy/obsidian-e-daiary](https://github.com/wholetomy/obsidian-e-daiary)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

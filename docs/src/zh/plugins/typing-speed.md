@@ -1,12 +1,12 @@
 ---
 title: Typing speed
-description: Show the current typing speed in the status bar.
+description: 在状态栏中显示当前打字速度。
 author: supercyp
-downloads: 11710
+downloads: 11723
 updated: 1730048611000
 repo: Supercip971/obsidian-typing-speed
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="typing-speed"
   name="Typing speed"
-  description="Show the current typing speed in the status bar."
+  description="在状态栏中显示当前打字速度。"
   author="supercyp"
-  :downloads="11710"
+  :downloads="11723"
   :updated="1730048611000"
   repo="Supercip971/obsidian-typing-speed"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Typing speed 是一个功能强大的 Obsidian 插件。
 
-Show the current typing speed in the status bar.
+在状态栏中显示当前打字速度。
 
 通过 Typing speed,您可以:
 
@@ -202,7 +202,7 @@ Show the current typing speed in the status bar.
 - **下载量**：11.7K
 - **最后更新**：2024-10-28
 - **GitHub**：[Supercip971/obsidian-typing-speed](https://github.com/Supercip971/obsidian-typing-speed)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

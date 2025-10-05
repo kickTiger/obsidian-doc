@@ -2,11 +2,11 @@
 title: FileName Styler
 description: Customize and style file names in the file explorer using patterns, prefixes, suffixes, colors, and icons.
 author: Marc Feininger
-downloads: 900
+downloads: 904
 updated: 1745482050000
 repo: marc-f/obsidian-file-name-styler
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="FileName Styler"
   description="Customize and style file names in the file explorer using patterns, prefixes, suffixes, colors, and icons."
   author="Marc Feininger"
-  :downloads="900"
+  :downloads="904"
   :updated="1745482050000"
   repo="marc-f/obsidian-file-name-styler"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Customize and style file names in the file explorer using patterns, prefixes, su
 - **插件 ID**：filename-styler
 - **作者**：Marc Feininger
 - **当前版本**：v1.0.0
-- **下载量**：900
+- **下载量**：904
 - **最后更新**：2025-04-24
 - **GitHub**：[marc-f/obsidian-file-name-styler](https://github.com/marc-f/obsidian-file-name-styler)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

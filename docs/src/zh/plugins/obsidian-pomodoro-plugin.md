@@ -1,12 +1,12 @@
 ---
 title: Pomodoro
-description: Simple pomodoro time tracking.
+description: 简单的 Pomodoro 时间跟踪。
 author: Tokuhiro Matsuno
-downloads: 15257
+downloads: 15258
 updated: 1621474773000
 repo: tokuhirom/obsidian-pomodoro-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-pomodoro-plugin"
   name="Pomodoro"
-  description="Simple pomodoro time tracking."
+  description="简单的 Pomodoro 时间跟踪。"
   author="Tokuhiro Matsuno"
-  :downloads="15257"
+  :downloads="15258"
   :updated="1621474773000"
   repo="tokuhirom/obsidian-pomodoro-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pomodoro 是一个功能强大的 Obsidian 插件。
 
-Simple pomodoro time tracking.
+简单的 Pomodoro 时间跟踪。
 
 通过 Pomodoro,您可以:
 
@@ -202,7 +202,7 @@ Simple pomodoro time tracking.
 - **下载量**：15.3K
 - **最后更新**：2021-05-20
 - **GitHub**：[tokuhirom/obsidian-pomodoro-plugin](https://github.com/tokuhirom/obsidian-pomodoro-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

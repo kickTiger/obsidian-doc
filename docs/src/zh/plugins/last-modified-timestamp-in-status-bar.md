@@ -1,12 +1,12 @@
 ---
 title: Last Modified Timestamp in Status Bar
-description: Dynamic display of file modification timestamp in the status bar.
+description: 在状态栏中动态显示文件修改时间戳。
 author: Yustynn
-downloads: 8441
+downloads: 8442
 updated: 1729448319000
 repo: Yustynn/obsidian-last-modified-timestamp-in-status-bar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="last-modified-timestamp-in-status-bar"
   name="Last Modified Timestamp in Status Bar"
-  description="Dynamic display of file modification timestamp in the status bar."
+  description="在状态栏中动态显示文件修改时间戳。"
   author="Yustynn"
-  :downloads="8441"
+  :downloads="8442"
   :updated="1729448319000"
   repo="Yustynn/obsidian-last-modified-timestamp-in-status-bar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Last Modified Timestamp in Status Bar 是一个功能强大的 Obsidian 插件。
 
-Dynamic display of file modification timestamp in the status bar.
+在状态栏中动态显示文件修改时间戳。
 
 通过 Last Modified Timestamp in Status Bar,您可以:
 
@@ -202,7 +202,7 @@ Dynamic display of file modification timestamp in the status bar.
 - **下载量**：8.4K
 - **最后更新**：2024-10-21
 - **GitHub**：[Yustynn/obsidian-last-modified-timestamp-in-status-bar](https://github.com/Yustynn/obsidian-last-modified-timestamp-in-status-bar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

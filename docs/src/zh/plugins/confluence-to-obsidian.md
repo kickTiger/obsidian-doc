@@ -1,12 +1,12 @@
 ---
 title: Confluence Import
-description: Import Confluence space into your vault.
+description: 将 Confluence 空间导入保险库。
 author: K
-downloads: 5812
+downloads: 5815
 updated: 1706285831000
 repo: KkEi34/confluence-to-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="confluence-to-obsidian"
   name="Confluence Import"
-  description="Import Confluence space into your vault."
+  description="将 Confluence 空间导入保险库。"
   author="K"
-  :downloads="5812"
+  :downloads="5815"
   :updated="1706285831000"
   repo="KkEi34/confluence-to-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Confluence Import 是一个功能强大的 Obsidian 插件。
 
-Import Confluence space into your vault.
+将 Confluence 空间导入保险库。
 
 通过 Confluence Import,您可以:
 
@@ -202,7 +202,7 @@ Import Confluence space into your vault.
 - **下载量**：5.8K
 - **最后更新**：2024-01-27
 - **GitHub**：[KkEi34/confluence-to-obsidian-plugin](https://github.com/KkEi34/confluence-to-obsidian-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

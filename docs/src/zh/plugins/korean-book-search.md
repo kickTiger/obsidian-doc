@@ -2,11 +2,11 @@
 title: Korean Book Search
 description: Automatically fills in YAML frontmatter with Korean book information from Aladin API based on the note title.
 author: lazerfit
-downloads: 346
+downloads: 348
 updated: 1758678675000
 repo: lazerfit/korean-book-search
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Korean Book Search"
   description="Automatically fills in YAML frontmatter with Korean book information from Aladin API based on the note title."
   author="lazerfit"
-  :downloads="346"
+  :downloads="348"
   :updated="1758678675000"
   repo="lazerfit/korean-book-search"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically fills in YAML frontmatter with Korean book information from Aladin
 - **插件 ID**：korean-book-search
 - **作者**：lazerfit
 - **当前版本**：v1.0.0
-- **下载量**：346
+- **下载量**：348
 - **最后更新**：2025-09-24
 - **GitHub**：[lazerfit/korean-book-search](https://github.com/lazerfit/korean-book-search)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

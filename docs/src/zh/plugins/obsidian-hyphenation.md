@@ -1,12 +1,12 @@
 ---
 title: Hyphenation
-description: Enable justified text and hyphenation.
+description: 启用对齐文本和连字符。
 author: 7596ff
-downloads: 8404
+downloads: 8416
 updated: 1721919691000
 repo: 7596ff/obsidian-hyphenation
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-hyphenation"
   name="Hyphenation"
-  description="Enable justified text and hyphenation."
+  description="启用对齐文本和连字符。"
   author="7596ff"
-  :downloads="8404"
+  :downloads="8416"
   :updated="1721919691000"
   repo="7596ff/obsidian-hyphenation"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hyphenation 是一个功能强大的 Obsidian 插件。
 
-Enable justified text and hyphenation.
+启用对齐文本和连字符。
 
 通过 Hyphenation,您可以:
 
@@ -202,7 +202,7 @@ Enable justified text and hyphenation.
 - **下载量**：8.4K
 - **最后更新**：2024-07-25
 - **GitHub**：[7596ff/obsidian-hyphenation](https://github.com/7596ff/obsidian-hyphenation)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Chat View
-description: Chat View lets you quickly and easily create elegant Chat UIs in your Markdown Files.
+description: 聊天视图可让你在 Markdown 文件中快速、轻松地创建优雅的聊天用户界面。
 author: Aditya Majethia
-downloads: 17310
+downloads: 17318
 updated: 1675353250000
 repo: adifyr/obsidian-chat-view
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-chat-view"
   name="Chat View"
-  description="Chat View lets you quickly and easily create elegant Chat UIs in your Markdown Files."
+  description="聊天视图可让你在 Markdown 文件中快速、轻松地创建优雅的聊天用户界面。"
   author="Aditya Majethia"
-  :downloads="17310"
+  :downloads="17318"
   :updated="1675353250000"
   repo="adifyr/obsidian-chat-view"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chat View 是一个功能强大的 Obsidian 插件。
 
-Chat View lets you quickly and easily create elegant Chat UIs in your Markdown Files.
+聊天视图可让你在 Markdown 文件中快速、轻松地创建优雅的聊天用户界面。
 
 通过 Chat View,您可以:
 
@@ -202,7 +202,7 @@ Chat View lets you quickly and easily create elegant Chat UIs in your Markdown F
 - **下载量**：17.3K
 - **最后更新**：2023-02-02
 - **GitHub**：[adifyr/obsidian-chat-view](https://github.com/adifyr/obsidian-chat-view)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

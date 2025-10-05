@@ -1,12 +1,12 @@
 ---
 title: Cloudinary Uploader
-description: Upload pasted images from your clipboard to Cloudinary.
+description: 将剪贴板中粘贴的图片上传到 Cloudinary。
 author: Jordan Handy
-downloads: 4786
+downloads: 4787
 updated: 1718232163000
 repo: jordanhandy/obsidian-cloudinary-uploader
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-cloudinary-uploader"
   name="Cloudinary Uploader"
-  description="Upload pasted images from your clipboard to Cloudinary."
+  description="将剪贴板中粘贴的图片上传到 Cloudinary。"
   author="Jordan Handy"
-  :downloads="4786"
+  :downloads="4787"
   :updated="1718232163000"
   repo="jordanhandy/obsidian-cloudinary-uploader"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Cloudinary Uploader 是一个功能强大的 Obsidian 插件。
 
-Upload pasted images from your clipboard to Cloudinary.
+将剪贴板中粘贴的图片上传到 Cloudinary。
 
 通过 Cloudinary Uploader,您可以:
 
@@ -202,7 +202,7 @@ Upload pasted images from your clipboard to Cloudinary.
 - **下载量**：4.8K
 - **最后更新**：2024-06-13
 - **GitHub**：[jordanhandy/obsidian-cloudinary-uploader](https://github.com/jordanhandy/obsidian-cloudinary-uploader)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

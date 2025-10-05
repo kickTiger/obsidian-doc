@@ -1,12 +1,12 @@
 ---
 title: iCal
-description: Scan your vault for tasks that contain dates. Create an iCalendar file and store it in your vault or on Gist. You can then show this calendar in any iCal-compatible client such as Outlook, Google Calendar, Apple Calendar, etc.
+description: 扫描你的资料库，查找包含日期的任务。创建一个 iCalendar 文件，并将其存储在你的保险库或 Gist 上。然后，你就可以在任何兼容 iCal 的客户端（如 Outlook、Google Calendar、Apple Calendar 等）中显示该日历。
 author: Andrew Brereton
-downloads: 10480
+downloads: 10489
 updated: 1750130122000
 repo: andrewbrereton/obsidian-to-ical-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ical"
   name="iCal"
-  description="Scan your vault for tasks that contain dates. Create an iCalendar file and store it in your vault or on Gist. You can then show this calendar in any iCal-compatible client such as Outlook, Google Calendar, Apple Calendar, etc."
+  description="扫描你的资料库，查找包含日期的任务。创建一个 iCalendar 文件，并将其存储在你的保险库或 Gist 上。然后，你就可以在任何兼容 iCal 的客户端（如 Outlook、Google Calendar、Apple Calendar 等）中显示该日历。"
   author="Andrew Brereton"
-  :downloads="10480"
+  :downloads="10489"
   :updated="1750130122000"
   repo="andrewbrereton/obsidian-to-ical-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 iCal 是一个功能强大的 Obsidian 插件。
 
-Scan your vault for tasks that contain dates. Create an iCalendar file and store it in your vault or on Gist. You can then show this calendar in any iCal-compatible client such as Outlook, Google Calendar, Apple Calendar, etc.
+扫描你的资料库，查找包含日期的任务。创建一个 iCalendar 文件，并将其存储在你的保险库或 Gist 上。然后，你就可以在任何兼容 iCal 的客户端（如 Outlook、Google Calendar、Apple Calendar 等）中显示该日历。
 
 通过 iCal,您可以:
 
@@ -202,7 +202,7 @@ Scan your vault for tasks that contain dates. Create an iCalendar file and store
 - **下载量**：10.5K
 - **最后更新**：2025-06-17
 - **GitHub**：[andrewbrereton/obsidian-to-ical-plugin](https://github.com/andrewbrereton/obsidian-to-ical-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

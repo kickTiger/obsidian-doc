@@ -2,11 +2,11 @@
 title: Waveform Player
 description: Render audio files as waveforms
 author: Zhou Hua
-downloads: 731
+downloads: 732
 updated: 1742465970000
 repo: zhouhua/obsidian-waveform-player
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Waveform Player"
   description="Render audio files as waveforms"
   author="Zhou Hua"
-  :downloads="731"
+  :downloads="732"
   :updated="1742465970000"
   repo="zhouhua/obsidian-waveform-player"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Render audio files as waveforms
 - **插件 ID**：waveform-player
 - **作者**：Zhou Hua
 - **当前版本**：v1.0.0
-- **下载量**：731
+- **下载量**：732
 - **最后更新**：2025-03-20
 - **GitHub**：[zhouhua/obsidian-waveform-player](https://github.com/zhouhua/obsidian-waveform-player)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

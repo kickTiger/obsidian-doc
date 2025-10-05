@@ -2,11 +2,11 @@
 title: Bible sidecar
 description: Open the bible in your preferred translation in a split-screen view within your workspace
 author: Janis Ringli
-downloads: 895
+downloads: 897
 updated: 1743602875000
 repo: janisringli/bible-sidecar-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Bible sidecar"
   description="Open the bible in your preferred translation in a split-screen view within your workspace"
   author="Janis Ringli"
-  :downloads="895"
+  :downloads="897"
   :updated="1743602875000"
   repo="janisringli/bible-sidecar-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Open the bible in your preferred translation in a split-screen view within your 
 - **插件 ID**：bible-sidecar
 - **作者**：Janis Ringli
 - **当前版本**：v1.0.0
-- **下载量**：895
+- **下载量**：897
 - **最后更新**：2025-04-02
 - **GitHub**：[janisringli/bible-sidecar-obsidian-plugin](https://github.com/janisringli/bible-sidecar-obsidian-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

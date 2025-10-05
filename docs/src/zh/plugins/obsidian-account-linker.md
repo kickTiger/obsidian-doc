@@ -1,12 +1,12 @@
 ---
 title: Account Linker
-description: Describe external service accounts in the frontmatter.
+description: 在正文中描述外部服务账户。
 author: qwegat
-downloads: 4372
+downloads: 4373
 updated: 1660218699000
 repo: qwegat/Obsidian-Account-Linker
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-account-linker"
   name="Account Linker"
-  description="Describe external service accounts in the frontmatter."
+  description="在正文中描述外部服务账户。"
   author="qwegat"
-  :downloads="4372"
+  :downloads="4373"
   :updated="1660218699000"
   repo="qwegat/Obsidian-Account-Linker"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Account Linker 是一个功能强大的 Obsidian 插件。
 
-Describe external service accounts in the frontmatter.
+在正文中描述外部服务账户。
 
 通过 Account Linker,您可以:
 
@@ -202,7 +202,7 @@ Describe external service accounts in the frontmatter.
 - **下载量**：4.4K
 - **最后更新**：2022-08-11
 - **GitHub**：[qwegat/Obsidian-Account-Linker](https://github.com/qwegat/Obsidian-Account-Linker)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Latex Environments
-description: Quickly insert and change LaTeX environments within math environments.
+description: 在数学环境中快速插入和更改 LaTeX 环境。
 author: Zach Raines
-downloads: 26717
+downloads: 26726
 updated: 1690825574000
 repo: raineszm/obsidian-latex-environments
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-latex-environments"
   name="Latex Environments"
-  description="Quickly insert and change LaTeX environments within math environments."
+  description="在数学环境中快速插入和更改 LaTeX 环境。"
   author="Zach Raines"
-  :downloads="26717"
+  :downloads="26726"
   :updated="1690825574000"
   repo="raineszm/obsidian-latex-environments"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Latex Environments 是一个功能强大的 Obsidian 插件。
 
-Quickly insert and change LaTeX environments within math environments.
+在数学环境中快速插入和更改 LaTeX 环境。
 
 通过 Latex Environments,您可以:
 
@@ -202,7 +202,7 @@ Quickly insert and change LaTeX environments within math environments.
 - **下载量**：26.7K
 - **最后更新**：2023-08-01
 - **GitHub**：[raineszm/obsidian-latex-environments](https://github.com/raineszm/obsidian-latex-environments)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

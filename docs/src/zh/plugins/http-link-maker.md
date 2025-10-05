@@ -2,11 +2,11 @@
 title: HTTP Link Maker
 description: Generate HTTP Links to your vault files for universal URL recognition
 author: Kenneth Christensen
-downloads: 82
+downloads: 85
 updated: 1756470035000
 repo: kennethac/obsidian-http-links-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="HTTP Link Maker"
   description="Generate HTTP Links to your vault files for universal URL recognition"
   author="Kenneth Christensen"
-  :downloads="82"
+  :downloads="85"
   :updated="1756470035000"
   repo="kennethac/obsidian-http-links-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Generate HTTP Links to your vault files for universal URL recognition
 - **插件 ID**：http-link-maker
 - **作者**：Kenneth Christensen
 - **当前版本**：v1.0.0
-- **下载量**：82
+- **下载量**：85
 - **最后更新**：2025-08-29
 - **GitHub**：[kennethac/obsidian-http-links-plugin](https://github.com/kennethac/obsidian-http-links-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

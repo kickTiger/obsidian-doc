@@ -1,12 +1,12 @@
 ---
 title: Scrybble
-description: Synchronize highlights from your ReMarkable tablet.
+description: 从 ReMarkable 平板电脑同步要点。
 author: Streamsoft
-downloads: 19280
+downloads: 19289
 updated: 1756475399000
 repo: Scrybbling-together/scrybble
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="scrybble.ink"
   name="Scrybble"
-  description="Synchronize highlights from your ReMarkable tablet."
+  description="从 ReMarkable 平板电脑同步要点。"
   author="Streamsoft"
-  :downloads="19280"
+  :downloads="19289"
   :updated="1756475399000"
   repo="Scrybbling-together/scrybble"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Scrybble 是一个功能强大的 Obsidian 插件。
 
-Synchronize highlights from your ReMarkable tablet.
+从 ReMarkable 平板电脑同步要点。
 
 通过 Scrybble,您可以:
 
@@ -202,7 +202,7 @@ Synchronize highlights from your ReMarkable tablet.
 - **下载量**：19.3K
 - **最后更新**：2025-08-29
 - **GitHub**：[Scrybbling-together/scrybble](https://github.com/Scrybbling-together/scrybble)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

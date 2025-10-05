@@ -2,11 +2,11 @@
 title: Contact Cards
 description: Transforms YAML data into a simple business/contact card with power features.
 author: Bryan Stone
-downloads: 964
+downloads: 966
 updated: 1739579479000
 repo: aegixx/obsidian-contact-cards
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Contact Cards"
   description="Transforms YAML data into a simple business/contact card with power features."
   author="Bryan Stone"
-  :downloads="964"
+  :downloads="966"
   :updated="1739579479000"
   repo="aegixx/obsidian-contact-cards"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Transforms YAML data into a simple business/contact card with power features.
 - **插件 ID**：contact-cards
 - **作者**：Bryan Stone
 - **当前版本**：v1.0.0
-- **下载量**：964
+- **下载量**：966
 - **最后更新**：2025-02-15
 - **GitHub**：[aegixx/obsidian-contact-cards](https://github.com/aegixx/obsidian-contact-cards)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

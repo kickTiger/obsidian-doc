@@ -1,12 +1,12 @@
 ---
 title: MtG
-description: 'Manage Magic: The Gathering decks and card lists as notes.'
+description: 以笔记形式管理《魔法：收集》卡组和卡片列表。
 author: omardelarosa
-downloads: 5051
+downloads: 5053
 updated: 1695847707000
 repo: omardelarosa/obsidian-mtg
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-mtg"
   name="MtG"
-  description="Manage Magic: The Gathering decks and card lists as notes."
+  description="以笔记形式管理《魔法：收集》卡组和卡片列表。"
   author="omardelarosa"
-  :downloads="5051"
+  :downloads="5053"
   :updated="1695847707000"
   repo="omardelarosa/obsidian-mtg"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MtG 是一个功能强大的 Obsidian 插件。
 
-Manage Magic: The Gathering decks and card lists as notes.
+以笔记形式管理《魔法：收集》卡组和卡片列表。
 
 通过 MtG,您可以:
 
@@ -202,7 +202,7 @@ Manage Magic: The Gathering decks and card lists as notes.
 - **下载量**：5.1K
 - **最后更新**：2023-09-28
 - **GitHub**：[omardelarosa/obsidian-mtg](https://github.com/omardelarosa/obsidian-mtg)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

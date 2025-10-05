@@ -1,12 +1,12 @@
 ---
 title: Excel to Markdown Table
-description: Paste data from Microsoft Excel, Google Sheets, Apple Numbers and LibreOffice Calc as Markdown tables.
+description: 将 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 中的数据粘贴为 Markdown 表格。
 author: Ganessh Kumar R P
-downloads: 149578
+downloads: 149661
 updated: 1655458613000
 repo: ganesshkumar/obsidian-excel-to-markdown-table
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-excel-to-markdown-table"
   name="Excel to Markdown Table"
-  description="Paste data from Microsoft Excel, Google Sheets, Apple Numbers and LibreOffice Calc as Markdown tables."
+  description="将 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 中的数据粘贴为 Markdown 表格。"
   author="Ganessh Kumar R P"
-  :downloads="149578"
+  :downloads="149661"
   :updated="1655458613000"
   repo="ganesshkumar/obsidian-excel-to-markdown-table"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Excel to Markdown Table 是一个功能强大的 Obsidian 插件。
 
-Paste data from Microsoft Excel, Google Sheets, Apple Numbers and LibreOffice Calc as Markdown tables.
+将 Microsoft Excel、Google Sheets、Apple Numbers 和 LibreOffice Calc 中的数据粘贴为 Markdown 表格。
 
 通过 Excel to Markdown Table,您可以:
 
@@ -199,10 +199,10 @@ Paste data from Microsoft Excel, Google Sheets, Apple Numbers and LibreOffice Ca
 - **插件 ID**：obsidian-excel-to-markdown-table
 - **作者**：Ganessh Kumar R P
 - **当前版本**：v1.0.0
-- **下载量**：149.6K
+- **下载量**：149.7K
 - **最后更新**：2022-06-17
 - **GitHub**：[ganesshkumar/obsidian-excel-to-markdown-table](https://github.com/ganesshkumar/obsidian-excel-to-markdown-table)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

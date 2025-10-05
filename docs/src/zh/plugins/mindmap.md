@@ -1,12 +1,12 @@
 ---
 title: Mindmap
-description: Create notes with Mindmaps.
+description: 用思维导图创建笔记
 author: YunXiaoYi
-downloads: 10405
+downloads: 10429
 updated: 1750002057000
 repo: OneCalmCloud/obsidian-mindmap
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mindmap"
   name="Mindmap"
-  description="Create notes with Mindmaps."
+  description="用思维导图创建笔记"
   author="YunXiaoYi"
-  :downloads="10405"
+  :downloads="10429"
   :updated="1750002057000"
   repo="OneCalmCloud/obsidian-mindmap"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mindmap 是一个功能强大的 Obsidian 插件。
 
-Create notes with Mindmaps.
+用思维导图创建笔记
 
 通过 Mindmap,您可以:
 
@@ -202,7 +202,7 @@ Create notes with Mindmaps.
 - **下载量**：10.4K
 - **最后更新**：2025-06-15
 - **GitHub**：[OneCalmCloud/obsidian-mindmap](https://github.com/OneCalmCloud/obsidian-mindmap)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

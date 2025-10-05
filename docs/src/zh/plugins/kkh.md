@@ -6,7 +6,7 @@ downloads: 142
 updated: 1754833200000
 repo: okikae/obsid-kkh
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1754833200000"
   repo="okikae/obsid-kkh"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Replace words in a string using kkh dictionary.
 - **下载量**：142
 - **最后更新**：2025-08-10
 - **GitHub**：[okikae/obsid-kkh](https://github.com/okikae/obsid-kkh)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

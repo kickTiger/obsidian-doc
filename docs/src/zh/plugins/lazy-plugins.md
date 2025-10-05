@@ -1,12 +1,12 @@
 ---
 title: Lazy Plugin Loader
-description: Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time.
+description: 在启动时延迟加载插件，这样就能将应用程序的启动时间缩短到亚秒级。
 author: Alan Grainger
-downloads: 61956
+downloads: 62162
 updated: 1748223690000
 repo: alangrainger/obsidian-lazy-plugins
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="lazy-plugins"
   name="Lazy Plugin Loader"
-  description="Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time."
+  description="在启动时延迟加载插件，这样就能将应用程序的启动时间缩短到亚秒级。"
   author="Alan Grainger"
-  :downloads="61956"
+  :downloads="62162"
   :updated="1748223690000"
   repo="alangrainger/obsidian-lazy-plugins"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Lazy Plugin Loader 是一个功能强大的 Obsidian 插件。
 
-Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time.
+在启动时延迟加载插件，这样就能将应用程序的启动时间缩短到亚秒级。
 
 通过 Lazy Plugin Loader,您可以:
 
@@ -199,10 +199,10 @@ Load plugins with a delay on startup, so that you can get your app startup down 
 - **插件 ID**：lazy-plugins
 - **作者**：Alan Grainger
 - **当前版本**：v1.0.0
-- **下载量**：62.0K
+- **下载量**：62.2K
 - **最后更新**：2025-05-26
 - **GitHub**：[alangrainger/obsidian-lazy-plugins](https://github.com/alangrainger/obsidian-lazy-plugins)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

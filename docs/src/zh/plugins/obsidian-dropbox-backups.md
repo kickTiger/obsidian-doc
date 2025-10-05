@@ -1,12 +1,12 @@
 ---
 title: Aut-O-Backups
-description: Automated Dropbox backups of your entire vault.
+description: Dropbox 自动备份整个保险库。
 author: ryanpcmcquen
-downloads: 10979
+downloads: 10985
 updated: 1640582430000
 repo: ryanpcmcquen/obsidian-dropbox-backups
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-dropbox-backups"
   name="Aut-O-Backups"
-  description="Automated Dropbox backups of your entire vault."
+  description="Dropbox 自动备份整个保险库。"
   author="ryanpcmcquen"
-  :downloads="10979"
+  :downloads="10985"
   :updated="1640582430000"
   repo="ryanpcmcquen/obsidian-dropbox-backups"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Aut-O-Backups 是一个功能强大的 Obsidian 插件。
 
-Automated Dropbox backups of your entire vault.
+Dropbox 自动备份整个保险库。
 
 通过 Aut-O-Backups,您可以:
 
@@ -202,7 +202,7 @@ Automated Dropbox backups of your entire vault.
 - **下载量**：11.0K
 - **最后更新**：2021-12-27
 - **GitHub**：[ryanpcmcquen/obsidian-dropbox-backups](https://github.com/ryanpcmcquen/obsidian-dropbox-backups)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

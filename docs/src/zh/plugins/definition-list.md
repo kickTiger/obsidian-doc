@@ -2,11 +2,11 @@
 title: Definition List
 description: Adds HTML definition list support.
 author: shammond42
-downloads: 2498
+downloads: 2504
 updated: 1750964109000
 repo: shammond42/definition-list
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Definition List"
   description="Adds HTML definition list support."
   author="shammond42"
-  :downloads="2498"
+  :downloads="2504"
   :updated="1750964109000"
   repo="shammond42/definition-list"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds HTML definition list support.
 - **下载量**：2.5K
 - **最后更新**：2025-06-27
 - **GitHub**：[shammond42/definition-list](https://github.com/shammond42/definition-list)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

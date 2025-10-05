@@ -1,12 +1,12 @@
 ---
 title: Archiver
-description: Move completed tasks to an archive with a date tree.
+description: 将已完成的任务移动到带有日期树的存档中。
 author: ivan-lednev
-downloads: 30618
+downloads: 30631
 updated: 1693901982000
 repo: ivan-lednev/obsidian-task-archiver
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-task-archiver"
   name="Archiver"
-  description="Move completed tasks to an archive with a date tree."
+  description="将已完成的任务移动到带有日期树的存档中。"
   author="ivan-lednev"
-  :downloads="30618"
+  :downloads="30631"
   :updated="1693901982000"
   repo="ivan-lednev/obsidian-task-archiver"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Archiver 是一个功能强大的 Obsidian 插件。
 
-Move completed tasks to an archive with a date tree.
+将已完成的任务移动到带有日期树的存档中。
 
 通过 Archiver,您可以:
 
@@ -202,7 +202,7 @@ Move completed tasks to an archive with a date tree.
 - **下载量**：30.6K
 - **最后更新**：2023-09-05
 - **GitHub**：[ivan-lednev/obsidian-task-archiver](https://github.com/ivan-lednev/obsidian-task-archiver)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

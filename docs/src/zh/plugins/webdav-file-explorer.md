@@ -1,12 +1,12 @@
 ---
 title: Webdav File Explorer
-description: Explore your webdav files.
+description: 查看 webdav 文件
 author: red0orange
-downloads: 5001
+downloads: 5002
 updated: 1736616090000
 repo: red0orange/obsidian-webdav-file-explorer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="webdav-file-explorer"
   name="Webdav File Explorer"
-  description="Explore your webdav files."
+  description="查看 webdav 文件"
   author="red0orange"
-  :downloads="5001"
+  :downloads="5002"
   :updated="1736616090000"
   repo="red0orange/obsidian-webdav-file-explorer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Webdav File Explorer 是一个功能强大的 Obsidian 插件。
 
-Explore your webdav files.
+查看 webdav 文件
 
 通过 Webdav File Explorer,您可以:
 
@@ -202,7 +202,7 @@ Explore your webdav files.
 - **下载量**：5.0K
 - **最后更新**：2025-01-12
 - **GitHub**：[red0orange/obsidian-webdav-file-explorer](https://github.com/red0orange/obsidian-webdav-file-explorer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

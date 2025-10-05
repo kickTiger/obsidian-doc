@@ -1,12 +1,12 @@
 ---
 title: Calibre
-description: Access your Calibre libraries and read books directly in Obsidian.
+description: 访问 Calibre 图书馆，直接在 Obsidian 中阅读书籍。
 author: caronchen
-downloads: 17921
+downloads: 17931
 updated: 1695085971000
 repo: caronchen/obsidian-calibre-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-calibre-plugin"
   name="Calibre"
-  description="Access your Calibre libraries and read books directly in Obsidian."
+  description="访问 Calibre 图书馆，直接在 Obsidian 中阅读书籍。"
   author="caronchen"
-  :downloads="17921"
+  :downloads="17931"
   :updated="1695085971000"
   repo="caronchen/obsidian-calibre-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Calibre 是一个功能强大的 Obsidian 插件。
 
-Access your Calibre libraries and read books directly in Obsidian.
+访问 Calibre 图书馆，直接在 Obsidian 中阅读书籍。
 
 通过 Calibre,您可以:
 
@@ -202,7 +202,7 @@ Access your Calibre libraries and read books directly in Obsidian.
 - **下载量**：17.9K
 - **最后更新**：2023-09-19
 - **GitHub**：[caronchen/obsidian-calibre-plugin](https://github.com/caronchen/obsidian-calibre-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

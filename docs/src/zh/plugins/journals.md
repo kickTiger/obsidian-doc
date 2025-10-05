@@ -1,12 +1,12 @@
 ---
 title: Journals
-description: Manage your journals.
+description: 管理你的日志
 author: Sergii Kostyrko
-downloads: 71465
+downloads: 71573
 updated: 1756274208000
 repo: srg-kostyrko/obsidian-journal
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="journals"
   name="Journals"
-  description="Manage your journals."
+  description="管理你的日志"
   author="Sergii Kostyrko"
-  :downloads="71465"
+  :downloads="71573"
   :updated="1756274208000"
   repo="srg-kostyrko/obsidian-journal"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Journals 是一个功能强大的 Obsidian 插件。
 
-Manage your journals.
+管理你的日志
 
 通过 Journals,您可以:
 
@@ -199,10 +199,10 @@ Manage your journals.
 - **插件 ID**：journals
 - **作者**：Sergii Kostyrko
 - **当前版本**：v1.0.0
-- **下载量**：71.5K
+- **下载量**：71.6K
 - **最后更新**：2025-08-27
 - **GitHub**：[srg-kostyrko/obsidian-journal](https://github.com/srg-kostyrko/obsidian-journal)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

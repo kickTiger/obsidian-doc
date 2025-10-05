@@ -1,12 +1,12 @@
 ---
 title: Better Comment Toggle
-description: Improved comment toggling.
+description: 改进了评论切换功能。
 author: Gino Valente
-downloads: 4830
+downloads: 4832
 updated: 1703448898000
 repo: MrGVSV/obsidian-better-comment-toggle
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="better-comment-toggle"
   name="Better Comment Toggle"
-  description="Improved comment toggling."
+  description="改进了评论切换功能。"
   author="Gino Valente"
-  :downloads="4830"
+  :downloads="4832"
   :updated="1703448898000"
   repo="MrGVSV/obsidian-better-comment-toggle"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better Comment Toggle 是一个功能强大的 Obsidian 插件。
 
-Improved comment toggling.
+改进了评论切换功能。
 
 通过 Better Comment Toggle,您可以:
 
@@ -202,7 +202,7 @@ Improved comment toggling.
 - **下载量**：4.8K
 - **最后更新**：2023-12-25
 - **GitHub**：[MrGVSV/obsidian-better-comment-toggle](https://github.com/MrGVSV/obsidian-better-comment-toggle)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

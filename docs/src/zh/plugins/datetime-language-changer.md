@@ -6,7 +6,7 @@ downloads: 2579
 updated: 1698775555000
 repo: ZetabS/datetime-language-changer
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1698775555000"
   repo="ZetabS/datetime-language-changer"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Customize the language used for datetime formatting by changing moment.js&#39;s 
 - **下载量**：2.6K
 - **最后更新**：2023-11-01
 - **GitHub**：[ZetabS/datetime-language-changer](https://github.com/ZetabS/datetime-language-changer)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Metadata Hider
-description: Hide specific metadata property or if its value is empty.
+description: 隐藏特定元数据属性或其值为空。
 author: Benature
-downloads: 7842
+downloads: 7856
 updated: 1715760767000
 repo: Benature/obsidian-metadata-hider
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="metadata-hider"
   name="Metadata Hider"
-  description="Hide specific metadata property or if its value is empty."
+  description="隐藏特定元数据属性或其值为空。"
   author="Benature"
-  :downloads="7842"
+  :downloads="7856"
   :updated="1715760767000"
   repo="Benature/obsidian-metadata-hider"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Metadata Hider 是一个功能强大的 Obsidian 插件。
 
-Hide specific metadata property or if its value is empty.
+隐藏特定元数据属性或其值为空。
 
 通过 Metadata Hider,您可以:
 
@@ -199,10 +199,10 @@ Hide specific metadata property or if its value is empty.
 - **插件 ID**：metadata-hider
 - **作者**：Benature
 - **当前版本**：v1.0.0
-- **下载量**：7.8K
+- **下载量**：7.9K
 - **最后更新**：2024-05-15
 - **GitHub**：[Benature/obsidian-metadata-hider](https://github.com/Benature/obsidian-metadata-hider)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

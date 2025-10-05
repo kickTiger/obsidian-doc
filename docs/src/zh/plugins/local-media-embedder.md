@@ -2,11 +2,11 @@
 title: Local Media Embedder
 description: Embed videos and images and audios from your local device in your notes.
 author: seyf1elislam
-downloads: 2830
+downloads: 2844
 updated: 1729511503000
 repo: seyf1elislam/obsidian-LocalMediaEmbedder-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Local Media Embedder"
   description="Embed videos and images and audios from your local device in your notes."
   author="seyf1elislam"
-  :downloads="2830"
+  :downloads="2844"
   :updated="1729511503000"
   repo="seyf1elislam/obsidian-LocalMediaEmbedder-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Embed videos and images and audios from your local device in your notes.
 - **下载量**：2.8K
 - **最后更新**：2024-10-21
 - **GitHub**：[seyf1elislam/obsidian-LocalMediaEmbedder-plugin](https://github.com/seyf1elislam/obsidian-LocalMediaEmbedder-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Tab File Path
 description: Shows file paths in tabs
 author: John Burnett
-downloads: 150
+downloads: 153
 updated: 1758056906000
 repo: johnburnett/obsidian-tab-file-path
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tab File Path"
   description="Shows file paths in tabs"
   author="John Burnett"
-  :downloads="150"
+  :downloads="153"
   :updated="1758056906000"
   repo="johnburnett/obsidian-tab-file-path"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Shows file paths in tabs
 - **插件 ID**：tab-file-path
 - **作者**：John Burnett
 - **当前版本**：v1.0.0
-- **下载量**：150
+- **下载量**：153
 - **最后更新**：2025-09-17
 - **GitHub**：[johnburnett/obsidian-tab-file-path](https://github.com/johnburnett/obsidian-tab-file-path)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

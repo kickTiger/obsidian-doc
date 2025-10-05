@@ -2,11 +2,11 @@
 title: Simple Tab Indent
 description: Pressing Tab inserts a zero-width space + real tab, giving true indentation without triggering Markdown code blocks. Includes a settings panel to change the CSS tab width.
 author: Thiago Frias
-downloads: 1482
+downloads: 1496
 updated: 1745522659000
 repo: hoomersinpsom/simple-tab-indent
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Simple Tab Indent"
   description="Pressing Tab inserts a zero-width space + real tab, giving true indentation without triggering Markdown code blocks. Includes a settings panel to change the CSS tab width."
   author="Thiago Frias"
-  :downloads="1482"
+  :downloads="1496"
   :updated="1745522659000"
   repo="hoomersinpsom/simple-tab-indent"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Pressing Tab inserts a zero-width space + real tab, giving true indentation with
 - **下载量**：1.5K
 - **最后更新**：2025-04-25
 - **GitHub**：[hoomersinpsom/simple-tab-indent](https://github.com/hoomersinpsom/simple-tab-indent)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

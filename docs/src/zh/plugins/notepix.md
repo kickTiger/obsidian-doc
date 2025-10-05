@@ -2,11 +2,11 @@
 title: NotePix
 description: Automatically uploads images to your public or private GitHub repository, replacing local links with the corresponding remote URLs
 author: Ayush Parkara
-downloads: 60
+downloads: 63
 updated: 1756730621000
 repo: AyushParkara/NotePix
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="NotePix"
   description="Automatically uploads images to your public or private GitHub repository, replacing local links with the corresponding remote URLs"
   author="Ayush Parkara"
-  :downloads="60"
+  :downloads="63"
   :updated="1756730621000"
   repo="AyushParkara/NotePix"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically uploads images to your public or private GitHub repository, replac
 - **插件 ID**：notepix
 - **作者**：Ayush Parkara
 - **当前版本**：v1.0.0
-- **下载量**：60
+- **下载量**：63
 - **最后更新**：2025-09-01
 - **GitHub**：[AyushParkara/NotePix](https://github.com/AyushParkara/NotePix)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

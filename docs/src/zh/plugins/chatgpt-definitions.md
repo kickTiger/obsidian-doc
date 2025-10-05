@@ -1,12 +1,12 @@
 ---
 title: ChatGPT Definition
-description: Let your AI assistant ChatGPT define words and concepts for you.
+description: 让人工智能助理 ChatGPT 为你定义单词和概念。
 author: julix14
 downloads: 4178
 updated: 1693410111000
 repo: julix14/chatGPT-Obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chatgpt-definitions"
   name="ChatGPT Definition"
-  description="Let your AI assistant ChatGPT define words and concepts for you."
+  description="让人工智能助理 ChatGPT 为你定义单词和概念。"
   author="julix14"
   :downloads="4178"
   :updated="1693410111000"
   repo="julix14/chatGPT-Obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ChatGPT Definition 是一个功能强大的 Obsidian 插件。
 
-Let your AI assistant ChatGPT define words and concepts for you.
+让人工智能助理 ChatGPT 为你定义单词和概念。
 
 通过 ChatGPT Definition,您可以:
 
@@ -202,7 +202,7 @@ Let your AI assistant ChatGPT define words and concepts for you.
 - **下载量**：4.2K
 - **最后更新**：2023-08-30
 - **GitHub**：[julix14/chatGPT-Obsidian](https://github.com/julix14/chatGPT-Obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

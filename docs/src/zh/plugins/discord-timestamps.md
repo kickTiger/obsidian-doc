@@ -6,7 +6,7 @@ downloads: 590
 updated: 1734126662000
 repo: Erallie/discord-timestamps
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1734126662000"
   repo="Erallie/discord-timestamps"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Displays discord timestamps in read mode as they would appear in Discord.
 - **下载量**：590
 - **最后更新**：2024-12-14
 - **GitHub**：[Erallie/discord-timestamps](https://github.com/Erallie/discord-timestamps)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

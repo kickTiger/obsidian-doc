@@ -2,11 +2,11 @@
 title: Goal Tracker
 description: Track your goals with a calendar view
 author: Ben Rotholtz
-downloads: 1327
+downloads: 1331
 updated: 1749348454000
 repo: GizmoRay/obsidian-goal-tracker
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Goal Tracker"
   description="Track your goals with a calendar view"
   author="Ben Rotholtz"
-  :downloads="1327"
+  :downloads="1331"
   :updated="1749348454000"
   repo="GizmoRay/obsidian-goal-tracker"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Track your goals with a calendar view
 - **下载量**：1.3K
 - **最后更新**：2025-06-08
 - **GitHub**：[GizmoRay/obsidian-goal-tracker](https://github.com/GizmoRay/obsidian-goal-tracker)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

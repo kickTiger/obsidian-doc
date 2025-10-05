@@ -1,12 +1,12 @@
 ---
 title: Raindrop Highlights
-description: Sync your Raindrop.io highlights.
+description: 同步您的 Raindrop.io 摘要。
 author: kaiiiz
-downloads: 25401
+downloads: 25406
 updated: 1716625518000
 repo: kaiiiz/obsidian-raindrop-highlights-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-raindrop-highlights"
   name="Raindrop Highlights"
-  description="Sync your Raindrop.io highlights."
+  description="同步您的 Raindrop.io 摘要。"
   author="kaiiiz"
-  :downloads="25401"
+  :downloads="25406"
   :updated="1716625518000"
   repo="kaiiiz/obsidian-raindrop-highlights-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Raindrop Highlights 是一个功能强大的 Obsidian 插件。
 
-Sync your Raindrop.io highlights.
+同步您的 Raindrop.io 摘要。
 
 通过 Raindrop Highlights,您可以:
 
@@ -202,7 +202,7 @@ Sync your Raindrop.io highlights.
 - **下载量**：25.4K
 - **最后更新**：2024-05-25
 - **GitHub**：[kaiiiz/obsidian-raindrop-highlights-plugin](https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

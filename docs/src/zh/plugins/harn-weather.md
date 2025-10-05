@@ -2,11 +2,11 @@
 title: Hârn Weather Generator
 description: 'Weather generator for the HârnMaster: Roleplaying in the World of Kèthîra rule system.'
 author: Marc André Ueberall
-downloads: 170
+downloads: 172
 updated: 1741251676000
 repo: marcueberall/obsidian-harn-weather
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hârn Weather Generator"
   description="Weather generator for the HârnMaster: Roleplaying in the World of Kèthîra rule system."
   author="Marc André Ueberall"
-  :downloads="170"
+  :downloads="172"
   :updated="1741251676000"
   repo="marcueberall/obsidian-harn-weather"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Weather generator for the HârnMaster: Roleplaying in the World of Kèthîra rul
 - **插件 ID**：harn-weather
 - **作者**：Marc André Ueberall
 - **当前版本**：v1.0.0
-- **下载量**：170
+- **下载量**：172
 - **最后更新**：2025-03-06
 - **GitHub**：[marcueberall/obsidian-harn-weather](https://github.com/marcueberall/obsidian-harn-weather)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

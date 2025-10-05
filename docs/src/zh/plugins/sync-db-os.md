@@ -2,11 +2,11 @@
 title: sync-db-os
 description: For synchronization between multiple platforms
 author: ketd
-downloads: 177
+downloads: 178
 updated: 1720143380000
 repo: ketd/obsidian-sync-DB-OS
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="sync-db-os"
   description="For synchronization between multiple platforms"
   author="ketd"
-  :downloads="177"
+  :downloads="178"
   :updated="1720143380000"
   repo="ketd/obsidian-sync-DB-OS"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ For synchronization between multiple platforms
 - **插件 ID**：sync-db-os
 - **作者**：ketd
 - **当前版本**：v1.0.0
-- **下载量**：177
+- **下载量**：178
 - **最后更新**：2024-07-05
 - **GitHub**：[ketd/obsidian-sync-DB-OS](https://github.com/ketd/obsidian-sync-DB-OS)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: File Explorer++
-description: Hide and pin files and folders in the file explorer using custom filters, such as wildcards and regex, based on their names, paths, and tags. Additionally, achieve the same with a single click in the file menu.
+description: 使用通配符和 regex 等自定义过滤器，根据文件名、路径和标签在文件资源管理器中隐藏和固定文件和文件夹。此外，只需单击文件菜单即可实现同样的功能。
 author: kelszo
-downloads: 51241
+downloads: 51369
 updated: 1745172111000
 repo: kelszo/obsidian-file-explorer-plus
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-explorer-plus"
   name="File Explorer++"
-  description="Hide and pin files and folders in the file explorer using custom filters, such as wildcards and regex, based on their names, paths, and tags. Additionally, achieve the same with a single click in the file menu."
+  description="使用通配符和 regex 等自定义过滤器，根据文件名、路径和标签在文件资源管理器中隐藏和固定文件和文件夹。此外，只需单击文件菜单即可实现同样的功能。"
   author="kelszo"
-  :downloads="51241"
+  :downloads="51369"
   :updated="1745172111000"
   repo="kelszo/obsidian-file-explorer-plus"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Explorer++ 是一个功能强大的 Obsidian 插件。
 
-Hide and pin files and folders in the file explorer using custom filters, such as wildcards and regex, based on their names, paths, and tags. Additionally, achieve the same with a single click in the file menu.
+使用通配符和 regex 等自定义过滤器，根据文件名、路径和标签在文件资源管理器中隐藏和固定文件和文件夹。此外，只需单击文件菜单即可实现同样的功能。
 
 通过 File Explorer++,您可以:
 
@@ -199,10 +199,10 @@ Hide and pin files and folders in the file explorer using custom filters, such a
 - **插件 ID**：file-explorer-plus
 - **作者**：kelszo
 - **当前版本**：v1.0.0
-- **下载量**：51.2K
+- **下载量**：51.4K
 - **最后更新**：2025-04-21
 - **GitHub**：[kelszo/obsidian-file-explorer-plus](https://github.com/kelszo/obsidian-file-explorer-plus)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

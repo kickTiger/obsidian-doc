@@ -1,12 +1,12 @@
 ---
 title: Flashcards
-description: Anki integration.
+description: Anki 整合
 author: Alex Colucci
-downloads: 59937
+downloads: 59959
 updated: 1666356036000
 repo: reuseman/flashcards-obsidian
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="flashcards-obsidian"
   name="Flashcards"
-  description="Anki integration."
+  description="Anki 整合"
   author="Alex Colucci"
-  :downloads="59937"
+  :downloads="59959"
   :updated="1666356036000"
   repo="reuseman/flashcards-obsidian"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Flashcards 是一个功能强大的 Obsidian 插件。
 
-Anki integration.
+Anki 整合
 
 通过 Flashcards,您可以:
 
@@ -199,10 +199,10 @@ Anki integration.
 - **插件 ID**：flashcards-obsidian
 - **作者**：Alex Colucci
 - **当前版本**：v1.0.0
-- **下载量**：59.9K
+- **下载量**：60.0K
 - **最后更新**：2022-10-21
 - **GitHub**：[reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

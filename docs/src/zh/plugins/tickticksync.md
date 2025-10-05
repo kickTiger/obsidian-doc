@@ -1,12 +1,12 @@
 ---
 title: TickTickSync
-description: Sync TickTick tasks.
+description: 同步 TickTick 任务。
 author: thesamim
-downloads: 23907
+downloads: 23928
 updated: 1754430756000
 repo: thesamim/TickTickSync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tickticksync"
   name="TickTickSync"
-  description="Sync TickTick tasks."
+  description="同步 TickTick 任务。"
   author="thesamim"
-  :downloads="23907"
+  :downloads="23928"
   :updated="1754430756000"
   repo="thesamim/TickTickSync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 TickTickSync 是一个功能强大的 Obsidian 插件。
 
-Sync TickTick tasks.
+同步 TickTick 任务。
 
 通过 TickTickSync,您可以:
 
@@ -202,7 +202,7 @@ Sync TickTick tasks.
 - **下载量**：23.9K
 - **最后更新**：2025-08-06
 - **GitHub**：[thesamim/TickTickSync](https://github.com/thesamim/TickTickSync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

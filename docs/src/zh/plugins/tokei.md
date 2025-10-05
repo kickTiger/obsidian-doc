@@ -1,12 +1,12 @@
 ---
 title: Tokei
-description: A simple time and date display.
+description: 简单的时间和日期显示。
 author: HiroMike
-downloads: 4571
+downloads: 4572
 updated: 1731498901000
 repo: ms3056/Tokei
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tokei"
   name="Tokei"
-  description="A simple time and date display."
+  description="简单的时间和日期显示。"
   author="HiroMike"
-  :downloads="4571"
+  :downloads="4572"
   :updated="1731498901000"
   repo="ms3056/Tokei"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tokei 是一个功能强大的 Obsidian 插件。
 
-A simple time and date display.
+简单的时间和日期显示。
 
 通过 Tokei,您可以:
 
@@ -202,7 +202,7 @@ A simple time and date display.
 - **下载量**：4.6K
 - **最后更新**：2024-11-13
 - **GitHub**：[ms3056/Tokei](https://github.com/ms3056/Tokei)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

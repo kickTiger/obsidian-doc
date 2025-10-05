@@ -1,12 +1,12 @@
 ---
 title: Proletarian Wizard Task Manager
-description: Track your tasks across all the notes in your workspace. Organize your day. Plan your work
+description: 跟踪工作区所有笔记中的任务。安排好一天的工作。计划你的工作
 author: Charles Feval
-downloads: 10341
+downloads: 10368
 updated: 1758049349000
 repo: cfe84/obsidian-pw
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="proletarian-wizard"
   name="Proletarian Wizard Task Manager"
-  description="Track your tasks across all the notes in your workspace. Organize your day. Plan your work"
+  description="跟踪工作区所有笔记中的任务。安排好一天的工作。计划你的工作"
   author="Charles Feval"
-  :downloads="10341"
+  :downloads="10368"
   :updated="1758049349000"
   repo="cfe84/obsidian-pw"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Proletarian Wizard Task Manager 是一个功能强大的 Obsidian 插件。
 
-Track your tasks across all the notes in your workspace. Organize your day. Plan your work
+跟踪工作区所有笔记中的任务。安排好一天的工作。计划你的工作
 
 通过 Proletarian Wizard Task Manager,您可以:
 
@@ -199,10 +199,10 @@ Track your tasks across all the notes in your workspace. Organize your day. Plan
 - **插件 ID**：proletarian-wizard
 - **作者**：Charles Feval
 - **当前版本**：v1.0.0
-- **下载量**：10.3K
+- **下载量**：10.4K
 - **最后更新**：2025-09-17
 - **GitHub**：[cfe84/obsidian-pw](https://github.com/cfe84/obsidian-pw)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

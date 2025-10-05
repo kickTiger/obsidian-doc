@@ -2,11 +2,11 @@
 title: Are.na unofficial
 description: Save Are.na blocks as notes.
 author: 0xroko
-downloads: 2276
+downloads: 2277
 updated: 1719233188000
 repo: 0xroko/obsidian-arena-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Are.na unofficial"
   description="Save Are.na blocks as notes."
   author="0xroko"
-  :downloads="2276"
+  :downloads="2277"
   :updated="1719233188000"
   repo="0xroko/obsidian-arena-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Save Are.na blocks as notes.
 - **下载量**：2.3K
 - **最后更新**：2024-06-24
 - **GitHub**：[0xroko/obsidian-arena-plugin](https://github.com/0xroko/obsidian-arena-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

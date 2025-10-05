@@ -6,7 +6,7 @@ downloads: 440
 updated: 1738695458000
 repo: LuigiCerone/obsidian-whatsapp-backup-importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1738695458000"
   repo="LuigiCerone/obsidian-whatsapp-backup-importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Import WhatsApp export inside your vault.
 - **下载量**：440
 - **最后更新**：2025-02-05
 - **GitHub**：[LuigiCerone/obsidian-whatsapp-backup-importer](https://github.com/LuigiCerone/obsidian-whatsapp-backup-importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

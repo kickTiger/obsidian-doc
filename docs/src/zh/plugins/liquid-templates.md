@@ -1,12 +1,12 @@
 ---
 title: Liquid Templates
-description: Create your templates with LiquidJS tags support.
+description: 使用 LiquidJS 标签创建模板。
 author: Diomede Tripicchio
-downloads: 5401
+downloads: 5402
 updated: 1645045631000
 repo: oeN/liquid-template
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="liquid-templates"
   name="Liquid Templates"
-  description="Create your templates with LiquidJS tags support."
+  description="使用 LiquidJS 标签创建模板。"
   author="Diomede Tripicchio"
-  :downloads="5401"
+  :downloads="5402"
   :updated="1645045631000"
   repo="oeN/liquid-template"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Liquid Templates 是一个功能强大的 Obsidian 插件。
 
-Create your templates with LiquidJS tags support.
+使用 LiquidJS 标签创建模板。
 
 通过 Liquid Templates,您可以:
 
@@ -202,7 +202,7 @@ Create your templates with LiquidJS tags support.
 - **下载量**：5.4K
 - **最后更新**：2022-02-17
 - **GitHub**：[oeN/liquid-template](https://github.com/oeN/liquid-template)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

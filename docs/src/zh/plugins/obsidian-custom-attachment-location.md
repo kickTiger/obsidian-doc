@@ -1,12 +1,12 @@
 ---
 title: Custom Attachment Location
-description: Customize attachment location with variables($filename, $data, etc) like Typora.
+description: 像 Typora 一样使用变量（$filename、$data 等）自定义附件位置。
 author: RainCat1998
-downloads: 100446
+downloads: 100658
 updated: 1759457617000
 repo: RainCat1998/obsidian-custom-attachment-location
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-custom-attachment-location"
   name="Custom Attachment Location"
-  description="Customize attachment location with variables($filename, $data, etc) like Typora."
+  description="像 Typora 一样使用变量（$filename、$data 等）自定义附件位置。"
   author="RainCat1998"
-  :downloads="100446"
+  :downloads="100658"
   :updated="1759457617000"
   repo="RainCat1998/obsidian-custom-attachment-location"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Custom Attachment Location 是一个功能强大的 Obsidian 插件。
 
-Customize attachment location with variables($filename, $data, etc) like Typora.
+像 Typora 一样使用变量（$filename、$data 等）自定义附件位置。
 
 通过 Custom Attachment Location,您可以:
 
@@ -199,10 +199,10 @@ Customize attachment location with variables($filename, $data, etc) like Typora.
 - **插件 ID**：obsidian-custom-attachment-location
 - **作者**：RainCat1998
 - **当前版本**：v1.0.0
-- **下载量**：100.4K
+- **下载量**：100.7K
 - **最后更新**：2025-10-03
 - **GitHub**：[RainCat1998/obsidian-custom-attachment-location](https://github.com/RainCat1998/obsidian-custom-attachment-location)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

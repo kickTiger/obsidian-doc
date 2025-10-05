@@ -1,12 +1,12 @@
 ---
 title: Share to Cubox
-description: Share notes to Cubox.
+description: 向 Cubox 分享说明。
 author: Redwinam
 downloads: 3677
 updated: 1686310157000
 repo: Redwinam/obsidian-cubox
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="share-to-cubox"
   name="Share to Cubox"
-  description="Share notes to Cubox."
+  description="向 Cubox 分享说明。"
   author="Redwinam"
   :downloads="3677"
   :updated="1686310157000"
   repo="Redwinam/obsidian-cubox"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Share to Cubox 是一个功能强大的 Obsidian 插件。
 
-Share notes to Cubox.
+向 Cubox 分享说明。
 
 通过 Share to Cubox,您可以:
 
@@ -202,7 +202,7 @@ Share notes to Cubox.
 - **下载量**：3.7K
 - **最后更新**：2023-06-09
 - **GitHub**：[Redwinam/obsidian-cubox](https://github.com/Redwinam/obsidian-cubox)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

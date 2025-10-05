@@ -6,7 +6,7 @@ downloads: 3435
 updated: 1726776421000
 repo: ivre/obsidian-ivre-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1726776421000"
   repo="ivre/obsidian-ivre-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Grab data from IVRE and bring it into your notes.
 - **下载量**：3.4K
 - **最后更新**：2024-09-20
 - **GitHub**：[ivre/obsidian-ivre-plugin](https://github.com/ivre/obsidian-ivre-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Yandex Wiki Integration
 description: Integration with Yandex Wiki knowledge base
 author: Pavel Sokolov
-downloads: 746
+downloads: 754
 updated: 1754990523000
 repo: CubieProg/Obsidian-Yandex-Wiki-Integration
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Yandex Wiki Integration"
   description="Integration with Yandex Wiki knowledge base"
   author="Pavel Sokolov"
-  :downloads="746"
+  :downloads="754"
   :updated="1754990523000"
   repo="CubieProg/Obsidian-Yandex-Wiki-Integration"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Integration with Yandex Wiki knowledge base
 - **插件 ID**：yandex-wiki-integration
 - **作者**：Pavel Sokolov
 - **当前版本**：v1.0.0
-- **下载量**：746
+- **下载量**：754
 - **最后更新**：2025-08-12
 - **GitHub**：[CubieProg/Obsidian-Yandex-Wiki-Integration](https://github.com/CubieProg/Obsidian-Yandex-Wiki-Integration)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Hide Sidebars on Window Resize
-description: Automatically hides the sidebars when your window is narrow on window resize.
+description: 调整窗口大小时，当窗口变窄时自动隐藏侧边栏。
 author: NomarCub, Michael Hanson
-downloads: 16267
+downloads: 16273
 updated: 1683906350000
 repo: NomarCub/obsidian-hide-sidebars-on-window-resize
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-hide-sidebars-when-narrow"
   name="Hide Sidebars on Window Resize"
-  description="Automatically hides the sidebars when your window is narrow on window resize."
+  description="调整窗口大小时，当窗口变窄时自动隐藏侧边栏。"
   author="NomarCub, Michael Hanson"
-  :downloads="16267"
+  :downloads="16273"
   :updated="1683906350000"
   repo="NomarCub/obsidian-hide-sidebars-on-window-resize"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hide Sidebars on Window Resize 是一个功能强大的 Obsidian 插件。
 
-Automatically hides the sidebars when your window is narrow on window resize.
+调整窗口大小时，当窗口变窄时自动隐藏侧边栏。
 
 通过 Hide Sidebars on Window Resize,您可以:
 
@@ -202,7 +202,7 @@ Automatically hides the sidebars when your window is narrow on window resize.
 - **下载量**：16.3K
 - **最后更新**：2023-05-12
 - **GitHub**：[NomarCub/obsidian-hide-sidebars-on-window-resize](https://github.com/NomarCub/obsidian-hide-sidebars-on-window-resize)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

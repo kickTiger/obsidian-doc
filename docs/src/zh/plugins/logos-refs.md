@@ -6,7 +6,7 @@ downloads: 306
 updated: 1746907851000
 repo: joey-kilgore/logos-refs
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1746907851000"
   repo="joey-kilgore/logos-refs"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily take refs from Logos and connect them within your notes
 - **下载量**：306
 - **最后更新**：2025-05-11
 - **GitHub**：[joey-kilgore/logos-refs](https://github.com/joey-kilgore/logos-refs)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

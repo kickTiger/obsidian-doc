@@ -2,11 +2,11 @@
 title: ExMemo Client
 description: A client for the ExMemo service, used to search, sync, and organize data from the server.
 author: Yan.Xie
-downloads: 328
+downloads: 330
 updated: 1753781063000
 repo: exmemo-ai/obsidian-exmemo-client
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="ExMemo Client"
   description="A client for the ExMemo service, used to search, sync, and organize data from the server."
   author="Yan.Xie"
-  :downloads="328"
+  :downloads="330"
   :updated="1753781063000"
   repo="exmemo-ai/obsidian-exmemo-client"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ A client for the ExMemo service, used to search, sync, and organize data from th
 - **插件 ID**：exmemo-client
 - **作者**：Yan.Xie
 - **当前版本**：v1.0.0
-- **下载量**：328
+- **下载量**：330
 - **最后更新**：2025-07-29
 - **GitHub**：[exmemo-ai/obsidian-exmemo-client](https://github.com/exmemo-ai/obsidian-exmemo-client)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Solo RPG Toolkit
-description: Helpful tools for playing TTRPG games, geared towards solo play with a GM emulator.
+description: 玩 TTRPG 游戏的有用工具，适合使用 GM 模拟器进行单人游戏。
 author: Alex Kurowski
-downloads: 20746
+downloads: 20801
 updated: 1757136220000
 repo: alexkurowski/solo-toolkit
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="solo-rpg-toolkit"
   name="Solo RPG Toolkit"
-  description="Helpful tools for playing TTRPG games, geared towards solo play with a GM emulator."
+  description="玩 TTRPG 游戏的有用工具，适合使用 GM 模拟器进行单人游戏。"
   author="Alex Kurowski"
-  :downloads="20746"
+  :downloads="20801"
   :updated="1757136220000"
   repo="alexkurowski/solo-toolkit"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Solo RPG Toolkit 是一个功能强大的 Obsidian 插件。
 
-Helpful tools for playing TTRPG games, geared towards solo play with a GM emulator.
+玩 TTRPG 游戏的有用工具，适合使用 GM 模拟器进行单人游戏。
 
 通过 Solo RPG Toolkit,您可以:
 
@@ -199,10 +199,10 @@ Helpful tools for playing TTRPG games, geared towards solo play with a GM emulat
 - **插件 ID**：solo-rpg-toolkit
 - **作者**：Alex Kurowski
 - **当前版本**：v1.0.0
-- **下载量**：20.7K
+- **下载量**：20.8K
 - **最后更新**：2025-09-06
 - **GitHub**：[alexkurowski/solo-toolkit](https://github.com/alexkurowski/solo-toolkit)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: File Tree Generator
-description: Generate a file tree using callouts.
+description: 使用标注生成文件树
 author: Unarray
-downloads: 3594
+downloads: 3595
 updated: 1696327143000
 repo: Unarray/file-tree-generator
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-tree-generator"
   name="File Tree Generator"
-  description="Generate a file tree using callouts."
+  description="使用标注生成文件树"
   author="Unarray"
-  :downloads="3594"
+  :downloads="3595"
   :updated="1696327143000"
   repo="Unarray/file-tree-generator"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Tree Generator 是一个功能强大的 Obsidian 插件。
 
-Generate a file tree using callouts.
+使用标注生成文件树
 
 通过 File Tree Generator,您可以:
 
@@ -202,7 +202,7 @@ Generate a file tree using callouts.
 - **下载量**：3.6K
 - **最后更新**：2023-10-03
 - **GitHub**：[Unarray/file-tree-generator](https://github.com/Unarray/file-tree-generator)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

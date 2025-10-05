@@ -6,7 +6,7 @@ downloads: 479
 updated: 1730545498000
 repo: fabricehong/obsidian-prompt-crafter-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1730545498000"
   repo="fabricehong/obsidian-prompt-crafter-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create reusable, modular prompts.
 - **下载量**：479
 - **最后更新**：2024-11-02
 - **GitHub**：[fabricehong/obsidian-prompt-crafter-plugin](https://github.com/fabricehong/obsidian-prompt-crafter-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

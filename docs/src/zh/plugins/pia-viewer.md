@@ -2,11 +2,11 @@
 title: Pia viewer
 description: Make it look mobile on pc
 author: dldisud
-downloads: 623
+downloads: 625
 updated: 1722206767000
 repo: dldisud/obsidian-pia-viewer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Pia viewer"
   description="Make it look mobile on pc"
   author="dldisud"
-  :downloads="623"
+  :downloads="625"
   :updated="1722206767000"
   repo="dldisud/obsidian-pia-viewer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Make it look mobile on pc
 - **插件 ID**：pia-viewer
 - **作者**：dldisud
 - **当前版本**：v1.0.0
-- **下载量**：623
+- **下载量**：625
 - **最后更新**：2024-07-29
 - **GitHub**：[dldisud/obsidian-pia-viewer](https://github.com/dldisud/obsidian-pia-viewer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

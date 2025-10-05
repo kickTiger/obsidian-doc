@@ -2,11 +2,11 @@
 title: Regex Line Filter
 description: Filter a note with regex so that only lines that match are displayed.
 author: 64MM4-KN1F3
-downloads: 341
+downloads: 342
 updated: 1752266583000
 repo: 64MM4-KN1F3/regex-line-filter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Regex Line Filter"
   description="Filter a note with regex so that only lines that match are displayed."
   author="64MM4-KN1F3"
-  :downloads="341"
+  :downloads="342"
   :updated="1752266583000"
   repo="64MM4-KN1F3/regex-line-filter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Filter a note with regex so that only lines that match are displayed.
 - **插件 ID**：regex-line-filter
 - **作者**：64MM4-KN1F3
 - **当前版本**：v1.0.0
-- **下载量**：341
+- **下载量**：342
 - **最后更新**：2025-07-12
 - **GitHub**：[64MM4-KN1F3/regex-line-filter](https://github.com/64MM4-KN1F3/regex-line-filter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

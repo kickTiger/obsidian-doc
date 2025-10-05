@@ -1,12 +1,12 @@
 ---
 title: Favorite Note
-description: Mark your note as favorite.
+description: 将您的笔记标记为收藏夹。
 author: Mahmudul Hasan
-downloads: 5954
+downloads: 5956
 updated: 1730052058000
 repo: mahmudz/obsidian-favorite-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="favorite-note"
   name="Favorite Note"
-  description="Mark your note as favorite."
+  description="将您的笔记标记为收藏夹。"
   author="Mahmudul Hasan"
-  :downloads="5954"
+  :downloads="5956"
   :updated="1730052058000"
   repo="mahmudz/obsidian-favorite-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Favorite Note 是一个功能强大的 Obsidian 插件。
 
-Mark your note as favorite.
+将您的笔记标记为收藏夹。
 
 通过 Favorite Note,您可以:
 
@@ -202,7 +202,7 @@ Mark your note as favorite.
 - **下载量**：6.0K
 - **最后更新**：2024-10-28
 - **GitHub**：[mahmudz/obsidian-favorite-plugin](https://github.com/mahmudz/obsidian-favorite-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

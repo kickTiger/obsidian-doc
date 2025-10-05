@@ -1,12 +1,12 @@
 ---
 title: Pomodoro Widget
-description: 'Provides a widget based on a pomodoro kitchen timer. It''s designed to be haptic, and has a constant ticking sound, and an alarm sound that can be toggled.'
+description: 提供一个基于番茄厨房计时器的 widget。它采用触觉设计，有持续的滴答声和可切换的闹钟声。
 author: bitegw
-downloads: 5592
+downloads: 5599
 updated: 1709305862000
 repo: gvvim/obsidian-pomodoro-widget
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pomodoro-widget"
   name="Pomodoro Widget"
-  description="Provides a widget based on a pomodoro kitchen timer. It&#39;s designed to be haptic, and has a constant ticking sound, and an alarm sound that can be toggled."
+  description="提供一个基于番茄厨房计时器的 widget。它采用触觉设计，有持续的滴答声和可切换的闹钟声。"
   author="bitegw"
-  :downloads="5592"
+  :downloads="5599"
   :updated="1709305862000"
   repo="gvvim/obsidian-pomodoro-widget"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pomodoro Widget 是一个功能强大的 Obsidian 插件。
 
-Provides a widget based on a pomodoro kitchen timer. It&#39;s designed to be haptic, and has a constant ticking sound, and an alarm sound that can be toggled.
+提供一个基于番茄厨房计时器的 widget。它采用触觉设计，有持续的滴答声和可切换的闹钟声。
 
 通过 Pomodoro Widget,您可以:
 
@@ -202,7 +202,7 @@ Provides a widget based on a pomodoro kitchen timer. It&#39;s designed to be hap
 - **下载量**：5.6K
 - **最后更新**：2024-03-01
 - **GitHub**：[gvvim/obsidian-pomodoro-widget](https://github.com/gvvim/obsidian-pomodoro-widget)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

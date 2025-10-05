@@ -2,11 +2,11 @@
 title: Guitar Chord
 description: Quickly enter and display guitar chords, with optional chords based on music theory. No need to write in code blocks, they can be inserted and edited directly in the document.
 author: Barba828
-downloads: 1222
+downloads: 1232
 updated: 1728635109000
 repo: Barba828/obsidian-plugin-chord
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Guitar Chord"
   description="Quickly enter and display guitar chords, with optional chords based on music theory. No need to write in code blocks, they can be inserted and edited directly in the document."
   author="Barba828"
-  :downloads="1222"
+  :downloads="1232"
   :updated="1728635109000"
   repo="Barba828/obsidian-plugin-chord"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Quickly enter and display guitar chords, with optional chords based on music the
 - **下载量**：1.2K
 - **最后更新**：2024-10-11
 - **GitHub**：[Barba828/obsidian-plugin-chord](https://github.com/Barba828/obsidian-plugin-chord)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

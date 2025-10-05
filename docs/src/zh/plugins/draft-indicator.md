@@ -6,7 +6,7 @@ downloads: 687
 updated: 1714067434000
 repo: beardicus/obsidian-draft-indicator-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1714067434000"
   repo="beardicus/obsidian-draft-indicator-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Show draft status in the file explorer.
 - **下载量**：687
 - **最后更新**：2024-04-26
 - **GitHub**：[beardicus/obsidian-draft-indicator-plugin](https://github.com/beardicus/obsidian-draft-indicator-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Hover Editor
-description: Transform the Page Preview hover popover into a fully working editor instance.
+description: 将悬停弹出窗口转换为完整的编辑器。
 author: NothingIsLost
-downloads: 403381
+downloads: 403588
 updated: 1741678023000
 repo: nothingislost/obsidian-hover-editor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-hover-editor"
   name="Hover Editor"
-  description="Transform the Page Preview hover popover into a fully working editor instance."
+  description="将悬停弹出窗口转换为完整的编辑器。"
   author="NothingIsLost"
-  :downloads="403381"
+  :downloads="403588"
   :updated="1741678023000"
   repo="nothingislost/obsidian-hover-editor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hover Editor 是一个功能强大的 Obsidian 插件。
 
-Transform the Page Preview hover popover into a fully working editor instance.
+将悬停弹出窗口转换为完整的编辑器。
 
 通过 Hover Editor,您可以:
 
@@ -199,10 +199,10 @@ Transform the Page Preview hover popover into a fully working editor instance.
 - **插件 ID**：obsidian-hover-editor
 - **作者**：NothingIsLost
 - **当前版本**：v1.0.0
-- **下载量**：403.4K
+- **下载量**：403.6K
 - **最后更新**：2025-03-11
 - **GitHub**：[nothingislost/obsidian-hover-editor](https://github.com/nothingislost/obsidian-hover-editor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

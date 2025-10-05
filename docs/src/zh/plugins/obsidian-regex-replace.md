@@ -1,12 +1,12 @@
 ---
 title: Regex Find/Replace
-description: A find/replace dialog which optionally supports regular expressions and scope (full document or text selection).
+description: 查找/替换对话框，可选择支持正则表达式和范围（完整文档或文本选择）。
 author: Martin Eder
-downloads: 50053
+downloads: 50110
 updated: 1643538678000
 repo: Gru80/obsidian-regex-replace
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-regex-replace"
   name="Regex Find/Replace"
-  description="A find/replace dialog which optionally supports regular expressions and scope (full document or text selection)."
+  description="查找/替换对话框，可选择支持正则表达式和范围（完整文档或文本选择）。"
   author="Martin Eder"
-  :downloads="50053"
+  :downloads="50110"
   :updated="1643538678000"
   repo="Gru80/obsidian-regex-replace"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Regex Find/Replace 是一个功能强大的 Obsidian 插件。
 
-A find/replace dialog which optionally supports regular expressions and scope (full document or text selection).
+查找/替换对话框，可选择支持正则表达式和范围（完整文档或文本选择）。
 
 通过 Regex Find/Replace,您可以:
 
@@ -202,7 +202,7 @@ A find/replace dialog which optionally supports regular expressions and scope (f
 - **下载量**：50.1K
 - **最后更新**：2022-01-30
 - **GitHub**：[Gru80/obsidian-regex-replace](https://github.com/Gru80/obsidian-regex-replace)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

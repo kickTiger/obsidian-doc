@@ -1,12 +1,12 @@
 ---
 title: Meld Encrypt
-description: Hide secrets in your notes.
+description: 在笔记中隐藏秘密
 author: meld-cp
-downloads: 141761
+downloads: 141863
 updated: 1752324692000
 repo: meld-cp/obsidian-encrypt
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="meld-encrypt"
   name="Meld Encrypt"
-  description="Hide secrets in your notes."
+  description="在笔记中隐藏秘密"
   author="meld-cp"
-  :downloads="141761"
+  :downloads="141863"
   :updated="1752324692000"
   repo="meld-cp/obsidian-encrypt"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Meld Encrypt 是一个功能强大的 Obsidian 插件。
 
-Hide secrets in your notes.
+在笔记中隐藏秘密
 
 通过 Meld Encrypt,您可以:
 
@@ -199,10 +199,10 @@ Hide secrets in your notes.
 - **插件 ID**：meld-encrypt
 - **作者**：meld-cp
 - **当前版本**：v1.0.0
-- **下载量**：141.8K
+- **下载量**：141.9K
 - **最后更新**：2025-07-12
 - **GitHub**：[meld-cp/obsidian-encrypt](https://github.com/meld-cp/obsidian-encrypt)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 634
 updated: 1750268279000
 repo: shumadrid/obsidian-git-changelog
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1750268279000"
   repo="shumadrid/obsidian-git-changelog"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Uses Git to display dynamic vault and file changelogs in the sidebar, useful for
 - **下载量**：634
 - **最后更新**：2025-06-19
 - **GitHub**：[shumadrid/obsidian-git-changelog](https://github.com/shumadrid/obsidian-git-changelog)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

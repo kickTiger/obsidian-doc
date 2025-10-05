@@ -1,12 +1,12 @@
 ---
 title: Better File Link
-description: Add better external file links to notes.
+description: 为备注添加更好的外部文件链接。
 author: Marc Julian Schwarz
-downloads: 35147
+downloads: 35173
 updated: 1738328827000
 repo: marcjulianschwarz/obsidian-file-link
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-file-link"
   name="Better File Link"
-  description="Add better external file links to notes."
+  description="为备注添加更好的外部文件链接。"
   author="Marc Julian Schwarz"
-  :downloads="35147"
+  :downloads="35173"
   :updated="1738328827000"
   repo="marcjulianschwarz/obsidian-file-link"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better File Link 是一个功能强大的 Obsidian 插件。
 
-Add better external file links to notes.
+为备注添加更好的外部文件链接。
 
 通过 Better File Link,您可以:
 
@@ -199,10 +199,10 @@ Add better external file links to notes.
 - **插件 ID**：obsidian-file-link
 - **作者**：Marc Julian Schwarz
 - **当前版本**：v1.0.0
-- **下载量**：35.1K
+- **下载量**：35.2K
 - **最后更新**：2025-01-31
 - **GitHub**：[marcjulianschwarz/obsidian-file-link](https://github.com/marcjulianschwarz/obsidian-file-link)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

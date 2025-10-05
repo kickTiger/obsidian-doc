@@ -1,12 +1,12 @@
 ---
 title: Contextual note templating
-description: Prompts for values and templates to create notes.
+description: 提示值和创建注释的模板。
 author: Roman Kubiv
-downloads: 6681
+downloads: 6693
 updated: 1754103539000
 repo: Balibaloo/obsidian-local-template-configuration
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="contextual-note-templating"
   name="Contextual note templating"
-  description="Prompts for values and templates to create notes."
+  description="提示值和创建注释的模板。"
   author="Roman Kubiv"
-  :downloads="6681"
+  :downloads="6693"
   :updated="1754103539000"
   repo="Balibaloo/obsidian-local-template-configuration"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Contextual note templating 是一个功能强大的 Obsidian 插件。
 
-Prompts for values and templates to create notes.
+提示值和创建注释的模板。
 
 通过 Contextual note templating,您可以:
 
@@ -202,7 +202,7 @@ Prompts for values and templates to create notes.
 - **下载量**：6.7K
 - **最后更新**：2025-08-02
 - **GitHub**：[Balibaloo/obsidian-local-template-configuration](https://github.com/Balibaloo/obsidian-local-template-configuration)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

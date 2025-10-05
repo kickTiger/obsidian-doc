@@ -2,11 +2,11 @@
 title: Crafty
 description: Add tooltip to any canvas node and quickly navigate between canvas nodes.
 author: liolle
-downloads: 3208
+downloads: 3212
 updated: 1724944669000
 repo: liolle/Crafty
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Crafty"
   description="Add tooltip to any canvas node and quickly navigate between canvas nodes."
   author="liolle"
-  :downloads="3208"
+  :downloads="3212"
   :updated="1724944669000"
   repo="liolle/Crafty"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add tooltip to any canvas node and quickly navigate between canvas nodes.
 - **下载量**：3.2K
 - **最后更新**：2024-08-29
 - **GitHub**：[liolle/Crafty](https://github.com/liolle/Crafty)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

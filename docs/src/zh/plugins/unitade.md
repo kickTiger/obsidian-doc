@@ -1,12 +1,12 @@
 ---
 title: UNITADE.md
-description: Treat any file as any view, code editor and syntax highlighting, modals for creating and renaming files, assign views for files, unloading registries and many more for advanced work with non-markdown files.
+description: 将任意文件视为任意视图、代码编辑器和语法高亮显示、创建和重命名文件的模式、为文件分配视图、卸载注册表等功能，可对非标记文件进行高级处理。
 author: Falcion
-downloads: 26142
+downloads: 26158
 updated: 1750035028000
 repo: Falcion/UNITADE.md
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="unitade"
   name="UNITADE.md"
-  description="Treat any file as any view, code editor and syntax highlighting, modals for creating and renaming files, assign views for files, unloading registries and many more for advanced work with non-markdown files."
+  description="将任意文件视为任意视图、代码编辑器和语法高亮显示、创建和重命名文件的模式、为文件分配视图、卸载注册表等功能，可对非标记文件进行高级处理。"
   author="Falcion"
-  :downloads="26142"
+  :downloads="26158"
   :updated="1750035028000"
   repo="Falcion/UNITADE.md"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 UNITADE.md 是一个功能强大的 Obsidian 插件。
 
-Treat any file as any view, code editor and syntax highlighting, modals for creating and renaming files, assign views for files, unloading registries and many more for advanced work with non-markdown files.
+将任意文件视为任意视图、代码编辑器和语法高亮显示、创建和重命名文件的模式、为文件分配视图、卸载注册表等功能，可对非标记文件进行高级处理。
 
 通过 UNITADE.md,您可以:
 
@@ -199,10 +199,10 @@ Treat any file as any view, code editor and syntax highlighting, modals for crea
 - **插件 ID**：unitade
 - **作者**：Falcion
 - **当前版本**：v1.0.0
-- **下载量**：26.1K
+- **下载量**：26.2K
 - **最后更新**：2025-06-16
 - **GitHub**：[Falcion/UNITADE.md](https://github.com/Falcion/UNITADE.md)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

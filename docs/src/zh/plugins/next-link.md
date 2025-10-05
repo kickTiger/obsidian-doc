@@ -6,7 +6,7 @@ downloads: 2937
 updated: 1695858660000
 repo: jdluque/next-link
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1695858660000"
   repo="jdluque/next-link"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Jump quickly between note links.
 - **下载量**：2.9K
 - **最后更新**：2023-09-28
 - **GitHub**：[jdluque/next-link](https://github.com/jdluque/next-link)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

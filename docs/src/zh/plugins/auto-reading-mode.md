@@ -2,11 +2,11 @@
 title: Auto Reading Mode
 description: Automatically switches previously opened Markdown pages into reading mode.
 author: Kelvin Cao
-downloads: 3433
+downloads: 3434
 updated: 1710778220000
 repo: kelvinc6/auto-reading-mode
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto Reading Mode"
   description="Automatically switches previously opened Markdown pages into reading mode."
   author="Kelvin Cao"
-  :downloads="3433"
+  :downloads="3434"
   :updated="1710778220000"
   repo="kelvinc6/auto-reading-mode"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically switches previously opened Markdown pages into reading mode.
 - **下载量**：3.4K
 - **最后更新**：2024-03-19
 - **GitHub**：[kelvinc6/auto-reading-mode](https://github.com/kelvinc6/auto-reading-mode)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

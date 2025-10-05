@@ -1,12 +1,12 @@
 ---
 title: Harpoon
-description: Use shortcuts to manage and navigate your top four frequently-used files.
+description: 使用快捷方式管理和浏览最常用的四个文件。
 author: mask(developermask)
-downloads: 3811
+downloads: 3812
 updated: 1740102454000
 repo: rodrez/obsidian-harpoon
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="harpoon"
   name="Harpoon"
-  description="Use shortcuts to manage and navigate your top four frequently-used files."
+  description="使用快捷方式管理和浏览最常用的四个文件。"
   author="mask(developermask)"
-  :downloads="3811"
+  :downloads="3812"
   :updated="1740102454000"
   repo="rodrez/obsidian-harpoon"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Harpoon 是一个功能强大的 Obsidian 插件。
 
-Use shortcuts to manage and navigate your top four frequently-used files.
+使用快捷方式管理和浏览最常用的四个文件。
 
 通过 Harpoon,您可以:
 
@@ -202,7 +202,7 @@ Use shortcuts to manage and navigate your top four frequently-used files.
 - **下载量**：3.8K
 - **最后更新**：2025-02-21
 - **GitHub**：[rodrez/obsidian-harpoon](https://github.com/rodrez/obsidian-harpoon)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

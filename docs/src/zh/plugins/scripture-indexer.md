@@ -6,7 +6,7 @@ downloads: 354
 updated: 1734800247000
 repo: jdrbrn/obsidian-scripture-indexer
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1734800247000"
   repo="jdrbrn/obsidian-scripture-indexer"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Indexes references to scriptures in notes.
 - **下载量**：354
 - **最后更新**：2024-12-22
 - **GitHub**：[jdrbrn/obsidian-scripture-indexer](https://github.com/jdrbrn/obsidian-scripture-indexer)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

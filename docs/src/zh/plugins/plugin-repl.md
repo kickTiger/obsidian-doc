@@ -6,7 +6,7 @@ downloads: 345
 updated: 1740087047000
 repo: talwrii/plugin-repl
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1740087047000"
   repo="talwrii/plugin-repl"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create automation using Javascript scripts from within your notes. Super light-w
 - **下载量**：345
 - **最后更新**：2025-02-21
 - **GitHub**：[talwrii/plugin-repl](https://github.com/talwrii/plugin-repl)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

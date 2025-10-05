@@ -1,12 +1,12 @@
 ---
 title: Bible Reference
-description: Take Bible study notes easily. Automatically suggests Bible verses as references.
+description: 轻松记下圣经学习笔记自动推荐圣经经文作为参考。
 author: tim-hub
-downloads: 44827
+downloads: 44881
 updated: 1759393928000
 repo: tim-hub/obsidian-bible-reference
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-bible-reference"
   name="Bible Reference"
-  description="Take Bible study notes easily. Automatically suggests Bible verses as references."
+  description="轻松记下圣经学习笔记自动推荐圣经经文作为参考。"
   author="tim-hub"
-  :downloads="44827"
+  :downloads="44881"
   :updated="1759393928000"
   repo="tim-hub/obsidian-bible-reference"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Bible Reference 是一个功能强大的 Obsidian 插件。
 
-Take Bible study notes easily. Automatically suggests Bible verses as references.
+轻松记下圣经学习笔记自动推荐圣经经文作为参考。
 
 通过 Bible Reference,您可以:
 
@@ -199,10 +199,10 @@ Take Bible study notes easily. Automatically suggests Bible verses as references
 - **插件 ID**：obsidian-bible-reference
 - **作者**：tim-hub
 - **当前版本**：v1.0.0
-- **下载量**：44.8K
+- **下载量**：44.9K
 - **最后更新**：2025-10-02
 - **GitHub**：[tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

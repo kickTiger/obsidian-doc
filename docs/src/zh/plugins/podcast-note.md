@@ -1,12 +1,12 @@
 ---
 title: Podcast Note
-description: Podcast Note lets you automatically add podcast information to your notes.
+description: Podcast Note 可让您在笔记中自动添加播客信息。
 author: Marc Julian Schwarz
 downloads: 8571
 updated: 1656508901000
 repo: marcjulianschwarz/obsidian-podcast-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="podcast-note"
   name="Podcast Note"
-  description="Podcast Note lets you automatically add podcast information to your notes."
+  description="Podcast Note 可让您在笔记中自动添加播客信息。"
   author="Marc Julian Schwarz"
   :downloads="8571"
   :updated="1656508901000"
   repo="marcjulianschwarz/obsidian-podcast-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Podcast Note 是一个功能强大的 Obsidian 插件。
 
-Podcast Note lets you automatically add podcast information to your notes.
+Podcast Note 可让您在笔记中自动添加播客信息。
 
 通过 Podcast Note,您可以:
 
@@ -202,7 +202,7 @@ Podcast Note lets you automatically add podcast information to your notes.
 - **下载量**：8.6K
 - **最后更新**：2022-06-29
 - **GitHub**：[marcjulianschwarz/obsidian-podcast-note](https://github.com/marcjulianschwarz/obsidian-podcast-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Jira Issue Manager
 description: Get Jira issues, create and update them. Issue status and worklog management.
 author: Alamion
-downloads: 728
+downloads: 729
 updated: 1758821793000
 repo: Alamion/obsidian-jira-sync
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Jira Issue Manager"
   description="Get Jira issues, create and update them. Issue status and worklog management."
   author="Alamion"
-  :downloads="728"
+  :downloads="729"
   :updated="1758821793000"
   repo="Alamion/obsidian-jira-sync"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Get Jira issues, create and update them. Issue status and worklog management.
 - **插件 ID**：jira-sync
 - **作者**：Alamion
 - **当前版本**：v1.0.0
-- **下载量**：728
+- **下载量**：729
 - **最后更新**：2025-09-26
 - **GitHub**：[Alamion/obsidian-jira-sync](https://github.com/Alamion/obsidian-jira-sync)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

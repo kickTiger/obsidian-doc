@@ -1,12 +1,12 @@
 ---
 title: Youglish
-description: Use YouTube to improve your pronunciation. YouGlish gives you fast, unbiased answers about how words is spoken by real people and in context.
+description: 使用 YouTube 改善你的发音。YouGlish 可以快速、公正地回答真人在上下文中是如何发音的。
 author: Noureddine Haouari
-downloads: 11918
+downloads: 11919
 updated: 1643018003000
 repo: nhaouari/obsidian-youglish-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-youglish-plugin"
   name="Youglish"
-  description="Use YouTube to improve your pronunciation. YouGlish gives you fast, unbiased answers about how words is spoken by real people and in context."
+  description="使用 YouTube 改善你的发音。YouGlish 可以快速、公正地回答真人在上下文中是如何发音的。"
   author="Noureddine Haouari"
-  :downloads="11918"
+  :downloads="11919"
   :updated="1643018003000"
   repo="nhaouari/obsidian-youglish-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Youglish 是一个功能强大的 Obsidian 插件。
 
-Use YouTube to improve your pronunciation. YouGlish gives you fast, unbiased answers about how words is spoken by real people and in context.
+使用 YouTube 改善你的发音。YouGlish 可以快速、公正地回答真人在上下文中是如何发音的。
 
 通过 Youglish,您可以:
 
@@ -202,7 +202,7 @@ Use YouTube to improve your pronunciation. YouGlish gives you fast, unbiased ans
 - **下载量**：11.9K
 - **最后更新**：2022-01-24
 - **GitHub**：[nhaouari/obsidian-youglish-plugin](https://github.com/nhaouari/obsidian-youglish-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

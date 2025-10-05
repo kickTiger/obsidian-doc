@@ -1,12 +1,12 @@
 ---
 title: Daily Notes Viewer
-description: Help you to view some recent daily notes on one page.
+description: 帮助您在一页上查看最近的每日笔记。
 author: Johnson0907
-downloads: 16259
+downloads: 16266
 updated: 1648301769000
 repo: johnsonhong997/obsidian-daily-notes-viewer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-daily-notes-viewer"
   name="Daily Notes Viewer"
-  description="Help you to view some recent daily notes on one page."
+  description="帮助您在一页上查看最近的每日笔记。"
   author="Johnson0907"
-  :downloads="16259"
+  :downloads="16266"
   :updated="1648301769000"
   repo="johnsonhong997/obsidian-daily-notes-viewer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Daily Notes Viewer 是一个功能强大的 Obsidian 插件。
 
-Help you to view some recent daily notes on one page.
+帮助您在一页上查看最近的每日笔记。
 
 通过 Daily Notes Viewer,您可以:
 
@@ -202,7 +202,7 @@ Help you to view some recent daily notes on one page.
 - **下载量**：16.3K
 - **最后更新**：2022-03-26
 - **GitHub**：[johnsonhong997/obsidian-daily-notes-viewer](https://github.com/johnsonhong997/obsidian-daily-notes-viewer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Latex Suite
-description: Make typesetting LaTeX math as fast as handwriting through snippets, text expansion, and editor enhancements.
+description: 使数学输入更快更简单。
 author: artisticat1
-downloads: 339055
+downloads: 339391
 updated: 1737218157000
 repo: artisticat1/obsidian-latex-suite
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-latex-suite"
   name="Latex Suite"
-  description="Make typesetting LaTeX math as fast as handwriting through snippets, text expansion, and editor enhancements."
+  description="使数学输入更快更简单。"
   author="artisticat1"
-  :downloads="339055"
+  :downloads="339391"
   :updated="1737218157000"
   repo="artisticat1/obsidian-latex-suite"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Latex Suite 是一个功能强大的 Obsidian 插件。
 
-Make typesetting LaTeX math as fast as handwriting through snippets, text expansion, and editor enhancements.
+使数学输入更快更简单。
 
 通过 Latex Suite,您可以:
 
@@ -199,10 +199,10 @@ Make typesetting LaTeX math as fast as handwriting through snippets, text expans
 - **插件 ID**：obsidian-latex-suite
 - **作者**：artisticat1
 - **当前版本**：v1.0.0
-- **下载量**：339.1K
+- **下载量**：339.4K
 - **最后更新**：2025-01-19
 - **GitHub**：[artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

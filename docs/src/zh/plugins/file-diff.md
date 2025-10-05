@@ -1,12 +1,12 @@
 ---
 title: File Diff
-description: View the differences between two files with merge options.
+description: 使用合并选项查看两个文件之间的差异。
 author: Till Friebe
-downloads: 13631
+downloads: 13643
 updated: 1755997097000
 repo: friebetill/obsidian-file-diff
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-diff"
   name="File Diff"
-  description="View the differences between two files with merge options."
+  description="使用合并选项查看两个文件之间的差异。"
   author="Till Friebe"
-  :downloads="13631"
+  :downloads="13643"
   :updated="1755997097000"
   repo="friebetill/obsidian-file-diff"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Diff 是一个功能强大的 Obsidian 插件。
 
-View the differences between two files with merge options.
+使用合并选项查看两个文件之间的差异。
 
 通过 File Diff,您可以:
 
@@ -202,7 +202,7 @@ View the differences between two files with merge options.
 - **下载量**：13.6K
 - **最后更新**：2025-08-24
 - **GitHub**：[friebetill/obsidian-file-diff](https://github.com/friebetill/obsidian-file-diff)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

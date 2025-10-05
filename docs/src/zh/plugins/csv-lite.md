@@ -2,11 +2,11 @@
 title: CSV Lite
 description: Just open and edit a CSV file in workspace view, no more. Keep it simple.
 author: Jay Bridge
-downloads: 2228
+downloads: 2250
 updated: 1758012883000
 repo: LIUBINfighter/csv-lite
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="CSV Lite"
   description="Just open and edit a CSV file in workspace view, no more. Keep it simple."
   author="Jay Bridge"
-  :downloads="2228"
+  :downloads="2250"
   :updated="1758012883000"
   repo="LIUBINfighter/csv-lite"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Just open and edit a CSV file in workspace view, no more. Keep it simple.
 - **插件 ID**：csv-lite
 - **作者**：Jay Bridge
 - **当前版本**：v1.0.0
-- **下载量**：2.2K
+- **下载量**：2.3K
 - **最后更新**：2025-09-16
 - **GitHub**：[LIUBINfighter/csv-lite](https://github.com/LIUBINfighter/csv-lite)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: JSON/CSV Importer
-description: Import a JSON file containing an array of data, creating notes from a Handlebars template file.
+description: 导入包含数据数组的 JSON 文件，从 Handlebars 模板文件创建注释。
 author: farling42
-downloads: 59631
+downloads: 59686
 updated: 1753564980000
 repo: farling42/obsidian-import-json
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-import-json"
   name="JSON/CSV Importer"
-  description="Import a JSON file containing an array of data, creating notes from a Handlebars template file."
+  description="导入包含数据数组的 JSON 文件，从 Handlebars 模板文件创建注释。"
   author="farling42"
-  :downloads="59631"
+  :downloads="59686"
   :updated="1753564980000"
   repo="farling42/obsidian-import-json"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 JSON/CSV Importer 是一个功能强大的 Obsidian 插件。
 
-Import a JSON file containing an array of data, creating notes from a Handlebars template file.
+导入包含数据数组的 JSON 文件，从 Handlebars 模板文件创建注释。
 
 通过 JSON/CSV Importer,您可以:
 
@@ -199,10 +199,10 @@ Import a JSON file containing an array of data, creating notes from a Handlebars
 - **插件 ID**：obsidian-import-json
 - **作者**：farling42
 - **当前版本**：v1.0.0
-- **下载量**：59.6K
+- **下载量**：59.7K
 - **最后更新**：2025-07-27
 - **GitHub**：[farling42/obsidian-import-json](https://github.com/farling42/obsidian-import-json)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: File Order
-description: Use number-prefixes in your file names to define a custom order, and drag-and-drop the files to update that order.
+description: 在文件名中使用数字前缀定义自定义顺序，拖放文件即可更新顺序。
 author: lukasbach
-downloads: 36646
+downloads: 36688
 updated: 1756322338000
 repo: lukasbach/obsidian-file-order
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-order"
   name="File Order"
-  description="Use number-prefixes in your file names to define a custom order, and drag-and-drop the files to update that order."
+  description="在文件名中使用数字前缀定义自定义顺序，拖放文件即可更新顺序。"
   author="lukasbach"
-  :downloads="36646"
+  :downloads="36688"
   :updated="1756322338000"
   repo="lukasbach/obsidian-file-order"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Order 是一个功能强大的 Obsidian 插件。
 
-Use number-prefixes in your file names to define a custom order, and drag-and-drop the files to update that order.
+在文件名中使用数字前缀定义自定义顺序，拖放文件即可更新顺序。
 
 通过 File Order,您可以:
 
@@ -199,10 +199,10 @@ Use number-prefixes in your file names to define a custom order, and drag-and-dr
 - **插件 ID**：file-order
 - **作者**：lukasbach
 - **当前版本**：v1.0.0
-- **下载量**：36.6K
+- **下载量**：36.7K
 - **最后更新**：2025-08-28
 - **GitHub**：[lukasbach/obsidian-file-order](https://github.com/lukasbach/obsidian-file-order)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

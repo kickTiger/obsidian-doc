@@ -1,12 +1,12 @@
 ---
 title: Sheets Extended
-description: Vertical headers, merged cells, and custom CSS tables with Advanced Tables compatability.
+description: 垂直标题、合并单元格和自定义 CSS 表格与高级表格兼容。
 author: NicoNekoru
-downloads: 37961
+downloads: 38014
 updated: 1710833510000
 repo: NicoNekoru/obsidan-advanced-table-xt
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="sheets"
   name="Sheets Extended"
-  description="Vertical headers, merged cells, and custom CSS tables with Advanced Tables compatability."
+  description="垂直标题、合并单元格和自定义 CSS 表格与高级表格兼容。"
   author="NicoNekoru"
-  :downloads="37961"
+  :downloads="38014"
   :updated="1710833510000"
   repo="NicoNekoru/obsidan-advanced-table-xt"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sheets Extended 是一个功能强大的 Obsidian 插件。
 
-Vertical headers, merged cells, and custom CSS tables with Advanced Tables compatability.
+垂直标题、合并单元格和自定义 CSS 表格与高级表格兼容。
 
 通过 Sheets Extended,您可以:
 
@@ -202,7 +202,7 @@ Vertical headers, merged cells, and custom CSS tables with Advanced Tables compa
 - **下载量**：38.0K
 - **最后更新**：2024-03-19
 - **GitHub**：[NicoNekoru/obsidan-advanced-table-xt](https://github.com/NicoNekoru/obsidan-advanced-table-xt)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

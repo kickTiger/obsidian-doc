@@ -1,12 +1,12 @@
 ---
 title: Remotely Save
-description: 'Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.'
+description: 在本地和云端之间同步笔记，智能处理冲突：支持 S3（Amazon S3/Cloudflare R2/Backblaze B2/...）、Dropbox、WebDAV（NextCloud/InfiniCLOUD/Synology/...）、OneDrive、Google Drive、Box、pCloud、Yandex Disk、Koofr、Azure Blob Storage。
 author: fyears
-downloads: 1441709
+downloads: 1443163
 updated: 1729415674000
 repo: remotely-save/remotely-save
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="remotely-save"
   name="Remotely Save"
-  description="Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage."
+  description="在本地和云端之间同步笔记，智能处理冲突：支持 S3（Amazon S3/Cloudflare R2/Backblaze B2/...）、Dropbox、WebDAV（NextCloud/InfiniCLOUD/Synology/...）、OneDrive、Google Drive、Box、pCloud、Yandex Disk、Koofr、Azure Blob Storage。"
   author="fyears"
-  :downloads="1441709"
+  :downloads="1443163"
   :updated="1729415674000"
   repo="remotely-save/remotely-save"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Remotely Save 是一个功能强大的 Obsidian 插件。
 
-Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
+在本地和云端之间同步笔记，智能处理冲突：支持 S3（Amazon S3/Cloudflare R2/Backblaze B2/...）、Dropbox、WebDAV（NextCloud/InfiniCLOUD/Synology/...）、OneDrive、Google Drive、Box、pCloud、Yandex Disk、Koofr、Azure Blob Storage。
 
 通过 Remotely Save,您可以:
 
@@ -202,7 +202,7 @@ Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare
 - **下载量**：1.44M
 - **最后更新**：2024-10-20
 - **GitHub**：[remotely-save/remotely-save](https://github.com/remotely-save/remotely-save)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: GridExplorer
-description: Browse note files in a grid view.
+description: 在网格视图中浏览备注文件。
 author: Devon22
-downloads: 25613
+downloads: 25719
 updated: 1759421852000
 repo: Devon22/obsidian-gridexplorer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gridexplorer"
   name="GridExplorer"
-  description="Browse note files in a grid view."
+  description="在网格视图中浏览备注文件。"
   author="Devon22"
-  :downloads="25613"
+  :downloads="25719"
   :updated="1759421852000"
   repo="Devon22/obsidian-gridexplorer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 GridExplorer 是一个功能强大的 Obsidian 插件。
 
-Browse note files in a grid view.
+在网格视图中浏览备注文件。
 
 通过 GridExplorer,您可以:
 
@@ -199,10 +199,10 @@ Browse note files in a grid view.
 - **插件 ID**：gridexplorer
 - **作者**：Devon22
 - **当前版本**：v1.0.0
-- **下载量**：25.6K
+- **下载量**：25.7K
 - **最后更新**：2025-10-03
 - **GitHub**：[Devon22/obsidian-gridexplorer](https://github.com/Devon22/obsidian-gridexplorer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

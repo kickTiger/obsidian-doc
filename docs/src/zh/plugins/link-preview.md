@@ -1,12 +1,12 @@
 ---
 title: Link Preview
-description: Show a preview of external links on hover
+description: 悬停时显示外部链接预览
 author: Felipe Tappata
-downloads: 4000
+downloads: 4008
 updated: 1738088468000
 repo: felipetappata/obsidian-link-preview
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="link-preview"
   name="Link Preview"
-  description="Show a preview of external links on hover"
+  description="悬停时显示外部链接预览"
   author="Felipe Tappata"
-  :downloads="4000"
+  :downloads="4008"
   :updated="1738088468000"
   repo="felipetappata/obsidian-link-preview"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Link Preview 是一个功能强大的 Obsidian 插件。
 
-Show a preview of external links on hover
+悬停时显示外部链接预览
 
 通过 Link Preview,您可以:
 
@@ -202,7 +202,7 @@ Show a preview of external links on hover
 - **下载量**：4.0K
 - **最后更新**：2025-01-29
 - **GitHub**：[felipetappata/obsidian-link-preview](https://github.com/felipetappata/obsidian-link-preview)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: SwiftLaTeX Render
-description: Render LaTeX in codeblocks into a PDF, without needing to install LaTeX separately.
+description: 将代码锁中的 LaTeX 渲染成 PDF，无需单独安装 LaTeX。
 author: gboyd068
-downloads: 4420
+downloads: 4430
 updated: 1754417407000
 repo: gboyd068/obsidian-swiftlatex-render
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="swiftlatex-render"
   name="SwiftLaTeX Render"
-  description="Render LaTeX in codeblocks into a PDF, without needing to install LaTeX separately."
+  description="将代码锁中的 LaTeX 渲染成 PDF，无需单独安装 LaTeX。"
   author="gboyd068"
-  :downloads="4420"
+  :downloads="4430"
   :updated="1754417407000"
   repo="gboyd068/obsidian-swiftlatex-render"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 SwiftLaTeX Render 是一个功能强大的 Obsidian 插件。
 
-Render LaTeX in codeblocks into a PDF, without needing to install LaTeX separately.
+将代码锁中的 LaTeX 渲染成 PDF，无需单独安装 LaTeX。
 
 通过 SwiftLaTeX Render,您可以:
 
@@ -202,7 +202,7 @@ Render LaTeX in codeblocks into a PDF, without needing to install LaTeX separate
 - **下载量**：4.4K
 - **最后更新**：2025-08-06
 - **GitHub**：[gboyd068/obsidian-swiftlatex-render](https://github.com/gboyd068/obsidian-swiftlatex-render)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

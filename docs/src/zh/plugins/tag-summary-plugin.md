@@ -1,12 +1,12 @@
 ---
 title: Tag Summary
-description: Create summaries with paragraphs or blocks of text that share the same tag(s).
+description: 用共享相同标签的段落或文本块创建摘要。
 author: J.D Gauchat
-downloads: 13498
+downloads: 13502
 updated: 1677961061000
 repo: macrojd/tag-summary
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tag-summary-plugin"
   name="Tag Summary"
-  description="Create summaries with paragraphs or blocks of text that share the same tag(s)."
+  description="用共享相同标签的段落或文本块创建摘要。"
   author="J.D Gauchat"
-  :downloads="13498"
+  :downloads="13502"
   :updated="1677961061000"
   repo="macrojd/tag-summary"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tag Summary 是一个功能强大的 Obsidian 插件。
 
-Create summaries with paragraphs or blocks of text that share the same tag(s).
+用共享相同标签的段落或文本块创建摘要。
 
 通过 Tag Summary,您可以:
 
@@ -202,7 +202,7 @@ Create summaries with paragraphs or blocks of text that share the same tag(s).
 - **下载量**：13.5K
 - **最后更新**：2023-03-05
 - **GitHub**：[macrojd/tag-summary](https://github.com/macrojd/tag-summary)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

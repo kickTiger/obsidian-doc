@@ -6,7 +6,7 @@ downloads: 2647
 updated: 1746457246000
 repo: jshph/obsidian-enzyme
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1746457246000"
   repo="jshph/obsidian-enzyme"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ A REPL to digest your thoughts
 - **下载量**：2.6K
 - **最后更新**：2025-05-05
 - **GitHub**：[jshph/obsidian-enzyme](https://github.com/jshph/obsidian-enzyme)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

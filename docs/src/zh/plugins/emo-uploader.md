@@ -1,12 +1,12 @@
 ---
 title: Emo
-description: Upload images to hosting platforms, or files to GitHub and embed them as Markdown file/image links. 
+description: 将图片上传到托管平台，或将文件上传到 GitHub，然后以 Markdown 文件/图片链接的形式嵌入。
 author: yaleiyale
 downloads: 5509
 updated: 1723268666000
 repo: yaleiyale/obsidian-emo-uploader
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="emo-uploader"
   name="Emo"
-  description="Upload images to hosting platforms, or files to GitHub and embed them as Markdown file/image links. "
+  description="将图片上传到托管平台，或将文件上传到 GitHub，然后以 Markdown 文件/图片链接的形式嵌入。"
   author="yaleiyale"
   :downloads="5509"
   :updated="1723268666000"
   repo="yaleiyale/obsidian-emo-uploader"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Emo 是一个功能强大的 Obsidian 插件。
 
-Upload images to hosting platforms, or files to GitHub and embed them as Markdown file/image links. 
+将图片上传到托管平台，或将文件上传到 GitHub，然后以 Markdown 文件/图片链接的形式嵌入。
 
 通过 Emo,您可以:
 
@@ -202,7 +202,7 @@ Upload images to hosting platforms, or files to GitHub and embed them as Markdow
 - **下载量**：5.5K
 - **最后更新**：2024-08-10
 - **GitHub**：[yaleiyale/obsidian-emo-uploader](https://github.com/yaleiyale/obsidian-emo-uploader)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

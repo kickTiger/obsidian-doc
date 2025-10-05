@@ -6,7 +6,7 @@ downloads: 2888
 updated: 1716143687000
 repo: tjbrennan/obsidian-color-cycler
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1716143687000"
   repo="tjbrennan/obsidian-color-cycler"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Dynamically change the accent color of the theme.
 - **下载量**：2.9K
 - **最后更新**：2024-05-20
 - **GitHub**：[tjbrennan/obsidian-color-cycler](https://github.com/tjbrennan/obsidian-color-cycler)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Auto Folder Note Paste
 description: 'Automagically convert the note to a folder note when pasting or drag''n''dropping an attachment.'
 author: d7sd6u
-downloads: 590
+downloads: 591
 updated: 1741792098000
 repo: d7sd6u/obsidian-auto-folder-note-paste
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto Folder Note Paste"
   description="Automagically convert the note to a folder note when pasting or drag&#39;n&#39;dropping an attachment."
   author="d7sd6u"
-  :downloads="590"
+  :downloads="591"
   :updated="1741792098000"
   repo="d7sd6u/obsidian-auto-folder-note-paste"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automagically convert the note to a folder note when pasting or drag&#39;n&#39;d
 - **插件 ID**：auto-folder-note-paste
 - **作者**：d7sd6u
 - **当前版本**：v1.0.0
-- **下载量**：590
+- **下载量**：591
 - **最后更新**：2025-03-12
 - **GitHub**：[d7sd6u/obsidian-auto-folder-note-paste](https://github.com/d7sd6u/obsidian-auto-folder-note-paste)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

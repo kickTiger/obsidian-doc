@@ -1,12 +1,12 @@
 ---
 title: Custom Icons
-description: Enhance your workspace with customizable icons for documents and folders.
+description: 使用可定制的文档和文件夹图标，增强你的工作空间。
 author: RavenHogWarts
-downloads: 7651
+downloads: 7659
 updated: 1717002417000
 repo: RavenHogWarts/obsidian-custom-icons
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="custom-sidebar-icons"
   name="Custom Icons"
-  description="Enhance your workspace with customizable icons for documents and folders."
+  description="使用可定制的文档和文件夹图标，增强你的工作空间。"
   author="RavenHogWarts"
-  :downloads="7651"
+  :downloads="7659"
   :updated="1717002417000"
   repo="RavenHogWarts/obsidian-custom-icons"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Custom Icons 是一个功能强大的 Obsidian 插件。
 
-Enhance your workspace with customizable icons for documents and folders.
+使用可定制的文档和文件夹图标，增强你的工作空间。
 
 通过 Custom Icons,您可以:
 
@@ -202,7 +202,7 @@ Enhance your workspace with customizable icons for documents and folders.
 - **下载量**：7.7K
 - **最后更新**：2024-05-30
 - **GitHub**：[RavenHogWarts/obsidian-custom-icons](https://github.com/RavenHogWarts/obsidian-custom-icons)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

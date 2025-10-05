@@ -6,7 +6,7 @@ downloads: 76
 updated: 1758010172000
 repo: Chen2226/obsidian-typecho
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1758010172000"
   repo="Chen2226/obsidian-typecho"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Post the file to Typecho.
 - **下载量**：76
 - **最后更新**：2025-09-16
 - **GitHub**：[Chen2226/obsidian-typecho](https://github.com/Chen2226/obsidian-typecho)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

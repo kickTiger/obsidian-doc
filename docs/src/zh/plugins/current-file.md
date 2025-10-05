@@ -6,7 +6,7 @@ downloads: 230
 updated: 1721475826000
 repo: 2shortplanks/current-file
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1721475826000"
   repo="2shortplanks/current-file"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Allows external applications to know what file the desktop app is currently view
 - **下载量**：230
 - **最后更新**：2024-07-20
 - **GitHub**：[2shortplanks/current-file](https://github.com/2shortplanks/current-file)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

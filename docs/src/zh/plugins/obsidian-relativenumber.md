@@ -1,12 +1,12 @@
 ---
 title: Relativenumber (relative line numbers)
-description: 'Display relative line numbers in the editor''s gutter.'
+description: 在编辑器沟槽中显示相对行号。
 author: Rob Stevenson
-downloads: 4919
+downloads: 4920
 updated: 1644093875000
 repo: thisdotrob/obsidian-relativenumber-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-relativenumber"
   name="Relativenumber (relative line numbers)"
-  description="Display relative line numbers in the editor&#39;s gutter."
+  description="在编辑器沟槽中显示相对行号。"
   author="Rob Stevenson"
-  :downloads="4919"
+  :downloads="4920"
   :updated="1644093875000"
   repo="thisdotrob/obsidian-relativenumber-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Relativenumber (relative line numbers) 是一个功能强大的 Obsidian 插件。
 
-Display relative line numbers in the editor&#39;s gutter.
+在编辑器沟槽中显示相对行号。
 
 通过 Relativenumber (relative line numbers),您可以:
 
@@ -202,7 +202,7 @@ Display relative line numbers in the editor&#39;s gutter.
 - **下载量**：4.9K
 - **最后更新**：2022-02-06
 - **GitHub**：[thisdotrob/obsidian-relativenumber-plugin](https://github.com/thisdotrob/obsidian-relativenumber-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

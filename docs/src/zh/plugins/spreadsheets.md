@@ -1,12 +1,12 @@
 ---
 title: Spreadsheets
-description: 'Create and edit advanced spreadsheets. Rich formatting, formulas, cells, filtering and more!'
+description: 创建和编辑高级电子表格丰富的格式、公式、单元格、过滤等功能！
 author: Divam Gupta
-downloads: 30162
+downloads: 30193
 updated: 1693969431000
 repo: divamgupta/obsidian-spreadsheets
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="spreadsheets"
   name="Spreadsheets"
-  description="Create and edit advanced spreadsheets. Rich formatting, formulas, cells, filtering and more!"
+  description="创建和编辑高级电子表格丰富的格式、公式、单元格、过滤等功能！"
   author="Divam Gupta"
-  :downloads="30162"
+  :downloads="30193"
   :updated="1693969431000"
   repo="divamgupta/obsidian-spreadsheets"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Spreadsheets 是一个功能强大的 Obsidian 插件。
 
-Create and edit advanced spreadsheets. Rich formatting, formulas, cells, filtering and more!
+创建和编辑高级电子表格丰富的格式、公式、单元格、过滤等功能！
 
 通过 Spreadsheets,您可以:
 
@@ -202,7 +202,7 @@ Create and edit advanced spreadsheets. Rich formatting, formulas, cells, filteri
 - **下载量**：30.2K
 - **最后更新**：2023-09-06
 - **GitHub**：[divamgupta/obsidian-spreadsheets](https://github.com/divamgupta/obsidian-spreadsheets)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

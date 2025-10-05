@@ -1,12 +1,12 @@
 ---
 title: Project Garden
-description: See all your projects in one place.
+description: 在一个地方查看所有项目。
 author: Ben Goosman
-downloads: 6335
+downloads: 6340
 updated: 1670279321000
 repo: bgoosman/obsidian-project-garden
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-project-garden"
   name="Project Garden"
-  description="See all your projects in one place."
+  description="在一个地方查看所有项目。"
   author="Ben Goosman"
-  :downloads="6335"
+  :downloads="6340"
   :updated="1670279321000"
   repo="bgoosman/obsidian-project-garden"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Project Garden 是一个功能强大的 Obsidian 插件。
 
-See all your projects in one place.
+在一个地方查看所有项目。
 
 通过 Project Garden,您可以:
 
@@ -202,7 +202,7 @@ See all your projects in one place.
 - **下载量**：6.3K
 - **最后更新**：2022-12-06
 - **GitHub**：[bgoosman/obsidian-project-garden](https://github.com/bgoosman/obsidian-project-garden)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

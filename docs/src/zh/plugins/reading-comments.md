@@ -1,12 +1,12 @@
 ---
 title: Reading comments
-description: Create inline comments while you read books or articles. Comments could be grouped hierarchically by tags.
+description: 在阅读书籍或文章时创建内嵌评论。评论可按标签分级分组。
 author: BumbrT
-downloads: 9199
+downloads: 9204
 updated: 1733298125000
 repo: BumbrT/obsidian-reading-comments
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="reading-comments"
   name="Reading comments"
-  description="Create inline comments while you read books or articles. Comments could be grouped hierarchically by tags."
+  description="在阅读书籍或文章时创建内嵌评论。评论可按标签分级分组。"
   author="BumbrT"
-  :downloads="9199"
+  :downloads="9204"
   :updated="1733298125000"
   repo="BumbrT/obsidian-reading-comments"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Reading comments 是一个功能强大的 Obsidian 插件。
 
-Create inline comments while you read books or articles. Comments could be grouped hierarchically by tags.
+在阅读书籍或文章时创建内嵌评论。评论可按标签分级分组。
 
 通过 Reading comments,您可以:
 
@@ -202,7 +202,7 @@ Create inline comments while you read books or articles. Comments could be group
 - **下载量**：9.2K
 - **最后更新**：2024-12-04
 - **GitHub**：[BumbrT/obsidian-reading-comments](https://github.com/BumbrT/obsidian-reading-comments)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

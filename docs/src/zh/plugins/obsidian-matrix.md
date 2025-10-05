@@ -1,12 +1,12 @@
 ---
 title: Matrix
-description: Utility to easily create LaTeX matrices.
+description: 轻松创建 LaTeX 矩阵的实用工具。
 author: Jonas Mohr
-downloads: 8697
+downloads: 8703
 updated: 1677017730000
 repo: MohrJonas/obsidian-matrix
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-matrix"
   name="Matrix"
-  description="Utility to easily create LaTeX matrices."
+  description="轻松创建 LaTeX 矩阵的实用工具。"
   author="Jonas Mohr"
-  :downloads="8697"
+  :downloads="8703"
   :updated="1677017730000"
   repo="MohrJonas/obsidian-matrix"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Matrix 是一个功能强大的 Obsidian 插件。
 
-Utility to easily create LaTeX matrices.
+轻松创建 LaTeX 矩阵的实用工具。
 
 通过 Matrix,您可以:
 
@@ -202,7 +202,7 @@ Utility to easily create LaTeX matrices.
 - **下载量**：8.7K
 - **最后更新**：2023-02-22
 - **GitHub**：[MohrJonas/obsidian-matrix](https://github.com/MohrJonas/obsidian-matrix)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

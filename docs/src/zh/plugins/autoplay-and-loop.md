@@ -2,11 +2,11 @@
 title: 'Autoplay & Loop'
 description: AutoPlay videos inside and outside notes.
 author: 'Zerkshop & Wapply'
-downloads: 1786
+downloads: 1788
 updated: 1716936635000
 repo: Wapply/obsidian-autoplay-and-loop
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Autoplay &amp; Loop"
   description="AutoPlay videos inside and outside notes."
   author="Zerkshop &amp; Wapply"
-  :downloads="1786"
+  :downloads="1788"
   :updated="1716936635000"
   repo="Wapply/obsidian-autoplay-and-loop"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ AutoPlay videos inside and outside notes.
 - **下载量**：1.8K
 - **最后更新**：2024-05-29
 - **GitHub**：[Wapply/obsidian-autoplay-and-loop](https://github.com/Wapply/obsidian-autoplay-and-loop)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

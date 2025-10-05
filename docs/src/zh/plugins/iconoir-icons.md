@@ -1,12 +1,12 @@
 ---
 title: Iconoir Icons
-description: Create and display customized SVG Iconoir icons.
+description: 创建并显示定制的 SVG Iconoir 图标。
 author: '@gapmiss'
 downloads: 4620
 updated: 1687389745000
 repo: gapmiss/iconoir-icons
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="iconoir-icons"
   name="Iconoir Icons"
-  description="Create and display customized SVG Iconoir icons."
+  description="创建并显示定制的 SVG Iconoir 图标。"
   author="@gapmiss"
   :downloads="4620"
   :updated="1687389745000"
   repo="gapmiss/iconoir-icons"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Iconoir Icons 是一个功能强大的 Obsidian 插件。
 
-Create and display customized SVG Iconoir icons.
+创建并显示定制的 SVG Iconoir 图标。
 
 通过 Iconoir Icons,您可以:
 
@@ -202,7 +202,7 @@ Create and display customized SVG Iconoir icons.
 - **下载量**：4.6K
 - **最后更新**：2023-06-22
 - **GitHub**：[gapmiss/iconoir-icons](https://github.com/gapmiss/iconoir-icons)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

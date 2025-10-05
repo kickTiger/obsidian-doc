@@ -2,11 +2,11 @@
 title: Backgroundset
 description: Allow you to set background image set(folder)
 author: daonali
-downloads: 1038
+downloads: 1041
 updated: 1735461576000
 repo: Youngmoss/obsidian-backgroundset
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Backgroundset"
   description="Allow you to set background image set(folder)"
   author="daonali"
-  :downloads="1038"
+  :downloads="1041"
   :updated="1735461576000"
   repo="Youngmoss/obsidian-backgroundset"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Allow you to set background image set(folder)
 - **下载量**：1.0K
 - **最后更新**：2024-12-29
 - **GitHub**：[Youngmoss/obsidian-backgroundset](https://github.com/Youngmoss/obsidian-backgroundset)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

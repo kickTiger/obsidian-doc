@@ -2,11 +2,11 @@
 title: Smart Link Alias
 description: Enhance your internal links management with dynamic alias customization. Display short, full, or combined titles for your notes effortlessly.
 author: Victor Perez-Cano
-downloads: 473
+downloads: 475
 updated: 1735218550000
 repo: vpcano/obsidian-smart-link-alias
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Smart Link Alias"
   description="Enhance your internal links management with dynamic alias customization. Display short, full, or combined titles for your notes effortlessly."
   author="Victor Perez-Cano"
-  :downloads="473"
+  :downloads="475"
   :updated="1735218550000"
   repo="vpcano/obsidian-smart-link-alias"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Enhance your internal links management with dynamic alias customization. Display
 - **插件 ID**：smart-link-alias
 - **作者**：Victor Perez-Cano
 - **当前版本**：v1.0.0
-- **下载量**：473
+- **下载量**：475
 - **最后更新**：2024-12-26
 - **GitHub**：[vpcano/obsidian-smart-link-alias](https://github.com/vpcano/obsidian-smart-link-alias)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

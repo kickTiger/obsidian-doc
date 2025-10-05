@@ -1,12 +1,12 @@
 ---
 title: GTD No Next Step
-description: 'Add a badge to Getting Things Done (GTD) "project" files with no defined next step.'
+description: '为没有确定下一步的 "Getting Things Done（GTD）"项目文件添加徽章。'
 author: Tobias Davis
 downloads: 4299
 updated: 1703020257000
 repo: saibotsivad/obsidian-gtd-no-next-step
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gtd-no-next-step"
   name="GTD No Next Step"
-  description="Add a badge to Getting Things Done (GTD) &quot;project&quot; files with no defined next step."
+  description="为没有确定下一步的 &quot;Getting Things Done（GTD）&quot;项目文件添加徽章。"
   author="Tobias Davis"
   :downloads="4299"
   :updated="1703020257000"
   repo="saibotsivad/obsidian-gtd-no-next-step"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 GTD No Next Step 是一个功能强大的 Obsidian 插件。
 
-Add a badge to Getting Things Done (GTD) &quot;project&quot; files with no defined next step.
+为没有确定下一步的 &quot;Getting Things Done（GTD）&quot;项目文件添加徽章。
 
 通过 GTD No Next Step,您可以:
 
@@ -202,7 +202,7 @@ Add a badge to Getting Things Done (GTD) &quot;project&quot; files with no defin
 - **下载量**：4.3K
 - **最后更新**：2023-12-20
 - **GitHub**：[saibotsivad/obsidian-gtd-no-next-step](https://github.com/saibotsivad/obsidian-gtd-no-next-step)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

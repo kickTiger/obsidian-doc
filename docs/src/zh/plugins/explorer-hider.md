@@ -2,11 +2,11 @@
 title: Explorer Hider
 description: Hide a file or a folder from the explorer (and bookmarks) using a little bit of auto-managed CSS.
 author: Mara-Li
-downloads: 2645
+downloads: 2648
 updated: 1754820774000
 repo: Mara-Li/obsidian-explorer-hider
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Explorer Hider"
   description="Hide a file or a folder from the explorer (and bookmarks) using a little bit of auto-managed CSS."
   author="Mara-Li"
-  :downloads="2645"
+  :downloads="2648"
   :updated="1754820774000"
   repo="Mara-Li/obsidian-explorer-hider"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Hide a file or a folder from the explorer (and bookmarks) using a little bit of 
 - **下载量**：2.6K
 - **最后更新**：2025-08-10
 - **GitHub**：[Mara-Li/obsidian-explorer-hider](https://github.com/Mara-Li/obsidian-explorer-hider)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

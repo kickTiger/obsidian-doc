@@ -1,12 +1,12 @@
 ---
 title: WakaTime
-description: Automatic time tracking and metrics generated from your usage activity.
+description: 自动跟踪时间，并根据使用活动生成指标。
 author: WakaTime
-downloads: 11807
+downloads: 11812
 updated: 1672433318000
 repo: wakatime/obsidian-wakatime
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-wakatime"
   name="WakaTime"
-  description="Automatic time tracking and metrics generated from your usage activity."
+  description="自动跟踪时间，并根据使用活动生成指标。"
   author="WakaTime"
-  :downloads="11807"
+  :downloads="11812"
   :updated="1672433318000"
   repo="wakatime/obsidian-wakatime"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 WakaTime 是一个功能强大的 Obsidian 插件。
 
-Automatic time tracking and metrics generated from your usage activity.
+自动跟踪时间，并根据使用活动生成指标。
 
 通过 WakaTime,您可以:
 
@@ -202,7 +202,7 @@ Automatic time tracking and metrics generated from your usage activity.
 - **下载量**：11.8K
 - **最后更新**：2022-12-31
 - **GitHub**：[wakatime/obsidian-wakatime](https://github.com/wakatime/obsidian-wakatime)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

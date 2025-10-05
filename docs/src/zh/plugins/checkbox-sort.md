@@ -2,11 +2,11 @@
 title: Checkbox Sort
 description: Automatically moves completed checkboxes to the end of the list
 author: mattang687
-downloads: 681
+downloads: 685
 updated: 1750821127000
 repo: mattang687/obsidian-checkbox-sort
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Checkbox Sort"
   description="Automatically moves completed checkboxes to the end of the list"
   author="mattang687"
-  :downloads="681"
+  :downloads="685"
   :updated="1750821127000"
   repo="mattang687/obsidian-checkbox-sort"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically moves completed checkboxes to the end of the list
 - **插件 ID**：checkbox-sort
 - **作者**：mattang687
 - **当前版本**：v1.0.0
-- **下载量**：681
+- **下载量**：685
 - **最后更新**：2025-06-25
 - **GitHub**：[mattang687/obsidian-checkbox-sort](https://github.com/mattang687/obsidian-checkbox-sort)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

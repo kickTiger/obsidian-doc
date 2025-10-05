@@ -1,12 +1,12 @@
 ---
 title: Alias from heading
-description: Implicitly add an alias matching the first heading in a document.
+description: 隐式添加与文档中第一个标题匹配的别名。
 author: Chris Basham
-downloads: 5522
+downloads: 5523
 updated: 1721330841000
 repo: basham/obsidian-alias-from-heading
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-alias-from-heading"
   name="Alias from heading"
-  description="Implicitly add an alias matching the first heading in a document."
+  description="隐式添加与文档中第一个标题匹配的别名。"
   author="Chris Basham"
-  :downloads="5522"
+  :downloads="5523"
   :updated="1721330841000"
   repo="basham/obsidian-alias-from-heading"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Alias from heading 是一个功能强大的 Obsidian 插件。
 
-Implicitly add an alias matching the first heading in a document.
+隐式添加与文档中第一个标题匹配的别名。
 
 通过 Alias from heading,您可以:
 
@@ -202,7 +202,7 @@ Implicitly add an alias matching the first heading in a document.
 - **下载量**：5.5K
 - **最后更新**：2024-07-19
 - **GitHub**：[basham/obsidian-alias-from-heading](https://github.com/basham/obsidian-alias-from-heading)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

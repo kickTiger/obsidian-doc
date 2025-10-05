@@ -6,7 +6,7 @@ downloads: 1074
 updated: 1732715014000
 repo: jeetsukumaran/obsidian-focus-tracker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1732715014000"
   repo="jeetsukumaran/obsidian-focus-tracker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Track and align your focus.
 - **下载量**：1.1K
 - **最后更新**：2024-11-27
 - **GitHub**：[jeetsukumaran/obsidian-focus-tracker](https://github.com/jeetsukumaran/obsidian-focus-tracker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

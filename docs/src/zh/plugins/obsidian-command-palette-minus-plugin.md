@@ -1,12 +1,12 @@
 ---
 title: Command Palette--
-description: Command palette without unwanted commands.
+description: 没有多余命令的命令调色板。
 author: qawatake
-downloads: 4929
+downloads: 4930
 updated: 1644245377000
 repo: qawatake/obsidian-command-palette-minus-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-command-palette-minus-plugin"
   name="Command Palette--"
-  description="Command palette without unwanted commands."
+  description="没有多余命令的命令调色板。"
   author="qawatake"
-  :downloads="4929"
+  :downloads="4930"
   :updated="1644245377000"
   repo="qawatake/obsidian-command-palette-minus-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Command Palette-- 是一个功能强大的 Obsidian 插件。
 
-Command palette without unwanted commands.
+没有多余命令的命令调色板。
 
 通过 Command Palette--,您可以:
 
@@ -202,7 +202,7 @@ Command palette without unwanted commands.
 - **下载量**：4.9K
 - **最后更新**：2022-02-07
 - **GitHub**：[qawatake/obsidian-command-palette-minus-plugin](https://github.com/qawatake/obsidian-command-palette-minus-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

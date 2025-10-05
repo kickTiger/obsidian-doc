@@ -1,12 +1,12 @@
 ---
 title: Better Inline Fields
-description: Enhance Dataview-style inline fields.
+description: 增强数据视图风格的内联字段。
 author: David Sarman
-downloads: 10498
+downloads: 10504
 updated: 1691217206000
 repo: dsarman/better-inline-fields
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="better-inline-fields"
   name="Better Inline Fields"
-  description="Enhance Dataview-style inline fields."
+  description="增强数据视图风格的内联字段。"
   author="David Sarman"
-  :downloads="10498"
+  :downloads="10504"
   :updated="1691217206000"
   repo="dsarman/better-inline-fields"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better Inline Fields 是一个功能强大的 Obsidian 插件。
 
-Enhance Dataview-style inline fields.
+增强数据视图风格的内联字段。
 
 通过 Better Inline Fields,您可以:
 
@@ -202,7 +202,7 @@ Enhance Dataview-style inline fields.
 - **下载量**：10.5K
 - **最后更新**：2023-08-05
 - **GitHub**：[dsarman/better-inline-fields](https://github.com/dsarman/better-inline-fields)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

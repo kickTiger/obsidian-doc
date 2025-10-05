@@ -1,12 +1,12 @@
 ---
 title: Beautitab
-description: Creates a customizable new tab view with beautiful backgrounds, quotes, search, and more.
+description: 创建可定制的新标签视图，提供精美背景、引语、搜索等功能。
 author: Andrew McGivery
-downloads: 45109
+downloads: 45175
 updated: 1711488518000
 repo: andrewmcgivery/obsidian-beautitab
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="beautitab"
   name="Beautitab"
-  description="Creates a customizable new tab view with beautiful backgrounds, quotes, search, and more."
+  description="创建可定制的新标签视图，提供精美背景、引语、搜索等功能。"
   author="Andrew McGivery"
-  :downloads="45109"
+  :downloads="45175"
   :updated="1711488518000"
   repo="andrewmcgivery/obsidian-beautitab"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Beautitab 是一个功能强大的 Obsidian 插件。
 
-Creates a customizable new tab view with beautiful backgrounds, quotes, search, and more.
+创建可定制的新标签视图，提供精美背景、引语、搜索等功能。
 
 通过 Beautitab,您可以:
 
@@ -199,10 +199,10 @@ Creates a customizable new tab view with beautiful backgrounds, quotes, search, 
 - **插件 ID**：beautitab
 - **作者**：Andrew McGivery
 - **当前版本**：v1.0.0
-- **下载量**：45.1K
+- **下载量**：45.2K
 - **最后更新**：2024-03-27
 - **GitHub**：[andrewmcgivery/obsidian-beautitab](https://github.com/andrewmcgivery/obsidian-beautitab)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

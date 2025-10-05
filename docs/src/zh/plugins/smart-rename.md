@@ -1,12 +1,12 @@
 ---
 title: Smart Rename
-description: Rename notes keeping previous title in existing links.
+description: 重新命名笔记，在现有链接中保留以前的标题。
 author: mnaoumov
-downloads: 10235
+downloads: 10267
 updated: 1759384380000
 repo: mnaoumov/obsidian-smart-rename
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smart-rename"
   name="Smart Rename"
-  description="Rename notes keeping previous title in existing links."
+  description="重新命名笔记，在现有链接中保留以前的标题。"
   author="mnaoumov"
-  :downloads="10235"
+  :downloads="10267"
   :updated="1759384380000"
   repo="mnaoumov/obsidian-smart-rename"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Rename 是一个功能强大的 Obsidian 插件。
 
-Rename notes keeping previous title in existing links.
+重新命名笔记，在现有链接中保留以前的标题。
 
 通过 Smart Rename,您可以:
 
@@ -199,10 +199,10 @@ Rename notes keeping previous title in existing links.
 - **插件 ID**：smart-rename
 - **作者**：mnaoumov
 - **当前版本**：v1.0.0
-- **下载量**：10.2K
+- **下载量**：10.3K
 - **最后更新**：2025-10-02
 - **GitHub**：[mnaoumov/obsidian-smart-rename](https://github.com/mnaoumov/obsidian-smart-rename)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

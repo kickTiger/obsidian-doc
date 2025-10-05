@@ -1,12 +1,12 @@
 ---
 title: Phone to Note
-description: An unofficial client for phonetonote.com (previously phonetoroam.com).
+description: phonetonote.com（前身为 phonetoroam.com）的非官方客户端。
 author: Dylan Garrett
 downloads: 4254
 updated: 1702265744000
 repo: dgarrett/phone-to-roam-to-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="phone-to-roam-to-obsidian"
   name="Phone to Note"
-  description="An unofficial client for phonetonote.com (previously phonetoroam.com)."
+  description="phonetonote.com（前身为 phonetoroam.com）的非官方客户端。"
   author="Dylan Garrett"
   :downloads="4254"
   :updated="1702265744000"
   repo="dgarrett/phone-to-roam-to-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Phone to Note 是一个功能强大的 Obsidian 插件。
 
-An unofficial client for phonetonote.com (previously phonetoroam.com).
+phonetonote.com（前身为 phonetoroam.com）的非官方客户端。
 
 通过 Phone to Note,您可以:
 
@@ -202,7 +202,7 @@ An unofficial client for phonetonote.com (previously phonetoroam.com).
 - **下载量**：4.3K
 - **最后更新**：2023-12-11
 - **GitHub**：[dgarrett/phone-to-roam-to-obsidian](https://github.com/dgarrett/phone-to-roam-to-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

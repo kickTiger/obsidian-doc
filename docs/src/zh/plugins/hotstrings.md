@@ -2,11 +2,11 @@
 title: Hotstrings
 description: Allows you to set custom hot strings that get expanded to text once typed.
 author: wakywayne
-downloads: 372
+downloads: 375
 updated: 1736477213000
 repo: wakywayne/obsidian-hotstrings
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hotstrings"
   description="Allows you to set custom hot strings that get expanded to text once typed."
   author="wakywayne"
-  :downloads="372"
+  :downloads="375"
   :updated="1736477213000"
   repo="wakywayne/obsidian-hotstrings"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Allows you to set custom hot strings that get expanded to text once typed.
 - **插件 ID**：hotstrings
 - **作者**：wakywayne
 - **当前版本**：v1.0.0
-- **下载量**：372
+- **下载量**：375
 - **最后更新**：2025-01-10
 - **GitHub**：[wakywayne/obsidian-hotstrings](https://github.com/wakywayne/obsidian-hotstrings)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

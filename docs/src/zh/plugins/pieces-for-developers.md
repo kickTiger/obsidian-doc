@@ -1,12 +1,12 @@
 ---
 title: Pieces for Developers
-description: Streamline your coding workflow with powerful features for capturing, managing, translating, and enhancing code snippets. (Closed source)
+description: 利用捕获、管理、翻译和增强代码片段的强大功能，简化编码工作流程。(关闭源代码）
 author: Pieces For Developers
-downloads: 23722
+downloads: 23729
 updated: 1756235262000
 repo: pieces-app/obsidian-pieces
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pieces-for-developers"
   name="Pieces for Developers"
-  description="Streamline your coding workflow with powerful features for capturing, managing, translating, and enhancing code snippets. (Closed source)"
+  description="利用捕获、管理、翻译和增强代码片段的强大功能，简化编码工作流程。(关闭源代码）"
   author="Pieces For Developers"
-  :downloads="23722"
+  :downloads="23729"
   :updated="1756235262000"
   repo="pieces-app/obsidian-pieces"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pieces for Developers 是一个功能强大的 Obsidian 插件。
 
-Streamline your coding workflow with powerful features for capturing, managing, translating, and enhancing code snippets. (Closed source)
+利用捕获、管理、翻译和增强代码片段的强大功能，简化编码工作流程。(关闭源代码）
 
 通过 Pieces for Developers,您可以:
 
@@ -202,7 +202,7 @@ Streamline your coding workflow with powerful features for capturing, managing, 
 - **下载量**：23.7K
 - **最后更新**：2025-08-27
 - **GitHub**：[pieces-app/obsidian-pieces](https://github.com/pieces-app/obsidian-pieces)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

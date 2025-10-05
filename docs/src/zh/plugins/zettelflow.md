@@ -1,12 +1,12 @@
 ---
 title: ZettelFlow
-description: Create and manage your notes in a Zettelkasten way via Canvas.
+description: 通过 Canvas 以 Zettelkasten 的方式创建和管理笔记。
 author: RafaelGB
-downloads: 19038
+downloads: 19046
 updated: 1755452341000
 repo: RafaelGB/Obsidian-ZettelFlow
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="zettelflow"
   name="ZettelFlow"
-  description="Create and manage your notes in a Zettelkasten way via Canvas."
+  description="通过 Canvas 以 Zettelkasten 的方式创建和管理笔记。"
   author="RafaelGB"
-  :downloads="19038"
+  :downloads="19046"
   :updated="1755452341000"
   repo="RafaelGB/Obsidian-ZettelFlow"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ZettelFlow 是一个功能强大的 Obsidian 插件。
 
-Create and manage your notes in a Zettelkasten way via Canvas.
+通过 Canvas 以 Zettelkasten 的方式创建和管理笔记。
 
 通过 ZettelFlow,您可以:
 
@@ -202,7 +202,7 @@ Create and manage your notes in a Zettelkasten way via Canvas.
 - **下载量**：19.0K
 - **最后更新**：2025-08-18
 - **GitHub**：[RafaelGB/Obsidian-ZettelFlow](https://github.com/RafaelGB/Obsidian-ZettelFlow)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

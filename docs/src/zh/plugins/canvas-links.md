@@ -1,12 +1,12 @@
 ---
 title: Canvas Links
-description: 'Add views to show "outgoing links" and "backlinks" of canvas in Obsidian.'
+description: '添加视图以显示 Obsidian 中画布的 "外链 "和 "反向链接"。'
 author: aqav
-downloads: 13685
+downloads: 13692
 updated: 1740731801000
 repo: aqav/obsidian-canvas-links
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="canvas-links"
   name="Canvas Links"
-  description="Add views to show &quot;outgoing links&quot; and &quot;backlinks&quot; of canvas in Obsidian."
+  description="添加视图以显示 Obsidian 中画布的 &quot;外链 &quot;和 &quot;反向链接&quot;。"
   author="aqav"
-  :downloads="13685"
+  :downloads="13692"
   :updated="1740731801000"
   repo="aqav/obsidian-canvas-links"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas Links 是一个功能强大的 Obsidian 插件。
 
-Add views to show &quot;outgoing links&quot; and &quot;backlinks&quot; of canvas in Obsidian.
+添加视图以显示 Obsidian 中画布的 &quot;外链 &quot;和 &quot;反向链接&quot;。
 
 通过 Canvas Links,您可以:
 
@@ -202,7 +202,7 @@ Add views to show &quot;outgoing links&quot; and &quot;backlinks&quot; of canvas
 - **下载量**：13.7K
 - **最后更新**：2025-02-28
 - **GitHub**：[aqav/obsidian-canvas-links](https://github.com/aqav/obsidian-canvas-links)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

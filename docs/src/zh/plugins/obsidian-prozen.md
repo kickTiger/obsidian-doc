@@ -1,12 +1,12 @@
 ---
 title: ProZen
-description: Enter Zen mode to focus on writing. The plugin expands current tab to full screen removing everything but content.
+description: 进入禅宗模式，专注于写作。该插件可将当前标签页扩展到全屏，删除除内容以外的所有内容。
 author: Moskvitin
-downloads: 26302
+downloads: 26338
 updated: 1669501698000
 repo: cmoskvitin/obsidian-prozen
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-prozen"
   name="ProZen"
-  description="Enter Zen mode to focus on writing. The plugin expands current tab to full screen removing everything but content."
+  description="进入禅宗模式，专注于写作。该插件可将当前标签页扩展到全屏，删除除内容以外的所有内容。"
   author="Moskvitin"
-  :downloads="26302"
+  :downloads="26338"
   :updated="1669501698000"
   repo="cmoskvitin/obsidian-prozen"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ProZen 是一个功能强大的 Obsidian 插件。
 
-Enter Zen mode to focus on writing. The plugin expands current tab to full screen removing everything but content.
+进入禅宗模式，专注于写作。该插件可将当前标签页扩展到全屏，删除除内容以外的所有内容。
 
 通过 ProZen,您可以:
 
@@ -202,7 +202,7 @@ Enter Zen mode to focus on writing. The plugin expands current tab to full scree
 - **下载量**：26.3K
 - **最后更新**：2022-11-27
 - **GitHub**：[cmoskvitin/obsidian-prozen](https://github.com/cmoskvitin/obsidian-prozen)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

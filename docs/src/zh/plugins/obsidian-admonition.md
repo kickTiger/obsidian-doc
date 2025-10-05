@@ -1,12 +1,12 @@
 ---
 title: Admonition
-description: Admonition block-styled content.
+description: 增强的代码块样式提示框。
 author: Jeremy Valentine
-downloads: 833449
+downloads: 833686
 updated: 1717286788000
 repo: javalent/admonitions
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-admonition"
   name="Admonition"
-  description="Admonition block-styled content."
+  description="增强的代码块样式提示框。"
   author="Jeremy Valentine"
-  :downloads="833449"
+  :downloads="833686"
   :updated="1717286788000"
   repo="javalent/admonitions"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Admonition 是一个功能强大的 Obsidian 插件。
 
-Admonition block-styled content.
+增强的代码块样式提示框。
 
 通过 Admonition,您可以:
 
@@ -199,10 +199,10 @@ Admonition block-styled content.
 - **插件 ID**：obsidian-admonition
 - **作者**：Jeremy Valentine
 - **当前版本**：v1.0.0
-- **下载量**：833.4K
+- **下载量**：833.7K
 - **最后更新**：2024-06-02
 - **GitHub**：[javalent/admonitions](https://github.com/javalent/admonitions)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

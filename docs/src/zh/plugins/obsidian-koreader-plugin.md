@@ -1,12 +1,12 @@
 ---
 title: KOReader Highlights
-description: Sync highlights/notes from KOReader.
+description: 同步 KOReader 中的要点/注释。
 author: 'Federico "Edo" Granata'
 downloads: 4846
 updated: 1644597066000
 repo: Edo78/obsidian-koreader-sync
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-koreader-plugin"
   name="KOReader Highlights"
-  description="Sync highlights/notes from KOReader."
+  description="同步 KOReader 中的要点/注释。"
   author="Federico &quot;Edo&quot; Granata"
   :downloads="4846"
   :updated="1644597066000"
   repo="Edo78/obsidian-koreader-sync"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 KOReader Highlights 是一个功能强大的 Obsidian 插件。
 
-Sync highlights/notes from KOReader.
+同步 KOReader 中的要点/注释。
 
 通过 KOReader Highlights,您可以:
 
@@ -202,7 +202,7 @@ Sync highlights/notes from KOReader.
 - **下载量**：4.8K
 - **最后更新**：2022-02-12
 - **GitHub**：[Edo78/obsidian-koreader-sync](https://github.com/Edo78/obsidian-koreader-sync)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

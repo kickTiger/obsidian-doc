@@ -2,11 +2,11 @@
 title: Settings Management
 description: Manage settings options, including show enabled/disabled plugins and css, grid layout, save current plugins/css enable config for quick enable/disable, etc.
 author: Huajin
-downloads: 3105
+downloads: 3111
 updated: 1736430418000
 repo: xhuajin/obsidian-settings-management
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Settings Management"
   description="Manage settings options, including show enabled/disabled plugins and css, grid layout, save current plugins/css enable config for quick enable/disable, etc."
   author="Huajin"
-  :downloads="3105"
+  :downloads="3111"
   :updated="1736430418000"
   repo="xhuajin/obsidian-settings-management"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manage settings options, including show enabled/disabled plugins and css, grid l
 - **下载量**：3.1K
 - **最后更新**：2025-01-09
 - **GitHub**：[xhuajin/obsidian-settings-management](https://github.com/xhuajin/obsidian-settings-management)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

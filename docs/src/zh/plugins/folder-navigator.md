@@ -2,11 +2,11 @@
 title: Folder Navigator
 description: Quickly navigate to folders in your vault using fuzzy search.
 author: wenlzhang
-downloads: 1213
+downloads: 1222
 updated: 1759268282000
 repo: wenlzhang/obsidian-folder-navigator
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Folder Navigator"
   description="Quickly navigate to folders in your vault using fuzzy search."
   author="wenlzhang"
-  :downloads="1213"
+  :downloads="1222"
   :updated="1759268282000"
   repo="wenlzhang/obsidian-folder-navigator"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Quickly navigate to folders in your vault using fuzzy search.
 - **下载量**：1.2K
 - **最后更新**：2025-10-01
 - **GitHub**：[wenlzhang/obsidian-folder-navigator](https://github.com/wenlzhang/obsidian-folder-navigator)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Similar Notes
 description: Find semantically similar notes using local AI. Works on desktop and mobile without external servers.
 author: Young Lee
-downloads: 2631
+downloads: 2638
 updated: 1754401123000
 repo: joybro/obsidian-similar-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Similar Notes"
   description="Find semantically similar notes using local AI. Works on desktop and mobile without external servers."
   author="Young Lee"
-  :downloads="2631"
+  :downloads="2638"
   :updated="1754401123000"
   repo="joybro/obsidian-similar-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Find semantically similar notes using local AI. Works on desktop and mobile with
 - **下载量**：2.6K
 - **最后更新**：2025-08-05
 - **GitHub**：[joybro/obsidian-similar-notes](https://github.com/joybro/obsidian-similar-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

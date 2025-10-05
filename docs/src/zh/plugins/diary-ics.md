@@ -6,7 +6,7 @@ downloads: 114
 updated: 1752038603000
 repo: mousebomb/obsidian-diary-ics
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1752038603000"
   repo="mousebomb/obsidian-diary-ics"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync diary entries to system calendar via ICS feed.
 - **下载量**：114
 - **最后更新**：2025-07-09
 - **GitHub**：[mousebomb/obsidian-diary-ics](https://github.com/mousebomb/obsidian-diary-ics)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

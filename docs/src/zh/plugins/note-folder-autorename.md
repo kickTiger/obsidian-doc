@@ -1,12 +1,12 @@
 ---
 title: Note Folder Autorename
-description: Turn notes into folders and automatically move/rename their folders when they move or are renamed.
+description: 将笔记转化为文件夹，并在笔记移动或重命名时自动移动/重命名文件夹。
 author: PJ Eby
-downloads: 12936
+downloads: 12938
 updated: 1642752258000
 repo: pjeby/note-folder-autorename
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="note-folder-autorename"
   name="Note Folder Autorename"
-  description="Turn notes into folders and automatically move/rename their folders when they move or are renamed."
+  description="将笔记转化为文件夹，并在笔记移动或重命名时自动移动/重命名文件夹。"
   author="PJ Eby"
-  :downloads="12936"
+  :downloads="12938"
   :updated="1642752258000"
   repo="pjeby/note-folder-autorename"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note Folder Autorename 是一个功能强大的 Obsidian 插件。
 
-Turn notes into folders and automatically move/rename their folders when they move or are renamed.
+将笔记转化为文件夹，并在笔记移动或重命名时自动移动/重命名文件夹。
 
 通过 Note Folder Autorename,您可以:
 
@@ -202,7 +202,7 @@ Turn notes into folders and automatically move/rename their folders when they mo
 - **下载量**：12.9K
 - **最后更新**：2022-01-21
 - **GitHub**：[pjeby/note-folder-autorename](https://github.com/pjeby/note-folder-autorename)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

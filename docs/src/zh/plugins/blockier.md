@@ -1,12 +1,12 @@
 ---
 title: Blockier
-description: Extra block editing utilities.
+description: 额外的区块编辑工具
 author: blorbb
-downloads: 4313
+downloads: 4316
 updated: 1737932984000
 repo: blorbb/obsidian-blockier
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="blockier"
   name="Blockier"
-  description="Extra block editing utilities."
+  description="额外的区块编辑工具"
   author="blorbb"
-  :downloads="4313"
+  :downloads="4316"
   :updated="1737932984000"
   repo="blorbb/obsidian-blockier"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Blockier 是一个功能强大的 Obsidian 插件。
 
-Extra block editing utilities.
+额外的区块编辑工具
 
 通过 Blockier,您可以:
 
@@ -202,7 +202,7 @@ Extra block editing utilities.
 - **下载量**：4.3K
 - **最后更新**：2025-01-27
 - **GitHub**：[blorbb/obsidian-blockier](https://github.com/blorbb/obsidian-blockier)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

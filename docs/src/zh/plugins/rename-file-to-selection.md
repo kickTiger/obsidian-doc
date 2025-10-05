@@ -6,7 +6,7 @@ downloads: 220
 updated: 1741206188000
 repo: AavaGames/obsidian-rename-file-to-selection
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1741206188000"
   repo="AavaGames/obsidian-rename-file-to-selection"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Rename your file to the current text selection.
 - **下载量**：220
 - **最后更新**：2025-03-06
 - **GitHub**：[AavaGames/obsidian-rename-file-to-selection](https://github.com/AavaGames/obsidian-rename-file-to-selection)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

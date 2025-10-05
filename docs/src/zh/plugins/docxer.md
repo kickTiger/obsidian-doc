@@ -1,12 +1,12 @@
 ---
 title: Docxer
-description: Import Word files easily. Adds a preview mode for .docx files and the ability to convert them to markdown (.md) files.
+description: 轻松导入 Word 文件。添加了 .docx 文件预览模式，并能将其转换为标记符（.md）文件。
 author: Developer-Mike
-downloads: 40471
+downloads: 40549
 updated: 1755439305000
 repo: Developer-Mike/obsidian-docxer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="docxer"
   name="Docxer"
-  description="Import Word files easily. Adds a preview mode for .docx files and the ability to convert them to markdown (.md) files."
+  description="轻松导入 Word 文件。添加了 .docx 文件预览模式，并能将其转换为标记符（.md）文件。"
   author="Developer-Mike"
-  :downloads="40471"
+  :downloads="40549"
   :updated="1755439305000"
   repo="Developer-Mike/obsidian-docxer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Docxer 是一个功能强大的 Obsidian 插件。
 
-Import Word files easily. Adds a preview mode for .docx files and the ability to convert them to markdown (.md) files.
+轻松导入 Word 文件。添加了 .docx 文件预览模式，并能将其转换为标记符（.md）文件。
 
 通过 Docxer,您可以:
 
@@ -202,7 +202,7 @@ Import Word files easily. Adds a preview mode for .docx files and the ability to
 - **下载量**：40.5K
 - **最后更新**：2025-08-17
 - **GitHub**：[Developer-Mike/obsidian-docxer](https://github.com/Developer-Mike/obsidian-docxer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

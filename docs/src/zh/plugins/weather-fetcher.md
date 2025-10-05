@@ -1,12 +1,12 @@
 ---
 title: Weather Fetcher
-description: Fetch and insert current weather into a note.
+description: 获取当前天气并将其插入便笺。
 author: fyears
-downloads: 8870
+downloads: 8872
 updated: 1643039537000
 repo: fyears/weather-fetcher
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="weather-fetcher"
   name="Weather Fetcher"
-  description="Fetch and insert current weather into a note."
+  description="获取当前天气并将其插入便笺。"
   author="fyears"
-  :downloads="8870"
+  :downloads="8872"
   :updated="1643039537000"
   repo="fyears/weather-fetcher"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Weather Fetcher 是一个功能强大的 Obsidian 插件。
 
-Fetch and insert current weather into a note.
+获取当前天气并将其插入便笺。
 
 通过 Weather Fetcher,您可以:
 
@@ -202,7 +202,7 @@ Fetch and insert current weather into a note.
 - **下载量**：8.9K
 - **最后更新**：2022-01-24
 - **GitHub**：[fyears/weather-fetcher](https://github.com/fyears/weather-fetcher)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

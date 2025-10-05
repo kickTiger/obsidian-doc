@@ -1,12 +1,12 @@
 ---
 title: Media Extended
-description: Integrate, manage video or audio directly in your notes, with enhanced playback and timestamp support. (Closed source)
+description: 直接在笔记中整合、管理视频或音频，并提供增强的播放和时间戳支持。(关闭源代码）
 author: AidenLx
-downloads: 246830
+downloads: 247556
 updated: 1759496730000
 repo: aidenlx/media-extended
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="media-extended"
   name="Media Extended"
-  description="Integrate, manage video or audio directly in your notes, with enhanced playback and timestamp support. (Closed source)"
+  description="直接在笔记中整合、管理视频或音频，并提供增强的播放和时间戳支持。(关闭源代码）"
   author="AidenLx"
-  :downloads="246830"
+  :downloads="247556"
   :updated="1759496730000"
   repo="aidenlx/media-extended"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Media Extended 是一个功能强大的 Obsidian 插件。
 
-Integrate, manage video or audio directly in your notes, with enhanced playback and timestamp support. (Closed source)
+直接在笔记中整合、管理视频或音频，并提供增强的播放和时间戳支持。(关闭源代码）
 
 通过 Media Extended,您可以:
 
@@ -199,10 +199,10 @@ Integrate, manage video or audio directly in your notes, with enhanced playback 
 - **插件 ID**：media-extended
 - **作者**：AidenLx
 - **当前版本**：v1.0.0
-- **下载量**：246.8K
+- **下载量**：247.6K
 - **最后更新**：2025-10-03
 - **GitHub**：[aidenlx/media-extended](https://github.com/aidenlx/media-extended)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

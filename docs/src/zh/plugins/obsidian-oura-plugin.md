@@ -1,12 +1,12 @@
 ---
 title: Oura Ring
-description: Import Oura Ring data into a note.
+description: 将 Oura Ring 数据导入注释。
 author: Andrew Lombardi
-downloads: 4573
+downloads: 4575
 updated: 1755496101000
 repo: kinabalu/obsidian-oura-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-oura-plugin"
   name="Oura Ring"
-  description="Import Oura Ring data into a note."
+  description="将 Oura Ring 数据导入注释。"
   author="Andrew Lombardi"
-  :downloads="4573"
+  :downloads="4575"
   :updated="1755496101000"
   repo="kinabalu/obsidian-oura-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Oura Ring 是一个功能强大的 Obsidian 插件。
 
-Import Oura Ring data into a note.
+将 Oura Ring 数据导入注释。
 
 通过 Oura Ring,您可以:
 
@@ -202,7 +202,7 @@ Import Oura Ring data into a note.
 - **下载量**：4.6K
 - **最后更新**：2025-08-18
 - **GitHub**：[kinabalu/obsidian-oura-plugin](https://github.com/kinabalu/obsidian-oura-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

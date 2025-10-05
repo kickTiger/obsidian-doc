@@ -1,12 +1,12 @@
 ---
 title: HTML Reader
-description: Open .html and .htm files.
+description: 打开 .html 和 .htm 文件。
 author: Nuthrash
-downloads: 36754
+downloads: 36783
 updated: 1702369832000
 repo: nuthrash/obsidian-html-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-html-plugin"
   name="HTML Reader"
-  description="Open .html and .htm files."
+  description="打开 .html 和 .htm 文件。"
   author="Nuthrash"
-  :downloads="36754"
+  :downloads="36783"
   :updated="1702369832000"
   repo="nuthrash/obsidian-html-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 HTML Reader 是一个功能强大的 Obsidian 插件。
 
-Open .html and .htm files.
+打开 .html 和 .htm 文件。
 
 通过 HTML Reader,您可以:
 
@@ -202,7 +202,7 @@ Open .html and .htm files.
 - **下载量**：36.8K
 - **最后更新**：2023-12-12
 - **GitHub**：[nuthrash/obsidian-html-plugin](https://github.com/nuthrash/obsidian-html-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

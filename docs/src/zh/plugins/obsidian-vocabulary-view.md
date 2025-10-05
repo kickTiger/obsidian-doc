@@ -1,12 +1,12 @@
 ---
 title: Vocabulary View
-description: Write down some words with their explanations and preview them in a vocabulary test style.
+description: 写下一些单词及其解释，并以词汇测试的形式进行预习。
 author: nnshi-s
-downloads: 7543
+downloads: 7548
 updated: 1713877280000
 repo: nnshi-s/obsidian-vocabulary-view-plugin
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-vocabulary-view"
   name="Vocabulary View"
-  description="Write down some words with their explanations and preview them in a vocabulary test style."
+  description="写下一些单词及其解释，并以词汇测试的形式进行预习。"
   author="nnshi-s"
-  :downloads="7543"
+  :downloads="7548"
   :updated="1713877280000"
   repo="nnshi-s/obsidian-vocabulary-view-plugin"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vocabulary View 是一个功能强大的 Obsidian 插件。
 
-Write down some words with their explanations and preview them in a vocabulary test style.
+写下一些单词及其解释，并以词汇测试的形式进行预习。
 
 通过 Vocabulary View,您可以:
 
@@ -202,7 +202,7 @@ Write down some words with their explanations and preview them in a vocabulary t
 - **下载量**：7.5K
 - **最后更新**：2024-04-23
 - **GitHub**：[nnshi-s/obsidian-vocabulary-view-plugin](https://github.com/nnshi-s/obsidian-vocabulary-view-plugin)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

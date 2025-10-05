@@ -1,12 +1,12 @@
 ---
 title: Canvas Filter
-description: Filter Canvas to only show items of specific color, tags or only connected to currently selected node.
+description: 过滤画布，只显示特定颜色、标签或只连接到当前选定节点的项目。
 author: Ivan Koshelev
-downloads: 13280
+downloads: 13284
 updated: 1703438547000
 repo: IKoshelev/Obsidian-Canvas-Filter
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="canvas-filter"
   name="Canvas Filter"
-  description="Filter Canvas to only show items of specific color, tags or only connected to currently selected node."
+  description="过滤画布，只显示特定颜色、标签或只连接到当前选定节点的项目。"
   author="Ivan Koshelev"
-  :downloads="13280"
+  :downloads="13284"
   :updated="1703438547000"
   repo="IKoshelev/Obsidian-Canvas-Filter"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas Filter 是一个功能强大的 Obsidian 插件。
 
-Filter Canvas to only show items of specific color, tags or only connected to currently selected node.
+过滤画布，只显示特定颜色、标签或只连接到当前选定节点的项目。
 
 通过 Canvas Filter,您可以:
 
@@ -202,7 +202,7 @@ Filter Canvas to only show items of specific color, tags or only connected to cu
 - **下载量**：13.3K
 - **最后更新**：2023-12-25
 - **GitHub**：[IKoshelev/Obsidian-Canvas-Filter](https://github.com/IKoshelev/Obsidian-Canvas-Filter)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Reminder
-description: Manage Markdown TODOs with reminder.
+description: 为 Markdown 任务和列表添加提醒功能。
 author: uphy
-downloads: 248134
+downloads: 248373
 updated: 1754207356000
 repo: uphy/obsidian-reminder
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-reminder-plugin"
   name="Reminder"
-  description="Manage Markdown TODOs with reminder."
+  description="为 Markdown 任务和列表添加提醒功能。"
   author="uphy"
-  :downloads="248134"
+  :downloads="248373"
   :updated="1754207356000"
   repo="uphy/obsidian-reminder"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Reminder 是一个功能强大的 Obsidian 插件。
 
-Manage Markdown TODOs with reminder.
+为 Markdown 任务和列表添加提醒功能。
 
 通过 Reminder,您可以:
 
@@ -199,10 +199,10 @@ Manage Markdown TODOs with reminder.
 - **插件 ID**：obsidian-reminder-plugin
 - **作者**：uphy
 - **当前版本**：v1.0.0
-- **下载量**：248.1K
+- **下载量**：248.4K
 - **最后更新**：2025-08-03
 - **GitHub**：[uphy/obsidian-reminder](https://github.com/uphy/obsidian-reminder)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

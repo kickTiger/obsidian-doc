@@ -1,12 +1,12 @@
 ---
 title: Image Gallery
-description: A zero setup masonry image gallery for Obsidian.
+description: 黑曜石的零设置砖石图库。
 author: Luca Orio
-downloads: 28168
+downloads: 28207
 updated: 1671774139000
 repo: lucaorio/obsidian-image-gallery
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-image-gallery"
   name="Image Gallery"
-  description="A zero setup masonry image gallery for Obsidian."
+  description="黑曜石的零设置砖石图库。"
   author="Luca Orio"
-  :downloads="28168"
+  :downloads="28207"
   :updated="1671774139000"
   repo="lucaorio/obsidian-image-gallery"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Gallery 是一个功能强大的 Obsidian 插件。
 
-A zero setup masonry image gallery for Obsidian.
+黑曜石的零设置砖石图库。
 
 通过 Image Gallery,您可以:
 
@@ -202,7 +202,7 @@ A zero setup masonry image gallery for Obsidian.
 - **下载量**：28.2K
 - **最后更新**：2022-12-23
 - **GitHub**：[lucaorio/obsidian-image-gallery](https://github.com/lucaorio/obsidian-image-gallery)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: iDoRecall
 description: Create recalls from your notes.
 author: dbhandel
-downloads: 2675
+downloads: 2676
 updated: 1698395246000
 repo: iDoRecall/idorecall
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="iDoRecall"
   description="Create recalls from your notes."
   author="dbhandel"
-  :downloads="2675"
+  :downloads="2676"
   :updated="1698395246000"
   repo="iDoRecall/idorecall"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create recalls from your notes.
 - **下载量**：2.7K
 - **最后更新**：2023-10-27
 - **GitHub**：[iDoRecall/idorecall](https://github.com/iDoRecall/idorecall)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

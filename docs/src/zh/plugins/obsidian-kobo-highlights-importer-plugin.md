@@ -1,12 +1,12 @@
 ---
 title: Kobo Highlights Importer
-description: Import highlights from Kobo devices.
+description: 从 Kobo 设备导入重点内容。
 author: 'Kevin Hellemun & Flavio Cordari'
-downloads: 10471
+downloads: 10481
 updated: 1756971909000
 repo: OGKevin/obsidian-kobo-highlights-import
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-kobo-highlights-importer-plugin"
   name="Kobo Highlights Importer"
-  description="Import highlights from Kobo devices."
+  description="从 Kobo 设备导入重点内容。"
   author="Kevin Hellemun &amp; Flavio Cordari"
-  :downloads="10471"
+  :downloads="10481"
   :updated="1756971909000"
   repo="OGKevin/obsidian-kobo-highlights-import"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Kobo Highlights Importer 是一个功能强大的 Obsidian 插件。
 
-Import highlights from Kobo devices.
+从 Kobo 设备导入重点内容。
 
 通过 Kobo Highlights Importer,您可以:
 
@@ -202,7 +202,7 @@ Import highlights from Kobo devices.
 - **下载量**：10.5K
 - **最后更新**：2025-09-04
 - **GitHub**：[OGKevin/obsidian-kobo-highlights-import](https://github.com/OGKevin/obsidian-kobo-highlights-import)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

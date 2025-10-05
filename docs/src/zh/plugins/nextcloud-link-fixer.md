@@ -2,11 +2,11 @@
 title: Nextcloud Link Fixer
 description: Nextcloud breaks Wiki-links. This fixes them.
 author: KaelLarkin
-downloads: 584
+downloads: 585
 updated: 1712056881000
 repo: KFreon/nextcloud-link-fixer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Nextcloud Link Fixer"
   description="Nextcloud breaks Wiki-links. This fixes them."
   author="KaelLarkin"
-  :downloads="584"
+  :downloads="585"
   :updated="1712056881000"
   repo="KFreon/nextcloud-link-fixer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Nextcloud breaks Wiki-links. This fixes them.
 - **插件 ID**：nextcloud-link-fixer
 - **作者**：KaelLarkin
 - **当前版本**：v1.0.0
-- **下载量**：584
+- **下载量**：585
 - **最后更新**：2024-04-02
 - **GitHub**：[KFreon/nextcloud-link-fixer](https://github.com/KFreon/nextcloud-link-fixer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Export To TeX
-description: Export vault files in a format amenable to pasting into a TeX document.
+description: 以适合粘贴到 TeX 文档的格式导出保险库文件。
 author: Zach Raines
-downloads: 9016
+downloads: 9017
 updated: 1656518989000
 repo: raineszm/obsidian-export-to-tex
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-export-to-tex"
   name="Export To TeX"
-  description="Export vault files in a format amenable to pasting into a TeX document."
+  description="以适合粘贴到 TeX 文档的格式导出保险库文件。"
   author="Zach Raines"
-  :downloads="9016"
+  :downloads="9017"
   :updated="1656518989000"
   repo="raineszm/obsidian-export-to-tex"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Export To TeX 是一个功能强大的 Obsidian 插件。
 
-Export vault files in a format amenable to pasting into a TeX document.
+以适合粘贴到 TeX 文档的格式导出保险库文件。
 
 通过 Export To TeX,您可以:
 
@@ -202,7 +202,7 @@ Export vault files in a format amenable to pasting into a TeX document.
 - **下载量**：9.0K
 - **最后更新**：2022-06-30
 - **GitHub**：[raineszm/obsidian-export-to-tex](https://github.com/raineszm/obsidian-export-to-tex)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

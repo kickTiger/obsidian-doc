@@ -1,12 +1,12 @@
 ---
 title: SQLSeal
-description: Use SQL in your notes to query your vault files and CSV content
+description: 在笔记中使用 SQL 来查询保险库文件和 CSV 内容
 author: hypersphere
-downloads: 9489
+downloads: 9502
 updated: 1758190903000
 repo: h-sphere/sql-seal
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="sqlseal"
   name="SQLSeal"
-  description="Use SQL in your notes to query your vault files and CSV content"
+  description="在笔记中使用 SQL 来查询保险库文件和 CSV 内容"
   author="hypersphere"
-  :downloads="9489"
+  :downloads="9502"
   :updated="1758190903000"
   repo="h-sphere/sql-seal"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 SQLSeal 是一个功能强大的 Obsidian 插件。
 
-Use SQL in your notes to query your vault files and CSV content
+在笔记中使用 SQL 来查询保险库文件和 CSV 内容
 
 通过 SQLSeal,您可以:
 
@@ -202,7 +202,7 @@ Use SQL in your notes to query your vault files and CSV content
 - **下载量**：9.5K
 - **最后更新**：2025-09-18
 - **GitHub**：[h-sphere/sql-seal](https://github.com/h-sphere/sql-seal)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Open with
-description: Add multiple other programs to open notes with.
+description: 添加多个其他程序来打开笔记。
 author: phibr0
-downloads: 9463
+downloads: 9464
 updated: 1691481640000
 repo: phibr0/obsidian-open-with
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="open-with"
   name="Open with"
-  description="Add multiple other programs to open notes with."
+  description="添加多个其他程序来打开笔记。"
   author="phibr0"
-  :downloads="9463"
+  :downloads="9464"
   :updated="1691481640000"
   repo="phibr0/obsidian-open-with"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Open with 是一个功能强大的 Obsidian 插件。
 
-Add multiple other programs to open notes with.
+添加多个其他程序来打开笔记。
 
 通过 Open with,您可以:
 
@@ -202,7 +202,7 @@ Add multiple other programs to open notes with.
 - **下载量**：9.5K
 - **最后更新**：2023-08-08
 - **GitHub**：[phibr0/obsidian-open-with](https://github.com/phibr0/obsidian-open-with)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

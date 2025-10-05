@@ -1,12 +1,12 @@
 ---
 title: Note Toolbar
-description: Add customizable toolbars to your notes.
+description: 为笔记添加自定义工具栏
 author: Chris Gurney
-downloads: 125174
+downloads: 125432
 updated: 1759257480000
 repo: chrisgurney/obsidian-note-toolbar
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="note-toolbar"
   name="Note Toolbar"
-  description="Add customizable toolbars to your notes."
+  description="为笔记添加自定义工具栏"
   author="Chris Gurney"
-  :downloads="125174"
+  :downloads="125432"
   :updated="1759257480000"
   repo="chrisgurney/obsidian-note-toolbar"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note Toolbar 是一个功能强大的 Obsidian 插件。
 
-Add customizable toolbars to your notes.
+为笔记添加自定义工具栏
 
 通过 Note Toolbar,您可以:
 
@@ -199,10 +199,10 @@ Add customizable toolbars to your notes.
 - **插件 ID**：note-toolbar
 - **作者**：Chris Gurney
 - **当前版本**：v1.0.0
-- **下载量**：125.2K
+- **下载量**：125.4K
 - **最后更新**：2025-10-01
 - **GitHub**：[chrisgurney/obsidian-note-toolbar](https://github.com/chrisgurney/obsidian-note-toolbar)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

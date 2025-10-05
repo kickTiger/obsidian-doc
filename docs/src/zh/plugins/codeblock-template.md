@@ -2,11 +2,11 @@
 title: Codeblock Template
 description: Reuse content within code blocks, with the ability to use variables.
 author: Super10
-downloads: 3245
+downloads: 3247
 updated: 1686716327000
 repo: sylcool/obsidian-codeblock-template
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Codeblock Template"
   description="Reuse content within code blocks, with the ability to use variables."
   author="Super10"
-  :downloads="3245"
+  :downloads="3247"
   :updated="1686716327000"
   repo="sylcool/obsidian-codeblock-template"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Reuse content within code blocks, with the ability to use variables.
 - **下载量**：3.2K
 - **最后更新**：2023-06-14
 - **GitHub**：[sylcool/obsidian-codeblock-template](https://github.com/sylcool/obsidian-codeblock-template)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

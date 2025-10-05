@@ -1,12 +1,12 @@
 ---
 title: Leader Hotkeys
-description: Add leader hotkey support to any command (like tmux or vim).
+description: 为任何命令（如 tmux 或 vim）添加领导者热键支持。
 author: Tony Grosinger
-downloads: 13087
+downloads: 13091
 updated: 1674526368000
 repo: tgrosinger/leader-hotkeys-obsidian
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="leader-hotkeys-obsidian"
   name="Leader Hotkeys"
-  description="Add leader hotkey support to any command (like tmux or vim)."
+  description="为任何命令（如 tmux 或 vim）添加领导者热键支持。"
   author="Tony Grosinger"
-  :downloads="13087"
+  :downloads="13091"
   :updated="1674526368000"
   repo="tgrosinger/leader-hotkeys-obsidian"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Leader Hotkeys 是一个功能强大的 Obsidian 插件。
 
-Add leader hotkey support to any command (like tmux or vim).
+为任何命令（如 tmux 或 vim）添加领导者热键支持。
 
 通过 Leader Hotkeys,您可以:
 
@@ -202,7 +202,7 @@ Add leader hotkey support to any command (like tmux or vim).
 - **下载量**：13.1K
 - **最后更新**：2023-01-24
 - **GitHub**：[tgrosinger/leader-hotkeys-obsidian](https://github.com/tgrosinger/leader-hotkeys-obsidian)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

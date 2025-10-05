@@ -1,12 +1,12 @@
 ---
 title: Bulk Exporter
-description: Filter, export notes from your vault using metadata into a customizable new structure.
+description: 使用元数据过滤、导出存储库中的笔记，并将其转化为可定制的新结构。
 author: symunona
-downloads: 5637
+downloads: 5642
 updated: 1729780551000
 repo: symunona/obsidian-bulk-exporter
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="bulk-exporter"
   name="Bulk Exporter"
-  description="Filter, export notes from your vault using metadata into a customizable new structure."
+  description="使用元数据过滤、导出存储库中的笔记，并将其转化为可定制的新结构。"
   author="symunona"
-  :downloads="5637"
+  :downloads="5642"
   :updated="1729780551000"
   repo="symunona/obsidian-bulk-exporter"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Bulk Exporter 是一个功能强大的 Obsidian 插件。
 
-Filter, export notes from your vault using metadata into a customizable new structure.
+使用元数据过滤、导出存储库中的笔记，并将其转化为可定制的新结构。
 
 通过 Bulk Exporter,您可以:
 
@@ -202,7 +202,7 @@ Filter, export notes from your vault using metadata into a customizable new stru
 - **下载量**：5.6K
 - **最后更新**：2024-10-24
 - **GitHub**：[symunona/obsidian-bulk-exporter](https://github.com/symunona/obsidian-bulk-exporter)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

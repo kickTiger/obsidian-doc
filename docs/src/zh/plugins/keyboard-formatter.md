@@ -6,7 +6,7 @@ downloads: 85
 updated: 1752600690000
 repo: Lauloque/Keyboard-Formatter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1752600690000"
   repo="Lauloque/Keyboard-Formatter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Format selected text into HTML &lt;kbd&gt; tags for representing keyboard keys a
 - **下载量**：85
 - **最后更新**：2025-07-16
 - **GitHub**：[Lauloque/Keyboard-Formatter](https://github.com/Lauloque/Keyboard-Formatter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

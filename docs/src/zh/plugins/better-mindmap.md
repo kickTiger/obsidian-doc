@@ -2,11 +2,11 @@
 title: Better Mind Map
 description: Visualize notes as interactive mind maps
 author: Utkarsh Raj
-downloads: 1259
+downloads: 1264
 updated: 1752571503000
 repo: linem-davton/obsidian-better-mindmap
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Better Mind Map"
   description="Visualize notes as interactive mind maps"
   author="Utkarsh Raj"
-  :downloads="1259"
+  :downloads="1264"
   :updated="1752571503000"
   repo="linem-davton/obsidian-better-mindmap"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Visualize notes as interactive mind maps
 - **下载量**：1.3K
 - **最后更新**：2025-07-15
 - **GitHub**：[linem-davton/obsidian-better-mindmap](https://github.com/linem-davton/obsidian-better-mindmap)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

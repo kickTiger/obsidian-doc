@@ -6,7 +6,7 @@ downloads: 1190
 updated: 1742976766000
 repo: janisringli/verse-of-the-day-for-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1742976766000"
   repo="janisringli/verse-of-the-day-for-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Lets you add the verse of the day from YouVersion to your notes
 - **下载量**：1.2K
 - **最后更新**：2025-03-26
 - **GitHub**：[janisringli/verse-of-the-day-for-obsidian](https://github.com/janisringli/verse-of-the-day-for-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

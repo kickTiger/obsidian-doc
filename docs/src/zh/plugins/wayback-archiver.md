@@ -2,11 +2,11 @@
 title: Wayback Archiver
 description: Automatically archives web links via Wayback Machine and appends archived versions in notes.
 author: ISHIZUE
-downloads: 287
+downloads: 289
 updated: 1747763657000
 repo: IshizuEitaro/obsidian-wayback-archiver
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Wayback Archiver"
   description="Automatically archives web links via Wayback Machine and appends archived versions in notes."
   author="ISHIZUE"
-  :downloads="287"
+  :downloads="289"
   :updated="1747763657000"
   repo="IshizuEitaro/obsidian-wayback-archiver"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically archives web links via Wayback Machine and appends archived versio
 - **插件 ID**：wayback-archiver
 - **作者**：ISHIZUE
 - **当前版本**：v1.0.0
-- **下载量**：287
+- **下载量**：289
 - **最后更新**：2025-05-21
 - **GitHub**：[IshizuEitaro/obsidian-wayback-archiver](https://github.com/IshizuEitaro/obsidian-wayback-archiver)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

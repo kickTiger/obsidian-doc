@@ -1,12 +1,12 @@
 ---
 title: Badge
-description: Render progress bars in your notes.
+description: 在笔记中显示进度条
 author: Jun Lin
 downloads: 6415
 updated: 1651796231000
 repo: linjunpop/obsidian-badge
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-badge"
   name="Badge"
-  description="Render progress bars in your notes."
+  description="在笔记中显示进度条"
   author="Jun Lin"
   :downloads="6415"
   :updated="1651796231000"
   repo="linjunpop/obsidian-badge"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Badge 是一个功能强大的 Obsidian 插件。
 
-Render progress bars in your notes.
+在笔记中显示进度条
 
 通过 Badge,您可以:
 
@@ -202,7 +202,7 @@ Render progress bars in your notes.
 - **下载量**：6.4K
 - **最后更新**：2022-05-06
 - **GitHub**：[linjunpop/obsidian-badge](https://github.com/linjunpop/obsidian-badge)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Text Block Timer
-description: Add a timer to text block to track task time consumption.
+description: 在文本块中添加计时器，跟踪任务耗时。
 author: frankthwang
-downloads: 3676
+downloads: 3677
 updated: 1757678217000
 repo: wth461694678/text-block-timer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="text-block-timer"
   name="Text Block Timer"
-  description="Add a timer to text block to track task time consumption."
+  description="在文本块中添加计时器，跟踪任务耗时。"
   author="frankthwang"
-  :downloads="3676"
+  :downloads="3677"
   :updated="1757678217000"
   repo="wth461694678/text-block-timer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text Block Timer 是一个功能强大的 Obsidian 插件。
 
-Add a timer to text block to track task time consumption.
+在文本块中添加计时器，跟踪任务耗时。
 
 通过 Text Block Timer,您可以:
 
@@ -202,7 +202,7 @@ Add a timer to text block to track task time consumption.
 - **下载量**：3.7K
 - **最后更新**：2025-09-12
 - **GitHub**：[wth461694678/text-block-timer](https://github.com/wth461694678/text-block-timer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

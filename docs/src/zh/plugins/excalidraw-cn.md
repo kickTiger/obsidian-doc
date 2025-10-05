@@ -1,12 +1,12 @@
 ---
 title: Excalidraw CN
-description: Excalidraw supporting Chinese hand write font by default.
+description: Excalidraw 默认支持中文手写字体。
 author: Korbin Zhao
-downloads: 16460
+downloads: 16466
 updated: 1688829353000
 repo: korbinjoe/obsidian-excalidraw-cn-plugin
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="excalidraw-cn"
   name="Excalidraw CN"
-  description="Excalidraw supporting Chinese hand write font by default."
+  description="Excalidraw 默认支持中文手写字体。"
   author="Korbin Zhao"
-  :downloads="16460"
+  :downloads="16466"
   :updated="1688829353000"
   repo="korbinjoe/obsidian-excalidraw-cn-plugin"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Excalidraw CN 是一个功能强大的 Obsidian 插件。
 
-Excalidraw supporting Chinese hand write font by default.
+Excalidraw 默认支持中文手写字体。
 
 通过 Excalidraw CN,您可以:
 
@@ -202,7 +202,7 @@ Excalidraw supporting Chinese hand write font by default.
 - **下载量**：16.5K
 - **最后更新**：2023-07-08
 - **GitHub**：[korbinjoe/obsidian-excalidraw-cn-plugin](https://github.com/korbinjoe/obsidian-excalidraw-cn-plugin)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

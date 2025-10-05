@@ -1,12 +1,12 @@
 ---
 title: Hidden Folder
-description: Hidden Folder.
+description: 隐藏文件夹。
 author: ptrsvltns
-downloads: 7591
+downloads: 7594
 updated: 1671030397000
 repo: ptrsvltns/hidden-folder-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="hidden-folder-obsidian"
   name="Hidden Folder"
-  description="Hidden Folder."
+  description="隐藏文件夹。"
   author="ptrsvltns"
-  :downloads="7591"
+  :downloads="7594"
   :updated="1671030397000"
   repo="ptrsvltns/hidden-folder-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hidden Folder 是一个功能强大的 Obsidian 插件。
 
-Hidden Folder.
+隐藏文件夹。
 
 通过 Hidden Folder,您可以:
 
@@ -202,7 +202,7 @@ Hidden Folder.
 - **下载量**：7.6K
 - **最后更新**：2022-12-14
 - **GitHub**：[ptrsvltns/hidden-folder-obsidian](https://github.com/ptrsvltns/hidden-folder-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

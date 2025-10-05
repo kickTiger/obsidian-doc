@@ -1,12 +1,12 @@
 ---
 title: Daily Note Outline
-description: Add a custom view which shows outline of multiple daily notes with headings, links, tags and list items.
+description: 添加自定义视图，显示多个每日备忘的大纲，包括标题、链接、标签和列表项。
 author: iiz
-downloads: 22887
+downloads: 22894
 updated: 1711897653000
 repo: iiz00/obsidian-daily-note-outline
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-daily-note-outline"
   name="Daily Note Outline"
-  description="Add a custom view which shows outline of multiple daily notes with headings, links, tags and list items."
+  description="添加自定义视图，显示多个每日备忘的大纲，包括标题、链接、标签和列表项。"
   author="iiz"
-  :downloads="22887"
+  :downloads="22894"
   :updated="1711897653000"
   repo="iiz00/obsidian-daily-note-outline"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Daily Note Outline 是一个功能强大的 Obsidian 插件。
 
-Add a custom view which shows outline of multiple daily notes with headings, links, tags and list items.
+添加自定义视图，显示多个每日备忘的大纲，包括标题、链接、标签和列表项。
 
 通过 Daily Note Outline,您可以:
 
@@ -202,7 +202,7 @@ Add a custom view which shows outline of multiple daily notes with headings, lin
 - **下载量**：22.9K
 - **最后更新**：2024-03-31
 - **GitHub**：[iiz00/obsidian-daily-note-outline](https://github.com/iiz00/obsidian-daily-note-outline)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

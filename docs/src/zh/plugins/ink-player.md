@@ -6,7 +6,7 @@ downloads: 177
 updated: 1742270670000
 repo: uglyboy-tl/obsidian-ink-player
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1742270670000"
   repo="uglyboy-tl/obsidian-ink-player"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Playing interactive fiction powered by Inkle&#39;s ink engine.
 - **下载量**：177
 - **最后更新**：2025-03-18
 - **GitHub**：[uglyboy-tl/obsidian-ink-player](https://github.com/uglyboy-tl/obsidian-ink-player)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

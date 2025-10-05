@@ -1,12 +1,12 @@
 ---
 title: Folder Note
-description: Add description note to a folder.
+description: 为文件夹添加说明注释。
 author: xpgo
-downloads: 128966
+downloads: 128993
 updated: 1613803750000
 repo: xpgo/obsidian-folder-note-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="folder-note-plugin"
   name="Folder Note"
-  description="Add description note to a folder."
+  description="为文件夹添加说明注释。"
   author="xpgo"
-  :downloads="128966"
+  :downloads="128993"
   :updated="1613803750000"
   repo="xpgo/obsidian-folder-note-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Folder Note 是一个功能强大的 Obsidian 插件。
 
-Add description note to a folder.
+为文件夹添加说明注释。
 
 通过 Folder Note,您可以:
 
@@ -202,7 +202,7 @@ Add description note to a folder.
 - **下载量**：129.0K
 - **最后更新**：2021-02-20
 - **GitHub**：[xpgo/obsidian-folder-note-plugin](https://github.com/xpgo/obsidian-folder-note-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

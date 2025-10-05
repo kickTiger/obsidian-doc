@@ -1,12 +1,12 @@
 ---
 title: Hard Breaks
-description: Turn soft line breaks in Markdown into hard line breaks.
+description: 将 Markdown 中的软换行符变为硬换行符。
 author: Börge Kiss
-downloads: 6378
+downloads: 6383
 updated: 1659969368000
 repo: bkis/obsidian-hard-breaks
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="hard-breaks"
   name="Hard Breaks"
-  description="Turn soft line breaks in Markdown into hard line breaks."
+  description="将 Markdown 中的软换行符变为硬换行符。"
   author="Börge Kiss"
-  :downloads="6378"
+  :downloads="6383"
   :updated="1659969368000"
   repo="bkis/obsidian-hard-breaks"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hard Breaks 是一个功能强大的 Obsidian 插件。
 
-Turn soft line breaks in Markdown into hard line breaks.
+将 Markdown 中的软换行符变为硬换行符。
 
 通过 Hard Breaks,您可以:
 
@@ -202,7 +202,7 @@ Turn soft line breaks in Markdown into hard line breaks.
 - **下载量**：6.4K
 - **最后更新**：2022-08-08
 - **GitHub**：[bkis/obsidian-hard-breaks](https://github.com/bkis/obsidian-hard-breaks)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

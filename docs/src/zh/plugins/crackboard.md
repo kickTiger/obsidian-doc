@@ -6,7 +6,7 @@ downloads: 123
 updated: 1727368820000
 repo: bruce-pain/crackboard-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1727368820000"
   repo="bruce-pain/crackboard-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ tpot leaderboard productivity tracker
 - **下载量**：123
 - **最后更新**：2024-09-27
 - **GitHub**：[bruce-pain/crackboard-obsidian](https://github.com/bruce-pain/crackboard-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

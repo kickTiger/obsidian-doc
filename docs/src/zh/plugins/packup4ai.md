@@ -2,11 +2,11 @@
 title: packUp4AI
 description: Collect related notes based on links/backlinks to provide focused context for external AI chatbots. Explore note relationships visually and export the bundle.
 author: Jeffry
-downloads: 263
+downloads: 267
 updated: 1755500547000
 repo: shuxueshuxue/PackUp4AI
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="packUp4AI"
   description="Collect related notes based on links/backlinks to provide focused context for external AI chatbots. Explore note relationships visually and export the bundle."
   author="Jeffry"
-  :downloads="263"
+  :downloads="267"
   :updated="1755500547000"
   repo="shuxueshuxue/PackUp4AI"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Collect related notes based on links/backlinks to provide focused context for ex
 - **插件 ID**：packup4ai
 - **作者**：Jeffry
 - **当前版本**：v1.0.0
-- **下载量**：263
+- **下载量**：267
 - **最后更新**：2025-08-18
 - **GitHub**：[shuxueshuxue/PackUp4AI](https://github.com/shuxueshuxue/PackUp4AI)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

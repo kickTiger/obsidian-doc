@@ -1,12 +1,12 @@
 ---
 title: Modal Opener
-description: Open files and links in modal windows, or create and edit compatible files in modal windows.
+description: 在模式窗口中打开文件和链接，或在模式窗口中创建和编辑兼容文件。
 author: Muuxi
-downloads: 6772
+downloads: 6791
 updated: 1759204519000
 repo: likemuuxi/obsidian-modal-opener
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="modal-opener"
   name="Modal Opener"
-  description="Open files and links in modal windows, or create and edit compatible files in modal windows."
+  description="在模式窗口中打开文件和链接，或在模式窗口中创建和编辑兼容文件。"
   author="Muuxi"
-  :downloads="6772"
+  :downloads="6791"
   :updated="1759204519000"
   repo="likemuuxi/obsidian-modal-opener"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Modal Opener 是一个功能强大的 Obsidian 插件。
 
-Open files and links in modal windows, or create and edit compatible files in modal windows.
+在模式窗口中打开文件和链接，或在模式窗口中创建和编辑兼容文件。
 
 通过 Modal Opener,您可以:
 
@@ -202,7 +202,7 @@ Open files and links in modal windows, or create and edit compatible files in mo
 - **下载量**：6.8K
 - **最后更新**：2025-09-30
 - **GitHub**：[likemuuxi/obsidian-modal-opener](https://github.com/likemuuxi/obsidian-modal-opener)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

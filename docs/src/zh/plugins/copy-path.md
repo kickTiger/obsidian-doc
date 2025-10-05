@@ -2,11 +2,11 @@
 title: Copy Path
 description: Adds context menu actions for copying the full/vault-relative path of files and folders.
 author: shumadrid
-downloads: 2197
+downloads: 2216
 updated: 1753880979000
 repo: shumadrid/obsidian-copy-path
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Copy Path"
   description="Adds context menu actions for copying the full/vault-relative path of files and folders."
   author="shumadrid"
-  :downloads="2197"
+  :downloads="2216"
   :updated="1753880979000"
   repo="shumadrid/obsidian-copy-path"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds context menu actions for copying the full/vault-relative path of files and 
 - **下载量**：2.2K
 - **最后更新**：2025-07-30
 - **GitHub**：[shumadrid/obsidian-copy-path](https://github.com/shumadrid/obsidian-copy-path)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

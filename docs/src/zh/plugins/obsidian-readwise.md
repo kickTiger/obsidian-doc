@@ -1,12 +1,12 @@
 ---
 title: Readwise Community
-description: Sync Readwise highlights into your notes.
+description: 将 Readwise 的重点内容同步到笔记中。
 author: renehernandez
 downloads: 9159
 updated: 1630077379000
 repo: renehernandez/obsidian-readwise
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-readwise"
   name="Readwise Community"
-  description="Sync Readwise highlights into your notes."
+  description="将 Readwise 的重点内容同步到笔记中。"
   author="renehernandez"
   :downloads="9159"
   :updated="1630077379000"
   repo="renehernandez/obsidian-readwise"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Readwise Community 是一个功能强大的 Obsidian 插件。
 
-Sync Readwise highlights into your notes.
+将 Readwise 的重点内容同步到笔记中。
 
 通过 Readwise Community,您可以:
 
@@ -202,7 +202,7 @@ Sync Readwise highlights into your notes.
 - **下载量**：9.2K
 - **最后更新**：2021-08-27
 - **GitHub**：[renehernandez/obsidian-readwise](https://github.com/renehernandez/obsidian-readwise)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

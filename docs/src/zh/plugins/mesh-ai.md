@@ -1,12 +1,12 @@
 ---
 title: Mesh AI
-description: Enables you to store AI prompts as patterns and run them seemlessly with most providers.
+description: 您可以将人工智能提示存储为模式，并与大多数提供商无缝运行。
 author: Chasebank87
-downloads: 9329
+downloads: 9357
 updated: 1757719413000
 repo: chasebank87/mesh-ai
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mesh-ai"
   name="Mesh AI"
-  description="Enables you to store AI prompts as patterns and run them seemlessly with most providers."
+  description="您可以将人工智能提示存储为模式，并与大多数提供商无缝运行。"
   author="Chasebank87"
-  :downloads="9329"
+  :downloads="9357"
   :updated="1757719413000"
   repo="chasebank87/mesh-ai"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mesh AI 是一个功能强大的 Obsidian 插件。
 
-Enables you to store AI prompts as patterns and run them seemlessly with most providers.
+您可以将人工智能提示存储为模式，并与大多数提供商无缝运行。
 
 通过 Mesh AI,您可以:
 
@@ -199,10 +199,10 @@ Enables you to store AI prompts as patterns and run them seemlessly with most pr
 - **插件 ID**：mesh-ai
 - **作者**：Chasebank87
 - **当前版本**：v1.0.0
-- **下载量**：9.3K
+- **下载量**：9.4K
 - **最后更新**：2025-09-13
 - **GitHub**：[chasebank87/mesh-ai](https://github.com/chasebank87/mesh-ai)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

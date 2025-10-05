@@ -1,12 +1,12 @@
 ---
 title: Flashcard Learning
-description: Improved flashcard learning system.
+description: 改进的闪存卡学习系统
 author: Gaétan Muck
-downloads: 5635
+downloads: 5636
 updated: 1723547838000
 repo: gaetanmuck/obsidian-flashcard-learning
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="flashcard-learning"
   name="Flashcard Learning"
-  description="Improved flashcard learning system."
+  description="改进的闪存卡学习系统"
   author="Gaétan Muck"
-  :downloads="5635"
+  :downloads="5636"
   :updated="1723547838000"
   repo="gaetanmuck/obsidian-flashcard-learning"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Flashcard Learning 是一个功能强大的 Obsidian 插件。
 
-Improved flashcard learning system.
+改进的闪存卡学习系统
 
 通过 Flashcard Learning,您可以:
 
@@ -202,7 +202,7 @@ Improved flashcard learning system.
 - **下载量**：5.6K
 - **最后更新**：2024-08-13
 - **GitHub**：[gaetanmuck/obsidian-flashcard-learning](https://github.com/gaetanmuck/obsidian-flashcard-learning)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

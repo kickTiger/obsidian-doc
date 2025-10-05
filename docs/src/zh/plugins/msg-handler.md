@@ -1,12 +1,12 @@
 ---
 title: MSG Handler
-description: Easily display and search MSG files from Outlook in your vault.
+description: 在保险库中轻松显示和搜索 Outlook 中的 MSG 文件。
 author: Ozan Tellioglu
-downloads: 7820
+downloads: 7825
 updated: 1678032818000
 repo: ozntel/obsidian-msg-handler
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="msg-handler"
   name="MSG Handler"
-  description="Easily display and search MSG files from Outlook in your vault."
+  description="在保险库中轻松显示和搜索 Outlook 中的 MSG 文件。"
   author="Ozan Tellioglu"
-  :downloads="7820"
+  :downloads="7825"
   :updated="1678032818000"
   repo="ozntel/obsidian-msg-handler"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MSG Handler 是一个功能强大的 Obsidian 插件。
 
-Easily display and search MSG files from Outlook in your vault.
+在保险库中轻松显示和搜索 Outlook 中的 MSG 文件。
 
 通过 MSG Handler,您可以:
 
@@ -202,7 +202,7 @@ Easily display and search MSG files from Outlook in your vault.
 - **下载量**：7.8K
 - **最后更新**：2023-03-06
 - **GitHub**：[ozntel/obsidian-msg-handler](https://github.com/ozntel/obsidian-msg-handler)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

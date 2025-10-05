@@ -2,11 +2,11 @@
 title: Cloud Storage
 description: Allows users to upload local files to the cloud, reducing the burden on local vaults and enabling seamless synchronization across multiple devices.
 author: Jiajun Ma
-downloads: 1303
+downloads: 1305
 updated: 1748705913000
 repo: yingjialong/obsidian-CloudStorage
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Cloud Storage"
   description="Allows users to upload local files to the cloud, reducing the burden on local vaults and enabling seamless synchronization across multiple devices."
   author="Jiajun Ma"
-  :downloads="1303"
+  :downloads="1305"
   :updated="1748705913000"
   repo="yingjialong/obsidian-CloudStorage"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Allows users to upload local files to the cloud, reducing the burden on local va
 - **下载量**：1.3K
 - **最后更新**：2025-05-31
 - **GitHub**：[yingjialong/obsidian-CloudStorage](https://github.com/yingjialong/obsidian-CloudStorage)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 284
 updated: 1725865581000
 repo: amiaslee/obsidian-pintora
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1725865581000"
   repo="amiaslee/obsidian-pintora"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generates diagrams using Pintora.
 - **下载量**：284
 - **最后更新**：2024-09-09
 - **GitHub**：[amiaslee/obsidian-pintora](https://github.com/amiaslee/obsidian-pintora)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

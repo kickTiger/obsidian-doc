@@ -1,12 +1,12 @@
 ---
 title: Canvas Random Note
-description: Add random notes from your vault to the canvas.
+description: 在画布上随意添加您保险库中的笔记。
 author: jmilldotdev
 downloads: 4160
 updated: 1671740555000
 repo: jmilldotdev/obsidian-canvas-randomnote
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="canvas-randomnote"
   name="Canvas Random Note"
-  description="Add random notes from your vault to the canvas."
+  description="在画布上随意添加您保险库中的笔记。"
   author="jmilldotdev"
   :downloads="4160"
   :updated="1671740555000"
   repo="jmilldotdev/obsidian-canvas-randomnote"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas Random Note 是一个功能强大的 Obsidian 插件。
 
-Add random notes from your vault to the canvas.
+在画布上随意添加您保险库中的笔记。
 
 通过 Canvas Random Note,您可以:
 
@@ -202,7 +202,7 @@ Add random notes from your vault to the canvas.
 - **下载量**：4.2K
 - **最后更新**：2022-12-23
 - **GitHub**：[jmilldotdev/obsidian-canvas-randomnote](https://github.com/jmilldotdev/obsidian-canvas-randomnote)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

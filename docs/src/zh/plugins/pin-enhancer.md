@@ -2,11 +2,11 @@
 title: Pin Enhancer
 description: Prevents closure of pinned tabs
 author: Sheeplet1
-downloads: 1082
+downloads: 1085
 updated: 1755653960000
 repo: Sheeplet1/obsidian-pin-enhancer
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Pin Enhancer"
   description="Prevents closure of pinned tabs"
   author="Sheeplet1"
-  :downloads="1082"
+  :downloads="1085"
   :updated="1755653960000"
   repo="Sheeplet1/obsidian-pin-enhancer"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Prevents closure of pinned tabs
 - **下载量**：1.1K
 - **最后更新**：2025-08-20
 - **GitHub**：[Sheeplet1/obsidian-pin-enhancer](https://github.com/Sheeplet1/obsidian-pin-enhancer)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

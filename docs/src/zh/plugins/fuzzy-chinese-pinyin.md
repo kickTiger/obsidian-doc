@@ -1,12 +1,12 @@
 ---
 title: Fuzzy Chinese Pinyin
-description: Fuzzy search using Chinese Pinyin.
+description: 使用汉语拼音进行模糊搜索。
 author: lazyloong
-downloads: 22632
+downloads: 22646
 updated: 1757084592000
 repo: lazyloong/obsidian-fuzzy-chinese
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="fuzzy-chinese-pinyin"
   name="Fuzzy Chinese Pinyin"
-  description="Fuzzy search using Chinese Pinyin."
+  description="使用汉语拼音进行模糊搜索。"
   author="lazyloong"
-  :downloads="22632"
+  :downloads="22646"
   :updated="1757084592000"
   repo="lazyloong/obsidian-fuzzy-chinese"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Fuzzy Chinese Pinyin 是一个功能强大的 Obsidian 插件。
 
-Fuzzy search using Chinese Pinyin.
+使用汉语拼音进行模糊搜索。
 
 通过 Fuzzy Chinese Pinyin,您可以:
 
@@ -202,7 +202,7 @@ Fuzzy search using Chinese Pinyin.
 - **下载量**：22.6K
 - **最后更新**：2025-09-05
 - **GitHub**：[lazyloong/obsidian-fuzzy-chinese](https://github.com/lazyloong/obsidian-fuzzy-chinese)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

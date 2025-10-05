@@ -2,11 +2,11 @@
 title: Callout Copy Buttons
 description: Adds copy buttons to callout blocks in your notes.
 author: Aly Thobani
-downloads: 1614
+downloads: 1620
 updated: 1750650451000
 repo: alythobani/obsidian-callout-copy-buttons
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Callout Copy Buttons"
   description="Adds copy buttons to callout blocks in your notes."
   author="Aly Thobani"
-  :downloads="1614"
+  :downloads="1620"
   :updated="1750650451000"
   repo="alythobani/obsidian-callout-copy-buttons"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds copy buttons to callout blocks in your notes.
 - **下载量**：1.6K
 - **最后更新**：2025-06-23
 - **GitHub**：[alythobani/obsidian-callout-copy-buttons](https://github.com/alythobani/obsidian-callout-copy-buttons)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

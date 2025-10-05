@@ -2,11 +2,11 @@
 title: Sync to Hugo
 description: Sync and convert the selected notes to Hugo blog.
 author: Cray Huang
-downloads: 240
+downloads: 242
 updated: 1726307856000
 repo: crayhuang/Obsidian-Hugo-Sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Sync to Hugo"
   description="Sync and convert the selected notes to Hugo blog."
   author="Cray Huang"
-  :downloads="240"
+  :downloads="242"
   :updated="1726307856000"
   repo="crayhuang/Obsidian-Hugo-Sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Sync and convert the selected notes to Hugo blog.
 - **插件 ID**：hugo-sync
 - **作者**：Cray Huang
 - **当前版本**：v1.0.0
-- **下载量**：240
+- **下载量**：242
 - **最后更新**：2024-09-14
 - **GitHub**：[crayhuang/Obsidian-Hugo-Sync](https://github.com/crayhuang/Obsidian-Hugo-Sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

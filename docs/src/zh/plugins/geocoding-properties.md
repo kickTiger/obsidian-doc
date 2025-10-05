@@ -1,12 +1,12 @@
 ---
 title: Geocoding Properties
-description: Insert address and location data from geocoding APIs as YAML properties.
+description: 将来自地理编码 API 的地址和位置数据作为 YAML 属性插入。
 author: Jose Elias Alvarez
-downloads: 4582
+downloads: 4583
 updated: 1713029938000
 repo: jose-elias-alvarez/obsidian-geocoding-properties
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="geocoding-properties"
   name="Geocoding Properties"
-  description="Insert address and location data from geocoding APIs as YAML properties."
+  description="将来自地理编码 API 的地址和位置数据作为 YAML 属性插入。"
   author="Jose Elias Alvarez"
-  :downloads="4582"
+  :downloads="4583"
   :updated="1713029938000"
   repo="jose-elias-alvarez/obsidian-geocoding-properties"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Geocoding Properties 是一个功能强大的 Obsidian 插件。
 
-Insert address and location data from geocoding APIs as YAML properties.
+将来自地理编码 API 的地址和位置数据作为 YAML 属性插入。
 
 通过 Geocoding Properties,您可以:
 
@@ -202,7 +202,7 @@ Insert address and location data from geocoding APIs as YAML properties.
 - **下载量**：4.6K
 - **最后更新**：2024-04-14
 - **GitHub**：[jose-elias-alvarez/obsidian-geocoding-properties](https://github.com/jose-elias-alvarez/obsidian-geocoding-properties)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

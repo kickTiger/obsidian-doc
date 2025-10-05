@@ -1,12 +1,12 @@
 ---
 title: Notebook Navigator
-description: Replace the default file explorer with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options.
+description: 以简洁的双窗格界面取代默认文件资源管理器，该界面具有文件夹树、标签浏览、文件预览、键盘导航、拖放、固定备注和可定制的显示选项。
 author: Johan Sanneblad
-downloads: 68235
+downloads: 69405
 updated: 1759348628000
 repo: johansan/notebook-navigator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="notebook-navigator"
   name="Notebook Navigator"
-  description="Replace the default file explorer with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options."
+  description="以简洁的双窗格界面取代默认文件资源管理器，该界面具有文件夹树、标签浏览、文件预览、键盘导航、拖放、固定备注和可定制的显示选项。"
   author="Johan Sanneblad"
-  :downloads="68235"
+  :downloads="69405"
   :updated="1759348628000"
   repo="johansan/notebook-navigator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Notebook Navigator 是一个功能强大的 Obsidian 插件。
 
-Replace the default file explorer with a clean two-pane interface featuring folder tree, tag browsing, file previews, keyboard navigation, drag-and-drop, pinned notes, and customizable display options.
+以简洁的双窗格界面取代默认文件资源管理器，该界面具有文件夹树、标签浏览、文件预览、键盘导航、拖放、固定备注和可定制的显示选项。
 
 通过 Notebook Navigator,您可以:
 
@@ -199,10 +199,10 @@ Replace the default file explorer with a clean two-pane interface featuring fold
 - **插件 ID**：notebook-navigator
 - **作者**：Johan Sanneblad
 - **当前版本**：v1.0.0
-- **下载量**：68.2K
+- **下载量**：69.4K
 - **最后更新**：2025-10-02
 - **GitHub**：[johansan/notebook-navigator](https://github.com/johansan/notebook-navigator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

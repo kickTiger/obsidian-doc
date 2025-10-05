@@ -1,12 +1,12 @@
 ---
 title: File Color
-description: Set colors on folders and files in the file tree.
+description: 为文件树中的文件夹和文件设置颜色。
 author: ecustic
-downloads: 141962
+downloads: 142189
 updated: 1701558901000
 repo: ecustic/obsidian-file-color
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-file-color"
   name="File Color"
-  description="Set colors on folders and files in the file tree."
+  description="为文件树中的文件夹和文件设置颜色。"
   author="ecustic"
-  :downloads="141962"
+  :downloads="142189"
   :updated="1701558901000"
   repo="ecustic/obsidian-file-color"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Color 是一个功能强大的 Obsidian 插件。
 
-Set colors on folders and files in the file tree.
+为文件树中的文件夹和文件设置颜色。
 
 通过 File Color,您可以:
 
@@ -199,10 +199,10 @@ Set colors on folders and files in the file tree.
 - **插件 ID**：obsidian-file-color
 - **作者**：ecustic
 - **当前版本**：v1.0.0
-- **下载量**：142.0K
+- **下载量**：142.2K
 - **最后更新**：2023-12-03
 - **GitHub**：[ecustic/obsidian-file-color](https://github.com/ecustic/obsidian-file-color)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

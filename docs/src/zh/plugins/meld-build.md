@@ -1,12 +1,12 @@
 ---
 title: Meld Build
-description: Write and execute (sandboxed) JavaScript to render templates, query DataView and create dynamic notes.
+description: 编写和执行（沙盒）JavaScript，以呈现模板、查询 DataView 和创建动态注释。
 author: meld-cp
 downloads: 4479
 updated: 1679780600000
 repo: meld-cp/obsidian-build
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="meld-build"
   name="Meld Build"
-  description="Write and execute (sandboxed) JavaScript to render templates, query DataView and create dynamic notes."
+  description="编写和执行（沙盒）JavaScript，以呈现模板、查询 DataView 和创建动态注释。"
   author="meld-cp"
   :downloads="4479"
   :updated="1679780600000"
   repo="meld-cp/obsidian-build"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Meld Build 是一个功能强大的 Obsidian 插件。
 
-Write and execute (sandboxed) JavaScript to render templates, query DataView and create dynamic notes.
+编写和执行（沙盒）JavaScript，以呈现模板、查询 DataView 和创建动态注释。
 
 通过 Meld Build,您可以:
 
@@ -202,7 +202,7 @@ Write and execute (sandboxed) JavaScript to render templates, query DataView and
 - **下载量**：4.5K
 - **最后更新**：2023-03-26
 - **GitHub**：[meld-cp/obsidian-build](https://github.com/meld-cp/obsidian-build)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

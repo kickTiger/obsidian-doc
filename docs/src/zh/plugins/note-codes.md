@@ -2,11 +2,11 @@
 title: Note Codes
 description: Reference your notes from anywhere with simple 4-character codes.
 author: Ezhik
-downloads: 537
+downloads: 541
 updated: 1756339302000
 repo: SilverEzhik/obsidian-note-codes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note Codes"
   description="Reference your notes from anywhere with simple 4-character codes."
   author="Ezhik"
-  :downloads="537"
+  :downloads="541"
   :updated="1756339302000"
   repo="SilverEzhik/obsidian-note-codes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Reference your notes from anywhere with simple 4-character codes.
 - **插件 ID**：note-codes
 - **作者**：Ezhik
 - **当前版本**：v1.0.0
-- **下载量**：537
+- **下载量**：541
 - **最后更新**：2025-08-28
 - **GitHub**：[SilverEzhik/obsidian-note-codes](https://github.com/SilverEzhik/obsidian-note-codes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

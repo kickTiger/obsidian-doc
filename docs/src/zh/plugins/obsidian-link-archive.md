@@ -1,12 +1,12 @@
 ---
 title: Link Archive
-description: 'Archive links in your note so they''re available to you even if the original site goes down or gets removed.'
+description: 在备注中归档链接，这样即使原始网站瘫痪或被删除，你也可以使用它们。
 author: Tamás Deme
-downloads: 6573
+downloads: 6574
 updated: 1635128156000
 repo: tomzorz/obsidian-link-archive
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-link-archive"
   name="Link Archive"
-  description="Archive links in your note so they&#39;re available to you even if the original site goes down or gets removed."
+  description="在备注中归档链接，这样即使原始网站瘫痪或被删除，你也可以使用它们。"
   author="Tamás Deme"
-  :downloads="6573"
+  :downloads="6574"
   :updated="1635128156000"
   repo="tomzorz/obsidian-link-archive"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Link Archive 是一个功能强大的 Obsidian 插件。
 
-Archive links in your note so they&#39;re available to you even if the original site goes down or gets removed.
+在备注中归档链接，这样即使原始网站瘫痪或被删除，你也可以使用它们。
 
 通过 Link Archive,您可以:
 
@@ -202,7 +202,7 @@ Archive links in your note so they&#39;re available to you even if the original 
 - **下载量**：6.6K
 - **最后更新**：2021-10-25
 - **GitHub**：[tomzorz/obsidian-link-archive](https://github.com/tomzorz/obsidian-link-archive)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

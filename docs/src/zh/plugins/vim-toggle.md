@@ -1,12 +1,12 @@
 ---
 title: Vim Toggle
-description: Toggle Vim on/off and customize toggling behavior.
+description: 切换 Vim 的开/关，并自定义切换行为。
 author: Conner Ohnesorge
-downloads: 7654
+downloads: 7664
 updated: 1755538855000
 repo: conneroisu/vim-toggle
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vim-toggle"
   name="Vim Toggle"
-  description="Toggle Vim on/off and customize toggling behavior."
+  description="切换 Vim 的开/关，并自定义切换行为。"
   author="Conner Ohnesorge"
-  :downloads="7654"
+  :downloads="7664"
   :updated="1755538855000"
   repo="conneroisu/vim-toggle"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vim Toggle 是一个功能强大的 Obsidian 插件。
 
-Toggle Vim on/off and customize toggling behavior.
+切换 Vim 的开/关，并自定义切换行为。
 
 通过 Vim Toggle,您可以:
 
@@ -202,7 +202,7 @@ Toggle Vim on/off and customize toggling behavior.
 - **下载量**：7.7K
 - **最后更新**：2025-08-19
 - **GitHub**：[conneroisu/vim-toggle](https://github.com/conneroisu/vim-toggle)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

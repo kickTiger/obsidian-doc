@@ -1,12 +1,12 @@
 ---
 title: ActivityWatch
-description: Integrate with ActivityWatch to allow detailed tracking of time spent in Obsidian.
+description: 与 ActivityWatch 集成，可详细跟踪在 Obsidian 中花费的时间。
 author: Grimmauld
-downloads: 6315
+downloads: 6336
 updated: 1677153939000
 repo: LordGrimmauld/aw-watcher-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="aw-watcher-obsidian"
   name="ActivityWatch"
-  description="Integrate with ActivityWatch to allow detailed tracking of time spent in Obsidian."
+  description="与 ActivityWatch 集成，可详细跟踪在 Obsidian 中花费的时间。"
   author="Grimmauld"
-  :downloads="6315"
+  :downloads="6336"
   :updated="1677153939000"
   repo="LordGrimmauld/aw-watcher-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ActivityWatch 是一个功能强大的 Obsidian 插件。
 
-Integrate with ActivityWatch to allow detailed tracking of time spent in Obsidian.
+与 ActivityWatch 集成，可详细跟踪在 Obsidian 中花费的时间。
 
 通过 ActivityWatch,您可以:
 
@@ -202,7 +202,7 @@ Integrate with ActivityWatch to allow detailed tracking of time spent in Obsidia
 - **下载量**：6.3K
 - **最后更新**：2023-02-23
 - **GitHub**：[LordGrimmauld/aw-watcher-obsidian](https://github.com/LordGrimmauld/aw-watcher-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

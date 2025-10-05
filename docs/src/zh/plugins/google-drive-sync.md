@@ -1,12 +1,12 @@
 ---
 title: Google Drive Sync
-description: Syncs a vault into Google Drive for cross-platform use (works for iOS).
+description: 将保险库同步到 Google Drive，供跨平台使用（适用于 iOS）。
 author: Richard Xiong
-downloads: 48241
+downloads: 48505
 updated: 1733042855000
 repo: RichardX366/Obsidian-Google-Drive
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="google-drive-sync"
   name="Google Drive Sync"
-  description="Syncs a vault into Google Drive for cross-platform use (works for iOS)."
+  description="将保险库同步到 Google Drive，供跨平台使用（适用于 iOS）。"
   author="Richard Xiong"
-  :downloads="48241"
+  :downloads="48505"
   :updated="1733042855000"
   repo="RichardX366/Obsidian-Google-Drive"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Google Drive Sync 是一个功能强大的 Obsidian 插件。
 
-Syncs a vault into Google Drive for cross-platform use (works for iOS).
+将保险库同步到 Google Drive，供跨平台使用（适用于 iOS）。
 
 通过 Google Drive Sync,您可以:
 
@@ -199,10 +199,10 @@ Syncs a vault into Google Drive for cross-platform use (works for iOS).
 - **插件 ID**：google-drive-sync
 - **作者**：Richard Xiong
 - **当前版本**：v1.0.0
-- **下载量**：48.2K
+- **下载量**：48.5K
 - **最后更新**：2024-12-01
 - **GitHub**：[RichardX366/Obsidian-Google-Drive](https://github.com/RichardX366/Obsidian-Google-Drive)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Colored Tags
-description: Colorize tags in different colors to visually distinguish them from each other. Colors of nested tags are mixed with parent tags. Text color contrast is automatically matched to comply with AA level WCAG 2.1.
+description: 用不同的颜色给标签着色，以便在视觉上区分它们。嵌套标签的颜色与父标签混合。文本颜色对比会自动匹配，以符合 AA 级 WCAG 2.1 标准。
 author: Pavel Frankov
-downloads: 96172
+downloads: 96339
 updated: 1722729698000
 repo: pfrankov/obsidian-colored-tags
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="colored-tags"
   name="Colored Tags"
-  description="Colorize tags in different colors to visually distinguish them from each other. Colors of nested tags are mixed with parent tags. Text color contrast is automatically matched to comply with AA level WCAG 2.1."
+  description="用不同的颜色给标签着色，以便在视觉上区分它们。嵌套标签的颜色与父标签混合。文本颜色对比会自动匹配，以符合 AA 级 WCAG 2.1 标准。"
   author="Pavel Frankov"
-  :downloads="96172"
+  :downloads="96339"
   :updated="1722729698000"
   repo="pfrankov/obsidian-colored-tags"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Colored Tags 是一个功能强大的 Obsidian 插件。
 
-Colorize tags in different colors to visually distinguish them from each other. Colors of nested tags are mixed with parent tags. Text color contrast is automatically matched to comply with AA level WCAG 2.1.
+用不同的颜色给标签着色，以便在视觉上区分它们。嵌套标签的颜色与父标签混合。文本颜色对比会自动匹配，以符合 AA 级 WCAG 2.1 标准。
 
 通过 Colored Tags,您可以:
 
@@ -199,10 +199,10 @@ Colorize tags in different colors to visually distinguish them from each other. 
 - **插件 ID**：colored-tags
 - **作者**：Pavel Frankov
 - **当前版本**：v1.0.0
-- **下载量**：96.2K
+- **下载量**：96.3K
 - **最后更新**：2024-08-04
 - **GitHub**：[pfrankov/obsidian-colored-tags](https://github.com/pfrankov/obsidian-colored-tags)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

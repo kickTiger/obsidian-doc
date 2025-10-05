@@ -2,11 +2,11 @@
 title: Project Tasks
 description: 'Allows you to easily create linked tasks for projects by managing the task ID''s and dependencies.'
 author: Paul Paterson
-downloads: 1256
+downloads: 1260
 updated: 1732815096000
 repo: paulpaterson/obsidian-project-tasks
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Project Tasks"
   description="Allows you to easily create linked tasks for projects by managing the task ID&#39;s and dependencies."
   author="Paul Paterson"
-  :downloads="1256"
+  :downloads="1260"
   :updated="1732815096000"
   repo="paulpaterson/obsidian-project-tasks"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Allows you to easily create linked tasks for projects by managing the task ID&#3
 - **下载量**：1.3K
 - **最后更新**：2024-11-29
 - **GitHub**：[paulpaterson/obsidian-project-tasks](https://github.com/paulpaterson/obsidian-project-tasks)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

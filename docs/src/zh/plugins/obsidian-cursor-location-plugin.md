@@ -1,12 +1,12 @@
 ---
 title: Cursor Location
-description: Display the location of the cursor (character and line number).
+description: 显示光标的位置（字符和行号）。
 author: Sean Slater
-downloads: 10335
+downloads: 10345
 updated: 1759295854000
 repo: spslater/obsidian-cursor-location-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-cursor-location-plugin"
   name="Cursor Location"
-  description="Display the location of the cursor (character and line number)."
+  description="显示光标的位置（字符和行号）。"
   author="Sean Slater"
-  :downloads="10335"
+  :downloads="10345"
   :updated="1759295854000"
   repo="spslater/obsidian-cursor-location-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Cursor Location 是一个功能强大的 Obsidian 插件。
 
-Display the location of the cursor (character and line number).
+显示光标的位置（字符和行号）。
 
 通过 Cursor Location,您可以:
 
@@ -202,7 +202,7 @@ Display the location of the cursor (character and line number).
 - **下载量**：10.3K
 - **最后更新**：2025-10-01
 - **GitHub**：[spslater/obsidian-cursor-location-plugin](https://github.com/spslater/obsidian-cursor-location-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

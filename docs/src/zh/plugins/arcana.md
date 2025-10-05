@@ -1,12 +1,12 @@
 ---
 title: Arcana
-description: Supercharge your note-taking through AI-powered insights and suggestions.
+description: 通过人工智能驱动的洞察力和建议，为您的笔记增光添彩。
 author: A-F-V
-downloads: 8004
+downloads: 8005
 updated: 1744644532000
 repo: A-F-V/obsidian-arcana
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="arcana"
   name="Arcana"
-  description="Supercharge your note-taking through AI-powered insights and suggestions."
+  description="通过人工智能驱动的洞察力和建议，为您的笔记增光添彩。"
   author="A-F-V"
-  :downloads="8004"
+  :downloads="8005"
   :updated="1744644532000"
   repo="A-F-V/obsidian-arcana"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Arcana 是一个功能强大的 Obsidian 插件。
 
-Supercharge your note-taking through AI-powered insights and suggestions.
+通过人工智能驱动的洞察力和建议，为您的笔记增光添彩。
 
 通过 Arcana,您可以:
 
@@ -202,7 +202,7 @@ Supercharge your note-taking through AI-powered insights and suggestions.
 - **下载量**：8.0K
 - **最后更新**：2025-04-14
 - **GitHub**：[A-F-V/obsidian-arcana](https://github.com/A-F-V/obsidian-arcana)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Abbreviations expander
-description: 'Easily create abbreviations that will be expanded after hitting `Space`.'
+description: '轻松创建缩写，点击 "空格 "后即可展开。'
 author: Yann POMIE (WoodenMaiden)
-downloads: 4873
+downloads: 4878
 updated: 1716312460000
 repo: WoodenMaiden/obsidian-abbreviations
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="abbreviations"
   name="Abbreviations expander"
-  description="Easily create abbreviations that will be expanded after hitting `Space`."
+  description="轻松创建缩写，点击 &quot;空格 &quot;后即可展开。"
   author="Yann POMIE (WoodenMaiden)"
-  :downloads="4873"
+  :downloads="4878"
   :updated="1716312460000"
   repo="WoodenMaiden/obsidian-abbreviations"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Abbreviations expander 是一个功能强大的 Obsidian 插件。
 
-Easily create abbreviations that will be expanded after hitting `Space`.
+轻松创建缩写，点击 &quot;空格 &quot;后即可展开。
 
 通过 Abbreviations expander,您可以:
 
@@ -202,7 +202,7 @@ Easily create abbreviations that will be expanded after hitting `Space`.
 - **下载量**：4.9K
 - **最后更新**：2024-05-22
 - **GitHub**：[WoodenMaiden/obsidian-abbreviations](https://github.com/WoodenMaiden/obsidian-abbreviations)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

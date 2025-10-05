@@ -1,12 +1,12 @@
 ---
 title: Simple Mention
-description: Get highlighted mentions and mention suggestions. Find all occurrences of a mention.
+description: 获取高亮显示的提及和提及建议。查找提及内容的所有出现次数。
 author: der-tobi
-downloads: 5831
+downloads: 5832
 updated: 1684955798000
 repo: der-tobi/obsidian-simple-mention
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-simple-mention"
   name="Simple Mention"
-  description="Get highlighted mentions and mention suggestions. Find all occurrences of a mention."
+  description="获取高亮显示的提及和提及建议。查找提及内容的所有出现次数。"
   author="der-tobi"
-  :downloads="5831"
+  :downloads="5832"
   :updated="1684955798000"
   repo="der-tobi/obsidian-simple-mention"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Simple Mention 是一个功能强大的 Obsidian 插件。
 
-Get highlighted mentions and mention suggestions. Find all occurrences of a mention.
+获取高亮显示的提及和提及建议。查找提及内容的所有出现次数。
 
 通过 Simple Mention,您可以:
 
@@ -202,7 +202,7 @@ Get highlighted mentions and mention suggestions. Find all occurrences of a ment
 - **下载量**：5.8K
 - **最后更新**：2023-05-25
 - **GitHub**：[der-tobi/obsidian-simple-mention](https://github.com/der-tobi/obsidian-simple-mention)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

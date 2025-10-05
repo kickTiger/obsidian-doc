@@ -1,12 +1,12 @@
 ---
 title: Neo4j Graph View
-description: Advanced graph visualization and querying using Neo4j.
+description: 使用 Neo4j 进行高级图形可视化和查询。
 author: Emile van Krieken
-downloads: 10740
+downloads: 10743
 updated: 1618842101000
 repo: HEmile/obsidian-neo4j-graph-view
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="neo4j-graph-view"
   name="Neo4j Graph View"
-  description="Advanced graph visualization and querying using Neo4j."
+  description="使用 Neo4j 进行高级图形可视化和查询。"
   author="Emile van Krieken"
-  :downloads="10740"
+  :downloads="10743"
   :updated="1618842101000"
   repo="HEmile/obsidian-neo4j-graph-view"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Neo4j Graph View 是一个功能强大的 Obsidian 插件。
 
-Advanced graph visualization and querying using Neo4j.
+使用 Neo4j 进行高级图形可视化和查询。
 
 通过 Neo4j Graph View,您可以:
 
@@ -202,7 +202,7 @@ Advanced graph visualization and querying using Neo4j.
 - **下载量**：10.7K
 - **最后更新**：2021-04-19
 - **GitHub**：[HEmile/obsidian-neo4j-graph-view](https://github.com/HEmile/obsidian-neo4j-graph-view)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Local REST API
-description: Unlock your automation needs by interacting with your notes over a secure REST API.
+description: 通过安全的 REST API 与笔记进行交互，满足您的自动化需求。
 author: Adam Coddington
-downloads: 167778
+downloads: 168213
 updated: 1748204158000
 repo: coddingtonbear/obsidian-local-rest-api
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-local-rest-api"
   name="Local REST API"
-  description="Unlock your automation needs by interacting with your notes over a secure REST API."
+  description="通过安全的 REST API 与笔记进行交互，满足您的自动化需求。"
   author="Adam Coddington"
-  :downloads="167778"
+  :downloads="168213"
   :updated="1748204158000"
   repo="coddingtonbear/obsidian-local-rest-api"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Local REST API 是一个功能强大的 Obsidian 插件。
 
-Unlock your automation needs by interacting with your notes over a secure REST API.
+通过安全的 REST API 与笔记进行交互，满足您的自动化需求。
 
 通过 Local REST API,您可以:
 
@@ -199,10 +199,10 @@ Unlock your automation needs by interacting with your notes over a secure REST A
 - **插件 ID**：obsidian-local-rest-api
 - **作者**：Adam Coddington
 - **当前版本**：v1.0.0
-- **下载量**：167.8K
+- **下载量**：168.2K
 - **最后更新**：2025-05-26
 - **GitHub**：[coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

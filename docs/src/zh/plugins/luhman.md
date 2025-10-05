@@ -1,12 +1,12 @@
 ---
 title: Luhman
-description: Commands for handling a zettelkasten with Luhman-style IDs as filenames.
+description: 处理以 Luhman 风格 ID 作为文件名的 zettelkasten 的命令。
 author: Dylan Elliott
-downloads: 16619
+downloads: 16621
 updated: 1684280976000
 repo: Dyldog/luhman-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="luhman"
   name="Luhman"
-  description="Commands for handling a zettelkasten with Luhman-style IDs as filenames."
+  description="处理以 Luhman 风格 ID 作为文件名的 zettelkasten 的命令。"
   author="Dylan Elliott"
-  :downloads="16619"
+  :downloads="16621"
   :updated="1684280976000"
   repo="Dyldog/luhman-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Luhman 是一个功能强大的 Obsidian 插件。
 
-Commands for handling a zettelkasten with Luhman-style IDs as filenames.
+处理以 Luhman 风格 ID 作为文件名的 zettelkasten 的命令。
 
 通过 Luhman,您可以:
 
@@ -202,7 +202,7 @@ Commands for handling a zettelkasten with Luhman-style IDs as filenames.
 - **下载量**：16.6K
 - **最后更新**：2023-05-17
 - **GitHub**：[Dyldog/luhman-obsidian-plugin](https://github.com/Dyldog/luhman-obsidian-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

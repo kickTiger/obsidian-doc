@@ -1,12 +1,12 @@
 ---
 title: Anki Sync
-description: Make flashcards and sync them to Anki.
+description: 制作闪存卡并同步到 Anki。
 author: debanjandhar12
-downloads: 10009
+downloads: 10011
 updated: 1638211123000
 repo: debanjandhar12/Obsidian-Anki-Sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ObsidianAnkiSync"
   name="Anki Sync"
-  description="Make flashcards and sync them to Anki."
+  description="制作闪存卡并同步到 Anki。"
   author="debanjandhar12"
-  :downloads="10009"
+  :downloads="10011"
   :updated="1638211123000"
   repo="debanjandhar12/Obsidian-Anki-Sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Anki Sync 是一个功能强大的 Obsidian 插件。
 
-Make flashcards and sync them to Anki.
+制作闪存卡并同步到 Anki。
 
 通过 Anki Sync,您可以:
 
@@ -202,7 +202,7 @@ Make flashcards and sync them to Anki.
 - **下载量**：10.0K
 - **最后更新**：2021-11-30
 - **GitHub**：[debanjandhar12/Obsidian-Anki-Sync](https://github.com/debanjandhar12/Obsidian-Anki-Sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

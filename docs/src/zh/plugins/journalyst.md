@@ -1,12 +1,12 @@
 ---
 title: Journalyst
-description: Journalyst enables easy creation of topic-specific journals. Organize your life into categories like sleep, routines, or work, with daily or recurring entries for effortless tracking and reflection.
+description: Journalyst 可以轻松创建特定主题的日志。将你的生活分为睡眠、例行公事或工作等类别，每天或定期记录，轻松跟踪和反思。
 author: Justin Arnold
-downloads: 3676
+downloads: 3678
 updated: 1721971037000
 repo: Justin-Arnold/Journalyst
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="journalyst"
   name="Journalyst"
-  description="Journalyst enables easy creation of topic-specific journals. Organize your life into categories like sleep, routines, or work, with daily or recurring entries for effortless tracking and reflection."
+  description="Journalyst 可以轻松创建特定主题的日志。将你的生活分为睡眠、例行公事或工作等类别，每天或定期记录，轻松跟踪和反思。"
   author="Justin Arnold"
-  :downloads="3676"
+  :downloads="3678"
   :updated="1721971037000"
   repo="Justin-Arnold/Journalyst"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Journalyst 是一个功能强大的 Obsidian 插件。
 
-Journalyst enables easy creation of topic-specific journals. Organize your life into categories like sleep, routines, or work, with daily or recurring entries for effortless tracking and reflection.
+Journalyst 可以轻松创建特定主题的日志。将你的生活分为睡眠、例行公事或工作等类别，每天或定期记录，轻松跟踪和反思。
 
 通过 Journalyst,您可以:
 
@@ -202,7 +202,7 @@ Journalyst enables easy creation of topic-specific journals. Organize your life 
 - **下载量**：3.7K
 - **最后更新**：2024-07-26
 - **GitHub**：[Justin-Arnold/Journalyst](https://github.com/Justin-Arnold/Journalyst)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

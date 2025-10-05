@@ -2,11 +2,11 @@
 title: Generate Timeline
 description: Generate timelines from tag or folder automatically by any time properties.
 author: Shanshuimei
-downloads: 1744
+downloads: 1745
 updated: 1747455250000
 repo: Shanshuimei/obsidian-generate-timeline
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Generate Timeline"
   description="Generate timelines from tag or folder automatically by any time properties."
   author="Shanshuimei"
-  :downloads="1744"
+  :downloads="1745"
   :updated="1747455250000"
   repo="Shanshuimei/obsidian-generate-timeline"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate timelines from tag or folder automatically by any time properties.
 - **下载量**：1.7K
 - **最后更新**：2025-05-17
 - **GitHub**：[Shanshuimei/obsidian-generate-timeline](https://github.com/Shanshuimei/obsidian-generate-timeline)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

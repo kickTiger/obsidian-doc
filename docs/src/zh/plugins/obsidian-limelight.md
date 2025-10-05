@@ -1,12 +1,12 @@
 ---
 title: Limelight
-description: Spotlight your active pane.
+description: 聚焦您的活动窗格。
 author: Scott Mikula
 downloads: 5971
 updated: 1635039013000
 repo: smikula/obsidian-limelight
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-limelight"
   name="Limelight"
-  description="Spotlight your active pane."
+  description="聚焦您的活动窗格。"
   author="Scott Mikula"
   :downloads="5971"
   :updated="1635039013000"
   repo="smikula/obsidian-limelight"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Limelight 是一个功能强大的 Obsidian 插件。
 
-Spotlight your active pane.
+聚焦您的活动窗格。
 
 通过 Limelight,您可以:
 
@@ -202,7 +202,7 @@ Spotlight your active pane.
 - **下载量**：6.0K
 - **最后更新**：2021-10-24
 - **GitHub**：[smikula/obsidian-limelight](https://github.com/smikula/obsidian-limelight)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

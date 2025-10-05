@@ -6,7 +6,7 @@ downloads: 2357
 updated: 1697808830000
 repo: Dzoukr/MoonServerObsidianPlugin
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1697808830000"
   repo="Dzoukr/MoonServerObsidianPlugin"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish your notes directly to Moon server instance.
 - **下载量**：2.4K
 - **最后更新**：2023-10-20
 - **GitHub**：[Dzoukr/MoonServerObsidianPlugin](https://github.com/Dzoukr/MoonServerObsidianPlugin)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Text Format
-description: Format selected text upper/lower/capitalize.
+description: 格式化选定文本为小写、大写、大写首字母或标题格式。
 author: Benature
-downloads: 186532
+downloads: 186648
 updated: 1721554620000
 repo: Benature/obsidian-text-format
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-text-format"
   name="Text Format"
-  description="Format selected text upper/lower/capitalize."
+  description="格式化选定文本为小写、大写、大写首字母或标题格式。"
   author="Benature"
-  :downloads="186532"
+  :downloads="186648"
   :updated="1721554620000"
   repo="Benature/obsidian-text-format"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text Format 是一个功能强大的 Obsidian 插件。
 
-Format selected text upper/lower/capitalize.
+格式化选定文本为小写、大写、大写首字母或标题格式。
 
 通过 Text Format,您可以:
 
@@ -199,10 +199,10 @@ Format selected text upper/lower/capitalize.
 - **插件 ID**：obsidian-text-format
 - **作者**：Benature
 - **当前版本**：v1.0.0
-- **下载量**：186.5K
+- **下载量**：186.6K
 - **最后更新**：2024-07-21
 - **GitHub**：[Benature/obsidian-text-format](https://github.com/Benature/obsidian-text-format)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

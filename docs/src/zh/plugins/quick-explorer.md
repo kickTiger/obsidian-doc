@@ -1,12 +1,12 @@
 ---
 title: Quick Explorer
-description: Perform file explorer operations (and see your current file path) from the title bar, using the mouse or keyboard.
+description: 使用鼠标或键盘从标题栏执行文件资源管理器操作（并查看当前文件路径）。
 author: PJ Eby
-downloads: 132050
+downloads: 132089
 updated: 1742683526000
 repo: pjeby/quick-explorer
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quick-explorer"
   name="Quick Explorer"
-  description="Perform file explorer operations (and see your current file path) from the title bar, using the mouse or keyboard."
+  description="使用鼠标或键盘从标题栏执行文件资源管理器操作（并查看当前文件路径）。"
   author="PJ Eby"
-  :downloads="132050"
+  :downloads="132089"
   :updated="1742683526000"
   repo="pjeby/quick-explorer"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quick Explorer 是一个功能强大的 Obsidian 插件。
 
-Perform file explorer operations (and see your current file path) from the title bar, using the mouse or keyboard.
+使用鼠标或键盘从标题栏执行文件资源管理器操作（并查看当前文件路径）。
 
 通过 Quick Explorer,您可以:
 
@@ -202,7 +202,7 @@ Perform file explorer operations (and see your current file path) from the title
 - **下载量**：132.1K
 - **最后更新**：2025-03-23
 - **GitHub**：[pjeby/quick-explorer](https://github.com/pjeby/quick-explorer)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

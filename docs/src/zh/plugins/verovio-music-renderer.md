@@ -2,11 +2,11 @@
 title: Verovio Music Renderer
 description: Verovio Music Renderer displays musical notation from various formats (MEI, MusicXML, abc) and plays it back.
 author: Kornelius Paede
-downloads: 968
+downloads: 972
 updated: 1757945705000
 repo: kpaede/Verovio-Music-Renderer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Verovio Music Renderer"
   description="Verovio Music Renderer displays musical notation from various formats (MEI, MusicXML, abc) and plays it back."
   author="Kornelius Paede"
-  :downloads="968"
+  :downloads="972"
   :updated="1757945705000"
   repo="kpaede/Verovio-Music-Renderer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Verovio Music Renderer displays musical notation from various formats (MEI, Musi
 - **插件 ID**：verovio-music-renderer
 - **作者**：Kornelius Paede
 - **当前版本**：v1.0.0
-- **下载量**：968
+- **下载量**：972
 - **最后更新**：2025-09-15
 - **GitHub**：[kpaede/Verovio-Music-Renderer](https://github.com/kpaede/Verovio-Music-Renderer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

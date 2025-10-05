@@ -1,12 +1,12 @@
 ---
 title: Workbench
-description: Keep a workbench of knowledge materials.
+description: 准备一个知识资料工作台。
 author: ryanjamurphy
-downloads: 27453
+downloads: 27455
 updated: 1711465621000
 repo: ryanjamurphy/workbench-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="workbench-obsidian"
   name="Workbench"
-  description="Keep a workbench of knowledge materials."
+  description="准备一个知识资料工作台。"
   author="ryanjamurphy"
-  :downloads="27453"
+  :downloads="27455"
   :updated="1711465621000"
   repo="ryanjamurphy/workbench-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Workbench 是一个功能强大的 Obsidian 插件。
 
-Keep a workbench of knowledge materials.
+准备一个知识资料工作台。
 
 通过 Workbench,您可以:
 
@@ -202,7 +202,7 @@ Keep a workbench of knowledge materials.
 - **下载量**：27.5K
 - **最后更新**：2024-03-26
 - **GitHub**：[ryanjamurphy/workbench-obsidian](https://github.com/ryanjamurphy/workbench-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

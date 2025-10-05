@@ -1,12 +1,12 @@
 ---
 title: Ketcher
-description: View or draw chemical structures and reactions using Ketcher.
+description: 使用 Ketcher 查看或绘制化学结构和反应。
 author: Yulei Chen
-downloads: 7576
+downloads: 7581
 updated: 1692672925000
 repo: yulei-chen/obsidian-ketcher
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ketcher"
   name="Ketcher"
-  description="View or draw chemical structures and reactions using Ketcher."
+  description="使用 Ketcher 查看或绘制化学结构和反应。"
   author="Yulei Chen"
-  :downloads="7576"
+  :downloads="7581"
   :updated="1692672925000"
   repo="yulei-chen/obsidian-ketcher"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ketcher 是一个功能强大的 Obsidian 插件。
 
-View or draw chemical structures and reactions using Ketcher.
+使用 Ketcher 查看或绘制化学结构和反应。
 
 通过 Ketcher,您可以:
 
@@ -202,7 +202,7 @@ View or draw chemical structures and reactions using Ketcher.
 - **下载量**：7.6K
 - **最后更新**：2023-08-22
 - **GitHub**：[yulei-chen/obsidian-ketcher](https://github.com/yulei-chen/obsidian-ketcher)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

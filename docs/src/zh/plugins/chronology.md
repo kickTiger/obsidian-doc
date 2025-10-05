@@ -1,12 +1,12 @@
 ---
 title: Chronology
-description: 'A calendar and a timeline of the note''s creation and modification.'
+description: 创建和修改便笺的日历和时间表。
 author: Gabriele Cannata
-downloads: 57957
+downloads: 57987
 updated: 1746285953000
 repo: Canna71/obsidian-chronology
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chronology"
   name="Chronology"
-  description="A calendar and a timeline of the note&#39;s creation and modification."
+  description="创建和修改便笺的日历和时间表。"
   author="Gabriele Cannata"
-  :downloads="57957"
+  :downloads="57987"
   :updated="1746285953000"
   repo="Canna71/obsidian-chronology"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chronology 是一个功能强大的 Obsidian 插件。
 
-A calendar and a timeline of the note&#39;s creation and modification.
+创建和修改便笺的日历和时间表。
 
 通过 Chronology,您可以:
 
@@ -202,7 +202,7 @@ A calendar and a timeline of the note&#39;s creation and modification.
 - **下载量**：58.0K
 - **最后更新**：2025-05-03
 - **GitHub**：[Canna71/obsidian-chronology](https://github.com/Canna71/obsidian-chronology)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

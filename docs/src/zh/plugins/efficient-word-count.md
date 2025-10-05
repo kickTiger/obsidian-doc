@@ -2,11 +2,11 @@
 title: Efficient Word Count
 description: Efficiently calculates and caches word counts for notes, with folder exclusion. Uses cache to avoid recalculating word counts for unchanged notes.
 author: Blue Heron
-downloads: 128
+downloads: 129
 updated: 1750368848000
 repo: blueheron786/obsidian-efficient-word-count
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Efficient Word Count"
   description="Efficiently calculates and caches word counts for notes, with folder exclusion. Uses cache to avoid recalculating word counts for unchanged notes."
   author="Blue Heron"
-  :downloads="128"
+  :downloads="129"
   :updated="1750368848000"
   repo="blueheron786/obsidian-efficient-word-count"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Efficiently calculates and caches word counts for notes, with folder exclusion. 
 - **插件 ID**：efficient-word-count
 - **作者**：Blue Heron
 - **当前版本**：v1.0.0
-- **下载量**：128
+- **下载量**：129
 - **最后更新**：2025-06-20
 - **GitHub**：[blueheron786/obsidian-efficient-word-count](https://github.com/blueheron786/obsidian-efficient-word-count)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

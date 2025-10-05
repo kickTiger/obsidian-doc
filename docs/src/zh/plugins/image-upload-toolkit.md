@@ -1,12 +1,12 @@
 ---
 title: Image Upload Toolkit
-description: Upload local images embedded in Markdown to remote store and export Markdown with image public URL for publishing to static site. Currently, it supports Imgur, Aliyun OSS, ImageKit and AWS S3.
+description: 将嵌入 Markdown 的本地图片上传到远程存储区，并导出带有图片公共 URL 的 Markdown，以便发布到静态网站。目前，它支持 Imgur、阿里云 OSS、ImageKit 和 AWS S3。
 author: Addo Zhang
-downloads: 9359
+downloads: 9367
 updated: 1754350616000
 repo: addozhang/obsidian-image-upload-toolkit
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="image-upload-toolkit"
   name="Image Upload Toolkit"
-  description="Upload local images embedded in Markdown to remote store and export Markdown with image public URL for publishing to static site. Currently, it supports Imgur, Aliyun OSS, ImageKit and AWS S3."
+  description="将嵌入 Markdown 的本地图片上传到远程存储区，并导出带有图片公共 URL 的 Markdown，以便发布到静态网站。目前，它支持 Imgur、阿里云 OSS、ImageKit 和 AWS S3。"
   author="Addo Zhang"
-  :downloads="9359"
+  :downloads="9367"
   :updated="1754350616000"
   repo="addozhang/obsidian-image-upload-toolkit"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Upload Toolkit 是一个功能强大的 Obsidian 插件。
 
-Upload local images embedded in Markdown to remote store and export Markdown with image public URL for publishing to static site. Currently, it supports Imgur, Aliyun OSS, ImageKit and AWS S3.
+将嵌入 Markdown 的本地图片上传到远程存储区，并导出带有图片公共 URL 的 Markdown，以便发布到静态网站。目前，它支持 Imgur、阿里云 OSS、ImageKit 和 AWS S3。
 
 通过 Image Upload Toolkit,您可以:
 
@@ -202,7 +202,7 @@ Upload local images embedded in Markdown to remote store and export Markdown wit
 - **下载量**：9.4K
 - **最后更新**：2025-08-05
 - **GitHub**：[addozhang/obsidian-image-upload-toolkit](https://github.com/addozhang/obsidian-image-upload-toolkit)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

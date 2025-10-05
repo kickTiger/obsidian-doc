@@ -6,7 +6,7 @@ downloads: 2719
 updated: 1729256002000
 repo: tech-reclipped/ReClipped-Obsidian-Official
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1729256002000"
   repo="tech-reclipped/ReClipped-Obsidian-Official"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Official ReClipped integration.
 - **下载量**：2.7K
 - **最后更新**：2024-10-18
 - **GitHub**：[tech-reclipped/ReClipped-Obsidian-Official](https://github.com/tech-reclipped/ReClipped-Obsidian-Official)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

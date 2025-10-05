@@ -6,7 +6,7 @@ downloads: 212
 updated: 1734943270000
 repo: dsebastien/obsidian-replicate
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1734943270000"
   repo="dsebastien/obsidian-replicate"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Replicate.com integration. Generate images using AI.
 - **下载量**：212
 - **最后更新**：2024-12-23
 - **GitHub**：[dsebastien/obsidian-replicate](https://github.com/dsebastien/obsidian-replicate)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

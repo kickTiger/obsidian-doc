@@ -1,12 +1,12 @@
 ---
 title: Datacore
-description: An even faster reactive query engine for the data obsessed.
+description: 为数据痴迷者提供更快的反应式查询引擎。
 author: Michael Brenan
-downloads: 147987
+downloads: 148588
 updated: 1757924931000
 repo: blacksmithgu/datacore
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="datacore"
   name="Datacore"
-  description="An even faster reactive query engine for the data obsessed."
+  description="为数据痴迷者提供更快的反应式查询引擎。"
   author="Michael Brenan"
-  :downloads="147987"
+  :downloads="148588"
   :updated="1757924931000"
   repo="blacksmithgu/datacore"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Datacore 是一个功能强大的 Obsidian 插件。
 
-An even faster reactive query engine for the data obsessed.
+为数据痴迷者提供更快的反应式查询引擎。
 
 通过 Datacore,您可以:
 
@@ -199,10 +199,10 @@ An even faster reactive query engine for the data obsessed.
 - **插件 ID**：datacore
 - **作者**：Michael Brenan
 - **当前版本**：v1.0.0
-- **下载量**：148.0K
+- **下载量**：148.6K
 - **最后更新**：2025-09-15
 - **GitHub**：[blacksmithgu/datacore](https://github.com/blacksmithgu/datacore)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

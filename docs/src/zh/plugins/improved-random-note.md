@@ -1,12 +1,12 @@
 ---
 title: Improved Random Note
-description: Improved interaction with the knowledge base in so-called wandering mode by opening specific Random Notes.
+description: '通过打开特定的 "随机笔记"，改进了在所谓的 "漫游 "模式下与知识库的互动。'
 author: ShockThunder
-downloads: 8647
+downloads: 8655
 updated: 1734130564000
 repo: ShockThunder/improved-random-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="improved-random-note"
   name="Improved Random Note"
-  description="Improved interaction with the knowledge base in so-called wandering mode by opening specific Random Notes."
+  description="通过打开特定的 &quot;随机笔记&quot;，改进了在所谓的 &quot;漫游 &quot;模式下与知识库的互动。"
   author="ShockThunder"
-  :downloads="8647"
+  :downloads="8655"
   :updated="1734130564000"
   repo="ShockThunder/improved-random-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Improved Random Note 是一个功能强大的 Obsidian 插件。
 
-Improved interaction with the knowledge base in so-called wandering mode by opening specific Random Notes.
+通过打开特定的 &quot;随机笔记&quot;，改进了在所谓的 &quot;漫游 &quot;模式下与知识库的互动。
 
 通过 Improved Random Note,您可以:
 
@@ -199,10 +199,10 @@ Improved interaction with the knowledge base in so-called wandering mode by open
 - **插件 ID**：improved-random-note
 - **作者**：ShockThunder
 - **当前版本**：v1.0.0
-- **下载量**：8.6K
+- **下载量**：8.7K
 - **最后更新**：2024-12-14
 - **GitHub**：[ShockThunder/improved-random-note](https://github.com/ShockThunder/improved-random-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

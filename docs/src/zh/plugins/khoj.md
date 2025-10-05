@@ -1,12 +1,12 @@
 ---
 title: Khoj
-description: An AI personal assistant for your digital brain.
+description: 您数字大脑的人工智能个人助理。
 author: Khoj AI
-downloads: 46741
+downloads: 46766
 updated: 1758014302000
 repo: khoj-ai/khoj
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="khoj"
   name="Khoj"
-  description="An AI personal assistant for your digital brain."
+  description="您数字大脑的人工智能个人助理。"
   author="Khoj AI"
-  :downloads="46741"
+  :downloads="46766"
   :updated="1758014302000"
   repo="khoj-ai/khoj"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Khoj 是一个功能强大的 Obsidian 插件。
 
-An AI personal assistant for your digital brain.
+您数字大脑的人工智能个人助理。
 
 通过 Khoj,您可以:
 
@@ -199,10 +199,10 @@ An AI personal assistant for your digital brain.
 - **插件 ID**：khoj
 - **作者**：Khoj AI
 - **当前版本**：v1.0.0
-- **下载量**：46.7K
+- **下载量**：46.8K
 - **最后更新**：2025-09-16
 - **GitHub**：[khoj-ai/khoj](https://github.com/khoj-ai/khoj)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

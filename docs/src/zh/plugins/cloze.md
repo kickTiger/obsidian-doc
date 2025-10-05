@@ -1,12 +1,12 @@
 ---
 title: Cloze
-description: Convert highlights, underlines, bolded texts or any selected texts into clozes.
+description: 将高亮、下划线、加粗文本或任何选定文本转换为苜蓿体。
 author: Vikki
-downloads: 14434
+downloads: 14444
 updated: 1739767082000
 repo: DearVikki/obsidian-cloze-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cloze"
   name="Cloze"
-  description="Convert highlights, underlines, bolded texts or any selected texts into clozes."
+  description="将高亮、下划线、加粗文本或任何选定文本转换为苜蓿体。"
   author="Vikki"
-  :downloads="14434"
+  :downloads="14444"
   :updated="1739767082000"
   repo="DearVikki/obsidian-cloze-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Cloze 是一个功能强大的 Obsidian 插件。
 
-Convert highlights, underlines, bolded texts or any selected texts into clozes.
+将高亮、下划线、加粗文本或任何选定文本转换为苜蓿体。
 
 通过 Cloze,您可以:
 
@@ -202,7 +202,7 @@ Convert highlights, underlines, bolded texts or any selected texts into clozes.
 - **下载量**：14.4K
 - **最后更新**：2025-02-17
 - **GitHub**：[DearVikki/obsidian-cloze-plugin](https://github.com/DearVikki/obsidian-cloze-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

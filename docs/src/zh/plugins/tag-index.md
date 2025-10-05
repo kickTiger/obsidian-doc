@@ -2,11 +2,11 @@
 title: Tag Index
 description: Create a curated list of important tags to serve as meaningful entry points to your knowledge base.
 author: wenlzhang
-downloads: 2100
+downloads: 2146
 updated: 1759528861000
 repo: wenlzhang/obsidian-tag-index
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tag Index"
   description="Create a curated list of important tags to serve as meaningful entry points to your knowledge base."
   author="wenlzhang"
-  :downloads="2100"
+  :downloads="2146"
   :updated="1759528861000"
   repo="wenlzhang/obsidian-tag-index"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create a curated list of important tags to serve as meaningful entry points to y
 - **下载量**：2.1K
 - **最后更新**：2025-10-04
 - **GitHub**：[wenlzhang/obsidian-tag-index](https://github.com/wenlzhang/obsidian-tag-index)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Another Sticky Headings
-description: Display headings tree during editing and preview to indicate the current position.
+description: 在编辑和预览时显示标题树，以指示当前位置。
 author: Zhou Hua
-downloads: 6073
+downloads: 6077
 updated: 1737432209000
 repo: zhouhua/obsidian-sticky-headings
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="another-sticky-headings"
   name="Another Sticky Headings"
-  description="Display headings tree during editing and preview to indicate the current position."
+  description="在编辑和预览时显示标题树，以指示当前位置。"
   author="Zhou Hua"
-  :downloads="6073"
+  :downloads="6077"
   :updated="1737432209000"
   repo="zhouhua/obsidian-sticky-headings"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Another Sticky Headings 是一个功能强大的 Obsidian 插件。
 
-Display headings tree during editing and preview to indicate the current position.
+在编辑和预览时显示标题树，以指示当前位置。
 
 通过 Another Sticky Headings,您可以:
 
@@ -202,7 +202,7 @@ Display headings tree during editing and preview to indicate the current positio
 - **下载量**：6.1K
 - **最后更新**：2025-01-21
 - **GitHub**：[zhouhua/obsidian-sticky-headings](https://github.com/zhouhua/obsidian-sticky-headings)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

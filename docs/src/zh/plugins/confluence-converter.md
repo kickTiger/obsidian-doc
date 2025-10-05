@@ -2,11 +2,11 @@
 title: Confluence Converter
 description: Convert markdown to Confluence wiki markup.
 author: Addo Zhang
-downloads: 1617
+downloads: 1619
 updated: 1745027913000
 repo: addozhang/obsidian-confluence-converter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Confluence Converter"
   description="Convert markdown to Confluence wiki markup."
   author="Addo Zhang"
-  :downloads="1617"
+  :downloads="1619"
   :updated="1745027913000"
   repo="addozhang/obsidian-confluence-converter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Convert markdown to Confluence wiki markup.
 - **下载量**：1.6K
 - **最后更新**：2025-04-19
 - **GitHub**：[addozhang/obsidian-confluence-converter](https://github.com/addozhang/obsidian-confluence-converter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

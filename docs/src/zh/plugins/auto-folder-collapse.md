@@ -1,12 +1,12 @@
 ---
 title: Auto Folder Collapse
-description: Automatically collapses subfolders when a parent folder is collapsed
+description: 折叠父文件夹时自动折叠子文件夹
 author: Dario Casciato
-downloads: 3967
+downloads: 3974
 updated: 1751195048000
 repo: DarioCasciato/obsidian-auto-folder-collapse
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-folder-collapse"
   name="Auto Folder Collapse"
-  description="Automatically collapses subfolders when a parent folder is collapsed"
+  description="折叠父文件夹时自动折叠子文件夹"
   author="Dario Casciato"
-  :downloads="3967"
+  :downloads="3974"
   :updated="1751195048000"
   repo="DarioCasciato/obsidian-auto-folder-collapse"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Folder Collapse 是一个功能强大的 Obsidian 插件。
 
-Automatically collapses subfolders when a parent folder is collapsed
+折叠父文件夹时自动折叠子文件夹
 
 通过 Auto Folder Collapse,您可以:
 
@@ -202,7 +202,7 @@ Automatically collapses subfolders when a parent folder is collapsed
 - **下载量**：4.0K
 - **最后更新**：2025-06-29
 - **GitHub**：[DarioCasciato/obsidian-auto-folder-collapse](https://github.com/DarioCasciato/obsidian-auto-folder-collapse)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

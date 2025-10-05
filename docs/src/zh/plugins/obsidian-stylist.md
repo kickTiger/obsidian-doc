@@ -1,12 +1,12 @@
 ---
 title: Stylist
-description: Add classes and styles on Markdown blocks.
+description: 在 Markdown 块上添加类和样式。
 author: ixth
-downloads: 5567
+downloads: 5571
 updated: 1672315859000
 repo: ixth/obsidian-stylist
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-stylist"
   name="Stylist"
-  description="Add classes and styles on Markdown blocks."
+  description="在 Markdown 块上添加类和样式。"
   author="ixth"
-  :downloads="5567"
+  :downloads="5571"
   :updated="1672315859000"
   repo="ixth/obsidian-stylist"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Stylist 是一个功能强大的 Obsidian 插件。
 
-Add classes and styles on Markdown blocks.
+在 Markdown 块上添加类和样式。
 
 通过 Stylist,您可以:
 
@@ -202,7 +202,7 @@ Add classes and styles on Markdown blocks.
 - **下载量**：5.6K
 - **最后更新**：2022-12-29
 - **GitHub**：[ixth/obsidian-stylist](https://github.com/ixth/obsidian-stylist)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

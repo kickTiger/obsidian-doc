@@ -1,12 +1,12 @@
 ---
 title: DeepL
-description: Translate selected text into more than 25 languages with DeepL.
+description: 通过 DeepL 将选定文本翻译成超过 25 种语言。
 author: Till Friebe
-downloads: 17765
+downloads: 17772
 updated: 1707979899000
 repo: friebetill/obsidian-deepl
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="deepl"
   name="DeepL"
-  description="Translate selected text into more than 25 languages with DeepL."
+  description="通过 DeepL 将选定文本翻译成超过 25 种语言。"
   author="Till Friebe"
-  :downloads="17765"
+  :downloads="17772"
   :updated="1707979899000"
   repo="friebetill/obsidian-deepl"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 DeepL 是一个功能强大的 Obsidian 插件。
 
-Translate selected text into more than 25 languages with DeepL.
+通过 DeepL 将选定文本翻译成超过 25 种语言。
 
 通过 DeepL,您可以:
 
@@ -202,7 +202,7 @@ Translate selected text into more than 25 languages with DeepL.
 - **下载量**：17.8K
 - **最后更新**：2024-02-15
 - **GitHub**：[friebetill/obsidian-deepl](https://github.com/friebetill/obsidian-deepl)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

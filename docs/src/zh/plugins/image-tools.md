@@ -1,12 +1,12 @@
 ---
 title: Image Tools
-description: Formatter for image on page.
+description: 页面上图像的格式。
 author: Andrey Serov
-downloads: 3965
+downloads: 3987
 updated: 1732641216000
 repo: Hosstell/image-tools-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="image-tools"
   name="Image Tools"
-  description="Formatter for image on page."
+  description="页面上图像的格式。"
   author="Andrey Serov"
-  :downloads="3965"
+  :downloads="3987"
   :updated="1732641216000"
   repo="Hosstell/image-tools-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Tools 是一个功能强大的 Obsidian 插件。
 
-Formatter for image on page.
+页面上图像的格式。
 
 通过 Image Tools,您可以:
 
@@ -202,7 +202,7 @@ Formatter for image on page.
 - **下载量**：4.0K
 - **最后更新**：2024-11-27
 - **GitHub**：[Hosstell/image-tools-obsidian-plugin](https://github.com/Hosstell/image-tools-obsidian-plugin)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

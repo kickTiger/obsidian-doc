@@ -2,11 +2,11 @@
 title: Remove Unused Block IDs
 description: Remove unused block ids in your vault.
 author: Daniel Geneta
-downloads: 344
+downloads: 345
 updated: 1728448151000
 repo: isdmg/obsidian-remove-unused-block-ids
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Remove Unused Block IDs"
   description="Remove unused block ids in your vault."
   author="Daniel Geneta"
-  :downloads="344"
+  :downloads="345"
   :updated="1728448151000"
   repo="isdmg/obsidian-remove-unused-block-ids"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Remove unused block ids in your vault.
 - **插件 ID**：remove-unused-block-ids
 - **作者**：Daniel Geneta
 - **当前版本**：v1.0.0
-- **下载量**：344
+- **下载量**：345
 - **最后更新**：2024-10-09
 - **GitHub**：[isdmg/obsidian-remove-unused-block-ids](https://github.com/isdmg/obsidian-remove-unused-block-ids)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

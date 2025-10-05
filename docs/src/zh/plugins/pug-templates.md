@@ -6,7 +6,7 @@ downloads: 161
 updated: 1725811792000
 repo: nicholas-wilcox/pug-templates-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1725811792000"
   repo="nicholas-wilcox/pug-templates-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Use the Pug templating engine in your vault.
 - **下载量**：161
 - **最后更新**：2024-09-09
 - **GitHub**：[nicholas-wilcox/pug-templates-obsidian-plugin](https://github.com/nicholas-wilcox/pug-templates-obsidian-plugin)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Stopwatch
-description: Display a stopwatch in the sidebar.
+description: 在侧边栏显示秒表。
 author: Tokuhiro Matsuno
-downloads: 7704
+downloads: 7710
 updated: 1620715108000
 repo: tokuhirom/obsidian-stopwatch-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-stopwatch-plugin"
   name="Stopwatch"
-  description="Display a stopwatch in the sidebar."
+  description="在侧边栏显示秒表。"
   author="Tokuhiro Matsuno"
-  :downloads="7704"
+  :downloads="7710"
   :updated="1620715108000"
   repo="tokuhirom/obsidian-stopwatch-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Stopwatch 是一个功能强大的 Obsidian 插件。
 
-Display a stopwatch in the sidebar.
+在侧边栏显示秒表。
 
 通过 Stopwatch,您可以:
 
@@ -202,7 +202,7 @@ Display a stopwatch in the sidebar.
 - **下载量**：7.7K
 - **最后更新**：2021-05-11
 - **GitHub**：[tokuhirom/obsidian-stopwatch-plugin](https://github.com/tokuhirom/obsidian-stopwatch-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

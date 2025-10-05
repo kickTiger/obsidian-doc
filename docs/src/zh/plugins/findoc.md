@@ -1,12 +1,12 @@
 ---
 title: Financial Doc
-description: Financial documentation and tracking using CSV format and Chart.js.
+description: 使用 CSV 格式和 Chart.js 进行财务记录和跟踪。
 author: Studio Webux
-downloads: 6772
-updated: 1757125951000
+downloads: 6785
+updated: 1759594792000
 repo: studiowebux/obsidian-findoc
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="findoc"
   name="Financial Doc"
-  description="Financial documentation and tracking using CSV format and Chart.js."
+  description="使用 CSV 格式和 Chart.js 进行财务记录和跟踪。"
   author="Studio Webux"
-  :downloads="6772"
-  :updated="1757125951000"
+  :downloads="6785"
+  :updated="1759594792000"
   repo="studiowebux/obsidian-findoc"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Financial Doc 是一个功能强大的 Obsidian 插件。
 
-Financial documentation and tracking using CSV format and Chart.js.
+使用 CSV 格式和 Chart.js 进行财务记录和跟踪。
 
 通过 Financial Doc,您可以:
 
@@ -181,7 +181,7 @@ Financial documentation and tracking using CSV format and Chart.js.
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-09-06
+更新时间：2025-10-05
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/studiowebux/obsidian-findoc/releases) 查看详细更新日志
@@ -200,9 +200,9 @@ Financial documentation and tracking using CSV format and Chart.js.
 - **作者**：Studio Webux
 - **当前版本**：v1.0.0
 - **下载量**：6.8K
-- **最后更新**：2025-09-06
+- **最后更新**：2025-10-05
 - **GitHub**：[studiowebux/obsidian-findoc](https://github.com/studiowebux/obsidian-findoc)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

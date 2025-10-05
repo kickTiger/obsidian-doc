@@ -2,11 +2,11 @@
 title: Outline++
 description: Render Markdown inside the outline view.
 author: Ryota Ushio
-downloads: 1973
+downloads: 1974
 updated: 1704638591000
 repo: RyotaUshio/obsidian-outline-plus
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Outline++"
   description="Render Markdown inside the outline view."
   author="Ryota Ushio"
-  :downloads="1973"
+  :downloads="1974"
   :updated="1704638591000"
   repo="RyotaUshio/obsidian-outline-plus"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Render Markdown inside the outline view.
 - **下载量**：2.0K
 - **最后更新**：2024-01-07
 - **GitHub**：[RyotaUshio/obsidian-outline-plus](https://github.com/RyotaUshio/obsidian-outline-plus)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

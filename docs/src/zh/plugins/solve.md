@@ -1,12 +1,12 @@
 ---
 title: Solve
-description: 'Your Math Maestro! Real-time calculations without AI (e.g. ChatGPT) fuss. From date magic (''Now + 20 days'') to arithmetic flair (''10 + 5 / (2 * 2)''), your trusted sidekick in every note. More brilliance on the way!'
+description: '您的数学大师！实时计算，无需人工智能（如 ChatGPT）的繁琐操作。从日期魔术（"现在 + 20 天"）到算术天赋（"10 + 5 / (2 * 2)"），每一个音符都是您值得信赖的小伙伴。更多精彩，敬请期待！'
 author: Liam Riddell
-downloads: 22639
+downloads: 22653
 updated: 1737652582000
 repo: LiamRiddell/obsidian-solve
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="solve"
   name="Solve"
-  description="Your Math Maestro! Real-time calculations without AI (e.g. ChatGPT) fuss. From date magic (&#39;Now + 20 days&#39;) to arithmetic flair (&#39;10 + 5 / (2 * 2)&#39;), your trusted sidekick in every note. More brilliance on the way!"
+  description="您的数学大师！实时计算，无需人工智能（如 ChatGPT）的繁琐操作。从日期魔术（&quot;现在 + 20 天&quot;）到算术天赋（&quot;10 + 5 / (2 * 2)&quot;），每一个音符都是您值得信赖的小伙伴。更多精彩，敬请期待！"
   author="Liam Riddell"
-  :downloads="22639"
+  :downloads="22653"
   :updated="1737652582000"
   repo="LiamRiddell/obsidian-solve"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Solve 是一个功能强大的 Obsidian 插件。
 
-Your Math Maestro! Real-time calculations without AI (e.g. ChatGPT) fuss. From date magic (&#39;Now + 20 days&#39;) to arithmetic flair (&#39;10 + 5 / (2 * 2)&#39;), your trusted sidekick in every note. More brilliance on the way!
+您的数学大师！实时计算，无需人工智能（如 ChatGPT）的繁琐操作。从日期魔术（&quot;现在 + 20 天&quot;）到算术天赋（&quot;10 + 5 / (2 * 2)&quot;），每一个音符都是您值得信赖的小伙伴。更多精彩，敬请期待！
 
 通过 Solve,您可以:
 
@@ -199,10 +199,10 @@ Your Math Maestro! Real-time calculations without AI (e.g. ChatGPT) fuss. From d
 - **插件 ID**：solve
 - **作者**：Liam Riddell
 - **当前版本**：v1.0.0
-- **下载量**：22.6K
+- **下载量**：22.7K
 - **最后更新**：2025-01-24
 - **GitHub**：[LiamRiddell/obsidian-solve](https://github.com/LiamRiddell/obsidian-solve)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

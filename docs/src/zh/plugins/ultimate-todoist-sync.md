@@ -1,12 +1,12 @@
 ---
 title: Ultimate Todoist Sync
-description: Todoist task synchronization.
+description: Todoist 任务同步
 author: HeroBlackInk
-downloads: 15574
+downloads: 15579
 updated: 1687425600000
 repo: HeroBlackInk/ultimate-todoist-sync-for-obsidian
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ultimate-todoist-sync"
   name="Ultimate Todoist Sync"
-  description="Todoist task synchronization."
+  description="Todoist 任务同步"
   author="HeroBlackInk"
-  :downloads="15574"
+  :downloads="15579"
   :updated="1687425600000"
   repo="HeroBlackInk/ultimate-todoist-sync-for-obsidian"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ultimate Todoist Sync 是一个功能强大的 Obsidian 插件。
 
-Todoist task synchronization.
+Todoist 任务同步
 
 通过 Ultimate Todoist Sync,您可以:
 
@@ -202,7 +202,7 @@ Todoist task synchronization.
 - **下载量**：15.6K
 - **最后更新**：2023-06-22
 - **GitHub**：[HeroBlackInk/ultimate-todoist-sync-for-obsidian](https://github.com/HeroBlackInk/ultimate-todoist-sync-for-obsidian)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

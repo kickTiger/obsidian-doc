@@ -2,11 +2,11 @@
 title: Multiple Daily Notes
 description: Create multiple daily notes in one vault, with additional configuration options including time offsets for creating notes past midnight, choosing the ribbon icon to use for the note, and more.
 author: Vab Kapoor
-downloads: 321
+downloads: 323
 updated: 1742429424000
 repo: vaibzzz123/multiple-daily-notes
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Multiple Daily Notes"
   description="Create multiple daily notes in one vault, with additional configuration options including time offsets for creating notes past midnight, choosing the ribbon icon to use for the note, and more."
   author="Vab Kapoor"
-  :downloads="321"
+  :downloads="323"
   :updated="1742429424000"
   repo="vaibzzz123/multiple-daily-notes"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create multiple daily notes in one vault, with additional configuration options 
 - **插件 ID**：multiple-daily-notes
 - **作者**：Vab Kapoor
 - **当前版本**：v1.0.0
-- **下载量**：321
+- **下载量**：323
 - **最后更新**：2025-03-20
 - **GitHub**：[vaibzzz123/multiple-daily-notes](https://github.com/vaibzzz123/multiple-daily-notes)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 224
 updated: 1729997823000
 repo: dsebastien/obsidian-typefully
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1729997823000"
   repo="dsebastien/obsidian-typefully"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Typefully integration. Publish social media posts with ease
 - **下载量**：224
 - **最后更新**：2024-10-27
 - **GitHub**：[dsebastien/obsidian-typefully](https://github.com/dsebastien/obsidian-typefully)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

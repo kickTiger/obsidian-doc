@@ -1,12 +1,12 @@
 ---
 title: Fountain Editor
-description: Fountain (screenplay) syntax highlighting in the editor.
+description: 编辑器中的 Fountain（剧本）语法高亮显示。
 author: Chuang Caleb
-downloads: 10943
+downloads: 10961
 updated: 1756035482000
 repo: chuangcaleb/obsidian-fountain-editor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="fountain-editor"
   name="Fountain Editor"
-  description="Fountain (screenplay) syntax highlighting in the editor."
+  description="编辑器中的 Fountain（剧本）语法高亮显示。"
   author="Chuang Caleb"
-  :downloads="10943"
+  :downloads="10961"
   :updated="1756035482000"
   repo="chuangcaleb/obsidian-fountain-editor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Fountain Editor 是一个功能强大的 Obsidian 插件。
 
-Fountain (screenplay) syntax highlighting in the editor.
+编辑器中的 Fountain（剧本）语法高亮显示。
 
 通过 Fountain Editor,您可以:
 
@@ -199,10 +199,10 @@ Fountain (screenplay) syntax highlighting in the editor.
 - **插件 ID**：fountain-editor
 - **作者**：Chuang Caleb
 - **当前版本**：v1.0.0
-- **下载量**：10.9K
+- **下载量**：11.0K
 - **最后更新**：2025-08-24
 - **GitHub**：[chuangcaleb/obsidian-fountain-editor](https://github.com/chuangcaleb/obsidian-fountain-editor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

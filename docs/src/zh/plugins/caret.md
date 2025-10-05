@@ -1,12 +1,12 @@
 ---
 title: Caret
-description: An AI workbench. Canvas, Chat and more LLM powered features.
+description: 人工智能工作台。画布、聊天和更多由 LLM 支持的功能。
 author: Jake Colling
-downloads: 6744
+downloads: 6749
 updated: 1756499750000
 repo: jcollingj/caret
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="caret"
   name="Caret"
-  description="An AI workbench. Canvas, Chat and more LLM powered features."
+  description="人工智能工作台。画布、聊天和更多由 LLM 支持的功能。"
   author="Jake Colling"
-  :downloads="6744"
+  :downloads="6749"
   :updated="1756499750000"
   repo="jcollingj/caret"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Caret 是一个功能强大的 Obsidian 插件。
 
-An AI workbench. Canvas, Chat and more LLM powered features.
+人工智能工作台。画布、聊天和更多由 LLM 支持的功能。
 
 通过 Caret,您可以:
 
@@ -202,7 +202,7 @@ An AI workbench. Canvas, Chat and more LLM powered features.
 - **下载量**：6.7K
 - **最后更新**：2025-08-30
 - **GitHub**：[jcollingj/caret](https://github.com/jcollingj/caret)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Fontsource
-description: Load custom fonts from Fontsource into your notes.
+description: 从 Fontsource 将自定义字体载入笔记。
 author: Ayuhito
-downloads: 6297
+downloads: 6307
 updated: 1712846074000
 repo: fontsource/obsidian-fontsource
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="fontsource"
   name="Fontsource"
-  description="Load custom fonts from Fontsource into your notes."
+  description="从 Fontsource 将自定义字体载入笔记。"
   author="Ayuhito"
-  :downloads="6297"
+  :downloads="6307"
   :updated="1712846074000"
   repo="fontsource/obsidian-fontsource"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Fontsource 是一个功能强大的 Obsidian 插件。
 
-Load custom fonts from Fontsource into your notes.
+从 Fontsource 将自定义字体载入笔记。
 
 通过 Fontsource,您可以:
 
@@ -202,7 +202,7 @@ Load custom fonts from Fontsource into your notes.
 - **下载量**：6.3K
 - **最后更新**：2024-04-11
 - **GitHub**：[fontsource/obsidian-fontsource](https://github.com/fontsource/obsidian-fontsource)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

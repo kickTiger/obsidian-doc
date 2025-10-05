@@ -1,12 +1,12 @@
 ---
 title: Related Notes Finder
-description: Add extra features for finding related notes.
+description: 增加查找相关笔记的额外功能。
 author: Joshua Michalik
 downloads: 7315
 updated: 1621876562000
 repo: lifegems/obsidian-related-notes-finder
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-related-notes-finder"
   name="Related Notes Finder"
-  description="Add extra features for finding related notes."
+  description="增加查找相关笔记的额外功能。"
   author="Joshua Michalik"
   :downloads="7315"
   :updated="1621876562000"
   repo="lifegems/obsidian-related-notes-finder"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Related Notes Finder 是一个功能强大的 Obsidian 插件。
 
-Add extra features for finding related notes.
+增加查找相关笔记的额外功能。
 
 通过 Related Notes Finder,您可以:
 
@@ -202,7 +202,7 @@ Add extra features for finding related notes.
 - **下载量**：7.3K
 - **最后更新**：2021-05-25
 - **GitHub**：[lifegems/obsidian-related-notes-finder](https://github.com/lifegems/obsidian-related-notes-finder)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

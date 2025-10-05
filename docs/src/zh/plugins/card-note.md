@@ -1,12 +1,12 @@
 ---
 title: CardNote
-description: Quickly extract your thoughts in the Canvas and Excalidraw.
+description: '在 "画布 "和 "Excalidraw "中快速提取您的想法。'
 author: cycsd
-downloads: 7962
+downloads: 7966
 updated: 1722705941000
 repo: cycsd/obsidian-card-note
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="card-note"
   name="CardNote"
-  description="Quickly extract your thoughts in the Canvas and Excalidraw."
+  description="在 &quot;画布 &quot;和 &quot;Excalidraw &quot;中快速提取您的想法。"
   author="cycsd"
-  :downloads="7962"
+  :downloads="7966"
   :updated="1722705941000"
   repo="cycsd/obsidian-card-note"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 CardNote 是一个功能强大的 Obsidian 插件。
 
-Quickly extract your thoughts in the Canvas and Excalidraw.
+在 &quot;画布 &quot;和 &quot;Excalidraw &quot;中快速提取您的想法。
 
 通过 CardNote,您可以:
 
@@ -202,7 +202,7 @@ Quickly extract your thoughts in the Canvas and Excalidraw.
 - **下载量**：8.0K
 - **最后更新**：2024-08-04
 - **GitHub**：[cycsd/obsidian-card-note](https://github.com/cycsd/obsidian-card-note)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

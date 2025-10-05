@@ -1,12 +1,12 @@
 ---
 title: Wordy
-description: Thesaurus, Rhymes and more using the Datamuse API. Find related words easily.
+description: 使用 Datamuse API 查找词库、韵律等。轻松查找相关词语。
 author: nqthqn
-downloads: 12567
+downloads: 12571
 updated: 1691691612000
 repo: nqthqn/obsidian-wordy
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-wordy"
   name="Wordy"
-  description="Thesaurus, Rhymes and more using the Datamuse API. Find related words easily."
+  description="使用 Datamuse API 查找词库、韵律等。轻松查找相关词语。"
   author="nqthqn"
-  :downloads="12567"
+  :downloads="12571"
   :updated="1691691612000"
   repo="nqthqn/obsidian-wordy"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Wordy 是一个功能强大的 Obsidian 插件。
 
-Thesaurus, Rhymes and more using the Datamuse API. Find related words easily.
+使用 Datamuse API 查找词库、韵律等。轻松查找相关词语。
 
 通过 Wordy,您可以:
 
@@ -202,7 +202,7 @@ Thesaurus, Rhymes and more using the Datamuse API. Find related words easily.
 - **下载量**：12.6K
 - **最后更新**：2023-08-11
 - **GitHub**：[nqthqn/obsidian-wordy](https://github.com/nqthqn/obsidian-wordy)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 273
 updated: 1755945942000
 repo: insile/OpenWords
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1755945942000"
   repo="insile/OpenWords"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ OpenWords 是一个功能强大的 Obsidian 插件。
 - **下载量**：273
 - **最后更新**：2025-08-23
 - **GitHub**：[insile/OpenWords](https://github.com/insile/OpenWords)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

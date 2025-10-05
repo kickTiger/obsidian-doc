@@ -1,12 +1,12 @@
 ---
 title: Reference Map
-description: Reference and citation map for literature review and discovery.
+description: 用于文献审查和发现的参考文献和引文图。
 author: Anoop K. Chandran
-downloads: 17323
+downloads: 17327
 updated: 1704153015000
 repo: anoopkcn/obsidian-reference-map
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="reference-map"
   name="Reference Map"
-  description="Reference and citation map for literature review and discovery."
+  description="用于文献审查和发现的参考文献和引文图。"
   author="Anoop K. Chandran"
-  :downloads="17323"
+  :downloads="17327"
   :updated="1704153015000"
   repo="anoopkcn/obsidian-reference-map"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Reference Map 是一个功能强大的 Obsidian 插件。
 
-Reference and citation map for literature review and discovery.
+用于文献审查和发现的参考文献和引文图。
 
 通过 Reference Map,您可以:
 
@@ -202,7 +202,7 @@ Reference and citation map for literature review and discovery.
 - **下载量**：17.3K
 - **最后更新**：2024-01-02
 - **GitHub**：[anoopkcn/obsidian-reference-map](https://github.com/anoopkcn/obsidian-reference-map)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

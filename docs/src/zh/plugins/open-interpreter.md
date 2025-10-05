@@ -6,7 +6,7 @@ downloads: 591
 updated: 1730304697000
 repo: MikeBirdTech/obsidian-open-interpreter
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1730304697000"
   repo="MikeBirdTech/obsidian-open-interpreter"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ An AI assistant that you can control with natural language. The power of Open In
 - **下载量**：591
 - **最后更新**：2024-10-31
 - **GitHub**：[MikeBirdTech/obsidian-open-interpreter](https://github.com/MikeBirdTech/obsidian-open-interpreter)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

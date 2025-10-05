@@ -2,11 +2,11 @@
 title: Convert Base64 to PNG
 description: Convert base64-encoded images in notes to local PNG images.
 author: Nykko Lin
-downloads: 401
+downloads: 408
 updated: 1746014147000
 repo: nykkolin/obsidian-convert-base64-to-png
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Convert Base64 to PNG"
   description="Convert base64-encoded images in notes to local PNG images."
   author="Nykko Lin"
-  :downloads="401"
+  :downloads="408"
   :updated="1746014147000"
   repo="nykkolin/obsidian-convert-base64-to-png"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Convert base64-encoded images in notes to local PNG images.
 - **插件 ID**：convert-base64-to-png
 - **作者**：Nykko Lin
 - **当前版本**：v1.0.0
-- **下载量**：401
+- **下载量**：408
 - **最后更新**：2025-04-30
 - **GitHub**：[nykkolin/obsidian-convert-base64-to-png](https://github.com/nykkolin/obsidian-convert-base64-to-png)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

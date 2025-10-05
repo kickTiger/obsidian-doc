@@ -6,7 +6,7 @@ downloads: 1522
 updated: 1707942074000
 repo: mattcoleanderson/obsidian-dynamic-text-concealer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1707942074000"
   repo="mattcoleanderson/obsidian-dynamic-text-concealer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Conceal or replace user-configured text patterns in Live Preview and reading mod
 - **下载量**：1.5K
 - **最后更新**：2024-02-15
 - **GitHub**：[mattcoleanderson/obsidian-dynamic-text-concealer](https://github.com/mattcoleanderson/obsidian-dynamic-text-concealer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

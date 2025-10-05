@@ -1,12 +1,12 @@
 ---
 title: OZ Calendar
-description: View your notes in Calendar using any YAML key with a date.
+description: 使用任何带有日期的 YAML 密钥，在日历中查看笔记。
 author: Ozan Tellioglu
-downloads: 18813
+downloads: 18818
 updated: 1711887827000
 repo: ozntel/oz-calendar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="oz-calendar"
   name="OZ Calendar"
-  description="View your notes in Calendar using any YAML key with a date."
+  description="使用任何带有日期的 YAML 密钥，在日历中查看笔记。"
   author="Ozan Tellioglu"
-  :downloads="18813"
+  :downloads="18818"
   :updated="1711887827000"
   repo="ozntel/oz-calendar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 OZ Calendar 是一个功能强大的 Obsidian 插件。
 
-View your notes in Calendar using any YAML key with a date.
+使用任何带有日期的 YAML 密钥，在日历中查看笔记。
 
 通过 OZ Calendar,您可以:
 
@@ -202,7 +202,7 @@ View your notes in Calendar using any YAML key with a date.
 - **下载量**：18.8K
 - **最后更新**：2024-03-31
 - **GitHub**：[ozntel/oz-calendar](https://github.com/ozntel/oz-calendar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

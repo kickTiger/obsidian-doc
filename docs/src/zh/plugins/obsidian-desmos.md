@@ -1,12 +1,12 @@
 ---
 title: Desmos
-description: Embed Desmos graphs into your notes.
+description: 在笔记中嵌入 Desmos 图表。
 author: Nigecat
-downloads: 20509
+downloads: 20525
 updated: 1719196480000
 repo: Nigecat/obsidian-desmos
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-desmos"
   name="Desmos"
-  description="Embed Desmos graphs into your notes."
+  description="在笔记中嵌入 Desmos 图表。"
   author="Nigecat"
-  :downloads="20509"
+  :downloads="20525"
   :updated="1719196480000"
   repo="Nigecat/obsidian-desmos"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Desmos 是一个功能强大的 Obsidian 插件。
 
-Embed Desmos graphs into your notes.
+在笔记中嵌入 Desmos 图表。
 
 通过 Desmos,您可以:
 
@@ -202,7 +202,7 @@ Embed Desmos graphs into your notes.
 - **下载量**：20.5K
 - **最后更新**：2024-06-24
 - **GitHub**：[Nigecat/obsidian-desmos](https://github.com/Nigecat/obsidian-desmos)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

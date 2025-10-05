@@ -1,12 +1,12 @@
 ---
 title: Colored Text
-description: Color the selected texts.
+description: 为选中的文本着色。
 author: Erinc Ayaz
-downloads: 182833
+downloads: 183086
 updated: 1755767108000
 repo: erincayaz/obsidian-colored-text
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="colored-text"
   name="Colored Text"
-  description="Color the selected texts."
+  description="为选中的文本着色。"
   author="Erinc Ayaz"
-  :downloads="182833"
+  :downloads="183086"
   :updated="1755767108000"
   repo="erincayaz/obsidian-colored-text"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Colored Text 是一个功能强大的 Obsidian 插件。
 
-Color the selected texts.
+为选中的文本着色。
 
 通过 Colored Text,您可以:
 
@@ -199,10 +199,10 @@ Color the selected texts.
 - **插件 ID**：colored-text
 - **作者**：Erinc Ayaz
 - **当前版本**：v1.0.0
-- **下载量**：182.8K
+- **下载量**：183.1K
 - **最后更新**：2025-08-21
 - **GitHub**：[erincayaz/obsidian-colored-text](https://github.com/erincayaz/obsidian-colored-text)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

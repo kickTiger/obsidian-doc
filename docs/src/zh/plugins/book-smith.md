@@ -2,11 +2,11 @@
 title: Book Smith
 description: Simplify long-form writing and book creation. Organize chapters, track progress, and export your manuscript in various formats for a seamless publishing workflow.
 author: Yeban
-downloads: 2317
+downloads: 2323
 updated: 1751973625000
 repo: Yeban8090/book-smith
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Book Smith"
   description="Simplify long-form writing and book creation. Organize chapters, track progress, and export your manuscript in various formats for a seamless publishing workflow."
   author="Yeban"
-  :downloads="2317"
+  :downloads="2323"
   :updated="1751973625000"
   repo="Yeban8090/book-smith"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Simplify long-form writing and book creation. Organize chapters, track progress,
 - **下载量**：2.3K
 - **最后更新**：2025-07-08
 - **GitHub**：[Yeban8090/book-smith](https://github.com/Yeban8090/book-smith)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

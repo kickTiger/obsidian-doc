@@ -2,11 +2,11 @@
 title: Auto-\displaystyle Inline Math
 description: Automatically make all inline math \displaystyle.
 author: Ryota Ushio
-downloads: 3212
+downloads: 3223
 updated: 1701501048000
 repo: RyotaUshio/obsidian-auto-displaystyle-inline-math
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto-\displaystyle Inline Math"
   description="Automatically make all inline math \displaystyle."
   author="Ryota Ushio"
-  :downloads="3212"
+  :downloads="3223"
   :updated="1701501048000"
   repo="RyotaUshio/obsidian-auto-displaystyle-inline-math"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically make all inline math \displaystyle.
 - **下载量**：3.2K
 - **最后更新**：2023-12-02
 - **GitHub**：[RyotaUshio/obsidian-auto-displaystyle-inline-math](https://github.com/RyotaUshio/obsidian-auto-displaystyle-inline-math)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

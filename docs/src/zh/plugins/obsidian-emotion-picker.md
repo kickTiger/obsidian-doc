@@ -1,12 +1,12 @@
 ---
 title: Emotion Picker
-description: Choose an emotion from a list to insert into a note.
+description: 从列表中选择一种情绪插入便笺。
 author: dartungar
-downloads: 9150
+downloads: 9152
 updated: 1732792408000
 repo: dartungar/obsidian-emotion-picker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-emotion-picker"
   name="Emotion Picker"
-  description="Choose an emotion from a list to insert into a note."
+  description="从列表中选择一种情绪插入便笺。"
   author="dartungar"
-  :downloads="9150"
+  :downloads="9152"
   :updated="1732792408000"
   repo="dartungar/obsidian-emotion-picker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Emotion Picker 是一个功能强大的 Obsidian 插件。
 
-Choose an emotion from a list to insert into a note.
+从列表中选择一种情绪插入便笺。
 
 通过 Emotion Picker,您可以:
 
@@ -202,7 +202,7 @@ Choose an emotion from a list to insert into a note.
 - **下载量**：9.2K
 - **最后更新**：2024-11-28
 - **GitHub**：[dartungar/obsidian-emotion-picker](https://github.com/dartungar/obsidian-emotion-picker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

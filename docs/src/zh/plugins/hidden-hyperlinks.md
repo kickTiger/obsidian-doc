@@ -2,11 +2,11 @@
 title: Ghost Text
 description: Hide text behind display text and copy on click.
 author: lawrencefeng17
-downloads: 51
+downloads: 52
 updated: 1751157605000
 repo: lawrencefeng17/obsidian-hidden-hyperlinks
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Ghost Text"
   description="Hide text behind display text and copy on click."
   author="lawrencefeng17"
-  :downloads="51"
+  :downloads="52"
   :updated="1751157605000"
   repo="lawrencefeng17/obsidian-hidden-hyperlinks"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Hide text behind display text and copy on click.
 - **插件 ID**：hidden-hyperlinks
 - **作者**：lawrencefeng17
 - **当前版本**：v1.0.0
-- **下载量**：51
+- **下载量**：52
 - **最后更新**：2025-06-29
 - **GitHub**：[lawrencefeng17/obsidian-hidden-hyperlinks](https://github.com/lawrencefeng17/obsidian-hidden-hyperlinks)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

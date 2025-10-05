@@ -2,11 +2,11 @@
 title: Trakt.tv Sync
 description: Syncs your watched Trakt.tv shows to a file.
 author: Nick Felker
-downloads: 344
+downloads: 346
 updated: 1758155222000
 repo: Fleker/trakt-for-obsidian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Trakt.tv Sync"
   description="Syncs your watched Trakt.tv shows to a file."
   author="Nick Felker"
-  :downloads="344"
+  :downloads="346"
   :updated="1758155222000"
   repo="Fleker/trakt-for-obsidian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Syncs your watched Trakt.tv shows to a file.
 - **插件 ID**：trakt-tv
 - **作者**：Nick Felker
 - **当前版本**：v1.0.0
-- **下载量**：344
+- **下载量**：346
 - **最后更新**：2025-09-18
 - **GitHub**：[Fleker/trakt-for-obsidian](https://github.com/Fleker/trakt-for-obsidian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

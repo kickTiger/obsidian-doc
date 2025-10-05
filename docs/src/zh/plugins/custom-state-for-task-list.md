@@ -1,12 +1,12 @@
 ---
 title: Custom State for Task List
-description: Add custom states to task list items.
+description: 为任务列表项添加自定义状态
 author: Okami Wong
-downloads: 5426
+downloads: 5429
 updated: 1732516803000
 repo: OkamiWong/obsidian-custom-state-for-task-list
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="custom-state-for-task-list"
   name="Custom State for Task List"
-  description="Add custom states to task list items."
+  description="为任务列表项添加自定义状态"
   author="Okami Wong"
-  :downloads="5426"
+  :downloads="5429"
   :updated="1732516803000"
   repo="OkamiWong/obsidian-custom-state-for-task-list"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Custom State for Task List 是一个功能强大的 Obsidian 插件。
 
-Add custom states to task list items.
+为任务列表项添加自定义状态
 
 通过 Custom State for Task List,您可以:
 
@@ -202,7 +202,7 @@ Add custom states to task list items.
 - **下载量**：5.4K
 - **最后更新**：2024-11-25
 - **GitHub**：[OkamiWong/obsidian-custom-state-for-task-list](https://github.com/OkamiWong/obsidian-custom-state-for-task-list)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

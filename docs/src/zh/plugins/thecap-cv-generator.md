@@ -6,7 +6,7 @@ downloads: 493
 updated: 1739981509000
 repo: xthecapx/Thecap-cv-generator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1739981509000"
   repo="xthecapx/Thecap-cv-generator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate PDF curriculum from your notes.
 - **下载量**：493
 - **最后更新**：2025-02-20
 - **GitHub**：[xthecapx/Thecap-cv-generator](https://github.com/xthecapx/Thecap-cv-generator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

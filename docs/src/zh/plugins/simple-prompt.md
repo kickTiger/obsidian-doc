@@ -6,7 +6,7 @@ downloads: 826
 updated: 1718523918000
 repo: arumie/obsidian-simple-prompt-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1718523918000"
   repo="arumie/obsidian-simple-prompt-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Simple interface to generate or rewrite content using LLMs based on user input.
 - **下载量**：826
 - **最后更新**：2024-06-16
 - **GitHub**：[arumie/obsidian-simple-prompt-plugin](https://github.com/arumie/obsidian-simple-prompt-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

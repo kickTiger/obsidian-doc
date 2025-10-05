@@ -1,12 +1,12 @@
 ---
 title: Repeat
-description: Review notes using periodic or spaced repetition.
+description: 利用定期或间隔重复的方式复习笔记。
 author: Andre Perunicic
-downloads: 12097
+downloads: 12105
 updated: 1750913375000
 repo: prncc/obsidian-repeat-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="repeat-plugin"
   name="Repeat"
-  description="Review notes using periodic or spaced repetition."
+  description="利用定期或间隔重复的方式复习笔记。"
   author="Andre Perunicic"
-  :downloads="12097"
+  :downloads="12105"
   :updated="1750913375000"
   repo="prncc/obsidian-repeat-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Repeat 是一个功能强大的 Obsidian 插件。
 
-Review notes using periodic or spaced repetition.
+利用定期或间隔重复的方式复习笔记。
 
 通过 Repeat,您可以:
 
@@ -202,7 +202,7 @@ Review notes using periodic or spaced repetition.
 - **下载量**：12.1K
 - **最后更新**：2025-06-26
 - **GitHub**：[prncc/obsidian-repeat-plugin](https://github.com/prncc/obsidian-repeat-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

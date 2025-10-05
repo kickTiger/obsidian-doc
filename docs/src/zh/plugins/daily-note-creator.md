@@ -2,11 +2,11 @@
 title: Daily note creator
 description: Automatically creates missing daily notes
 author: Mario Holubar
-downloads: 1891
+downloads: 1892
 updated: 1707168789000
 repo: mario-holubar/obsidian-daily-note-creator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Daily note creator"
   description="Automatically creates missing daily notes"
   author="Mario Holubar"
-  :downloads="1891"
+  :downloads="1892"
   :updated="1707168789000"
   repo="mario-holubar/obsidian-daily-note-creator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically creates missing daily notes
 - **下载量**：1.9K
 - **最后更新**：2024-02-06
 - **GitHub**：[mario-holubar/obsidian-daily-note-creator](https://github.com/mario-holubar/obsidian-daily-note-creator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

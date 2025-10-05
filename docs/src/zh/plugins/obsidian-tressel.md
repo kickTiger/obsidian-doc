@@ -1,12 +1,12 @@
 ---
 title: Tressel Sync
-description: Official Tressel plugin to sync/export your tweets and threads.
+description: Tressel 官方插件，用于同步/导出你的推文和主题。
 author: Tressel
 downloads: 5479
 updated: 1688483038000
 repo: tresselteam/obsidian-tressel
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-tressel"
   name="Tressel Sync"
-  description="Official Tressel plugin to sync/export your tweets and threads."
+  description="Tressel 官方插件，用于同步/导出你的推文和主题。"
   author="Tressel"
   :downloads="5479"
   :updated="1688483038000"
   repo="tresselteam/obsidian-tressel"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tressel Sync 是一个功能强大的 Obsidian 插件。
 
-Official Tressel plugin to sync/export your tweets and threads.
+Tressel 官方插件，用于同步/导出你的推文和主题。
 
 通过 Tressel Sync,您可以:
 
@@ -202,7 +202,7 @@ Official Tressel plugin to sync/export your tweets and threads.
 - **下载量**：5.5K
 - **最后更新**：2023-07-04
 - **GitHub**：[tresselteam/obsidian-tressel](https://github.com/tresselteam/obsidian-tressel)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

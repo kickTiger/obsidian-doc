@@ -2,11 +2,11 @@
 title: Contextual Sidecar
 description: Add a context-dependent sidecar panel.
 author: Matthew Turk
-downloads: 1699
+downloads: 1701
 updated: 1748612067000
 repo: matthewturk/obsidian-sidecar-panel
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Contextual Sidecar"
   description="Add a context-dependent sidecar panel."
   author="Matthew Turk"
-  :downloads="1699"
+  :downloads="1701"
   :updated="1748612067000"
   repo="matthewturk/obsidian-sidecar-panel"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add a context-dependent sidecar panel.
 - **下载量**：1.7K
 - **最后更新**：2025-05-30
 - **GitHub**：[matthewturk/obsidian-sidecar-panel](https://github.com/matthewturk/obsidian-sidecar-panel)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

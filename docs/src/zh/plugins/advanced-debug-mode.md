@@ -2,11 +2,11 @@
 title: Advanced Debug Mode
 description: Enhances debugging experience.
 author: mnaoumov
-downloads: 1503
+downloads: 1519
 updated: 1759383177000
 repo: mnaoumov/obsidian-advanced-debug-mode
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Advanced Debug Mode"
   description="Enhances debugging experience."
   author="mnaoumov"
-  :downloads="1503"
+  :downloads="1519"
   :updated="1759383177000"
   repo="mnaoumov/obsidian-advanced-debug-mode"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enhances debugging experience.
 - **下载量**：1.5K
 - **最后更新**：2025-10-02
 - **GitHub**：[mnaoumov/obsidian-advanced-debug-mode](https://github.com/mnaoumov/obsidian-advanced-debug-mode)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

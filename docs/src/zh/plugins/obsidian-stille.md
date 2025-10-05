@@ -1,12 +1,12 @@
 ---
 title: Stille
-description: Focus on your writing, a section at a time.
+description: 集中精力写作，每次写一部分。
 author: Michael Lee
-downloads: 29381
+downloads: 29388
 updated: 1697165551000
 repo: michaellee/stille
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-stille"
   name="Stille"
-  description="Focus on your writing, a section at a time."
+  description="集中精力写作，每次写一部分。"
   author="Michael Lee"
-  :downloads="29381"
+  :downloads="29388"
   :updated="1697165551000"
   repo="michaellee/stille"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Stille 是一个功能强大的 Obsidian 插件。
 
-Focus on your writing, a section at a time.
+集中精力写作，每次写一部分。
 
 通过 Stille,您可以:
 
@@ -202,7 +202,7 @@ Focus on your writing, a section at a time.
 - **下载量**：29.4K
 - **最后更新**：2023-10-13
 - **GitHub**：[michaellee/stille](https://github.com/michaellee/stille)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

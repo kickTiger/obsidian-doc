@@ -1,12 +1,12 @@
 ---
 title: File Cooker
-description: Deal batch notes from search results,current file, or Dataview query string.
+description: 从搜索结果、当前文件或 Dataview 查询字符串中批量处理注释。
 author: iuian
-downloads: 11577
+downloads: 11579
 updated: 1715599764000
 repo: ivaneye/obsidian-files-cooker
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-file-cooker"
   name="File Cooker"
-  description="Deal batch notes from search results,current file, or Dataview query string."
+  description="从搜索结果、当前文件或 Dataview 查询字符串中批量处理注释。"
   author="iuian"
-  :downloads="11577"
+  :downloads="11579"
   :updated="1715599764000"
   repo="ivaneye/obsidian-files-cooker"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Cooker 是一个功能强大的 Obsidian 插件。
 
-Deal batch notes from search results,current file, or Dataview query string.
+从搜索结果、当前文件或 Dataview 查询字符串中批量处理注释。
 
 通过 File Cooker,您可以:
 
@@ -202,7 +202,7 @@ Deal batch notes from search results,current file, or Dataview query string.
 - **下载量**：11.6K
 - **最后更新**：2024-05-13
 - **GitHub**：[ivaneye/obsidian-files-cooker](https://github.com/ivaneye/obsidian-files-cooker)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

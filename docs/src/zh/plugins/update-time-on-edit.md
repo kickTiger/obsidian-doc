@@ -1,12 +1,12 @@
 ---
 title: Update time on edit
-description: Keep frontmatter in sync with the last edit time.
+description: 保持正面内容与上次编辑时间同步。
 author: beaussan
-downloads: 59541
+downloads: 59584
 updated: 1704976510000
 repo: beaussan/update-time-on-edit-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="update-time-on-edit"
   name="Update time on edit"
-  description="Keep frontmatter in sync with the last edit time."
+  description="保持正面内容与上次编辑时间同步。"
   author="beaussan"
-  :downloads="59541"
+  :downloads="59584"
   :updated="1704976510000"
   repo="beaussan/update-time-on-edit-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Update time on edit 是一个功能强大的 Obsidian 插件。
 
-Keep frontmatter in sync with the last edit time.
+保持正面内容与上次编辑时间同步。
 
 通过 Update time on edit,您可以:
 
@@ -199,10 +199,10 @@ Keep frontmatter in sync with the last edit time.
 - **插件 ID**：update-time-on-edit
 - **作者**：beaussan
 - **当前版本**：v1.0.0
-- **下载量**：59.5K
+- **下载量**：59.6K
 - **最后更新**：2024-01-11
 - **GitHub**：[beaussan/update-time-on-edit-obsidian](https://github.com/beaussan/update-time-on-edit-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

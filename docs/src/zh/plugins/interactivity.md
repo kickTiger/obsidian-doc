@@ -2,11 +2,11 @@
 title: 'Interactivity: Calculations and Scripts'
 description: Interactivity lets you run local shell commands and scripts directly within your notes, providing the output alongside your written content. Use your favorite tools like Python, Node.js, Java, Perl, PHP, bash, or any other REPLs while taking notes.
 author: ichichikin
-downloads: 1908
+downloads: 1911
 updated: 1716559857000
 repo: ichichikin/obsidian-plugin-interactivity
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Interactivity: Calculations and Scripts"
   description="Interactivity lets you run local shell commands and scripts directly within your notes, providing the output alongside your written content. Use your favorite tools like Python, Node.js, Java, Perl, PHP, bash, or any other REPLs while taking notes."
   author="ichichikin"
-  :downloads="1908"
+  :downloads="1911"
   :updated="1716559857000"
   repo="ichichikin/obsidian-plugin-interactivity"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Interactivity lets you run local shell commands and scripts directly within your
 - **下载量**：1.9K
 - **最后更新**：2024-05-24
 - **GitHub**：[ichichikin/obsidian-plugin-interactivity](https://github.com/ichichikin/obsidian-plugin-interactivity)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: WeWrite
 description: AI assisting writing, Rendering and publishing notes to WeChat MP platform
 author: Learner Chen
-downloads: 672
+downloads: 677
 updated: 1750057350000
 repo: learnerchen-forever/wewrite
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="WeWrite"
   description="AI assisting writing, Rendering and publishing notes to WeChat MP platform"
   author="Learner Chen"
-  :downloads="672"
+  :downloads="677"
   :updated="1750057350000"
   repo="learnerchen-forever/wewrite"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ AI assisting writing, Rendering and publishing notes to WeChat MP platform
 - **插件 ID**：wewrite
 - **作者**：Learner Chen
 - **当前版本**：v1.0.0
-- **下载量**：672
+- **下载量**：677
 - **最后更新**：2025-06-16
 - **GitHub**：[learnerchen-forever/wewrite](https://github.com/learnerchen-forever/wewrite)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

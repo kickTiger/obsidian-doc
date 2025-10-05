@@ -1,12 +1,12 @@
 ---
 title: Squiggle
-description: Probabilistic estimation with Squiggle in your notes.
+description: 在笔记中使用 Squiggle 进行概率估算。
 author: Jesse Hoogland
 downloads: 3589
 updated: 1664137852000
 repo: jqhoogland/obsidian-squiggle
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="squiggle"
   name="Squiggle"
-  description="Probabilistic estimation with Squiggle in your notes."
+  description="在笔记中使用 Squiggle 进行概率估算。"
   author="Jesse Hoogland"
   :downloads="3589"
   :updated="1664137852000"
   repo="jqhoogland/obsidian-squiggle"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Squiggle 是一个功能强大的 Obsidian 插件。
 
-Probabilistic estimation with Squiggle in your notes.
+在笔记中使用 Squiggle 进行概率估算。
 
 通过 Squiggle,您可以:
 
@@ -202,7 +202,7 @@ Probabilistic estimation with Squiggle in your notes.
 - **下载量**：3.6K
 - **最后更新**：2022-09-26
 - **GitHub**：[jqhoogland/obsidian-squiggle](https://github.com/jqhoogland/obsidian-squiggle)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

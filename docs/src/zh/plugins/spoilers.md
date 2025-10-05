@@ -2,11 +2,11 @@
 title: Spoilers
 description: Hide and reveal blocks of information
 author: Jacobtread
-downloads: 2546
+downloads: 2551
 updated: 1728026048000
 repo: jacobtread/obsidian-spoilers
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Spoilers"
   description="Hide and reveal blocks of information"
   author="Jacobtread"
-  :downloads="2546"
+  :downloads="2551"
   :updated="1728026048000"
   repo="jacobtread/obsidian-spoilers"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Hide and reveal blocks of information
 - **插件 ID**：spoilers
 - **作者**：Jacobtread
 - **当前版本**：v1.0.0
-- **下载量**：2.5K
+- **下载量**：2.6K
 - **最后更新**：2024-10-04
 - **GitHub**：[jacobtread/obsidian-spoilers](https://github.com/jacobtread/obsidian-spoilers)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

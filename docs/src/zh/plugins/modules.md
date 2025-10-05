@@ -1,12 +1,12 @@
 ---
 title: Modules
-description: Load JavaScript and related languages like TypeScript modules from the vault and the Internet.
+description: 从保险库和互联网加载 JavaScript 和相关语言（如 TypeScript 模块）。
 author: polyipseity
 downloads: 5911
 updated: 1742643866000
 repo: polyipseity/obsidian-modules
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="modules"
   name="Modules"
-  description="Load JavaScript and related languages like TypeScript modules from the vault and the Internet."
+  description="从保险库和互联网加载 JavaScript 和相关语言（如 TypeScript 模块）。"
   author="polyipseity"
   :downloads="5911"
   :updated="1742643866000"
   repo="polyipseity/obsidian-modules"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Modules 是一个功能强大的 Obsidian 插件。
 
-Load JavaScript and related languages like TypeScript modules from the vault and the Internet.
+从保险库和互联网加载 JavaScript 和相关语言（如 TypeScript 模块）。
 
 通过 Modules,您可以:
 
@@ -202,7 +202,7 @@ Load JavaScript and related languages like TypeScript modules from the vault and
 - **下载量**：5.9K
 - **最后更新**：2025-03-22
 - **GitHub**：[polyipseity/obsidian-modules](https://github.com/polyipseity/obsidian-modules)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

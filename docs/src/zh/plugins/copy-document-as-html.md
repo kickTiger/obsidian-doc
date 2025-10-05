@@ -1,12 +1,12 @@
 ---
 title: Copy document as HTML
-description: Copy the current document to clipboard as HTML, including images.
+description: 将当前文档复制到剪贴板，作为 HTML 格式，包括图像。
 author: mvdkwast
-downloads: 30887
+downloads: 30917
 updated: 1719760006000
 repo: mvdkwast/obsidian-copy-as-html
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="copy-document-as-html"
   name="Copy document as HTML"
-  description="Copy the current document to clipboard as HTML, including images."
+  description="将当前文档复制到剪贴板，作为 HTML 格式，包括图像。"
   author="mvdkwast"
-  :downloads="30887"
+  :downloads="30917"
   :updated="1719760006000"
   repo="mvdkwast/obsidian-copy-as-html"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Copy document as HTML 是一个功能强大的 Obsidian 插件。
 
-Copy the current document to clipboard as HTML, including images.
+将当前文档复制到剪贴板，作为 HTML 格式，包括图像。
 
 通过 Copy document as HTML,您可以:
 
@@ -202,7 +202,7 @@ Copy the current document to clipboard as HTML, including images.
 - **下载量**：30.9K
 - **最后更新**：2024-06-30
 - **GitHub**：[mvdkwast/obsidian-copy-as-html](https://github.com/mvdkwast/obsidian-copy-as-html)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

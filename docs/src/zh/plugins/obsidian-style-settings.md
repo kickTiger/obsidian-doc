@@ -1,12 +1,12 @@
 ---
 title: Style Settings
-description: Adjust theme, plugin, and snippet CSS variables.
+description: 调整主题、插件和代码片段的 CSS 变量。
 author: mgmeyers
-downloads: 1826876
+downloads: 1828550
 updated: 1724521516000
 repo: mgmeyers/obsidian-style-settings
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-style-settings"
   name="Style Settings"
-  description="Adjust theme, plugin, and snippet CSS variables."
+  description="调整主题、插件和代码片段的 CSS 变量。"
   author="mgmeyers"
-  :downloads="1826876"
+  :downloads="1828550"
   :updated="1724521516000"
   repo="mgmeyers/obsidian-style-settings"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Style Settings 是一个功能强大的 Obsidian 插件。
 
-Adjust theme, plugin, and snippet CSS variables.
+调整主题、插件和代码片段的 CSS 变量。
 
 通过 Style Settings,您可以:
 
@@ -202,7 +202,7 @@ Adjust theme, plugin, and snippet CSS variables.
 - **下载量**：1.83M
 - **最后更新**：2024-08-25
 - **GitHub**：[mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Advanced Codeblock
-description: Add additional features to code blocks.
+description: 为代码块添加附加功能。
 author: Lijyze
-downloads: 15798
+downloads: 15805
 updated: 1690543438000
 repo: lijyze/obsidian-advanced-codeblock
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-advanced-codeblock"
   name="Advanced Codeblock"
-  description="Add additional features to code blocks."
+  description="为代码块添加附加功能。"
   author="Lijyze"
-  :downloads="15798"
+  :downloads="15805"
   :updated="1690543438000"
   repo="lijyze/obsidian-advanced-codeblock"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Advanced Codeblock 是一个功能强大的 Obsidian 插件。
 
-Add additional features to code blocks.
+为代码块添加附加功能。
 
 通过 Advanced Codeblock,您可以:
 
@@ -202,7 +202,7 @@ Add additional features to code blocks.
 - **下载量**：15.8K
 - **最后更新**：2023-07-28
 - **GitHub**：[lijyze/obsidian-advanced-codeblock](https://github.com/lijyze/obsidian-advanced-codeblock)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

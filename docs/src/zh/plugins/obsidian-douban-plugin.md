@@ -1,12 +1,12 @@
 ---
 title: Douban
-description: Import movies/books/musics/notes/games info data from Douban.
+description: 从豆瓣导入电影/书籍/音乐/笔记/游戏信息数据。
 author: Wanxp
-downloads: 27700
+downloads: 27716
 updated: 1741684318000
 repo: Wanxp/obsidian-douban
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-douban-plugin"
   name="Douban"
-  description="Import movies/books/musics/notes/games info data from Douban."
+  description="从豆瓣导入电影/书籍/音乐/笔记/游戏信息数据。"
   author="Wanxp"
-  :downloads="27700"
+  :downloads="27716"
   :updated="1741684318000"
   repo="Wanxp/obsidian-douban"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Douban 是一个功能强大的 Obsidian 插件。
 
-Import movies/books/musics/notes/games info data from Douban.
+从豆瓣导入电影/书籍/音乐/笔记/游戏信息数据。
 
 通过 Douban,您可以:
 
@@ -202,7 +202,7 @@ Import movies/books/musics/notes/games info data from Douban.
 - **下载量**：27.7K
 - **最后更新**：2025-03-11
 - **GitHub**：[Wanxp/obsidian-douban](https://github.com/Wanxp/obsidian-douban)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

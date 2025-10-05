@@ -1,12 +1,12 @@
 ---
 title: Floating Search
-description: Search text by using Obsidian default search view.
+description: 使用 Obsidian 默认搜索视图搜索文本。
 author: Boninall
-downloads: 36582
+downloads: 36606
 updated: 1740644893000
 repo: Quorafind/Obsidian-Float-Search
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="float-search"
   name="Floating Search"
-  description="Search text by using Obsidian default search view."
+  description="使用 Obsidian 默认搜索视图搜索文本。"
   author="Boninall"
-  :downloads="36582"
+  :downloads="36606"
   :updated="1740644893000"
   repo="Quorafind/Obsidian-Float-Search"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Floating Search 是一个功能强大的 Obsidian 插件。
 
-Search text by using Obsidian default search view.
+使用 Obsidian 默认搜索视图搜索文本。
 
 通过 Floating Search,您可以:
 
@@ -202,7 +202,7 @@ Search text by using Obsidian default search view.
 - **下载量**：36.6K
 - **最后更新**：2025-02-27
 - **GitHub**：[Quorafind/Obsidian-Float-Search](https://github.com/Quorafind/Obsidian-Float-Search)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

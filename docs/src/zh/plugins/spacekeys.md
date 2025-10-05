@@ -2,11 +2,11 @@
 title: Spacekeys
 description: Define hotkeys based on sequences of keypresses.
 author: Jared Lumpe
-downloads: 2328
+downloads: 2338
 updated: 1758438843000
 repo: jlumpe/obsidian-spacekeys
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Spacekeys"
   description="Define hotkeys based on sequences of keypresses."
   author="Jared Lumpe"
-  :downloads="2328"
+  :downloads="2338"
   :updated="1758438843000"
   repo="jlumpe/obsidian-spacekeys"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Define hotkeys based on sequences of keypresses.
 - **下载量**：2.3K
 - **最后更新**：2025-09-21
 - **GitHub**：[jlumpe/obsidian-spacekeys](https://github.com/jlumpe/obsidian-spacekeys)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

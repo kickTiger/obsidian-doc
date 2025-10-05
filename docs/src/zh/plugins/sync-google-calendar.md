@@ -1,12 +1,12 @@
 ---
 title: Sync Google Calendar
-description: Synchronize events from Google Calendar and manage them like tasks.
+description: 同步 Google 日历中的事件，并像管理任务一样管理它们。
 author: Dexin Qi
-downloads: 11275
+downloads: 11286
 updated: 1686275770000
 repo: dexin-qi/obsidian-sync-calendar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="sync-google-calendar"
   name="Sync Google Calendar"
-  description="Synchronize events from Google Calendar and manage them like tasks."
+  description="同步 Google 日历中的事件，并像管理任务一样管理它们。"
   author="Dexin Qi"
-  :downloads="11275"
+  :downloads="11286"
   :updated="1686275770000"
   repo="dexin-qi/obsidian-sync-calendar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sync Google Calendar 是一个功能强大的 Obsidian 插件。
 
-Synchronize events from Google Calendar and manage them like tasks.
+同步 Google 日历中的事件，并像管理任务一样管理它们。
 
 通过 Sync Google Calendar,您可以:
 
@@ -202,7 +202,7 @@ Synchronize events from Google Calendar and manage them like tasks.
 - **下载量**：11.3K
 - **最后更新**：2023-06-09
 - **GitHub**：[dexin-qi/obsidian-sync-calendar](https://github.com/dexin-qi/obsidian-sync-calendar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

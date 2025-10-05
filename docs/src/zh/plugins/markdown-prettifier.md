@@ -1,12 +1,12 @@
 ---
 title: Markdown prettifier
-description: Fix and reformats ugly Markdown.
+description: 修复并重新格式化难看的 Markdown。
 author: pelao
-downloads: 74198
+downloads: 74203
 updated: 1637271937000
 repo: cristianvasquez/obsidian-prettify
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="markdown-prettifier"
   name="Markdown prettifier"
-  description="Fix and reformats ugly Markdown."
+  description="修复并重新格式化难看的 Markdown。"
   author="pelao"
-  :downloads="74198"
+  :downloads="74203"
   :updated="1637271937000"
   repo="cristianvasquez/obsidian-prettify"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown prettifier 是一个功能强大的 Obsidian 插件。
 
-Fix and reformats ugly Markdown.
+修复并重新格式化难看的 Markdown。
 
 通过 Markdown prettifier,您可以:
 
@@ -202,7 +202,7 @@ Fix and reformats ugly Markdown.
 - **下载量**：74.2K
 - **最后更新**：2021-11-19
 - **GitHub**：[cristianvasquez/obsidian-prettify](https://github.com/cristianvasquez/obsidian-prettify)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

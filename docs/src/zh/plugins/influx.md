@@ -1,12 +1,12 @@
 ---
 title: Influx
-description: A bullet journaling plugin that aggregates a terse stream of backlinked clippings in the footer of notes.
+description: 一款子弹头日记插件，可在笔记页脚汇总简短的反向链接剪报流。
 author: Jens M Gleditsch
-downloads: 24531
+downloads: 24541
 updated: 1675422349000
 repo: jensmtg/influx
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="influx"
   name="Influx"
-  description="A bullet journaling plugin that aggregates a terse stream of backlinked clippings in the footer of notes."
+  description="一款子弹头日记插件，可在笔记页脚汇总简短的反向链接剪报流。"
   author="Jens M Gleditsch"
-  :downloads="24531"
+  :downloads="24541"
   :updated="1675422349000"
   repo="jensmtg/influx"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Influx 是一个功能强大的 Obsidian 插件。
 
-A bullet journaling plugin that aggregates a terse stream of backlinked clippings in the footer of notes.
+一款子弹头日记插件，可在笔记页脚汇总简短的反向链接剪报流。
 
 通过 Influx,您可以:
 
@@ -202,7 +202,7 @@ A bullet journaling plugin that aggregates a terse stream of backlinked clipping
 - **下载量**：24.5K
 - **最后更新**：2023-02-03
 - **GitHub**：[jensmtg/influx](https://github.com/jensmtg/influx)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

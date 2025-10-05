@@ -6,7 +6,7 @@ downloads: 1470
 updated: 1732395259000
 repo: Ssentiago/obsidian-openapi-renderer
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1732395259000"
   repo="Ssentiago/obsidian-openapi-renderer"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Integrate OpenAPI specification management with features for version control, vi
 - **下载量**：1.5K
 - **最后更新**：2024-11-24
 - **GitHub**：[Ssentiago/obsidian-openapi-renderer](https://github.com/Ssentiago/obsidian-openapi-renderer)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

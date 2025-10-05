@@ -2,11 +2,11 @@
 title: TOC compatible with Publish
 description: This generates a table of contents that is compatible with publish.
 author: Brian Collery
-downloads: 439
+downloads: 440
 updated: 1751832598000
 repo: BrMacCath/Table-of-Contents
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="TOC compatible with Publish"
   description="This generates a table of contents that is compatible with publish."
   author="Brian Collery"
-  :downloads="439"
+  :downloads="440"
   :updated="1751832598000"
   repo="BrMacCath/Table-of-Contents"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ This generates a table of contents that is compatible with publish.
 - **插件 ID**：table-of-contents-automatic-but-compatible-with-publish
 - **作者**：Brian Collery
 - **当前版本**：v1.0.0
-- **下载量**：439
+- **下载量**：440
 - **最后更新**：2025-07-07
 - **GitHub**：[BrMacCath/Table-of-Contents](https://github.com/BrMacCath/Table-of-Contents)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

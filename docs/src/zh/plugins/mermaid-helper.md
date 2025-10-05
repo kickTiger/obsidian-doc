@@ -1,12 +1,12 @@
 ---
 title: Mermaid.js Helper (OMH)
-description: Additional commands for mermaid.js workflow and more.
+description: 用于 mermaid.js 工作流程的附加命令等。
 author: Francesco Di Cursi
-downloads: 5787
+downloads: 5789
 updated: 1675704808000
 repo: FrancescoDiCursi/Mermaid.js-Helper-OMH-plugin
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mermaid-helper"
   name="Mermaid.js Helper (OMH)"
-  description="Additional commands for mermaid.js workflow and more."
+  description="用于 mermaid.js 工作流程的附加命令等。"
   author="Francesco Di Cursi"
-  :downloads="5787"
+  :downloads="5789"
   :updated="1675704808000"
   repo="FrancescoDiCursi/Mermaid.js-Helper-OMH-plugin"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mermaid.js Helper (OMH) 是一个功能强大的 Obsidian 插件。
 
-Additional commands for mermaid.js workflow and more.
+用于 mermaid.js 工作流程的附加命令等。
 
 通过 Mermaid.js Helper (OMH),您可以:
 
@@ -202,7 +202,7 @@ Additional commands for mermaid.js workflow and more.
 - **下载量**：5.8K
 - **最后更新**：2023-02-07
 - **GitHub**：[FrancescoDiCursi/Mermaid.js-Helper-OMH-plugin](https://github.com/FrancescoDiCursi/Mermaid.js-Helper-OMH-plugin)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

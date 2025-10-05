@@ -1,12 +1,12 @@
 ---
 title: Simple Table Math
-description: Do some math (sum, average, etc.) in your markdown tables.
+description: 在标记表中做一些数学运算（求和、求平均值等）。
 author: Sandro Ducceschi
-downloads: 8338
+downloads: 8366
 updated: 1758299713000
 repo: eatcodeplay/obsidian-simple-table-math
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="simple-table-math"
   name="Simple Table Math"
-  description="Do some math (sum, average, etc.) in your markdown tables."
+  description="在标记表中做一些数学运算（求和、求平均值等）。"
   author="Sandro Ducceschi"
-  :downloads="8338"
+  :downloads="8366"
   :updated="1758299713000"
   repo="eatcodeplay/obsidian-simple-table-math"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Simple Table Math 是一个功能强大的 Obsidian 插件。
 
-Do some math (sum, average, etc.) in your markdown tables.
+在标记表中做一些数学运算（求和、求平均值等）。
 
 通过 Simple Table Math,您可以:
 
@@ -199,10 +199,10 @@ Do some math (sum, average, etc.) in your markdown tables.
 - **插件 ID**：simple-table-math
 - **作者**：Sandro Ducceschi
 - **当前版本**：v1.0.0
-- **下载量**：8.3K
+- **下载量**：8.4K
 - **最后更新**：2025-09-20
 - **GitHub**：[eatcodeplay/obsidian-simple-table-math](https://github.com/eatcodeplay/obsidian-simple-table-math)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

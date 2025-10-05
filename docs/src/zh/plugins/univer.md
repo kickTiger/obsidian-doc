@@ -1,12 +1,12 @@
 ---
 title: Univer
-description: Create, edit, and view spreadsheets and documents in various formats like Excel and Word directly within your knowledge base.
+description: 直接在知识库中创建、编辑和查看 Excel 和 Word 等各种格式的电子表格和文档。
 author: DreamNum
-downloads: 17148
+downloads: 17168
 updated: 1726230018000
 repo: dream-num/obsidian-univer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="univer"
   name="Univer"
-  description="Create, edit, and view spreadsheets and documents in various formats like Excel and Word directly within your knowledge base."
+  description="直接在知识库中创建、编辑和查看 Excel 和 Word 等各种格式的电子表格和文档。"
   author="DreamNum"
-  :downloads="17148"
+  :downloads="17168"
   :updated="1726230018000"
   repo="dream-num/obsidian-univer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Univer 是一个功能强大的 Obsidian 插件。
 
-Create, edit, and view spreadsheets and documents in various formats like Excel and Word directly within your knowledge base.
+直接在知识库中创建、编辑和查看 Excel 和 Word 等各种格式的电子表格和文档。
 
 通过 Univer,您可以:
 
@@ -199,10 +199,10 @@ Create, edit, and view spreadsheets and documents in various formats like Excel 
 - **插件 ID**：univer
 - **作者**：DreamNum
 - **当前版本**：v1.0.0
-- **下载量**：17.1K
+- **下载量**：17.2K
 - **最后更新**：2024-09-13
 - **GitHub**：[dream-num/obsidian-univer](https://github.com/dream-num/obsidian-univer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

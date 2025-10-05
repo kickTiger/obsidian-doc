@@ -1,12 +1,12 @@
 ---
 title: Prettier Format
-description: Opinionated formatting for your notes.
+description: 为您的笔记设置意见格式。
 author: Andrew Lisowski
-downloads: 18311
+downloads: 18316
 updated: 1683770204000
 repo: hipstersmoothie/obsidian-plugin-prettier
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-plugin-prettier"
   name="Prettier Format"
-  description="Opinionated formatting for your notes."
+  description="为您的笔记设置意见格式。"
   author="Andrew Lisowski"
-  :downloads="18311"
+  :downloads="18316"
   :updated="1683770204000"
   repo="hipstersmoothie/obsidian-plugin-prettier"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Prettier Format 是一个功能强大的 Obsidian 插件。
 
-Opinionated formatting for your notes.
+为您的笔记设置意见格式。
 
 通过 Prettier Format,您可以:
 
@@ -202,7 +202,7 @@ Opinionated formatting for your notes.
 - **下载量**：18.3K
 - **最后更新**：2023-05-11
 - **GitHub**：[hipstersmoothie/obsidian-plugin-prettier](https://github.com/hipstersmoothie/obsidian-plugin-prettier)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Fantasy Content Generator
-description: A fantasy content generator for all your TTRPG and world-building needs.
+description: 满足您所有 TTRPG 和世界构建需求的幻想内容生成器。
 author: Gregory-Jagermeister
-downloads: 39280
+downloads: 39326
 updated: 1736659903000
 repo: Gregory-Jagermeister/Fantasy-Content-Generator
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="fantasy-content-generator"
   name="Fantasy Content Generator"
-  description="A fantasy content generator for all your TTRPG and world-building needs."
+  description="满足您所有 TTRPG 和世界构建需求的幻想内容生成器。"
   author="Gregory-Jagermeister"
-  :downloads="39280"
+  :downloads="39326"
   :updated="1736659903000"
   repo="Gregory-Jagermeister/Fantasy-Content-Generator"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Fantasy Content Generator 是一个功能强大的 Obsidian 插件。
 
-A fantasy content generator for all your TTRPG and world-building needs.
+满足您所有 TTRPG 和世界构建需求的幻想内容生成器。
 
 通过 Fantasy Content Generator,您可以:
 
@@ -202,7 +202,7 @@ A fantasy content generator for all your TTRPG and world-building needs.
 - **下载量**：39.3K
 - **最后更新**：2025-01-12
 - **GitHub**：[Gregory-Jagermeister/Fantasy-Content-Generator](https://github.com/Gregory-Jagermeister/Fantasy-Content-Generator)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Inkporter
 description: digitize handwritten notes with intelligent ink isolation, adaptive theming, and automated workflows.
 author: Ayush Kumar Saroj
-downloads: 892
+downloads: 895
 updated: 1743498662000
 repo: AmadeussSystem/Inkporter
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Inkporter"
   description="digitize handwritten notes with intelligent ink isolation, adaptive theming, and automated workflows."
   author="Ayush Kumar Saroj"
-  :downloads="892"
+  :downloads="895"
   :updated="1743498662000"
   repo="AmadeussSystem/Inkporter"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ digitize handwritten notes with intelligent ink isolation, adaptive theming, and
 - **插件 ID**：inkporter
 - **作者**：Ayush Kumar Saroj
 - **当前版本**：v1.0.0
-- **下载量**：892
+- **下载量**：895
 - **最后更新**：2025-04-01
 - **GitHub**：[AmadeussSystem/Inkporter](https://github.com/AmadeussSystem/Inkporter)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

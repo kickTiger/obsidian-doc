@@ -2,11 +2,11 @@
 title: Pomodoro Planner
 description: Generates a pomodoro schedule plan.
 author: Onur Nesvat
-downloads: 2621
+downloads: 2622
 updated: 1709217994000
 repo: onesvat/obsidian-pomodoro-planner
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Pomodoro Planner"
   description="Generates a pomodoro schedule plan."
   author="Onur Nesvat"
-  :downloads="2621"
+  :downloads="2622"
   :updated="1709217994000"
   repo="onesvat/obsidian-pomodoro-planner"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generates a pomodoro schedule plan.
 - **下载量**：2.6K
 - **最后更新**：2024-02-29
 - **GitHub**：[onesvat/obsidian-pomodoro-planner](https://github.com/onesvat/obsidian-pomodoro-planner)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

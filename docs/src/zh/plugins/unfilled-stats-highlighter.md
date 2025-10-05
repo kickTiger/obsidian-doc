@@ -6,7 +6,7 @@ downloads: 3570
 updated: 1679844948000
 repo: White7292/obsidian-hd-unfilled-stats-highlighter
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1679844948000"
   repo="White7292/obsidian-hd-unfilled-stats-highlighter"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Streamline your stat/habit tracking process by automatically identifying and pre
 - **下载量**：3.6K
 - **最后更新**：2023-03-26
 - **GitHub**：[White7292/obsidian-hd-unfilled-stats-highlighter](https://github.com/White7292/obsidian-hd-unfilled-stats-highlighter)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Blog AI Generator
 description: Generate blog posts from your notes using OpenAI
 author: Gareth Ng
-downloads: 236
+downloads: 237
 updated: 1741241407000
 repo: garethng/obsidian-blog-generator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Blog AI Generator"
   description="Generate blog posts from your notes using OpenAI"
   author="Gareth Ng"
-  :downloads="236"
+  :downloads="237"
   :updated="1741241407000"
   repo="garethng/obsidian-blog-generator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Generate blog posts from your notes using OpenAI
 - **插件 ID**：ai-blog-generator
 - **作者**：Gareth Ng
 - **当前版本**：v1.0.0
-- **下载量**：236
+- **下载量**：237
 - **最后更新**：2025-03-06
 - **GitHub**：[garethng/obsidian-blog-generator](https://github.com/garethng/obsidian-blog-generator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

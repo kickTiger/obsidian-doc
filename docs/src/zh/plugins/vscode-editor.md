@@ -1,12 +1,12 @@
 ---
 title: VSCode Editor
-description: Edit Code Files like VSCode.
+description: 像 VSCode 一样编辑代码文件
 author: Sun Xvming
-downloads: 33870
+downloads: 33904
 updated: 1698990816000
 repo: sunxvming/obsidian-vscode-editor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vscode-editor"
   name="VSCode Editor"
-  description="Edit Code Files like VSCode."
+  description="像 VSCode 一样编辑代码文件"
   author="Sun Xvming"
-  :downloads="33870"
+  :downloads="33904"
   :updated="1698990816000"
   repo="sunxvming/obsidian-vscode-editor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 VSCode Editor 是一个功能强大的 Obsidian 插件。
 
-Edit Code Files like VSCode.
+像 VSCode 一样编辑代码文件
 
 通过 VSCode Editor,您可以:
 
@@ -202,7 +202,7 @@ Edit Code Files like VSCode.
 - **下载量**：33.9K
 - **最后更新**：2023-11-03
 - **GitHub**：[sunxvming/obsidian-vscode-editor](https://github.com/sunxvming/obsidian-vscode-editor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

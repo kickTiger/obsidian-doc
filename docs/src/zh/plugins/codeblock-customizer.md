@@ -1,12 +1,12 @@
 ---
 title: Codeblock Customizer
-description: Customize your code blocks in editing, and reading mode as well.
+description: 在编辑和阅读模式下自定义代码块。
 author: mugiwara
-downloads: 37139
+downloads: 37185
 updated: 1755772801000
 repo: mugiwara85/CodeblockCustomizer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="codeblock-customizer"
   name="Codeblock Customizer"
-  description="Customize your code blocks in editing, and reading mode as well."
+  description="在编辑和阅读模式下自定义代码块。"
   author="mugiwara"
-  :downloads="37139"
+  :downloads="37185"
   :updated="1755772801000"
   repo="mugiwara85/CodeblockCustomizer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Codeblock Customizer 是一个功能强大的 Obsidian 插件。
 
-Customize your code blocks in editing, and reading mode as well.
+在编辑和阅读模式下自定义代码块。
 
 通过 Codeblock Customizer,您可以:
 
@@ -199,10 +199,10 @@ Customize your code blocks in editing, and reading mode as well.
 - **插件 ID**：codeblock-customizer
 - **作者**：mugiwara
 - **当前版本**：v1.0.0
-- **下载量**：37.1K
+- **下载量**：37.2K
 - **最后更新**：2025-08-21
 - **GitHub**：[mugiwara85/CodeblockCustomizer](https://github.com/mugiwara85/CodeblockCustomizer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: 'Divide & Conquer'
-description: Commands for bulk enabling/disabling of plugins. Useful for debugging when you have many plugins.
+description: 批量启用/禁用插件的命令。当你有很多插件时，该命令对调试非常有用。
 author: Chris Grieser (aka pseudometa)
-downloads: 9464
+downloads: 9469
 updated: 1736942763000
 repo: chrisgrieser/obsidian-divide-and-conquer
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-divide-and-conquer"
   name="Divide &amp; Conquer"
-  description="Commands for bulk enabling/disabling of plugins. Useful for debugging when you have many plugins."
+  description="批量启用/禁用插件的命令。当你有很多插件时，该命令对调试非常有用。"
   author="Chris Grieser (aka pseudometa)"
-  :downloads="9464"
+  :downloads="9469"
   :updated="1736942763000"
   repo="chrisgrieser/obsidian-divide-and-conquer"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Divide &amp; Conquer 是一个功能强大的 Obsidian 插件。
 
-Commands for bulk enabling/disabling of plugins. Useful for debugging when you have many plugins.
+批量启用/禁用插件的命令。当你有很多插件时，该命令对调试非常有用。
 
 通过 Divide &amp; Conquer,您可以:
 
@@ -202,7 +202,7 @@ Commands for bulk enabling/disabling of plugins. Useful for debugging when you h
 - **下载量**：9.5K
 - **最后更新**：2025-01-15
 - **GitHub**：[chrisgrieser/obsidian-divide-and-conquer](https://github.com/chrisgrieser/obsidian-divide-and-conquer)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

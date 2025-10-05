@@ -6,7 +6,7 @@ downloads: 242
 updated: 1717049758000
 repo: Tej-Sharma/notes2tweets-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1717049758000"
   repo="Tej-Sharma/notes2tweets-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate tweets automatically from all the notes you took
 - **下载量**：242
 - **最后更新**：2024-05-30
 - **GitHub**：[Tej-Sharma/notes2tweets-obsidian](https://github.com/Tej-Sharma/notes2tweets-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

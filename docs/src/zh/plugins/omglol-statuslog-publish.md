@@ -6,7 +6,7 @@ downloads: 2067
 updated: 1700934255000
 repo: MayMeow/obsidian-omglol-statuslog
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1700934255000"
   repo="MayMeow/obsidian-omglol-statuslog"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Post selected text to OMG.lol statuslog.
 - **下载量**：2.1K
 - **最后更新**：2023-11-26
 - **GitHub**：[MayMeow/obsidian-omglol-statuslog](https://github.com/MayMeow/obsidian-omglol-statuslog)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

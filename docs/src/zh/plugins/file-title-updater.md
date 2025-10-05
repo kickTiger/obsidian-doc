@@ -2,11 +2,11 @@
 title: File Title Updater
 description: Synchronize titles between filename, frontmatter, and first heading in notes.
 author: wenlzhang
-downloads: 1820
+downloads: 1828
 updated: 1754131231000
 repo: wenlzhang/obsidian-file-title-updater
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="File Title Updater"
   description="Synchronize titles between filename, frontmatter, and first heading in notes."
   author="wenlzhang"
-  :downloads="1820"
+  :downloads="1828"
   :updated="1754131231000"
   repo="wenlzhang/obsidian-file-title-updater"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Synchronize titles between filename, frontmatter, and first heading in notes.
 - **下载量**：1.8K
 - **最后更新**：2025-08-02
 - **GitHub**：[wenlzhang/obsidian-file-title-updater](https://github.com/wenlzhang/obsidian-file-title-updater)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

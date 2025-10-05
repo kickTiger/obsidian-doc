@@ -1,12 +1,12 @@
 ---
 title: Remember File State
-description: Remember cursor position, selection, scrolling, and more for each file.
+description: 记住每个文件的光标位置、选择、滚动等信息。
 author: Ludovic Chabant
-downloads: 12701
+downloads: 12712
 updated: 1700616334000
 repo: ludovicchabant/obsidian-remember-file-state
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-remember-file-state"
   name="Remember File State"
-  description="Remember cursor position, selection, scrolling, and more for each file."
+  description="记住每个文件的光标位置、选择、滚动等信息。"
   author="Ludovic Chabant"
-  :downloads="12701"
+  :downloads="12712"
   :updated="1700616334000"
   repo="ludovicchabant/obsidian-remember-file-state"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Remember File State 是一个功能强大的 Obsidian 插件。
 
-Remember cursor position, selection, scrolling, and more for each file.
+记住每个文件的光标位置、选择、滚动等信息。
 
 通过 Remember File State,您可以:
 
@@ -202,7 +202,7 @@ Remember cursor position, selection, scrolling, and more for each file.
 - **下载量**：12.7K
 - **最后更新**：2023-11-22
 - **GitHub**：[ludovicchabant/obsidian-remember-file-state](https://github.com/ludovicchabant/obsidian-remember-file-state)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

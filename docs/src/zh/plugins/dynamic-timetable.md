@@ -1,12 +1,12 @@
 ---
 title: Dynamic Timetable
-description: Calculate the estimated time of completion from the estimated time of the task and dynamically create a timetable.
+description: 根据任务的预计时间计算预计完成时间，并动态创建时间表。
 author: L7Cy
-downloads: 9942
+downloads: 9949
 updated: 1698030988000
 repo: L7Cy/obsidian-dynamic-timetable
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="dynamic-timetable"
   name="Dynamic Timetable"
-  description="Calculate the estimated time of completion from the estimated time of the task and dynamically create a timetable."
+  description="根据任务的预计时间计算预计完成时间，并动态创建时间表。"
   author="L7Cy"
-  :downloads="9942"
+  :downloads="9949"
   :updated="1698030988000"
   repo="L7Cy/obsidian-dynamic-timetable"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dynamic Timetable 是一个功能强大的 Obsidian 插件。
 
-Calculate the estimated time of completion from the estimated time of the task and dynamically create a timetable.
+根据任务的预计时间计算预计完成时间，并动态创建时间表。
 
 通过 Dynamic Timetable,您可以:
 
@@ -202,7 +202,7 @@ Calculate the estimated time of completion from the estimated time of the task a
 - **下载量**：9.9K
 - **最后更新**：2023-10-23
 - **GitHub**：[L7Cy/obsidian-dynamic-timetable](https://github.com/L7Cy/obsidian-dynamic-timetable)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

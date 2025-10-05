@@ -2,11 +2,11 @@
 title: Rainbow Folders Fixer
 description: Stop rainbow folders from changing colors when you scroll through the File explorer.
 author: Dee
-downloads: 574
+downloads: 578
 updated: 1744421788000
 repo: dee158/obsidian-rainbow-folders-fixer
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Rainbow Folders Fixer"
   description="Stop rainbow folders from changing colors when you scroll through the File explorer."
   author="Dee"
-  :downloads="574"
+  :downloads="578"
   :updated="1744421788000"
   repo="dee158/obsidian-rainbow-folders-fixer"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Stop rainbow folders from changing colors when you scroll through the File explo
 - **插件 ID**：rainbow-folders-fixer
 - **作者**：Dee
 - **当前版本**：v1.0.0
-- **下载量**：574
+- **下载量**：578
 - **最后更新**：2025-04-12
 - **GitHub**：[dee158/obsidian-rainbow-folders-fixer](https://github.com/dee158/obsidian-rainbow-folders-fixer)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

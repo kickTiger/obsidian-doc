@@ -1,12 +1,12 @@
 ---
 title: 3D Graph New
-description: A 3D Graph view.
+description: 三维图形视图
 author: Hananoshika Yomaru (original by Alexander Weichart)
-downloads: 16628
+downloads: 16653
 updated: 1703372745000
 repo: HananoshikaYomaru/obsidian-3d-graph
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="3d-graph-new"
   name="3D Graph New"
-  description="A 3D Graph view."
+  description="三维图形视图"
   author="Hananoshika Yomaru (original by Alexander Weichart)"
-  :downloads="16628"
+  :downloads="16653"
   :updated="1703372745000"
   repo="HananoshikaYomaru/obsidian-3d-graph"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 3D Graph New 是一个功能强大的 Obsidian 插件。
 
-A 3D Graph view.
+三维图形视图
 
 通过 3D Graph New,您可以:
 
@@ -199,10 +199,10 @@ A 3D Graph view.
 - **插件 ID**：3d-graph-new
 - **作者**：Hananoshika Yomaru (original by Alexander Weichart)
 - **当前版本**：v1.0.0
-- **下载量**：16.6K
+- **下载量**：16.7K
 - **最后更新**：2023-12-24
 - **GitHub**：[HananoshikaYomaru/obsidian-3d-graph](https://github.com/HananoshikaYomaru/obsidian-3d-graph)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Dirtreeist
-description: Render a directory Structure Diagram from a Markdown lists in codeblock.
+description: 从 codeblock 中的 Markdown 列表渲染目录结构图。
 author: kasahala
-downloads: 6261
+downloads: 6264
 updated: 1667305519000
 repo: k4a-l/obsidian-dirtreeist
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-dirtreeist"
   name="Dirtreeist"
-  description="Render a directory Structure Diagram from a Markdown lists in codeblock."
+  description="从 codeblock 中的 Markdown 列表渲染目录结构图。"
   author="kasahala"
-  :downloads="6261"
+  :downloads="6264"
   :updated="1667305519000"
   repo="k4a-l/obsidian-dirtreeist"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dirtreeist 是一个功能强大的 Obsidian 插件。
 
-Render a directory Structure Diagram from a Markdown lists in codeblock.
+从 codeblock 中的 Markdown 列表渲染目录结构图。
 
 通过 Dirtreeist,您可以:
 
@@ -202,7 +202,7 @@ Render a directory Structure Diagram from a Markdown lists in codeblock.
 - **下载量**：6.3K
 - **最后更新**：2022-11-01
 - **GitHub**：[k4a-l/obsidian-dirtreeist](https://github.com/k4a-l/obsidian-dirtreeist)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

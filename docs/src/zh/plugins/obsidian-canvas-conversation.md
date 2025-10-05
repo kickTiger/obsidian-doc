@@ -1,12 +1,12 @@
 ---
 title: Canvas Conversation
-description: Create a canvas conversation using ChatGPT.
+description: 使用 ChatGPT 创建画布对话。
 author: André Baltazar
-downloads: 6865
+downloads: 6867
 updated: 1675113299000
 repo: AndreBaltazar8/obsidian-canvas-conversation
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-canvas-conversation"
   name="Canvas Conversation"
-  description="Create a canvas conversation using ChatGPT."
+  description="使用 ChatGPT 创建画布对话。"
   author="André Baltazar"
-  :downloads="6865"
+  :downloads="6867"
   :updated="1675113299000"
   repo="AndreBaltazar8/obsidian-canvas-conversation"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas Conversation 是一个功能强大的 Obsidian 插件。
 
-Create a canvas conversation using ChatGPT.
+使用 ChatGPT 创建画布对话。
 
 通过 Canvas Conversation,您可以:
 
@@ -202,7 +202,7 @@ Create a canvas conversation using ChatGPT.
 - **下载量**：6.9K
 - **最后更新**：2023-01-31
 - **GitHub**：[AndreBaltazar8/obsidian-canvas-conversation](https://github.com/AndreBaltazar8/obsidian-canvas-conversation)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

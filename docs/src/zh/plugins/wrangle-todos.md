@@ -2,11 +2,11 @@
 title: TODO Wrangler
 description: Wrangle your TODOs and put them at the bottom of the file.
 author: Jeel Shah
-downloads: 3513
+downloads: 3515
 updated: 1707787783000
 repo: Jeel-Shah/todo-wrangler
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="TODO Wrangler"
   description="Wrangle your TODOs and put them at the bottom of the file."
   author="Jeel Shah"
-  :downloads="3513"
+  :downloads="3515"
   :updated="1707787783000"
   repo="Jeel-Shah/todo-wrangler"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Wrangle your TODOs and put them at the bottom of the file.
 - **下载量**：3.5K
 - **最后更新**：2024-02-13
 - **GitHub**：[Jeel-Shah/todo-wrangler](https://github.com/Jeel-Shah/todo-wrangler)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

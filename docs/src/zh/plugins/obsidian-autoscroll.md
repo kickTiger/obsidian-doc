@@ -1,12 +1,12 @@
 ---
 title: Autoscroll
-description: Automatically scroll down the content with the provided speed.
+description: 以提供的速度自动向下滚动内容。
 author: Petr Nazarov
-downloads: 4607
+downloads: 4612
 updated: 1734211067000
 repo: petr-nazarov/obsidian-autoscroll
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-autoscroll"
   name="Autoscroll"
-  description="Automatically scroll down the content with the provided speed."
+  description="以提供的速度自动向下滚动内容。"
   author="Petr Nazarov"
-  :downloads="4607"
+  :downloads="4612"
   :updated="1734211067000"
   repo="petr-nazarov/obsidian-autoscroll"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Autoscroll 是一个功能强大的 Obsidian 插件。
 
-Automatically scroll down the content with the provided speed.
+以提供的速度自动向下滚动内容。
 
 通过 Autoscroll,您可以:
 
@@ -202,7 +202,7 @@ Automatically scroll down the content with the provided speed.
 - **下载量**：4.6K
 - **最后更新**：2024-12-15
 - **GitHub**：[petr-nazarov/obsidian-autoscroll](https://github.com/petr-nazarov/obsidian-autoscroll)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

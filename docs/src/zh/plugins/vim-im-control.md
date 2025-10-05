@@ -2,11 +2,11 @@
 title: Vim IM Control
 description: 'Switch input method when `InsertLeave` and `InsertEnter`. Supports macOS, Windows, and Linux.'
 author: hideakitai
-downloads: 3008
+downloads: 3010
 updated: 1702946186000
 repo: hideakitai/obsidian-vim-im-control
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Vim IM Control"
   description="Switch input method when `InsertLeave` and `InsertEnter`. Supports macOS, Windows, and Linux."
   author="hideakitai"
-  :downloads="3008"
+  :downloads="3010"
   :updated="1702946186000"
   repo="hideakitai/obsidian-vim-im-control"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Switch input method when `InsertLeave` and `InsertEnter`. Supports macOS, Window
 - **下载量**：3.0K
 - **最后更新**：2023-12-19
 - **GitHub**：[hideakitai/obsidian-vim-im-control](https://github.com/hideakitai/obsidian-vim-im-control)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

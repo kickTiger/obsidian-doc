@@ -1,12 +1,12 @@
 ---
 title: NovelAI
-description: 'Generate text with NovelAI''s models.'
+description: 使用 NovelAI 的模型生成文本。
 author: SGreen
 downloads: 5953
 updated: 1734683307000
 repo: SalokinGreen/NAI4Obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="nai4obsidian"
   name="NovelAI"
-  description="Generate text with NovelAI&#39;s models."
+  description="使用 NovelAI 的模型生成文本。"
   author="SGreen"
   :downloads="5953"
   :updated="1734683307000"
   repo="SalokinGreen/NAI4Obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 NovelAI 是一个功能强大的 Obsidian 插件。
 
-Generate text with NovelAI&#39;s models.
+使用 NovelAI 的模型生成文本。
 
 通过 NovelAI,您可以:
 
@@ -202,7 +202,7 @@ Generate text with NovelAI&#39;s models.
 - **下载量**：6.0K
 - **最后更新**：2024-12-20
 - **GitHub**：[SalokinGreen/NAI4Obsidian](https://github.com/SalokinGreen/NAI4Obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

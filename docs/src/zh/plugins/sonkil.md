@@ -6,7 +6,7 @@ downloads: 85
 updated: 1747743816000
 repo: ohyoungpark/obsidian-sonkil
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1747743816000"
   repo="ohyoungpark/obsidian-sonkil"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Provides Emacs-style text operations like Kill/Yank (Kill Ring), multi-cursor ed
 - **下载量**：85
 - **最后更新**：2025-05-20
 - **GitHub**：[ohyoungpark/obsidian-sonkil](https://github.com/ohyoungpark/obsidian-sonkil)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

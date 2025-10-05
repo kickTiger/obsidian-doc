@@ -2,11 +2,11 @@
 title: LLM workspace
 description: Use Large Language Models grounded in your notes.
 author: Olivér Falvai
-downloads: 1518
+downloads: 1519
 updated: 1750003293000
 repo: ofalvai/obsidian-llm-workspace
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="LLM workspace"
   description="Use Large Language Models grounded in your notes."
   author="Olivér Falvai"
-  :downloads="1518"
+  :downloads="1519"
   :updated="1750003293000"
   repo="ofalvai/obsidian-llm-workspace"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Use Large Language Models grounded in your notes.
 - **下载量**：1.5K
 - **最后更新**：2025-06-16
 - **GitHub**：[ofalvai/obsidian-llm-workspace](https://github.com/ofalvai/obsidian-llm-workspace)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

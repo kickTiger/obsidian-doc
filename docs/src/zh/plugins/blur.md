@@ -1,12 +1,12 @@
 ---
 title: Blur
-description: Create obfuscated blocks of text.
+description: 创建混淆文本块。
 author: '@gapmiss'
-downloads: 5592
+downloads: 5594
 updated: 1687385112000
 repo: gapmiss/blur
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="blur"
   name="Blur"
-  description="Create obfuscated blocks of text."
+  description="创建混淆文本块。"
   author="@gapmiss"
-  :downloads="5592"
+  :downloads="5594"
   :updated="1687385112000"
   repo="gapmiss/blur"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Blur 是一个功能强大的 Obsidian 插件。
 
-Create obfuscated blocks of text.
+创建混淆文本块。
 
 通过 Blur,您可以:
 
@@ -202,7 +202,7 @@ Create obfuscated blocks of text.
 - **下载量**：5.6K
 - **最后更新**：2023-06-22
 - **GitHub**：[gapmiss/blur](https://github.com/gapmiss/blur)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

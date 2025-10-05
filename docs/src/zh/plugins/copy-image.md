@@ -1,12 +1,12 @@
 ---
 title: Copy Image
-description: Easily copy images to clipboard by right-clicking an image.
+description: 右键单击图像，轻松将图像复制到剪贴板。
 author: Felipe D.S. Lima
-downloads: 9778
+downloads: 9802
 updated: 1758996661000
 repo: felipe-ds-lima/obsidian-copy-image-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="copy-image"
   name="Copy Image"
-  description="Easily copy images to clipboard by right-clicking an image."
+  description="右键单击图像，轻松将图像复制到剪贴板。"
   author="Felipe D.S. Lima"
-  :downloads="9778"
+  :downloads="9802"
   :updated="1758996661000"
   repo="felipe-ds-lima/obsidian-copy-image-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Copy Image 是一个功能强大的 Obsidian 插件。
 
-Easily copy images to clipboard by right-clicking an image.
+右键单击图像，轻松将图像复制到剪贴板。
 
 通过 Copy Image,您可以:
 
@@ -202,7 +202,7 @@ Easily copy images to clipboard by right-clicking an image.
 - **下载量**：9.8K
 - **最后更新**：2025-09-28
 - **GitHub**：[felipe-ds-lima/obsidian-copy-image-plugin](https://github.com/felipe-ds-lima/obsidian-copy-image-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

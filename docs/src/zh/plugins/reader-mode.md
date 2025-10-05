@@ -6,7 +6,7 @@ downloads: 390
 updated: 1738508057000
 repo: dominikmayer/obsidian-reader-mode
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1738508057000"
   repo="dominikmayer/obsidian-reader-mode"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Ensures notes are always opened in reader mode.
 - **下载量**：390
 - **最后更新**：2025-02-02
 - **GitHub**：[dominikmayer/obsidian-reader-mode](https://github.com/dominikmayer/obsidian-reader-mode)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

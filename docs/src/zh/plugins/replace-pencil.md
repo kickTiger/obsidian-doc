@@ -6,7 +6,7 @@ downloads: 109
 updated: 1751879713000
 repo: penyt/replace-pencil
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1751879713000"
   repo="penyt/replace-pencil"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily replace the custom variable in the code block.
 - **下载量**：109
 - **最后更新**：2025-07-07
 - **GitHub**：[penyt/replace-pencil](https://github.com/penyt/replace-pencil)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

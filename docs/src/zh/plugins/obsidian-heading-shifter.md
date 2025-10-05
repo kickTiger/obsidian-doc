@@ -1,12 +1,12 @@
 ---
 title: Heading Shifter
-description: Easily Shift and Change Markdown headings.
+description: 轻松移动和更改 Markdown 标题
 author: kasahala
-downloads: 24172
+downloads: 24229
 updated: 1759150383000
 repo: k4a-l/obsidian-heading-shifter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-heading-shifter"
   name="Heading Shifter"
-  description="Easily Shift and Change Markdown headings."
+  description="轻松移动和更改 Markdown 标题"
   author="kasahala"
-  :downloads="24172"
+  :downloads="24229"
   :updated="1759150383000"
   repo="k4a-l/obsidian-heading-shifter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Heading Shifter 是一个功能强大的 Obsidian 插件。
 
-Easily Shift and Change Markdown headings.
+轻松移动和更改 Markdown 标题
 
 通过 Heading Shifter,您可以:
 
@@ -202,7 +202,7 @@ Easily Shift and Change Markdown headings.
 - **下载量**：24.2K
 - **最后更新**：2025-09-29
 - **GitHub**：[k4a-l/obsidian-heading-shifter](https://github.com/k4a-l/obsidian-heading-shifter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

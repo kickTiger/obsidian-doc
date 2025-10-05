@@ -1,12 +1,12 @@
 ---
 title: MetaEdit
-description: Manage your metadata.
+description: 管理元数据
 author: Christian B. B. Houmann
-downloads: 111861
+downloads: 111900
 updated: 1690744137000
 repo: chhoumann/MetaEdit
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="metaedit"
   name="MetaEdit"
-  description="Manage your metadata."
+  description="管理元数据"
   author="Christian B. B. Houmann"
-  :downloads="111861"
+  :downloads="111900"
   :updated="1690744137000"
   repo="chhoumann/MetaEdit"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MetaEdit 是一个功能强大的 Obsidian 插件。
 
-Manage your metadata.
+管理元数据
 
 通过 MetaEdit,您可以:
 
@@ -202,7 +202,7 @@ Manage your metadata.
 - **下载量**：111.9K
 - **最后更新**：2023-07-31
 - **GitHub**：[chhoumann/MetaEdit](https://github.com/chhoumann/MetaEdit)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Full Calendar
-description: Keep events and manage your calendar alongside all your other notes in your vault.
+description: 在日历视图中查看和管理事件。
 author: 'Davis Haupt (@davish)'
-downloads: 343019
+downloads: 343294
 updated: 1680794532000
 repo: obsidian-community/obsidian-full-calendar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-full-calendar"
   name="Full Calendar"
-  description="Keep events and manage your calendar alongside all your other notes in your vault."
+  description="在日历视图中查看和管理事件。"
   author="Davis Haupt (@davish)"
-  :downloads="343019"
+  :downloads="343294"
   :updated="1680794532000"
   repo="obsidian-community/obsidian-full-calendar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Full Calendar 是一个功能强大的 Obsidian 插件。
 
-Keep events and manage your calendar alongside all your other notes in your vault.
+在日历视图中查看和管理事件。
 
 通过 Full Calendar,您可以:
 
@@ -199,10 +199,10 @@ Keep events and manage your calendar alongside all your other notes in your vaul
 - **插件 ID**：obsidian-full-calendar
 - **作者**：Davis Haupt (@davish)
 - **当前版本**：v1.0.0
-- **下载量**：343.0K
+- **下载量**：343.3K
 - **最后更新**：2023-04-06
 - **GitHub**：[obsidian-community/obsidian-full-calendar](https://github.com/obsidian-community/obsidian-full-calendar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

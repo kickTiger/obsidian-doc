@@ -1,12 +1,12 @@
 ---
 title: Extended Graph
-description: Extends the features of the core Graph view, display images, manage states, remove links, change node shapes, and more.
+description: 扩展了核心图表视图的功能，包括显示图像、管理状态、移除链接、更改节点形状等。
 author: Kapirklaa
-downloads: 23510
+downloads: 23649
 updated: 1756708574000
 repo: ElsaTam/obsidian-extended-graph
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="extended-graph"
   name="Extended Graph"
-  description="Extends the features of the core Graph view, display images, manage states, remove links, change node shapes, and more."
+  description="扩展了核心图表视图的功能，包括显示图像、管理状态、移除链接、更改节点形状等。"
   author="Kapirklaa"
-  :downloads="23510"
+  :downloads="23649"
   :updated="1756708574000"
   repo="ElsaTam/obsidian-extended-graph"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Extended Graph 是一个功能强大的 Obsidian 插件。
 
-Extends the features of the core Graph view, display images, manage states, remove links, change node shapes, and more.
+扩展了核心图表视图的功能，包括显示图像、管理状态、移除链接、更改节点形状等。
 
 通过 Extended Graph,您可以:
 
@@ -199,10 +199,10 @@ Extends the features of the core Graph view, display images, manage states, remo
 - **插件 ID**：extended-graph
 - **作者**：Kapirklaa
 - **当前版本**：v1.0.0
-- **下载量**：23.5K
+- **下载量**：23.6K
 - **最后更新**：2025-09-01
 - **GitHub**：[ElsaTam/obsidian-extended-graph](https://github.com/ElsaTam/obsidian-extended-graph)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

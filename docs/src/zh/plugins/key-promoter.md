@@ -1,12 +1,12 @@
 ---
 title: Key Promoter
-description: Learn keyboard shortcuts by showing them when using the mouse.
+description: 通过在使用鼠标时显示键盘快捷键来学习键盘快捷键。
 author: Johannes Theiner
-downloads: 14907
+downloads: 14910
 updated: 1734355710000
 repo: joethei/obsidian-key-promoter
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="key-promoter"
   name="Key Promoter"
-  description="Learn keyboard shortcuts by showing them when using the mouse."
+  description="通过在使用鼠标时显示键盘快捷键来学习键盘快捷键。"
   author="Johannes Theiner"
-  :downloads="14907"
+  :downloads="14910"
   :updated="1734355710000"
   repo="joethei/obsidian-key-promoter"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Key Promoter 是一个功能强大的 Obsidian 插件。
 
-Learn keyboard shortcuts by showing them when using the mouse.
+通过在使用鼠标时显示键盘快捷键来学习键盘快捷键。
 
 通过 Key Promoter,您可以:
 
@@ -202,7 +202,7 @@ Learn keyboard shortcuts by showing them when using the mouse.
 - **下载量**：14.9K
 - **最后更新**：2024-12-16
 - **GitHub**：[joethei/obsidian-key-promoter](https://github.com/joethei/obsidian-key-promoter)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

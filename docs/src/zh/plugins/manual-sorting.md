@@ -1,12 +1,12 @@
 ---
 title: Manual Sorting
-description: 'Drag''n''Drop sorting within file explorer.'
+description: 在文件资源管理器中拖放排序。
 author: Kh4f
-downloads: 22894
+downloads: 23015
 updated: 1746331585000
 repo: kh4f/manual-sorting
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="manual-sorting"
   name="Manual Sorting"
-  description="Drag&#39;n&#39;Drop sorting within file explorer."
+  description="在文件资源管理器中拖放排序。"
   author="Kh4f"
-  :downloads="22894"
+  :downloads="23015"
   :updated="1746331585000"
   repo="kh4f/manual-sorting"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Manual Sorting 是一个功能强大的 Obsidian 插件。
 
-Drag&#39;n&#39;Drop sorting within file explorer.
+在文件资源管理器中拖放排序。
 
 通过 Manual Sorting,您可以:
 
@@ -199,10 +199,10 @@ Drag&#39;n&#39;Drop sorting within file explorer.
 - **插件 ID**：manual-sorting
 - **作者**：Kh4f
 - **当前版本**：v1.0.0
-- **下载量**：22.9K
+- **下载量**：23.0K
 - **最后更新**：2025-05-04
 - **GitHub**：[kh4f/manual-sorting](https://github.com/kh4f/manual-sorting)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

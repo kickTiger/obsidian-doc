@@ -1,12 +1,12 @@
 ---
 title: MTG Card Links
-description: Link to Magic the Gathering cards by enclosing the card name in square brackets.
+description: 用方括号括住魔法集锦卡的名称，即可链接到魔法集锦卡。
 author: Aedan Smith
 downloads: 3744
 updated: 1720388334000
 repo: aedans/mtg-card-links
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mtg-card-links"
   name="MTG Card Links"
-  description="Link to Magic the Gathering cards by enclosing the card name in square brackets."
+  description="用方括号括住魔法集锦卡的名称，即可链接到魔法集锦卡。"
   author="Aedan Smith"
   :downloads="3744"
   :updated="1720388334000"
   repo="aedans/mtg-card-links"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MTG Card Links 是一个功能强大的 Obsidian 插件。
 
-Link to Magic the Gathering cards by enclosing the card name in square brackets.
+用方括号括住魔法集锦卡的名称，即可链接到魔法集锦卡。
 
 通过 MTG Card Links,您可以:
 
@@ -202,7 +202,7 @@ Link to Magic the Gathering cards by enclosing the card name in square brackets.
 - **下载量**：3.7K
 - **最后更新**：2024-07-08
 - **GitHub**：[aedans/mtg-card-links](https://github.com/aedans/mtg-card-links)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

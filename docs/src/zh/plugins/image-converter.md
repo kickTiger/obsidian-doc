@@ -1,12 +1,12 @@
 ---
 title: Image Converter
-description: 'Convert, compress, resize, annotate, markup, draw, crop, rotate, flip, align, drag-resize, rename with variables, and batch process images: WEBP, JPG, PNG, HEIC, TIF'
+description: 转换、压缩、调整大小、注释、标记、绘制、裁剪、旋转、翻转、对齐、拖动-调整大小、使用变量重命名以及批量处理图像：webp、jpg、png、heic、tif
 author: xRyul
-downloads: 255155
+downloads: 255758
 updated: 1757867735000
 repo: xRyul/obsidian-image-converter
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="image-converter"
   name="Image Converter"
-  description="Convert, compress, resize, annotate, markup, draw, crop, rotate, flip, align, drag-resize, rename with variables, and batch process images: WEBP, JPG, PNG, HEIC, TIF"
+  description="转换、压缩、调整大小、注释、标记、绘制、裁剪、旋转、翻转、对齐、拖动-调整大小、使用变量重命名以及批量处理图像：webp、jpg、png、heic、tif"
   author="xRyul"
-  :downloads="255155"
+  :downloads="255758"
   :updated="1757867735000"
   repo="xRyul/obsidian-image-converter"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Converter 是一个功能强大的 Obsidian 插件。
 
-Convert, compress, resize, annotate, markup, draw, crop, rotate, flip, align, drag-resize, rename with variables, and batch process images: WEBP, JPG, PNG, HEIC, TIF
+转换、压缩、调整大小、注释、标记、绘制、裁剪、旋转、翻转、对齐、拖动-调整大小、使用变量重命名以及批量处理图像：webp、jpg、png、heic、tif
 
 通过 Image Converter,您可以:
 
@@ -199,10 +199,10 @@ Convert, compress, resize, annotate, markup, draw, crop, rotate, flip, align, dr
 - **插件 ID**：image-converter
 - **作者**：xRyul
 - **当前版本**：v1.0.0
-- **下载量**：255.2K
+- **下载量**：255.8K
 - **最后更新**：2025-09-15
 - **GitHub**：[xRyul/obsidian-image-converter](https://github.com/xRyul/obsidian-image-converter)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

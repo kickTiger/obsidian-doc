@@ -1,12 +1,12 @@
 ---
 title: ReadItLater
-description: Save online content to your Vault, utilize embedded template engine and organize your reading list to your needs. Preserve the web with ReadItLater.
+description: 将在线内容保存到您的 Vault，利用嵌入式模板引擎，并根据您的需要组织您的阅读列表。用 ReadItLater 保存网络内容。
 author: Dominik Pieper
-downloads: 118773
+downloads: 118804
 updated: 1738083454000
 repo: DominikPieper/obsidian-ReadItLater
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-read-it-later"
   name="ReadItLater"
-  description="Save online content to your Vault, utilize embedded template engine and organize your reading list to your needs. Preserve the web with ReadItLater."
+  description="将在线内容保存到您的 Vault，利用嵌入式模板引擎，并根据您的需要组织您的阅读列表。用 ReadItLater 保存网络内容。"
   author="Dominik Pieper"
-  :downloads="118773"
+  :downloads="118804"
   :updated="1738083454000"
   repo="DominikPieper/obsidian-ReadItLater"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ReadItLater 是一个功能强大的 Obsidian 插件。
 
-Save online content to your Vault, utilize embedded template engine and organize your reading list to your needs. Preserve the web with ReadItLater.
+将在线内容保存到您的 Vault，利用嵌入式模板引擎，并根据您的需要组织您的阅读列表。用 ReadItLater 保存网络内容。
 
 通过 ReadItLater,您可以:
 
@@ -202,7 +202,7 @@ Save online content to your Vault, utilize embedded template engine and organize
 - **下载量**：118.8K
 - **最后更新**：2025-01-29
 - **GitHub**：[DominikPieper/obsidian-ReadItLater](https://github.com/DominikPieper/obsidian-ReadItLater)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 742
 updated: 1719155831000
 repo: jlweston/obsidian-note-proximity-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1719155831000"
   repo="jlweston/obsidian-note-proximity-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Find similar notes based on the frequency of terms within the vault.
 - **下载量**：742
 - **最后更新**：2024-06-23
 - **GitHub**：[jlweston/obsidian-note-proximity-plugin](https://github.com/jlweston/obsidian-note-proximity-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

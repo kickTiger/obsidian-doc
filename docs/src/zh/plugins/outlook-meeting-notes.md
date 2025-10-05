@@ -1,12 +1,12 @@
 ---
 title: Outlook Meeting Notes
-description: Creates meeting notes for Outlook appointments and meetings.
+description: 为 Outlook 约会和会议创建会议记录。
 author: David Ingerslev
-downloads: 4765
+downloads: 4785
 updated: 1743583469000
 repo: davidingerslev/outlook-meeting-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="outlook-meeting-notes"
   name="Outlook Meeting Notes"
-  description="Creates meeting notes for Outlook appointments and meetings."
+  description="为 Outlook 约会和会议创建会议记录。"
   author="David Ingerslev"
-  :downloads="4765"
+  :downloads="4785"
   :updated="1743583469000"
   repo="davidingerslev/outlook-meeting-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Outlook Meeting Notes 是一个功能强大的 Obsidian 插件。
 
-Creates meeting notes for Outlook appointments and meetings.
+为 Outlook 约会和会议创建会议记录。
 
 通过 Outlook Meeting Notes,您可以:
 
@@ -202,7 +202,7 @@ Creates meeting notes for Outlook appointments and meetings.
 - **下载量**：4.8K
 - **最后更新**：2025-04-02
 - **GitHub**：[davidingerslev/outlook-meeting-notes](https://github.com/davidingerslev/outlook-meeting-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

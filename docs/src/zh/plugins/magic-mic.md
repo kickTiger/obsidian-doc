@@ -2,11 +2,11 @@
 title: Magic Mic
 description: Record, transcribe, and summarize audio directly into your vault with custom assistants.
 author: Drew McDonald
-downloads: 2270
+downloads: 2275
 updated: 1728860950000
 repo: drewmcdonald/obsidian-magic-mic
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Magic Mic"
   description="Record, transcribe, and summarize audio directly into your vault with custom assistants."
   author="Drew McDonald"
-  :downloads="2270"
+  :downloads="2275"
   :updated="1728860950000"
   repo="drewmcdonald/obsidian-magic-mic"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Record, transcribe, and summarize audio directly into your vault with custom ass
 - **下载量**：2.3K
 - **最后更新**：2024-10-14
 - **GitHub**：[drewmcdonald/obsidian-magic-mic](https://github.com/drewmcdonald/obsidian-magic-mic)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

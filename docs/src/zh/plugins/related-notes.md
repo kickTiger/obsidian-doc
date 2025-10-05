@@ -2,11 +2,11 @@
 title: Related Notes
 description: Discover related notes in your vault.
 author: Oluwasanya Awe
-downloads: 2109
+downloads: 2110
 updated: 1754581637000
 repo: mrboxtobox/obsidian-related-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Related Notes"
   description="Discover related notes in your vault."
   author="Oluwasanya Awe"
-  :downloads="2109"
+  :downloads="2110"
   :updated="1754581637000"
   repo="mrboxtobox/obsidian-related-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Discover related notes in your vault.
 - **下载量**：2.1K
 - **最后更新**：2025-08-07
 - **GitHub**：[mrboxtobox/obsidian-related-notes](https://github.com/mrboxtobox/obsidian-related-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

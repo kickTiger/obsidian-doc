@@ -1,12 +1,12 @@
 ---
 title: Share to Notion
-description: Share files to Notion with the Notion API.
+description: 使用 Notion API 共享文件到 Notion。
 author: Easychris
-downloads: 24410
+downloads: 24426
 updated: 1672552969000
 repo: EasyChris/obsidian-to-notion
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-to-notion"
   name="Share to Notion"
-  description="Share files to Notion with the Notion API."
+  description="使用 Notion API 共享文件到 Notion。"
   author="Easychris"
-  :downloads="24410"
+  :downloads="24426"
   :updated="1672552969000"
   repo="EasyChris/obsidian-to-notion"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Share to Notion 是一个功能强大的 Obsidian 插件。
 
-Share files to Notion with the Notion API.
+使用 Notion API 共享文件到 Notion。
 
 通过 Share to Notion,您可以:
 
@@ -202,7 +202,7 @@ Share files to Notion with the Notion API.
 - **下载量**：24.4K
 - **最后更新**：2023-01-01
 - **GitHub**：[EasyChris/obsidian-to-notion](https://github.com/EasyChris/obsidian-to-notion)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

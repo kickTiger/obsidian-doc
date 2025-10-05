@@ -6,7 +6,7 @@ downloads: 694
 updated: 1731448194000
 repo: HaloGamer33/Obsidian-Fuzzy-Note-Creator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1731448194000"
   repo="HaloGamer33/Obsidian-Fuzzy-Note-Creator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create notes in folders with the help of a fuzzy finder.
 - **下载量**：694
 - **最后更新**：2024-11-13
 - **GitHub**：[HaloGamer33/Obsidian-Fuzzy-Note-Creator](https://github.com/HaloGamer33/Obsidian-Fuzzy-Note-Creator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

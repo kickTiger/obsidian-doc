@@ -6,7 +6,7 @@ downloads: 186
 updated: 1747331595000
 repo: benstuart0/on-this-day-i-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1747331595000"
   repo="benstuart0/on-this-day-i-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Summarize a calendar date in years past with Daily Journals
 - **下载量**：186
 - **最后更新**：2025-05-16
 - **GitHub**：[benstuart0/on-this-day-i-obsidian](https://github.com/benstuart0/on-this-day-i-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

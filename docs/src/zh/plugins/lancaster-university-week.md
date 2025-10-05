@@ -6,7 +6,7 @@ downloads: 66
 updated: 1746185943000
 repo: IMB11/ObsidianLUWeeks
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1746185943000"
   repo="IMB11/ObsidianLUWeeks"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Lancaster University Week Format 是一个功能强大的 Obsidian 插件。
 - **下载量**：66
 - **最后更新**：2025-05-02
 - **GitHub**：[IMB11/ObsidianLUWeeks](https://github.com/IMB11/ObsidianLUWeeks)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

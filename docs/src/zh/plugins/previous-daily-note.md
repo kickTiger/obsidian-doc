@@ -6,7 +6,7 @@ downloads: 168
 updated: 1741698907000
 repo: talau/obsidian-previous-daily-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1741698907000"
   repo="talau/obsidian-previous-daily-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Unlike the &quot;Daily notes&quot; command &quot;Open previous daily note&quot;,
 - **下载量**：168
 - **最后更新**：2025-03-11
 - **GitHub**：[talau/obsidian-previous-daily-note](https://github.com/talau/obsidian-previous-daily-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

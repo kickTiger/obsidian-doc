@@ -1,12 +1,12 @@
 ---
 title: Fit
-description: Minimalist File gIT (FIT) to sync your files across mobile and desktop devices using GitHub.
+description: Minimalist File gIT (FIT) 利用 GitHub 在移动和桌面设备上同步文件。
 author: joshuakto
-downloads: 34270
+downloads: 34344
 updated: 1757190206000
 repo: joshuakto/fit
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="fit"
   name="Fit"
-  description="Minimalist File gIT (FIT) to sync your files across mobile and desktop devices using GitHub."
+  description="Minimalist File gIT (FIT) 利用 GitHub 在移动和桌面设备上同步文件。"
   author="joshuakto"
-  :downloads="34270"
+  :downloads="34344"
   :updated="1757190206000"
   repo="joshuakto/fit"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Fit 是一个功能强大的 Obsidian 插件。
 
-Minimalist File gIT (FIT) to sync your files across mobile and desktop devices using GitHub.
+Minimalist File gIT (FIT) 利用 GitHub 在移动和桌面设备上同步文件。
 
 通过 Fit,您可以:
 
@@ -202,7 +202,7 @@ Minimalist File gIT (FIT) to sync your files across mobile and desktop devices u
 - **下载量**：34.3K
 - **最后更新**：2025-09-07
 - **GitHub**：[joshuakto/fit](https://github.com/joshuakto/fit)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

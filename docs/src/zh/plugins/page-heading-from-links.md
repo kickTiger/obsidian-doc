@@ -1,12 +1,12 @@
 ---
 title: Page Heading From Links
-description: Populate page headings from the file name.
+description: 根据文件名填充页面标题。
 author: Mark Beattie
 downloads: 6789
 updated: 1651467040000
 repo: beet/page-headings-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="page-heading-from-links"
   name="Page Heading From Links"
-  description="Populate page headings from the file name."
+  description="根据文件名填充页面标题。"
   author="Mark Beattie"
   :downloads="6789"
   :updated="1651467040000"
   repo="beet/page-headings-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Page Heading From Links 是一个功能强大的 Obsidian 插件。
 
-Populate page headings from the file name.
+根据文件名填充页面标题。
 
 通过 Page Heading From Links,您可以:
 
@@ -202,7 +202,7 @@ Populate page headings from the file name.
 - **下载量**：6.8K
 - **最后更新**：2022-05-02
 - **GitHub**：[beet/page-headings-obsidian-plugin](https://github.com/beet/page-headings-obsidian-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

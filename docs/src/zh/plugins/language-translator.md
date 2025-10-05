@@ -1,12 +1,12 @@
 ---
 title: Language Translator
-description: Translate selected text in the desired language.
+description: 将所选文本翻译成所需语言。
 author: Florin Bobis
-downloads: 49146
+downloads: 49184
 updated: 1708970868000
 repo: twentytwokhz/language-translator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="language-translator"
   name="Language Translator"
-  description="Translate selected text in the desired language."
+  description="将所选文本翻译成所需语言。"
   author="Florin Bobis"
-  :downloads="49146"
+  :downloads="49184"
   :updated="1708970868000"
   repo="twentytwokhz/language-translator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Language Translator 是一个功能强大的 Obsidian 插件。
 
-Translate selected text in the desired language.
+将所选文本翻译成所需语言。
 
 通过 Language Translator,您可以:
 
@@ -199,10 +199,10 @@ Translate selected text in the desired language.
 - **插件 ID**：language-translator
 - **作者**：Florin Bobis
 - **当前版本**：v1.0.0
-- **下载量**：49.1K
+- **下载量**：49.2K
 - **最后更新**：2024-02-27
 - **GitHub**：[twentytwokhz/language-translator](https://github.com/twentytwokhz/language-translator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

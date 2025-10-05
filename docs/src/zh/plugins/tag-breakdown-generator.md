@@ -6,7 +6,7 @@ downloads: 2678
 updated: 1700539061000
 repo: HananoshikaYomaru/obsidian-tag-generator
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1700539061000"
   repo="HananoshikaYomaru/obsidian-tag-generator"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Break down nested tags into multiple parent tags.
 - **下载量**：2.7K
 - **最后更新**：2023-11-21
 - **GitHub**：[HananoshikaYomaru/obsidian-tag-generator](https://github.com/HananoshikaYomaru/obsidian-tag-generator)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

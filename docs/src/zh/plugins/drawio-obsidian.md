@@ -1,12 +1,12 @@
 ---
 title: Diagrams
-description: Create and edit Draw.io diagrams.
+description: 创建和编辑 Draw.io 图表。
 author: Sam Greenhalgh
-downloads: 160479
+downloads: 160582
 updated: 1737350413000
 repo: zapthedingbat/drawio-obsidian
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="drawio-obsidian"
   name="Diagrams"
-  description="Create and edit Draw.io diagrams."
+  description="创建和编辑 Draw.io 图表。"
   author="Sam Greenhalgh"
-  :downloads="160479"
+  :downloads="160582"
   :updated="1737350413000"
   repo="zapthedingbat/drawio-obsidian"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Diagrams 是一个功能强大的 Obsidian 插件。
 
-Create and edit Draw.io diagrams.
+创建和编辑 Draw.io 图表。
 
 通过 Diagrams,您可以:
 
@@ -199,10 +199,10 @@ Create and edit Draw.io diagrams.
 - **插件 ID**：drawio-obsidian
 - **作者**：Sam Greenhalgh
 - **当前版本**：v1.0.0
-- **下载量**：160.5K
+- **下载量**：160.6K
 - **最后更新**：2025-01-20
 - **GitHub**：[zapthedingbat/drawio-obsidian](https://github.com/zapthedingbat/drawio-obsidian)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Tagvis
 description: Visualize your tags as a configurable sunburst visualization.
 author: Mason Bryant
-downloads: 970
+downloads: 971
 updated: 1741970968000
 repo: mason-bryant/Obsidian-Tagvis
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tagvis"
   description="Visualize your tags as a configurable sunburst visualization."
   author="Mason Bryant"
-  :downloads="970"
+  :downloads="971"
   :updated="1741970968000"
   repo="mason-bryant/Obsidian-Tagvis"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Visualize your tags as a configurable sunburst visualization.
 - **插件 ID**：d3-tagvis
 - **作者**：Mason Bryant
 - **当前版本**：v1.0.0
-- **下载量**：970
+- **下载量**：971
 - **最后更新**：2025-03-15
 - **GitHub**：[mason-bryant/Obsidian-Tagvis](https://github.com/mason-bryant/Obsidian-Tagvis)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

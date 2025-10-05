@@ -1,12 +1,12 @@
 ---
 title: Cannoli
-description: Create and run LLM scripts in canvas.
+description: 在 canvas 中创建并运行 LLM 脚本。
 author: blindmansion
-downloads: 9528
+downloads: 9529
 updated: 1727293660000
 repo: DeabLabs/cannoli
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cannoli"
   name="Cannoli"
-  description="Create and run LLM scripts in canvas."
+  description="在 canvas 中创建并运行 LLM 脚本。"
   author="blindmansion"
-  :downloads="9528"
+  :downloads="9529"
   :updated="1727293660000"
   repo="DeabLabs/cannoli"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Cannoli 是一个功能强大的 Obsidian 插件。
 
-Create and run LLM scripts in canvas.
+在 canvas 中创建并运行 LLM 脚本。
 
 通过 Cannoli,您可以:
 
@@ -202,7 +202,7 @@ Create and run LLM scripts in canvas.
 - **下载量**：9.5K
 - **最后更新**：2024-09-26
 - **GitHub**：[DeabLabs/cannoli](https://github.com/DeabLabs/cannoli)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

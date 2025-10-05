@@ -1,12 +1,12 @@
 ---
 title: Source Scanner
-description: Scanner that extracts comments from source and places it in Markdown files.
+description: 从源代码中提取注释并将其放入 Markdown 文件的扫描器。
 author: Gerrie Myburgh
 downloads: 4193
 updated: 1722225146000
 repo: gerrie-myburgh/source-scanner
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="source-scanner"
   name="Source Scanner"
-  description="Scanner that extracts comments from source and places it in Markdown files."
+  description="从源代码中提取注释并将其放入 Markdown 文件的扫描器。"
   author="Gerrie Myburgh"
   :downloads="4193"
   :updated="1722225146000"
   repo="gerrie-myburgh/source-scanner"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Source Scanner 是一个功能强大的 Obsidian 插件。
 
-Scanner that extracts comments from source and places it in Markdown files.
+从源代码中提取注释并将其放入 Markdown 文件的扫描器。
 
 通过 Source Scanner,您可以:
 
@@ -202,7 +202,7 @@ Scanner that extracts comments from source and places it in Markdown files.
 - **下载量**：4.2K
 - **最后更新**：2024-07-29
 - **GitHub**：[gerrie-myburgh/source-scanner](https://github.com/gerrie-myburgh/source-scanner)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

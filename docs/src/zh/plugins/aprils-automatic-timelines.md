@@ -1,12 +1,12 @@
 ---
 title: 'April''s Automatic Timelines'
-description: Simple timeline generator for story tellers.
+description: 为故事讲述者提供简单的时间轴生成器。
 author: April Gras
-downloads: 44237
+downloads: 44289
 updated: 1733150179000
 repo: April-Gras/obsidian-auto-timelines
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="aprils-automatic-timelines"
   name="April&#39;s Automatic Timelines"
-  description="Simple timeline generator for story tellers."
+  description="为故事讲述者提供简单的时间轴生成器。"
   author="April Gras"
-  :downloads="44237"
+  :downloads="44289"
   :updated="1733150179000"
   repo="April-Gras/obsidian-auto-timelines"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 April&#39;s Automatic Timelines 是一个功能强大的 Obsidian 插件。
 
-Simple timeline generator for story tellers.
+为故事讲述者提供简单的时间轴生成器。
 
 通过 April&#39;s Automatic Timelines,您可以:
 
@@ -199,10 +199,10 @@ Simple timeline generator for story tellers.
 - **插件 ID**：aprils-automatic-timelines
 - **作者**：April Gras
 - **当前版本**：v1.0.0
-- **下载量**：44.2K
+- **下载量**：44.3K
 - **最后更新**：2024-12-02
 - **GitHub**：[April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

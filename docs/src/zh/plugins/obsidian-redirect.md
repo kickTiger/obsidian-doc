@@ -1,12 +1,12 @@
 ---
 title: Redirect
-description: Facilitate management of especially non-Markdown files, by allowing aliases to be set on any file.
+description: 允许在任何文件上设置别名，从而方便管理非 Markdown 文件。
 author: Jacob Levernier
-downloads: 7693
+downloads: 7695
 updated: 1662294302000
 repo: jglev/obsidian-redirect
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-redirect"
   name="Redirect"
-  description="Facilitate management of especially non-Markdown files, by allowing aliases to be set on any file."
+  description="允许在任何文件上设置别名，从而方便管理非 Markdown 文件。"
   author="Jacob Levernier"
-  :downloads="7693"
+  :downloads="7695"
   :updated="1662294302000"
   repo="jglev/obsidian-redirect"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Redirect 是一个功能强大的 Obsidian 插件。
 
-Facilitate management of especially non-Markdown files, by allowing aliases to be set on any file.
+允许在任何文件上设置别名，从而方便管理非 Markdown 文件。
 
 通过 Redirect,您可以:
 
@@ -202,7 +202,7 @@ Facilitate management of especially non-Markdown files, by allowing aliases to b
 - **下载量**：7.7K
 - **最后更新**：2022-09-04
 - **GitHub**：[jglev/obsidian-redirect](https://github.com/jglev/obsidian-redirect)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

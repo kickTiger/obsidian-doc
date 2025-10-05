@@ -6,7 +6,7 @@ downloads: 462
 updated: 1739484095000
 repo: Marlon154/boardgame-search
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1739484095000"
   repo="Marlon154/boardgame-search"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Helps board game enthusiasts track their game collection seamlessly within their
 - **下载量**：462
 - **最后更新**：2025-02-14
 - **GitHub**：[Marlon154/boardgame-search](https://github.com/Marlon154/boardgame-search)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

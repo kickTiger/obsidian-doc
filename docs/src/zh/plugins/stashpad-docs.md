@@ -6,7 +6,7 @@ downloads: 225
 updated: 1716317353000
 repo: stashpad/obsidian-to-stashpad
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1716317353000"
   repo="stashpad/obsidian-to-stashpad"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create a Stashpad Doc from your notes.
 - **下载量**：225
 - **最后更新**：2024-05-22
 - **GitHub**：[stashpad/obsidian-to-stashpad](https://github.com/stashpad/obsidian-to-stashpad)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

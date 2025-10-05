@@ -2,11 +2,11 @@
 title: Handwriting OCR
 description: 'Transform handwritten documents and scanned images into editable text with Handwriting OCR''s AI-powered handwriting to text conversion.'
 author: ikmolbo
-downloads: 459
+downloads: 463
 updated: 1751203458000
 repo: ikmolbo/handwriting-ocr-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Handwriting OCR"
   description="Transform handwritten documents and scanned images into editable text with Handwriting OCR&#39;s AI-powered handwriting to text conversion."
   author="ikmolbo"
-  :downloads="459"
+  :downloads="463"
   :updated="1751203458000"
   repo="ikmolbo/handwriting-ocr-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Transform handwritten documents and scanned images into editable text with Handw
 - **插件 ID**：handwriting-ocr
 - **作者**：ikmolbo
 - **当前版本**：v1.0.0
-- **下载量**：459
+- **下载量**：463
 - **最后更新**：2025-06-29
 - **GitHub**：[ikmolbo/handwriting-ocr-obsidian-plugin](https://github.com/ikmolbo/handwriting-ocr-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

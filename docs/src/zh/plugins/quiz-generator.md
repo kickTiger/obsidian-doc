@@ -1,12 +1,12 @@
 ---
 title: Quiz Generator
-description: Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.
+description: 使用 OpenAI (ChatGPT)、Google (Gemini)、Ollama（本地 LLM）等模型从笔记中生成交互式闪存卡。或者手动创建自己的卡片，与测验用户界面一起使用。
 author: Edward Cui
-downloads: 13976
+downloads: 13996
 updated: 1729830811000
 repo: ECuiDev/obsidian-quiz-generator
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quiz-generator"
   name="Quiz Generator"
-  description="Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI."
+  description="使用 OpenAI (ChatGPT)、Google (Gemini)、Ollama（本地 LLM）等模型从笔记中生成交互式闪存卡。或者手动创建自己的卡片，与测验用户界面一起使用。"
   author="Edward Cui"
-  :downloads="13976"
+  :downloads="13996"
   :updated="1729830811000"
   repo="ECuiDev/obsidian-quiz-generator"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quiz Generator 是一个功能强大的 Obsidian 插件。
 
-Generate interactive flashcards from your notes using models from OpenAI (ChatGPT), Google (Gemini), Ollama (local LLMs), and more. Or manually create your own to use with the quiz UI.
+使用 OpenAI (ChatGPT)、Google (Gemini)、Ollama（本地 LLM）等模型从笔记中生成交互式闪存卡。或者手动创建自己的卡片，与测验用户界面一起使用。
 
 通过 Quiz Generator,您可以:
 
@@ -202,7 +202,7 @@ Generate interactive flashcards from your notes using models from OpenAI (ChatGP
 - **下载量**：14.0K
 - **最后更新**：2024-10-25
 - **GitHub**：[ECuiDev/obsidian-quiz-generator](https://github.com/ECuiDev/obsidian-quiz-generator)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

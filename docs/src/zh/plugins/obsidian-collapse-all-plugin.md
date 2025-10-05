@@ -1,12 +1,12 @@
 ---
 title: Collapse All
-description: Extend collapse/expand all with commands that can be bound to hotkeys.
+description: 添加折叠/展开所有文件夹的按钮。
 author: Nathonius
-downloads: 59816
+downloads: 59827
 updated: 1711216532000
 repo: nathonius/obsidian-collapse-all
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-collapse-all-plugin"
   name="Collapse All"
-  description="Extend collapse/expand all with commands that can be bound to hotkeys."
+  description="添加折叠/展开所有文件夹的按钮。"
   author="Nathonius"
-  :downloads="59816"
+  :downloads="59827"
   :updated="1711216532000"
   repo="nathonius/obsidian-collapse-all"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Collapse All 是一个功能强大的 Obsidian 插件。
 
-Extend collapse/expand all with commands that can be bound to hotkeys.
+添加折叠/展开所有文件夹的按钮。
 
 通过 Collapse All,您可以:
 
@@ -202,7 +202,7 @@ Extend collapse/expand all with commands that can be bound to hotkeys.
 - **下载量**：59.8K
 - **最后更新**：2024-03-24
 - **GitHub**：[nathonius/obsidian-collapse-all](https://github.com/nathonius/obsidian-collapse-all)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

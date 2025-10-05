@@ -6,7 +6,7 @@ downloads: 2760
 updated: 1705914280000
 repo: Tatz884/RescueTime-Obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1705914280000"
   repo="Tatz884/RescueTime-Obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ View your RescueTime data.
 - **下载量**：2.8K
 - **最后更新**：2024-01-22
 - **GitHub**：[Tatz884/RescueTime-Obsidian](https://github.com/Tatz884/RescueTime-Obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

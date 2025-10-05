@@ -1,12 +1,12 @@
 ---
 title: Incremental ID
-description: Generate Jira-like IDs for each note.
+description: 为每个音符生成类似 Jira 的 ID。
 author: Adrian Karwowski
-downloads: 4714
+downloads: 4716
 updated: 1704545848000
 repo: adziok/obsidian-incremental-id
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="incremental-id"
   name="Incremental ID"
-  description="Generate Jira-like IDs for each note."
+  description="为每个音符生成类似 Jira 的 ID。"
   author="Adrian Karwowski"
-  :downloads="4714"
+  :downloads="4716"
   :updated="1704545848000"
   repo="adziok/obsidian-incremental-id"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Incremental ID 是一个功能强大的 Obsidian 插件。
 
-Generate Jira-like IDs for each note.
+为每个音符生成类似 Jira 的 ID。
 
 通过 Incremental ID,您可以:
 
@@ -202,7 +202,7 @@ Generate Jira-like IDs for each note.
 - **下载量**：4.7K
 - **最后更新**：2024-01-06
 - **GitHub**：[adziok/obsidian-incremental-id](https://github.com/adziok/obsidian-incremental-id)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

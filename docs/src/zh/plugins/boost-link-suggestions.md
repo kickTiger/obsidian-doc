@@ -1,12 +1,12 @@
 ---
 title: Boost Link Suggestions
-description: Alternative inline link suggester that orders results by link count and manual boosts.
+description: 另一种内联链接建议器，可按链接数和手动提升对结果进行排序。
 author: Jacob Levernier
-downloads: 7237
+downloads: 7238
 updated: 1695818397000
 repo: jglev/obsidian-boost-link-suggestions
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="boost-link-suggestions"
   name="Boost Link Suggestions"
-  description="Alternative inline link suggester that orders results by link count and manual boosts."
+  description="另一种内联链接建议器，可按链接数和手动提升对结果进行排序。"
   author="Jacob Levernier"
-  :downloads="7237"
+  :downloads="7238"
   :updated="1695818397000"
   repo="jglev/obsidian-boost-link-suggestions"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Boost Link Suggestions 是一个功能强大的 Obsidian 插件。
 
-Alternative inline link suggester that orders results by link count and manual boosts.
+另一种内联链接建议器，可按链接数和手动提升对结果进行排序。
 
 通过 Boost Link Suggestions,您可以:
 
@@ -202,7 +202,7 @@ Alternative inline link suggester that orders results by link count and manual b
 - **下载量**：7.2K
 - **最后更新**：2023-09-27
 - **GitHub**：[jglev/obsidian-boost-link-suggestions](https://github.com/jglev/obsidian-boost-link-suggestions)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

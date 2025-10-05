@@ -2,11 +2,11 @@
 title: Remove HTML Tag
 description: Remove HTML tags from Markdown files
 author: ChenPengyuan
-downloads: 904
+downloads: 907
 updated: 1725349404000
 repo: gitcpy/obsidian-remove-html-tag
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Remove HTML Tag"
   description="Remove HTML tags from Markdown files"
   author="ChenPengyuan"
-  :downloads="904"
+  :downloads="907"
   :updated="1725349404000"
   repo="gitcpy/obsidian-remove-html-tag"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Remove HTML tags from Markdown files
 - **插件 ID**：remove-html-tag
 - **作者**：ChenPengyuan
 - **当前版本**：v1.0.0
-- **下载量**：904
+- **下载量**：907
 - **最后更新**：2024-09-03
 - **GitHub**：[gitcpy/obsidian-remove-html-tag](https://github.com/gitcpy/obsidian-remove-html-tag)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Pending notes
-description: Search links without notes in your vault.
+description: 搜索保险库中没有注释的链接。
 author: Ulises Santana
-downloads: 8116
-updated: 1751213948000
+downloads: 8144
+updated: 1759581801000
 repo: ulisesantana/obsidian-pending-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-pending-notes"
   name="Pending notes"
-  description="Search links without notes in your vault."
+  description="搜索保险库中没有注释的链接。"
   author="Ulises Santana"
-  :downloads="8116"
-  :updated="1751213948000"
+  :downloads="8144"
+  :updated="1759581801000"
   repo="ulisesantana/obsidian-pending-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pending notes 是一个功能强大的 Obsidian 插件。
 
-Search links without notes in your vault.
+搜索保险库中没有注释的链接。
 
 通过 Pending notes,您可以:
 
@@ -181,7 +181,7 @@ Search links without notes in your vault.
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-06-30
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/ulisesantana/obsidian-pending-notes/releases) 查看详细更新日志
@@ -200,9 +200,9 @@ Search links without notes in your vault.
 - **作者**：Ulises Santana
 - **当前版本**：v1.0.0
 - **下载量**：8.1K
-- **最后更新**：2025-06-30
+- **最后更新**：2025-10-04
 - **GitHub**：[ulisesantana/obsidian-pending-notes](https://github.com/ulisesantana/obsidian-pending-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

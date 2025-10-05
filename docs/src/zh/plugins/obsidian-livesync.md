@@ -1,12 +1,12 @@
 ---
 title: Self-hosted LiveSync
-description: Community implementation of self-hosted livesync. Reflect your vault changes to some other devices immediately. Please make sure to disable other synchronize solutions to avoid content corruption or duplication.
+description: 自托管实时同步的社区实现。立即将笔记库更改反映到其他设备。请确保禁用其他同步解决方案以避免内容损坏或重复。
 author: vorotamoroz
-downloads: 436086
+downloads: 436796
 updated: 1758883722000
 repo: vrtmrz/obsidian-livesync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-livesync"
   name="Self-hosted LiveSync"
-  description="Community implementation of self-hosted livesync. Reflect your vault changes to some other devices immediately. Please make sure to disable other synchronize solutions to avoid content corruption or duplication."
+  description="自托管实时同步的社区实现。立即将笔记库更改反映到其他设备。请确保禁用其他同步解决方案以避免内容损坏或重复。"
   author="vorotamoroz"
-  :downloads="436086"
+  :downloads="436796"
   :updated="1758883722000"
   repo="vrtmrz/obsidian-livesync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Self-hosted LiveSync 是一个功能强大的 Obsidian 插件。
 
-Community implementation of self-hosted livesync. Reflect your vault changes to some other devices immediately. Please make sure to disable other synchronize solutions to avoid content corruption or duplication.
+自托管实时同步的社区实现。立即将笔记库更改反映到其他设备。请确保禁用其他同步解决方案以避免内容损坏或重复。
 
 通过 Self-hosted LiveSync,您可以:
 
@@ -199,10 +199,10 @@ Community implementation of self-hosted livesync. Reflect your vault changes to 
 - **插件 ID**：obsidian-livesync
 - **作者**：vorotamoroz
 - **当前版本**：v1.0.0
-- **下载量**：436.1K
+- **下载量**：436.8K
 - **最后更新**：2025-09-26
 - **GitHub**：[vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

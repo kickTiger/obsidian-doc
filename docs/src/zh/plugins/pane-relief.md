@@ -1,12 +1,12 @@
 ---
 title: Pane Relief
-description: Per-pane history, hotkeys for pane movement + navigation, and more.
+description: 每个窗格的历史记录、用于窗格移动和导航的热键等。
 author: PJ Eby
-downloads: 145447
+downloads: 145480
 updated: 1740214144000
 repo: pjeby/pane-relief
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pane-relief"
   name="Pane Relief"
-  description="Per-pane history, hotkeys for pane movement + navigation, and more."
+  description="每个窗格的历史记录、用于窗格移动和导航的热键等。"
   author="PJ Eby"
-  :downloads="145447"
+  :downloads="145480"
   :updated="1740214144000"
   repo="pjeby/pane-relief"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pane Relief 是一个功能强大的 Obsidian 插件。
 
-Per-pane history, hotkeys for pane movement + navigation, and more.
+每个窗格的历史记录、用于窗格移动和导航的热键等。
 
 通过 Pane Relief,您可以:
 
@@ -199,10 +199,10 @@ Per-pane history, hotkeys for pane movement + navigation, and more.
 - **插件 ID**：pane-relief
 - **作者**：PJ Eby
 - **当前版本**：v1.0.0
-- **下载量**：145.4K
+- **下载量**：145.5K
 - **最后更新**：2025-02-22
 - **GitHub**：[pjeby/pane-relief](https://github.com/pjeby/pane-relief)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

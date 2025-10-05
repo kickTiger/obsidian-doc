@@ -2,11 +2,11 @@
 title: BuJo Bullets
 description: Alternate checkbox types to support Bullet Journal bullets.
 author: Will Olson
-downloads: 2182
+downloads: 2191
 updated: 1741483522000
 repo: frankolson/obsidian-bujo-bullets
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="BuJo Bullets"
   description="Alternate checkbox types to support Bullet Journal bullets."
   author="Will Olson"
-  :downloads="2182"
+  :downloads="2191"
   :updated="1741483522000"
   repo="frankolson/obsidian-bujo-bullets"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Alternate checkbox types to support Bullet Journal bullets.
 - **下载量**：2.2K
 - **最后更新**：2025-03-09
 - **GitHub**：[frankolson/obsidian-bujo-bullets](https://github.com/frankolson/obsidian-bujo-bullets)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

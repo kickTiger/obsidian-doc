@@ -1,12 +1,12 @@
 ---
 title: PlantUML
-description: Generate PlantUML diagrams.
+description: 生成 PlantUML 图表。
 author: Johannes Theiner
-downloads: 114555
+downloads: 114594
 updated: 1714128322000
 repo: joethei/obsidian-plantuml
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-plantuml"
   name="PlantUML"
-  description="Generate PlantUML diagrams."
+  description="生成 PlantUML 图表。"
   author="Johannes Theiner"
-  :downloads="114555"
+  :downloads="114594"
   :updated="1714128322000"
   repo="joethei/obsidian-plantuml"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 PlantUML 是一个功能强大的 Obsidian 插件。
 
-Generate PlantUML diagrams.
+生成 PlantUML 图表。
 
 通过 PlantUML,您可以:
 
@@ -202,7 +202,7 @@ Generate PlantUML diagrams.
 - **下载量**：114.6K
 - **最后更新**：2024-04-26
 - **GitHub**：[joethei/obsidian-plantuml](https://github.com/joethei/obsidian-plantuml)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

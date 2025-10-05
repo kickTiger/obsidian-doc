@@ -6,7 +6,7 @@ downloads: 2294
 updated: 1711066352000
 repo: tdaykin/obsidian_image_collector
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1711066352000"
   repo="tdaykin/obsidian_image_collector"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Collects all images from current note and saves them to a new folder
 - **下载量**：2.3K
 - **最后更新**：2024-03-22
 - **GitHub**：[tdaykin/obsidian_image_collector](https://github.com/tdaykin/obsidian_image_collector)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

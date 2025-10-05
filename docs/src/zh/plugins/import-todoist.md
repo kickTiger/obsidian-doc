@@ -2,11 +2,11 @@
 title: Import Todoist tasks
 description: Import Todoist tasks as Markdown tasks.
 author: Duke
-downloads: 332
+downloads: 333
 updated: 1733584714000
 repo: dukex/obsidian-import-todoist
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Import Todoist tasks"
   description="Import Todoist tasks as Markdown tasks."
   author="Duke"
-  :downloads="332"
+  :downloads="333"
   :updated="1733584714000"
   repo="dukex/obsidian-import-todoist"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Import Todoist tasks as Markdown tasks.
 - **插件 ID**：import-todoist
 - **作者**：Duke
 - **当前版本**：v1.0.0
-- **下载量**：332
+- **下载量**：333
 - **最后更新**：2024-12-07
 - **GitHub**：[dukex/obsidian-import-todoist](https://github.com/dukex/obsidian-import-todoist)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

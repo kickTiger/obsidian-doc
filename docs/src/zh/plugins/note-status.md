@@ -2,11 +2,11 @@
 title: Note Status
 description: Organize notes with customizable statuses. Track progress through an intuitive status pane, dropdown selector, and file explorer integration.
 author: Aleix Soler
-downloads: 2044
+downloads: 2045
 updated: 1754594328000
 repo: devonthesofa/obsidian-note-status
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note Status"
   description="Organize notes with customizable statuses. Track progress through an intuitive status pane, dropdown selector, and file explorer integration."
   author="Aleix Soler"
-  :downloads="2044"
+  :downloads="2045"
   :updated="1754594328000"
   repo="devonthesofa/obsidian-note-status"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Organize notes with customizable statuses. Track progress through an intuitive s
 - **下载量**：2.0K
 - **最后更新**：2025-08-08
 - **GitHub**：[devonthesofa/obsidian-note-status](https://github.com/devonthesofa/obsidian-note-status)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

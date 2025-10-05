@@ -1,12 +1,12 @@
 ---
 title: Contribution Graph
-description: Generate an interactive heatmap to visualize and track your productivity.
+description: 生成交互式热图，直观显示并跟踪您的工作效率。
 author: vran
-downloads: 35680
+downloads: 35721
 updated: 1726152564000
 repo: vran-dev/obsidian-contribution-graph
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="contribution-graph"
   name="Contribution Graph"
-  description="Generate an interactive heatmap to visualize and track your productivity."
+  description="生成交互式热图，直观显示并跟踪您的工作效率。"
   author="vran"
-  :downloads="35680"
+  :downloads="35721"
   :updated="1726152564000"
   repo="vran-dev/obsidian-contribution-graph"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Contribution Graph 是一个功能强大的 Obsidian 插件。
 
-Generate an interactive heatmap to visualize and track your productivity.
+生成交互式热图，直观显示并跟踪您的工作效率。
 
 通过 Contribution Graph,您可以:
 
@@ -202,7 +202,7 @@ Generate an interactive heatmap to visualize and track your productivity.
 - **下载量**：35.7K
 - **最后更新**：2024-09-12
 - **GitHub**：[vran-dev/obsidian-contribution-graph](https://github.com/vran-dev/obsidian-contribution-graph)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

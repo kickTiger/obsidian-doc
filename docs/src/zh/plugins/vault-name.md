@@ -2,11 +2,11 @@
 title: Vault Name
 description: Display and customize the vault name (title) in the side navigation file explorer.
 author: '@gapmiss'
-downloads: 1131
+downloads: 1132
 updated: 1746531461000
 repo: gapmiss/obsidian-vault-name
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Vault Name"
   description="Display and customize the vault name (title) in the side navigation file explorer."
   author="@gapmiss"
-  :downloads="1131"
+  :downloads="1132"
   :updated="1746531461000"
   repo="gapmiss/obsidian-vault-name"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Display and customize the vault name (title) in the side navigation file explore
 - **下载量**：1.1K
 - **最后更新**：2025-05-06
 - **GitHub**：[gapmiss/obsidian-vault-name](https://github.com/gapmiss/obsidian-vault-name)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: The One Ring 2E Statblocks
-description: Render NPC and adversary statblocks for The One Ring 2E roleplaying game.
+description: 为《魔戒 2E》角色扮演游戏渲染 NPC 和对手状态块。
 author: Michael Hansen
-downloads: 3621
+downloads: 3622
 updated: 1672863789000
 repo: modality/obsidian-the-one-ring-2e-statblocks
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tor2e-statblocks"
   name="The One Ring 2E Statblocks"
-  description="Render NPC and adversary statblocks for The One Ring 2E roleplaying game."
+  description="为《魔戒 2E》角色扮演游戏渲染 NPC 和对手状态块。"
   author="Michael Hansen"
-  :downloads="3621"
+  :downloads="3622"
   :updated="1672863789000"
   repo="modality/obsidian-the-one-ring-2e-statblocks"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 The One Ring 2E Statblocks 是一个功能强大的 Obsidian 插件。
 
-Render NPC and adversary statblocks for The One Ring 2E roleplaying game.
+为《魔戒 2E》角色扮演游戏渲染 NPC 和对手状态块。
 
 通过 The One Ring 2E Statblocks,您可以:
 
@@ -202,7 +202,7 @@ Render NPC and adversary statblocks for The One Ring 2E roleplaying game.
 - **下载量**：3.6K
 - **最后更新**：2023-01-05
 - **GitHub**：[modality/obsidian-the-one-ring-2e-statblocks](https://github.com/modality/obsidian-the-one-ring-2e-statblocks)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

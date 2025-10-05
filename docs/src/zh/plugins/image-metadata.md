@@ -2,11 +2,11 @@
 title: Image Metadata
 description: Annotate photos with Exif and other metadata right from the image viewer screen.
 author: alexeiskachykhin
-downloads: 1401
+downloads: 1406
 updated: 1731209175000
 repo: alexeiskachykhin/obsidian-image-metadata-plugin
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Image Metadata"
   description="Annotate photos with Exif and other metadata right from the image viewer screen."
   author="alexeiskachykhin"
-  :downloads="1401"
+  :downloads="1406"
   :updated="1731209175000"
   repo="alexeiskachykhin/obsidian-image-metadata-plugin"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Annotate photos with Exif and other metadata right from the image viewer screen.
 - **下载量**：1.4K
 - **最后更新**：2024-11-10
 - **GitHub**：[alexeiskachykhin/obsidian-image-metadata-plugin](https://github.com/alexeiskachykhin/obsidian-image-metadata-plugin)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

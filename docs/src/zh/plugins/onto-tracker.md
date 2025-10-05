@@ -6,7 +6,7 @@ downloads: 254
 updated: 1722342515000
 repo: jdchart/onto-tracker
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1722342515000"
   repo="jdchart/onto-tracker"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manage projects according to an ontology.
 - **下载量**：254
 - **最后更新**：2024-07-30
 - **GitHub**：[jdchart/onto-tracker](https://github.com/jdchart/onto-tracker)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

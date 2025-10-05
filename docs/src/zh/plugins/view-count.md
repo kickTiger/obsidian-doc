@@ -1,12 +1,12 @@
 ---
 title: View Count
-description: Tracks view count for each vault file.
+description: 跟踪每个保险库文件的查看次数。
 author: DecafDev
-downloads: 4003
+downloads: 4009
 updated: 1726554996000
 repo: decaf-dev/obsidian-view-count
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="view-count"
   name="View Count"
-  description="Tracks view count for each vault file."
+  description="跟踪每个保险库文件的查看次数。"
   author="DecafDev"
-  :downloads="4003"
+  :downloads="4009"
   :updated="1726554996000"
   repo="decaf-dev/obsidian-view-count"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 View Count 是一个功能强大的 Obsidian 插件。
 
-Tracks view count for each vault file.
+跟踪每个保险库文件的查看次数。
 
 通过 View Count,您可以:
 
@@ -202,7 +202,7 @@ Tracks view count for each vault file.
 - **下载量**：4.0K
 - **最后更新**：2024-09-17
 - **GitHub**：[decaf-dev/obsidian-view-count](https://github.com/decaf-dev/obsidian-view-count)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

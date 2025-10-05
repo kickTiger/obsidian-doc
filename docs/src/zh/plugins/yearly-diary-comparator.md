@@ -2,11 +2,11 @@
 title: Yearly Diary Comparator
 description: Show a side-by-side yearly comparison of diary in daily notes.
 author: kiitosu
-downloads: 112
+downloads: 113
 updated: 1747731813000
 repo: kiitosu/yearly-diary-comparator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Yearly Diary Comparator"
   description="Show a side-by-side yearly comparison of diary in daily notes."
   author="kiitosu"
-  :downloads="112"
+  :downloads="113"
   :updated="1747731813000"
   repo="kiitosu/yearly-diary-comparator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Show a side-by-side yearly comparison of diary in daily notes.
 - **插件 ID**：yearly-diary-comparator
 - **作者**：kiitosu
 - **当前版本**：v1.0.0
-- **下载量**：112
+- **下载量**：113
 - **最后更新**：2025-05-20
 - **GitHub**：[kiitosu/yearly-diary-comparator](https://github.com/kiitosu/yearly-diary-comparator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

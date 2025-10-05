@@ -1,12 +1,12 @@
 ---
 title: Steemit
-description: Publish documents to Steemit.
+description: 在 Steemit 上发布文件。
 author: anpigon
 downloads: 3886
 updated: 1719493527000
 repo: anpigon/obsidian-steemit-plugin
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-steemit"
   name="Steemit"
-  description="Publish documents to Steemit."
+  description="在 Steemit 上发布文件。"
   author="anpigon"
   :downloads="3886"
   :updated="1719493527000"
   repo="anpigon/obsidian-steemit-plugin"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Steemit 是一个功能强大的 Obsidian 插件。
 
-Publish documents to Steemit.
+在 Steemit 上发布文件。
 
 通过 Steemit,您可以:
 
@@ -202,7 +202,7 @@ Publish documents to Steemit.
 - **下载量**：3.9K
 - **最后更新**：2024-06-27
 - **GitHub**：[anpigon/obsidian-steemit-plugin](https://github.com/anpigon/obsidian-steemit-plugin)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 3426
 updated: 1704300165000
 repo: juergenbr/obsidian-tolino-notes-import
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1704300165000"
   repo="juergenbr/obsidian-tolino-notes-import"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Import notes from a Tolino E-Reader.
 - **下载量**：3.4K
 - **最后更新**：2024-01-04
 - **GitHub**：[juergenbr/obsidian-tolino-notes-import](https://github.com/juergenbr/obsidian-tolino-notes-import)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

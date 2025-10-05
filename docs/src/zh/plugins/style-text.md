@@ -1,12 +1,12 @@
 ---
 title: Style Text
-description: Apply custom CSS styles to selected text in your notes.
+description: 为笔记中的选定文本应用自定义 CSS 样式。
 author: Juanjo Arranz
-downloads: 11289
+downloads: 11296
 updated: 1688229198000
 repo: juanjoarranz/style-text-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="style-text"
   name="Style Text"
-  description="Apply custom CSS styles to selected text in your notes."
+  description="为笔记中的选定文本应用自定义 CSS 样式。"
   author="Juanjo Arranz"
-  :downloads="11289"
+  :downloads="11296"
   :updated="1688229198000"
   repo="juanjoarranz/style-text-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Style Text 是一个功能强大的 Obsidian 插件。
 
-Apply custom CSS styles to selected text in your notes.
+为笔记中的选定文本应用自定义 CSS 样式。
 
 通过 Style Text,您可以:
 
@@ -202,7 +202,7 @@ Apply custom CSS styles to selected text in your notes.
 - **下载量**：11.3K
 - **最后更新**：2023-07-02
 - **GitHub**：[juanjoarranz/style-text-obsidian-plugin](https://github.com/juanjoarranz/style-text-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

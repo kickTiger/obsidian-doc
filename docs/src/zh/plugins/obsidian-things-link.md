@@ -1,12 +1,12 @@
 ---
 title: Things Link
-description: Seamlessly link an Note to a Things Project.
+description: '将 "注释 "与 "项目 "无缝链接。'
 author: '@gavmn'
-downloads: 6997
+downloads: 6999
 updated: 1645807657000
 repo: gavinmn/obsidian-things-link
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-things-link"
   name="Things Link"
-  description="Seamlessly link an Note to a Things Project."
+  description="将 &quot;注释 &quot;与 &quot;项目 &quot;无缝链接。"
   author="@gavmn"
-  :downloads="6997"
+  :downloads="6999"
   :updated="1645807657000"
   repo="gavinmn/obsidian-things-link"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Things Link 是一个功能强大的 Obsidian 插件。
 
-Seamlessly link an Note to a Things Project.
+将 &quot;注释 &quot;与 &quot;项目 &quot;无缝链接。
 
 通过 Things Link,您可以:
 
@@ -202,7 +202,7 @@ Seamlessly link an Note to a Things Project.
 - **下载量**：7.0K
 - **最后更新**：2022-02-26
 - **GitHub**：[gavinmn/obsidian-things-link](https://github.com/gavinmn/obsidian-things-link)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

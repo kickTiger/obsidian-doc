@@ -1,12 +1,12 @@
 ---
 title: Enhance YouTube Links
-description: Get metadata from a YouTube video.
+description: 从 YouTube 视频中获取元数据。
 author: GitSum
-downloads: 6138
+downloads: 6140
 updated: 1739839991000
 repo: Git-Sum/obsidian-enhance-youtube-links
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="enhance-youtube-links"
   name="Enhance YouTube Links"
-  description="Get metadata from a YouTube video."
+  description="从 YouTube 视频中获取元数据。"
   author="GitSum"
-  :downloads="6138"
+  :downloads="6140"
   :updated="1739839991000"
   repo="Git-Sum/obsidian-enhance-youtube-links"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Enhance YouTube Links 是一个功能强大的 Obsidian 插件。
 
-Get metadata from a YouTube video.
+从 YouTube 视频中获取元数据。
 
 通过 Enhance YouTube Links,您可以:
 
@@ -202,7 +202,7 @@ Get metadata from a YouTube video.
 - **下载量**：6.1K
 - **最后更新**：2025-02-18
 - **GitHub**：[Git-Sum/obsidian-enhance-youtube-links](https://github.com/Git-Sum/obsidian-enhance-youtube-links)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: AI Mentor
-description: Meet your open source AI mentor. Ask questions, get answers, and learn new things.
+description: 认识你的开源人工智能导师。提出问题，获得答案，学习新知识。
 author: clementpoiret
-downloads: 6375
+downloads: 6377
 updated: 1725634128000
 repo: clementpoiret/ai-mentor
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ai-mentor"
   name="AI Mentor"
-  description="Meet your open source AI mentor. Ask questions, get answers, and learn new things."
+  description="认识你的开源人工智能导师。提出问题，获得答案，学习新知识。"
   author="clementpoiret"
-  :downloads="6375"
+  :downloads="6377"
   :updated="1725634128000"
   repo="clementpoiret/ai-mentor"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AI Mentor 是一个功能强大的 Obsidian 插件。
 
-Meet your open source AI mentor. Ask questions, get answers, and learn new things.
+认识你的开源人工智能导师。提出问题，获得答案，学习新知识。
 
 通过 AI Mentor,您可以:
 
@@ -202,7 +202,7 @@ Meet your open source AI mentor. Ask questions, get answers, and learn new thing
 - **下载量**：6.4K
 - **最后更新**：2024-09-06
 - **GitHub**：[clementpoiret/ai-mentor](https://github.com/clementpoiret/ai-mentor)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

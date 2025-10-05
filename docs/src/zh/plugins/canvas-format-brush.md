@@ -2,11 +2,11 @@
 title: Canvas Format Brush
 description: Copy and paste formatting attributes (size and color) between canvas elements, similar to the format painter in Word.
 author: wenlzhang
-downloads: 1460
+downloads: 1467
 updated: 1741797104000
 repo: wenlzhang/obsidian-canvas-format-brush
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Canvas Format Brush"
   description="Copy and paste formatting attributes (size and color) between canvas elements, similar to the format painter in Word."
   author="wenlzhang"
-  :downloads="1460"
+  :downloads="1467"
   :updated="1741797104000"
   repo="wenlzhang/obsidian-canvas-format-brush"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Copy and paste formatting attributes (size and color) between canvas elements, s
 - **下载量**：1.5K
 - **最后更新**：2025-03-13
 - **GitHub**：[wenlzhang/obsidian-canvas-format-brush](https://github.com/wenlzhang/obsidian-canvas-format-brush)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Yet Another Obsidian Synchronizer
-description: Use Git to synchronize your vault contents across devices.
+description: 使用 Git 跨设备同步保险库内容。
 author: Mahyar Mirrashed
-downloads: 12612
+downloads: 12630
 updated: 1698947695000
 repo: mahyarmirrashed/yaos
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="yet-another-obsidian-synchronizer"
   name="Yet Another Obsidian Synchronizer"
-  description="Use Git to synchronize your vault contents across devices."
+  description="使用 Git 跨设备同步保险库内容。"
   author="Mahyar Mirrashed"
-  :downloads="12612"
+  :downloads="12630"
   :updated="1698947695000"
   repo="mahyarmirrashed/yaos"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Yet Another Obsidian Synchronizer 是一个功能强大的 Obsidian 插件。
 
-Use Git to synchronize your vault contents across devices.
+使用 Git 跨设备同步保险库内容。
 
 通过 Yet Another Obsidian Synchronizer,您可以:
 
@@ -202,7 +202,7 @@ Use Git to synchronize your vault contents across devices.
 - **下载量**：12.6K
 - **最后更新**：2023-11-03
 - **GitHub**：[mahyarmirrashed/yaos](https://github.com/mahyarmirrashed/yaos)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

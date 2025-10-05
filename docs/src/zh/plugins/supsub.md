@@ -1,12 +1,12 @@
 ---
 title: SupSub
-description: Easily format superscripts and subscripts in your notes.
+description: 轻松格式化笔记中的上标和下标。
 author: Wjgoarxiv
-downloads: 11303
+downloads: 11311
 updated: 1747581637000
 repo: wjgoarxiv/obsidian-supsub
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="supsub"
   name="SupSub"
-  description="Easily format superscripts and subscripts in your notes."
+  description="轻松格式化笔记中的上标和下标。"
   author="Wjgoarxiv"
-  :downloads="11303"
+  :downloads="11311"
   :updated="1747581637000"
   repo="wjgoarxiv/obsidian-supsub"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 SupSub 是一个功能强大的 Obsidian 插件。
 
-Easily format superscripts and subscripts in your notes.
+轻松格式化笔记中的上标和下标。
 
 通过 SupSub,您可以:
 
@@ -202,7 +202,7 @@ Easily format superscripts and subscripts in your notes.
 - **下载量**：11.3K
 - **最后更新**：2025-05-18
 - **GitHub**：[wjgoarxiv/obsidian-supsub](https://github.com/wjgoarxiv/obsidian-supsub)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

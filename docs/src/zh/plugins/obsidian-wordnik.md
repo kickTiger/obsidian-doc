@@ -1,12 +1,12 @@
 ---
 title: Wordnik Definitions
-description: Grab information from Wordnik for a topic and bring it into your notes.
+description: 从 Wordnik 中获取有关某个主题的信息，并将其带入笔记中。
 author: Henry Gustafson
-downloads: 4183
+downloads: 4184
 updated: 1650164598000
 repo: lizard-heart/obsidian-wordnik-definitions
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-wordnik"
   name="Wordnik Definitions"
-  description="Grab information from Wordnik for a topic and bring it into your notes."
+  description="从 Wordnik 中获取有关某个主题的信息，并将其带入笔记中。"
   author="Henry Gustafson"
-  :downloads="4183"
+  :downloads="4184"
   :updated="1650164598000"
   repo="lizard-heart/obsidian-wordnik-definitions"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Wordnik Definitions 是一个功能强大的 Obsidian 插件。
 
-Grab information from Wordnik for a topic and bring it into your notes.
+从 Wordnik 中获取有关某个主题的信息，并将其带入笔记中。
 
 通过 Wordnik Definitions,您可以:
 
@@ -202,7 +202,7 @@ Grab information from Wordnik for a topic and bring it into your notes.
 - **下载量**：4.2K
 - **最后更新**：2022-04-17
 - **GitHub**：[lizard-heart/obsidian-wordnik-definitions](https://github.com/lizard-heart/obsidian-wordnik-definitions)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

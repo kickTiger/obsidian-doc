@@ -2,11 +2,11 @@
 title: External File Embed and Link
 description: Embed and link local files outside your vault with relative paths for cross-device and multi-platform compatibility.
 author: oylbin
-downloads: 2936
+downloads: 2941
 updated: 1748493620000
 repo: oylbin/obsidian-external-file-embed-and-link
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="External File Embed and Link"
   description="Embed and link local files outside your vault with relative paths for cross-device and multi-platform compatibility."
   author="oylbin"
-  :downloads="2936"
+  :downloads="2941"
   :updated="1748493620000"
   repo="oylbin/obsidian-external-file-embed-and-link"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Embed and link local files outside your vault with relative paths for cross-devi
 - **下载量**：2.9K
 - **最后更新**：2025-05-29
 - **GitHub**：[oylbin/obsidian-external-file-embed-and-link](https://github.com/oylbin/obsidian-external-file-embed-and-link)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Copilot
-description: 'Your AI Copilot: Chat with Your Second Brain, Learn Faster, Work Smarter.'
+description: 你的人工智能副驾驶：与你的第二大脑聊天，更快地学习，更聪明地工作。
 author: Logan Yang
-downloads: 782808
+downloads: 784140
 updated: 1758599064000
 repo: logancyang/obsidian-copilot
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="copilot"
   name="Copilot"
-  description="Your AI Copilot: Chat with Your Second Brain, Learn Faster, Work Smarter."
+  description="你的人工智能副驾驶：与你的第二大脑聊天，更快地学习，更聪明地工作。"
   author="Logan Yang"
-  :downloads="782808"
+  :downloads="784140"
   :updated="1758599064000"
   repo="logancyang/obsidian-copilot"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Copilot 是一个功能强大的 Obsidian 插件。
 
-Your AI Copilot: Chat with Your Second Brain, Learn Faster, Work Smarter.
+你的人工智能副驾驶：与你的第二大脑聊天，更快地学习，更聪明地工作。
 
 通过 Copilot,您可以:
 
@@ -199,10 +199,10 @@ Your AI Copilot: Chat with Your Second Brain, Learn Faster, Work Smarter.
 - **插件 ID**：copilot
 - **作者**：Logan Yang
 - **当前版本**：v1.0.0
-- **下载量**：782.8K
+- **下载量**：784.1K
 - **最后更新**：2025-09-23
 - **GitHub**：[logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

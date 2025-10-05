@@ -1,12 +1,12 @@
 ---
 title: Inline Scripts
-description: Type text shortcuts which are then replaced with JavaScript generated text.
+description: 键入文本快捷方式，然后用 JavaScript 生成的文本进行替换。
 author: Jonathan Heard
-downloads: 14773
+downloads: 14782
 updated: 1670908645000
 repo: jon-heard/obsidian-inline-scripts
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-text-expander-js"
   name="Inline Scripts"
-  description="Type text shortcuts which are then replaced with JavaScript generated text."
+  description="键入文本快捷方式，然后用 JavaScript 生成的文本进行替换。"
   author="Jonathan Heard"
-  :downloads="14773"
+  :downloads="14782"
   :updated="1670908645000"
   repo="jon-heard/obsidian-inline-scripts"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Inline Scripts 是一个功能强大的 Obsidian 插件。
 
-Type text shortcuts which are then replaced with JavaScript generated text.
+键入文本快捷方式，然后用 JavaScript 生成的文本进行替换。
 
 通过 Inline Scripts,您可以:
 
@@ -202,7 +202,7 @@ Type text shortcuts which are then replaced with JavaScript generated text.
 - **下载量**：14.8K
 - **最后更新**：2022-12-13
 - **GitHub**：[jon-heard/obsidian-inline-scripts](https://github.com/jon-heard/obsidian-inline-scripts)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

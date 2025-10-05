@@ -1,12 +1,12 @@
 ---
 title: Paste Link
-description: Intelligently paste Markdown links.
+description: 智能粘贴 Markdown 链接
 author: Jose Elias Alvarez
-downloads: 15120
+downloads: 15132
 updated: 1749046290000
 repo: jose-elias-alvarez/obsidian-paste-link
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="paste-link"
   name="Paste Link"
-  description="Intelligently paste Markdown links."
+  description="智能粘贴 Markdown 链接"
   author="Jose Elias Alvarez"
-  :downloads="15120"
+  :downloads="15132"
   :updated="1749046290000"
   repo="jose-elias-alvarez/obsidian-paste-link"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Paste Link 是一个功能强大的 Obsidian 插件。
 
-Intelligently paste Markdown links.
+智能粘贴 Markdown 链接
 
 通过 Paste Link,您可以:
 
@@ -202,7 +202,7 @@ Intelligently paste Markdown links.
 - **下载量**：15.1K
 - **最后更新**：2025-06-04
 - **GitHub**：[jose-elias-alvarez/obsidian-paste-link](https://github.com/jose-elias-alvarez/obsidian-paste-link)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

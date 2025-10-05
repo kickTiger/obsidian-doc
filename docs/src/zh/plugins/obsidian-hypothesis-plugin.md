@@ -1,12 +1,12 @@
 ---
 title: Hypothes.is
-description: Sync your Hypothesis highlights.
+description: 同步您的假设亮点。
 author: weichenw
 downloads: 14915
 updated: 1654085002000
 repo: weichenw/obsidian-hypothesis-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-hypothesis-plugin"
   name="Hypothes.is"
-  description="Sync your Hypothesis highlights."
+  description="同步您的假设亮点。"
   author="weichenw"
   :downloads="14915"
   :updated="1654085002000"
   repo="weichenw/obsidian-hypothesis-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hypothes.is 是一个功能强大的 Obsidian 插件。
 
-Sync your Hypothesis highlights.
+同步您的假设亮点。
 
 通过 Hypothes.is,您可以:
 
@@ -202,7 +202,7 @@ Sync your Hypothesis highlights.
 - **下载量**：14.9K
 - **最后更新**：2022-06-01
 - **GitHub**：[weichenw/obsidian-hypothesis-plugin](https://github.com/weichenw/obsidian-hypothesis-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

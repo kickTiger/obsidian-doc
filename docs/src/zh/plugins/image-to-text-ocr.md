@@ -1,12 +1,12 @@
 ---
 title: Image to text OCR
-description: Convert a image in your note to text.
+description: 将便笺中的图片转换为文本。
 author: Dario Baumberger
-downloads: 3757
+downloads: 3767
 updated: 1758808755000
 repo: dario-baumberger/obsidian-image-to-text-ocr
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="image-to-text-ocr"
   name="Image to text OCR"
-  description="Convert a image in your note to text."
+  description="将便笺中的图片转换为文本。"
   author="Dario Baumberger"
-  :downloads="3757"
+  :downloads="3767"
   :updated="1758808755000"
   repo="dario-baumberger/obsidian-image-to-text-ocr"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image to text OCR 是一个功能强大的 Obsidian 插件。
 
-Convert a image in your note to text.
+将便笺中的图片转换为文本。
 
 通过 Image to text OCR,您可以:
 
@@ -202,7 +202,7 @@ Convert a image in your note to text.
 - **下载量**：3.8K
 - **最后更新**：2025-09-25
 - **GitHub**：[dario-baumberger/obsidian-image-to-text-ocr](https://github.com/dario-baumberger/obsidian-image-to-text-ocr)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

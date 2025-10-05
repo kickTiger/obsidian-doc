@@ -6,7 +6,7 @@ downloads: 168
 updated: 1733992562000
 repo: slow-groovin/simple-disguise
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1733992562000"
   repo="slow-groovin/simple-disguise"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ disguise/obscure/hide the markdown content in a very simple way.
 - **下载量**：168
 - **最后更新**：2024-12-12
 - **GitHub**：[slow-groovin/simple-disguise](https://github.com/slow-groovin/simple-disguise)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Vault Nickname
 description: 'Override the vault''s display name. Intended to disambiguate vaults with the same folder name when adhering to a common folder structure between projects.'
 author: '@rscopic'
-downloads: 522
+downloads: 524
 updated: 1756567443000
 repo: rscopic/obsidian-vault-nickname
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Vault Nickname"
   description="Override the vault&#39;s display name. Intended to disambiguate vaults with the same folder name when adhering to a common folder structure between projects."
   author="@rscopic"
-  :downloads="522"
+  :downloads="524"
   :updated="1756567443000"
   repo="rscopic/obsidian-vault-nickname"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Override the vault&#39;s display name. Intended to disambiguate vaults with the 
 - **插件 ID**：vault-nickname
 - **作者**：@rscopic
 - **当前版本**：v1.0.0
-- **下载量**：522
+- **下载量**：524
 - **最后更新**：2025-08-30
 - **GitHub**：[rscopic/obsidian-vault-nickname](https://github.com/rscopic/obsidian-vault-nickname)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

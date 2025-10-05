@@ -2,11 +2,11 @@
 title: White Noise
 description: Play white noise to help you focus on your work.
 author: Zhou Hua
-downloads: 1071
+downloads: 1072
 updated: 1744084220000
 repo: zhouhua/obsidian-white-noise
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="White Noise"
   description="Play white noise to help you focus on your work."
   author="Zhou Hua"
-  :downloads="1071"
+  :downloads="1072"
   :updated="1744084220000"
   repo="zhouhua/obsidian-white-noise"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Play white noise to help you focus on your work.
 - **下载量**：1.1K
 - **最后更新**：2025-04-08
 - **GitHub**：[zhouhua/obsidian-white-noise](https://github.com/zhouhua/obsidian-white-noise)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

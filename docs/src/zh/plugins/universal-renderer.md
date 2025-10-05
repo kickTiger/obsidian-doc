@@ -2,11 +2,11 @@
 title: Universal renderer
 description: Render various diagrams using system native packages
 author: Kloud
-downloads: 672
+downloads: 673
 updated: 1713293857000
 repo: dgudim/obsidian-universal-renderer
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Universal renderer"
   description="Render various diagrams using system native packages"
   author="Kloud"
-  :downloads="672"
+  :downloads="673"
   :updated="1713293857000"
   repo="dgudim/obsidian-universal-renderer"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Render various diagrams using system native packages
 - **插件 ID**：universal-renderer
 - **作者**：Kloud
 - **当前版本**：v1.0.0
-- **下载量**：672
+- **下载量**：673
 - **最后更新**：2024-04-17
 - **GitHub**：[dgudim/obsidian-universal-renderer](https://github.com/dgudim/obsidian-universal-renderer)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

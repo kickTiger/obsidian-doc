@@ -1,12 +1,12 @@
 ---
 title: Rollover Daily Todos
-description: 'Rollover any unchecked checkboxes from your last daily note into today''s note.'
+description: 将未完成的待办事项滚动到今天的日记。
 author: Matt Sessions
-downloads: 125184
+downloads: 125248
 updated: 1748365005000
 repo: lumoe/obsidian-rollover-daily-todos
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-rollover-daily-todos"
   name="Rollover Daily Todos"
-  description="Rollover any unchecked checkboxes from your last daily note into today&#39;s note."
+  description="将未完成的待办事项滚动到今天的日记。"
   author="Matt Sessions"
-  :downloads="125184"
+  :downloads="125248"
   :updated="1748365005000"
   repo="lumoe/obsidian-rollover-daily-todos"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Rollover Daily Todos 是一个功能强大的 Obsidian 插件。
 
-Rollover any unchecked checkboxes from your last daily note into today&#39;s note.
+将未完成的待办事项滚动到今天的日记。
 
 通过 Rollover Daily Todos,您可以:
 
@@ -202,7 +202,7 @@ Rollover any unchecked checkboxes from your last daily note into today&#39;s not
 - **下载量**：125.2K
 - **最后更新**：2025-05-28
 - **GitHub**：[lumoe/obsidian-rollover-daily-todos](https://github.com/lumoe/obsidian-rollover-daily-todos)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

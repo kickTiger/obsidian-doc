@@ -1,12 +1,12 @@
 ---
 title: Vault 2 Book
-description: Convert your notes to a book creating a single file containing all the notes linked.
+description: 将笔记转换成一本书，创建包含所有链接笔记的单一文件。
 author: Mitra98t
-downloads: 4519
+downloads: 4522
 updated: 1686861902000
 repo: Mitra98t/vault2book-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vault-2-book"
   name="Vault 2 Book"
-  description="Convert your notes to a book creating a single file containing all the notes linked."
+  description="将笔记转换成一本书，创建包含所有链接笔记的单一文件。"
   author="Mitra98t"
-  :downloads="4519"
+  :downloads="4522"
   :updated="1686861902000"
   repo="Mitra98t/vault2book-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vault 2 Book 是一个功能强大的 Obsidian 插件。
 
-Convert your notes to a book creating a single file containing all the notes linked.
+将笔记转换成一本书，创建包含所有链接笔记的单一文件。
 
 通过 Vault 2 Book,您可以:
 
@@ -202,7 +202,7 @@ Convert your notes to a book creating a single file containing all the notes lin
 - **下载量**：4.5K
 - **最后更新**：2023-06-16
 - **GitHub**：[Mitra98t/vault2book-plugin](https://github.com/Mitra98t/vault2book-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

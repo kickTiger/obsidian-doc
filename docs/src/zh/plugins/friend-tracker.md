@@ -1,12 +1,12 @@
 ---
 title: Friend Tracker
-description: Keep track of friends, birthdays, and interactions
+description: 记录朋友、生日和互动情况
 author: Dan Au
-downloads: 3823
+downloads: 3825
 updated: 1747184375000
 repo: buzzguy/friend-tracker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="friend-tracker"
   name="Friend Tracker"
-  description="Keep track of friends, birthdays, and interactions"
+  description="记录朋友、生日和互动情况"
   author="Dan Au"
-  :downloads="3823"
+  :downloads="3825"
   :updated="1747184375000"
   repo="buzzguy/friend-tracker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Friend Tracker 是一个功能强大的 Obsidian 插件。
 
-Keep track of friends, birthdays, and interactions
+记录朋友、生日和互动情况
 
 通过 Friend Tracker,您可以:
 
@@ -202,7 +202,7 @@ Keep track of friends, birthdays, and interactions
 - **下载量**：3.8K
 - **最后更新**：2025-05-14
 - **GitHub**：[buzzguy/friend-tracker](https://github.com/buzzguy/friend-tracker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

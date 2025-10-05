@@ -2,11 +2,11 @@
 title: Papers
 description: Retrieve and import research papers.
 author: William Liang
-downloads: 150
+downloads: 154
 updated: 1754866418000
 repo: willjhliang/obsidian-papers
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Papers"
   description="Retrieve and import research papers."
   author="William Liang"
-  :downloads="150"
+  :downloads="154"
   :updated="1754866418000"
   repo="willjhliang/obsidian-papers"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Retrieve and import research papers.
 - **插件 ID**：papers
 - **作者**：William Liang
 - **当前版本**：v1.0.0
-- **下载量**：150
+- **下载量**：154
 - **最后更新**：2025-08-11
 - **GitHub**：[willjhliang/obsidian-papers](https://github.com/willjhliang/obsidian-papers)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

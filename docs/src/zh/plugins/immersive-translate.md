@@ -2,11 +2,11 @@
 title: Immersive Translate
 description: A free-to-use translatation service for foreign language markdown file.
 author: imfenghuang
-downloads: 2879
+downloads: 2890
 updated: 1758206620000
 repo: imfenghuang/obsidian-immersive-translate
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Immersive Translate"
   description="A free-to-use translatation service for foreign language markdown file."
   author="imfenghuang"
-  :downloads="2879"
+  :downloads="2890"
   :updated="1758206620000"
   repo="imfenghuang/obsidian-immersive-translate"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ A free-to-use translatation service for foreign language markdown file.
 - **下载量**：2.9K
 - **最后更新**：2025-09-18
 - **GitHub**：[imfenghuang/obsidian-immersive-translate](https://github.com/imfenghuang/obsidian-immersive-translate)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

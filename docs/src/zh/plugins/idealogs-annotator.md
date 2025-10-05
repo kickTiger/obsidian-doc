@@ -2,11 +2,11 @@
 title: Idealogs Annotator
 description: For viewing and linking Idealogs articles.
 author: Idealogical Foundation
-downloads: 210
+downloads: 211
 updated: 1759320786000
 repo: idlgcl/obsidialogs
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Idealogs Annotator"
   description="For viewing and linking Idealogs articles."
   author="Idealogical Foundation"
-  :downloads="210"
+  :downloads="211"
   :updated="1759320786000"
   repo="idlgcl/obsidialogs"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ For viewing and linking Idealogs articles.
 - **插件 ID**：idealogs-annotator
 - **作者**：Idealogical Foundation
 - **当前版本**：v1.0.0
-- **下载量**：210
+- **下载量**：211
 - **最后更新**：2025-10-01
 - **GitHub**：[idlgcl/obsidialogs](https://github.com/idlgcl/obsidialogs)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

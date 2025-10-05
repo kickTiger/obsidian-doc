@@ -1,12 +1,12 @@
 ---
 title: Flashcards LLM
-description: Use Large Language Models (such as ChatGPT) to automatically generate flashcards from your notes.
+description: 使用大型语言模型（如 ChatGPT）从笔记中自动生成闪存卡。
 author: Marco Pampaloni
-downloads: 7702
+downloads: 7703
 updated: 1751901892000
 repo: crybot/obsidian-flashcards-llm
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="flashcards-llm"
   name="Flashcards LLM"
-  description="Use Large Language Models (such as ChatGPT) to automatically generate flashcards from your notes."
+  description="使用大型语言模型（如 ChatGPT）从笔记中自动生成闪存卡。"
   author="Marco Pampaloni"
-  :downloads="7702"
+  :downloads="7703"
   :updated="1751901892000"
   repo="crybot/obsidian-flashcards-llm"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Flashcards LLM 是一个功能强大的 Obsidian 插件。
 
-Use Large Language Models (such as ChatGPT) to automatically generate flashcards from your notes.
+使用大型语言模型（如 ChatGPT）从笔记中自动生成闪存卡。
 
 通过 Flashcards LLM,您可以:
 
@@ -202,7 +202,7 @@ Use Large Language Models (such as ChatGPT) to automatically generate flashcards
 - **下载量**：7.7K
 - **最后更新**：2025-07-07
 - **GitHub**：[crybot/obsidian-flashcards-llm](https://github.com/crybot/obsidian-flashcards-llm)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

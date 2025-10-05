@@ -2,11 +2,11 @@
 title: PDF Paste
 description: Improve copy-paste from PDFs by cleaning newlines and hyphens.
 author: Cormac
-downloads: 1131
+downloads: 1134
 updated: 1738517514000
 repo: Cormac-C/obsidian-paste-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="PDF Paste"
   description="Improve copy-paste from PDFs by cleaning newlines and hyphens."
   author="Cormac"
-  :downloads="1131"
+  :downloads="1134"
   :updated="1738517514000"
   repo="Cormac-C/obsidian-paste-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Improve copy-paste from PDFs by cleaning newlines and hyphens.
 - **下载量**：1.1K
 - **最后更新**：2025-02-03
 - **GitHub**：[Cormac-C/obsidian-paste-plugin](https://github.com/Cormac-C/obsidian-paste-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 113
 updated: 1747409183000
 repo: oylbin/obsidian-yuque-publish
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1747409183000"
   repo="oylbin/obsidian-yuque-publish"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish your notes to Yuque.
 - **下载量**：113
 - **最后更新**：2025-05-16
 - **GitHub**：[oylbin/obsidian-yuque-publish](https://github.com/oylbin/obsidian-yuque-publish)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

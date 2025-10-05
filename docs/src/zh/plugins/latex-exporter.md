@@ -2,11 +2,11 @@
 title: Latex Exporter
 description: Write a LaTeX paper.
 author: Matthew S. Scott
-downloads: 2429
+downloads: 2436
 updated: 1754011734000
 repo: mscott99/Latex-Exporter
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Latex Exporter"
   description="Write a LaTeX paper."
   author="Matthew S. Scott"
-  :downloads="2429"
+  :downloads="2436"
   :updated="1754011734000"
   repo="mscott99/Latex-Exporter"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Write a LaTeX paper.
 - **下载量**：2.4K
 - **最后更新**：2025-08-01
 - **GitHub**：[mscott99/Latex-Exporter](https://github.com/mscott99/Latex-Exporter)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

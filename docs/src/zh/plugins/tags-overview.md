@@ -1,12 +1,12 @@
 ---
 title: Tags Overview
-description: An extended tags panel where tagged files can be easily viewed, filtered, and accessed.
+description: 扩展标签面板，可轻松查看、过滤和访问标记文件。
 author: Christian Wannerstedt
-downloads: 15916
+downloads: 15924
 updated: 1709502349000
 repo: christianwannerstedt/obsidian-tags-overview
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tags-overview"
   name="Tags Overview"
-  description="An extended tags panel where tagged files can be easily viewed, filtered, and accessed."
+  description="扩展标签面板，可轻松查看、过滤和访问标记文件。"
   author="Christian Wannerstedt"
-  :downloads="15916"
+  :downloads="15924"
   :updated="1709502349000"
   repo="christianwannerstedt/obsidian-tags-overview"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tags Overview 是一个功能强大的 Obsidian 插件。
 
-An extended tags panel where tagged files can be easily viewed, filtered, and accessed.
+扩展标签面板，可轻松查看、过滤和访问标记文件。
 
 通过 Tags Overview,您可以:
 
@@ -202,7 +202,7 @@ An extended tags panel where tagged files can be easily viewed, filtered, and ac
 - **下载量**：15.9K
 - **最后更新**：2024-03-04
 - **GitHub**：[christianwannerstedt/obsidian-tags-overview](https://github.com/christianwannerstedt/obsidian-tags-overview)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

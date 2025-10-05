@@ -1,12 +1,12 @@
 ---
 title: Linked Data Helper
-description: Prepare data needed by Linked Data Vocabularies.
+description: 准备关联数据词汇表所需的数据。
 author: kometenstaub
 downloads: 4137
 updated: 1682248642000
 repo: kometenstaub/linked-data-helper
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="linked-data-helper"
   name="Linked Data Helper"
-  description="Prepare data needed by Linked Data Vocabularies."
+  description="准备关联数据词汇表所需的数据。"
   author="kometenstaub"
   :downloads="4137"
   :updated="1682248642000"
   repo="kometenstaub/linked-data-helper"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Linked Data Helper 是一个功能强大的 Obsidian 插件。
 
-Prepare data needed by Linked Data Vocabularies.
+准备关联数据词汇表所需的数据。
 
 通过 Linked Data Helper,您可以:
 
@@ -202,7 +202,7 @@ Prepare data needed by Linked Data Vocabularies.
 - **下载量**：4.1K
 - **最后更新**：2023-04-23
 - **GitHub**：[kometenstaub/linked-data-helper](https://github.com/kometenstaub/linked-data-helper)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

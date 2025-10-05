@@ -6,7 +6,7 @@ downloads: 1817
 updated: 1703425408000
 repo: smartlife-gpt/alfonso-money-manager-obsidian
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1703425408000"
   repo="smartlife-gpt/alfonso-money-manager-obsidian"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Alfonso Money Manager data viewer and financial analytics tool
 - **下载量**：1.8K
 - **最后更新**：2023-12-24
 - **GitHub**：[smartlife-gpt/alfonso-money-manager-obsidian](https://github.com/smartlife-gpt/alfonso-money-manager-obsidian)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 895
 updated: 1734342868000
 repo: codeonquer/obsidian-sync-config-folder-to-common-folder
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1734342868000"
   repo="codeonquer/obsidian-sync-config-folder-to-common-folder"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync contents from config folder to common folder for backup or other purposes.
 - **下载量**：895
 - **最后更新**：2024-12-16
 - **GitHub**：[codeonquer/obsidian-sync-config-folder-to-common-folder](https://github.com/codeonquer/obsidian-sync-config-folder-to-common-folder)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

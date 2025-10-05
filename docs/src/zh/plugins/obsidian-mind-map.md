@@ -1,12 +1,12 @@
 ---
 title: Mind Map
-description: Display Markdown notes as mind maps using Markmap.
+description: 显示 Markdown 笔记的思维导图。
 author: James Lynch
-downloads: 714685
+downloads: 715081
 updated: 1607877184000
 repo: lynchjames/obsidian-mind-map
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-mind-map"
   name="Mind Map"
-  description="Display Markdown notes as mind maps using Markmap."
+  description="显示 Markdown 笔记的思维导图。"
   author="James Lynch"
-  :downloads="714685"
+  :downloads="715081"
   :updated="1607877184000"
   repo="lynchjames/obsidian-mind-map"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mind Map 是一个功能强大的 Obsidian 插件。
 
-Display Markdown notes as mind maps using Markmap.
+显示 Markdown 笔记的思维导图。
 
 通过 Mind Map,您可以:
 
@@ -199,10 +199,10 @@ Display Markdown notes as mind maps using Markmap.
 - **插件 ID**：obsidian-mind-map
 - **作者**：James Lynch
 - **当前版本**：v1.0.0
-- **下载量**：714.7K
+- **下载量**：715.1K
 - **最后更新**：2020-12-14
 - **GitHub**：[lynchjames/obsidian-mind-map](https://github.com/lynchjames/obsidian-mind-map)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

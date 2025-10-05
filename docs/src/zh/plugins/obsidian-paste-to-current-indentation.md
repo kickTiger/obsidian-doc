@@ -1,12 +1,12 @@
 ---
 title: Paste Mode
-description: Paste content and mark block quotes at any level of indentation.
+description: 粘贴内容，并以任意缩进程度标记引号块。
 author: Jacob Levernier
-downloads: 16645
+downloads: 16651
 updated: 1681671603000
 repo: jglev/obsidian-paste-mode
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-paste-to-current-indentation"
   name="Paste Mode"
-  description="Paste content and mark block quotes at any level of indentation."
+  description="粘贴内容，并以任意缩进程度标记引号块。"
   author="Jacob Levernier"
-  :downloads="16645"
+  :downloads="16651"
   :updated="1681671603000"
   repo="jglev/obsidian-paste-mode"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Paste Mode 是一个功能强大的 Obsidian 插件。
 
-Paste content and mark block quotes at any level of indentation.
+粘贴内容，并以任意缩进程度标记引号块。
 
 通过 Paste Mode,您可以:
 
@@ -199,10 +199,10 @@ Paste content and mark block quotes at any level of indentation.
 - **插件 ID**：obsidian-paste-to-current-indentation
 - **作者**：Jacob Levernier
 - **当前版本**：v1.0.0
-- **下载量**：16.6K
+- **下载量**：16.7K
 - **最后更新**：2023-04-17
 - **GitHub**：[jglev/obsidian-paste-mode](https://github.com/jglev/obsidian-paste-mode)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

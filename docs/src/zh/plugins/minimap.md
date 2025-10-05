@@ -2,11 +2,11 @@
 title: Note Minimap
 description: Add a minimap to your Markdown notes.
 author: Yair Segel
-downloads: 557
+downloads: 574
 updated: 1758025168000
 repo: YairSegel/ObsidianMinimap
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note Minimap"
   description="Add a minimap to your Markdown notes."
   author="Yair Segel"
-  :downloads="557"
+  :downloads="574"
   :updated="1758025168000"
   repo="YairSegel/ObsidianMinimap"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Add a minimap to your Markdown notes.
 - **插件 ID**：minimap
 - **作者**：Yair Segel
 - **当前版本**：v1.0.0
-- **下载量**：557
+- **下载量**：574
 - **最后更新**：2025-09-16
 - **GitHub**：[YairSegel/ObsidianMinimap](https://github.com/YairSegel/ObsidianMinimap)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

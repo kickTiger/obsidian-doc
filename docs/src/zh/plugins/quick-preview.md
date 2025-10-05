@@ -1,12 +1,12 @@
 ---
 title: Quick Preview
-description: 'Quickly preview a suggestion before selecting it in link suggestions & quick switcher.'
+description: 在链接建议和快速切换器中选择建议前快速预览。
 author: Ryota Ushio
-downloads: 7283
+downloads: 7296
 updated: 1717657297000
 repo: RyotaUshio/obsidian-quick-preview
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quick-preview"
   name="Quick Preview"
-  description="Quickly preview a suggestion before selecting it in link suggestions &amp; quick switcher."
+  description="在链接建议和快速切换器中选择建议前快速预览。"
   author="Ryota Ushio"
-  :downloads="7283"
+  :downloads="7296"
   :updated="1717657297000"
   repo="RyotaUshio/obsidian-quick-preview"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quick Preview 是一个功能强大的 Obsidian 插件。
 
-Quickly preview a suggestion before selecting it in link suggestions &amp; quick switcher.
+在链接建议和快速切换器中选择建议前快速预览。
 
 通过 Quick Preview,您可以:
 
@@ -202,7 +202,7 @@ Quickly preview a suggestion before selecting it in link suggestions &amp; quick
 - **下载量**：7.3K
 - **最后更新**：2024-06-06
 - **GitHub**：[RyotaUshio/obsidian-quick-preview](https://github.com/RyotaUshio/obsidian-quick-preview)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

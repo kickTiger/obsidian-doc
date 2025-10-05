@@ -1,12 +1,12 @@
 ---
 title: Dataview (to) Properties
-description: 'Automagically copy dataview inline field (and their values, even calculated!) into frontmatter properties and keep them sync.'
+description: 自动将数据视图内联字段（及其值，甚至是计算值！）复制到 frontmatter 属性中，并保持同步。
 author: Mara-Li
-downloads: 3803
+downloads: 3837
 updated: 1756666357000
 repo: Mara-Li/obsidian-dataview-properties
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="dataview-properties"
   name="Dataview (to) Properties"
-  description="Automagically copy dataview inline field (and their values, even calculated!) into frontmatter properties and keep them sync."
+  description="自动将数据视图内联字段（及其值，甚至是计算值！）复制到 frontmatter 属性中，并保持同步。"
   author="Mara-Li"
-  :downloads="3803"
+  :downloads="3837"
   :updated="1756666357000"
   repo="Mara-Li/obsidian-dataview-properties"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dataview (to) Properties 是一个功能强大的 Obsidian 插件。
 
-Automagically copy dataview inline field (and their values, even calculated!) into frontmatter properties and keep them sync.
+自动将数据视图内联字段（及其值，甚至是计算值！）复制到 frontmatter 属性中，并保持同步。
 
 通过 Dataview (to) Properties,您可以:
 
@@ -202,7 +202,7 @@ Automagically copy dataview inline field (and their values, even calculated!) in
 - **下载量**：3.8K
 - **最后更新**：2025-09-01
 - **GitHub**：[Mara-Li/obsidian-dataview-properties](https://github.com/Mara-Li/obsidian-dataview-properties)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

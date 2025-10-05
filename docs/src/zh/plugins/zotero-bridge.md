@@ -1,12 +1,12 @@
 ---
 title: Zotero Bridge
-description: Integrate with Zotero through ZotServer.
+description: 通过 ZotServer 与 Zotero 集成。
 author: Shmavon Gazanchyan
-downloads: 13155
+downloads: 13165
 updated: 1737840825000
 repo: vanakat/zotero-bridge
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="zotero-bridge"
   name="Zotero Bridge"
-  description="Integrate with Zotero through ZotServer."
+  description="通过 ZotServer 与 Zotero 集成。"
   author="Shmavon Gazanchyan"
-  :downloads="13155"
+  :downloads="13165"
   :updated="1737840825000"
   repo="vanakat/zotero-bridge"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Zotero Bridge 是一个功能强大的 Obsidian 插件。
 
-Integrate with Zotero through ZotServer.
+通过 ZotServer 与 Zotero 集成。
 
 通过 Zotero Bridge,您可以:
 
@@ -202,7 +202,7 @@ Integrate with Zotero through ZotServer.
 - **下载量**：13.2K
 - **最后更新**：2025-01-26
 - **GitHub**：[vanakat/zotero-bridge](https://github.com/vanakat/zotero-bridge)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

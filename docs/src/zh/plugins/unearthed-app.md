@@ -2,11 +2,11 @@
 title: 'Unearthed (Kindle & KOReader Sync)'
 description: Auto Sync Kindle Highlights and Daily Reflection via Unearthed
 author: CheersCal
-downloads: 1358
+downloads: 1363
 updated: 1753774657000
 repo: Unearthed-App/unearthed-obsidian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Unearthed (Kindle &amp; KOReader Sync)"
   description="Auto Sync Kindle Highlights and Daily Reflection via Unearthed"
   author="CheersCal"
-  :downloads="1358"
+  :downloads="1363"
   :updated="1753774657000"
   repo="Unearthed-App/unearthed-obsidian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Auto Sync Kindle Highlights and Daily Reflection via Unearthed
 - **下载量**：1.4K
 - **最后更新**：2025-07-29
 - **GitHub**：[Unearthed-App/unearthed-obsidian](https://github.com/Unearthed-App/unearthed-obsidian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

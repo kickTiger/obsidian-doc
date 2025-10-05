@@ -1,12 +1,12 @@
 ---
 title: Custom Node Size
-description: Customize nodes size for improved graph understanding.
+description: 自定义节点大小，提高图形理解能力。
 author: jackvonhouse
-downloads: 4555
+downloads: 4569
 updated: 1727199941000
 repo: jackvonhouse/custom-node-size
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="custom-node-size"
   name="Custom Node Size"
-  description="Customize nodes size for improved graph understanding."
+  description="自定义节点大小，提高图形理解能力。"
   author="jackvonhouse"
-  :downloads="4555"
+  :downloads="4569"
   :updated="1727199941000"
   repo="jackvonhouse/custom-node-size"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Custom Node Size 是一个功能强大的 Obsidian 插件。
 
-Customize nodes size for improved graph understanding.
+自定义节点大小，提高图形理解能力。
 
 通过 Custom Node Size,您可以:
 
@@ -202,7 +202,7 @@ Customize nodes size for improved graph understanding.
 - **下载量**：4.6K
 - **最后更新**：2024-09-25
 - **GitHub**：[jackvonhouse/custom-node-size](https://github.com/jackvonhouse/custom-node-size)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Unofficial Supernote by Ratta Integration
-description: View Supernote notes, generate markdown from note and capture screen mirror.
+description: 查看 Supernote 笔记，从笔记生成标记，捕捉屏幕镜像。
 author: philips
-downloads: 12579
+downloads: 12614
 updated: 1740358417000
 repo: philips/supernote-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="supernote"
   name="Unofficial Supernote by Ratta Integration"
-  description="View Supernote notes, generate markdown from note and capture screen mirror."
+  description="查看 Supernote 笔记，从笔记生成标记，捕捉屏幕镜像。"
   author="philips"
-  :downloads="12579"
+  :downloads="12614"
   :updated="1740358417000"
   repo="philips/supernote-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Unofficial Supernote by Ratta Integration 是一个功能强大的 Obsidian 插件。
 
-View Supernote notes, generate markdown from note and capture screen mirror.
+查看 Supernote 笔记，从笔记生成标记，捕捉屏幕镜像。
 
 通过 Unofficial Supernote by Ratta Integration,您可以:
 
@@ -202,7 +202,7 @@ View Supernote notes, generate markdown from note and capture screen mirror.
 - **下载量**：12.6K
 - **最后更新**：2025-02-24
 - **GitHub**：[philips/supernote-obsidian-plugin](https://github.com/philips/supernote-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

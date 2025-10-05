@@ -2,11 +2,11 @@
 title: X Post Saver
 description: 'Saves X (formerly Twitter) posts'' text data to new notes or inside a specific directory in your vault.'
 author: Tanaka Mambinge
-downloads: 154
+downloads: 159
 updated: 1759228184000
 repo: tanaka-mambinge/x-post-saver
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="X Post Saver"
   description="Saves X (formerly Twitter) posts&#39; text data to new notes or inside a specific directory in your vault."
   author="Tanaka Mambinge"
-  :downloads="154"
+  :downloads="159"
   :updated="1759228184000"
   repo="tanaka-mambinge/x-post-saver"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Saves X (formerly Twitter) posts&#39; text data to new notes or inside a specifi
 - **插件 ID**：x-post-saver
 - **作者**：Tanaka Mambinge
 - **当前版本**：v1.0.0
-- **下载量**：154
+- **下载量**：159
 - **最后更新**：2025-09-30
 - **GitHub**：[tanaka-mambinge/x-post-saver](https://github.com/tanaka-mambinge/x-post-saver)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

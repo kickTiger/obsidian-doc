@@ -1,12 +1,12 @@
 ---
 title: Completed Area
-description: Move completed to-do items to a separate completed area.
+description: 将已完成的待办事项移至单独的已完成区域。
 author: Daha
-downloads: 8261
+downloads: 8263
 updated: 1607576990000
 repo: DahaWong/obsidian-completed-area
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="completed-area"
   name="Completed Area"
-  description="Move completed to-do items to a separate completed area."
+  description="将已完成的待办事项移至单独的已完成区域。"
   author="Daha"
-  :downloads="8261"
+  :downloads="8263"
   :updated="1607576990000"
   repo="DahaWong/obsidian-completed-area"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Completed Area 是一个功能强大的 Obsidian 插件。
 
-Move completed to-do items to a separate completed area.
+将已完成的待办事项移至单独的已完成区域。
 
 通过 Completed Area,您可以:
 
@@ -202,7 +202,7 @@ Move completed to-do items to a separate completed area.
 - **下载量**：8.3K
 - **最后更新**：2020-12-10
 - **GitHub**：[DahaWong/obsidian-completed-area](https://github.com/DahaWong/obsidian-completed-area)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

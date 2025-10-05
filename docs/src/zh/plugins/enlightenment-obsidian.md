@@ -1,12 +1,12 @@
 ---
 title: Enlightenment
-description: 'Pay attention to what you''re paying attention to. Enlightenment adds a ''zen mode'' for Preview, hiding the contents of your notes except for what''s underneath your pointer.'
+description: '关注你正在关注的内容。Enlightenment 为预览添加了 "禅宗模式"，除了指针下方的内容外，会隐藏笔记内容。'
 author: ryanjamurphy
-downloads: 5661
+downloads: 5663
 updated: 1652795501000
 repo: ryanjamurphy/enlightenment-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="enlightenment-obsidian"
   name="Enlightenment"
-  description="Pay attention to what you&#39;re paying attention to. Enlightenment adds a &#39;zen mode&#39; for Preview, hiding the contents of your notes except for what&#39;s underneath your pointer."
+  description="关注你正在关注的内容。Enlightenment 为预览添加了 &quot;禅宗模式&quot;，除了指针下方的内容外，会隐藏笔记内容。"
   author="ryanjamurphy"
-  :downloads="5661"
+  :downloads="5663"
   :updated="1652795501000"
   repo="ryanjamurphy/enlightenment-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Enlightenment 是一个功能强大的 Obsidian 插件。
 
-Pay attention to what you&#39;re paying attention to. Enlightenment adds a &#39;zen mode&#39; for Preview, hiding the contents of your notes except for what&#39;s underneath your pointer.
+关注你正在关注的内容。Enlightenment 为预览添加了 &quot;禅宗模式&quot;，除了指针下方的内容外，会隐藏笔记内容。
 
 通过 Enlightenment,您可以:
 
@@ -202,7 +202,7 @@ Pay attention to what you&#39;re paying attention to. Enlightenment adds a &#39;
 - **下载量**：5.7K
 - **最后更新**：2022-05-17
 - **GitHub**：[ryanjamurphy/enlightenment-obsidian](https://github.com/ryanjamurphy/enlightenment-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

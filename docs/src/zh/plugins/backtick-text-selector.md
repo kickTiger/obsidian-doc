@@ -6,7 +6,7 @@ downloads: 267
 updated: 1727727155000
 repo: cool-RR/backtick-text-selector
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1727727155000"
   repo="cool-RR/backtick-text-selector"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily select text in backticks.
 - **下载量**：267
 - **最后更新**：2024-10-01
 - **GitHub**：[cool-RR/backtick-text-selector](https://github.com/cool-RR/backtick-text-selector)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

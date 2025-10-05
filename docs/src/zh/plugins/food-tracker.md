@@ -2,11 +2,11 @@
 title: Food Tracker
 description: Track your food intake (calories, macronutrients) and nutritional information
 author: Forketyfork
-downloads: 383
+downloads: 397
 updated: 1759324717000
 repo: forketyfork/obsidian-food-tracker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Food Tracker"
   description="Track your food intake (calories, macronutrients) and nutritional information"
   author="Forketyfork"
-  :downloads="383"
+  :downloads="397"
   :updated="1759324717000"
   repo="forketyfork/obsidian-food-tracker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Track your food intake (calories, macronutrients) and nutritional information
 - **插件 ID**：food-tracker
 - **作者**：Forketyfork
 - **当前版本**：v1.0.0
-- **下载量**：383
+- **下载量**：397
 - **最后更新**：2025-10-01
 - **GitHub**：[forketyfork/obsidian-food-tracker](https://github.com/forketyfork/obsidian-food-tracker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

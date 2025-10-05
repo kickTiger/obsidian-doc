@@ -6,7 +6,7 @@ downloads: 1552
 updated: 1754523215000
 repo: jobedom/obsidian-hemingway-mode
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1754523215000"
   repo="jobedom/obsidian-hemingway-mode"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Prevents any editing, only letting you write ahead.
 - **下载量**：1.6K
 - **最后更新**：2025-08-07
 - **GitHub**：[jobedom/obsidian-hemingway-mode](https://github.com/jobedom/obsidian-hemingway-mode)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

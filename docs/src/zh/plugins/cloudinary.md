@@ -1,12 +1,12 @@
 ---
 title: Cloudinary
-description: Upload content (images, videos, audio) to Cloudinary and insert (copy or drag both) them into your notes.
+description: 将内容（图片、视频、音频）上传到 Cloudinary，然后插入（复制或拖动）到笔记中。
 author: Uday Samsani, Jordan Handy
 downloads: 3815
 updated: 1688722660000
 repo: uday-samsani/obsidian-cloudinary
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cloudinary"
   name="Cloudinary"
-  description="Upload content (images, videos, audio) to Cloudinary and insert (copy or drag both) them into your notes."
+  description="将内容（图片、视频、音频）上传到 Cloudinary，然后插入（复制或拖动）到笔记中。"
   author="Uday Samsani, Jordan Handy"
   :downloads="3815"
   :updated="1688722660000"
   repo="uday-samsani/obsidian-cloudinary"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Cloudinary 是一个功能强大的 Obsidian 插件。
 
-Upload content (images, videos, audio) to Cloudinary and insert (copy or drag both) them into your notes.
+将内容（图片、视频、音频）上传到 Cloudinary，然后插入（复制或拖动）到笔记中。
 
 通过 Cloudinary,您可以:
 
@@ -202,7 +202,7 @@ Upload content (images, videos, audio) to Cloudinary and insert (copy or drag bo
 - **下载量**：3.8K
 - **最后更新**：2023-07-07
 - **GitHub**：[uday-samsani/obsidian-cloudinary](https://github.com/uday-samsani/obsidian-cloudinary)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

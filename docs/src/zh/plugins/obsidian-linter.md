@@ -1,12 +1,12 @@
 ---
 title: Linter
-description: Format and style your notes. Linter can be used to format YAML tags, aliases, arrays, and metadata; footnotes; headings; spacing; math blocks; regular Markdown contents like list, italics, and bold styles; and more with the use of custom rule options.
+description: 格式化和样式化 Markdown 笔记。
 author: Victor Tao
-downloads: 703888
+downloads: 704672
 updated: 1757868936000
 repo: platers/obsidian-linter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-linter"
   name="Linter"
-  description="Format and style your notes. Linter can be used to format YAML tags, aliases, arrays, and metadata; footnotes; headings; spacing; math blocks; regular Markdown contents like list, italics, and bold styles; and more with the use of custom rule options."
+  description="格式化和样式化 Markdown 笔记。"
   author="Victor Tao"
-  :downloads="703888"
+  :downloads="704672"
   :updated="1757868936000"
   repo="platers/obsidian-linter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Linter 是一个功能强大的 Obsidian 插件。
 
-Format and style your notes. Linter can be used to format YAML tags, aliases, arrays, and metadata; footnotes; headings; spacing; math blocks; regular Markdown contents like list, italics, and bold styles; and more with the use of custom rule options.
+格式化和样式化 Markdown 笔记。
 
 通过 Linter,您可以:
 
@@ -199,10 +199,10 @@ Format and style your notes. Linter can be used to format YAML tags, aliases, ar
 - **插件 ID**：obsidian-linter
 - **作者**：Victor Tao
 - **当前版本**：v1.0.0
-- **下载量**：703.9K
+- **下载量**：704.7K
 - **最后更新**：2025-09-15
 - **GitHub**：[platers/obsidian-linter](https://github.com/platers/obsidian-linter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

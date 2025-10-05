@@ -1,12 +1,12 @@
 ---
 title: Function Plot
-description: Render mathematical functions in a Markdown code block.
+description: 在 Markdown 代码块中渲染数学函数。
 author: leonhma
-downloads: 17864
+downloads: 17883
 updated: 1661275339000
 repo: leonhma/obsidian-functionplot
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-functionplot"
   name="Function Plot"
-  description="Render mathematical functions in a Markdown code block."
+  description="在 Markdown 代码块中渲染数学函数。"
   author="leonhma"
-  :downloads="17864"
+  :downloads="17883"
   :updated="1661275339000"
   repo="leonhma/obsidian-functionplot"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Function Plot 是一个功能强大的 Obsidian 插件。
 
-Render mathematical functions in a Markdown code block.
+在 Markdown 代码块中渲染数学函数。
 
 通过 Function Plot,您可以:
 
@@ -202,7 +202,7 @@ Render mathematical functions in a Markdown code block.
 - **下载量**：17.9K
 - **最后更新**：2022-08-24
 - **GitHub**：[leonhma/obsidian-functionplot](https://github.com/leonhma/obsidian-functionplot)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Testing Vault
-description: Randomized vault generator with links between notes, frontmatter, tags, orphan and leaf notes.
+description: 随机金库生成器，可在注释、前言、标签、孤注和叶注之间建立链接。
 author: Michael Pedersen
 downloads: 3881
 updated: 1680014450000
 repo: pedersen/obsidian-testing-vault
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="testing-vault"
   name="Testing Vault"
-  description="Randomized vault generator with links between notes, frontmatter, tags, orphan and leaf notes."
+  description="随机金库生成器，可在注释、前言、标签、孤注和叶注之间建立链接。"
   author="Michael Pedersen"
   :downloads="3881"
   :updated="1680014450000"
   repo="pedersen/obsidian-testing-vault"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Testing Vault 是一个功能强大的 Obsidian 插件。
 
-Randomized vault generator with links between notes, frontmatter, tags, orphan and leaf notes.
+随机金库生成器，可在注释、前言、标签、孤注和叶注之间建立链接。
 
 通过 Testing Vault,您可以:
 
@@ -202,7 +202,7 @@ Randomized vault generator with links between notes, frontmatter, tags, orphan a
 - **下载量**：3.9K
 - **最后更新**：2023-03-28
 - **GitHub**：[pedersen/obsidian-testing-vault](https://github.com/pedersen/obsidian-testing-vault)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Table Extended
-description: Enable extended table support with MultiMarkdown 6 syntax.
+description: 使用 MultiMarkdown 6 语法启用扩展表格支持。
 author: AidenLx
-downloads: 58941
+downloads: 58967
 updated: 1642321813000
 repo: aidenlx/table-extended
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="table-extended"
   name="Table Extended"
-  description="Enable extended table support with MultiMarkdown 6 syntax."
+  description="使用 MultiMarkdown 6 语法启用扩展表格支持。"
   author="AidenLx"
-  :downloads="58941"
+  :downloads="58967"
   :updated="1642321813000"
   repo="aidenlx/table-extended"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Table Extended 是一个功能强大的 Obsidian 插件。
 
-Enable extended table support with MultiMarkdown 6 syntax.
+使用 MultiMarkdown 6 语法启用扩展表格支持。
 
 通过 Table Extended,您可以:
 
@@ -199,10 +199,10 @@ Enable extended table support with MultiMarkdown 6 syntax.
 - **插件 ID**：table-extended
 - **作者**：AidenLx
 - **当前版本**：v1.0.0
-- **下载量**：58.9K
+- **下载量**：59.0K
 - **最后更新**：2022-01-16
 - **GitHub**：[aidenlx/table-extended](https://github.com/aidenlx/table-extended)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

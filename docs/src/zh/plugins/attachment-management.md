@@ -1,12 +1,12 @@
 ---
 title: Attachment Management
-description: Customize attachment path, auto-rename attachments, etc.
+description: 自定义附件路径、自动重命名附件等。
 author: trganda
-downloads: 45489
+downloads: 45566
 updated: 1756035409000
 repo: trganda/obsidian-attachment-management
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="attachment-management"
   name="Attachment Management"
-  description="Customize attachment path, auto-rename attachments, etc."
+  description="自定义附件路径、自动重命名附件等。"
   author="trganda"
-  :downloads="45489"
+  :downloads="45566"
   :updated="1756035409000"
   repo="trganda/obsidian-attachment-management"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Attachment Management 是一个功能强大的 Obsidian 插件。
 
-Customize attachment path, auto-rename attachments, etc.
+自定义附件路径、自动重命名附件等。
 
 通过 Attachment Management,您可以:
 
@@ -199,10 +199,10 @@ Customize attachment path, auto-rename attachments, etc.
 - **插件 ID**：attachment-management
 - **作者**：trganda
 - **当前版本**：v1.0.0
-- **下载量**：45.5K
+- **下载量**：45.6K
 - **最后更新**：2025-08-24
 - **GitHub**：[trganda/obsidian-attachment-management](https://github.com/trganda/obsidian-attachment-management)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

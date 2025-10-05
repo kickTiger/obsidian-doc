@@ -1,12 +1,12 @@
 ---
 title: Local images
-description: Find all links to external images in your notes, download and save images locally, and adjust the image links in your notes to point to the saved image files.
+description: 查找外部图片链接并下载到本地。
 author: catalysm, aleksey-rezvov
-downloads: 38998
+downloads: 39009
 updated: 1634480867000
 repo: aleksey-rezvov/obsidian-local-images
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-local-images"
   name="Local images"
-  description="Find all links to external images in your notes, download and save images locally, and adjust the image links in your notes to point to the saved image files."
+  description="查找外部图片链接并下载到本地。"
   author="catalysm, aleksey-rezvov"
-  :downloads="38998"
+  :downloads="39009"
   :updated="1634480867000"
   repo="aleksey-rezvov/obsidian-local-images"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Local images 是一个功能强大的 Obsidian 插件。
 
-Find all links to external images in your notes, download and save images locally, and adjust the image links in your notes to point to the saved image files.
+查找外部图片链接并下载到本地。
 
 通过 Local images,您可以:
 
@@ -202,7 +202,7 @@ Find all links to external images in your notes, download and save images locall
 - **下载量**：39.0K
 - **最后更新**：2021-10-17
 - **GitHub**：[aleksey-rezvov/obsidian-local-images](https://github.com/aleksey-rezvov/obsidian-local-images)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Mini Vimrc
-description: Add Vim keybindings via .vimrc
+description: 通过 .vimrc 添加 Vim 键绑定
 author: Felipe M.
-downloads: 4549
+downloads: 4551
 updated: 1707790773000
 repo: cabra-arretado/mini-vimrc-obsidian
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mini-vimrc"
   name="Mini Vimrc"
-  description="Add Vim keybindings via .vimrc"
+  description="通过 .vimrc 添加 Vim 键绑定"
   author="Felipe M."
-  :downloads="4549"
+  :downloads="4551"
   :updated="1707790773000"
   repo="cabra-arretado/mini-vimrc-obsidian"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mini Vimrc 是一个功能强大的 Obsidian 插件。
 
-Add Vim keybindings via .vimrc
+通过 .vimrc 添加 Vim 键绑定
 
 通过 Mini Vimrc,您可以:
 
@@ -199,10 +199,10 @@ Add Vim keybindings via .vimrc
 - **插件 ID**：mini-vimrc
 - **作者**：Felipe M.
 - **当前版本**：v1.0.0
-- **下载量**：4.5K
+- **下载量**：4.6K
 - **最后更新**：2024-02-13
 - **GitHub**：[cabra-arretado/mini-vimrc-obsidian](https://github.com/cabra-arretado/mini-vimrc-obsidian)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

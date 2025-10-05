@@ -1,12 +1,12 @@
 ---
 title: Link with alias
-description: Create links and aliases in front matter of target document.
+description: 在目标文件前端创建链接和别名。
 author: Pavel Vojtechovsky
-downloads: 9445
+downloads: 9450
 updated: 1740500602000
 repo: pvojtechovsky/obsidian-link-with-alias
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="link-with-alias"
   name="Link with alias"
-  description="Create links and aliases in front matter of target document."
+  description="在目标文件前端创建链接和别名。"
   author="Pavel Vojtechovsky"
-  :downloads="9445"
+  :downloads="9450"
   :updated="1740500602000"
   repo="pvojtechovsky/obsidian-link-with-alias"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Link with alias 是一个功能强大的 Obsidian 插件。
 
-Create links and aliases in front matter of target document.
+在目标文件前端创建链接和别名。
 
 通过 Link with alias,您可以:
 
@@ -202,7 +202,7 @@ Create links and aliases in front matter of target document.
 - **下载量**：9.4K
 - **最后更新**：2025-02-26
 - **GitHub**：[pvojtechovsky/obsidian-link-with-alias](https://github.com/pvojtechovsky/obsidian-link-with-alias)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

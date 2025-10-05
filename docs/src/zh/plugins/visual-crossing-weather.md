@@ -1,12 +1,12 @@
 ---
 title: Visual Crossing Weather
-description: Visual Crossing Weather API for Your Notes
+description: 用于笔记的 Visual Crossing 天气 API
 author: willasm
-downloads: 4756
+downloads: 4772
 updated: 1741842492000
 repo: willasm/vc-weather
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="visual-crossing-weather"
   name="Visual Crossing Weather"
-  description="Visual Crossing Weather API for Your Notes"
+  description="用于笔记的 Visual Crossing 天气 API"
   author="willasm"
-  :downloads="4756"
+  :downloads="4772"
   :updated="1741842492000"
   repo="willasm/vc-weather"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Visual Crossing Weather 是一个功能强大的 Obsidian 插件。
 
-Visual Crossing Weather API for Your Notes
+用于笔记的 Visual Crossing 天气 API
 
 通过 Visual Crossing Weather,您可以:
 
@@ -202,7 +202,7 @@ Visual Crossing Weather API for Your Notes
 - **下载量**：4.8K
 - **最后更新**：2025-03-13
 - **GitHub**：[willasm/vc-weather](https://github.com/willasm/vc-weather)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

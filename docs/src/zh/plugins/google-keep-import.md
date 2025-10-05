@@ -1,12 +1,12 @@
 ---
 title: Google Keep Import
-description: Import Google Keep backup json files and their attachments. Can also be used to import other files.
+description: 导入 Google Keep 备份 json 文件及其附件。也可用于导入其他文件。
 author: Dale de Silva
-downloads: 8662
+downloads: 8666
 updated: 1713591613000
 repo: daledesilva/obsidian_google-keep-import
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="google-keep-import"
   name="Google Keep Import"
-  description="Import Google Keep backup json files and their attachments. Can also be used to import other files."
+  description="导入 Google Keep 备份 json 文件及其附件。也可用于导入其他文件。"
   author="Dale de Silva"
-  :downloads="8662"
+  :downloads="8666"
   :updated="1713591613000"
   repo="daledesilva/obsidian_google-keep-import"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Google Keep Import 是一个功能强大的 Obsidian 插件。
 
-Import Google Keep backup json files and their attachments. Can also be used to import other files.
+导入 Google Keep 备份 json 文件及其附件。也可用于导入其他文件。
 
 通过 Google Keep Import,您可以:
 
@@ -202,7 +202,7 @@ Import Google Keep backup json files and their attachments. Can also be used to 
 - **下载量**：8.7K
 - **最后更新**：2024-04-20
 - **GitHub**：[daledesilva/obsidian_google-keep-import](https://github.com/daledesilva/obsidian_google-keep-import)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 1310
 updated: 1716720903000
 repo: shiwer/ear-training-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1716720903000"
   repo="shiwer/ear-training-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Get ear training exercises inside your vault.
 - **下载量**：1.3K
 - **最后更新**：2024-05-26
 - **GitHub**：[shiwer/ear-training-obsidian-plugin](https://github.com/shiwer/ear-training-obsidian-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

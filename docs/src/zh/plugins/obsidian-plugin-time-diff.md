@@ -1,12 +1,12 @@
 ---
 title: TimeDiff
-description: 'Calculate and displays diff in hours and minutes between two dates in `timediff` Markdown block.'
+description: '在 `timediff` Markdown 块中计算并显示两个日期之间的小时和分钟差值。'
 author: Grzegorz Dominiczak
-downloads: 5379
+downloads: 5380
 updated: 1708164131000
 repo: dominiczaq/obsidian-plugin-time-diff
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-plugin-time-diff"
   name="TimeDiff"
-  description="Calculate and displays diff in hours and minutes between two dates in `timediff` Markdown block."
+  description="在 `timediff` Markdown 块中计算并显示两个日期之间的小时和分钟差值。"
   author="Grzegorz Dominiczak"
-  :downloads="5379"
+  :downloads="5380"
   :updated="1708164131000"
   repo="dominiczaq/obsidian-plugin-time-diff"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 TimeDiff 是一个功能强大的 Obsidian 插件。
 
-Calculate and displays diff in hours and minutes between two dates in `timediff` Markdown block.
+在 `timediff` Markdown 块中计算并显示两个日期之间的小时和分钟差值。
 
 通过 TimeDiff,您可以:
 
@@ -202,7 +202,7 @@ Calculate and displays diff in hours and minutes between two dates in `timediff`
 - **下载量**：5.4K
 - **最后更新**：2024-02-17
 - **GitHub**：[dominiczaq/obsidian-plugin-time-diff](https://github.com/dominiczaq/obsidian-plugin-time-diff)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

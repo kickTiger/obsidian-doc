@@ -1,12 +1,12 @@
 ---
 title: Quip
-description: Commands to publish notes to Quip.com.
+description: 向 Quip.com 发布笔记的命令。
 author: sblakey
 downloads: 6571
 updated: 1713818778000
 repo: sblakey/obsidian-quip
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quip"
   name="Quip"
-  description="Commands to publish notes to Quip.com."
+  description="向 Quip.com 发布笔记的命令。"
   author="sblakey"
   :downloads="6571"
   :updated="1713818778000"
   repo="sblakey/obsidian-quip"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quip 是一个功能强大的 Obsidian 插件。
 
-Commands to publish notes to Quip.com.
+向 Quip.com 发布笔记的命令。
 
 通过 Quip,您可以:
 
@@ -202,7 +202,7 @@ Commands to publish notes to Quip.com.
 - **下载量**：6.6K
 - **最后更新**：2024-04-23
 - **GitHub**：[sblakey/obsidian-quip](https://github.com/sblakey/obsidian-quip)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

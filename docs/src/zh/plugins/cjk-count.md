@@ -2,11 +2,11 @@
 title: CJK Count
 description: A word counter that only counts Chinese, Japanese and Korean (CJK) characters.
 author: vrabe
-downloads: 179
+downloads: 180
 updated: 1757448164000
 repo: vrabe/obsidian-cjk-count
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="CJK Count"
   description="A word counter that only counts Chinese, Japanese and Korean (CJK) characters."
   author="vrabe"
-  :downloads="179"
+  :downloads="180"
   :updated="1757448164000"
   repo="vrabe/obsidian-cjk-count"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ A word counter that only counts Chinese, Japanese and Korean (CJK) characters.
 - **插件 ID**：cjk-count
 - **作者**：vrabe
 - **当前版本**：v1.0.0
-- **下载量**：179
+- **下载量**：180
 - **最后更新**：2025-09-10
 - **GitHub**：[vrabe/obsidian-cjk-count](https://github.com/vrabe/obsidian-cjk-count)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Mood Tracker
-description: 'Track your moods & emotions easily. Visualize tracked history and browse the past entries.'
+description: 轻松跟踪您的心情和情绪。可视化跟踪历史并浏览过去的条目。
 author: dartungar
-downloads: 19277
+downloads: 19290
 updated: 1754214716000
 repo: dartungar/obsidian-mood-tracker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mood-tracker"
   name="Mood Tracker"
-  description="Track your moods &amp; emotions easily. Visualize tracked history and browse the past entries."
+  description="轻松跟踪您的心情和情绪。可视化跟踪历史并浏览过去的条目。"
   author="dartungar"
-  :downloads="19277"
+  :downloads="19290"
   :updated="1754214716000"
   repo="dartungar/obsidian-mood-tracker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mood Tracker 是一个功能强大的 Obsidian 插件。
 
-Track your moods &amp; emotions easily. Visualize tracked history and browse the past entries.
+轻松跟踪您的心情和情绪。可视化跟踪历史并浏览过去的条目。
 
 通过 Mood Tracker,您可以:
 
@@ -202,7 +202,7 @@ Track your moods &amp; emotions easily. Visualize tracked history and browse the
 - **下载量**：19.3K
 - **最后更新**：2025-08-03
 - **GitHub**：[dartungar/obsidian-mood-tracker](https://github.com/dartungar/obsidian-mood-tracker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

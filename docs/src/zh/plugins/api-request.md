@@ -1,12 +1,12 @@
 ---
 title: APIRequest
-description: Request and retrieve data from APIs. The responses are delivered in a JSON format for easy integration with your notes.
+description: 从应用程序接口请求和检索数据。响应以 JSON 格式提供，便于与您的注释集成。
 author: rooyca
-downloads: 13164
+downloads: 13180
 updated: 1758493149000
 repo: Rooyca/obsidian-api-request
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="api-request"
   name="APIRequest"
-  description="Request and retrieve data from APIs. The responses are delivered in a JSON format for easy integration with your notes."
+  description="从应用程序接口请求和检索数据。响应以 JSON 格式提供，便于与您的注释集成。"
   author="rooyca"
-  :downloads="13164"
+  :downloads="13180"
   :updated="1758493149000"
   repo="Rooyca/obsidian-api-request"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 APIRequest 是一个功能强大的 Obsidian 插件。
 
-Request and retrieve data from APIs. The responses are delivered in a JSON format for easy integration with your notes.
+从应用程序接口请求和检索数据。响应以 JSON 格式提供，便于与您的注释集成。
 
 通过 APIRequest,您可以:
 
@@ -202,7 +202,7 @@ Request and retrieve data from APIs. The responses are delivered in a JSON forma
 - **下载量**：13.2K
 - **最后更新**：2025-09-22
 - **GitHub**：[Rooyca/obsidian-api-request](https://github.com/Rooyca/obsidian-api-request)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

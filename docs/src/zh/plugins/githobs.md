@@ -2,11 +2,11 @@
 title: GitHobs
 description: Use Obsidian as Github issue editor with logic taken from Git
 author: GabAlpha and MarcoG
-downloads: 2897
+downloads: 2903
 updated: 1755171723000
 repo: GabAlpha/obsidian-githobs
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="GitHobs"
   description="Use Obsidian as Github issue editor with logic taken from Git"
   author="GabAlpha and MarcoG"
-  :downloads="2897"
+  :downloads="2903"
   :updated="1755171723000"
   repo="GabAlpha/obsidian-githobs"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Use Obsidian as Github issue editor with logic taken from Git
 - **下载量**：2.9K
 - **最后更新**：2025-08-14
 - **GitHub**：[GabAlpha/obsidian-githobs](https://github.com/GabAlpha/obsidian-githobs)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

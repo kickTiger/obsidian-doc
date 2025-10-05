@@ -1,12 +1,12 @@
 ---
 title: AI Assistant
-description: AI Assistant.
+description: 人工智能助理
 author: Quentin Grail
-downloads: 26519
+downloads: 26534
 updated: 1748518396000
 repo: qgrail/obsidian-ai-assistant
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ai-assistant"
   name="AI Assistant"
-  description="AI Assistant."
+  description="人工智能助理"
   author="Quentin Grail"
-  :downloads="26519"
+  :downloads="26534"
   :updated="1748518396000"
   repo="qgrail/obsidian-ai-assistant"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AI Assistant 是一个功能强大的 Obsidian 插件。
 
-AI Assistant.
+人工智能助理
 
 通过 AI Assistant,您可以:
 
@@ -202,7 +202,7 @@ AI Assistant.
 - **下载量**：26.5K
 - **最后更新**：2025-05-29
 - **GitHub**：[qgrail/obsidian-ai-assistant](https://github.com/qgrail/obsidian-ai-assistant)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

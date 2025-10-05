@@ -1,12 +1,12 @@
 ---
 title: Spotify Link
-description: 'Include the song you''re currently listening to in your note.'
+description: 在便条中注明您正在收听的歌曲。
 author: Studio Webux
-downloads: 5828
+downloads: 5832
 updated: 1752188258000
 repo: studiowebux/obsidian-spotify-link
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="spotify-link"
   name="Spotify Link"
-  description="Include the song you&#39;re currently listening to in your note."
+  description="在便条中注明您正在收听的歌曲。"
   author="Studio Webux"
-  :downloads="5828"
+  :downloads="5832"
   :updated="1752188258000"
   repo="studiowebux/obsidian-spotify-link"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Spotify Link 是一个功能强大的 Obsidian 插件。
 
-Include the song you&#39;re currently listening to in your note.
+在便条中注明您正在收听的歌曲。
 
 通过 Spotify Link,您可以:
 
@@ -202,7 +202,7 @@ Include the song you&#39;re currently listening to in your note.
 - **下载量**：5.8K
 - **最后更新**：2025-07-11
 - **GitHub**：[studiowebux/obsidian-spotify-link](https://github.com/studiowebux/obsidian-spotify-link)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

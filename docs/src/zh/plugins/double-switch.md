@@ -2,11 +2,11 @@
 title: Auto switch themes between dark/light mode
 description: Toggling dark/light mode switches themes automatically
 author: Robert Storlind
-downloads: 1432
+downloads: 1439
 updated: 1742666858000
 repo: carlrobert/double-switch
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto switch themes between dark/light mode"
   description="Toggling dark/light mode switches themes automatically"
   author="Robert Storlind"
-  :downloads="1432"
+  :downloads="1439"
   :updated="1742666858000"
   repo="carlrobert/double-switch"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Toggling dark/light mode switches themes automatically
 - **下载量**：1.4K
 - **最后更新**：2025-03-23
 - **GitHub**：[carlrobert/double-switch](https://github.com/carlrobert/double-switch)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Obligator
-description: 'A fully featured replacement for the built-in daily notes plugin. Obligator functions like a virtual bullet journal by copying over unchecked to-do items to your new daily note, along with adding any scheduled items you''ve set up.'
+description: 功能齐全，可替代内置的每日笔记插件。Obligator 的功能类似于虚拟子弹头日记，它能将未选中的待办事项复制到新的每日笔记中，还能添加您设置的任何计划项目。
 author: Dimitar Dimitrov
-downloads: 10735
+downloads: 10745
 updated: 1705427159000
 repo: Newbrict/obsidian-obligator
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obligator"
   name="Obligator"
-  description="A fully featured replacement for the built-in daily notes plugin. Obligator functions like a virtual bullet journal by copying over unchecked to-do items to your new daily note, along with adding any scheduled items you&#39;ve set up."
+  description="功能齐全，可替代内置的每日笔记插件。Obligator 的功能类似于虚拟子弹头日记，它能将未选中的待办事项复制到新的每日笔记中，还能添加您设置的任何计划项目。"
   author="Dimitar Dimitrov"
-  :downloads="10735"
+  :downloads="10745"
   :updated="1705427159000"
   repo="Newbrict/obsidian-obligator"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Obligator 是一个功能强大的 Obsidian 插件。
 
-A fully featured replacement for the built-in daily notes plugin. Obligator functions like a virtual bullet journal by copying over unchecked to-do items to your new daily note, along with adding any scheduled items you&#39;ve set up.
+功能齐全，可替代内置的每日笔记插件。Obligator 的功能类似于虚拟子弹头日记，它能将未选中的待办事项复制到新的每日笔记中，还能添加您设置的任何计划项目。
 
 通过 Obligator,您可以:
 
@@ -202,7 +202,7 @@ A fully featured replacement for the built-in daily notes plugin. Obligator func
 - **下载量**：10.7K
 - **最后更新**：2024-01-17
 - **GitHub**：[Newbrict/obsidian-obligator](https://github.com/Newbrict/obsidian-obligator)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

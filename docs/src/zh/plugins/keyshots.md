@@ -1,12 +1,12 @@
 ---
 title: Keyshots
-description: Add classic hotkey/shortcuts commands from popular IDEs like Visual Studio Code or JetBrains Family.
+description: 添加来自 Visual Studio Code 或 JetBrains Family 等流行集成开发环境的经典热键/快捷键命令。
 author: KrazyManJ
-downloads: 12537
+downloads: 12556
 updated: 1758785788000
 repo: KrazyManJ/obsidian-keyshots
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="keyshots"
   name="Keyshots"
-  description="Add classic hotkey/shortcuts commands from popular IDEs like Visual Studio Code or JetBrains Family."
+  description="添加来自 Visual Studio Code 或 JetBrains Family 等流行集成开发环境的经典热键/快捷键命令。"
   author="KrazyManJ"
-  :downloads="12537"
+  :downloads="12556"
   :updated="1758785788000"
   repo="KrazyManJ/obsidian-keyshots"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Keyshots 是一个功能强大的 Obsidian 插件。
 
-Add classic hotkey/shortcuts commands from popular IDEs like Visual Studio Code or JetBrains Family.
+添加来自 Visual Studio Code 或 JetBrains Family 等流行集成开发环境的经典热键/快捷键命令。
 
 通过 Keyshots,您可以:
 
@@ -199,10 +199,10 @@ Add classic hotkey/shortcuts commands from popular IDEs like Visual Studio Code 
 - **插件 ID**：keyshots
 - **作者**：KrazyManJ
 - **当前版本**：v1.0.0
-- **下载量**：12.5K
+- **下载量**：12.6K
 - **最后更新**：2025-09-25
 - **GitHub**：[KrazyManJ/obsidian-keyshots](https://github.com/KrazyManJ/obsidian-keyshots)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Chem
-description: Providing chemistry supports. Rendering SMILES strings into chemistry structures.
+description: 提供化学支持。将 SMILES 字符串渲染为化学结构。
 author: Acylation
-downloads: 14952
+downloads: 14961
 updated: 1755209097000
 repo: Acylation/obsidian-chem
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chem"
   name="Chem"
-  description="Providing chemistry supports. Rendering SMILES strings into chemistry structures."
+  description="提供化学支持。将 SMILES 字符串渲染为化学结构。"
   author="Acylation"
-  :downloads="14952"
+  :downloads="14961"
   :updated="1755209097000"
   repo="Acylation/obsidian-chem"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chem 是一个功能强大的 Obsidian 插件。
 
-Providing chemistry supports. Rendering SMILES strings into chemistry structures.
+提供化学支持。将 SMILES 字符串渲染为化学结构。
 
 通过 Chem,您可以:
 
@@ -202,7 +202,7 @@ Providing chemistry supports. Rendering SMILES strings into chemistry structures
 - **下载量**：15.0K
 - **最后更新**：2025-08-15
 - **GitHub**：[Acylation/obsidian-chem](https://github.com/Acylation/obsidian-chem)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

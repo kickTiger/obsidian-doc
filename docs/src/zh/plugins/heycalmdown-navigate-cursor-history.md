@@ -1,12 +1,12 @@
 ---
 title: Navigate Cursor History
-description: Remember the recent cursor position history and jump back and forth like VS Code.
+description: 记住最近的光标位置历史，并像 VS 代码一样来回跳转。
 author: heycalmdown
-downloads: 6724
+downloads: 6729
 updated: 1649801775000
 repo: heycalmdown/navigate-cursor-history
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="heycalmdown-navigate-cursor-history"
   name="Navigate Cursor History"
-  description="Remember the recent cursor position history and jump back and forth like VS Code."
+  description="记住最近的光标位置历史，并像 VS 代码一样来回跳转。"
   author="heycalmdown"
-  :downloads="6724"
+  :downloads="6729"
   :updated="1649801775000"
   repo="heycalmdown/navigate-cursor-history"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Navigate Cursor History 是一个功能强大的 Obsidian 插件。
 
-Remember the recent cursor position history and jump back and forth like VS Code.
+记住最近的光标位置历史，并像 VS 代码一样来回跳转。
 
 通过 Navigate Cursor History,您可以:
 
@@ -202,7 +202,7 @@ Remember the recent cursor position history and jump back and forth like VS Code
 - **下载量**：6.7K
 - **最后更新**：2022-04-13
 - **GitHub**：[heycalmdown/navigate-cursor-history](https://github.com/heycalmdown/navigate-cursor-history)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

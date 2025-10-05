@@ -2,11 +2,11 @@
 title: Last Position
 description: Automatically scroll to the last viewed position when opening the markdown document.
 author: saktawdi
-downloads: 864
+downloads: 865
 updated: 1745679021000
 repo: Saktawdi/obsidian-last-position
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Last Position"
   description="Automatically scroll to the last viewed position when opening the markdown document."
   author="saktawdi"
-  :downloads="864"
+  :downloads="865"
   :updated="1745679021000"
   repo="Saktawdi/obsidian-last-position"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically scroll to the last viewed position when opening the markdown docum
 - **插件 ID**：last-position
 - **作者**：saktawdi
 - **当前版本**：v1.0.0
-- **下载量**：864
+- **下载量**：865
 - **最后更新**：2025-04-26
 - **GitHub**：[Saktawdi/obsidian-last-position](https://github.com/Saktawdi/obsidian-last-position)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

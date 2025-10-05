@@ -1,12 +1,12 @@
 ---
 title: Github Copilot
-description: Implement suggestions from Github Copilot directly in your editor.
+description: 直接在编辑器中执行来自 Github Copilot 的建议。
 author: Vasseur Pierre-Adrien
-downloads: 23169
+downloads: 23206
 updated: 1756476177000
 repo: Pierrad/obsidian-github-copilot
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="github-copilot"
   name="Github Copilot"
-  description="Implement suggestions from Github Copilot directly in your editor."
+  description="直接在编辑器中执行来自 Github Copilot 的建议。"
   author="Vasseur Pierre-Adrien"
-  :downloads="23169"
+  :downloads="23206"
   :updated="1756476177000"
   repo="Pierrad/obsidian-github-copilot"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Github Copilot 是一个功能强大的 Obsidian 插件。
 
-Implement suggestions from Github Copilot directly in your editor.
+直接在编辑器中执行来自 Github Copilot 的建议。
 
 通过 Github Copilot,您可以:
 
@@ -202,7 +202,7 @@ Implement suggestions from Github Copilot directly in your editor.
 - **下载量**：23.2K
 - **最后更新**：2025-08-29
 - **GitHub**：[Pierrad/obsidian-github-copilot](https://github.com/Pierrad/obsidian-github-copilot)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

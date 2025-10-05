@@ -2,11 +2,11 @@
 title: Image Size
 description: Set the default size for pasted images.
 author: Jie Zhang
-downloads: 1300
+downloads: 1304
 updated: 1740494091000
 repo: cynicalight/obsidian-image-size
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Image Size"
   description="Set the default size for pasted images."
   author="Jie Zhang"
-  :downloads="1300"
+  :downloads="1304"
   :updated="1740494091000"
   repo="cynicalight/obsidian-image-size"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Set the default size for pasted images.
 - **下载量**：1.3K
 - **最后更新**：2025-02-25
 - **GitHub**：[cynicalight/obsidian-image-size](https://github.com/cynicalight/obsidian-image-size)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

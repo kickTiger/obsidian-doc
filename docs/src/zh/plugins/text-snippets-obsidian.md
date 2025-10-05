@@ -1,12 +1,12 @@
 ---
 title: Text Snippets
-description: Snippets for faster typing. Replace text templates, create your own, and expand text shortcuts.
+description: 加快打字速度的片段。替换文本模板、创建自己的模板并扩展文本快捷方式。
 author: Ariana Khitrova
-downloads: 41058
+downloads: 41081
 updated: 1652364040000
 repo: ArianaKhit/text-snippets-obsidian
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="text-snippets-obsidian"
   name="Text Snippets"
-  description="Snippets for faster typing. Replace text templates, create your own, and expand text shortcuts."
+  description="加快打字速度的片段。替换文本模板、创建自己的模板并扩展文本快捷方式。"
   author="Ariana Khitrova"
-  :downloads="41058"
+  :downloads="41081"
   :updated="1652364040000"
   repo="ArianaKhit/text-snippets-obsidian"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text Snippets 是一个功能强大的 Obsidian 插件。
 
-Snippets for faster typing. Replace text templates, create your own, and expand text shortcuts.
+加快打字速度的片段。替换文本模板、创建自己的模板并扩展文本快捷方式。
 
 通过 Text Snippets,您可以:
 
@@ -202,7 +202,7 @@ Snippets for faster typing. Replace text templates, create your own, and expand 
 - **下载量**：41.1K
 - **最后更新**：2022-05-12
 - **GitHub**：[ArianaKhit/text-snippets-obsidian](https://github.com/ArianaKhit/text-snippets-obsidian)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

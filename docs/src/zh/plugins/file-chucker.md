@@ -1,12 +1,12 @@
 ---
 title: File Chucker
-description: Quickly move a file to a new or existing folder, then open the next file.
+description: 快速移动文件到新文件夹或现有文件夹，然后打开下一个文件。
 author: Ken Lim
-downloads: 4572
+downloads: 4573
 updated: 1672698343000
 repo: kenlim/file-chucker-plugin
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-chucker"
   name="File Chucker"
-  description="Quickly move a file to a new or existing folder, then open the next file."
+  description="快速移动文件到新文件夹或现有文件夹，然后打开下一个文件。"
   author="Ken Lim"
-  :downloads="4572"
+  :downloads="4573"
   :updated="1672698343000"
   repo="kenlim/file-chucker-plugin"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Chucker 是一个功能强大的 Obsidian 插件。
 
-Quickly move a file to a new or existing folder, then open the next file.
+快速移动文件到新文件夹或现有文件夹，然后打开下一个文件。
 
 通过 File Chucker,您可以:
 
@@ -202,7 +202,7 @@ Quickly move a file to a new or existing folder, then open the next file.
 - **下载量**：4.6K
 - **最后更新**：2023-01-03
 - **GitHub**：[kenlim/file-chucker-plugin](https://github.com/kenlim/file-chucker-plugin)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

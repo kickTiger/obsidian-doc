@@ -1,12 +1,12 @@
 ---
 title: Dynamic Outline
-description: Adds a customizable GitHub-like floating table of contents.
+description: 添加可定制的类似 GitHub 的浮动目录。
 author: theopavlove
-downloads: 21012
+downloads: 21057
 updated: 1746291560000
 repo: theopavlove/obsidian-dynamic-outline
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="dynamic-outline"
   name="Dynamic Outline"
-  description="Adds a customizable GitHub-like floating table of contents."
+  description="添加可定制的类似 GitHub 的浮动目录。"
   author="theopavlove"
-  :downloads="21012"
+  :downloads="21057"
   :updated="1746291560000"
   repo="theopavlove/obsidian-dynamic-outline"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dynamic Outline 是一个功能强大的 Obsidian 插件。
 
-Adds a customizable GitHub-like floating table of contents.
+添加可定制的类似 GitHub 的浮动目录。
 
 通过 Dynamic Outline,您可以:
 
@@ -199,10 +199,10 @@ Adds a customizable GitHub-like floating table of contents.
 - **插件 ID**：dynamic-outline
 - **作者**：theopavlove
 - **当前版本**：v1.0.0
-- **下载量**：21.0K
+- **下载量**：21.1K
 - **最后更新**：2025-05-04
 - **GitHub**：[theopavlove/obsidian-dynamic-outline](https://github.com/theopavlove/obsidian-dynamic-outline)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

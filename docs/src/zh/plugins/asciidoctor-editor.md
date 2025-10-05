@@ -2,11 +2,11 @@
 title: Asciidoctor editor
 description: View and modify asciidoc pages
 author: dzruyk
-downloads: 1592
+downloads: 1593
 updated: 1750109764000
 repo: dzruyk/obsidian-asciidoc
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Asciidoctor editor"
   description="View and modify asciidoc pages"
   author="dzruyk"
-  :downloads="1592"
+  :downloads="1593"
   :updated="1750109764000"
   repo="dzruyk/obsidian-asciidoc"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ View and modify asciidoc pages
 - **下载量**：1.6K
 - **最后更新**：2025-06-17
 - **GitHub**：[dzruyk/obsidian-asciidoc](https://github.com/dzruyk/obsidian-asciidoc)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

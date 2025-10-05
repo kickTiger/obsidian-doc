@@ -1,12 +1,12 @@
 ---
 title: Lite Gallery
-description: Easily create carousel galleries to better organize/view images in your notes.
+description: 轻松创建旋转木马图库，更好地组织/查看笔记中的图片。
 author: Jordan Poles
-downloads: 3603
+downloads: 3613
 updated: 1728264517000
 repo: jpoles1/obsidian-litegal
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="litegallery"
   name="Lite Gallery"
-  description="Easily create carousel galleries to better organize/view images in your notes."
+  description="轻松创建旋转木马图库，更好地组织/查看笔记中的图片。"
   author="Jordan Poles"
-  :downloads="3603"
+  :downloads="3613"
   :updated="1728264517000"
   repo="jpoles1/obsidian-litegal"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Lite Gallery 是一个功能强大的 Obsidian 插件。
 
-Easily create carousel galleries to better organize/view images in your notes.
+轻松创建旋转木马图库，更好地组织/查看笔记中的图片。
 
 通过 Lite Gallery,您可以:
 
@@ -202,7 +202,7 @@ Easily create carousel galleries to better organize/view images in your notes.
 - **下载量**：3.6K
 - **最后更新**：2024-10-07
 - **GitHub**：[jpoles1/obsidian-litegal](https://github.com/jpoles1/obsidian-litegal)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Lumberjack
-description: 'Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and get right to writing.'
+description: 记录你的想法Lumberjack 添加了 URL 命令，帮助你摒弃低效，直接开始写作。
 author: ryanjamurphy
 downloads: 8823
 updated: 1667851295000
 repo: ryanjamurphy/lumberjack-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="lumberjack-obsidian"
   name="Lumberjack"
-  description="Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and get right to writing."
+  description="记录你的想法Lumberjack 添加了 URL 命令，帮助你摒弃低效，直接开始写作。"
   author="ryanjamurphy"
   :downloads="8823"
   :updated="1667851295000"
   repo="ryanjamurphy/lumberjack-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Lumberjack 是一个功能强大的 Obsidian 插件。
 
-Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and get right to writing.
+记录你的想法Lumberjack 添加了 URL 命令，帮助你摒弃低效，直接开始写作。
 
 通过 Lumberjack,您可以:
 
@@ -202,7 +202,7 @@ Log your thoughts! Lumberjack adds URL commands to help you axe inefficiency and
 - **下载量**：8.8K
 - **最后更新**：2022-11-08
 - **GitHub**：[ryanjamurphy/lumberjack-obsidian](https://github.com/ryanjamurphy/lumberjack-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

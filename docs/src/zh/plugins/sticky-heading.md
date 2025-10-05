@@ -1,12 +1,12 @@
 ---
 title: Sticky Headings
-description: Sticky headings and shows the heading level
+description: 粘贴标题并显示标题级别
 author: Shen Shen
-downloads: 4091
+downloads: 4096
 updated: 1750237074000
 repo: imshenshen/obsidian-sticky-heading
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="sticky-heading"
   name="Sticky Headings"
-  description="Sticky headings and shows the heading level"
+  description="粘贴标题并显示标题级别"
   author="Shen Shen"
-  :downloads="4091"
+  :downloads="4096"
   :updated="1750237074000"
   repo="imshenshen/obsidian-sticky-heading"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sticky Headings 是一个功能强大的 Obsidian 插件。
 
-Sticky headings and shows the heading level
+粘贴标题并显示标题级别
 
 通过 Sticky Headings,您可以:
 
@@ -202,7 +202,7 @@ Sticky headings and shows the heading level
 - **下载量**：4.1K
 - **最后更新**：2025-06-18
 - **GitHub**：[imshenshen/obsidian-sticky-heading](https://github.com/imshenshen/obsidian-sticky-heading)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

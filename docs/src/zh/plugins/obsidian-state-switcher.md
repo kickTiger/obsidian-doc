@@ -1,12 +1,12 @@
 ---
 title: Yaml Manager
-description: Keep you away from directly operating YAML frontmatter.
+description: 让你远离直接操作 YAML 前端内容。
 author: Lijyze
-downloads: 10841
+downloads: 10845
 updated: 1656554529000
 repo: lijyze/obsidian-state-switcher
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-state-switcher"
   name="Yaml Manager"
-  description="Keep you away from directly operating YAML frontmatter."
+  description="让你远离直接操作 YAML 前端内容。"
   author="Lijyze"
-  :downloads="10841"
+  :downloads="10845"
   :updated="1656554529000"
   repo="lijyze/obsidian-state-switcher"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Yaml Manager 是一个功能强大的 Obsidian 插件。
 
-Keep you away from directly operating YAML frontmatter.
+让你远离直接操作 YAML 前端内容。
 
 通过 Yaml Manager,您可以:
 
@@ -202,7 +202,7 @@ Keep you away from directly operating YAML frontmatter.
 - **下载量**：10.8K
 - **最后更新**：2022-06-30
 - **GitHub**：[lijyze/obsidian-state-switcher](https://github.com/lijyze/obsidian-state-switcher)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

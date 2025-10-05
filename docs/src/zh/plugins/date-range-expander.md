@@ -6,7 +6,7 @@ downloads: 107
 updated: 1744149410000
 repo: mildeveloper/obsidian-date-range-expander
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1744149410000"
   repo="mildeveloper/obsidian-date-range-expander"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Quickly add a range of day references given a date duration.
 - **下载量**：107
 - **最后更新**：2025-04-09
 - **GitHub**：[mildeveloper/obsidian-date-range-expander](https://github.com/mildeveloper/obsidian-date-range-expander)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

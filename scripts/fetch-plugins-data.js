@@ -10,6 +10,7 @@ const path = require('path');
 // API 端点
 const PLUGINS_API = 'https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugins.json';
 const STATS_API = 'https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json';
+const GITHUB_API = 'https://api.github.com';
 
 // 输出路径
 const OUTPUT_DIR = path.join(__dirname, '../docs/src/.vuepress/public/data');
@@ -84,17 +85,117 @@ async function fetchWithRetry(url) {
 }
 
 /**
+ * 获取GitHub仓库的创建时间
+ * @param {string} repo - 仓库路径 (例如: "owner/repo")
+ * @returns {Promise<number>} 创建时间的时间戳，失败返回0
+ */
+async function getRepoCreatedTime(repo) {
+  return new Promise((resolve) => {
+    const url = `${GITHUB_API}/repos/${repo}`;
+    const options = {
+      headers: {
+        'User-Agent': 'Obsidian-Plugin-Stats',
+        // 如果在GitHub Actions中运行，会自动使用GITHUB_TOKEN
+        ...(process.env.GITHUB_TOKEN && {
+          'Authorization': `token ${process.env.GITHUB_TOKEN}`
+        })
+      }
+    };
+
+    https.get(url, options, (res) => {
+      let data = '';
+
+      res.on('data', (chunk) => {
+        data += chunk;
+      });
+
+      res.on('end', () => {
+        try {
+          if (res.statusCode === 200) {
+            const repoData = JSON.parse(data);
+            const createdAt = new Date(repoData.created_at).getTime();
+            resolve(createdAt);
+          } else {
+            console.warn(`⚠ 无法获取仓库 ${repo} 的创建时间: HTTP ${res.statusCode}`);
+            resolve(0);
+          }
+        } catch (error) {
+          console.warn(`⚠ 解析仓库 ${repo} 数据失败:`, error.message);
+          resolve(0);
+        }
+      });
+    }).on('error', (error) => {
+      console.warn(`⚠ 请求仓库 ${repo} 失败:`, error.message);
+      resolve(0);
+    });
+  });
+}
+
+/**
+ * 批量获取仓库创建时间（仅获取最近更新的插件）
+ * @param {Array} plugins - 插件数据数组
+ * @param {Object} statsData - 统计数据对象
+ * @returns {Promise<Map>} 仓库ID到创建时间的映射
+ */
+async function batchGetRepoCreatedTimes(plugins, statsData) {
+  console.log('正在获取插件仓库创建时间...');
+
+  // 只获取一周内更新的插件的创建时间
+  const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000;
+  const recentlyUpdatedPlugins = plugins.filter(plugin => {
+    const stats = statsData[plugin.id] || {};
+    return stats.updated && stats.updated > oneWeekAgo;
+  });
+
+  console.log(`  总插件数: ${plugins.length}`);
+  console.log(`  一周内更新的插件: ${recentlyUpdatedPlugins.length}`);
+  console.log(`  需要查询创建时间的插件: ${recentlyUpdatedPlugins.length}`);
+
+  const createdTimes = new Map();
+  const total = recentlyUpdatedPlugins.length;
+  let processed = 0;
+
+  // 每次处理10个，避免速率限制
+  const batchSize = 10;
+  const delayMs = 1000; // 每批次间隔1秒
+
+  for (let i = 0; i < recentlyUpdatedPlugins.length; i += batchSize) {
+    const batch = recentlyUpdatedPlugins.slice(i, Math.min(i + batchSize, recentlyUpdatedPlugins.length));
+    const promises = batch.map(async (plugin) => {
+      const createdTime = await getRepoCreatedTime(plugin.repo);
+      createdTimes.set(plugin.id, createdTime);
+      processed++;
+      if (processed % 10 === 0 || processed === total) {
+        console.log(`  进度: ${processed}/${total} (${(processed/total*100).toFixed(1)}%)`);
+      }
+    });
+
+    await Promise.all(promises);
+
+    // 如果不是最后一批，等待一段时间
+    if (i + batchSize < recentlyUpdatedPlugins.length) {
+      await delay(delayMs);
+    }
+  }
+
+  console.log(`✓ 成功获取 ${createdTimes.size} 个插件的创建时间`);
+  return createdTimes;
+}
+
+/**
  * 整合插件数据
  * @param {Array} pluginsData - 插件基础信息数组
  * @param {Object} statsData - 插件统计数据对象
+ * @param {Map} createdTimes - 仓库创建时间映射
  * @returns {Array} 整合后的插件数据数组
  */
-function mergePluginData(pluginsData, statsData) {
+function mergePluginData(pluginsData, statsData, createdTimes) {
   console.log('正在整合插件数据...');
-  
+
   const mergedData = pluginsData.map(plugin => {
     const stats = statsData[plugin.id] || {};
-    
+    const created = createdTimes.get(plugin.id) || 0;
+
     return {
       id: plugin.id,
       name: plugin.name,
@@ -103,6 +204,7 @@ function mergePluginData(pluginsData, statsData) {
       repo: plugin.repo,
       downloads: stats.downloads || 0,
       updated: stats.updated || 0,
+      created: created, // 添加创建时间
       // 这些字段将在计算衍生数据时填充
       weeklyDownloads: 0,
       monthlyDownloads: 0,
@@ -110,7 +212,7 @@ function mergePluginData(pluginsData, statsData) {
       monthlyGrowth: 0
     };
   });
-  
+
   console.log(`✓ 成功整合 ${mergedData.length} 个插件数据`);
   return mergedData;
 }
@@ -271,34 +373,39 @@ async function main() {
       fetchWithRetry(STATS_API)
     ]);
     console.log('');
-    
-    // 2. 整合数据
-    console.log('步骤 2: 整合数据');
-    const mergedPlugins = mergePluginData(pluginsData, statsData);
+
+    // 2. 获取仓库创建时间（仅一周内更新的插件）
+    console.log('步骤 2: 获取仓库创建时间（仅一周内更新的插件）');
+    const createdTimes = await batchGetRepoCreatedTimes(pluginsData, statsData);
+    console.log('');
+
+    // 3. 整合数据
+    console.log('步骤 3: 整合数据');
+    const mergedPlugins = mergePluginData(pluginsData, statsData, createdTimes);
     console.log('');
     
-    // 3. 计算衍生数据
-    console.log('步骤 3: 计算衍生数据');
+    // 4. 计算衍生数据
+    console.log('步骤 4: 计算衍生数据');
     const enhancedPlugins = calculateDerivedData(mergedPlugins);
     console.log('');
-    
-    // 4. 生成排行榜
-    console.log('步骤 4: 生成排行榜');
+
+    // 5. 生成排行榜
+    console.log('步骤 5: 生成排行榜');
     const rankings = generateRankings(enhancedPlugins);
     console.log('');
-    
-    // 5. 生成统计数据
-    console.log('步骤 5: 生成统计数据');
+
+    // 6. 生成统计数据
+    console.log('步骤 6: 生成统计数据');
     const stats = generateStats(enhancedPlugins, rankings);
     console.log('');
     
-    // 6. 保存数据
-    console.log('步骤 6: 保存数据');
+    // 7. 保存数据
+    console.log('步骤 7: 保存数据');
     saveData(enhancedPlugins, stats);
     console.log('');
 
-    // 7. 生成分片统计数据
-    console.log('步骤 7: 生成分片统计数据');
+    // 8. 生成分片统计数据
+    console.log('步骤 8: 生成分片统计数据');
     try {
       const { execSync } = require('child_process');
       execSync('node scripts/generate-sharded-stats.js', { stdio: 'inherit' });

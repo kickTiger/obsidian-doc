@@ -1,12 +1,12 @@
 ---
 title: Soundscapes
-description: Adds a music/ambiance (E.g. lofi, white noise) player to the status bar to help with concentration
+description: 在状态栏中添加音乐/氛围（如低音、白噪音）播放器，帮助集中注意力
 author: Andrew McGivery
-downloads: 19272
+downloads: 19295
 updated: 1736399914000
 repo: andrewmcgivery/obsidian-soundscapes
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="soundscapes"
   name="Soundscapes"
-  description="Adds a music/ambiance (E.g. lofi, white noise) player to the status bar to help with concentration"
+  description="在状态栏中添加音乐/氛围（如低音、白噪音）播放器，帮助集中注意力"
   author="Andrew McGivery"
-  :downloads="19272"
+  :downloads="19295"
   :updated="1736399914000"
   repo="andrewmcgivery/obsidian-soundscapes"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Soundscapes 是一个功能强大的 Obsidian 插件。
 
-Adds a music/ambiance (E.g. lofi, white noise) player to the status bar to help with concentration
+在状态栏中添加音乐/氛围（如低音、白噪音）播放器，帮助集中注意力
 
 通过 Soundscapes,您可以:
 
@@ -202,7 +202,7 @@ Adds a music/ambiance (E.g. lofi, white noise) player to the status bar to help 
 - **下载量**：19.3K
 - **最后更新**：2025-01-09
 - **GitHub**：[andrewmcgivery/obsidian-soundscapes](https://github.com/andrewmcgivery/obsidian-soundscapes)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

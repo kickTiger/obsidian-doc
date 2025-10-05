@@ -2,11 +2,11 @@
 title: Citation Callouts
 description: Elegantly formats quotes with citations from various sources into custom callouts.
 author: Michael Marvive
-downloads: 232
+downloads: 234
 updated: 1749527108000
 repo: Marvive/Citation-Callouts
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Citation Callouts"
   description="Elegantly formats quotes with citations from various sources into custom callouts."
   author="Michael Marvive"
-  :downloads="232"
+  :downloads="234"
   :updated="1749527108000"
   repo="Marvive/Citation-Callouts"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Elegantly formats quotes with citations from various sources into custom callout
 - **插件 ID**：citation-callouts
 - **作者**：Michael Marvive
 - **当前版本**：v1.0.0
-- **下载量**：232
+- **下载量**：234
 - **最后更新**：2025-06-10
 - **GitHub**：[Marvive/Citation-Callouts](https://github.com/Marvive/Citation-Callouts)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

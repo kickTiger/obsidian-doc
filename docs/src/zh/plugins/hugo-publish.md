@@ -2,11 +2,11 @@
 title: Hugo Publish
 description: Publish your blog to hugo site.
 author: kirito
-downloads: 2088
+downloads: 2093
 updated: 1747654946000
 repo: kirito41dd/obsidian-hugo-publish
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hugo Publish"
   description="Publish your blog to hugo site."
   author="kirito"
-  :downloads="2088"
+  :downloads="2093"
   :updated="1747654946000"
   repo="kirito41dd/obsidian-hugo-publish"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish your blog to hugo site.
 - **下载量**：2.1K
 - **最后更新**：2025-05-19
 - **GitHub**：[kirito41dd/obsidian-hugo-publish](https://github.com/kirito41dd/obsidian-hugo-publish)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Encoder/Decoder
 description: Encoding and decoding text using Base64, ROT13 and Atbash ciphers.
 author: Rudi Häusler
-downloads: 2814
+downloads: 2815
 updated: 1738836748000
 repo: rudimuc/obsidian-coder
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Encoder/Decoder"
   description="Encoding and decoding text using Base64, ROT13 and Atbash ciphers."
   author="Rudi Häusler"
-  :downloads="2814"
+  :downloads="2815"
   :updated="1738836748000"
   repo="rudimuc/obsidian-coder"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Encoding and decoding text using Base64, ROT13 and Atbash ciphers.
 - **下载量**：2.8K
 - **最后更新**：2025-02-06
 - **GitHub**：[rudimuc/obsidian-coder](https://github.com/rudimuc/obsidian-coder)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Typezen
 description: Type anything and get in zen mode instantly, no more distraction between you and your thoughts.
 author: Ilgam Gabdullin
-downloads: 1165
+downloads: 1168
 updated: 1738591685000
 repo: IlgamGabdullin/obsidian-typezen
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Typezen"
   description="Type anything and get in zen mode instantly, no more distraction between you and your thoughts."
   author="Ilgam Gabdullin"
-  :downloads="1165"
+  :downloads="1168"
   :updated="1738591685000"
   repo="IlgamGabdullin/obsidian-typezen"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Type anything and get in zen mode instantly, no more distraction between you and
 - **下载量**：1.2K
 - **最后更新**：2025-02-03
 - **GitHub**：[IlgamGabdullin/obsidian-typezen](https://github.com/IlgamGabdullin/obsidian-typezen)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

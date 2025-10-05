@@ -1,12 +1,12 @@
 ---
 title: Local LLM Helper
-description: Use a local LLM server to augment your notes
+description: 使用本地 LLM 服务器扩充您的笔记
 author: Mani Mohan
-downloads: 4002
+downloads: 4008
 updated: 1749005844000
 repo: manimohans/obsidian-local-llm-helper
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="local-llm-helper"
   name="Local LLM Helper"
-  description="Use a local LLM server to augment your notes"
+  description="使用本地 LLM 服务器扩充您的笔记"
   author="Mani Mohan"
-  :downloads="4002"
+  :downloads="4008"
   :updated="1749005844000"
   repo="manimohans/obsidian-local-llm-helper"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Local LLM Helper 是一个功能强大的 Obsidian 插件。
 
-Use a local LLM server to augment your notes
+使用本地 LLM 服务器扩充您的笔记
 
 通过 Local LLM Helper,您可以:
 
@@ -202,7 +202,7 @@ Use a local LLM server to augment your notes
 - **下载量**：4.0K
 - **最后更新**：2025-06-04
 - **GitHub**：[manimohans/obsidian-local-llm-helper](https://github.com/manimohans/obsidian-local-llm-helper)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

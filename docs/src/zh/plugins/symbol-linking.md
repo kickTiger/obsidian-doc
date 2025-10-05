@@ -2,11 +2,11 @@
 title: Symbol linking
 description: Adds ability to link with any trigger. Each trigger can limit linking to specific folders or file.
 author: Evan Bonsignori ; Mara-Li
-downloads: 2607
+downloads: 2630
 updated: 1742856393000
 repo: Mara-Li/obsidian-symbol-linking
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Symbol linking"
   description="Adds ability to link with any trigger. Each trigger can limit linking to specific folders or file."
   author="Evan Bonsignori ; Mara-Li"
-  :downloads="2607"
+  :downloads="2630"
   :updated="1742856393000"
   repo="Mara-Li/obsidian-symbol-linking"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds ability to link with any trigger. Each trigger can limit linking to specifi
 - **下载量**：2.6K
 - **最后更新**：2025-03-25
 - **GitHub**：[Mara-Li/obsidian-symbol-linking](https://github.com/Mara-Li/obsidian-symbol-linking)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

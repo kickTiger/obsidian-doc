@@ -2,11 +2,11 @@
 title: Simple Code Formatter
 description: Format the code block where the cursor is.
 author: SY
-downloads: 2180
+downloads: 2184
 updated: 1734070057000
 repo: wiop93256/Simple-Code-Formmater
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Simple Code Formatter"
   description="Format the code block where the cursor is."
   author="SY"
-  :downloads="2180"
+  :downloads="2184"
   :updated="1734070057000"
   repo="wiop93256/Simple-Code-Formmater"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Format the code block where the cursor is.
 - **下载量**：2.2K
 - **最后更新**：2024-12-13
 - **GitHub**：[wiop93256/Simple-Code-Formmater](https://github.com/wiop93256/Simple-Code-Formmater)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

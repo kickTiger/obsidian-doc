@@ -2,11 +2,11 @@
 title: Simple Image Inserter
 description: Add images from the file system into notes through a built-in file picker.
 author: Joey Holtzman
-downloads: 2448
+downloads: 2451
 updated: 1704780578000
 repo: jdholtz/obsidian-image-inserter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Simple Image Inserter"
   description="Add images from the file system into notes through a built-in file picker."
   author="Joey Holtzman"
-  :downloads="2448"
+  :downloads="2451"
   :updated="1704780578000"
   repo="jdholtz/obsidian-image-inserter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Add images from the file system into notes through a built-in file picker.
 - **插件 ID**：simple-image-inserter
 - **作者**：Joey Holtzman
 - **当前版本**：v1.0.0
-- **下载量**：2.4K
+- **下载量**：2.5K
 - **最后更新**：2024-01-09
 - **GitHub**：[jdholtz/obsidian-image-inserter](https://github.com/jdholtz/obsidian-image-inserter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Easy Fonts
 description: Easily load custom fonts, even on mobile.
 author: Jose Elias Alvarez
-downloads: 2160
+downloads: 2163
 updated: 1738003637000
 repo: jose-elias-alvarez/obsidian-easy-fonts
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Easy Fonts"
   description="Easily load custom fonts, even on mobile."
   author="Jose Elias Alvarez"
-  :downloads="2160"
+  :downloads="2163"
   :updated="1738003637000"
   repo="jose-elias-alvarez/obsidian-easy-fonts"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily load custom fonts, even on mobile.
 - **下载量**：2.2K
 - **最后更新**：2025-01-28
 - **GitHub**：[jose-elias-alvarez/obsidian-easy-fonts](https://github.com/jose-elias-alvarez/obsidian-easy-fonts)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

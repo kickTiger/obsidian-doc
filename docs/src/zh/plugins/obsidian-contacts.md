@@ -1,12 +1,12 @@
 ---
 title: Contacts
-description: Manage and organize contacts.
+description: 管理和组织联系人。
 author: vbeskrovnov
-downloads: 7630
+downloads: 7631
 updated: 1693169447000
 repo: vbeskrovnov/obsidian-contacts
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-contacts"
   name="Contacts"
-  description="Manage and organize contacts."
+  description="管理和组织联系人。"
   author="vbeskrovnov"
-  :downloads="7630"
+  :downloads="7631"
   :updated="1693169447000"
   repo="vbeskrovnov/obsidian-contacts"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Contacts 是一个功能强大的 Obsidian 插件。
 
-Manage and organize contacts.
+管理和组织联系人。
 
 通过 Contacts,您可以:
 
@@ -202,7 +202,7 @@ Manage and organize contacts.
 - **下载量**：7.6K
 - **最后更新**：2023-08-28
 - **GitHub**：[vbeskrovnov/obsidian-contacts](https://github.com/vbeskrovnov/obsidian-contacts)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

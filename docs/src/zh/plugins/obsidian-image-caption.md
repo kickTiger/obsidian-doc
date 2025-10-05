@@ -1,12 +1,12 @@
 ---
 title: Image Caption
-description: Add caption to images.
+description: 为图片添加标题。
 author: bicarlsen
-downloads: 29949
+downloads: 29966
 updated: 1666277489000
 repo: bicarlsen/obsidian_image_caption
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-image-caption"
   name="Image Caption"
-  description="Add caption to images."
+  description="为图片添加标题。"
   author="bicarlsen"
-  :downloads="29949"
+  :downloads="29966"
   :updated="1666277489000"
   repo="bicarlsen/obsidian_image_caption"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Caption 是一个功能强大的 Obsidian 插件。
 
-Add caption to images.
+为图片添加标题。
 
 通过 Image Caption,您可以:
 
@@ -199,10 +199,10 @@ Add caption to images.
 - **插件 ID**：obsidian-image-caption
 - **作者**：bicarlsen
 - **当前版本**：v1.0.0
-- **下载量**：29.9K
+- **下载量**：30.0K
 - **最后更新**：2022-10-20
 - **GitHub**：[bicarlsen/obsidian_image_caption](https://github.com/bicarlsen/obsidian_image_caption)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

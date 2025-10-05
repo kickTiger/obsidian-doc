@@ -2,11 +2,11 @@
 title: Battery Indicator
 description: Displays current battery level in the status bar.
 author: Kacper Darowski
-downloads: 632
+downloads: 634
 updated: 1728995298000
 repo: Opisek/obsidian-battery-indicator
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Battery Indicator"
   description="Displays current battery level in the status bar."
   author="Kacper Darowski"
-  :downloads="632"
+  :downloads="634"
   :updated="1728995298000"
   repo="Opisek/obsidian-battery-indicator"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Displays current battery level in the status bar.
 - **插件 ID**：battery-indicator
 - **作者**：Kacper Darowski
 - **当前版本**：v1.0.0
-- **下载量**：632
+- **下载量**：634
 - **最后更新**：2024-10-15
 - **GitHub**：[Opisek/obsidian-battery-indicator](https://github.com/Opisek/obsidian-battery-indicator)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

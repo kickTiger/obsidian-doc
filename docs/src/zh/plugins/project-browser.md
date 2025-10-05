@@ -1,12 +1,12 @@
 ---
 title: Project Browser
-description: Replaces your new tab window with a browseable list of the files and folders in your vault.
+description: 将新标签窗口替换为可浏览的文件库文件和文件夹列表。
 author: Dale de Silva
-downloads: 12457
+downloads: 12510
 updated: 1759327624000
 repo: daledesilva/obsidian_project-browser
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="project-browser"
   name="Project Browser"
-  description="Replaces your new tab window with a browseable list of the files and folders in your vault."
+  description="将新标签窗口替换为可浏览的文件库文件和文件夹列表。"
   author="Dale de Silva"
-  :downloads="12457"
+  :downloads="12510"
   :updated="1759327624000"
   repo="daledesilva/obsidian_project-browser"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Project Browser 是一个功能强大的 Obsidian 插件。
 
-Replaces your new tab window with a browseable list of the files and folders in your vault.
+将新标签窗口替换为可浏览的文件库文件和文件夹列表。
 
 通过 Project Browser,您可以:
 
@@ -202,7 +202,7 @@ Replaces your new tab window with a browseable list of the files and folders in 
 - **下载量**：12.5K
 - **最后更新**：2025-10-01
 - **GitHub**：[daledesilva/obsidian_project-browser](https://github.com/daledesilva/obsidian_project-browser)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

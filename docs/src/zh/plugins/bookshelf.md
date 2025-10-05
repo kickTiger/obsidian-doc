@@ -1,12 +1,12 @@
 ---
 title: Bookshelf
-description: Manage your books and reading progress
+description: 管理图书和阅读进度
 author: Philip Weinke
-downloads: 6191
+downloads: 6210
 updated: 1755664502000
 repo: weph/obsidian-bookshelf
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="bookshelf"
   name="Bookshelf"
-  description="Manage your books and reading progress"
+  description="管理图书和阅读进度"
   author="Philip Weinke"
-  :downloads="6191"
+  :downloads="6210"
   :updated="1755664502000"
   repo="weph/obsidian-bookshelf"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Bookshelf 是一个功能强大的 Obsidian 插件。
 
-Manage your books and reading progress
+管理图书和阅读进度
 
 通过 Bookshelf,您可以:
 
@@ -202,7 +202,7 @@ Manage your books and reading progress
 - **下载量**：6.2K
 - **最后更新**：2025-08-20
 - **GitHub**：[weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

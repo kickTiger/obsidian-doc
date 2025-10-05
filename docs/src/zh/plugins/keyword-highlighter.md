@@ -1,12 +1,12 @@
 ---
 title: Keyword Highlighter
-description: Automatically highlight specified keywords within your notes for enhanced visibility and quick reference.
+description: 自动高亮笔记中指定的关键字，以提高可见性和快速参考性。
 author: Marcel Goldammer
-downloads: 7865
+downloads: 7871
 updated: 1714895126000
 repo: marcel-goldammer/obsidian-keyword-highlighter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="keyword-highlighter"
   name="Keyword Highlighter"
-  description="Automatically highlight specified keywords within your notes for enhanced visibility and quick reference."
+  description="自动高亮笔记中指定的关键字，以提高可见性和快速参考性。"
   author="Marcel Goldammer"
-  :downloads="7865"
+  :downloads="7871"
   :updated="1714895126000"
   repo="marcel-goldammer/obsidian-keyword-highlighter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Keyword Highlighter 是一个功能强大的 Obsidian 插件。
 
-Automatically highlight specified keywords within your notes for enhanced visibility and quick reference.
+自动高亮笔记中指定的关键字，以提高可见性和快速参考性。
 
 通过 Keyword Highlighter,您可以:
 
@@ -202,7 +202,7 @@ Automatically highlight specified keywords within your notes for enhanced visibi
 - **下载量**：7.9K
 - **最后更新**：2024-05-05
 - **GitHub**：[marcel-goldammer/obsidian-keyword-highlighter](https://github.com/marcel-goldammer/obsidian-keyword-highlighter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

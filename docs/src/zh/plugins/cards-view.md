@@ -1,12 +1,12 @@
 ---
 title: Cards View
-description: Displays a card view of your notes.
+description: 显示笔记的卡片视图。
 author: Maud Royer
-downloads: 12634
+downloads: 12648
 updated: 1735387680000
 repo: jillro/obsidian-cards-view-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cards-view"
   name="Cards View"
-  description="Displays a card view of your notes."
+  description="显示笔记的卡片视图。"
   author="Maud Royer"
-  :downloads="12634"
+  :downloads="12648"
   :updated="1735387680000"
   repo="jillro/obsidian-cards-view-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Cards View 是一个功能强大的 Obsidian 插件。
 
-Displays a card view of your notes.
+显示笔记的卡片视图。
 
 通过 Cards View,您可以:
 
@@ -202,7 +202,7 @@ Displays a card view of your notes.
 - **下载量**：12.6K
 - **最后更新**：2024-12-28
 - **GitHub**：[jillro/obsidian-cards-view-plugin](https://github.com/jillro/obsidian-cards-view-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

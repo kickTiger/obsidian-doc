@@ -1,12 +1,12 @@
 ---
 title: mdx as md
-description: Edit mdx files as Markdown.
+description: 将 mdx 文件编辑为 Markdown。
 author: Nikolay Kozhukharenko
 downloads: 6210
 updated: 1618775308000
 repo: mkozhukharenko/mdx-as-md-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mdx-as-md-obsidian"
   name="mdx as md"
-  description="Edit mdx files as Markdown."
+  description="将 mdx 文件编辑为 Markdown。"
   author="Nikolay Kozhukharenko"
   :downloads="6210"
   :updated="1618775308000"
   repo="mkozhukharenko/mdx-as-md-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 mdx as md 是一个功能强大的 Obsidian 插件。
 
-Edit mdx files as Markdown.
+将 mdx 文件编辑为 Markdown。
 
 通过 mdx as md,您可以:
 
@@ -202,7 +202,7 @@ Edit mdx files as Markdown.
 - **下载量**：6.2K
 - **最后更新**：2021-04-19
 - **GitHub**：[mkozhukharenko/mdx-as-md-obsidian](https://github.com/mkozhukharenko/mdx-as-md-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

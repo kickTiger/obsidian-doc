@@ -6,7 +6,7 @@ downloads: 3195
 updated: 1689838664000
 repo: vzsky/apl-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1689838664000"
   repo="vzsky/apl-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Render APL syntax.
 - **下载量**：3.2K
 - **最后更新**：2023-07-20
 - **GitHub**：[vzsky/apl-obsidian](https://github.com/vzsky/apl-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

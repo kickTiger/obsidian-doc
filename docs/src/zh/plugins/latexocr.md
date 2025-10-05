@@ -2,11 +2,11 @@
 title: LaTeX-OCR
 description: Run LaTeX-OCR if it is installed locally.
 author: Jack Barker
-downloads: 2255
+downloads: 2256
 updated: 1712072518000
 repo: JackBarker7/obsidian-latexocr
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="LaTeX-OCR"
   description="Run LaTeX-OCR if it is installed locally."
   author="Jack Barker"
-  :downloads="2255"
+  :downloads="2256"
   :updated="1712072518000"
   repo="JackBarker7/obsidian-latexocr"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Run LaTeX-OCR if it is installed locally.
 - **下载量**：2.3K
 - **最后更新**：2024-04-02
 - **GitHub**：[JackBarker7/obsidian-latexocr](https://github.com/JackBarker7/obsidian-latexocr)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

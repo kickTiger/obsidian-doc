@@ -1,12 +1,12 @@
 ---
 title: Global Markdown Encryption
-description: In-memory AES256-GCM Markdown encryption.
+description: 内存 AES256-GCM Markdown 加密。
 author: shlemiel
-downloads: 3720
+downloads: 3722
 updated: 1702095810000
 repo: shlemiel/globaloe
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="global-markdown-encrypt"
   name="Global Markdown Encryption"
-  description="In-memory AES256-GCM Markdown encryption."
+  description="内存 AES256-GCM Markdown 加密。"
   author="shlemiel"
-  :downloads="3720"
+  :downloads="3722"
   :updated="1702095810000"
   repo="shlemiel/globaloe"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Global Markdown Encryption 是一个功能强大的 Obsidian 插件。
 
-In-memory AES256-GCM Markdown encryption.
+内存 AES256-GCM Markdown 加密。
 
 通过 Global Markdown Encryption,您可以:
 
@@ -202,7 +202,7 @@ In-memory AES256-GCM Markdown encryption.
 - **下载量**：3.7K
 - **最后更新**：2023-12-09
 - **GitHub**：[shlemiel/globaloe](https://github.com/shlemiel/globaloe)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

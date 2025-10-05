@@ -1,12 +1,12 @@
 ---
 title: Easy Typing
-description: Auto format when typing.
+description: 输入时自动格式化。
 author: yaozhuwa
-downloads: 250175
+downloads: 250346
 updated: 1755869448000
 repo: Yaozhuwa/easy-typing-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="easy-typing-obsidian"
   name="Easy Typing"
-  description="Auto format when typing."
+  description="输入时自动格式化。"
   author="yaozhuwa"
-  :downloads="250175"
+  :downloads="250346"
   :updated="1755869448000"
   repo="Yaozhuwa/easy-typing-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Easy Typing 是一个功能强大的 Obsidian 插件。
 
-Auto format when typing.
+输入时自动格式化。
 
 通过 Easy Typing,您可以:
 
@@ -199,10 +199,10 @@ Auto format when typing.
 - **插件 ID**：easy-typing-obsidian
 - **作者**：yaozhuwa
 - **当前版本**：v1.0.0
-- **下载量**：250.2K
+- **下载量**：250.3K
 - **最后更新**：2025-08-22
 - **GitHub**：[Yaozhuwa/easy-typing-obsidian](https://github.com/Yaozhuwa/easy-typing-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

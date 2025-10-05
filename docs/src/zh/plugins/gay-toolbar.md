@@ -2,11 +2,11 @@
 title: Gay Toolbar
 description: Colorful, customizable toolbar, designed for mobile
 author: Chas Kane
-downloads: 1917
+downloads: 1920
 updated: 1745247457000
 repo: ChasKane/gay-toolbar
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Gay Toolbar"
   description="Colorful, customizable toolbar, designed for mobile"
   author="Chas Kane"
-  :downloads="1917"
+  :downloads="1920"
   :updated="1745247457000"
   repo="ChasKane/gay-toolbar"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Colorful, customizable toolbar, designed for mobile
 - **下载量**：1.9K
 - **最后更新**：2025-04-21
 - **GitHub**：[ChasKane/gay-toolbar](https://github.com/ChasKane/gay-toolbar)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

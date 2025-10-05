@@ -2,11 +2,11 @@
 title: Create Note with Date in This Directory
 description: 'Create a new note with today''s date in the current directory'
 author: Sangrak Choi
-downloads: 141
+downloads: 142
 updated: 1748627561000
 repo: kargnas/obsidian-create-note-with-date
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Create Note with Date in This Directory"
   description="Create a new note with today&#39;s date in the current directory"
   author="Sangrak Choi"
-  :downloads="141"
+  :downloads="142"
   :updated="1748627561000"
   repo="kargnas/obsidian-create-note-with-date"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create a new note with today&#39;s date in the current directory
 - **插件 ID**：create-note-with-date
 - **作者**：Sangrak Choi
 - **当前版本**：v1.0.0
-- **下载量**：141
+- **下载量**：142
 - **最后更新**：2025-05-31
 - **GitHub**：[kargnas/obsidian-create-note-with-date](https://github.com/kargnas/obsidian-create-note-with-date)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

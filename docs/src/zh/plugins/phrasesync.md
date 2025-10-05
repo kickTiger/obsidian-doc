@@ -1,12 +1,12 @@
 ---
 title: PhraseSync
-description: Auto-suggests internal links mid-sentence from note titles, headings, and block references.
+description: 从注释标题、标题和块参考文献中自动推荐句子中间的内部链接。
 author: Digvijay S. Todiwal
-downloads: 5366
+downloads: 5386
 updated: 1758076150000
 repo: digvijay-s-todiwal/phrasesync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="phrasesync"
   name="PhraseSync"
-  description="Auto-suggests internal links mid-sentence from note titles, headings, and block references."
+  description="从注释标题、标题和块参考文献中自动推荐句子中间的内部链接。"
   author="Digvijay S. Todiwal"
-  :downloads="5366"
+  :downloads="5386"
   :updated="1758076150000"
   repo="digvijay-s-todiwal/phrasesync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 PhraseSync 是一个功能强大的 Obsidian 插件。
 
-Auto-suggests internal links mid-sentence from note titles, headings, and block references.
+从注释标题、标题和块参考文献中自动推荐句子中间的内部链接。
 
 通过 PhraseSync,您可以:
 
@@ -202,7 +202,7 @@ Auto-suggests internal links mid-sentence from note titles, headings, and block 
 - **下载量**：5.4K
 - **最后更新**：2025-09-17
 - **GitHub**：[digvijay-s-todiwal/phrasesync](https://github.com/digvijay-s-todiwal/phrasesync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Agile Task Notes
-description: 'Import your tasks from your TFS (Azure or Jira) to take notes on them and make todo-lists!'
+description: 从 TFS（Azure 或 Jira）导入任务，记录任务并制作待办事项列表！
 author: BoxThatBeat
-downloads: 10101
+downloads: 10104
 updated: 1725033084000
 repo: BoxThatBeat/obsidian-agile-task-notes
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-agile-task-notes"
   name="Agile Task Notes"
-  description="Import your tasks from your TFS (Azure or Jira) to take notes on them and make todo-lists!"
+  description="从 TFS（Azure 或 Jira）导入任务，记录任务并制作待办事项列表！"
   author="BoxThatBeat"
-  :downloads="10101"
+  :downloads="10104"
   :updated="1725033084000"
   repo="BoxThatBeat/obsidian-agile-task-notes"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Agile Task Notes 是一个功能强大的 Obsidian 插件。
 
-Import your tasks from your TFS (Azure or Jira) to take notes on them and make todo-lists!
+从 TFS（Azure 或 Jira）导入任务，记录任务并制作待办事项列表！
 
 通过 Agile Task Notes,您可以:
 
@@ -202,7 +202,7 @@ Import your tasks from your TFS (Azure or Jira) to take notes on them and make t
 - **下载量**：10.1K
 - **最后更新**：2024-08-30
 - **GitHub**：[BoxThatBeat/obsidian-agile-task-notes](https://github.com/BoxThatBeat/obsidian-agile-task-notes)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

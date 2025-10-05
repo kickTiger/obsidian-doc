@@ -1,12 +1,12 @@
 ---
 title: AI Commander
-description: Generate audio transcripts, images, and text in context of PDF attachments or web search results using OpenAI and Bing API.
+description: 使用 OpenAI 和 Bing API 生成 PDF 附件或网络搜索结果上下文中的音频脚本、图像和文本。
 author: Simon Yang
-downloads: 17391
+downloads: 17397
 updated: 1728991973000
 repo: yzh503/obsidian-aicommander-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ai-commander"
   name="AI Commander"
-  description="Generate audio transcripts, images, and text in context of PDF attachments or web search results using OpenAI and Bing API."
+  description="使用 OpenAI 和 Bing API 生成 PDF 附件或网络搜索结果上下文中的音频脚本、图像和文本。"
   author="Simon Yang"
-  :downloads="17391"
+  :downloads="17397"
   :updated="1728991973000"
   repo="yzh503/obsidian-aicommander-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AI Commander 是一个功能强大的 Obsidian 插件。
 
-Generate audio transcripts, images, and text in context of PDF attachments or web search results using OpenAI and Bing API.
+使用 OpenAI 和 Bing API 生成 PDF 附件或网络搜索结果上下文中的音频脚本、图像和文本。
 
 通过 AI Commander,您可以:
 
@@ -202,7 +202,7 @@ Generate audio transcripts, images, and text in context of PDF attachments or we
 - **下载量**：17.4K
 - **最后更新**：2024-10-15
 - **GitHub**：[yzh503/obsidian-aicommander-plugin](https://github.com/yzh503/obsidian-aicommander-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

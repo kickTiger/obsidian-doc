@@ -6,7 +6,7 @@ downloads: 497
 updated: 1719225157000
 repo: Ankush-Chander/obsidian-smart-move-text
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1719225157000"
   repo="Ankush-Chander/obsidian-smart-move-text"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Intelligent way to arrange text/links in file.
 - **下载量**：497
 - **最后更新**：2024-06-24
 - **GitHub**：[Ankush-Chander/obsidian-smart-move-text](https://github.com/Ankush-Chander/obsidian-smart-move-text)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

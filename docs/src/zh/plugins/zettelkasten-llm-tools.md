@@ -1,12 +1,12 @@
 ---
 title: Zettelkasten LLM Tools
-description: Zettelkasten note taking powered by Large Language Models (e.g. semantic search).
+description: Zettelkasten 笔记由大型语言模型（如语义搜索）支持。
 author: Karl Smith
-downloads: 6559
+downloads: 6560
 updated: 1738435385000
 repo: glovguy/obsidian-gpt-zettelkasten
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="zettelkasten-llm-tools"
   name="Zettelkasten LLM Tools"
-  description="Zettelkasten note taking powered by Large Language Models (e.g. semantic search)."
+  description="Zettelkasten 笔记由大型语言模型（如语义搜索）支持。"
   author="Karl Smith"
-  :downloads="6559"
+  :downloads="6560"
   :updated="1738435385000"
   repo="glovguy/obsidian-gpt-zettelkasten"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Zettelkasten LLM Tools 是一个功能强大的 Obsidian 插件。
 
-Zettelkasten note taking powered by Large Language Models (e.g. semantic search).
+Zettelkasten 笔记由大型语言模型（如语义搜索）支持。
 
 通过 Zettelkasten LLM Tools,您可以:
 
@@ -202,7 +202,7 @@ Zettelkasten note taking powered by Large Language Models (e.g. semantic search)
 - **下载量**：6.6K
 - **最后更新**：2025-02-02
 - **GitHub**：[glovguy/obsidian-gpt-zettelkasten](https://github.com/glovguy/obsidian-gpt-zettelkasten)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

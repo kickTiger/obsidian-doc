@@ -1,12 +1,12 @@
 ---
 title: Mermaid Tools
-description: 'Improved Mermaid.js experience: visual toolbar with common elements and more.'
+description: 改进的 Mermaid.js 体验：包含常用元素的可视化工具栏等。
 author: dartungar
-downloads: 200243
+downloads: 200462
 updated: 1754219274000
 repo: dartungar/obsidian-mermaid
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mermaid-tools"
   name="Mermaid Tools"
-  description="Improved Mermaid.js experience: visual toolbar with common elements and more."
+  description="改进的 Mermaid.js 体验：包含常用元素的可视化工具栏等。"
   author="dartungar"
-  :downloads="200243"
+  :downloads="200462"
   :updated="1754219274000"
   repo="dartungar/obsidian-mermaid"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mermaid Tools 是一个功能强大的 Obsidian 插件。
 
-Improved Mermaid.js experience: visual toolbar with common elements and more.
+改进的 Mermaid.js 体验：包含常用元素的可视化工具栏等。
 
 通过 Mermaid Tools,您可以:
 
@@ -199,10 +199,10 @@ Improved Mermaid.js experience: visual toolbar with common elements and more.
 - **插件 ID**：mermaid-tools
 - **作者**：dartungar
 - **当前版本**：v1.0.0
-- **下载量**：200.2K
+- **下载量**：200.5K
 - **最后更新**：2025-08-03
 - **GitHub**：[dartungar/obsidian-mermaid](https://github.com/dartungar/obsidian-mermaid)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

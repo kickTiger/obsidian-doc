@@ -1,12 +1,12 @@
 ---
 title: Dangling links
-description: 'Add a sidebar showing any dangling links in a vault. Dangling links are orphaned links that don''t point to anything in the vault.'
+description: 添加侧边栏，显示保险库中的任何悬挂链接。悬挂链接是指不指向保险库中任何内容的无主链接。
 author: Graydon Hoare
-downloads: 16710
+downloads: 16711
 updated: 1621364776000
 repo: graydon/obsidian-dangling-links
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-dangling-links"
   name="Dangling links"
-  description="Add a sidebar showing any dangling links in a vault. Dangling links are orphaned links that don&#39;t point to anything in the vault."
+  description="添加侧边栏，显示保险库中的任何悬挂链接。悬挂链接是指不指向保险库中任何内容的无主链接。"
   author="Graydon Hoare"
-  :downloads="16710"
+  :downloads="16711"
   :updated="1621364776000"
   repo="graydon/obsidian-dangling-links"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dangling links 是一个功能强大的 Obsidian 插件。
 
-Add a sidebar showing any dangling links in a vault. Dangling links are orphaned links that don&#39;t point to anything in the vault.
+添加侧边栏，显示保险库中的任何悬挂链接。悬挂链接是指不指向保险库中任何内容的无主链接。
 
 通过 Dangling links,您可以:
 
@@ -202,7 +202,7 @@ Add a sidebar showing any dangling links in a vault. Dangling links are orphaned
 - **下载量**：16.7K
 - **最后更新**：2021-05-19
 - **GitHub**：[graydon/obsidian-dangling-links](https://github.com/graydon/obsidian-dangling-links)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

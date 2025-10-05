@@ -1,12 +1,12 @@
 ---
 title: Daily Stats
-description: Track your daily word count.
+description: 跟踪每天的字数。
 author: Dhruvik Parikh
-downloads: 21594
+downloads: 21611
 updated: 1614264770000
 repo: dhruvik7/obsidian-daily-stats
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-daily-stats"
   name="Daily Stats"
-  description="Track your daily word count."
+  description="跟踪每天的字数。"
   author="Dhruvik Parikh"
-  :downloads="21594"
+  :downloads="21611"
   :updated="1614264770000"
   repo="dhruvik7/obsidian-daily-stats"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Daily Stats 是一个功能强大的 Obsidian 插件。
 
-Track your daily word count.
+跟踪每天的字数。
 
 通过 Daily Stats,您可以:
 
@@ -202,7 +202,7 @@ Track your daily word count.
 - **下载量**：21.6K
 - **最后更新**：2021-02-25
 - **GitHub**：[dhruvik7/obsidian-daily-stats](https://github.com/dhruvik7/obsidian-daily-stats)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

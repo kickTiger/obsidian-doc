@@ -1,12 +1,12 @@
 ---
 title: Typewriter Mode
-description: Typewriter scrolling, highlighting of the current line, dimming of unfocused paragraphs and more.
+description: 打字机滚动、突出显示当前行、调暗未聚焦段落等功能。
 author: Davis Riedel
-downloads: 61444
+downloads: 61521
 updated: 1737831321000
 repo: davisriedel/obsidian-typewriter-mode
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="typewriter-mode"
   name="Typewriter Mode"
-  description="Typewriter scrolling, highlighting of the current line, dimming of unfocused paragraphs and more."
+  description="打字机滚动、突出显示当前行、调暗未聚焦段落等功能。"
   author="Davis Riedel"
-  :downloads="61444"
+  :downloads="61521"
   :updated="1737831321000"
   repo="davisriedel/obsidian-typewriter-mode"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Typewriter Mode 是一个功能强大的 Obsidian 插件。
 
-Typewriter scrolling, highlighting of the current line, dimming of unfocused paragraphs and more.
+打字机滚动、突出显示当前行、调暗未聚焦段落等功能。
 
 通过 Typewriter Mode,您可以:
 
@@ -199,10 +199,10 @@ Typewriter scrolling, highlighting of the current line, dimming of unfocused par
 - **插件 ID**：typewriter-mode
 - **作者**：Davis Riedel
 - **当前版本**：v1.0.0
-- **下载量**：61.4K
+- **下载量**：61.5K
 - **最后更新**：2025-01-26
 - **GitHub**：[davisriedel/obsidian-typewriter-mode](https://github.com/davisriedel/obsidian-typewriter-mode)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Checklist
-description: Consolidate checklists across all files into a single view.
+description: 合并笔记库中的所有清单。
 author: delashum
-downloads: 412040
+downloads: 412162
 updated: 1736622478000
 repo: delashum/obsidian-checklist-plugin
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-checklist-plugin"
   name="Checklist"
-  description="Consolidate checklists across all files into a single view."
+  description="合并笔记库中的所有清单。"
   author="delashum"
-  :downloads="412040"
+  :downloads="412162"
   :updated="1736622478000"
   repo="delashum/obsidian-checklist-plugin"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Checklist 是一个功能强大的 Obsidian 插件。
 
-Consolidate checklists across all files into a single view.
+合并笔记库中的所有清单。
 
 通过 Checklist,您可以:
 
@@ -199,10 +199,10 @@ Consolidate checklists across all files into a single view.
 - **插件 ID**：obsidian-checklist-plugin
 - **作者**：delashum
 - **当前版本**：v1.0.0
-- **下载量**：412.0K
+- **下载量**：412.2K
 - **最后更新**：2025-01-12
 - **GitHub**：[delashum/obsidian-checklist-plugin](https://github.com/delashum/obsidian-checklist-plugin)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

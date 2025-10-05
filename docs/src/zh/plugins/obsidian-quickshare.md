@@ -1,12 +1,12 @@
 ---
 title: QuickShare
-description: Securely share your notes with one click. Notes are end-to-end encrypted. No API keys or configuration required.
+description: 一键点击，安全共享笔记。笔记经过端到端加密。无需 API 密钥或配置。
 author: 'Maxime Cannoodt (@mcndt)'
-downloads: 26008
+downloads: 26019
 updated: 1673080615000
 repo: mcndt/obsidian-quickshare
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-quickshare"
   name="QuickShare"
-  description="Securely share your notes with one click. Notes are end-to-end encrypted. No API keys or configuration required."
+  description="一键点击，安全共享笔记。笔记经过端到端加密。无需 API 密钥或配置。"
   author="Maxime Cannoodt (@mcndt)"
-  :downloads="26008"
+  :downloads="26019"
   :updated="1673080615000"
   repo="mcndt/obsidian-quickshare"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 QuickShare 是一个功能强大的 Obsidian 插件。
 
-Securely share your notes with one click. Notes are end-to-end encrypted. No API keys or configuration required.
+一键点击，安全共享笔记。笔记经过端到端加密。无需 API 密钥或配置。
 
 通过 QuickShare,您可以:
 
@@ -202,7 +202,7 @@ Securely share your notes with one click. Notes are end-to-end encrypted. No API
 - **下载量**：26.0K
 - **最后更新**：2023-01-07
 - **GitHub**：[mcndt/obsidian-quickshare](https://github.com/mcndt/obsidian-quickshare)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

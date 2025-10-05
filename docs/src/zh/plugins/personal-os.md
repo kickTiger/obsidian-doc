@@ -2,11 +2,11 @@
 title: Personal OS
 description: Streamlining task management and productivity with a touch of gamification.
 author: A.Buot
-downloads: 1766
+downloads: 1769
 updated: 1748357457000
 repo: GengAd/obsidian-personal-os
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Personal OS"
   description="Streamlining task management and productivity with a touch of gamification."
   author="A.Buot"
-  :downloads="1766"
+  :downloads="1769"
   :updated="1748357457000"
   repo="GengAd/obsidian-personal-os"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Streamlining task management and productivity with a touch of gamification.
 - **下载量**：1.8K
 - **最后更新**：2025-05-27
 - **GitHub**：[GengAd/obsidian-personal-os](https://github.com/GengAd/obsidian-personal-os)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

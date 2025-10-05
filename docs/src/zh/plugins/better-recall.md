@@ -2,11 +2,11 @@
 title: Better Recall
 description: Add anki-like spaced repetition and recall to your vault.
 author: FlorianWoelki
-downloads: 2129
+downloads: 2131
 updated: 1738917389000
 repo: FlorianWoelki/obsidian-better-recall
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Better Recall"
   description="Add anki-like spaced repetition and recall to your vault."
   author="FlorianWoelki"
-  :downloads="2129"
+  :downloads="2131"
   :updated="1738917389000"
   repo="FlorianWoelki/obsidian-better-recall"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add anki-like spaced repetition and recall to your vault.
 - **下载量**：2.1K
 - **最后更新**：2025-02-07
 - **GitHub**：[FlorianWoelki/obsidian-better-recall](https://github.com/FlorianWoelki/obsidian-better-recall)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: NerdFont Icon Picker
 description: Search and insert nerdfont icons.
 author: Xaver Wenhart
-downloads: 1313
+downloads: 1319
 updated: 1755845554000
 repo: xavwe/obsidian-nerdfont-icon-picker
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="NerdFont Icon Picker"
   description="Search and insert nerdfont icons."
   author="Xaver Wenhart"
-  :downloads="1313"
+  :downloads="1319"
   :updated="1755845554000"
   repo="xavwe/obsidian-nerdfont-icon-picker"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Search and insert nerdfont icons.
 - **下载量**：1.3K
 - **最后更新**：2025-08-22
 - **GitHub**：[xavwe/obsidian-nerdfont-icon-picker](https://github.com/xavwe/obsidian-nerdfont-icon-picker)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

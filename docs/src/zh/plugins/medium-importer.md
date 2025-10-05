@@ -2,11 +2,11 @@
 title: Medium Importer
 description: Import Medium posts into your vault.
 author: David Zachariae
-downloads: 2668
+downloads: 2669
 updated: 1729535731000
 repo: arumie/obsidian-medium-importer-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Medium Importer"
   description="Import Medium posts into your vault."
   author="David Zachariae"
-  :downloads="2668"
+  :downloads="2669"
   :updated="1729535731000"
   repo="arumie/obsidian-medium-importer-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Import Medium posts into your vault.
 - **下载量**：2.7K
 - **最后更新**：2024-10-22
 - **GitHub**：[arumie/obsidian-medium-importer-plugin](https://github.com/arumie/obsidian-medium-importer-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Keyboard Analyzer
-description: See and analyse your keyboard hotkeys and shortcuts.
+description: 查看并分析键盘热键和快捷键。
 author: cogscides
-downloads: 19974
+downloads: 20007
 updated: 1757443904000
 repo: cogscides/obsidian-keyboard-analyzer
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="keyboard-analyzer"
   name="Keyboard Analyzer"
-  description="See and analyse your keyboard hotkeys and shortcuts."
+  description="查看并分析键盘热键和快捷键。"
   author="cogscides"
-  :downloads="19974"
+  :downloads="20007"
   :updated="1757443904000"
   repo="cogscides/obsidian-keyboard-analyzer"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Keyboard Analyzer 是一个功能强大的 Obsidian 插件。
 
-See and analyse your keyboard hotkeys and shortcuts.
+查看并分析键盘热键和快捷键。
 
 通过 Keyboard Analyzer,您可以:
 
@@ -202,7 +202,7 @@ See and analyse your keyboard hotkeys and shortcuts.
 - **下载量**：20.0K
 - **最后更新**：2025-09-10
 - **GitHub**：[cogscides/obsidian-keyboard-analyzer](https://github.com/cogscides/obsidian-keyboard-analyzer)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

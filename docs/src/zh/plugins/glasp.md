@@ -2,11 +2,11 @@
 title: Glasp
 description: Import your Glasp highlights and notes into your vault.
 author: Glasp
-downloads: 877
+downloads: 879
 updated: 1744678948000
 repo: glasp-co/obsidian-glasp-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Glasp"
   description="Import your Glasp highlights and notes into your vault."
   author="Glasp"
-  :downloads="877"
+  :downloads="879"
   :updated="1744678948000"
   repo="glasp-co/obsidian-glasp-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Import your Glasp highlights and notes into your vault.
 - **插件 ID**：glasp
 - **作者**：Glasp
 - **当前版本**：v1.0.0
-- **下载量**：877
+- **下载量**：879
 - **最后更新**：2025-04-15
 - **GitHub**：[glasp-co/obsidian-glasp-plugin](https://github.com/glasp-co/obsidian-glasp-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

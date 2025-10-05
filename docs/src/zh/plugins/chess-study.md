@@ -1,12 +1,12 @@
 ---
 title: Chess Study
-description: A chess study helper and PGN viewer/editor.
+description: 国际象棋学习助手和 PGN 查看器/编辑器。
 author: Christoph Lindstädt
-downloads: 6437
+downloads: 6442
 updated: 1707661863000
 repo: chrislicodes/obsidian-chess-study
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chess-study"
   name="Chess Study"
-  description="A chess study helper and PGN viewer/editor."
+  description="国际象棋学习助手和 PGN 查看器/编辑器。"
   author="Christoph Lindstädt"
-  :downloads="6437"
+  :downloads="6442"
   :updated="1707661863000"
   repo="chrislicodes/obsidian-chess-study"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chess Study 是一个功能强大的 Obsidian 插件。
 
-A chess study helper and PGN viewer/editor.
+国际象棋学习助手和 PGN 查看器/编辑器。
 
 通过 Chess Study,您可以:
 
@@ -202,7 +202,7 @@ A chess study helper and PGN viewer/editor.
 - **下载量**：6.4K
 - **最后更新**：2024-02-11
 - **GitHub**：[chrislicodes/obsidian-chess-study](https://github.com/chrislicodes/obsidian-chess-study)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

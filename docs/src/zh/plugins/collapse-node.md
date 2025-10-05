@@ -1,12 +1,12 @@
 ---
 title: Collapse Node
-description: Collapse node in canvas.
+description: 折叠画布中的节点。
 author: Boninall
-downloads: 11488
+downloads: 11497
 updated: 1741165811000
 repo: Quorafind/Obsidian-Collapse-Node
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="collapse-node"
   name="Collapse Node"
-  description="Collapse node in canvas."
+  description="折叠画布中的节点。"
   author="Boninall"
-  :downloads="11488"
+  :downloads="11497"
   :updated="1741165811000"
   repo="Quorafind/Obsidian-Collapse-Node"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Collapse Node 是一个功能强大的 Obsidian 插件。
 
-Collapse node in canvas.
+折叠画布中的节点。
 
 通过 Collapse Node,您可以:
 
@@ -202,7 +202,7 @@ Collapse node in canvas.
 - **下载量**：11.5K
 - **最后更新**：2025-03-05
 - **GitHub**：[Quorafind/Obsidian-Collapse-Node](https://github.com/Quorafind/Obsidian-Collapse-Node)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

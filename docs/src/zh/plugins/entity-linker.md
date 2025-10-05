@@ -6,7 +6,7 @@ downloads: 436
 updated: 1721197165000
 repo: Ankush-Chander/obsidian-entity-linker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1721197165000"
   repo="Ankush-Chander/obsidian-entity-linker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Link research terms to standard entities
 - **下载量**：436
 - **最后更新**：2024-07-17
 - **GitHub**：[Ankush-Chander/obsidian-entity-linker](https://github.com/Ankush-Chander/obsidian-entity-linker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

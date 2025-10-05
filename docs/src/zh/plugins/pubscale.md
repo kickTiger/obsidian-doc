@@ -6,7 +6,7 @@ downloads: 3215
 updated: 1684635717000
 repo: piriwata/pubScale
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1684635717000"
   repo="piriwata/pubScale"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Seamlessly sync Markdown notes into PlanetScale tables.
 - **下载量**：3.2K
 - **最后更新**：2023-05-21
 - **GitHub**：[piriwata/pubScale](https://github.com/piriwata/pubScale)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 247
 updated: 1733218574000
 repo: vrtmrz/usher
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1733218574000"
   repo="vrtmrz/usher"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ The overridden config directory manager
 - **下载量**：247
 - **最后更新**：2024-12-03
 - **GitHub**：[vrtmrz/usher](https://github.com/vrtmrz/usher)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

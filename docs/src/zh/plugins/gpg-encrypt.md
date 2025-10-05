@@ -6,7 +6,7 @@ downloads: 2239
 updated: 1724634136000
 repo: lajg-dev/Obsidian-Plugin-GPG-Inline-Encrypt
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1724634136000"
   repo="lajg-dev/Obsidian-Plugin-GPG-Inline-Encrypt"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Encrypt partial text or complete notes using GPG technology, it is compatible wi
 - **下载量**：2.2K
 - **最后更新**：2024-08-26
 - **GitHub**：[lajg-dev/Obsidian-Plugin-GPG-Inline-Encrypt](https://github.com/lajg-dev/Obsidian-Plugin-GPG-Inline-Encrypt)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

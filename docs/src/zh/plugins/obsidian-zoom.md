@@ -1,12 +1,12 @@
 ---
 title: Zoom
-description: Zoom into heading and lists.
+description: 缩放到标题和列表。
 author: Viacheslav Slinko
-downloads: 102141
+downloads: 102163
 updated: 1683188716000
 repo: vslinko/obsidian-zoom
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-zoom"
   name="Zoom"
-  description="Zoom into heading and lists."
+  description="缩放到标题和列表。"
   author="Viacheslav Slinko"
-  :downloads="102141"
+  :downloads="102163"
   :updated="1683188716000"
   repo="vslinko/obsidian-zoom"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Zoom 是一个功能强大的 Obsidian 插件。
 
-Zoom into heading and lists.
+缩放到标题和列表。
 
 通过 Zoom,您可以:
 
@@ -199,10 +199,10 @@ Zoom into heading and lists.
 - **插件 ID**：obsidian-zoom
 - **作者**：Viacheslav Slinko
 - **当前版本**：v1.0.0
-- **下载量**：102.1K
+- **下载量**：102.2K
 - **最后更新**：2023-05-04
 - **GitHub**：[vslinko/obsidian-zoom](https://github.com/vslinko/obsidian-zoom)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

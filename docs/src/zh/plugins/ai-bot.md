@@ -2,11 +2,11 @@
 title: AI bot
 description: Polish, summarize, translate, analyze, and interpret code using AI
 author: kuzzh
-downloads: 1498
+downloads: 1500
 updated: 1731729539000
 repo: kuzzh/obsidian-ai-bot
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="AI bot"
   description="Polish, summarize, translate, analyze, and interpret code using AI"
   author="kuzzh"
-  :downloads="1498"
+  :downloads="1500"
   :updated="1731729539000"
   repo="kuzzh/obsidian-ai-bot"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Polish, summarize, translate, analyze, and interpret code using AI
 - **下载量**：1.5K
 - **最后更新**：2024-11-16
 - **GitHub**：[kuzzh/obsidian-ai-bot](https://github.com/kuzzh/obsidian-ai-bot)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

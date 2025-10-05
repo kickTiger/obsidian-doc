@@ -6,7 +6,7 @@ downloads: 115
 updated: 1743958353000
 repo: tristone13th/obsidian-title-only-tab
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1743958353000"
   repo="tristone13th/obsidian-title-only-tab"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Set tab name to title in frontmatter for Jekyll users
 - **下载量**：115
 - **最后更新**：2025-04-07
 - **GitHub**：[tristone13th/obsidian-title-only-tab](https://github.com/tristone13th/obsidian-title-only-tab)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

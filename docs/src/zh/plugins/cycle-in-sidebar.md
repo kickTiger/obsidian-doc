@@ -1,12 +1,12 @@
 ---
 title: Cycle In Sidebar
-description: Hotkeys to cycle through tabs in the left or right sidebars.
+description: 热键可循环浏览左侧或右侧边栏的标签页。
 author: Houcheng
-downloads: 5472
+downloads: 5474
 updated: 1733374124000
 repo: houcheng/obsidian-cycle-in-sidebar-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cycle-in-sidebar"
   name="Cycle In Sidebar"
-  description="Hotkeys to cycle through tabs in the left or right sidebars."
+  description="热键可循环浏览左侧或右侧边栏的标签页。"
   author="Houcheng"
-  :downloads="5472"
+  :downloads="5474"
   :updated="1733374124000"
   repo="houcheng/obsidian-cycle-in-sidebar-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Cycle In Sidebar 是一个功能强大的 Obsidian 插件。
 
-Hotkeys to cycle through tabs in the left or right sidebars.
+热键可循环浏览左侧或右侧边栏的标签页。
 
 通过 Cycle In Sidebar,您可以:
 
@@ -202,7 +202,7 @@ Hotkeys to cycle through tabs in the left or right sidebars.
 - **下载量**：5.5K
 - **最后更新**：2024-12-05
 - **GitHub**：[houcheng/obsidian-cycle-in-sidebar-plugin](https://github.com/houcheng/obsidian-cycle-in-sidebar-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

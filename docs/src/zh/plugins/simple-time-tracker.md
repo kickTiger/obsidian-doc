@@ -1,12 +1,12 @@
 ---
 title: Super Simple Time Tracker
-description: Multi-purpose time trackers for your notes.
+description: 为您的笔记提供多用途时间追踪器。
 author: Ellpeck
-downloads: 30793
+downloads: 30810
 updated: 1748342795000
 repo: Ellpeck/ObsidianSimpleTimeTracker
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="simple-time-tracker"
   name="Super Simple Time Tracker"
-  description="Multi-purpose time trackers for your notes."
+  description="为您的笔记提供多用途时间追踪器。"
   author="Ellpeck"
-  :downloads="30793"
+  :downloads="30810"
   :updated="1748342795000"
   repo="Ellpeck/ObsidianSimpleTimeTracker"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Super Simple Time Tracker 是一个功能强大的 Obsidian 插件。
 
-Multi-purpose time trackers for your notes.
+为您的笔记提供多用途时间追踪器。
 
 通过 Super Simple Time Tracker,您可以:
 
@@ -202,7 +202,7 @@ Multi-purpose time trackers for your notes.
 - **下载量**：30.8K
 - **最后更新**：2025-05-27
 - **GitHub**：[Ellpeck/ObsidianSimpleTimeTracker](https://github.com/Ellpeck/ObsidianSimpleTimeTracker)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

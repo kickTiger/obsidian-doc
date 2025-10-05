@@ -2,11 +2,11 @@
 title: Open Editors
 description: Adds a view which shows the opened windows, groups, tabs and editors inside them. Makes managing the open editors easier.
 author: 4Source
-downloads: 505
+downloads: 506
 updated: 1740841971000
 repo: 4Source/open-editors-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Open Editors"
   description="Adds a view which shows the opened windows, groups, tabs and editors inside them. Makes managing the open editors easier."
   author="4Source"
-  :downloads="505"
+  :downloads="506"
   :updated="1740841971000"
   repo="4Source/open-editors-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Adds a view which shows the opened windows, groups, tabs and editors inside them
 - **插件 ID**：open-editors
 - **作者**：4Source
 - **当前版本**：v1.0.0
-- **下载量**：505
+- **下载量**：506
 - **最后更新**：2025-03-01
 - **GitHub**：[4Source/open-editors-obsidian-plugin](https://github.com/4Source/open-editors-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Card View Mode
-description: Enable to view your notes as cards.
+description: 启用以卡片形式查看笔记。
 author: PADAone
-downloads: 18399
+downloads: 18403
 updated: 1633191933000
 repo: yo-goto/obsidian-card-view-mode
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-card-view-mode"
   name="Card View Mode"
-  description="Enable to view your notes as cards."
+  description="启用以卡片形式查看笔记。"
   author="PADAone"
-  :downloads="18399"
+  :downloads="18403"
   :updated="1633191933000"
   repo="yo-goto/obsidian-card-view-mode"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Card View Mode 是一个功能强大的 Obsidian 插件。
 
-Enable to view your notes as cards.
+启用以卡片形式查看笔记。
 
 通过 Card View Mode,您可以:
 
@@ -202,7 +202,7 @@ Enable to view your notes as cards.
 - **下载量**：18.4K
 - **最后更新**：2021-10-03
 - **GitHub**：[yo-goto/obsidian-card-view-mode](https://github.com/yo-goto/obsidian-card-view-mode)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

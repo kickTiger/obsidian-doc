@@ -6,7 +6,7 @@ downloads: 350
 updated: 1716946227000
 repo: nancyel/header-counter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1716946227000"
   repo="nancyel/header-counter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Count the number of headers in the current note.
 - **下载量**：350
 - **最后更新**：2024-05-29
 - **GitHub**：[nancyel/header-counter](https://github.com/nancyel/header-counter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

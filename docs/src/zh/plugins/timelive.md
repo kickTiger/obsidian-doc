@@ -2,11 +2,11 @@
 title: Timelive
 description: Turn a list of dates into a timeline.
 author: aNNiMON
-downloads: 539
+downloads: 540
 updated: 1752326718000
 repo: aNNiMON/obsidian-timelive
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Timelive"
   description="Turn a list of dates into a timeline."
   author="aNNiMON"
-  :downloads="539"
+  :downloads="540"
   :updated="1752326718000"
   repo="aNNiMON/obsidian-timelive"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Turn a list of dates into a timeline.
 - **插件 ID**：timelive
 - **作者**：aNNiMON
 - **当前版本**：v1.0.0
-- **下载量**：539
+- **下载量**：540
 - **最后更新**：2025-07-12
 - **GitHub**：[aNNiMON/obsidian-timelive](https://github.com/aNNiMON/obsidian-timelive)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

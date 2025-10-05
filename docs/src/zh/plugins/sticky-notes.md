@@ -2,11 +2,11 @@
 title: Sticky Notes
 description: Create sticky notes popups.
 author: NoPoint
-downloads: 3412
+downloads: 3420
 updated: 1749554890000
 repo: Abdo-reda/obsidian-sticky-notes-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Sticky Notes"
   description="Create sticky notes popups."
   author="NoPoint"
-  :downloads="3412"
+  :downloads="3420"
   :updated="1749554890000"
   repo="Abdo-reda/obsidian-sticky-notes-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create sticky notes popups.
 - **下载量**：3.4K
 - **最后更新**：2025-06-10
 - **GitHub**：[Abdo-reda/obsidian-sticky-notes-plugin](https://github.com/Abdo-reda/obsidian-sticky-notes-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

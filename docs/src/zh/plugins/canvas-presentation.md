@@ -1,12 +1,12 @@
 ---
 title: Canvas Presentation
-description: Display cards based on sequence.
+description: 根据顺序显示卡片。
 author: Boninall
-downloads: 15437
+downloads: 15453
 updated: 1680059036000
 repo: Quorafind/Obsidian-Canvas-Presentation
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="canvas-presentation"
   name="Canvas Presentation"
-  description="Display cards based on sequence."
+  description="根据顺序显示卡片。"
   author="Boninall"
-  :downloads="15437"
+  :downloads="15453"
   :updated="1680059036000"
   repo="Quorafind/Obsidian-Canvas-Presentation"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas Presentation 是一个功能强大的 Obsidian 插件。
 
-Display cards based on sequence.
+根据顺序显示卡片。
 
 通过 Canvas Presentation,您可以:
 
@@ -199,10 +199,10 @@ Display cards based on sequence.
 - **插件 ID**：canvas-presentation
 - **作者**：Boninall
 - **当前版本**：v1.0.0
-- **下载量**：15.4K
+- **下载量**：15.5K
 - **最后更新**：2023-03-29
 - **GitHub**：[Quorafind/Obsidian-Canvas-Presentation](https://github.com/Quorafind/Obsidian-Canvas-Presentation)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

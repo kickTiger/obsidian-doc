@@ -1,12 +1,12 @@
 ---
 title: Frontmatter Tag Suggest
-description: Autocomplete tags in the frontmatter tags field.
+description: 在 frontmatter 标记字段中自动完成标记。
 author: Jonathan Miller
-downloads: 25516
+downloads: 25523
 updated: 1649273521000
 repo: jmilldotdev/obsidian-frontmatter-tag-suggest
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-frontmatter-tag-suggest"
   name="Frontmatter Tag Suggest"
-  description="Autocomplete tags in the frontmatter tags field."
+  description="在 frontmatter 标记字段中自动完成标记。"
   author="Jonathan Miller"
-  :downloads="25516"
+  :downloads="25523"
   :updated="1649273521000"
   repo="jmilldotdev/obsidian-frontmatter-tag-suggest"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Frontmatter Tag Suggest 是一个功能强大的 Obsidian 插件。
 
-Autocomplete tags in the frontmatter tags field.
+在 frontmatter 标记字段中自动完成标记。
 
 通过 Frontmatter Tag Suggest,您可以:
 
@@ -202,7 +202,7 @@ Autocomplete tags in the frontmatter tags field.
 - **下载量**：25.5K
 - **最后更新**：2022-04-07
 - **GitHub**：[jmilldotdev/obsidian-frontmatter-tag-suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

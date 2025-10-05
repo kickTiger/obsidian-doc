@@ -1,12 +1,12 @@
 ---
 title: Auto Tag
-description: Easily generate relevant tags for your notes or selected text.
+description: 轻松为笔记或选定文本生成相关标签。
 author: Control Alt
-downloads: 7912
+downloads: 7914
 updated: 1700423435000
 repo: CtrlAltFocus/obsidian-plugin-auto-tag
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-tag"
   name="Auto Tag"
-  description="Easily generate relevant tags for your notes or selected text."
+  description="轻松为笔记或选定文本生成相关标签。"
   author="Control Alt"
-  :downloads="7912"
+  :downloads="7914"
   :updated="1700423435000"
   repo="CtrlAltFocus/obsidian-plugin-auto-tag"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Tag 是一个功能强大的 Obsidian 插件。
 
-Easily generate relevant tags for your notes or selected text.
+轻松为笔记或选定文本生成相关标签。
 
 通过 Auto Tag,您可以:
 
@@ -202,7 +202,7 @@ Easily generate relevant tags for your notes or selected text.
 - **下载量**：7.9K
 - **最后更新**：2023-11-20
 - **GitHub**：[CtrlAltFocus/obsidian-plugin-auto-tag](https://github.com/CtrlAltFocus/obsidian-plugin-auto-tag)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

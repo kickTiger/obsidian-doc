@@ -1,12 +1,12 @@
 ---
 title: Infio Copilot
-description: A Cursor-inspired AI assistant for notes that offers smart autocomplete and interactive chat with your selected notes
+description: 受光标启发的笔记 AI 助手，可提供智能自动补全功能，并可与所选笔记进行互动聊天
 author: duanfuxiang0
-downloads: 15638
+downloads: 15689
 updated: 1758894204000
 repo: infiolab/infio-copilot
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="infio-copilot"
   name="Infio Copilot"
-  description="A Cursor-inspired AI assistant for notes that offers smart autocomplete and interactive chat with your selected notes"
+  description="受光标启发的笔记 AI 助手，可提供智能自动补全功能，并可与所选笔记进行互动聊天"
   author="duanfuxiang0"
-  :downloads="15638"
+  :downloads="15689"
   :updated="1758894204000"
   repo="infiolab/infio-copilot"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Infio Copilot 是一个功能强大的 Obsidian 插件。
 
-A Cursor-inspired AI assistant for notes that offers smart autocomplete and interactive chat with your selected notes
+受光标启发的笔记 AI 助手，可提供智能自动补全功能，并可与所选笔记进行互动聊天
 
 通过 Infio Copilot,您可以:
 
@@ -199,10 +199,10 @@ A Cursor-inspired AI assistant for notes that offers smart autocomplete and inte
 - **插件 ID**：infio-copilot
 - **作者**：duanfuxiang0
 - **当前版本**：v1.0.0
-- **下载量**：15.6K
+- **下载量**：15.7K
 - **最后更新**：2025-09-26
 - **GitHub**：[infiolab/infio-copilot](https://github.com/infiolab/infio-copilot)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

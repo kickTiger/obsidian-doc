@@ -2,11 +2,11 @@
 title: Tokenz
 description: 'Insert any type of short codes into your document. You can add smileys (:), ;), ...) or emojis (:smile:, :wink:, ...). More code maps will be added later. Even you, as a user can create your own.'
 author: Ferenc Moricz
-downloads: 656
+downloads: 657
 updated: 1737329725000
 repo: ferenk/obsidian-tokenz
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tokenz"
   description="Insert any type of short codes into your document. You can add smileys (:), ;), ...) or emojis (:smile:, :wink:, ...). More code maps will be added later. Even you, as a user can create your own."
   author="Ferenc Moricz"
-  :downloads="656"
+  :downloads="657"
   :updated="1737329725000"
   repo="ferenk/obsidian-tokenz"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Insert any type of short codes into your document. You can add smileys (:), ;), 
 - **插件 ID**：tokenz
 - **作者**：Ferenc Moricz
 - **当前版本**：v1.0.0
-- **下载量**：656
+- **下载量**：657
 - **最后更新**：2025-01-20
 - **GitHub**：[ferenk/obsidian-tokenz](https://github.com/ferenk/obsidian-tokenz)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

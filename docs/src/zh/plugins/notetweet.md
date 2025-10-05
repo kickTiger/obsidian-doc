@@ -1,12 +1,12 @@
 ---
 title: NoteTweet
-description: Post to Twitter.
+description: 发布到 Twitter。
 author: Christian B. B. Houmann
 downloads: 6639
 updated: 1748358548000
 repo: chhoumann/notetweet_obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="notetweet"
   name="NoteTweet"
-  description="Post to Twitter."
+  description="发布到 Twitter。"
   author="Christian B. B. Houmann"
   :downloads="6639"
   :updated="1748358548000"
   repo="chhoumann/notetweet_obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 NoteTweet 是一个功能强大的 Obsidian 插件。
 
-Post to Twitter.
+发布到 Twitter。
 
 通过 NoteTweet,您可以:
 
@@ -202,7 +202,7 @@ Post to Twitter.
 - **下载量**：6.6K
 - **最后更新**：2025-05-27
 - **GitHub**：[chhoumann/notetweet_obsidian](https://github.com/chhoumann/notetweet_obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

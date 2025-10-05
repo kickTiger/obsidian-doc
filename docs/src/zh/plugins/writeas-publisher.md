@@ -6,7 +6,7 @@ downloads: 3073
 updated: 1693759001000
 repo: encima/obsidian-writeas-plugin
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1693759001000"
   repo="encima/obsidian-writeas-plugin"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish notes to any write.as blogs you own.
 - **下载量**：3.1K
 - **最后更新**：2023-09-04
 - **GitHub**：[encima/obsidian-writeas-plugin](https://github.com/encima/obsidian-writeas-plugin)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Index Notes
 description: Keep your notes indexed based on their (hierarchical) tags
 author: Alejandro Daniel Noel
-downloads: 1906
+downloads: 1908
 updated: 1756910337000
 repo: adanielnoel/obsidian-index-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Index Notes"
   description="Keep your notes indexed based on their (hierarchical) tags"
   author="Alejandro Daniel Noel"
-  :downloads="1906"
+  :downloads="1908"
   :updated="1756910337000"
   repo="adanielnoel/obsidian-index-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Keep your notes indexed based on their (hierarchical) tags
 - **下载量**：1.9K
 - **最后更新**：2025-09-03
 - **GitHub**：[adanielnoel/obsidian-index-notes](https://github.com/adanielnoel/obsidian-index-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

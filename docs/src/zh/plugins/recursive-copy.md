@@ -2,11 +2,11 @@
 title: Recursive Copy
 description: Recursively copies all Markdown files in a folder, concatenates them, and copies them into the clipboard.
 author: datawitch
-downloads: 499
+downloads: 501
 updated: 1721188519000
 repo: StructByLightning/obsidian-recursive-copy
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Recursive Copy"
   description="Recursively copies all Markdown files in a folder, concatenates them, and copies them into the clipboard."
   author="datawitch"
-  :downloads="499"
+  :downloads="501"
   :updated="1721188519000"
   repo="StructByLightning/obsidian-recursive-copy"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Recursively copies all Markdown files in a folder, concatenates them, and copies
 - **插件 ID**：recursive-copy
 - **作者**：datawitch
 - **当前版本**：v1.0.0
-- **下载量**：499
+- **下载量**：501
 - **最后更新**：2024-07-17
 - **GitHub**：[StructByLightning/obsidian-recursive-copy](https://github.com/StructByLightning/obsidian-recursive-copy)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

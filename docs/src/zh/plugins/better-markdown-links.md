@@ -1,12 +1,12 @@
 ---
 title: Better Markdown Links
-description: Adds support for angle bracket links and manages relative links properly
+description: 新增对角括号链接的支持，并正确管理相对链接
 author: mnaoumov
-downloads: 8173
+downloads: 8203
 updated: 1759378946000
 repo: mnaoumov/obsidian-better-markdown-links
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="better-markdown-links"
   name="Better Markdown Links"
-  description="Adds support for angle bracket links and manages relative links properly"
+  description="新增对角括号链接的支持，并正确管理相对链接"
   author="mnaoumov"
-  :downloads="8173"
+  :downloads="8203"
   :updated="1759378946000"
   repo="mnaoumov/obsidian-better-markdown-links"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better Markdown Links 是一个功能强大的 Obsidian 插件。
 
-Adds support for angle bracket links and manages relative links properly
+新增对角括号链接的支持，并正确管理相对链接
 
 通过 Better Markdown Links,您可以:
 
@@ -202,7 +202,7 @@ Adds support for angle bracket links and manages relative links properly
 - **下载量**：8.2K
 - **最后更新**：2025-10-02
 - **GitHub**：[mnaoumov/obsidian-better-markdown-links](https://github.com/mnaoumov/obsidian-better-markdown-links)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

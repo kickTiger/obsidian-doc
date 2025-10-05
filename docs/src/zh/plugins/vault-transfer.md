@@ -1,12 +1,12 @@
 ---
 title: Vault Transfer
-description: Transfers a note from one vault to another.
+description: 将纸条从一个保管库转移到另一个保管库。
 author: ImaginaryProgramming
-downloads: 4719
+downloads: 4734
 updated: 1737240219000
 repo: ImaginaryProgramming/obsidian-vault-transfer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vault-transfer"
   name="Vault Transfer"
-  description="Transfers a note from one vault to another."
+  description="将纸条从一个保管库转移到另一个保管库。"
   author="ImaginaryProgramming"
-  :downloads="4719"
+  :downloads="4734"
   :updated="1737240219000"
   repo="ImaginaryProgramming/obsidian-vault-transfer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vault Transfer 是一个功能强大的 Obsidian 插件。
 
-Transfers a note from one vault to another.
+将纸条从一个保管库转移到另一个保管库。
 
 通过 Vault Transfer,您可以:
 
@@ -202,7 +202,7 @@ Transfers a note from one vault to another.
 - **下载量**：4.7K
 - **最后更新**：2025-01-19
 - **GitHub**：[ImaginaryProgramming/obsidian-vault-transfer](https://github.com/ImaginaryProgramming/obsidian-vault-transfer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Frontmatter Markdown Links
-description: Adds support for markdown links in frontmatter.
+description: 在 frontmatter 中添加对 markdown 链接的支持。
 author: mnaoumov
-downloads: 6699
+downloads: 6738
 updated: 1759385047000
 repo: mnaoumov/obsidian-frontmatter-markdown-links
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="frontmatter-markdown-links"
   name="Frontmatter Markdown Links"
-  description="Adds support for markdown links in frontmatter."
+  description="在 frontmatter 中添加对 markdown 链接的支持。"
   author="mnaoumov"
-  :downloads="6699"
+  :downloads="6738"
   :updated="1759385047000"
   repo="mnaoumov/obsidian-frontmatter-markdown-links"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Frontmatter Markdown Links 是一个功能强大的 Obsidian 插件。
 
-Adds support for markdown links in frontmatter.
+在 frontmatter 中添加对 markdown 链接的支持。
 
 通过 Frontmatter Markdown Links,您可以:
 
@@ -202,7 +202,7 @@ Adds support for markdown links in frontmatter.
 - **下载量**：6.7K
 - **最后更新**：2025-10-02
 - **GitHub**：[mnaoumov/obsidian-frontmatter-markdown-links](https://github.com/mnaoumov/obsidian-frontmatter-markdown-links)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

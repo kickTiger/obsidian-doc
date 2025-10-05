@@ -2,11 +2,11 @@
 title: LiteCite
 description: Creates citation notes from a BibTeX / BibLaTeX file
 author: ras0q
-downloads: 245
+downloads: 248
 updated: 1756805878000
 repo: ras0q/obsidian-litecite
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="LiteCite"
   description="Creates citation notes from a BibTeX / BibLaTeX file"
   author="ras0q"
-  :downloads="245"
+  :downloads="248"
   :updated="1756805878000"
   repo="ras0q/obsidian-litecite"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Creates citation notes from a BibTeX / BibLaTeX file
 - **插件 ID**：litecite
 - **作者**：ras0q
 - **当前版本**：v1.0.0
-- **下载量**：245
+- **下载量**：248
 - **最后更新**：2025-09-02
 - **GitHub**：[ras0q/obsidian-litecite](https://github.com/ras0q/obsidian-litecite)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 621
 updated: 1724005258000
 repo: Heiss/obsidian-vikunja-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1724005258000"
   repo="Heiss/obsidian-vikunja-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Synchronizes tasks to Vikunja.
 - **下载量**：621
 - **最后更新**：2024-08-19
 - **GitHub**：[Heiss/obsidian-vikunja-plugin](https://github.com/Heiss/obsidian-vikunja-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

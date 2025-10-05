@@ -1,12 +1,12 @@
 ---
 title: Markdown Attributes
-description: Add Markdown attributes to elements.
+description: 为元素添加 Markdown 属性
 author: Jeremy Valentine
-downloads: 19537
+downloads: 19551
 updated: 1666383386000
 repo: javalent/markdown-attributes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="markdown-attributes"
   name="Markdown Attributes"
-  description="Add Markdown attributes to elements."
+  description="为元素添加 Markdown 属性"
   author="Jeremy Valentine"
-  :downloads="19537"
+  :downloads="19551"
   :updated="1666383386000"
   repo="javalent/markdown-attributes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown Attributes 是一个功能强大的 Obsidian 插件。
 
-Add Markdown attributes to elements.
+为元素添加 Markdown 属性
 
 通过 Markdown Attributes,您可以:
 
@@ -199,10 +199,10 @@ Add Markdown attributes to elements.
 - **插件 ID**：markdown-attributes
 - **作者**：Jeremy Valentine
 - **当前版本**：v1.0.0
-- **下载量**：19.5K
+- **下载量**：19.6K
 - **最后更新**：2022-10-22
 - **GitHub**：[javalent/markdown-attributes](https://github.com/javalent/markdown-attributes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

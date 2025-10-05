@@ -6,7 +6,7 @@ downloads: 954
 updated: 1719371571000
 repo: patrickchiang/obsidian-headings-in-explorer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1719371571000"
   repo="patrickchiang/obsidian-headings-in-explorer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Show headings in the file explorer.
 - **下载量**：954
 - **最后更新**：2024-06-26
 - **GitHub**：[patrickchiang/obsidian-headings-in-explorer](https://github.com/patrickchiang/obsidian-headings-in-explorer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

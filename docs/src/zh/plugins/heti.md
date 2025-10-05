@@ -2,11 +2,11 @@
 title: heti
 description: 专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以带来更好的阅读体验。
 author: Moeyua
-downloads: 2152
+downloads: 2154
 updated: 1715407536000
 repo: moeyua/obsidian-heti
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="heti"
   description="专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以带来更好的阅读体验。"
   author="Moeyua"
-  :downloads="2152"
+  :downloads="2154"
   :updated="1715407536000"
   repo="moeyua/obsidian-heti"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ heti 是一个功能强大的 Obsidian 插件。
 - **下载量**：2.2K
 - **最后更新**：2024-05-11
 - **GitHub**：[moeyua/obsidian-heti](https://github.com/moeyua/obsidian-heti)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

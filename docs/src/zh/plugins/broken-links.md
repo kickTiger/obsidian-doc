@@ -1,12 +1,12 @@
 ---
 title: Broken Links
-description: 'Find broken links in your vault that don''t connect to notes.'
+description: 查找保险库中无法连接到笔记的断开链接。
 author: ipshing
-downloads: 3910
+downloads: 3914
 updated: 1708574787000
 repo: ipshing/obsidian-broken-links
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="broken-links"
   name="Broken Links"
-  description="Find broken links in your vault that don&#39;t connect to notes."
+  description="查找保险库中无法连接到笔记的断开链接。"
   author="ipshing"
-  :downloads="3910"
+  :downloads="3914"
   :updated="1708574787000"
   repo="ipshing/obsidian-broken-links"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Broken Links 是一个功能强大的 Obsidian 插件。
 
-Find broken links in your vault that don&#39;t connect to notes.
+查找保险库中无法连接到笔记的断开链接。
 
 通过 Broken Links,您可以:
 
@@ -202,7 +202,7 @@ Find broken links in your vault that don&#39;t connect to notes.
 - **下载量**：3.9K
 - **最后更新**：2024-02-22
 - **GitHub**：[ipshing/obsidian-broken-links](https://github.com/ipshing/obsidian-broken-links)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

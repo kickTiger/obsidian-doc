@@ -2,11 +2,11 @@
 title: JuliaPlots
 description: Plot a function graph inside of your notes using Julia.
 author: Iván Mansilla
-downloads: 420
+downloads: 422
 updated: 1758714556000
 repo: ivnmansi/juliaplots
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="JuliaPlots"
   description="Plot a function graph inside of your notes using Julia."
   author="Iván Mansilla"
-  :downloads="420"
+  :downloads="422"
   :updated="1758714556000"
   repo="ivnmansi/juliaplots"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Plot a function graph inside of your notes using Julia.
 - **插件 ID**：juliaplots
 - **作者**：Iván Mansilla
 - **当前版本**：v1.0.0
-- **下载量**：420
+- **下载量**：422
 - **最后更新**：2025-09-24
 - **GitHub**：[ivnmansi/juliaplots](https://github.com/ivnmansi/juliaplots)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Graph Analysis
-description: Find hidden connections between notes in your vault using cool graph algorithms.
+description: 使用超酷的图表算法，查找资料库中笔记之间的隐藏联系。
 author: 'SkepticMystic & Emile'
-downloads: 59273
+downloads: 59320
 updated: 1643607293000
 repo: SkepticMystic/graph-analysis
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="graph-analysis"
   name="Graph Analysis"
-  description="Find hidden connections between notes in your vault using cool graph algorithms."
+  description="使用超酷的图表算法，查找资料库中笔记之间的隐藏联系。"
   author="SkepticMystic &amp; Emile"
-  :downloads="59273"
+  :downloads="59320"
   :updated="1643607293000"
   repo="SkepticMystic/graph-analysis"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Graph Analysis 是一个功能强大的 Obsidian 插件。
 
-Find hidden connections between notes in your vault using cool graph algorithms.
+使用超酷的图表算法，查找资料库中笔记之间的隐藏联系。
 
 通过 Graph Analysis,您可以:
 
@@ -202,7 +202,7 @@ Find hidden connections between notes in your vault using cool graph algorithms.
 - **下载量**：59.3K
 - **最后更新**：2022-01-31
 - **GitHub**：[SkepticMystic/graph-analysis](https://github.com/SkepticMystic/graph-analysis)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

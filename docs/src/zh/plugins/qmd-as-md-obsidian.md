@@ -1,12 +1,12 @@
 ---
 title: qmd as md
-description: View files with .qmd extension. QMD files contain a combination of Markdown and executable code cells and are a format supported by Quarto open source publishing system.
+description: 查看扩展名为 .qmd 的文件。QMD 文件包含 Markdown 和可执行代码单元的组合，是 Quarto 开源出版系统支持的一种格式。
 author: Daniel Borek
-downloads: 6953
+downloads: 6959
 updated: 1735852248000
 repo: danieltomasz/qmd-as-md-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="qmd-as-md-obsidian"
   name="qmd as md"
-  description="View files with .qmd extension. QMD files contain a combination of Markdown and executable code cells and are a format supported by Quarto open source publishing system."
+  description="查看扩展名为 .qmd 的文件。QMD 文件包含 Markdown 和可执行代码单元的组合，是 Quarto 开源出版系统支持的一种格式。"
   author="Daniel Borek"
-  :downloads="6953"
+  :downloads="6959"
   :updated="1735852248000"
   repo="danieltomasz/qmd-as-md-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 qmd as md 是一个功能强大的 Obsidian 插件。
 
-View files with .qmd extension. QMD files contain a combination of Markdown and executable code cells and are a format supported by Quarto open source publishing system.
+查看扩展名为 .qmd 的文件。QMD 文件包含 Markdown 和可执行代码单元的组合，是 Quarto 开源出版系统支持的一种格式。
 
 通过 qmd as md,您可以:
 
@@ -202,7 +202,7 @@ View files with .qmd extension. QMD files contain a combination of Markdown and 
 - **下载量**：7.0K
 - **最后更新**：2025-01-03
 - **GitHub**：[danieltomasz/qmd-as-md-obsidian](https://github.com/danieltomasz/qmd-as-md-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

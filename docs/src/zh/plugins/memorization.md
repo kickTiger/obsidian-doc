@@ -1,12 +1,12 @@
 ---
 title: Memorization
-description: Generate study index notes using a spaced repetition algorithm (SM-2).
+description: 使用间隔重复算法（SM-2）生成学习索引笔记。
 author: Joseph Cochran
-downloads: 4580
+downloads: 4582
 updated: 1687451082000
 repo: nwindian/Memorization-Plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="memorization"
   name="Memorization"
-  description="Generate study index notes using a spaced repetition algorithm (SM-2)."
+  description="使用间隔重复算法（SM-2）生成学习索引笔记。"
   author="Joseph Cochran"
-  :downloads="4580"
+  :downloads="4582"
   :updated="1687451082000"
   repo="nwindian/Memorization-Plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Memorization 是一个功能强大的 Obsidian 插件。
 
-Generate study index notes using a spaced repetition algorithm (SM-2).
+使用间隔重复算法（SM-2）生成学习索引笔记。
 
 通过 Memorization,您可以:
 
@@ -202,7 +202,7 @@ Generate study index notes using a spaced repetition algorithm (SM-2).
 - **下载量**：4.6K
 - **最后更新**：2023-06-23
 - **GitHub**：[nwindian/Memorization-Plugin](https://github.com/nwindian/Memorization-Plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

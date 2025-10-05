@@ -6,7 +6,7 @@ downloads: 3149
 updated: 1700530382000
 repo: HananoshikaYomaru/obsidian-run
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1700530382000"
   repo="HananoshikaYomaru/obsidian-run"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate Markdown from dataview query and JavaScript.
 - **下载量**：3.1K
 - **最后更新**：2023-11-21
 - **GitHub**：[HananoshikaYomaru/obsidian-run](https://github.com/HananoshikaYomaru/obsidian-run)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

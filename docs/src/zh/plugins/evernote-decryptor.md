@@ -2,11 +2,11 @@
 title: Evernote Decryptor
 description: Manage encrypted data imported from Evernote.
 author: rcmdnk
-downloads: 1968
+downloads: 1969
 updated: 1740348564000
 repo: rcmdnk/obsidian-evernote-decryptor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Evernote Decryptor"
   description="Manage encrypted data imported from Evernote."
   author="rcmdnk"
-  :downloads="1968"
+  :downloads="1969"
   :updated="1740348564000"
   repo="rcmdnk/obsidian-evernote-decryptor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manage encrypted data imported from Evernote.
 - **下载量**：2.0K
 - **最后更新**：2025-02-24
 - **GitHub**：[rcmdnk/obsidian-evernote-decryptor](https://github.com/rcmdnk/obsidian-evernote-decryptor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

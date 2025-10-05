@@ -6,7 +6,7 @@ downloads: 3546
 updated: 1725108268000
 repo: joleaf/obsidian-dmn-eval-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1725108268000"
   repo="joleaf/obsidian-dmn-eval-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enable evaluating/executing DMNs.
 - **下载量**：3.5K
 - **最后更新**：2024-08-31
 - **GitHub**：[joleaf/obsidian-dmn-eval-plugin](https://github.com/joleaf/obsidian-dmn-eval-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

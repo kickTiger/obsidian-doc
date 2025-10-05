@@ -2,11 +2,11 @@
 title: Papyrus
 description: The most amazing documentation assistant
 author: André Silva, Daniel Guerra, Diogo Ferreira, Eduardo Barrancos
-downloads: 263
+downloads: 264
 updated: 1757785592000
 repo: Papyrus-doc-ai/papyrus-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Papyrus"
   description="The most amazing documentation assistant"
   author="André Silva, Daniel Guerra, Diogo Ferreira, Eduardo Barrancos"
-  :downloads="263"
+  :downloads="264"
   :updated="1757785592000"
   repo="Papyrus-doc-ai/papyrus-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ The most amazing documentation assistant
 - **插件 ID**：papyrus
 - **作者**：André Silva, Daniel Guerra, Diogo Ferreira, Eduardo Barrancos
 - **当前版本**：v1.0.0
-- **下载量**：263
+- **下载量**：264
 - **最后更新**：2025-09-14
 - **GitHub**：[Papyrus-doc-ai/papyrus-obsidian](https://github.com/Papyrus-doc-ai/papyrus-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

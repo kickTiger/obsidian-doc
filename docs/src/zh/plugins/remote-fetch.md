@@ -2,11 +2,11 @@
 title: Remote Fetch
 description: Download files from URLs directly into your vault with CORS proxy support.
 author: Shaharyar
-downloads: 113
+downloads: 117
 updated: 1755793680000
 repo: Shaharyar-developer/remote-fetch
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Remote Fetch"
   description="Download files from URLs directly into your vault with CORS proxy support."
   author="Shaharyar"
-  :downloads="113"
+  :downloads="117"
   :updated="1755793680000"
   repo="Shaharyar-developer/remote-fetch"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Download files from URLs directly into your vault with CORS proxy support.
 - **插件 ID**：remote-fetch
 - **作者**：Shaharyar
 - **当前版本**：v1.0.0
-- **下载量**：113
+- **下载量**：117
 - **最后更新**：2025-08-22
 - **GitHub**：[Shaharyar-developer/remote-fetch](https://github.com/Shaharyar-developer/remote-fetch)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

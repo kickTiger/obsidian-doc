@@ -1,12 +1,12 @@
 ---
 title: Theme Design Utilities
-description: Some utilities and quality-of-life features for designers of Obsidian themes.
+description: 为黑曜石主题设计者提供一些实用工具和生活质量功能。
 author: Chris Grieser (aka pseudometa)
-downloads: 17785
+downloads: 17791
 updated: 1736285344000
 repo: chrisgrieser/obsidian-theme-design-utilities
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-theme-design-utilities"
   name="Theme Design Utilities"
-  description="Some utilities and quality-of-life features for designers of Obsidian themes."
+  description="为黑曜石主题设计者提供一些实用工具和生活质量功能。"
   author="Chris Grieser (aka pseudometa)"
-  :downloads="17785"
+  :downloads="17791"
   :updated="1736285344000"
   repo="chrisgrieser/obsidian-theme-design-utilities"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Theme Design Utilities 是一个功能强大的 Obsidian 插件。
 
-Some utilities and quality-of-life features for designers of Obsidian themes.
+为黑曜石主题设计者提供一些实用工具和生活质量功能。
 
 通过 Theme Design Utilities,您可以:
 
@@ -202,7 +202,7 @@ Some utilities and quality-of-life features for designers of Obsidian themes.
 - **下载量**：17.8K
 - **最后更新**：2025-01-08
 - **GitHub**：[chrisgrieser/obsidian-theme-design-utilities](https://github.com/chrisgrieser/obsidian-theme-design-utilities)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

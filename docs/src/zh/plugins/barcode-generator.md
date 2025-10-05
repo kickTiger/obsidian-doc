@@ -2,11 +2,11 @@
 title: Barcode Generator
 description: Generate customizable barcodes into your notes.
 author: noxonad
-downloads: 2820
+downloads: 2822
 updated: 1704646409000
 repo: noxonad/obsidian-barcode-generator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Barcode Generator"
   description="Generate customizable barcodes into your notes."
   author="noxonad"
-  :downloads="2820"
+  :downloads="2822"
   :updated="1704646409000"
   repo="noxonad/obsidian-barcode-generator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate customizable barcodes into your notes.
 - **下载量**：2.8K
 - **最后更新**：2024-01-08
 - **GitHub**：[noxonad/obsidian-barcode-generator](https://github.com/noxonad/obsidian-barcode-generator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

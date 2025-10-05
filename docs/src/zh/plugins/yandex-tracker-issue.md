@@ -2,11 +2,11 @@
 title: Yandex Tracker Issue
 description: Display Yandex Tracker issues in your notes
 author: Pavel Sokolov
-downloads: 41
+downloads: 42
 updated: 1757137706000
 repo: CubieProg/Obsidian-Yandex-Tracker-Issue
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Yandex Tracker Issue"
   description="Display Yandex Tracker issues in your notes"
   author="Pavel Sokolov"
-  :downloads="41"
+  :downloads="42"
   :updated="1757137706000"
   repo="CubieProg/Obsidian-Yandex-Tracker-Issue"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Display Yandex Tracker issues in your notes
 - **插件 ID**：yandex-tracker-issue
 - **作者**：Pavel Sokolov
 - **当前版本**：v1.0.0
-- **下载量**：41
+- **下载量**：42
 - **最后更新**：2025-09-06
 - **GitHub**：[CubieProg/Obsidian-Yandex-Tracker-Issue](https://github.com/CubieProg/Obsidian-Yandex-Tracker-Issue)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

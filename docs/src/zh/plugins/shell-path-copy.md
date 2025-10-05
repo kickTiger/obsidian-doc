@@ -2,11 +2,11 @@
 title: Shell Path Copy
 description: Quickly copy vault file and folder paths for AI coding tools (Claude Code, Gemini CLI) - works on desktop and mobile with Windows/Unix formats
 author: Charles Kelsoe (ckelsoe)
-downloads: 761
+downloads: 770
 updated: 1758030853000
 repo: ckelsoe/obsidian-shell-path-copy
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Shell Path Copy"
   description="Quickly copy vault file and folder paths for AI coding tools (Claude Code, Gemini CLI) - works on desktop and mobile with Windows/Unix formats"
   author="Charles Kelsoe (ckelsoe)"
-  :downloads="761"
+  :downloads="770"
   :updated="1758030853000"
   repo="ckelsoe/obsidian-shell-path-copy"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Quickly copy vault file and folder paths for AI coding tools (Claude Code, Gemin
 - **插件 ID**：shell-path-copy
 - **作者**：Charles Kelsoe (ckelsoe)
 - **当前版本**：v1.0.0
-- **下载量**：761
+- **下载量**：770
 - **最后更新**：2025-09-16
 - **GitHub**：[ckelsoe/obsidian-shell-path-copy](https://github.com/ckelsoe/obsidian-shell-path-copy)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

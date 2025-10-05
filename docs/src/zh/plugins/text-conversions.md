@@ -6,7 +6,7 @@ downloads: 3261
 updated: 1693951146000
 repo: ironsigma/obsidian-text-conversions
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1693951146000"
   repo="ironsigma/obsidian-text-conversions"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Perform various text conversions on the selected text.
 - **下载量**：3.3K
 - **最后更新**：2023-09-06
 - **GitHub**：[ironsigma/obsidian-text-conversions](https://github.com/ironsigma/obsidian-text-conversions)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

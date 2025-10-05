@@ -1,12 +1,12 @@
 ---
 title: Reading Time
-description: 'Add the current note''s reading time to the status bar.'
+description: 添加阅读时间到文件资源管理器。
 author: avr
-downloads: 92741
+downloads: 92792
 updated: 1725068071000
 repo: avr/obsidian-reading-time
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-reading-time"
   name="Reading Time"
-  description="Add the current note&#39;s reading time to the status bar."
+  description="添加阅读时间到文件资源管理器。"
   author="avr"
-  :downloads="92741"
+  :downloads="92792"
   :updated="1725068071000"
   repo="avr/obsidian-reading-time"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Reading Time 是一个功能强大的 Obsidian 插件。
 
-Add the current note&#39;s reading time to the status bar.
+添加阅读时间到文件资源管理器。
 
 通过 Reading Time,您可以:
 
@@ -199,10 +199,10 @@ Add the current note&#39;s reading time to the status bar.
 - **插件 ID**：obsidian-reading-time
 - **作者**：avr
 - **当前版本**：v1.0.0
-- **下载量**：92.7K
+- **下载量**：92.8K
 - **最后更新**：2024-08-31
 - **GitHub**：[avr/obsidian-reading-time](https://github.com/avr/obsidian-reading-time)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

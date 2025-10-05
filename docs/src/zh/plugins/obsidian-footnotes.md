@@ -1,12 +1,12 @@
 ---
 title: Footnote Shortcut
-description: 'Makes creating footnotes more fun!'
+description: 更轻松地处理脚注。
 author: Alexis Rondeau, Micha Brugger
-downloads: 132877
+downloads: 132947
 updated: 1692937209000
 repo: MichaBrugger/obsidian-footnotes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-footnotes"
   name="Footnote Shortcut"
-  description="Makes creating footnotes more fun!"
+  description="更轻松地处理脚注。"
   author="Alexis Rondeau, Micha Brugger"
-  :downloads="132877"
+  :downloads="132947"
   :updated="1692937209000"
   repo="MichaBrugger/obsidian-footnotes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Footnote Shortcut 是一个功能强大的 Obsidian 插件。
 
-Makes creating footnotes more fun!
+更轻松地处理脚注。
 
 通过 Footnote Shortcut,您可以:
 
@@ -202,7 +202,7 @@ Makes creating footnotes more fun!
 - **下载量**：132.9K
 - **最后更新**：2023-08-25
 - **GitHub**：[MichaBrugger/obsidian-footnotes](https://github.com/MichaBrugger/obsidian-footnotes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

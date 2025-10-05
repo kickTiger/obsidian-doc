@@ -1,12 +1,12 @@
 ---
 title: 'LaTeX-like Theorem & Equation Referencer'
-description: 'A powerful indexing & referencing system for theorems & equations in your vault. Bring LaTeX-like workflow into Obsidian with theorem environments, automatic equation numbering, and more.'
+description: 一个功能强大的索引和参考系统，用于为你的资料库中的定理和方程建立索引。通过定理环境、自动方程编号等功能，将类似 LaTeX 的工作流程引入 Obsidian。
 author: Ryota Ushio
-downloads: 27508
+downloads: 27554
 updated: 1702143014000
 repo: RyotaUshio/obsidian-latex-theorem-equation-referencer
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="math-booster"
   name="LaTeX-like Theorem &amp; Equation Referencer"
-  description="A powerful indexing &amp; referencing system for theorems &amp; equations in your vault. Bring LaTeX-like workflow into Obsidian with theorem environments, automatic equation numbering, and more."
+  description="一个功能强大的索引和参考系统，用于为你的资料库中的定理和方程建立索引。通过定理环境、自动方程编号等功能，将类似 LaTeX 的工作流程引入 Obsidian。"
   author="Ryota Ushio"
-  :downloads="27508"
+  :downloads="27554"
   :updated="1702143014000"
   repo="RyotaUshio/obsidian-latex-theorem-equation-referencer"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 LaTeX-like Theorem &amp; Equation Referencer 是一个功能强大的 Obsidian 插件。
 
-A powerful indexing &amp; referencing system for theorems &amp; equations in your vault. Bring LaTeX-like workflow into Obsidian with theorem environments, automatic equation numbering, and more.
+一个功能强大的索引和参考系统，用于为你的资料库中的定理和方程建立索引。通过定理环境、自动方程编号等功能，将类似 LaTeX 的工作流程引入 Obsidian。
 
 通过 LaTeX-like Theorem &amp; Equation Referencer,您可以:
 
@@ -199,10 +199,10 @@ A powerful indexing &amp; referencing system for theorems &amp; equations in you
 - **插件 ID**：math-booster
 - **作者**：Ryota Ushio
 - **当前版本**：v1.0.0
-- **下载量**：27.5K
+- **下载量**：27.6K
 - **最后更新**：2023-12-10
 - **GitHub**：[RyotaUshio/obsidian-latex-theorem-equation-referencer](https://github.com/RyotaUshio/obsidian-latex-theorem-equation-referencer)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

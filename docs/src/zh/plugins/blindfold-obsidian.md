@@ -1,12 +1,12 @@
 ---
 title: BlindFold
-description: Fold text by making it completely hidden.
+description: 折叠文字，使其完全隐藏。
 author: my99n
 downloads: 4938
 updated: 1705335513000
 repo: vzsky/blindfold-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="blindfold-obsidian"
   name="BlindFold"
-  description="Fold text by making it completely hidden."
+  description="折叠文字，使其完全隐藏。"
   author="my99n"
   :downloads="4938"
   :updated="1705335513000"
   repo="vzsky/blindfold-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 BlindFold 是一个功能强大的 Obsidian 插件。
 
-Fold text by making it completely hidden.
+折叠文字，使其完全隐藏。
 
 通过 BlindFold,您可以:
 
@@ -202,7 +202,7 @@ Fold text by making it completely hidden.
 - **下载量**：4.9K
 - **最后更新**：2024-01-16
 - **GitHub**：[vzsky/blindfold-obsidian](https://github.com/vzsky/blindfold-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

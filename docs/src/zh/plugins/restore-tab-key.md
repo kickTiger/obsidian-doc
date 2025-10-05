@@ -1,12 +1,12 @@
 ---
 title: Restore Tab Key
-description: 'Restore tab key behavior: tab key inserts a tab, the way it should be.'
+description: 恢复制表符键行为：制表符键按应有的方式插入制表符。
 author: jerrymk
-downloads: 12838
+downloads: 12872
 updated: 1742312575000
 repo: jrymk/restore-tab-key
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="restore-tab-key"
   name="Restore Tab Key"
-  description="Restore tab key behavior: tab key inserts a tab, the way it should be."
+  description="恢复制表符键行为：制表符键按应有的方式插入制表符。"
   author="jerrymk"
-  :downloads="12838"
+  :downloads="12872"
   :updated="1742312575000"
   repo="jrymk/restore-tab-key"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Restore Tab Key 是一个功能强大的 Obsidian 插件。
 
-Restore tab key behavior: tab key inserts a tab, the way it should be.
+恢复制表符键行为：制表符键按应有的方式插入制表符。
 
 通过 Restore Tab Key,您可以:
 
@@ -199,10 +199,10 @@ Restore tab key behavior: tab key inserts a tab, the way it should be.
 - **插件 ID**：restore-tab-key
 - **作者**：jerrymk
 - **当前版本**：v1.0.0
-- **下载量**：12.8K
+- **下载量**：12.9K
 - **最后更新**：2025-03-18
 - **GitHub**：[jrymk/restore-tab-key](https://github.com/jrymk/restore-tab-key)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

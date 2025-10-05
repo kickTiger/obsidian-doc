@@ -1,12 +1,12 @@
 ---
 title: Activity Logger
-description: Log your activities like creating notes, modifying notes, deleting notes and so on.
+description: 记录你的活动，如创建笔记、修改笔记、删除笔记等。
 author: Creling
 downloads: 5033
 updated: 1628259642000
 repo: Creling/obsidian-activity-logger
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-activity-logger"
   name="Activity Logger"
-  description="Log your activities like creating notes, modifying notes, deleting notes and so on."
+  description="记录你的活动，如创建笔记、修改笔记、删除笔记等。"
   author="Creling"
   :downloads="5033"
   :updated="1628259642000"
   repo="Creling/obsidian-activity-logger"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Activity Logger 是一个功能强大的 Obsidian 插件。
 
-Log your activities like creating notes, modifying notes, deleting notes and so on.
+记录你的活动，如创建笔记、修改笔记、删除笔记等。
 
 通过 Activity Logger,您可以:
 
@@ -202,7 +202,7 @@ Log your activities like creating notes, modifying notes, deleting notes and so 
 - **下载量**：5.0K
 - **最后更新**：2021-08-06
 - **GitHub**：[Creling/obsidian-activity-logger](https://github.com/Creling/obsidian-activity-logger)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

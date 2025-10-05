@@ -2,11 +2,11 @@
 title: Copy as source
 description: Select and copy source HTML in reading view.
 author: '@gapmiss'
-downloads: 1537
+downloads: 1538
 updated: 1746530904000
 repo: gapmiss/copy-as-source
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Copy as source"
   description="Select and copy source HTML in reading view."
   author="@gapmiss"
-  :downloads="1537"
+  :downloads="1538"
   :updated="1746530904000"
   repo="gapmiss/copy-as-source"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Select and copy source HTML in reading view.
 - **下载量**：1.5K
 - **最后更新**：2025-05-06
 - **GitHub**：[gapmiss/copy-as-source](https://github.com/gapmiss/copy-as-source)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

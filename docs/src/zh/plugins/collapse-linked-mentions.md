@@ -2,11 +2,11 @@
 title: Collapse Linked Mentions
 description: Automatically collapse embedded backlink mentions
 author: Nathan K.
-downloads: 497
+downloads: 498
 updated: 1726717997000
 repo: n810K/obsidian-collapse-linked-mentions
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Collapse Linked Mentions"
   description="Automatically collapse embedded backlink mentions"
   author="Nathan K."
-  :downloads="497"
+  :downloads="498"
   :updated="1726717997000"
   repo="n810K/obsidian-collapse-linked-mentions"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically collapse embedded backlink mentions
 - **插件 ID**：collapse-linked-mentions
 - **作者**：Nathan K.
 - **当前版本**：v1.0.0
-- **下载量**：497
+- **下载量**：498
 - **最后更新**：2024-09-19
 - **GitHub**：[n810K/obsidian-collapse-linked-mentions](https://github.com/n810K/obsidian-collapse-linked-mentions)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

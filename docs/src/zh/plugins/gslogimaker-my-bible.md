@@ -1,12 +1,12 @@
 ---
 title: My Bible
-description: 'Your own customizable markdown bible for your personal vault!'
+description: 为您的个人保险库量身定制的 Markdown 圣经！
 author: GsLogimaker
-downloads: 7055
+downloads: 7065
 updated: 1734471337000
 repo: GsLogiMaker/my-bible-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gslogimaker-my-bible"
   name="My Bible"
-  description="Your own customizable markdown bible for your personal vault!"
+  description="为您的个人保险库量身定制的 Markdown 圣经！"
   author="GsLogimaker"
-  :downloads="7055"
+  :downloads="7065"
   :updated="1734471337000"
   repo="GsLogiMaker/my-bible-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 My Bible 是一个功能强大的 Obsidian 插件。
 
-Your own customizable markdown bible for your personal vault!
+为您的个人保险库量身定制的 Markdown 圣经！
 
 通过 My Bible,您可以:
 
@@ -202,7 +202,7 @@ Your own customizable markdown bible for your personal vault!
 - **下载量**：7.1K
 - **最后更新**：2024-12-18
 - **GitHub**：[GsLogiMaker/my-bible-obsidian-plugin](https://github.com/GsLogiMaker/my-bible-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Hierarchical Backlinks
 description: Displays backlinks in a tree structure.
 author: Jason Motylinski
-downloads: 1211
+downloads: 1213
 updated: 1756166004000
 repo: jasonmotylinski/hierarchical-backlinks
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hierarchical Backlinks"
   description="Displays backlinks in a tree structure."
   author="Jason Motylinski"
-  :downloads="1211"
+  :downloads="1213"
   :updated="1756166004000"
   repo="jasonmotylinski/hierarchical-backlinks"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Displays backlinks in a tree structure.
 - **下载量**：1.2K
 - **最后更新**：2025-08-26
 - **GitHub**：[jasonmotylinski/hierarchical-backlinks](https://github.com/jasonmotylinski/hierarchical-backlinks)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

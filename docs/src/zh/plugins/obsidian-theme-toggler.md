@@ -1,12 +1,12 @@
 ---
 title: Theme Toggler
-description: Toggle light or dark mode separately for each tab.
+description: 分别切换每个标签页的明暗模式。
 author: larsmagnus
-downloads: 6161
+downloads: 6163
 updated: 1665806536000
 repo: larsmagnus/obsidian-theme-toggler
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-theme-toggler"
   name="Theme Toggler"
-  description="Toggle light or dark mode separately for each tab."
+  description="分别切换每个标签页的明暗模式。"
   author="larsmagnus"
-  :downloads="6161"
+  :downloads="6163"
   :updated="1665806536000"
   repo="larsmagnus/obsidian-theme-toggler"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Theme Toggler 是一个功能强大的 Obsidian 插件。
 
-Toggle light or dark mode separately for each tab.
+分别切换每个标签页的明暗模式。
 
 通过 Theme Toggler,您可以:
 
@@ -202,7 +202,7 @@ Toggle light or dark mode separately for each tab.
 - **下载量**：6.2K
 - **最后更新**：2022-10-15
 - **GitHub**：[larsmagnus/obsidian-theme-toggler](https://github.com/larsmagnus/obsidian-theme-toggler)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

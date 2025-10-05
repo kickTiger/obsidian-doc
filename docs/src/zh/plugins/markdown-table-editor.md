@@ -1,12 +1,12 @@
 ---
 title: Markdown Table Editor
-description: An editor for Markdown tables. Open CSV, Microsoft Excel/Google Sheets data as Markdown tables.
+description: Markdown 表格编辑器。以 Markdown 表格形式打开 CSV、Microsoft Excel/Google Sheets 数据。
 author: Ganessh Kumar R P
-downloads: 93138
+downloads: 93189
 updated: 1652522572000
 repo: ganesshkumar/obsidian-table-editor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="markdown-table-editor"
   name="Markdown Table Editor"
-  description="An editor for Markdown tables. Open CSV, Microsoft Excel/Google Sheets data as Markdown tables."
+  description="Markdown 表格编辑器。以 Markdown 表格形式打开 CSV、Microsoft Excel/Google Sheets 数据。"
   author="Ganessh Kumar R P"
-  :downloads="93138"
+  :downloads="93189"
   :updated="1652522572000"
   repo="ganesshkumar/obsidian-table-editor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown Table Editor 是一个功能强大的 Obsidian 插件。
 
-An editor for Markdown tables. Open CSV, Microsoft Excel/Google Sheets data as Markdown tables.
+Markdown 表格编辑器。以 Markdown 表格形式打开 CSV、Microsoft Excel/Google Sheets 数据。
 
 通过 Markdown Table Editor,您可以:
 
@@ -199,10 +199,10 @@ An editor for Markdown tables. Open CSV, Microsoft Excel/Google Sheets data as M
 - **插件 ID**：markdown-table-editor
 - **作者**：Ganessh Kumar R P
 - **当前版本**：v1.0.0
-- **下载量**：93.1K
+- **下载量**：93.2K
 - **最后更新**：2022-05-14
 - **GitHub**：[ganesshkumar/obsidian-table-editor](https://github.com/ganesshkumar/obsidian-table-editor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

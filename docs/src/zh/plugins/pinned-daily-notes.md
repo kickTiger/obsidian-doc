@@ -2,11 +2,11 @@
 title: Pinned Daily Notes
 description: 'Dynamically update a pinned tab with today''s daily note'
 author: Jeremy Neiman
-downloads: 675
+downloads: 676
 updated: 1749603099000
 repo: docmarionum1/obsidian-pinned-daily-notes
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Pinned Daily Notes"
   description="Dynamically update a pinned tab with today&#39;s daily note"
   author="Jeremy Neiman"
-  :downloads="675"
+  :downloads="676"
   :updated="1749603099000"
   repo="docmarionum1/obsidian-pinned-daily-notes"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Dynamically update a pinned tab with today&#39;s daily note
 - **插件 ID**：pinned-daily-notes
 - **作者**：Jeremy Neiman
 - **当前版本**：v1.0.0
-- **下载量**：675
+- **下载量**：676
 - **最后更新**：2025-06-11
 - **GitHub**：[docmarionum1/obsidian-pinned-daily-notes](https://github.com/docmarionum1/obsidian-pinned-daily-notes)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

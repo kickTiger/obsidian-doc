@@ -1,12 +1,12 @@
 ---
 title: metatemplates
-description: Generate notes from templates using YAML frontmatter.
+description: 使用 YAML frontmatter 从模板生成注释。
 author: avirut
 downloads: 6531
 updated: 1610473123000
 repo: avirut/obsidian-metatemplates
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-metatemplates"
   name="metatemplates"
-  description="Generate notes from templates using YAML frontmatter."
+  description="使用 YAML frontmatter 从模板生成注释。"
   author="avirut"
   :downloads="6531"
   :updated="1610473123000"
   repo="avirut/obsidian-metatemplates"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 metatemplates 是一个功能强大的 Obsidian 插件。
 
-Generate notes from templates using YAML frontmatter.
+使用 YAML frontmatter 从模板生成注释。
 
 通过 metatemplates,您可以:
 
@@ -202,7 +202,7 @@ Generate notes from templates using YAML frontmatter.
 - **下载量**：6.5K
 - **最后更新**：2021-01-13
 - **GitHub**：[avirut/obsidian-metatemplates](https://github.com/avirut/obsidian-metatemplates)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

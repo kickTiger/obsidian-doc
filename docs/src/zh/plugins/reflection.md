@@ -1,12 +1,12 @@
 ---
 title: Reflection
-description: Show daily and weekly notes from this day in years past.
+description: 展示往年这一天的每日笔记和每周笔记。
 author: Brandon Boswell
-downloads: 4243
+downloads: 4245
 updated: 1706467785000
 repo: brandonkboswell/reflection
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="reflection"
   name="Reflection"
-  description="Show daily and weekly notes from this day in years past."
+  description="展示往年这一天的每日笔记和每周笔记。"
   author="Brandon Boswell"
-  :downloads="4243"
+  :downloads="4245"
   :updated="1706467785000"
   repo="brandonkboswell/reflection"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Reflection 是一个功能强大的 Obsidian 插件。
 
-Show daily and weekly notes from this day in years past.
+展示往年这一天的每日笔记和每周笔记。
 
 通过 Reflection,您可以:
 
@@ -202,7 +202,7 @@ Show daily and weekly notes from this day in years past.
 - **下载量**：4.2K
 - **最后更新**：2024-01-29
 - **GitHub**：[brandonkboswell/reflection](https://github.com/brandonkboswell/reflection)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

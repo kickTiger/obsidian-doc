@@ -1,12 +1,12 @@
 ---
 title: Automatically reveal active file
-description: Automatically reveal the currently active file in the side navigation.
+description: 在侧边导航中自动显示当前活动文件。
 author: Matt Sessions
-downloads: 24210
+downloads: 24217
 updated: 1726610464000
 repo: shichongrui/obsidian-reveal-active-file
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-reveal-active-file"
   name="Automatically reveal active file"
-  description="Automatically reveal the currently active file in the side navigation."
+  description="在侧边导航中自动显示当前活动文件。"
   author="Matt Sessions"
-  :downloads="24210"
+  :downloads="24217"
   :updated="1726610464000"
   repo="shichongrui/obsidian-reveal-active-file"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Automatically reveal active file 是一个功能强大的 Obsidian 插件。
 
-Automatically reveal the currently active file in the side navigation.
+在侧边导航中自动显示当前活动文件。
 
 通过 Automatically reveal active file,您可以:
 
@@ -202,7 +202,7 @@ Automatically reveal the currently active file in the side navigation.
 - **下载量**：24.2K
 - **最后更新**：2024-09-18
 - **GitHub**：[shichongrui/obsidian-reveal-active-file](https://github.com/shichongrui/obsidian-reveal-active-file)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

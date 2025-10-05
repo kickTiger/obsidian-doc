@@ -1,12 +1,12 @@
 ---
 title: Mindmap Nextgen
-description: Preview notes as Markmap mind maps.
+description: 以 Markmap 思维导图的形式预览笔记。
 author: VeroCloud Pty Ltd (original by James Lynch)
-downloads: 77698
+downloads: 77830
 updated: 1758650214000
 repo: james-tindal/obsidian-mindmap-nextgen
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-mindmap-nextgen"
   name="Mindmap Nextgen"
-  description="Preview notes as Markmap mind maps."
+  description="以 Markmap 思维导图的形式预览笔记。"
   author="VeroCloud Pty Ltd (original by James Lynch)"
-  :downloads="77698"
+  :downloads="77830"
   :updated="1758650214000"
   repo="james-tindal/obsidian-mindmap-nextgen"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mindmap Nextgen 是一个功能强大的 Obsidian 插件。
 
-Preview notes as Markmap mind maps.
+以 Markmap 思维导图的形式预览笔记。
 
 通过 Mindmap Nextgen,您可以:
 
@@ -199,10 +199,10 @@ Preview notes as Markmap mind maps.
 - **插件 ID**：obsidian-mindmap-nextgen
 - **作者**：VeroCloud Pty Ltd (original by James Lynch)
 - **当前版本**：v1.0.0
-- **下载量**：77.7K
+- **下载量**：77.8K
 - **最后更新**：2025-09-24
 - **GitHub**：[james-tindal/obsidian-mindmap-nextgen](https://github.com/james-tindal/obsidian-mindmap-nextgen)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

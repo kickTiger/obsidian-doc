@@ -1,12 +1,12 @@
 ---
 title: Awesome Image
-description: One-stop solution for image management and viewing.
+description: 一站式图像管理和查看解决方案。
 author: AwesomeDog
-downloads: 12294
+downloads: 12303
 updated: 1706770830000
 repo: AwesomeDog/obsidian-awesome-image
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="awesome-image"
   name="Awesome Image"
-  description="One-stop solution for image management and viewing."
+  description="一站式图像管理和查看解决方案。"
   author="AwesomeDog"
-  :downloads="12294"
+  :downloads="12303"
   :updated="1706770830000"
   repo="AwesomeDog/obsidian-awesome-image"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Awesome Image 是一个功能强大的 Obsidian 插件。
 
-One-stop solution for image management and viewing.
+一站式图像管理和查看解决方案。
 
 通过 Awesome Image,您可以:
 
@@ -202,7 +202,7 @@ One-stop solution for image management and viewing.
 - **下载量**：12.3K
 - **最后更新**：2024-02-01
 - **GitHub**：[AwesomeDog/obsidian-awesome-image](https://github.com/AwesomeDog/obsidian-awesome-image)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

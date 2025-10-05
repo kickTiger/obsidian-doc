@@ -6,7 +6,7 @@ downloads: 236
 updated: 1755136220000
 repo: Fleker/feedly-for-obsidian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1755136220000"
   repo="Fleker/feedly-for-obsidian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Syncs Feedly highlights and annotations to a folder in your vault.
 - **下载量**：236
 - **最后更新**：2025-08-14
 - **GitHub**：[Fleker/feedly-for-obsidian](https://github.com/Fleker/feedly-for-obsidian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

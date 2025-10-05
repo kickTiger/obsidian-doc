@@ -2,11 +2,11 @@
 title: Fountain
 description: Write and view screenplays in Fountain format with index cards and lots of other features.
 author: Benedikt Grundmann
-downloads: 2150
-updated: 1759489618000
+downloads: 2169
+updated: 1759586207000
 repo: bgrundmann/obsidian-fountain
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Fountain"
   description="Write and view screenplays in Fountain format with index cards and lots of other features."
   author="Benedikt Grundmann"
-  :downloads="2150"
-  :updated="1759489618000"
+  :downloads="2169"
+  :updated="1759586207000"
   repo="bgrundmann/obsidian-fountain"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -181,7 +181,7 @@ Write and view screenplays in Fountain format with index cards and lots of other
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-10-03
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/bgrundmann/obsidian-fountain/releases) 查看详细更新日志
@@ -199,10 +199,10 @@ Write and view screenplays in Fountain format with index cards and lots of other
 - **插件 ID**：fountain
 - **作者**：Benedikt Grundmann
 - **当前版本**：v1.0.0
-- **下载量**：2.1K
-- **最后更新**：2025-10-03
+- **下载量**：2.2K
+- **最后更新**：2025-10-04
 - **GitHub**：[bgrundmann/obsidian-fountain](https://github.com/bgrundmann/obsidian-fountain)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

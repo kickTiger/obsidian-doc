@@ -1,12 +1,12 @@
 ---
 title: Day Planner (OG)
-description: Day planning from a simple task list in a Markdown note (bare bones, preserves the features and behavior of the original plugin).
+description: 通过 Markdown 便笺中的简单任务列表制定日常计划（基本功能，保留了原插件的功能和行为）。
 author: James Lynch (continued by Erin Schnabel)
-downloads: 25087
+downloads: 25110
 updated: 1757520844000
 repo: ebullient/obsidian-day-planner-og
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="day-planner-og"
   name="Day Planner (OG)"
-  description="Day planning from a simple task list in a Markdown note (bare bones, preserves the features and behavior of the original plugin)."
+  description="通过 Markdown 便笺中的简单任务列表制定日常计划（基本功能，保留了原插件的功能和行为）。"
   author="James Lynch (continued by Erin Schnabel)"
-  :downloads="25087"
+  :downloads="25110"
   :updated="1757520844000"
   repo="ebullient/obsidian-day-planner-og"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Day Planner (OG) 是一个功能强大的 Obsidian 插件。
 
-Day planning from a simple task list in a Markdown note (bare bones, preserves the features and behavior of the original plugin).
+通过 Markdown 便笺中的简单任务列表制定日常计划（基本功能，保留了原插件的功能和行为）。
 
 通过 Day Planner (OG),您可以:
 
@@ -202,7 +202,7 @@ Day planning from a simple task list in a Markdown note (bare bones, preserves t
 - **下载量**：25.1K
 - **最后更新**：2025-09-11
 - **GitHub**：[ebullient/obsidian-day-planner-og](https://github.com/ebullient/obsidian-day-planner-og)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

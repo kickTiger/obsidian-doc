@@ -1,12 +1,12 @@
 ---
 title: Supercharged Links
-description: 'Add attributes to internal links with the values of target note''s frontmatter attributes.'
+description: 使用目标注释的 frontmatter 属性值为内部链接添加属性。
 author: mdelobelle
-downloads: 159383
+downloads: 159581
 updated: 1757702728000
 repo: mdelobelle/obsidian_supercharged_links
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="supercharged-links-obsidian"
   name="Supercharged Links"
-  description="Add attributes to internal links with the values of target note&#39;s frontmatter attributes."
+  description="使用目标注释的 frontmatter 属性值为内部链接添加属性。"
   author="mdelobelle"
-  :downloads="159383"
+  :downloads="159581"
   :updated="1757702728000"
   repo="mdelobelle/obsidian_supercharged_links"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Supercharged Links 是一个功能强大的 Obsidian 插件。
 
-Add attributes to internal links with the values of target note&#39;s frontmatter attributes.
+使用目标注释的 frontmatter 属性值为内部链接添加属性。
 
 通过 Supercharged Links,您可以:
 
@@ -199,10 +199,10 @@ Add attributes to internal links with the values of target note&#39;s frontmatte
 - **插件 ID**：supercharged-links-obsidian
 - **作者**：mdelobelle
 - **当前版本**：v1.0.0
-- **下载量**：159.4K
+- **下载量**：159.6K
 - **最后更新**：2025-09-13
 - **GitHub**：[mdelobelle/obsidian_supercharged_links](https://github.com/mdelobelle/obsidian_supercharged_links)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

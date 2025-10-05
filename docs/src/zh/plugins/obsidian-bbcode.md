@@ -1,12 +1,12 @@
 ---
 title: BBCode Convertor
-description: Convert Markdown files to BBCode.
+description: 将 Markdown 文件转换为 BBCode 代码。
 author: Alex Lockhart
 downloads: 4046
 updated: 1709597909000
 repo: salockhart/obsidian-bbcode
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-bbcode"
   name="BBCode Convertor"
-  description="Convert Markdown files to BBCode."
+  description="将 Markdown 文件转换为 BBCode 代码。"
   author="Alex Lockhart"
   :downloads="4046"
   :updated="1709597909000"
   repo="salockhart/obsidian-bbcode"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 BBCode Convertor 是一个功能强大的 Obsidian 插件。
 
-Convert Markdown files to BBCode.
+将 Markdown 文件转换为 BBCode 代码。
 
 通过 BBCode Convertor,您可以:
 
@@ -202,7 +202,7 @@ Convert Markdown files to BBCode.
 - **下载量**：4.0K
 - **最后更新**：2024-03-05
 - **GitHub**：[salockhart/obsidian-bbcode](https://github.com/salockhart/obsidian-bbcode)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

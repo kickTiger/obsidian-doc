@@ -2,11 +2,11 @@
 title: Japanese Novel Ruby
 description: Treat ruby(Furigana) ​​marks commonly used in Japanese novels
 author: 'quels <@k-quels>'
-downloads: 1863
+downloads: 1872
 updated: 1758637171000
 repo: k-quels/japanese-novel-ruby
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Japanese Novel Ruby"
   description="Treat ruby(Furigana) ​​marks commonly used in Japanese novels"
   author="quels &lt;@k-quels&gt;"
-  :downloads="1863"
+  :downloads="1872"
   :updated="1758637171000"
   repo="k-quels/japanese-novel-ruby"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Treat ruby(Furigana) ​​marks commonly used in Japanese novels
 - **下载量**：1.9K
 - **最后更新**：2025-09-23
 - **GitHub**：[k-quels/japanese-novel-ruby](https://github.com/k-quels/japanese-novel-ruby)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

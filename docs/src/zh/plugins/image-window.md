@@ -1,12 +1,12 @@
 ---
 title: Second Window
-description: 'Allow images & notes to be viewed in new windows.'
+description: 允许在新窗口中查看图片和注释。
 author: Jeremy Valentine
-downloads: 31270
+downloads: 31300
 updated: 1704303174000
 repo: javalent/second-window
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="image-window"
   name="Second Window"
-  description="Allow images &amp; notes to be viewed in new windows."
+  description="允许在新窗口中查看图片和注释。"
   author="Jeremy Valentine"
-  :downloads="31270"
+  :downloads="31300"
   :updated="1704303174000"
   repo="javalent/second-window"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Second Window 是一个功能强大的 Obsidian 插件。
 
-Allow images &amp; notes to be viewed in new windows.
+允许在新窗口中查看图片和注释。
 
 通过 Second Window,您可以:
 
@@ -202,7 +202,7 @@ Allow images &amp; notes to be viewed in new windows.
 - **下载量**：31.3K
 - **最后更新**：2024-01-04
 - **GitHub**：[javalent/second-window](https://github.com/javalent/second-window)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

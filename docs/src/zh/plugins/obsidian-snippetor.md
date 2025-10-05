@@ -1,12 +1,12 @@
 ---
 title: Snippetor
-description: Create and tweak common snippets.
+description: 创建和调整常用片段。
 author: ebullient
 downloads: 9457
 updated: 1725409935000
 repo: ebullient/obsidian-snippetor
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-snippetor"
   name="Snippetor"
-  description="Create and tweak common snippets."
+  description="创建和调整常用片段。"
   author="ebullient"
   :downloads="9457"
   :updated="1725409935000"
   repo="ebullient/obsidian-snippetor"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Snippetor 是一个功能强大的 Obsidian 插件。
 
-Create and tweak common snippets.
+创建和调整常用片段。
 
 通过 Snippetor,您可以:
 
@@ -202,7 +202,7 @@ Create and tweak common snippets.
 - **下载量**：9.5K
 - **最后更新**：2024-09-04
 - **GitHub**：[ebullient/obsidian-snippetor](https://github.com/ebullient/obsidian-snippetor)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

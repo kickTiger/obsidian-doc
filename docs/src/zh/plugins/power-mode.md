@@ -2,11 +2,11 @@
 title: POWER MODE
 description: 'Active POWER MODE!!!!'
 author: Zhou Hua
-downloads: 1941
+downloads: 1944
 updated: 1723704362000
 repo: zhouhua/obsidian-power-mode
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="POWER MODE"
   description="Active POWER MODE!!!!"
   author="Zhou Hua"
-  :downloads="1941"
+  :downloads="1944"
   :updated="1723704362000"
   repo="zhouhua/obsidian-power-mode"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Active POWER MODE!!!!
 - **下载量**：1.9K
 - **最后更新**：2024-08-15
 - **GitHub**：[zhouhua/obsidian-power-mode](https://github.com/zhouhua/obsidian-power-mode)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

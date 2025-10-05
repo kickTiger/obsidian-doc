@@ -1,12 +1,12 @@
 ---
 title: Calendarium
-description: Craft mind-bending fantasy and sci-fi calendars.
+description: 制作令人费解的奇幻和科幻日历。
 author: Jeremy Valentine
-downloads: 104677
+downloads: 105057
 updated: 1758934223000
 repo: javalent/calendarium
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="calendarium"
   name="Calendarium"
-  description="Craft mind-bending fantasy and sci-fi calendars."
+  description="制作令人费解的奇幻和科幻日历。"
   author="Jeremy Valentine"
-  :downloads="104677"
+  :downloads="105057"
   :updated="1758934223000"
   repo="javalent/calendarium"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Calendarium 是一个功能强大的 Obsidian 插件。
 
-Craft mind-bending fantasy and sci-fi calendars.
+制作令人费解的奇幻和科幻日历。
 
 通过 Calendarium,您可以:
 
@@ -199,10 +199,10 @@ Craft mind-bending fantasy and sci-fi calendars.
 - **插件 ID**：calendarium
 - **作者**：Jeremy Valentine
 - **当前版本**：v1.0.0
-- **下载量**：104.7K
+- **下载量**：105.1K
 - **最后更新**：2025-09-27
 - **GitHub**：[javalent/calendarium](https://github.com/javalent/calendarium)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

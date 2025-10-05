@@ -1,12 +1,12 @@
 ---
 title: Mini Toolbar
-description: Mini context toolbar in editor.
+description: 编辑器中的迷你上下文工具栏
 author: 'AidenLx & Boninall'
-downloads: 6051
+downloads: 6059
 updated: 1691155010000
 repo: Quorafind/Obsidian-Mini-Toolbar
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mini-toolbar"
   name="Mini Toolbar"
-  description="Mini context toolbar in editor."
+  description="编辑器中的迷你上下文工具栏"
   author="AidenLx &amp; Boninall"
-  :downloads="6051"
+  :downloads="6059"
   :updated="1691155010000"
   repo="Quorafind/Obsidian-Mini-Toolbar"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mini Toolbar 是一个功能强大的 Obsidian 插件。
 
-Mini context toolbar in editor.
+编辑器中的迷你上下文工具栏
 
 通过 Mini Toolbar,您可以:
 
@@ -202,7 +202,7 @@ Mini context toolbar in editor.
 - **下载量**：6.1K
 - **最后更新**：2023-08-04
 - **GitHub**：[Quorafind/Obsidian-Mini-Toolbar](https://github.com/Quorafind/Obsidian-Mini-Toolbar)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

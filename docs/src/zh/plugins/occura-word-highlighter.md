@@ -2,11 +2,11 @@
 title: Occura
 description: Find and highlight all occurrences of selected text in notes, similar to Notepad++ or IDEs.
 author: Alexey Sedoykin
-downloads: 2291
+downloads: 2293
 updated: 1754149697000
 repo: Krusty84/obsidian-occura-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Occura"
   description="Find and highlight all occurrences of selected text in notes, similar to Notepad++ or IDEs."
   author="Alexey Sedoykin"
-  :downloads="2291"
+  :downloads="2293"
   :updated="1754149697000"
   repo="Krusty84/obsidian-occura-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Find and highlight all occurrences of selected text in notes, similar to Notepad
 - **下载量**：2.3K
 - **最后更新**：2025-08-02
 - **GitHub**：[Krusty84/obsidian-occura-plugin](https://github.com/Krusty84/obsidian-occura-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

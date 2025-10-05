@@ -1,12 +1,12 @@
 ---
 title: PodNotes
-description: Write notes on podcasts with ease.
+description: 轻松撰写播客笔记
 author: Christian B. B. Houmann
-downloads: 50510
+downloads: 50539
 updated: 1757350487000
 repo: chhoumann/PodNotes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="podnotes"
   name="PodNotes"
-  description="Write notes on podcasts with ease."
+  description="轻松撰写播客笔记"
   author="Christian B. B. Houmann"
-  :downloads="50510"
+  :downloads="50539"
   :updated="1757350487000"
   repo="chhoumann/PodNotes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 PodNotes 是一个功能强大的 Obsidian 插件。
 
-Write notes on podcasts with ease.
+轻松撰写播客笔记
 
 通过 PodNotes,您可以:
 
@@ -202,7 +202,7 @@ Write notes on podcasts with ease.
 - **下载量**：50.5K
 - **最后更新**：2025-09-09
 - **GitHub**：[chhoumann/PodNotes](https://github.com/chhoumann/PodNotes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

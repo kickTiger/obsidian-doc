@@ -2,11 +2,11 @@
 title: Advanced Note Composer
 description: Enhances Note composer core plugin.
 author: mnaoumov
-downloads: 2135
+downloads: 2140
 updated: 1758480719000
 repo: mnaoumov/obsidian-advanced-note-composer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Advanced Note Composer"
   description="Enhances Note composer core plugin."
   author="mnaoumov"
-  :downloads="2135"
+  :downloads="2140"
   :updated="1758480719000"
   repo="mnaoumov/obsidian-advanced-note-composer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enhances Note composer core plugin.
 - **下载量**：2.1K
 - **最后更新**：2025-09-22
 - **GitHub**：[mnaoumov/obsidian-advanced-note-composer](https://github.com/mnaoumov/obsidian-advanced-note-composer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

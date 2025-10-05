@@ -1,12 +1,12 @@
 ---
 title: Automatic List Styles
-description: Automatically formats the styles of ordered lists, incrementing the list style for each layer.
+description: 自动格式化有序列表的样式，递增每一层的列表样式。
 author: Max McGuire
-downloads: 6725
+downloads: 6727
 updated: 1724891080000
 repo: WiseGuru/obsidian-automatic-list-styles
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="automatic-list-styles"
   name="Automatic List Styles"
-  description="Automatically formats the styles of ordered lists, incrementing the list style for each layer."
+  description="自动格式化有序列表的样式，递增每一层的列表样式。"
   author="Max McGuire"
-  :downloads="6725"
+  :downloads="6727"
   :updated="1724891080000"
   repo="WiseGuru/obsidian-automatic-list-styles"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Automatic List Styles 是一个功能强大的 Obsidian 插件。
 
-Automatically formats the styles of ordered lists, incrementing the list style for each layer.
+自动格式化有序列表的样式，递增每一层的列表样式。
 
 通过 Automatic List Styles,您可以:
 
@@ -202,7 +202,7 @@ Automatically formats the styles of ordered lists, incrementing the list style f
 - **下载量**：6.7K
 - **最后更新**：2024-08-29
 - **GitHub**：[WiseGuru/obsidian-automatic-list-styles](https://github.com/WiseGuru/obsidian-automatic-list-styles)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

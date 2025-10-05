@@ -2,11 +2,11 @@
 title: JupyMD
 description: Link and sync Markdown notes with Jupyter notebooks via Jupytext.
 author: Deniz Terzioglu
-downloads: 2704
+downloads: 2725
 updated: 1758741836000
 repo: d-eniz/jupymd
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="JupyMD"
   description="Link and sync Markdown notes with Jupyter notebooks via Jupytext."
   author="Deniz Terzioglu"
-  :downloads="2704"
+  :downloads="2725"
   :updated="1758741836000"
   repo="d-eniz/jupymd"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Link and sync Markdown notes with Jupyter notebooks via Jupytext.
 - **下载量**：2.7K
 - **最后更新**：2025-09-25
 - **GitHub**：[d-eniz/jupymd](https://github.com/d-eniz/jupymd)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

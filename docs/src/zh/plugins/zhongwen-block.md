@@ -1,12 +1,12 @@
 ---
 title: Zhongwen Block
-description: Code blocks with features for Chinese learners.
+description: 为中文学习者提供具有特色的代码块。
 author: Kodai Matsumoto
-downloads: 3840
+downloads: 3841
 updated: 1751892547000
 repo: 0918nobita/obsidian-zhongwen-block
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="zhongwen-block"
   name="Zhongwen Block"
-  description="Code blocks with features for Chinese learners."
+  description="为中文学习者提供具有特色的代码块。"
   author="Kodai Matsumoto"
-  :downloads="3840"
+  :downloads="3841"
   :updated="1751892547000"
   repo="0918nobita/obsidian-zhongwen-block"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Zhongwen Block 是一个功能强大的 Obsidian 插件。
 
-Code blocks with features for Chinese learners.
+为中文学习者提供具有特色的代码块。
 
 通过 Zhongwen Block,您可以:
 
@@ -202,7 +202,7 @@ Code blocks with features for Chinese learners.
 - **下载量**：3.8K
 - **最后更新**：2025-07-07
 - **GitHub**：[0918nobita/obsidian-zhongwen-block](https://github.com/0918nobita/obsidian-zhongwen-block)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

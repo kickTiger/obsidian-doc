@@ -1,12 +1,12 @@
 ---
 title: Booksidian
-description: Access your Goodreads shelves.
+description: 访问您的 Goodreads 书架
 author: Micha Brugger
-downloads: 13993
+downloads: 14010
 updated: 1759232436000
 repo: MichaBrugger/booksidian_plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="booksidian-plugin"
   name="Booksidian"
-  description="Access your Goodreads shelves."
+  description="访问您的 Goodreads 书架"
   author="Micha Brugger"
-  :downloads="13993"
+  :downloads="14010"
   :updated="1759232436000"
   repo="MichaBrugger/booksidian_plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Booksidian 是一个功能强大的 Obsidian 插件。
 
-Access your Goodreads shelves.
+访问您的 Goodreads 书架
 
 通过 Booksidian,您可以:
 
@@ -202,7 +202,7 @@ Access your Goodreads shelves.
 - **下载量**：14.0K
 - **最后更新**：2025-09-30
 - **GitHub**：[MichaBrugger/booksidian_plugin](https://github.com/MichaBrugger/booksidian_plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Auto Anki
-description: Using AI to automate card creation for Spaced Repetion in Anki.
+description: 在 Anki 中使用人工智能自动创建间隔重复卡片。
 author: ad2969
 downloads: 5488
 updated: 1705225284000
 repo: cadrianxyz/obsidian-auto-anki
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-anki"
   name="Auto Anki"
-  description="Using AI to automate card creation for Spaced Repetion in Anki."
+  description="在 Anki 中使用人工智能自动创建间隔重复卡片。"
   author="ad2969"
   :downloads="5488"
   :updated="1705225284000"
   repo="cadrianxyz/obsidian-auto-anki"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Anki 是一个功能强大的 Obsidian 插件。
 
-Using AI to automate card creation for Spaced Repetion in Anki.
+在 Anki 中使用人工智能自动创建间隔重复卡片。
 
 通过 Auto Anki,您可以:
 
@@ -202,7 +202,7 @@ Using AI to automate card creation for Spaced Repetion in Anki.
 - **下载量**：5.5K
 - **最后更新**：2024-01-14
 - **GitHub**：[cadrianxyz/obsidian-auto-anki](https://github.com/cadrianxyz/obsidian-auto-anki)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

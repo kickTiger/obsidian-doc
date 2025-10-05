@@ -2,11 +2,11 @@
 title: PDF Emojis
 description: 'Helps you exporting all your emojis to pdf (even those in headings)!'
 author: Marcel Marusiak
-downloads: 286
+downloads: 289
 updated: 1739479223000
 repo: mmarusiak/pdf-emojis-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="PDF Emojis"
   description="Helps you exporting all your emojis to pdf (even those in headings)!"
   author="Marcel Marusiak"
-  :downloads="286"
+  :downloads="289"
   :updated="1739479223000"
   repo="mmarusiak/pdf-emojis-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Helps you exporting all your emojis to pdf (even those in headings)!
 - **插件 ID**：pdf-emojis
 - **作者**：Marcel Marusiak
 - **当前版本**：v1.0.0
-- **下载量**：286
+- **下载量**：289
 - **最后更新**：2025-02-14
 - **GitHub**：[mmarusiak/pdf-emojis-plugin](https://github.com/mmarusiak/pdf-emojis-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

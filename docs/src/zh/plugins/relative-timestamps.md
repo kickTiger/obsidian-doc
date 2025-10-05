@@ -6,7 +6,7 @@ downloads: 677
 updated: 1718795323000
 repo: agctute/relative-timestamps
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1718795323000"
   repo="agctute/relative-timestamps"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Track the time between log entries.
 - **下载量**：677
 - **最后更新**：2024-06-19
 - **GitHub**：[agctute/relative-timestamps](https://github.com/agctute/relative-timestamps)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

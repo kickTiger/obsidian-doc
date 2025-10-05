@@ -1,12 +1,12 @@
 ---
 title: Chessboard Viewer
-description: Render chess positions diagrams in note preview.
+description: 在注释预览中渲染国际象棋位置图。
 author: Davide Aversa
-downloads: 8417
+downloads: 8420
 updated: 1749549986000
 repo: THeK3nger/obsidian-chessboard
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-chessboard"
   name="Chessboard Viewer"
-  description="Render chess positions diagrams in note preview."
+  description="在注释预览中渲染国际象棋位置图。"
   author="Davide Aversa"
-  :downloads="8417"
+  :downloads="8420"
   :updated="1749549986000"
   repo="THeK3nger/obsidian-chessboard"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Chessboard Viewer 是一个功能强大的 Obsidian 插件。
 
-Render chess positions diagrams in note preview.
+在注释预览中渲染国际象棋位置图。
 
 通过 Chessboard Viewer,您可以:
 
@@ -202,7 +202,7 @@ Render chess positions diagrams in note preview.
 - **下载量**：8.4K
 - **最后更新**：2025-06-10
 - **GitHub**：[THeK3nger/obsidian-chessboard](https://github.com/THeK3nger/obsidian-chessboard)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

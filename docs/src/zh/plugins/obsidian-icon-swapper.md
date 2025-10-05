@@ -1,12 +1,12 @@
 ---
 title: Icon Swapper
-description: 'Swap out Obsidian''s default icons.'
+description: 更换 Obsidian 的默认图标。
 author: mgmeyers
-downloads: 9168
+downloads: 9171
 updated: 1639599572000
 repo: mgmeyers/obsidian-icon-swapper
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-icon-swapper"
   name="Icon Swapper"
-  description="Swap out Obsidian&#39;s default icons."
+  description="更换 Obsidian 的默认图标。"
   author="mgmeyers"
-  :downloads="9168"
+  :downloads="9171"
   :updated="1639599572000"
   repo="mgmeyers/obsidian-icon-swapper"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Icon Swapper 是一个功能强大的 Obsidian 插件。
 
-Swap out Obsidian&#39;s default icons.
+更换 Obsidian 的默认图标。
 
 通过 Icon Swapper,您可以:
 
@@ -202,7 +202,7 @@ Swap out Obsidian&#39;s default icons.
 - **下载量**：9.2K
 - **最后更新**：2021-12-16
 - **GitHub**：[mgmeyers/obsidian-icon-swapper](https://github.com/mgmeyers/obsidian-icon-swapper)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

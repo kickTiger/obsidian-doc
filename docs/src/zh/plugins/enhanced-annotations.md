@@ -1,12 +1,12 @@
 ---
 title: Enhanced Annotations
-description: Add a sidebar view for comments and highlights.
+description: 为评论和亮点添加侧边栏视图。
 author: ycnmhd
-downloads: 13256
+downloads: 13283
 updated: 1738773274000
 repo: ycnmhd/obsidian-enhanced-annotations
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="enhanced-annotations"
   name="Enhanced Annotations"
-  description="Add a sidebar view for comments and highlights."
+  description="为评论和亮点添加侧边栏视图。"
   author="ycnmhd"
-  :downloads="13256"
+  :downloads="13283"
   :updated="1738773274000"
   repo="ycnmhd/obsidian-enhanced-annotations"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Enhanced Annotations 是一个功能强大的 Obsidian 插件。
 
-Add a sidebar view for comments and highlights.
+为评论和亮点添加侧边栏视图。
 
 通过 Enhanced Annotations,您可以:
 
@@ -202,7 +202,7 @@ Add a sidebar view for comments and highlights.
 - **下载量**：13.3K
 - **最后更新**：2025-02-06
 - **GitHub**：[ycnmhd/obsidian-enhanced-annotations](https://github.com/ycnmhd/obsidian-enhanced-annotations)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

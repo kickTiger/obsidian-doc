@@ -6,7 +6,7 @@ downloads: 102
 updated: 1735045054000
 repo: Matse2005/Obsidian-Christmas
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1735045054000"
   repo="Matse2005/Obsidian-Christmas"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Track the time left till Christmas.
 - **下载量**：102
 - **最后更新**：2024-12-24
 - **GitHub**：[Matse2005/Obsidian-Christmas](https://github.com/Matse2005/Obsidian-Christmas)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

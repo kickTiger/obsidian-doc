@@ -6,7 +6,7 @@ downloads: 1406
 updated: 1725973493000
 repo: shsethi/obsidian-rollover-weekly-todos
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1725973493000"
   repo="shsethi/obsidian-rollover-weekly-todos"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Rollover unchecked todo items from the previous weekly note
 - **下载量**：1.4K
 - **最后更新**：2024-09-10
 - **GitHub**：[shsethi/obsidian-rollover-weekly-todos](https://github.com/shsethi/obsidian-rollover-weekly-todos)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Crypt It
 description: Generate encrypted version of file(s) using rclone encryption format.
 author: fyears
-downloads: 1364
+downloads: 1365
 updated: 1711176709000
 repo: remotely-save/crypt-it
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Crypt It"
   description="Generate encrypted version of file(s) using rclone encryption format."
   author="fyears"
-  :downloads="1364"
+  :downloads="1365"
   :updated="1711176709000"
   repo="remotely-save/crypt-it"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate encrypted version of file(s) using rclone encryption format.
 - **下载量**：1.4K
 - **最后更新**：2024-03-23
 - **GitHub**：[remotely-save/crypt-it](https://github.com/remotely-save/crypt-it)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

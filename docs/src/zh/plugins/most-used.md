@@ -6,7 +6,7 @@ downloads: 875
 updated: 1732539291000
 repo: levi-ivel/MostUsed
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1732539291000"
   repo="levi-ivel/MostUsed"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Creates a list from your 100 most commonly used words
 - **下载量**：875
 - **最后更新**：2024-11-25
 - **GitHub**：[levi-ivel/MostUsed](https://github.com/levi-ivel/MostUsed)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

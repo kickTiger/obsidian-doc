@@ -6,7 +6,7 @@ downloads: 214
 updated: 1725953805000
 repo: Doggy-Footprint/Suggest-Notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1725953805000"
   repo="Doggy-Footprint/Suggest-Notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Suggest notes as selected by user.
 - **下载量**：214
 - **最后更新**：2024-09-10
 - **GitHub**：[Doggy-Footprint/Suggest-Notes](https://github.com/Doggy-Footprint/Suggest-Notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

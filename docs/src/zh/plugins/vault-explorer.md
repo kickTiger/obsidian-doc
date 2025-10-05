@@ -1,12 +1,12 @@
 ---
 title: Vault Explorer
-description: Explore your vault in visual format
+description: 以可视化形式探索您的保险库
 author: DecafDev
-downloads: 12800
+downloads: 12806
 updated: 1746241387000
 repo: decaf-dev/obsidian-vault-explorer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vault-explorer"
   name="Vault Explorer"
-  description="Explore your vault in visual format"
+  description="以可视化形式探索您的保险库"
   author="DecafDev"
-  :downloads="12800"
+  :downloads="12806"
   :updated="1746241387000"
   repo="decaf-dev/obsidian-vault-explorer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vault Explorer 是一个功能强大的 Obsidian 插件。
 
-Explore your vault in visual format
+以可视化形式探索您的保险库
 
 通过 Vault Explorer,您可以:
 
@@ -202,7 +202,7 @@ Explore your vault in visual format
 - **下载量**：12.8K
 - **最后更新**：2025-05-03
 - **GitHub**：[decaf-dev/obsidian-vault-explorer](https://github.com/decaf-dev/obsidian-vault-explorer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

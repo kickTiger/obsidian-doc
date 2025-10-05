@@ -6,7 +6,7 @@ downloads: 186
 updated: 1753035805000
 repo: memodack/memodack
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1753035805000"
   repo="memodack/memodack"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Your second language memory tool
 - **下载量**：186
 - **最后更新**：2025-07-21
 - **GitHub**：[memodack/memodack](https://github.com/memodack/memodack)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Link Opening Restore
 description: Restore the link opening method to Ctrl + Left Click.
 author: SmallZombie
-downloads: 224
+downloads: 225
 updated: 1751385571000
 repo: SmallZombie/link-opening-restore
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Link Opening Restore"
   description="Restore the link opening method to Ctrl + Left Click."
   author="SmallZombie"
-  :downloads="224"
+  :downloads="225"
   :updated="1751385571000"
   repo="SmallZombie/link-opening-restore"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Restore the link opening method to Ctrl + Left Click.
 - **插件 ID**：link-opening-restore
 - **作者**：SmallZombie
 - **当前版本**：v1.0.0
-- **下载量**：224
+- **下载量**：225
 - **最后更新**：2025-07-01
 - **GitHub**：[SmallZombie/link-opening-restore](https://github.com/SmallZombie/link-opening-restore)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

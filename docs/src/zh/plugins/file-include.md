@@ -1,12 +1,12 @@
 ---
 title: File Include
-description: Include or embed files in Obsidian Markdown.
+description: 在 Obsidian Markdown 中包含或嵌入文件。
 author: Till Hoffmann
-downloads: 4595
+downloads: 4596
 updated: 1687979079000
 repo: tillahoffmann/obsidian-file-include
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-include"
   name="File Include"
-  description="Include or embed files in Obsidian Markdown."
+  description="在 Obsidian Markdown 中包含或嵌入文件。"
   author="Till Hoffmann"
-  :downloads="4595"
+  :downloads="4596"
   :updated="1687979079000"
   repo="tillahoffmann/obsidian-file-include"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Include 是一个功能强大的 Obsidian 插件。
 
-Include or embed files in Obsidian Markdown.
+在 Obsidian Markdown 中包含或嵌入文件。
 
 通过 File Include,您可以:
 
@@ -202,7 +202,7 @@ Include or embed files in Obsidian Markdown.
 - **下载量**：4.6K
 - **最后更新**：2023-06-29
 - **GitHub**：[tillahoffmann/obsidian-file-include](https://github.com/tillahoffmann/obsidian-file-include)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

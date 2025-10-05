@@ -1,12 +1,12 @@
 ---
 title: Daily notes calendar
-description: Navigate to your weekly- and daily-notes using a calendar view.
+description: 使用日历视图浏览每周和每日笔记。
 author: bartkessels
-downloads: 10432
+downloads: 10456
 updated: 1755845955000
 repo: bartkessels/daily-note-calendar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="daily-note-calendar"
   name="Daily notes calendar"
-  description="Navigate to your weekly- and daily-notes using a calendar view."
+  description="使用日历视图浏览每周和每日笔记。"
   author="bartkessels"
-  :downloads="10432"
+  :downloads="10456"
   :updated="1755845955000"
   repo="bartkessels/daily-note-calendar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Daily notes calendar 是一个功能强大的 Obsidian 插件。
 
-Navigate to your weekly- and daily-notes using a calendar view.
+使用日历视图浏览每周和每日笔记。
 
 通过 Daily notes calendar,您可以:
 
@@ -199,10 +199,10 @@ Navigate to your weekly- and daily-notes using a calendar view.
 - **插件 ID**：daily-note-calendar
 - **作者**：bartkessels
 - **当前版本**：v1.0.0
-- **下载量**：10.4K
+- **下载量**：10.5K
 - **最后更新**：2025-08-22
 - **GitHub**：[bartkessels/daily-note-calendar](https://github.com/bartkessels/daily-note-calendar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Callout Manager
-description: Easily create and customize callouts.
+description: 轻松创建和自定义标注。
 author: eth-p
-downloads: 111987
+downloads: 112107
 updated: 1717296536000
 repo: eth-p/obsidian-callout-manager
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="callout-manager"
   name="Callout Manager"
-  description="Easily create and customize callouts."
+  description="轻松创建和自定义标注。"
   author="eth-p"
-  :downloads="111987"
+  :downloads="112107"
   :updated="1717296536000"
   repo="eth-p/obsidian-callout-manager"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Callout Manager 是一个功能强大的 Obsidian 插件。
 
-Easily create and customize callouts.
+轻松创建和自定义标注。
 
 通过 Callout Manager,您可以:
 
@@ -199,10 +199,10 @@ Easily create and customize callouts.
 - **插件 ID**：callout-manager
 - **作者**：eth-p
 - **当前版本**：v1.0.0
-- **下载量**：112.0K
+- **下载量**：112.1K
 - **最后更新**：2024-06-02
 - **GitHub**：[eth-p/obsidian-callout-manager](https://github.com/eth-p/obsidian-callout-manager)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

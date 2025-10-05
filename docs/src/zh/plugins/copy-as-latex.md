@@ -1,12 +1,12 @@
 ---
 title: Copy as LaTeX
-description: Quickly copy Markdown as LaTeX, with citations.
+description: 将 Markdown 快速复制为 LaTeX，并附带引文。
 author: mo-seph
-downloads: 10761
+downloads: 10763
 updated: 1644513817000
 repo: mo-seph/obsidian-copy-as-latex
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="copy-as-latex"
   name="Copy as LaTeX"
-  description="Quickly copy Markdown as LaTeX, with citations."
+  description="将 Markdown 快速复制为 LaTeX，并附带引文。"
   author="mo-seph"
-  :downloads="10761"
+  :downloads="10763"
   :updated="1644513817000"
   repo="mo-seph/obsidian-copy-as-latex"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Copy as LaTeX 是一个功能强大的 Obsidian 插件。
 
-Quickly copy Markdown as LaTeX, with citations.
+将 Markdown 快速复制为 LaTeX，并附带引文。
 
 通过 Copy as LaTeX,您可以:
 
@@ -202,7 +202,7 @@ Quickly copy Markdown as LaTeX, with citations.
 - **下载量**：10.8K
 - **最后更新**：2022-02-11
 - **GitHub**：[mo-seph/obsidian-copy-as-latex](https://github.com/mo-seph/obsidian-copy-as-latex)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

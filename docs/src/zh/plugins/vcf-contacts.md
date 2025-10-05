@@ -2,11 +2,11 @@
 title: VCF Contacts
 description:  manage, organize, link and interact with your contacts. structured md files according vCard (VCF) standards
 author: Roland Broekema
-downloads: 1570
+downloads: 1589
 updated: 1758287208000
 repo: broekema41/obsidian-vcf-contacts
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="VCF Contacts"
   description=" manage, organize, link and interact with your contacts. structured md files according vCard (VCF) standards"
   author="Roland Broekema"
-  :downloads="1570"
+  :downloads="1589"
   :updated="1758287208000"
   repo="broekema41/obsidian-vcf-contacts"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ VCF Contacts 是一个功能强大的 Obsidian 插件。
 - **下载量**：1.6K
 - **最后更新**：2025-09-19
 - **GitHub**：[broekema41/obsidian-vcf-contacts](https://github.com/broekema41/obsidian-vcf-contacts)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 964
 updated: 1753640152000
 repo: cpbotha/obsidian-ai-chat-as-md
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1753640152000"
   repo="cpbotha/obsidian-ai-chat-as-md"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Multiple branching AI conversations as Markdown hierarchy
 - **下载量**：964
 - **最后更新**：2025-07-28
 - **GitHub**：[cpbotha/obsidian-ai-chat-as-md](https://github.com/cpbotha/obsidian-ai-chat-as-md)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

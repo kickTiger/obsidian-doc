@@ -2,11 +2,11 @@
 title: IMSwitch in Math Block
 description: Automatically switch input method in math block
 author: XXM
-downloads: 205
+downloads: 206
 updated: 1743091790000
 repo: cailurus/imswitch_mathblock_obsidian
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="IMSwitch in Math Block"
   description="Automatically switch input method in math block"
   author="XXM"
-  :downloads="205"
+  :downloads="206"
   :updated="1743091790000"
   repo="cailurus/imswitch_mathblock_obsidian"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically switch input method in math block
 - **插件 ID**：imswitch-mathblock
 - **作者**：XXM
 - **当前版本**：v1.0.0
-- **下载量**：205
+- **下载量**：206
 - **最后更新**：2025-03-28
 - **GitHub**：[cailurus/imswitch_mathblock_obsidian](https://github.com/cailurus/imswitch_mathblock_obsidian)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

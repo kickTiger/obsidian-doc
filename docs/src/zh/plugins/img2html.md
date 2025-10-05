@@ -6,7 +6,7 @@ downloads: 394
 updated: 1742636970000
 repo: 0x1DA9430/img2html
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1742636970000"
   repo="0x1DA9430/img2html"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Paste images as HTML format instead of wikilink or markdown format.
 - **下载量**：394
 - **最后更新**：2025-03-22
 - **GitHub**：[0x1DA9430/img2html](https://github.com/0x1DA9430/img2html)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Minimal Theme Settings
-description: Control the colors and fonts in Minimal Theme.
+description: Minimal 主题的设置插件。
 author: '@kepano'
-downloads: 1252434
+downloads: 1253113
 updated: 1724186064000
 repo: kepano/obsidian-minimal-settings
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-minimal-settings"
   name="Minimal Theme Settings"
-  description="Control the colors and fonts in Minimal Theme."
+  description="Minimal 主题的设置插件。"
   author="@kepano"
-  :downloads="1252434"
+  :downloads="1253113"
   :updated="1724186064000"
   repo="kepano/obsidian-minimal-settings"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Minimal Theme Settings 是一个功能强大的 Obsidian 插件。
 
-Control the colors and fonts in Minimal Theme.
+Minimal 主题的设置插件。
 
 通过 Minimal Theme Settings,您可以:
 
@@ -202,7 +202,7 @@ Control the colors and fonts in Minimal Theme.
 - **下载量**：1.25M
 - **最后更新**：2024-08-21
 - **GitHub**：[kepano/obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Quick Links
-description: Create quick link shortcuts to Wikipedia and other sites
+description: 创建维基百科和其他网站的快速链接快捷方式
 author: Ian Fisher
-downloads: 5147
+downloads: 5148
 updated: 1749322665000
 repo: iafisher/obsidian-quick-links
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quick-links"
   name="Quick Links"
-  description="Create quick link shortcuts to Wikipedia and other sites"
+  description="创建维基百科和其他网站的快速链接快捷方式"
   author="Ian Fisher"
-  :downloads="5147"
+  :downloads="5148"
   :updated="1749322665000"
   repo="iafisher/obsidian-quick-links"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quick Links 是一个功能强大的 Obsidian 插件。
 
-Create quick link shortcuts to Wikipedia and other sites
+创建维基百科和其他网站的快速链接快捷方式
 
 通过 Quick Links,您可以:
 
@@ -202,7 +202,7 @@ Create quick link shortcuts to Wikipedia and other sites
 - **下载量**：5.1K
 - **最后更新**：2025-06-08
 - **GitHub**：[iafisher/obsidian-quick-links](https://github.com/iafisher/obsidian-quick-links)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Orthography
-description: 'Check & fix orthography errors in text.'
+description: 检查并修正文本中的正字法错误。
 author: denisoed
-downloads: 11634
+downloads: 11635
 updated: 1729699776000
 repo: denisoed/obsidian-orthography
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-orthography"
   name="Orthography"
-  description="Check &amp; fix orthography errors in text."
+  description="检查并修正文本中的正字法错误。"
   author="denisoed"
-  :downloads="11634"
+  :downloads="11635"
   :updated="1729699776000"
   repo="denisoed/obsidian-orthography"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Orthography 是一个功能强大的 Obsidian 插件。
 
-Check &amp; fix orthography errors in text.
+检查并修正文本中的正字法错误。
 
 通过 Orthography,您可以:
 
@@ -202,7 +202,7 @@ Check &amp; fix orthography errors in text.
 - **下载量**：11.6K
 - **最后更新**：2024-10-24
 - **GitHub**：[denisoed/obsidian-orthography](https://github.com/denisoed/obsidian-orthography)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

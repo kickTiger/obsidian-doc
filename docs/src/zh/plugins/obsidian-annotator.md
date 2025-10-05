@@ -1,12 +1,12 @@
 ---
 title: Annotator
-description: Read and annotate PDFs and EPUB files.
+description: 在 PDF 和 EPUB 文件上进行注释。
 author: Elias Sundqvist
-downloads: 515483
+downloads: 515698
 updated: 1704710661000
 repo: elias-sundqvist/obsidian-annotator
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-annotator"
   name="Annotator"
-  description="Read and annotate PDFs and EPUB files."
+  description="在 PDF 和 EPUB 文件上进行注释。"
   author="Elias Sundqvist"
-  :downloads="515483"
+  :downloads="515698"
   :updated="1704710661000"
   repo="elias-sundqvist/obsidian-annotator"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Annotator 是一个功能强大的 Obsidian 插件。
 
-Read and annotate PDFs and EPUB files.
+在 PDF 和 EPUB 文件上进行注释。
 
 通过 Annotator,您可以:
 
@@ -199,10 +199,10 @@ Read and annotate PDFs and EPUB files.
 - **插件 ID**：obsidian-annotator
 - **作者**：Elias Sundqvist
 - **当前版本**：v1.0.0
-- **下载量**：515.5K
+- **下载量**：515.7K
 - **最后更新**：2024-01-08
 - **GitHub**：[elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

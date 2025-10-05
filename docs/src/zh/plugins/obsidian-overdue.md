@@ -1,12 +1,12 @@
 ---
 title: Overdue
-description: 'Mark items as [[Overdue]] if they are not checked off by their due date.'
+description: '如果项目没有在到期日之前勾选，则标记为[[逾期]]。'
 author: Peter Parente
-downloads: 4681
+downloads: 4683
 updated: 1637815881000
 repo: parente/obsidian-overdue
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-overdue"
   name="Overdue"
-  description="Mark items as [[Overdue]] if they are not checked off by their due date."
+  description="如果项目没有在到期日之前勾选，则标记为[[逾期]]。"
   author="Peter Parente"
-  :downloads="4681"
+  :downloads="4683"
   :updated="1637815881000"
   repo="parente/obsidian-overdue"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Overdue 是一个功能强大的 Obsidian 插件。
 
-Mark items as [[Overdue]] if they are not checked off by their due date.
+如果项目没有在到期日之前勾选，则标记为[[逾期]]。
 
 通过 Overdue,您可以:
 
@@ -202,7 +202,7 @@ Mark items as [[Overdue]] if they are not checked off by their due date.
 - **下载量**：4.7K
 - **最后更新**：2021-11-25
 - **GitHub**：[parente/obsidian-overdue](https://github.com/parente/obsidian-overdue)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

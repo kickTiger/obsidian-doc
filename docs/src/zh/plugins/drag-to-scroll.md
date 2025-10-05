@@ -2,11 +2,11 @@
 title: Drag To Scroll
 description: 'Drag to scroll - just like on a touch device!'
 author: Constantine Sazonov
-downloads: 546
+downloads: 558
 updated: 1756565053000
 repo: constsz/obsidian-drag-to-scroll
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Drag To Scroll"
   description="Drag to scroll - just like on a touch device!"
   author="Constantine Sazonov"
-  :downloads="546"
+  :downloads="558"
   :updated="1756565053000"
   repo="constsz/obsidian-drag-to-scroll"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Drag to scroll - just like on a touch device!
 - **插件 ID**：drag-to-scroll
 - **作者**：Constantine Sazonov
 - **当前版本**：v1.0.0
-- **下载量**：546
+- **下载量**：558
 - **最后更新**：2025-08-30
 - **GitHub**：[constsz/obsidian-drag-to-scroll](https://github.com/constsz/obsidian-drag-to-scroll)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

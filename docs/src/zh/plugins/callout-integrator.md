@@ -1,12 +1,12 @@
 ---
 title: Callout Integrator
-description: Integrate long blocks of text into callouts.
+description: 将长文本块整合到标注中。
 author: Cleoche
-downloads: 10651
+downloads: 10663
 updated: 1700669670000
 repo: Cleoche/obsidian-callout-integrator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="callout-integrator"
   name="Callout Integrator"
-  description="Integrate long blocks of text into callouts."
+  description="将长文本块整合到标注中。"
   author="Cleoche"
-  :downloads="10651"
+  :downloads="10663"
   :updated="1700669670000"
   repo="Cleoche/obsidian-callout-integrator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Callout Integrator 是一个功能强大的 Obsidian 插件。
 
-Integrate long blocks of text into callouts.
+将长文本块整合到标注中。
 
 通过 Callout Integrator,您可以:
 
@@ -202,7 +202,7 @@ Integrate long blocks of text into callouts.
 - **下载量**：10.7K
 - **最后更新**：2023-11-23
 - **GitHub**：[Cleoche/obsidian-callout-integrator](https://github.com/Cleoche/obsidian-callout-integrator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

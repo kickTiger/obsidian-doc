@@ -1,12 +1,12 @@
 ---
 title: Character Insertion
-description: Insert a specified symbol under the cursor.
+description: 在光标下插入指定符号。
 author: TakamiChie
-downloads: 3774
+downloads: 3775
 updated: 1680425488000
 repo: TakamiChie/Obsidian_CharacterInsertionPlugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="character-insertion"
   name="Character Insertion"
-  description="Insert a specified symbol under the cursor."
+  description="在光标下插入指定符号。"
   author="TakamiChie"
-  :downloads="3774"
+  :downloads="3775"
   :updated="1680425488000"
   repo="TakamiChie/Obsidian_CharacterInsertionPlugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Character Insertion 是一个功能强大的 Obsidian 插件。
 
-Insert a specified symbol under the cursor.
+在光标下插入指定符号。
 
 通过 Character Insertion,您可以:
 
@@ -202,7 +202,7 @@ Insert a specified symbol under the cursor.
 - **下载量**：3.8K
 - **最后更新**：2023-04-02
 - **GitHub**：[TakamiChie/Obsidian_CharacterInsertionPlugin](https://github.com/TakamiChie/Obsidian_CharacterInsertionPlugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

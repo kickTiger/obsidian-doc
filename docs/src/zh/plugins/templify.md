@@ -1,12 +1,12 @@
 ---
 title: Templify
-description: Enables flexible conversion of note views into various layout (Closed source).
+description: 可将笔记视图灵活转换为各种布局（封闭源代码）。
 author: Boninall
-downloads: 6561
+downloads: 6570
 updated: 1752225882000
 repo: Quorafind/Obsidian-Templify
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="templify"
   name="Templify"
-  description="Enables flexible conversion of note views into various layout (Closed source)."
+  description="可将笔记视图灵活转换为各种布局（封闭源代码）。"
   author="Boninall"
-  :downloads="6561"
+  :downloads="6570"
   :updated="1752225882000"
   repo="Quorafind/Obsidian-Templify"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Templify 是一个功能强大的 Obsidian 插件。
 
-Enables flexible conversion of note views into various layout (Closed source).
+可将笔记视图灵活转换为各种布局（封闭源代码）。
 
 通过 Templify,您可以:
 
@@ -202,7 +202,7 @@ Enables flexible conversion of note views into various layout (Closed source).
 - **下载量**：6.6K
 - **最后更新**：2025-07-11
 - **GitHub**：[Quorafind/Obsidian-Templify](https://github.com/Quorafind/Obsidian-Templify)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

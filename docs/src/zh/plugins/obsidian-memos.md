@@ -1,12 +1,12 @@
 ---
 title: Thino
-description: Quickly capture memos and display them in the sidebar with a heatmap. (Closed source)
+description: 快速捕捉备忘录，并通过热图在侧边栏显示。(关闭源代码）
 author: Boninall
-downloads: 275335
+downloads: 275480
 updated: 1758809866000
 repo: Quorafind/Obsidian-Thino
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-memos"
   name="Thino"
-  description="Quickly capture memos and display them in the sidebar with a heatmap. (Closed source)"
+  description="快速捕捉备忘录，并通过热图在侧边栏显示。(关闭源代码）"
   author="Boninall"
-  :downloads="275335"
+  :downloads="275480"
   :updated="1758809866000"
   repo="Quorafind/Obsidian-Thino"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Thino 是一个功能强大的 Obsidian 插件。
 
-Quickly capture memos and display them in the sidebar with a heatmap. (Closed source)
+快速捕捉备忘录，并通过热图在侧边栏显示。(关闭源代码）
 
 通过 Thino,您可以:
 
@@ -199,10 +199,10 @@ Quickly capture memos and display them in the sidebar with a heatmap. (Closed so
 - **插件 ID**：obsidian-memos
 - **作者**：Boninall
 - **当前版本**：v1.0.0
-- **下载量**：275.3K
+- **下载量**：275.5K
 - **最后更新**：2025-09-25
 - **GitHub**：[Quorafind/Obsidian-Thino](https://github.com/Quorafind/Obsidian-Thino)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

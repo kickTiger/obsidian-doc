@@ -2,11 +2,11 @@
 title: Banyan
 description: A homepage to browse, organize, and access notes in card form easily with multi-tag filtering.
 author: ratiger
-downloads: 2814
+downloads: 2821
 updated: 1757321526000
 repo: ratiger/obsidian-banyan
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Banyan"
   description="A homepage to browse, organize, and access notes in card form easily with multi-tag filtering."
   author="ratiger"
-  :downloads="2814"
+  :downloads="2821"
   :updated="1757321526000"
   repo="ratiger/obsidian-banyan"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ A homepage to browse, organize, and access notes in card form easily with multi-
 - **下载量**：2.8K
 - **最后更新**：2025-09-08
 - **GitHub**：[ratiger/obsidian-banyan](https://github.com/ratiger/obsidian-banyan)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

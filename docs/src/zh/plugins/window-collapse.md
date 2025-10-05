@@ -6,7 +6,7 @@ downloads: 3099
 updated: 1630082179000
 repo: gquental/obsidian-window-collapse
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1630082179000"
   repo="gquental/obsidian-window-collapse"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ An easy way to collapse the sidebars without going fullscreen.
 - **下载量**：3.1K
 - **最后更新**：2021-08-28
 - **GitHub**：[gquental/obsidian-window-collapse](https://github.com/gquental/obsidian-window-collapse)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

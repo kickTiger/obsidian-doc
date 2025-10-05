@@ -1,12 +1,12 @@
 ---
 title: Spellcheck Toggler
-description: Toggle spellchecking for types of text blocks in the editing view.
+description: 在编辑视图中切换文本块类型的拼写检查。
 author: Julian Szachowicz
-downloads: 4405
+downloads: 4415
 updated: 1753510029000
 repo: julzerinos/spellcheck-toggler-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="spellcheck-toggler"
   name="Spellcheck Toggler"
-  description="Toggle spellchecking for types of text blocks in the editing view."
+  description="在编辑视图中切换文本块类型的拼写检查。"
   author="Julian Szachowicz"
-  :downloads="4405"
+  :downloads="4415"
   :updated="1753510029000"
   repo="julzerinos/spellcheck-toggler-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Spellcheck Toggler 是一个功能强大的 Obsidian 插件。
 
-Toggle spellchecking for types of text blocks in the editing view.
+在编辑视图中切换文本块类型的拼写检查。
 
 通过 Spellcheck Toggler,您可以:
 
@@ -202,7 +202,7 @@ Toggle spellchecking for types of text blocks in the editing view.
 - **下载量**：4.4K
 - **最后更新**：2025-07-26
 - **GitHub**：[julzerinos/spellcheck-toggler-obsidian-plugin](https://github.com/julzerinos/spellcheck-toggler-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

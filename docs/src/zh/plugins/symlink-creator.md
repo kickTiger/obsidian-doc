@@ -6,7 +6,7 @@ downloads: 759
 updated: 1730377440000
 repo: pteridin/obsidian_symlink_plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1730377440000"
   repo="pteridin/obsidian_symlink_plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create symlinks to files and folders inside and outside of your vault.
 - **下载量**：759
 - **最后更新**：2024-10-31
 - **GitHub**：[pteridin/obsidian_symlink_plugin](https://github.com/pteridin/obsidian_symlink_plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

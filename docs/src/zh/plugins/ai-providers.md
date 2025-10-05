@@ -1,12 +1,12 @@
 ---
 title: AI Providers
-description: A hub for setting AI providers (OpenAI-like, Ollama and more) in one place.
+description: 将人工智能供应商（OpenAI-like、Ollama 等）集于一身的枢纽。
 author: Pavel Frankov
-downloads: 20903
+downloads: 20954
 updated: 1755968458000
 repo: pfrankov/obsidian-ai-providers
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ai-providers"
   name="AI Providers"
-  description="A hub for setting AI providers (OpenAI-like, Ollama and more) in one place."
+  description="将人工智能供应商（OpenAI-like、Ollama 等）集于一身的枢纽。"
   author="Pavel Frankov"
-  :downloads="20903"
+  :downloads="20954"
   :updated="1755968458000"
   repo="pfrankov/obsidian-ai-providers"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AI Providers 是一个功能强大的 Obsidian 插件。
 
-A hub for setting AI providers (OpenAI-like, Ollama and more) in one place.
+将人工智能供应商（OpenAI-like、Ollama 等）集于一身的枢纽。
 
 通过 AI Providers,您可以:
 
@@ -199,10 +199,10 @@ A hub for setting AI providers (OpenAI-like, Ollama and more) in one place.
 - **插件 ID**：ai-providers
 - **作者**：Pavel Frankov
 - **当前版本**：v1.0.0
-- **下载量**：20.9K
+- **下载量**：21.0K
 - **最后更新**：2025-08-24
 - **GitHub**：[pfrankov/obsidian-ai-providers](https://github.com/pfrankov/obsidian-ai-providers)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

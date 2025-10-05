@@ -2,11 +2,11 @@
 title: Wardley Maps
 description: View and edit Wardley Maps directly within your notes using the popular Online Wardley Maps (OWM) format.
 author: Damon Skelhorn
-downloads: 406
+downloads: 407
 updated: 1732884047000
 repo: damonsk/obsidian-wardley-maps
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Wardley Maps"
   description="View and edit Wardley Maps directly within your notes using the popular Online Wardley Maps (OWM) format."
   author="Damon Skelhorn"
-  :downloads="406"
+  :downloads="407"
   :updated="1732884047000"
   repo="damonsk/obsidian-wardley-maps"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ View and edit Wardley Maps directly within your notes using the popular Online W
 - **插件 ID**：wardley-maps
 - **作者**：Damon Skelhorn
 - **当前版本**：v1.0.0
-- **下载量**：406
+- **下载量**：407
 - **最后更新**：2024-11-29
 - **GitHub**：[damonsk/obsidian-wardley-maps](https://github.com/damonsk/obsidian-wardley-maps)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

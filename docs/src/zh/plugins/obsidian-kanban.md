@@ -1,12 +1,12 @@
 ---
 title: Kanban
-description: Create Markdown-backed Kanban boards.
+description: 创建基于 Markdown 的看板。
 author: mgmeyers
 downloads: 1912432
 updated: 1717117708000
 repo: mgmeyers/obsidian-kanban
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-kanban"
   name="Kanban"
-  description="Create Markdown-backed Kanban boards."
+  description="创建基于 Markdown 的看板。"
   author="mgmeyers"
   :downloads="1912432"
   :updated="1717117708000"
   repo="mgmeyers/obsidian-kanban"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Kanban 是一个功能强大的 Obsidian 插件。
 
-Create Markdown-backed Kanban boards.
+创建基于 Markdown 的看板。
 
 通过 Kanban,您可以:
 
@@ -202,7 +202,7 @@ Create Markdown-backed Kanban boards.
 - **下载量**：1.91M
 - **最后更新**：2024-05-31
 - **GitHub**：[mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

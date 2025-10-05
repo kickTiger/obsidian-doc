@@ -1,12 +1,12 @@
 ---
 title: Linked Data Vocabularies
-description: Add Library of Congress Subject Headings (LCSH) as metadata to your notes.
+description: 在笔记中添加国会图书馆主题词表 (LCSH) 作为元数据。
 author: kometenstaub
 downloads: 5474
 updated: 1704287359000
 repo: kometenstaub/linked-data-vocabularies
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="linked-data-vocabularies"
   name="Linked Data Vocabularies"
-  description="Add Library of Congress Subject Headings (LCSH) as metadata to your notes."
+  description="在笔记中添加国会图书馆主题词表 (LCSH) 作为元数据。"
   author="kometenstaub"
   :downloads="5474"
   :updated="1704287359000"
   repo="kometenstaub/linked-data-vocabularies"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Linked Data Vocabularies 是一个功能强大的 Obsidian 插件。
 
-Add Library of Congress Subject Headings (LCSH) as metadata to your notes.
+在笔记中添加国会图书馆主题词表 (LCSH) 作为元数据。
 
 通过 Linked Data Vocabularies,您可以:
 
@@ -202,7 +202,7 @@ Add Library of Congress Subject Headings (LCSH) as metadata to your notes.
 - **下载量**：5.5K
 - **最后更新**：2024-01-03
 - **GitHub**：[kometenstaub/linked-data-vocabularies](https://github.com/kometenstaub/linked-data-vocabularies)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

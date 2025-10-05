@@ -1,12 +1,12 @@
 ---
 title: HackerOne
-description: Fetch HackerOne bug reports.
+description: 获取 HackerOne 错误报告。
 author: neolex
 downloads: 3587
 updated: 1734435027000
 repo: Neolex-Security/obsidian-hackerone
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="hackerone"
   name="HackerOne"
-  description="Fetch HackerOne bug reports."
+  description="获取 HackerOne 错误报告。"
   author="neolex"
   :downloads="3587"
   :updated="1734435027000"
   repo="Neolex-Security/obsidian-hackerone"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 HackerOne 是一个功能强大的 Obsidian 插件。
 
-Fetch HackerOne bug reports.
+获取 HackerOne 错误报告。
 
 通过 HackerOne,您可以:
 
@@ -202,7 +202,7 @@ Fetch HackerOne bug reports.
 - **下载量**：3.6K
 - **最后更新**：2024-12-17
 - **GitHub**：[Neolex-Security/obsidian-hackerone](https://github.com/Neolex-Security/obsidian-hackerone)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

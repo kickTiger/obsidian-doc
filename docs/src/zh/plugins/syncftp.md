@@ -1,12 +1,12 @@
 ---
 title: SyncFTP
-description: Connect to an SFTP and push/pull file changes to it.
+description: 连接到 SFTP 并向其推送/拉取文件更改。
 author: Alex Donnan
-downloads: 5277
+downloads: 5281
 updated: 1686674796000
 repo: alex-donnan/SyncFTP
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="syncftp"
   name="SyncFTP"
-  description="Connect to an SFTP and push/pull file changes to it."
+  description="连接到 SFTP 并向其推送/拉取文件更改。"
   author="Alex Donnan"
-  :downloads="5277"
+  :downloads="5281"
   :updated="1686674796000"
   repo="alex-donnan/SyncFTP"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 SyncFTP 是一个功能强大的 Obsidian 插件。
 
-Connect to an SFTP and push/pull file changes to it.
+连接到 SFTP 并向其推送/拉取文件更改。
 
 通过 SyncFTP,您可以:
 
@@ -202,7 +202,7 @@ Connect to an SFTP and push/pull file changes to it.
 - **下载量**：5.3K
 - **最后更新**：2023-06-14
 - **GitHub**：[alex-donnan/SyncFTP](https://github.com/alex-donnan/SyncFTP)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

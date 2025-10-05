@@ -1,12 +1,12 @@
 ---
 title: Enhanced Canvas
-description: Syncs Canvas node connections with properties in note, automating document relationship management.
+description: 将 Canvas 节点连接与注释中的属性同步，实现文档关系管理自动化。
 author: RobertttBS
-downloads: 3654
+downloads: 3669
 updated: 1758676833000
 repo: RobertttBS/obsidian-enhanced-canvas
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="enhanced-canvas"
   name="Enhanced Canvas"
-  description="Syncs Canvas node connections with properties in note, automating document relationship management."
+  description="将 Canvas 节点连接与注释中的属性同步，实现文档关系管理自动化。"
   author="RobertttBS"
-  :downloads="3654"
+  :downloads="3669"
   :updated="1758676833000"
   repo="RobertttBS/obsidian-enhanced-canvas"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Enhanced Canvas 是一个功能强大的 Obsidian 插件。
 
-Syncs Canvas node connections with properties in note, automating document relationship management.
+将 Canvas 节点连接与注释中的属性同步，实现文档关系管理自动化。
 
 通过 Enhanced Canvas,您可以:
 
@@ -202,7 +202,7 @@ Syncs Canvas node connections with properties in note, automating document relat
 - **下载量**：3.7K
 - **最后更新**：2025-09-24
 - **GitHub**：[RobertttBS/obsidian-enhanced-canvas](https://github.com/RobertttBS/obsidian-enhanced-canvas)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

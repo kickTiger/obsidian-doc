@@ -6,7 +6,7 @@ downloads: 2450
 updated: 1700461238000
 repo: lifeodyssey/obsidian-hexo-auto-update
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1700461238000"
   repo="lifeodyssey/obsidian-hexo-auto-update"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Monitor changes in your vault, and automatically commit and push them to your He
 - **下载量**：2.5K
 - **最后更新**：2023-11-20
 - **GitHub**：[lifeodyssey/obsidian-hexo-auto-update](https://github.com/lifeodyssey/obsidian-hexo-auto-update)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Vantage - Advanced search builder
-description: Build advanced search queries.
+description: 建立高级搜索查询。
 author: ryanjamurphy
-downloads: 28810
+downloads: 28812
 updated: 1665590102000
 repo: ryanjamurphy/vantage-obsidian
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vantage-obsidian"
   name="Vantage - Advanced search builder"
-  description="Build advanced search queries."
+  description="建立高级搜索查询。"
   author="ryanjamurphy"
-  :downloads="28810"
+  :downloads="28812"
   :updated="1665590102000"
   repo="ryanjamurphy/vantage-obsidian"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vantage - Advanced search builder 是一个功能强大的 Obsidian 插件。
 
-Build advanced search queries.
+建立高级搜索查询。
 
 通过 Vantage - Advanced search builder,您可以:
 
@@ -202,7 +202,7 @@ Build advanced search queries.
 - **下载量**：28.8K
 - **最后更新**：2022-10-12
 - **GitHub**：[ryanjamurphy/vantage-obsidian](https://github.com/ryanjamurphy/vantage-obsidian)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

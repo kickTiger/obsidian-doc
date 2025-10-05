@@ -1,12 +1,12 @@
 ---
 title: Markdown to Jira Converter
-description: Convert notes or selections to Jira markup and vice versa.
+description: 将注释或选区转换为 Jira 标记，反之亦然。
 author: muckmuck
-downloads: 8325
+downloads: 8328
 updated: 1725111519000
 repo: muckmuck96/obsidian-md-to-jira
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-md-to-jira"
   name="Markdown to Jira Converter"
-  description="Convert notes or selections to Jira markup and vice versa."
+  description="将注释或选区转换为 Jira 标记，反之亦然。"
   author="muckmuck"
-  :downloads="8325"
+  :downloads="8328"
   :updated="1725111519000"
   repo="muckmuck96/obsidian-md-to-jira"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown to Jira Converter 是一个功能强大的 Obsidian 插件。
 
-Convert notes or selections to Jira markup and vice versa.
+将注释或选区转换为 Jira 标记，反之亦然。
 
 通过 Markdown to Jira Converter,您可以:
 
@@ -202,7 +202,7 @@ Convert notes or selections to Jira markup and vice versa.
 - **下载量**：8.3K
 - **最后更新**：2024-08-31
 - **GitHub**：[muckmuck96/obsidian-md-to-jira](https://github.com/muckmuck96/obsidian-md-to-jira)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

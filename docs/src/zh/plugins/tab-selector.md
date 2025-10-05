@@ -1,12 +1,12 @@
 ---
 title: Tab Selector
-description: Quickly switch tabs in various ways.
+description: 以各种方式快速切换标签。
 author: namikaze-40p
-downloads: 6040
+downloads: 6048
 updated: 1757145129000
 repo: namikaze-40p/obsidian-tab-selector
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tab-selector"
   name="Tab Selector"
-  description="Quickly switch tabs in various ways."
+  description="以各种方式快速切换标签。"
   author="namikaze-40p"
-  :downloads="6040"
+  :downloads="6048"
   :updated="1757145129000"
   repo="namikaze-40p/obsidian-tab-selector"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tab Selector 是一个功能强大的 Obsidian 插件。
 
-Quickly switch tabs in various ways.
+以各种方式快速切换标签。
 
 通过 Tab Selector,您可以:
 
@@ -202,7 +202,7 @@ Quickly switch tabs in various ways.
 - **下载量**：6.0K
 - **最后更新**：2025-09-06
 - **GitHub**：[namikaze-40p/obsidian-tab-selector](https://github.com/namikaze-40p/obsidian-tab-selector)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

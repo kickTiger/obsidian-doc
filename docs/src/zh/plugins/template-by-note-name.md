@@ -2,11 +2,11 @@
 title: Template by Note Name
 description: Automatically template notes based on their title.
 author: Jacob Learned
-downloads: 752
+downloads: 754
 updated: 1734760859000
 repo: jacoblearned/obsidian-template-by-note-name
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Template by Note Name"
   description="Automatically template notes based on their title."
   author="Jacob Learned"
-  :downloads="752"
+  :downloads="754"
   :updated="1734760859000"
   repo="jacoblearned/obsidian-template-by-note-name"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically template notes based on their title.
 - **插件 ID**：template-by-note-name
 - **作者**：Jacob Learned
 - **当前版本**：v1.0.0
-- **下载量**：752
+- **下载量**：754
 - **最后更新**：2024-12-21
 - **GitHub**：[jacoblearned/obsidian-template-by-note-name](https://github.com/jacoblearned/obsidian-template-by-note-name)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

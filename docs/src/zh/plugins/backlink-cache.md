@@ -1,12 +1,12 @@
 ---
 title: Backlink Cache
-description: 'Store backlink cache to speed up `app.metadataCache.getBacklinksForFile`.'
+description: '存储反向链接缓存以加速 `app.metadataCache.getBacklinksForFile`。'
 author: mnaoumov
-downloads: 16185
+downloads: 16230
 updated: 1759383738000
 repo: mnaoumov/obsidian-backlink-cache
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="backlink-cache"
   name="Backlink Cache"
-  description="Store backlink cache to speed up `app.metadataCache.getBacklinksForFile`."
+  description="存储反向链接缓存以加速 `app.metadataCache.getBacklinksForFile`。"
   author="mnaoumov"
-  :downloads="16185"
+  :downloads="16230"
   :updated="1759383738000"
   repo="mnaoumov/obsidian-backlink-cache"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Backlink Cache 是一个功能强大的 Obsidian 插件。
 
-Store backlink cache to speed up `app.metadataCache.getBacklinksForFile`.
+存储反向链接缓存以加速 `app.metadataCache.getBacklinksForFile`。
 
 通过 Backlink Cache,您可以:
 
@@ -202,7 +202,7 @@ Store backlink cache to speed up `app.metadataCache.getBacklinksForFile`.
 - **下载量**：16.2K
 - **最后更新**：2025-10-02
 - **GitHub**：[mnaoumov/obsidian-backlink-cache](https://github.com/mnaoumov/obsidian-backlink-cache)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

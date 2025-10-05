@@ -2,11 +2,11 @@
 title: Toggle RTL mode
 description: Toggle RTL mode using command or ribbon action
 author: Yoni Asulin
-downloads: 466
+downloads: 467
 updated: 1714124061000
 repo: YoniA/toggle-rtl-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Toggle RTL mode"
   description="Toggle RTL mode using command or ribbon action"
   author="Yoni Asulin"
-  :downloads="466"
+  :downloads="467"
   :updated="1714124061000"
   repo="YoniA/toggle-rtl-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Toggle RTL mode using command or ribbon action
 - **插件 ID**：toggle-rtl-mode
 - **作者**：Yoni Asulin
 - **当前版本**：v1.0.0
-- **下载量**：466
+- **下载量**：467
 - **最后更新**：2024-04-26
 - **GitHub**：[YoniA/toggle-rtl-obsidian-plugin](https://github.com/YoniA/toggle-rtl-obsidian-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

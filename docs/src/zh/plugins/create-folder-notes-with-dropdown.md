@@ -2,11 +2,11 @@
 title: create folder notes with dropdown
 description: create-folder-notes-with-dropdown is a plugin designed to help users quickly create Markdown files in existing or nonexisting folders with dropdown.
 author: Sturdy Shawn
-downloads: 467
+downloads: 468
 updated: 1733104291000
 repo: SturdyShawn/Create-folder-notes-with-dropdown
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="create folder notes with dropdown"
   description="create-folder-notes-with-dropdown is a plugin designed to help users quickly create Markdown files in existing or nonexisting folders with dropdown."
   author="Sturdy Shawn"
-  :downloads="467"
+  :downloads="468"
   :updated="1733104291000"
   repo="SturdyShawn/Create-folder-notes-with-dropdown"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ create-folder-notes-with-dropdown is a plugin designed to help users quickly cre
 - **插件 ID**：create-folder-notes-with-dropdown
 - **作者**：Sturdy Shawn
 - **当前版本**：v1.0.0
-- **下载量**：467
+- **下载量**：468
 - **最后更新**：2024-12-02
 - **GitHub**：[SturdyShawn/Create-folder-notes-with-dropdown](https://github.com/SturdyShawn/Create-folder-notes-with-dropdown)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

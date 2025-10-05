@@ -6,7 +6,7 @@ downloads: 419
 updated: 1743107558000
 repo: Andrii256/ops_obsidian_smart-day-night-switcher
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1743107558000"
   repo="Andrii256/ops_obsidian_smart-day-night-switcher"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Intelligently determines sunrise and sunset times and automatically switches the
 - **下载量**：419
 - **最后更新**：2025-03-28
 - **GitHub**：[Andrii256/ops_obsidian_smart-day-night-switcher](https://github.com/Andrii256/ops_obsidian_smart-day-night-switcher)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

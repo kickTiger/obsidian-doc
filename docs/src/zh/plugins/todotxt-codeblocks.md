@@ -1,12 +1,12 @@
 ---
 title: TodoTxt Codeblocks
-description: Manage your tasks inside code blocks according to the Todo.txt specification.
+description: 根据 Todo.txt 规范管理代码块内的任务。
 author: Benjamin Nguyen
-downloads: 4430
+downloads: 4431
 updated: 1729404934000
 repo: benjamonnguyen/obsidian-todotxt-codeblocks
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="todotxt-codeblocks"
   name="TodoTxt Codeblocks"
-  description="Manage your tasks inside code blocks according to the Todo.txt specification."
+  description="根据 Todo.txt 规范管理代码块内的任务。"
   author="Benjamin Nguyen"
-  :downloads="4430"
+  :downloads="4431"
   :updated="1729404934000"
   repo="benjamonnguyen/obsidian-todotxt-codeblocks"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 TodoTxt Codeblocks 是一个功能强大的 Obsidian 插件。
 
-Manage your tasks inside code blocks according to the Todo.txt specification.
+根据 Todo.txt 规范管理代码块内的任务。
 
 通过 TodoTxt Codeblocks,您可以:
 
@@ -202,7 +202,7 @@ Manage your tasks inside code blocks according to the Todo.txt specification.
 - **下载量**：4.4K
 - **最后更新**：2024-10-20
 - **GitHub**：[benjamonnguyen/obsidian-todotxt-codeblocks](https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

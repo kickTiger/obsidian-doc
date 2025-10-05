@@ -1,12 +1,12 @@
 ---
 title: Tag Buddy
-description: Add, edit, and remove tags in reading mode. Copy, move, or edit tagged blocks in reading and edit mode.
+description: 在阅读模式下添加、编辑和删除标记。在阅读和编辑模式下复制、移动或编辑标记块。
 author: David Fasullo
-downloads: 5008
+downloads: 5010
 updated: 1738100163000
 repo: moremeyou/Obsidian-Tag-Buddy
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tag-buddy"
   name="Tag Buddy"
-  description="Add, edit, and remove tags in reading mode. Copy, move, or edit tagged blocks in reading and edit mode."
+  description="在阅读模式下添加、编辑和删除标记。在阅读和编辑模式下复制、移动或编辑标记块。"
   author="David Fasullo"
-  :downloads="5008"
+  :downloads="5010"
   :updated="1738100163000"
   repo="moremeyou/Obsidian-Tag-Buddy"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tag Buddy 是一个功能强大的 Obsidian 插件。
 
-Add, edit, and remove tags in reading mode. Copy, move, or edit tagged blocks in reading and edit mode.
+在阅读模式下添加、编辑和删除标记。在阅读和编辑模式下复制、移动或编辑标记块。
 
 通过 Tag Buddy,您可以:
 
@@ -202,7 +202,7 @@ Add, edit, and remove tags in reading mode. Copy, move, or edit tagged blocks in
 - **下载量**：5.0K
 - **最后更新**：2025-01-29
 - **GitHub**：[moremeyou/Obsidian-Tag-Buddy](https://github.com/moremeyou/Obsidian-Tag-Buddy)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

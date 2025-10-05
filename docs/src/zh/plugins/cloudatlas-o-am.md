@@ -2,11 +2,11 @@
 title: Amazing Marvin Integration
 description: Integration with Amazing Marvin (unofficial). Supports exporting AM tasks/projects, creating new tasks and completing tasks.
 author: Cloud Atlas
-downloads: 1646
+downloads: 1649
 updated: 1712627636000
 repo: cloud-atlas-ai/obsidian-am
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Amazing Marvin Integration"
   description="Integration with Amazing Marvin (unofficial). Supports exporting AM tasks/projects, creating new tasks and completing tasks."
   author="Cloud Atlas"
-  :downloads="1646"
+  :downloads="1649"
   :updated="1712627636000"
   repo="cloud-atlas-ai/obsidian-am"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Integration with Amazing Marvin (unofficial). Supports exporting AM tasks/projec
 - **下载量**：1.6K
 - **最后更新**：2024-04-09
 - **GitHub**：[cloud-atlas-ai/obsidian-am](https://github.com/cloud-atlas-ai/obsidian-am)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

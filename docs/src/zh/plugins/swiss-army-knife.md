@@ -1,12 +1,12 @@
 ---
 title: Swiss army knife
-description: Collection of various utilities (e.g. duplicate empty line remover).
+description: 收集各种实用工具（如重复空行移除器）。
 author: mwoz123
-downloads: 9768
+downloads: 9791
 updated: 1752071192000
 repo: mwoz123/swiss-army-knife-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="swiss-army-knife"
   name="Swiss army knife"
-  description="Collection of various utilities (e.g. duplicate empty line remover)."
+  description="收集各种实用工具（如重复空行移除器）。"
   author="mwoz123"
-  :downloads="9768"
+  :downloads="9791"
   :updated="1752071192000"
   repo="mwoz123/swiss-army-knife-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Swiss army knife 是一个功能强大的 Obsidian 插件。
 
-Collection of various utilities (e.g. duplicate empty line remover).
+收集各种实用工具（如重复空行移除器）。
 
 通过 Swiss army knife,您可以:
 
@@ -202,7 +202,7 @@ Collection of various utilities (e.g. duplicate empty line remover).
 - **下载量**：9.8K
 - **最后更新**：2025-07-09
 - **GitHub**：[mwoz123/swiss-army-knife-obsidian](https://github.com/mwoz123/swiss-army-knife-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

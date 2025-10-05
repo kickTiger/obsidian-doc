@@ -1,12 +1,12 @@
 ---
 title: Trello
-description: Connect Trello cards to notes.
+description: 将 Trello 卡连接到笔记
 author: Nathonius
-downloads: 15856
+downloads: 15860
 updated: 1734094911000
 repo: nathonius/obsidian-trello
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-trello"
   name="Trello"
-  description="Connect Trello cards to notes."
+  description="将 Trello 卡连接到笔记"
   author="Nathonius"
-  :downloads="15856"
+  :downloads="15860"
   :updated="1734094911000"
   repo="nathonius/obsidian-trello"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Trello 是一个功能强大的 Obsidian 插件。
 
-Connect Trello cards to notes.
+将 Trello 卡连接到笔记
 
 通过 Trello,您可以:
 
@@ -202,7 +202,7 @@ Connect Trello cards to notes.
 - **下载量**：15.9K
 - **最后更新**：2024-12-13
 - **GitHub**：[nathonius/obsidian-trello](https://github.com/nathonius/obsidian-trello)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

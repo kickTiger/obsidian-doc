@@ -1,12 +1,12 @@
 ---
 title: Color Folders and Files
-description: Customize the appearance of folders and files in the file explorer.
+description: 自定义文件资源管理器中文件夹和文件的外观。
 author: Mithadon
-downloads: 13258
+downloads: 13297
 updated: 1733966440000
 repo: Mithadon/obsidian-color-folders-files
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="color-folders-files"
   name="Color Folders and Files"
-  description="Customize the appearance of folders and files in the file explorer."
+  description="自定义文件资源管理器中文件夹和文件的外观。"
   author="Mithadon"
-  :downloads="13258"
+  :downloads="13297"
   :updated="1733966440000"
   repo="Mithadon/obsidian-color-folders-files"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Color Folders and Files 是一个功能强大的 Obsidian 插件。
 
-Customize the appearance of folders and files in the file explorer.
+自定义文件资源管理器中文件夹和文件的外观。
 
 通过 Color Folders and Files,您可以:
 
@@ -202,7 +202,7 @@ Customize the appearance of folders and files in the file explorer.
 - **下载量**：13.3K
 - **最后更新**：2024-12-12
 - **GitHub**：[Mithadon/obsidian-color-folders-files](https://github.com/Mithadon/obsidian-color-folders-files)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

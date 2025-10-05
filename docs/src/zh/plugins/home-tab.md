@@ -1,12 +1,12 @@
 ---
 title: Home tab
-description: A browser-like search tab for your local files.
+description: 类似浏览器的本地文件搜索选项卡。
 author: Renso
-downloads: 58635
+downloads: 58678
 updated: 1729411888000
 repo: olrenso/obsidian-home-tab
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="home-tab"
   name="Home tab"
-  description="A browser-like search tab for your local files."
+  description="类似浏览器的本地文件搜索选项卡。"
   author="Renso"
-  :downloads="58635"
+  :downloads="58678"
   :updated="1729411888000"
   repo="olrenso/obsidian-home-tab"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Home tab 是一个功能强大的 Obsidian 插件。
 
-A browser-like search tab for your local files.
+类似浏览器的本地文件搜索选项卡。
 
 通过 Home tab,您可以:
 
@@ -199,10 +199,10 @@ A browser-like search tab for your local files.
 - **插件 ID**：home-tab
 - **作者**：Renso
 - **当前版本**：v1.0.0
-- **下载量**：58.6K
+- **下载量**：58.7K
 - **最后更新**：2024-10-20
 - **GitHub**：[olrenso/obsidian-home-tab](https://github.com/olrenso/obsidian-home-tab)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Hugo preview
-description: Preview your Hugo site.
+description: 预览雨果网站
 author: fzdwx
-downloads: 4621
+downloads: 4622
 updated: 1725288124000
 repo: fzdwx/hugo-preview-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="hugo-preview-obsidian"
   name="Hugo preview"
-  description="Preview your Hugo site."
+  description="预览雨果网站"
   author="fzdwx"
-  :downloads="4621"
+  :downloads="4622"
   :updated="1725288124000"
   repo="fzdwx/hugo-preview-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hugo preview 是一个功能强大的 Obsidian 插件。
 
-Preview your Hugo site.
+预览雨果网站
 
 通过 Hugo preview,您可以:
 
@@ -202,7 +202,7 @@ Preview your Hugo site.
 - **下载量**：4.6K
 - **最后更新**：2024-09-02
 - **GitHub**：[fzdwx/hugo-preview-obsidian](https://github.com/fzdwx/hugo-preview-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

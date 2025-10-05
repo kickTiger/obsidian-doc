@@ -2,11 +2,11 @@
 title: Mapbox Location Image
 description: Renders an mapbox location image based on given coordinates.
 author: Aaron Czichon
-downloads: 1490
+downloads: 1495
 updated: 1747925292000
 repo: aaronczichon/obsidian-location-plugin
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Mapbox Location Image"
   description="Renders an mapbox location image based on given coordinates."
   author="Aaron Czichon"
-  :downloads="1490"
+  :downloads="1495"
   :updated="1747925292000"
   repo="aaronczichon/obsidian-location-plugin"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Renders an mapbox location image based on given coordinates.
 - **下载量**：1.5K
 - **最后更新**：2025-05-22
 - **GitHub**：[aaronczichon/obsidian-location-plugin](https://github.com/aaronczichon/obsidian-location-plugin)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

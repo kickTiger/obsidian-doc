@@ -1,12 +1,12 @@
 ---
 title: Pixel Banner
-description: Enhance your notes with customizable banner images, including AI-generated designs and a curated store of downloadable banners. Transform your workspace with visually stunning headers that add context, improve aesthetics, and take your note-taking beyond the ordinary.
+description: 使用可定制的横幅图片，包括人工智能生成的设计和可下载的横幅图片库，来增强你的笔记效果。用视觉效果极佳的标题改变你的工作空间，添加上下文，提高美观度，让你的笔记不再平凡。
 author: Justin Parker
-downloads: 76892
+downloads: 77069
 updated: 1757966594000
 repo: jparkerweb/pixel-banner
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pexels-banner"
   name="Pixel Banner"
-  description="Enhance your notes with customizable banner images, including AI-generated designs and a curated store of downloadable banners. Transform your workspace with visually stunning headers that add context, improve aesthetics, and take your note-taking beyond the ordinary."
+  description="使用可定制的横幅图片，包括人工智能生成的设计和可下载的横幅图片库，来增强你的笔记效果。用视觉效果极佳的标题改变你的工作空间，添加上下文，提高美观度，让你的笔记不再平凡。"
   author="Justin Parker"
-  :downloads="76892"
+  :downloads="77069"
   :updated="1757966594000"
   repo="jparkerweb/pixel-banner"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pixel Banner 是一个功能强大的 Obsidian 插件。
 
-Enhance your notes with customizable banner images, including AI-generated designs and a curated store of downloadable banners. Transform your workspace with visually stunning headers that add context, improve aesthetics, and take your note-taking beyond the ordinary.
+使用可定制的横幅图片，包括人工智能生成的设计和可下载的横幅图片库，来增强你的笔记效果。用视觉效果极佳的标题改变你的工作空间，添加上下文，提高美观度，让你的笔记不再平凡。
 
 通过 Pixel Banner,您可以:
 
@@ -199,10 +199,10 @@ Enhance your notes with customizable banner images, including AI-generated desig
 - **插件 ID**：pexels-banner
 - **作者**：Justin Parker
 - **当前版本**：v1.0.0
-- **下载量**：76.9K
+- **下载量**：77.1K
 - **最后更新**：2025-09-16
 - **GitHub**：[jparkerweb/pixel-banner](https://github.com/jparkerweb/pixel-banner)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Infostacker Note Publish
 description: 'Share your notes with attachments easy!'
 author: Taskscape LTD, Patryk Nowak, Kacper Pabianiak
-downloads: 528
+downloads: 529
 updated: 1752677968000
 repo: taskscape/InfostackerPlugin
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Infostacker Note Publish"
   description="Share your notes with attachments easy!"
   author="Taskscape LTD, Patryk Nowak, Kacper Pabianiak"
-  :downloads="528"
+  :downloads="529"
   :updated="1752677968000"
   repo="taskscape/InfostackerPlugin"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Share your notes with attachments easy!
 - **插件 ID**：infostacker
 - **作者**：Taskscape LTD, Patryk Nowak, Kacper Pabianiak
 - **当前版本**：v1.0.0
-- **下载量**：528
+- **下载量**：529
 - **最后更新**：2025-07-16
 - **GitHub**：[taskscape/InfostackerPlugin](https://github.com/taskscape/InfostackerPlugin)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

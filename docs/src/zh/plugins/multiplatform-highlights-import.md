@@ -6,7 +6,7 @@ downloads: 271
 updated: 1719269888000
 repo: wwwkieran/obsidian-multiplatform-highlights-import
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1719269888000"
   repo="wwwkieran/obsidian-multiplatform-highlights-import"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Import and consolidate highlights from different reading sources. Supports recon
 - **下载量**：271
 - **最后更新**：2024-06-25
 - **GitHub**：[wwwkieran/obsidian-multiplatform-highlights-import](https://github.com/wwwkieran/obsidian-multiplatform-highlights-import)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

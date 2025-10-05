@@ -2,11 +2,11 @@
 title: Command Block List
 description: Hide unwanted commands from the command palette.
 author: Ryota Ushio
-downloads: 1751
+downloads: 1753
 updated: 1708315327000
 repo: RyotaUshio/obsidian-command-block-list
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Command Block List"
   description="Hide unwanted commands from the command palette."
   author="Ryota Ushio"
-  :downloads="1751"
+  :downloads="1753"
   :updated="1708315327000"
   repo="RyotaUshio/obsidian-command-block-list"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Hide unwanted commands from the command palette.
 - **下载量**：1.8K
 - **最后更新**：2024-02-19
 - **GitHub**：[RyotaUshio/obsidian-command-block-list](https://github.com/RyotaUshio/obsidian-command-block-list)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

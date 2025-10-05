@@ -1,12 +1,12 @@
 ---
 title: Page Gallery
-description: Create an embeddable gallery based on selected page contents.
+description: 根据选定的页面内容创建可嵌入的图库。
 author: Nathan Clark
-downloads: 13771
+downloads: 13775
 updated: 1708360754000
 repo: tokenshift/obsidian-page-gallery
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="page-gallery"
   name="Page Gallery"
-  description="Create an embeddable gallery based on selected page contents."
+  description="根据选定的页面内容创建可嵌入的图库。"
   author="Nathan Clark"
-  :downloads="13771"
+  :downloads="13775"
   :updated="1708360754000"
   repo="tokenshift/obsidian-page-gallery"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Page Gallery 是一个功能强大的 Obsidian 插件。
 
-Create an embeddable gallery based on selected page contents.
+根据选定的页面内容创建可嵌入的图库。
 
 通过 Page Gallery,您可以:
 
@@ -202,7 +202,7 @@ Create an embeddable gallery based on selected page contents.
 - **下载量**：13.8K
 - **最后更新**：2024-02-20
 - **GitHub**：[tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Custom File Extensions and Types
-description: Simple and modular control over what views open what file extensions from the app settings.
+description: 通过应用程序设置，可简单、模块化地控制哪些视图可打开哪些文件扩展名。
 author: MeepTech
-downloads: 10104
+downloads: 10118
 updated: 1702847509000
 repo: MeepTech/obsidian-custom-file-extensions-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-custom-file-extensions-plugin"
   name="Custom File Extensions and Types"
-  description="Simple and modular control over what views open what file extensions from the app settings."
+  description="通过应用程序设置，可简单、模块化地控制哪些视图可打开哪些文件扩展名。"
   author="MeepTech"
-  :downloads="10104"
+  :downloads="10118"
   :updated="1702847509000"
   repo="MeepTech/obsidian-custom-file-extensions-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Custom File Extensions and Types 是一个功能强大的 Obsidian 插件。
 
-Simple and modular control over what views open what file extensions from the app settings.
+通过应用程序设置，可简单、模块化地控制哪些视图可打开哪些文件扩展名。
 
 通过 Custom File Extensions and Types,您可以:
 
@@ -202,7 +202,7 @@ Simple and modular control over what views open what file extensions from the ap
 - **下载量**：10.1K
 - **最后更新**：2023-12-18
 - **GitHub**：[MeepTech/obsidian-custom-file-extensions-plugin](https://github.com/MeepTech/obsidian-custom-file-extensions-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

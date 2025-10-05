@@ -2,11 +2,11 @@
 title: Things3 Today
 description: 'Manage today''s tasks with Things3.'
 author: wudanyang6
-downloads: 2272
+downloads: 2274
 updated: 1706190970000
 repo: wudanyang6/obsidian-things3-today
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Things3 Today"
   description="Manage today&#39;s tasks with Things3."
   author="wudanyang6"
-  :downloads="2272"
+  :downloads="2274"
   :updated="1706190970000"
   repo="wudanyang6/obsidian-things3-today"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manage today&#39;s tasks with Things3.
 - **下载量**：2.3K
 - **最后更新**：2024-01-25
 - **GitHub**：[wudanyang6/obsidian-things3-today](https://github.com/wudanyang6/obsidian-things3-today)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Embedded Code Title
-description: Embed a title in code blocks.
+description: 在代码块中嵌入标题。
 author: tadashi-aikawa
-downloads: 14946
+downloads: 14949
 updated: 1666315274000
 repo: tadashi-aikawa/obsidian-embedded-code-title
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-embedded-code-title"
   name="Embedded Code Title"
-  description="Embed a title in code blocks."
+  description="在代码块中嵌入标题。"
   author="tadashi-aikawa"
-  :downloads="14946"
+  :downloads="14949"
   :updated="1666315274000"
   repo="tadashi-aikawa/obsidian-embedded-code-title"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Embedded Code Title 是一个功能强大的 Obsidian 插件。
 
-Embed a title in code blocks.
+在代码块中嵌入标题。
 
 通过 Embedded Code Title,您可以:
 
@@ -202,7 +202,7 @@ Embed a title in code blocks.
 - **下载量**：14.9K
 - **最后更新**：2022-10-21
 - **GitHub**：[tadashi-aikawa/obsidian-embedded-code-title](https://github.com/tadashi-aikawa/obsidian-embedded-code-title)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

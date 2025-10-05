@@ -1,12 +1,12 @@
 ---
 title: Syncthing Integration
-description: Syncthing integration.
+description: 同步整合。
 author: LBF38
-downloads: 29870
+downloads: 29903
 updated: 1714344028000
 repo: LBF38/obsidian-syncthing-integration
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="syncthing-integration"
   name="Syncthing Integration"
-  description="Syncthing integration."
+  description="同步整合。"
   author="LBF38"
-  :downloads="29870"
+  :downloads="29903"
   :updated="1714344028000"
   repo="LBF38/obsidian-syncthing-integration"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Syncthing Integration 是一个功能强大的 Obsidian 插件。
 
-Syncthing integration.
+同步整合。
 
 通过 Syncthing Integration,您可以:
 
@@ -202,7 +202,7 @@ Syncthing integration.
 - **下载量**：29.9K
 - **最后更新**：2024-04-29
 - **GitHub**：[LBF38/obsidian-syncthing-integration](https://github.com/LBF38/obsidian-syncthing-integration)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

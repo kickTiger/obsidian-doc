@@ -6,7 +6,7 @@ downloads: 619
 updated: 1721346191000
 repo: neozhang/you-and-your-research
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1721346191000"
   repo="neozhang/you-and-your-research"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Research with the help of A.I.
 - **下载量**：619
 - **最后更新**：2024-07-19
 - **GitHub**：[neozhang/you-and-your-research](https://github.com/neozhang/you-and-your-research)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

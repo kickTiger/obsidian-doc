@@ -2,11 +2,11 @@
 title: Obsifetch
 description: A neofetch-style vault information display.
 author: tabibyte
-downloads: 1574
+downloads: 1578
 updated: 1740654603000
 repo: tabibyte/obsifetch
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Obsifetch"
   description="A neofetch-style vault information display."
   author="tabibyte"
-  :downloads="1574"
+  :downloads="1578"
   :updated="1740654603000"
   repo="tabibyte/obsifetch"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ A neofetch-style vault information display.
 - **下载量**：1.6K
 - **最后更新**：2025-02-27
 - **GitHub**：[tabibyte/obsifetch](https://github.com/tabibyte/obsifetch)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

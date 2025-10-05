@@ -1,12 +1,12 @@
 ---
 title: Find orphaned files and broken links
-description: 'Find files that are not linked anywhere and would otherwise be lost in your vault. In other words: files with no backlinks.'
+description: 查找没有链接到任何地方的文件，否则这些文件就会丢失在你的文件库中。换句话说：没有反向链接的文件。
 author: Vinzent
-downloads: 192634
+downloads: 192682
 updated: 1723496256000
 repo: Vinzent03/find-unlinked-files
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="find-unlinked-files"
   name="Find orphaned files and broken links"
-  description="Find files that are not linked anywhere and would otherwise be lost in your vault. In other words: files with no backlinks."
+  description="查找没有链接到任何地方的文件，否则这些文件就会丢失在你的文件库中。换句话说：没有反向链接的文件。"
   author="Vinzent"
-  :downloads="192634"
+  :downloads="192682"
   :updated="1723496256000"
   repo="Vinzent03/find-unlinked-files"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Find orphaned files and broken links 是一个功能强大的 Obsidian 插件。
 
-Find files that are not linked anywhere and would otherwise be lost in your vault. In other words: files with no backlinks.
+查找没有链接到任何地方的文件，否则这些文件就会丢失在你的文件库中。换句话说：没有反向链接的文件。
 
 通过 Find orphaned files and broken links,您可以:
 
@@ -199,10 +199,10 @@ Find files that are not linked anywhere and would otherwise be lost in your vaul
 - **插件 ID**：find-unlinked-files
 - **作者**：Vinzent
 - **当前版本**：v1.0.0
-- **下载量**：192.6K
+- **下载量**：192.7K
 - **最后更新**：2024-08-13
 - **GitHub**：[Vinzent03/find-unlinked-files](https://github.com/Vinzent03/find-unlinked-files)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

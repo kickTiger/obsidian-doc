@@ -1,12 +1,12 @@
 ---
 title: Checkbox 3 states
-description: A third state to checkbox list.
+description: 复选框列表的第三个状态。
 author: 'Renaud Héluin @ NovaGaïa'
-downloads: 7027
+downloads: 7030
 updated: 1665993077000
 repo: hrenaud/obsidian-checkbox3states-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-checkbox3states-plugin"
   name="Checkbox 3 states"
-  description="A third state to checkbox list."
+  description="复选框列表的第三个状态。"
   author="Renaud Héluin @ NovaGaïa"
-  :downloads="7027"
+  :downloads="7030"
   :updated="1665993077000"
   repo="hrenaud/obsidian-checkbox3states-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Checkbox 3 states 是一个功能强大的 Obsidian 插件。
 
-A third state to checkbox list.
+复选框列表的第三个状态。
 
 通过 Checkbox 3 states,您可以:
 
@@ -202,7 +202,7 @@ A third state to checkbox list.
 - **下载量**：7.0K
 - **最后更新**：2022-10-17
 - **GitHub**：[hrenaud/obsidian-checkbox3states-plugin](https://github.com/hrenaud/obsidian-checkbox3states-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Version Control
 description: A local, snapshot-based version control system. Lets you create finite number of versions of any note.
 author: Yuichi-Aragi
-downloads: 2810
-updated: 1759139482000
+downloads: 2875
+updated: 1759578540000
 repo: Yuichi-Aragi/Version-Control
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Version Control"
   description="A local, snapshot-based version control system. Lets you create finite number of versions of any note."
   author="Yuichi-Aragi"
-  :downloads="2810"
-  :updated="1759139482000"
+  :downloads="2875"
+  :updated="1759578540000"
   repo="Yuichi-Aragi/Version-Control"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -181,7 +181,7 @@ A local, snapshot-based version control system. Lets you create finite number of
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-09-29
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/Yuichi-Aragi/Version-Control/releases) 查看详细更新日志
@@ -199,10 +199,10 @@ A local, snapshot-based version control system. Lets you create finite number of
 - **插件 ID**：version-control
 - **作者**：Yuichi-Aragi
 - **当前版本**：v1.0.0
-- **下载量**：2.8K
-- **最后更新**：2025-09-29
+- **下载量**：2.9K
+- **最后更新**：2025-10-04
 - **GitHub**：[Yuichi-Aragi/Version-Control](https://github.com/Yuichi-Aragi/Version-Control)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

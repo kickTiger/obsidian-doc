@@ -6,7 +6,7 @@ downloads: 150
 updated: 1748713849000
 repo: MichaelFW-ui/mahgen-renderer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1748713849000"
   repo="MichaelFW-ui/mahgen-renderer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Display mahjong images inline or in block using Mahgen.
 - **下载量**：150
 - **最后更新**：2025-06-01
 - **GitHub**：[MichaelFW-ui/mahgen-renderer](https://github.com/MichaelFW-ui/mahgen-renderer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

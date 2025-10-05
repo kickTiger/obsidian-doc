@@ -1,12 +1,12 @@
 ---
 title: LLM Summary
-description: Quick note taking with the help of LLMs. LLMs help you to summarize / organize PDFs or existing notes.
+description: 借助 LLM 快速记笔记。LLMs 可帮助您总结/整理 PDF 文件或现有笔记。
 author: QSun
-downloads: 4757
+downloads: 4769
 updated: 1726234902000
 repo: larksq/obsidian-llm-summary
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="llm-summary"
   name="LLM Summary"
-  description="Quick note taking with the help of LLMs. LLMs help you to summarize / organize PDFs or existing notes."
+  description="借助 LLM 快速记笔记。LLMs 可帮助您总结/整理 PDF 文件或现有笔记。"
   author="QSun"
-  :downloads="4757"
+  :downloads="4769"
   :updated="1726234902000"
   repo="larksq/obsidian-llm-summary"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 LLM Summary 是一个功能强大的 Obsidian 插件。
 
-Quick note taking with the help of LLMs. LLMs help you to summarize / organize PDFs or existing notes.
+借助 LLM 快速记笔记。LLMs 可帮助您总结/整理 PDF 文件或现有笔记。
 
 通过 LLM Summary,您可以:
 
@@ -202,7 +202,7 @@ Quick note taking with the help of LLMs. LLMs help you to summarize / organize P
 - **下载量**：4.8K
 - **最后更新**：2024-09-13
 - **GitHub**：[larksq/obsidian-llm-summary](https://github.com/larksq/obsidian-llm-summary)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

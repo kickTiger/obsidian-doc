@@ -1,12 +1,12 @@
 ---
 title: Mermaid Themes
-description: Alternate support for mermaid.js that supports theming and customization.
+description: 支持主题化和定制的 mermaid.js 替代支持。
 author: jvsteiner
-downloads: 11519
+downloads: 11525
 updated: 1685644788000
 repo: jvsteiner/mermaid-themes
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mermaid-themes"
   name="Mermaid Themes"
-  description="Alternate support for mermaid.js that supports theming and customization."
+  description="支持主题化和定制的 mermaid.js 替代支持。"
   author="jvsteiner"
-  :downloads="11519"
+  :downloads="11525"
   :updated="1685644788000"
   repo="jvsteiner/mermaid-themes"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mermaid Themes 是一个功能强大的 Obsidian 插件。
 
-Alternate support for mermaid.js that supports theming and customization.
+支持主题化和定制的 mermaid.js 替代支持。
 
 通过 Mermaid Themes,您可以:
 
@@ -202,7 +202,7 @@ Alternate support for mermaid.js that supports theming and customization.
 - **下载量**：11.5K
 - **最后更新**：2023-06-02
 - **GitHub**：[jvsteiner/mermaid-themes](https://github.com/jvsteiner/mermaid-themes)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

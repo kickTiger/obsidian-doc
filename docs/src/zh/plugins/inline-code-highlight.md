@@ -1,12 +1,12 @@
 ---
 title: InlineCodeHighlight
-description: 'Highlight inline `''md **code**` blocks as well as you do the ```md **big**``` ones.'
+description: '高亮显示内联``md **代码**``块，就像高亮显示``md **大**``块一样。'
 author: Dimava
-downloads: 4624
+downloads: 4626
 updated: 1691362449000
 repo: Dimava/inline-code-highlight
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="inline-code-highlight"
   name="InlineCodeHighlight"
-  description="Highlight inline `&#39;md **code**` blocks as well as you do the ```md **big**``` ones."
+  description="高亮显示内联``md **代码**``块，就像高亮显示``md **大**``块一样。"
   author="Dimava"
-  :downloads="4624"
+  :downloads="4626"
   :updated="1691362449000"
   repo="Dimava/inline-code-highlight"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 InlineCodeHighlight 是一个功能强大的 Obsidian 插件。
 
-Highlight inline `&#39;md **code**` blocks as well as you do the ```md **big**``` ones.
+高亮显示内联``md **代码**``块，就像高亮显示``md **大**``块一样。
 
 通过 InlineCodeHighlight,您可以:
 
@@ -202,7 +202,7 @@ Highlight inline `&#39;md **code**` blocks as well as you do the ```md **big**``
 - **下载量**：4.6K
 - **最后更新**：2023-08-07
 - **GitHub**：[Dimava/inline-code-highlight](https://github.com/Dimava/inline-code-highlight)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

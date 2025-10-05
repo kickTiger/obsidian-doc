@@ -6,7 +6,7 @@ downloads: 985
 updated: 1756999438000
 repo: AndyReifman/LinkMagic
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1756999438000"
   repo="AndyReifman/LinkMagic"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically adds links to defined regex.
 - **下载量**：985
 - **最后更新**：2025-09-04
 - **GitHub**：[AndyReifman/LinkMagic](https://github.com/AndyReifman/LinkMagic)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Graph Banner
-description: Display a local graph view to the note header
+description: 在注释标题上显示本地图表视图
 author: ras0q
-downloads: 17124
+downloads: 17147
 updated: 1756994912000
 repo: ras0q/obsidian-graph-banner
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="graph-banner"
   name="Graph Banner"
-  description="Display a local graph view to the note header"
+  description="在注释标题上显示本地图表视图"
   author="ras0q"
-  :downloads="17124"
+  :downloads="17147"
   :updated="1756994912000"
   repo="ras0q/obsidian-graph-banner"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Graph Banner 是一个功能强大的 Obsidian 插件。
 
-Display a local graph view to the note header
+在注释标题上显示本地图表视图
 
 通过 Graph Banner,您可以:
 
@@ -202,7 +202,7 @@ Display a local graph view to the note header
 - **下载量**：17.1K
 - **最后更新**：2025-09-04
 - **GitHub**：[ras0q/obsidian-graph-banner](https://github.com/ras0q/obsidian-graph-banner)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

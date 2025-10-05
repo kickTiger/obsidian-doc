@@ -1,12 +1,12 @@
 ---
 title: Day and Night
-description: Automatically toggle themes between day theme and night theme on a set time schedule.
+description: 根据设定的时间安排，在日间主题和夜间主题之间自动切换。
 author: Kevin Patel
-downloads: 8333
+downloads: 8334
 updated: 1697584711000
 repo: CyberT17/obsidian-day-and-night
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-day-and-night"
   name="Day and Night"
-  description="Automatically toggle themes between day theme and night theme on a set time schedule."
+  description="根据设定的时间安排，在日间主题和夜间主题之间自动切换。"
   author="Kevin Patel"
-  :downloads="8333"
+  :downloads="8334"
   :updated="1697584711000"
   repo="CyberT17/obsidian-day-and-night"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Day and Night 是一个功能强大的 Obsidian 插件。
 
-Automatically toggle themes between day theme and night theme on a set time schedule.
+根据设定的时间安排，在日间主题和夜间主题之间自动切换。
 
 通过 Day and Night,您可以:
 
@@ -202,7 +202,7 @@ Automatically toggle themes between day theme and night theme on a set time sche
 - **下载量**：8.3K
 - **最后更新**：2023-10-18
 - **GitHub**：[CyberT17/obsidian-day-and-night](https://github.com/CyberT17/obsidian-day-and-night)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

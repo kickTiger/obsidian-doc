@@ -6,7 +6,7 @@ downloads: 2930
 updated: 1689114817000
 repo: EnderInvader/battlesnake-viewer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1689114817000"
   repo="EnderInvader/battlesnake-viewer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Render BattleSnake positions diagrams in note preview.
 - **下载量**：2.9K
 - **最后更新**：2023-07-12
 - **GitHub**：[EnderInvader/battlesnake-viewer](https://github.com/EnderInvader/battlesnake-viewer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

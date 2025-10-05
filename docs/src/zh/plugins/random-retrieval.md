@@ -6,7 +6,7 @@ downloads: 121
 updated: 1729862873000
 repo: JeanJean-rxl/random-retrieval-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1729862873000"
   repo="JeanJean-rxl/random-retrieval-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Random Note Retrieval based on LLM.
 - **下载量**：121
 - **最后更新**：2024-10-25
 - **GitHub**：[JeanJean-rxl/random-retrieval-plugin](https://github.com/JeanJean-rxl/random-retrieval-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

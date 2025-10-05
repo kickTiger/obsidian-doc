@@ -2,11 +2,11 @@
 title: Streams
 description: Create and manage multiple Daily Note streams
 author: Floyd
-downloads: 1208
+downloads: 1210
 updated: 1759270609000
 repo: bfloydd/streams
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Streams"
   description="Create and manage multiple Daily Note streams"
   author="Floyd"
-  :downloads="1208"
+  :downloads="1210"
   :updated="1759270609000"
   repo="bfloydd/streams"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create and manage multiple Daily Note streams
 - **下载量**：1.2K
 - **最后更新**：2025-10-01
 - **GitHub**：[bfloydd/streams](https://github.com/bfloydd/streams)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 281
 updated: 1742593330000
 repo: kevinkickback/Combo-Colors
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1742593330000"
   repo="kevinkickback/Combo-Colors"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically apply color to fighting game combo notations.
 - **下载量**：281
 - **最后更新**：2025-03-22
 - **GitHub**：[kevinkickback/Combo-Colors](https://github.com/kevinkickback/Combo-Colors)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

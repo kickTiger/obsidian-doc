@@ -2,11 +2,11 @@
 title: Pure Chat LLM
 description: Turn notes into conversations with chatGPT
 author: Justice Vellacott
-downloads: 771
+downloads: 776
 updated: 1758453619000
 repo: TheJusticeMan/pure-chat-llm
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Pure Chat LLM"
   description="Turn notes into conversations with chatGPT"
   author="Justice Vellacott"
-  :downloads="771"
+  :downloads="776"
   :updated="1758453619000"
   repo="TheJusticeMan/pure-chat-llm"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Turn notes into conversations with chatGPT
 - **插件 ID**：pure-chat-llm
 - **作者**：Justice Vellacott
 - **当前版本**：v1.0.0
-- **下载量**：771
+- **下载量**：776
 - **最后更新**：2025-09-21
 - **GitHub**：[TheJusticeMan/pure-chat-llm](https://github.com/TheJusticeMan/pure-chat-llm)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

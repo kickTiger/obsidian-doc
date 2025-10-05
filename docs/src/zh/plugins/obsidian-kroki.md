@@ -1,12 +1,12 @@
 ---
 title: Kroki
-description: Render Kroki diagrams.
+description: 渲染 Kroki 图表。
 author: Greg Zuro
-downloads: 9965
+downloads: 9966
 updated: 1706150875000
 repo: gregzuro/obsidian-kroki
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-kroki"
   name="Kroki"
-  description="Render Kroki diagrams."
+  description="渲染 Kroki 图表。"
   author="Greg Zuro"
-  :downloads="9965"
+  :downloads="9966"
   :updated="1706150875000"
   repo="gregzuro/obsidian-kroki"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Kroki 是一个功能强大的 Obsidian 插件。
 
-Render Kroki diagrams.
+渲染 Kroki 图表。
 
 通过 Kroki,您可以:
 
@@ -202,7 +202,7 @@ Render Kroki diagrams.
 - **下载量**：10.0K
 - **最后更新**：2024-01-25
 - **GitHub**：[gregzuro/obsidian-kroki](https://github.com/gregzuro/obsidian-kroki)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

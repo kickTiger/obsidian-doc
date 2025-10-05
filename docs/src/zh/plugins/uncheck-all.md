@@ -1,12 +1,12 @@
 ---
 title: Uncheck All
-description: Uncheck all checkboxes in the current note using one command.
+description: 使用一条命令取消选中当前笔记中的所有复选框。
 author: Shahar Har-Shuv
-downloads: 11617
+downloads: 11627
 updated: 1692910079000
 repo: ShacharHarshuv/obsidian-uncheck-all
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="uncheck-all"
   name="Uncheck All"
-  description="Uncheck all checkboxes in the current note using one command."
+  description="使用一条命令取消选中当前笔记中的所有复选框。"
   author="Shahar Har-Shuv"
-  :downloads="11617"
+  :downloads="11627"
   :updated="1692910079000"
   repo="ShacharHarshuv/obsidian-uncheck-all"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Uncheck All 是一个功能强大的 Obsidian 插件。
 
-Uncheck all checkboxes in the current note using one command.
+使用一条命令取消选中当前笔记中的所有复选框。
 
 通过 Uncheck All,您可以:
 
@@ -202,7 +202,7 @@ Uncheck all checkboxes in the current note using one command.
 - **下载量**：11.6K
 - **最后更新**：2023-08-25
 - **GitHub**：[ShacharHarshuv/obsidian-uncheck-all](https://github.com/ShacharHarshuv/obsidian-uncheck-all)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

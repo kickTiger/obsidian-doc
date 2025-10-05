@@ -1,12 +1,12 @@
 ---
 title: Editor Commands Remap
-description: Map hotkeys to editor commands.
+description: 将热键映射到编辑器命令
 author: cactus5
-downloads: 4300
+downloads: 4303
 updated: 1630137724000
 repo: c4ctus5/editor-commands-remap
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="editor-commands-remap"
   name="Editor Commands Remap"
-  description="Map hotkeys to editor commands."
+  description="将热键映射到编辑器命令"
   author="cactus5"
-  :downloads="4300"
+  :downloads="4303"
   :updated="1630137724000"
   repo="c4ctus5/editor-commands-remap"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Editor Commands Remap 是一个功能强大的 Obsidian 插件。
 
-Map hotkeys to editor commands.
+将热键映射到编辑器命令
 
 通过 Editor Commands Remap,您可以:
 
@@ -202,7 +202,7 @@ Map hotkeys to editor commands.
 - **下载量**：4.3K
 - **最后更新**：2021-08-28
 - **GitHub**：[c4ctus5/editor-commands-remap](https://github.com/c4ctus5/editor-commands-remap)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

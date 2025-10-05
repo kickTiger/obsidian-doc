@@ -1,12 +1,12 @@
 ---
 title: Modal forms
-description: Define forms for capturing data that you will be able to open from anywhere you can run JavaScript.
+description: 定义用于捕获数据的表单，您可以在任何可以运行 JavaScript 的地方打开这些表单。
 author: Danielo Rodriguez
-downloads: 36202
+downloads: 36241
 updated: 1745580860000
 repo: danielo515/obsidian-modal-form
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="modalforms"
   name="Modal forms"
-  description="Define forms for capturing data that you will be able to open from anywhere you can run JavaScript."
+  description="定义用于捕获数据的表单，您可以在任何可以运行 JavaScript 的地方打开这些表单。"
   author="Danielo Rodriguez"
-  :downloads="36202"
+  :downloads="36241"
   :updated="1745580860000"
   repo="danielo515/obsidian-modal-form"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Modal forms 是一个功能强大的 Obsidian 插件。
 
-Define forms for capturing data that you will be able to open from anywhere you can run JavaScript.
+定义用于捕获数据的表单，您可以在任何可以运行 JavaScript 的地方打开这些表单。
 
 通过 Modal forms,您可以:
 
@@ -202,7 +202,7 @@ Define forms for capturing data that you will be able to open from anywhere you 
 - **下载量**：36.2K
 - **最后更新**：2025-04-25
 - **GitHub**：[danielo515/obsidian-modal-form](https://github.com/danielo515/obsidian-modal-form)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

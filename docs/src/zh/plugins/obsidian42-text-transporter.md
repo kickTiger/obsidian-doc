@@ -1,12 +1,12 @@
 ---
 title: Text Transporter
-description: Advanced text tools for working with text in your vault.
+description: 高级文本工具，用于处理保险库中的文本。
 author: TfTHacker
-downloads: 32678
+downloads: 32685
 updated: 1730876250000
 repo: TfTHacker/obsidian42-text-transporter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian42-text-transporter"
   name="Text Transporter"
-  description="Advanced text tools for working with text in your vault."
+  description="高级文本工具，用于处理保险库中的文本。"
   author="TfTHacker"
-  :downloads="32678"
+  :downloads="32685"
   :updated="1730876250000"
   repo="TfTHacker/obsidian42-text-transporter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text Transporter 是一个功能强大的 Obsidian 插件。
 
-Advanced text tools for working with text in your vault.
+高级文本工具，用于处理保险库中的文本。
 
 通过 Text Transporter,您可以:
 
@@ -202,7 +202,7 @@ Advanced text tools for working with text in your vault.
 - **下载量**：32.7K
 - **最后更新**：2024-11-06
 - **GitHub**：[TfTHacker/obsidian42-text-transporter](https://github.com/TfTHacker/obsidian42-text-transporter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Core Search Assistant
-description: 'Enhance built-in search: keyboard interface, card preview, bigger preview.'
+description: 增强内置搜索：键盘界面、卡片预览、放大预览。
 author: qawatake
-downloads: 30469
+downloads: 30481
 updated: 1745754140000
 repo: qawatake/obsidian-core-search-assistant-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-core-search-assistant-plugin"
   name="Core Search Assistant"
-  description="Enhance built-in search: keyboard interface, card preview, bigger preview."
+  description="增强内置搜索：键盘界面、卡片预览、放大预览。"
   author="qawatake"
-  :downloads="30469"
+  :downloads="30481"
   :updated="1745754140000"
   repo="qawatake/obsidian-core-search-assistant-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Core Search Assistant 是一个功能强大的 Obsidian 插件。
 
-Enhance built-in search: keyboard interface, card preview, bigger preview.
+增强内置搜索：键盘界面、卡片预览、放大预览。
 
 通过 Core Search Assistant,您可以:
 
@@ -202,7 +202,7 @@ Enhance built-in search: keyboard interface, card preview, bigger preview.
 - **下载量**：30.5K
 - **最后更新**：2025-04-27
 - **GitHub**：[qawatake/obsidian-core-search-assistant-plugin](https://github.com/qawatake/obsidian-core-search-assistant-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Writing Goals
-description: Set dynamic writing goals for your notes and folders.
+description: 为您的笔记和文件夹设定动态写作目标。
 author: James Lynch
-downloads: 23518
+downloads: 23546
 updated: 1723679769000
 repo: lynchjames/obsidian-writing-goals
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="writing-goals"
   name="Writing Goals"
-  description="Set dynamic writing goals for your notes and folders."
+  description="为您的笔记和文件夹设定动态写作目标。"
   author="James Lynch"
-  :downloads="23518"
+  :downloads="23546"
   :updated="1723679769000"
   repo="lynchjames/obsidian-writing-goals"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Writing Goals 是一个功能强大的 Obsidian 插件。
 
-Set dynamic writing goals for your notes and folders.
+为您的笔记和文件夹设定动态写作目标。
 
 通过 Writing Goals,您可以:
 
@@ -202,7 +202,7 @@ Set dynamic writing goals for your notes and folders.
 - **下载量**：23.5K
 - **最后更新**：2024-08-15
 - **GitHub**：[lynchjames/obsidian-writing-goals](https://github.com/lynchjames/obsidian-writing-goals)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

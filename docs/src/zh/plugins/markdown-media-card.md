@@ -2,11 +2,11 @@
 title: Markdown Media Card
 description: Insert media information cards in Markdown, such as books, music, movies, etc.
 author: Zhou Hua
-downloads: 2507
+downloads: 2508
 updated: 1710744907000
 repo: zhouhua/obsidian-markdown-media-card
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Markdown Media Card"
   description="Insert media information cards in Markdown, such as books, music, movies, etc."
   author="Zhou Hua"
-  :downloads="2507"
+  :downloads="2508"
   :updated="1710744907000"
   repo="zhouhua/obsidian-markdown-media-card"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Insert media information cards in Markdown, such as books, music, movies, etc.
 - **下载量**：2.5K
 - **最后更新**：2024-03-18
 - **GitHub**：[zhouhua/obsidian-markdown-media-card](https://github.com/zhouhua/obsidian-markdown-media-card)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

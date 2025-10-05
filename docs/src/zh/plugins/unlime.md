@@ -6,7 +6,7 @@ downloads: 128
 updated: 1752675457000
 repo: shandyba/obsidian-lime
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1752675457000"
   repo="shandyba/obsidian-lime"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Toggle Unlinked mentions ON or OFF within backlinks and Outgoing links panels
 - **下载量**：128
 - **最后更新**：2025-07-16
 - **GitHub**：[shandyba/obsidian-lime](https://github.com/shandyba/obsidian-lime)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

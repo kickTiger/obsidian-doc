@@ -6,7 +6,7 @@ downloads: 2971
 updated: 1703211122000
 repo: ransurf/obsidian-intelligence
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1703211122000"
   repo="ransurf/obsidian-intelligence"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ OpenAI GPT Assistants functionality
 - **下载量**：3.0K
 - **最后更新**：2023-12-22
 - **GitHub**：[ransurf/obsidian-intelligence](https://github.com/ransurf/obsidian-intelligence)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

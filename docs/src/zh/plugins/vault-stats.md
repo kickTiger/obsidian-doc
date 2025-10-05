@@ -2,11 +2,11 @@
 title: Vault Stats
 description: Provides methods to retrieve statistics about the vault, such as the number of notes, total word count, recently modified notes, and more.
 author: Blue Heron
-downloads: 300
+downloads: 302
 updated: 1751330214000
 repo: blueheron786/obsidian-stats-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Vault Stats"
   description="Provides methods to retrieve statistics about the vault, such as the number of notes, total word count, recently modified notes, and more."
   author="Blue Heron"
-  :downloads="300"
+  :downloads="302"
   :updated="1751330214000"
   repo="blueheron786/obsidian-stats-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Provides methods to retrieve statistics about the vault, such as the number of n
 - **插件 ID**：vault-stats
 - **作者**：Blue Heron
 - **当前版本**：v1.0.0
-- **下载量**：300
+- **下载量**：302
 - **最后更新**：2025-07-01
 - **GitHub**：[blueheron786/obsidian-stats-plugin](https://github.com/blueheron786/obsidian-stats-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

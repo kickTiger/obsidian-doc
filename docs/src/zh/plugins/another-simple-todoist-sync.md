@@ -2,11 +2,11 @@
 title: Another Simple Todoist Sync
 description: Simple plugin to sync with Todoist. Fork from Ultimate Todoist Sync plugin.
 author: eudennis
-downloads: 2395
+downloads: 2397
 updated: 1751229721000
 repo: eudennis/ultimate-todoist-sync-for-obsidian-experiment
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Another Simple Todoist Sync"
   description="Simple plugin to sync with Todoist. Fork from Ultimate Todoist Sync plugin."
   author="eudennis"
-  :downloads="2395"
+  :downloads="2397"
   :updated="1751229721000"
   repo="eudennis/ultimate-todoist-sync-for-obsidian-experiment"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Simple plugin to sync with Todoist. Fork from Ultimate Todoist Sync plugin.
 - **下载量**：2.4K
 - **最后更新**：2025-06-30
 - **GitHub**：[eudennis/ultimate-todoist-sync-for-obsidian-experiment](https://github.com/eudennis/ultimate-todoist-sync-for-obsidian-experiment)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Open In Other Editor
-description: Open current active file in gVim or VS Code.
+description: 在 gVim 或 VS Code 中打开当前活动文件。
 author: Yekingyan
-downloads: 6275
+downloads: 6276
 updated: 1686666001000
 repo: yekingyan/obsidian-open-in-other-editor
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-open-in-other-editor"
   name="Open In Other Editor"
-  description="Open current active file in gVim or VS Code."
+  description="在 gVim 或 VS Code 中打开当前活动文件。"
   author="Yekingyan"
-  :downloads="6275"
+  :downloads="6276"
   :updated="1686666001000"
   repo="yekingyan/obsidian-open-in-other-editor"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Open In Other Editor 是一个功能强大的 Obsidian 插件。
 
-Open current active file in gVim or VS Code.
+在 gVim 或 VS Code 中打开当前活动文件。
 
 通过 Open In Other Editor,您可以:
 
@@ -202,7 +202,7 @@ Open current active file in gVim or VS Code.
 - **下载量**：6.3K
 - **最后更新**：2023-06-13
 - **GitHub**：[yekingyan/obsidian-open-in-other-editor](https://github.com/yekingyan/obsidian-open-in-other-editor)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

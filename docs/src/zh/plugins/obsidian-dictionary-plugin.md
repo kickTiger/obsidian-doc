@@ -1,12 +1,12 @@
 ---
 title: Dictionary
-description: A multilingual dictionary that shows word definitions in the sidebar and popover synonyms.
+description: 在 Obsidian 中查找单词定义。
 author: phibr0
-downloads: 195060
+downloads: 195115
 updated: 1668540774000
 repo: phibr0/obsidian-dictionary
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-dictionary-plugin"
   name="Dictionary"
-  description="A multilingual dictionary that shows word definitions in the sidebar and popover synonyms."
+  description="在 Obsidian 中查找单词定义。"
   author="phibr0"
-  :downloads="195060"
+  :downloads="195115"
   :updated="1668540774000"
   repo="phibr0/obsidian-dictionary"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dictionary 是一个功能强大的 Obsidian 插件。
 
-A multilingual dictionary that shows word definitions in the sidebar and popover synonyms.
+在 Obsidian 中查找单词定义。
 
 通过 Dictionary,您可以:
 
@@ -202,7 +202,7 @@ A multilingual dictionary that shows word definitions in the sidebar and popover
 - **下载量**：195.1K
 - **最后更新**：2022-11-16
 - **GitHub**：[phibr0/obsidian-dictionary](https://github.com/phibr0/obsidian-dictionary)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

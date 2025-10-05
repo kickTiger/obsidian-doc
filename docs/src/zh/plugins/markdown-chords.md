@@ -1,12 +1,12 @@
 ---
 title: Markdown Chords
-description: Add musical chord notation and chord diagrams for stringed instruments (e.g. guitar) in Markdown. Supports chords in any Western scale/mode, including extended jazz chords.
+description: 用 Markdown 添加弦乐器（如吉他）的和弦符号和和弦图。支持任何西洋音阶/模式的和弦，包括扩展爵士和弦。
 author: David Hunt
-downloads: 4272
+downloads: 4274
 updated: 1686508508000
 repo: dnotes/obsidian-markdown-chords
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="markdown-chords"
   name="Markdown Chords"
-  description="Add musical chord notation and chord diagrams for stringed instruments (e.g. guitar) in Markdown. Supports chords in any Western scale/mode, including extended jazz chords."
+  description="用 Markdown 添加弦乐器（如吉他）的和弦符号和和弦图。支持任何西洋音阶/模式的和弦，包括扩展爵士和弦。"
   author="David Hunt"
-  :downloads="4272"
+  :downloads="4274"
   :updated="1686508508000"
   repo="dnotes/obsidian-markdown-chords"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown Chords 是一个功能强大的 Obsidian 插件。
 
-Add musical chord notation and chord diagrams for stringed instruments (e.g. guitar) in Markdown. Supports chords in any Western scale/mode, including extended jazz chords.
+用 Markdown 添加弦乐器（如吉他）的和弦符号和和弦图。支持任何西洋音阶/模式的和弦，包括扩展爵士和弦。
 
 通过 Markdown Chords,您可以:
 
@@ -202,7 +202,7 @@ Add musical chord notation and chord diagrams for stringed instruments (e.g. gui
 - **下载量**：4.3K
 - **最后更新**：2023-06-12
 - **GitHub**：[dnotes/obsidian-markdown-chords](https://github.com/dnotes/obsidian-markdown-chords)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

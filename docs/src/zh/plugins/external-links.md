@@ -6,7 +6,7 @@ downloads: 2513
 updated: 1732910403000
 repo: jivimberg/external-links
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1732910403000"
   repo="jivimberg/external-links"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ List external links on the right side panel.
 - **下载量**：2.5K
 - **最后更新**：2024-11-30
 - **GitHub**：[jivimberg/external-links](https://github.com/jivimberg/external-links)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

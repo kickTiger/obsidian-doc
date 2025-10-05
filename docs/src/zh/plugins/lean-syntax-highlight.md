@@ -6,7 +6,7 @@ downloads: 2013
 updated: 1738724305000
 repo: tomaz1502/lean-syntax-highlight
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1738724305000"
   repo="tomaz1502/lean-syntax-highlight"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Provides live syntax highlight for the Lean programming language
 - **下载量**：2.0K
 - **最后更新**：2025-02-05
 - **GitHub**：[tomaz1502/lean-syntax-highlight](https://github.com/tomaz1502/lean-syntax-highlight)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

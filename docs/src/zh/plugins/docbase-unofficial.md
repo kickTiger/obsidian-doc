@@ -6,7 +6,7 @@ downloads: 115
 updated: 1720222337000
 repo: kuvanov-2/obsidian-docbase
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1720222337000"
   repo="kuvanov-2/obsidian-docbase"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Pull and push notes to DocBase
 - **下载量**：115
 - **最后更新**：2024-07-06
 - **GitHub**：[kuvanov-2/obsidian-docbase](https://github.com/kuvanov-2/obsidian-docbase)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

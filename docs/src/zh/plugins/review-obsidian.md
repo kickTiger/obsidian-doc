@@ -1,12 +1,12 @@
 ---
 title: Review
-description: Add a link to the current note to a daily note on a future date (or a past date, you time traveller).
+description: 将当前备忘链接添加到未来某个日期（或过去某个日期，你这个时间旅行者）的每日备忘。
 author: ryanjamurphy
-downloads: 60257
+downloads: 60273
 updated: 1733855965000
 repo: ryanjamurphy/review-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="review-obsidian"
   name="Review"
-  description="Add a link to the current note to a daily note on a future date (or a past date, you time traveller)."
+  description="将当前备忘链接添加到未来某个日期（或过去某个日期，你这个时间旅行者）的每日备忘。"
   author="ryanjamurphy"
-  :downloads="60257"
+  :downloads="60273"
   :updated="1733855965000"
   repo="ryanjamurphy/review-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Review 是一个功能强大的 Obsidian 插件。
 
-Add a link to the current note to a daily note on a future date (or a past date, you time traveller).
+将当前备忘链接添加到未来某个日期（或过去某个日期，你这个时间旅行者）的每日备忘。
 
 通过 Review,您可以:
 
@@ -202,7 +202,7 @@ Add a link to the current note to a daily note on a future date (or a past date,
 - **下载量**：60.3K
 - **最后更新**：2024-12-11
 - **GitHub**：[ryanjamurphy/review-obsidian](https://github.com/ryanjamurphy/review-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Daily Note Navbar
-description: Navigate between sequential daily notes with ease.
+description: 轻松浏览连续的每日笔记。
 author: Karsten Finderup Pedersen
-downloads: 5931
+downloads: 5933
 updated: 1719480512000
 repo: karstenpedersen/obsidian-daily-note-navbar
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="daily-note-navbar"
   name="Daily Note Navbar"
-  description="Navigate between sequential daily notes with ease."
+  description="轻松浏览连续的每日笔记。"
   author="Karsten Finderup Pedersen"
-  :downloads="5931"
+  :downloads="5933"
   :updated="1719480512000"
   repo="karstenpedersen/obsidian-daily-note-navbar"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Daily Note Navbar 是一个功能强大的 Obsidian 插件。
 
-Navigate between sequential daily notes with ease.
+轻松浏览连续的每日笔记。
 
 通过 Daily Note Navbar,您可以:
 
@@ -202,7 +202,7 @@ Navigate between sequential daily notes with ease.
 - **下载量**：5.9K
 - **最后更新**：2024-06-27
 - **GitHub**：[karstenpedersen/obsidian-daily-note-navbar](https://github.com/karstenpedersen/obsidian-daily-note-navbar)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Media Slider
-description: A media slider for images, gifs, audios, videos, and PDFs.
+description: 图片、GIF、音频、视频和 PDF 的媒体滑块。
 author: Aditya Amatya
-downloads: 4342
+downloads: 4356
 updated: 1752282342000
 repo: amatya-aditya/obsidian-media-slider
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="media-slider"
   name="Media Slider"
-  description="A media slider for images, gifs, audios, videos, and PDFs."
+  description="图片、GIF、音频、视频和 PDF 的媒体滑块。"
   author="Aditya Amatya"
-  :downloads="4342"
+  :downloads="4356"
   :updated="1752282342000"
   repo="amatya-aditya/obsidian-media-slider"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Media Slider 是一个功能强大的 Obsidian 插件。
 
-A media slider for images, gifs, audios, videos, and PDFs.
+图片、GIF、音频、视频和 PDF 的媒体滑块。
 
 通过 Media Slider,您可以:
 
@@ -199,10 +199,10 @@ A media slider for images, gifs, audios, videos, and PDFs.
 - **插件 ID**：media-slider
 - **作者**：Aditya Amatya
 - **当前版本**：v1.0.0
-- **下载量**：4.3K
+- **下载量**：4.4K
 - **最后更新**：2025-07-12
 - **GitHub**：[amatya-aditya/obsidian-media-slider](https://github.com/amatya-aditya/obsidian-media-slider)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

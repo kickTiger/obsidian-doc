@@ -2,11 +2,11 @@
 title: Link Navigation
 description: Navigate between incoming links (inlinks), outgoing links (outlinks) N levels deep. Links from Canvas are also supported.
 author: xRyul
-downloads: 1480
+downloads: 1481
 updated: 1739667103000
 repo: xRyul/link-navigation
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Link Navigation"
   description="Navigate between incoming links (inlinks), outgoing links (outlinks) N levels deep. Links from Canvas are also supported."
   author="xRyul"
-  :downloads="1480"
+  :downloads="1481"
   :updated="1739667103000"
   repo="xRyul/link-navigation"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Navigate between incoming links (inlinks), outgoing links (outlinks) N levels de
 - **下载量**：1.5K
 - **最后更新**：2025-02-16
 - **GitHub**：[xRyul/link-navigation](https://github.com/xRyul/link-navigation)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

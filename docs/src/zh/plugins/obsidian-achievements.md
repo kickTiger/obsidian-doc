@@ -1,12 +1,12 @@
 ---
 title: Achievements
-description: Add achievements to Obsidian.
+description: 为《黑曜石》添加成就。
 author: Zachatoo
-downloads: 6557
+downloads: 6560
 updated: 1670906655000
 repo: Zachatoo/obsidian-achievements
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-achievements"
   name="Achievements"
-  description="Add achievements to Obsidian."
+  description="为《黑曜石》添加成就。"
   author="Zachatoo"
-  :downloads="6557"
+  :downloads="6560"
   :updated="1670906655000"
   repo="Zachatoo/obsidian-achievements"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Achievements 是一个功能强大的 Obsidian 插件。
 
-Add achievements to Obsidian.
+为《黑曜石》添加成就。
 
 通过 Achievements,您可以:
 
@@ -202,7 +202,7 @@ Add achievements to Obsidian.
 - **下载量**：6.6K
 - **最后更新**：2022-12-13
 - **GitHub**：[Zachatoo/obsidian-achievements](https://github.com/Zachatoo/obsidian-achievements)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

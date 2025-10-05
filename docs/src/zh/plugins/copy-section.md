@@ -2,11 +2,11 @@
 title: Copy Section
 description: Adds a Copy button to the top of Headed sections.
 author: skztr
-downloads: 1186
+downloads: 1189
 updated: 1740948760000
 repo: skztr/obsidian-plugin-section-copy
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Copy Section"
   description="Adds a Copy button to the top of Headed sections."
   author="skztr"
-  :downloads="1186"
+  :downloads="1189"
   :updated="1740948760000"
   repo="skztr/obsidian-plugin-section-copy"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds a Copy button to the top of Headed sections.
 - **下载量**：1.2K
 - **最后更新**：2025-03-03
 - **GitHub**：[skztr/obsidian-plugin-section-copy](https://github.com/skztr/obsidian-plugin-section-copy)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

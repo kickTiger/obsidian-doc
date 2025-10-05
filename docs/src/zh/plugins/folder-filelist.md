@@ -2,11 +2,11 @@
 title: Folder Filelist
 description: Create and maintain a list of wikilinks to files in specified folders.
 author: Bill Anderson
-downloads: 341
+downloads: 342
 updated: 1750344944000
 repo: band/obsidian-folder-filelist
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Folder Filelist"
   description="Create and maintain a list of wikilinks to files in specified folders."
   author="Bill Anderson"
-  :downloads="341"
+  :downloads="342"
   :updated="1750344944000"
   repo="band/obsidian-folder-filelist"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create and maintain a list of wikilinks to files in specified folders.
 - **插件 ID**：folder-filelist
 - **作者**：Bill Anderson
 - **当前版本**：v1.0.0
-- **下载量**：341
+- **下载量**：342
 - **最后更新**：2025-06-19
 - **GitHub**：[band/obsidian-folder-filelist](https://github.com/band/obsidian-folder-filelist)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

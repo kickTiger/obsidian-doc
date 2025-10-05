@@ -1,12 +1,12 @@
 ---
 title: Etymology Lookup
-description: Get the etymology of words in your notes, from Online Etymology Dictionary
+description: 从《在线词源词典》获取笔记中的词源
 author: Claire Froelich
-downloads: 4457
+downloads: 4465
 updated: 1744383523000
 repo: clairefro/obsidian-plugin-etymology-lookup
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="etymology-lookup"
   name="Etymology Lookup"
-  description="Get the etymology of words in your notes, from Online Etymology Dictionary"
+  description="从《在线词源词典》获取笔记中的词源"
   author="Claire Froelich"
-  :downloads="4457"
+  :downloads="4465"
   :updated="1744383523000"
   repo="clairefro/obsidian-plugin-etymology-lookup"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Etymology Lookup 是一个功能强大的 Obsidian 插件。
 
-Get the etymology of words in your notes, from Online Etymology Dictionary
+从《在线词源词典》获取笔记中的词源
 
 通过 Etymology Lookup,您可以:
 
@@ -202,7 +202,7 @@ Get the etymology of words in your notes, from Online Etymology Dictionary
 - **下载量**：4.5K
 - **最后更新**：2025-04-11
 - **GitHub**：[clairefro/obsidian-plugin-etymology-lookup](https://github.com/clairefro/obsidian-plugin-etymology-lookup)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

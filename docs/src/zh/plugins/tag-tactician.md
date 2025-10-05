@@ -2,11 +2,11 @@
 title: Tag Tactician
 description: Tag operations and helpers
 author: Scott Tomaszewski
-downloads: 1434
+downloads: 1435
 updated: 1748480424000
 repo: scottTomaszewski/obsidian-tag-tactician
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tag Tactician"
   description="Tag operations and helpers"
   author="Scott Tomaszewski"
-  :downloads="1434"
+  :downloads="1435"
   :updated="1748480424000"
   repo="scottTomaszewski/obsidian-tag-tactician"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Tag operations and helpers
 - **下载量**：1.4K
 - **最后更新**：2025-05-29
 - **GitHub**：[scottTomaszewski/obsidian-tag-tactician](https://github.com/scottTomaszewski/obsidian-tag-tactician)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

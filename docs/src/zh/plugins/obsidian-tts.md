@@ -1,12 +1,12 @@
 ---
 title: Text to Speech
-description: Hear your notes.
+description: 听听你的笔记
 author: Johannes Theiner
-downloads: 32148
+downloads: 32167
 updated: 1708373720000
 repo: joethei/obsidian-tts
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-tts"
   name="Text to Speech"
-  description="Hear your notes."
+  description="听听你的笔记"
   author="Johannes Theiner"
-  :downloads="32148"
+  :downloads="32167"
   :updated="1708373720000"
   repo="joethei/obsidian-tts"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text to Speech 是一个功能强大的 Obsidian 插件。
 
-Hear your notes.
+听听你的笔记
 
 通过 Text to Speech,您可以:
 
@@ -199,10 +199,10 @@ Hear your notes.
 - **插件 ID**：obsidian-tts
 - **作者**：Johannes Theiner
 - **当前版本**：v1.0.0
-- **下载量**：32.1K
+- **下载量**：32.2K
 - **最后更新**：2024-02-20
 - **GitHub**：[joethei/obsidian-tts](https://github.com/joethei/obsidian-tts)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

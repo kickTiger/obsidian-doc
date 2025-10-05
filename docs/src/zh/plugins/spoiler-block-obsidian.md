@@ -1,12 +1,12 @@
 ---
 title: Spoiler Block
-description: Hide information until you want to reveal it.
+description: 隐藏信息，直到你想透露它。
 author: AllJavi
-downloads: 9926
+downloads: 9929
 updated: 1671747435000
 repo: AllJavi/spoiler-block-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="spoiler-block-obsidian"
   name="Spoiler Block"
-  description="Hide information until you want to reveal it."
+  description="隐藏信息，直到你想透露它。"
   author="AllJavi"
-  :downloads="9926"
+  :downloads="9929"
   :updated="1671747435000"
   repo="AllJavi/spoiler-block-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Spoiler Block 是一个功能强大的 Obsidian 插件。
 
-Hide information until you want to reveal it.
+隐藏信息，直到你想透露它。
 
 通过 Spoiler Block,您可以:
 
@@ -202,7 +202,7 @@ Hide information until you want to reveal it.
 - **下载量**：9.9K
 - **最后更新**：2022-12-23
 - **GitHub**：[AllJavi/spoiler-block-obsidian](https://github.com/AllJavi/spoiler-block-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

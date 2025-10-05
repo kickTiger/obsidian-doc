@@ -1,12 +1,12 @@
 ---
 title: CodeBlock Tabs
-description: Create tab group for contiguous code blocks.
+description: 为连续代码块创建选项卡组。
 author: Jemin Mau
-downloads: 6648
+downloads: 6652
 updated: 1691045386000
 repo: JeminMau/Obsidian-CodeBlock-Tabs
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="codeblock-tabs"
   name="CodeBlock Tabs"
-  description="Create tab group for contiguous code blocks."
+  description="为连续代码块创建选项卡组。"
   author="Jemin Mau"
-  :downloads="6648"
+  :downloads="6652"
   :updated="1691045386000"
   repo="JeminMau/Obsidian-CodeBlock-Tabs"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 CodeBlock Tabs 是一个功能强大的 Obsidian 插件。
 
-Create tab group for contiguous code blocks.
+为连续代码块创建选项卡组。
 
 通过 CodeBlock Tabs,您可以:
 
@@ -199,10 +199,10 @@ Create tab group for contiguous code blocks.
 - **插件 ID**：codeblock-tabs
 - **作者**：Jemin Mau
 - **当前版本**：v1.0.0
-- **下载量**：6.6K
+- **下载量**：6.7K
 - **最后更新**：2023-08-03
 - **GitHub**：[JeminMau/Obsidian-CodeBlock-Tabs](https://github.com/JeminMau/Obsidian-CodeBlock-Tabs)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

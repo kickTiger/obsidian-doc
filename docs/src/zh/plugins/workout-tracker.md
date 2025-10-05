@@ -2,11 +2,11 @@
 title: Workout Tracker
 description: Log workouts, track progress, and view exercise statistic.
 author: wanabeunique
-downloads: 1878
+downloads: 1887
 updated: 1746165671000
 repo: wanabeunique/obsidian-workout-tracker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Workout Tracker"
   description="Log workouts, track progress, and view exercise statistic."
   author="wanabeunique"
-  :downloads="1878"
+  :downloads="1887"
   :updated="1746165671000"
   repo="wanabeunique/obsidian-workout-tracker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Log workouts, track progress, and view exercise statistic.
 - **下载量**：1.9K
 - **最后更新**：2025-05-02
 - **GitHub**：[wanabeunique/obsidian-workout-tracker](https://github.com/wanabeunique/obsidian-workout-tracker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

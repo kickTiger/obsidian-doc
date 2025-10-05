@@ -1,12 +1,12 @@
 ---
 title: Advanced Tables
-description: Improved table navigation, formatting, and manipulation.
+description: 改进的表格导航、格式化和操作。
 author: Tony Grosinger
-downloads: 2430197
+downloads: 2431413
 updated: 1729698278000
 repo: tgrosinger/advanced-tables-obsidian
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="table-editor-obsidian"
   name="Advanced Tables"
-  description="Improved table navigation, formatting, and manipulation."
+  description="改进的表格导航、格式化和操作。"
   author="Tony Grosinger"
-  :downloads="2430197"
+  :downloads="2431413"
   :updated="1729698278000"
   repo="tgrosinger/advanced-tables-obsidian"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Advanced Tables 是一个功能强大的 Obsidian 插件。
 
-Improved table navigation, formatting, and manipulation.
+改进的表格导航、格式化和操作。
 
 通过 Advanced Tables,您可以:
 
@@ -202,7 +202,7 @@ Improved table navigation, formatting, and manipulation.
 - **下载量**：2.43M
 - **最后更新**：2024-10-23
 - **GitHub**：[tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

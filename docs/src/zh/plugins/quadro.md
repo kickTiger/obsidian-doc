@@ -1,12 +1,12 @@
 ---
 title: Quadro
-description: Qualitative Data Analysis (QDA) for social scientists. An open alternative to MAXQDA and atlas.ti, using Markdown to store data and research codes.
+description: 社会科学家的定性数据分析（QDA）。它是 MAXQDA 和 atlas.ti 的开放式替代工具，使用 Markdown 来存储数据和研究代码。
 author: Chris Grieser (aka pseudometa)
-downloads: 4689
+downloads: 4698
 updated: 1758112360000
 repo: chrisgrieser/obsidian-quadro
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quadro"
   name="Quadro"
-  description="Qualitative Data Analysis (QDA) for social scientists. An open alternative to MAXQDA and atlas.ti, using Markdown to store data and research codes."
+  description="社会科学家的定性数据分析（QDA）。它是 MAXQDA 和 atlas.ti 的开放式替代工具，使用 Markdown 来存储数据和研究代码。"
   author="Chris Grieser (aka pseudometa)"
-  :downloads="4689"
+  :downloads="4698"
   :updated="1758112360000"
   repo="chrisgrieser/obsidian-quadro"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quadro 是一个功能强大的 Obsidian 插件。
 
-Qualitative Data Analysis (QDA) for social scientists. An open alternative to MAXQDA and atlas.ti, using Markdown to store data and research codes.
+社会科学家的定性数据分析（QDA）。它是 MAXQDA 和 atlas.ti 的开放式替代工具，使用 Markdown 来存储数据和研究代码。
 
 通过 Quadro,您可以:
 
@@ -202,7 +202,7 @@ Qualitative Data Analysis (QDA) for social scientists. An open alternative to MA
 - **下载量**：4.7K
 - **最后更新**：2025-09-17
 - **GitHub**：[chrisgrieser/obsidian-quadro](https://github.com/chrisgrieser/obsidian-quadro)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

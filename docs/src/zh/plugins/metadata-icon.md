@@ -1,12 +1,12 @@
 ---
 title: Metadata Icon
-description: Set custom icons for your properties.
+description: 为属性设置自定义图标
 author: Benature
 downloads: 4042
 updated: 1717487132000
 repo: Benature/obsidian-metadata-icon
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="metadata-icon"
   name="Metadata Icon"
-  description="Set custom icons for your properties."
+  description="为属性设置自定义图标"
   author="Benature"
   :downloads="4042"
   :updated="1717487132000"
   repo="Benature/obsidian-metadata-icon"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Metadata Icon 是一个功能强大的 Obsidian 插件。
 
-Set custom icons for your properties.
+为属性设置自定义图标
 
 通过 Metadata Icon,您可以:
 
@@ -202,7 +202,7 @@ Set custom icons for your properties.
 - **下载量**：4.0K
 - **最后更新**：2024-06-04
 - **GitHub**：[Benature/obsidian-metadata-icon](https://github.com/Benature/obsidian-metadata-icon)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

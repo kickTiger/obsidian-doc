@@ -1,12 +1,12 @@
 ---
 title: Vextab
-description: Render guitar tablature and music notation using Vextab.
+description: 使用 Vextab 渲染吉他制表符和音乐符号。
 author: Luis Guzman
-downloads: 5087
+downloads: 5089
 updated: 1678062568000
 repo: luigman/obsidian-vextab
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vextab"
   name="Vextab"
-  description="Render guitar tablature and music notation using Vextab."
+  description="使用 Vextab 渲染吉他制表符和音乐符号。"
   author="Luis Guzman"
-  :downloads="5087"
+  :downloads="5089"
   :updated="1678062568000"
   repo="luigman/obsidian-vextab"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vextab 是一个功能强大的 Obsidian 插件。
 
-Render guitar tablature and music notation using Vextab.
+使用 Vextab 渲染吉他制表符和音乐符号。
 
 通过 Vextab,您可以:
 
@@ -202,7 +202,7 @@ Render guitar tablature and music notation using Vextab.
 - **下载量**：5.1K
 - **最后更新**：2023-03-06
 - **GitHub**：[luigman/obsidian-vextab](https://github.com/luigman/obsidian-vextab)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

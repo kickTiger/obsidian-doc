@@ -1,12 +1,12 @@
 ---
 title: JSONifier
-description: JSON.stringify() or JSON.parse() highlighted text and copy to clipboard.
+description: JSON.stringify() 或 JSON.parse() 高亮显示文本并复制到剪贴板。
 author: Kjell Connelly
 downloads: 5901
 updated: 1611598125000
 repo: KjellConnelly/obsidian-jsonifier
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-jsonifier"
   name="JSONifier"
-  description="JSON.stringify() or JSON.parse() highlighted text and copy to clipboard."
+  description="JSON.stringify() 或 JSON.parse() 高亮显示文本并复制到剪贴板。"
   author="Kjell Connelly"
   :downloads="5901"
   :updated="1611598125000"
   repo="KjellConnelly/obsidian-jsonifier"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 JSONifier 是一个功能强大的 Obsidian 插件。
 
-JSON.stringify() or JSON.parse() highlighted text and copy to clipboard.
+JSON.stringify() 或 JSON.parse() 高亮显示文本并复制到剪贴板。
 
 通过 JSONifier,您可以:
 
@@ -202,7 +202,7 @@ JSON.stringify() or JSON.parse() highlighted text and copy to clipboard.
 - **下载量**：5.9K
 - **最后更新**：2021-01-26
 - **GitHub**：[KjellConnelly/obsidian-jsonifier](https://github.com/KjellConnelly/obsidian-jsonifier)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

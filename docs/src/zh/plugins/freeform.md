@@ -6,7 +6,7 @@ downloads: 772
 updated: 1719076617000
 repo: tmcw/obsidian-freeform
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1719076617000"
   repo="tmcw/obsidian-freeform"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create visualizations, run custom JS, and mix live programs with your notes
 - **下载量**：772
 - **最后更新**：2024-06-23
 - **GitHub**：[tmcw/obsidian-freeform](https://github.com/tmcw/obsidian-freeform)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

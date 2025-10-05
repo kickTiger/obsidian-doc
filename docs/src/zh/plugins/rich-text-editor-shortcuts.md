@@ -2,11 +2,11 @@
 title: Rich Text Editor Shortcuts
 description: Create and toggle checkboxes, paste links wrapping your current selection, and toggle underline without leaving the keyboard.
 author: Joshua Wootonn
-downloads: 1054
+downloads: 1055
 updated: 1724739228000
 repo: joshuawootonn/obsidian-rich-text-editor-shortcuts
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Rich Text Editor Shortcuts"
   description="Create and toggle checkboxes, paste links wrapping your current selection, and toggle underline without leaving the keyboard."
   author="Joshua Wootonn"
-  :downloads="1054"
+  :downloads="1055"
   :updated="1724739228000"
   repo="joshuawootonn/obsidian-rich-text-editor-shortcuts"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create and toggle checkboxes, paste links wrapping your current selection, and t
 - **下载量**：1.1K
 - **最后更新**：2024-08-27
 - **GitHub**：[joshuawootonn/obsidian-rich-text-editor-shortcuts](https://github.com/joshuawootonn/obsidian-rich-text-editor-shortcuts)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

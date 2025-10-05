@@ -1,12 +1,12 @@
 ---
 title: Kindle Export
-description: Export your notes to your Kindle, including embedded notes and images.
+description: 将笔记导出到 Kindle，包括嵌入的笔记和图片。
 author: Simeon Stanek
-downloads: 9781
+downloads: 9783
 updated: 1671135700000
 repo: SimeonLukas/obsidian-kindle-export
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-kindle-export"
   name="Kindle Export"
-  description="Export your notes to your Kindle, including embedded notes and images."
+  description="将笔记导出到 Kindle，包括嵌入的笔记和图片。"
   author="Simeon Stanek"
-  :downloads="9781"
+  :downloads="9783"
   :updated="1671135700000"
   repo="SimeonLukas/obsidian-kindle-export"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Kindle Export 是一个功能强大的 Obsidian 插件。
 
-Export your notes to your Kindle, including embedded notes and images.
+将笔记导出到 Kindle，包括嵌入的笔记和图片。
 
 通过 Kindle Export,您可以:
 
@@ -202,7 +202,7 @@ Export your notes to your Kindle, including embedded notes and images.
 - **下载量**：9.8K
 - **最后更新**：2022-12-16
 - **GitHub**：[SimeonLukas/obsidian-kindle-export](https://github.com/SimeonLukas/obsidian-kindle-export)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

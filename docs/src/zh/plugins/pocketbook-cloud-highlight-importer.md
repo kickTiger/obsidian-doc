@@ -1,12 +1,12 @@
 ---
 title: Pocketbook Cloud Highlight Importer
-description: Import notes and highlights from your Pocketbook Cloud account.
+description: 从 Pocketbook Cloud 账户导入笔记和摘要。
 author: Lena Brüder
 downloads: 4401
 updated: 1749474283000
 repo: lenalebt/obsidian-pocketbook-cloud-highlight-importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pocketbook-cloud-highlight-importer"
   name="Pocketbook Cloud Highlight Importer"
-  description="Import notes and highlights from your Pocketbook Cloud account."
+  description="从 Pocketbook Cloud 账户导入笔记和摘要。"
   author="Lena Brüder"
   :downloads="4401"
   :updated="1749474283000"
   repo="lenalebt/obsidian-pocketbook-cloud-highlight-importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pocketbook Cloud Highlight Importer 是一个功能强大的 Obsidian 插件。
 
-Import notes and highlights from your Pocketbook Cloud account.
+从 Pocketbook Cloud 账户导入笔记和摘要。
 
 通过 Pocketbook Cloud Highlight Importer,您可以:
 
@@ -202,7 +202,7 @@ Import notes and highlights from your Pocketbook Cloud account.
 - **下载量**：4.4K
 - **最后更新**：2025-06-09
 - **GitHub**：[lenalebt/obsidian-pocketbook-cloud-highlight-importer](https://github.com/lenalebt/obsidian-pocketbook-cloud-highlight-importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

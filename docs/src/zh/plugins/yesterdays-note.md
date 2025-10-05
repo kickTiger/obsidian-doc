@@ -6,7 +6,7 @@ downloads: 190
 updated: 1738133313000
 repo: trevortylerlee/yesterdays-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1738133313000"
   repo="trevortylerlee/yesterdays-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Open yesterday&#39;s daily note.
 - **下载量**：190
 - **最后更新**：2025-01-29
 - **GitHub**：[trevortylerlee/yesterdays-note](https://github.com/trevortylerlee/yesterdays-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

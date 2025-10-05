@@ -1,12 +1,12 @@
 ---
 title: Min Width
-description: Set the Minimum Width of the Active Pane.
+description: 设置活动窗格的最小宽度。
 author: doitian
 downloads: 4967
 updated: 1665662739000
 repo: doitian/obsidian-min-width
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-min-width"
   name="Min Width"
-  description="Set the Minimum Width of the Active Pane."
+  description="设置活动窗格的最小宽度。"
   author="doitian"
   :downloads="4967"
   :updated="1665662739000"
   repo="doitian/obsidian-min-width"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Min Width 是一个功能强大的 Obsidian 插件。
 
-Set the Minimum Width of the Active Pane.
+设置活动窗格的最小宽度。
 
 通过 Min Width,您可以:
 
@@ -202,7 +202,7 @@ Set the Minimum Width of the Active Pane.
 - **下载量**：5.0K
 - **最后更新**：2022-10-13
 - **GitHub**：[doitian/obsidian-min-width](https://github.com/doitian/obsidian-min-width)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

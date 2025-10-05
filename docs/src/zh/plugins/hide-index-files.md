@@ -2,11 +2,11 @@
 title: Hide Index Files
 description: Hide index files (folder notes) more reliably.
 author: d7sd6u
-downloads: 654
+downloads: 659
 updated: 1741791245000
 repo: d7sd6u/obsidian-hide-index-files
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hide Index Files"
   description="Hide index files (folder notes) more reliably."
   author="d7sd6u"
-  :downloads="654"
+  :downloads="659"
   :updated="1741791245000"
   repo="d7sd6u/obsidian-hide-index-files"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Hide index files (folder notes) more reliably.
 - **插件 ID**：hide-index-files
 - **作者**：d7sd6u
 - **当前版本**：v1.0.0
-- **下载量**：654
+- **下载量**：659
 - **最后更新**：2025-03-12
 - **GitHub**：[d7sd6u/obsidian-hide-index-files](https://github.com/d7sd6u/obsidian-hide-index-files)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

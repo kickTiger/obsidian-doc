@@ -6,7 +6,7 @@ downloads: 2707
 updated: 1698148514000
 repo: Otto-J/sync-to-xlog
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1698148514000"
   repo="Otto-J/sync-to-xlog"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Push notes to xlog.app.
 - **下载量**：2.7K
 - **最后更新**：2023-10-24
 - **GitHub**：[Otto-J/sync-to-xlog](https://github.com/Otto-J/sync-to-xlog)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

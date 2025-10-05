@@ -6,7 +6,7 @@ downloads: 270
 updated: 1754193952000
 repo: okawak/discord_message_sender
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1754193952000"
   repo="okawak/discord_message_sender"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Send messages from a Discord channel to your Vault
 - **下载量**：270
 - **最后更新**：2025-08-03
 - **GitHub**：[okawak/discord_message_sender](https://github.com/okawak/discord_message_sender)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: New Bullet With Time
-description: Automatically add the current time to new bullet lines.
+description: 在新的子弹行中自动添加当前时间。
 author: Boninall
-downloads: 6388
+downloads: 6390
 updated: 1743653796000
 repo: Quorafind/Obsidian-New-Bullet-With-Time
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-new-bullet-with-time"
   name="New Bullet With Time"
-  description="Automatically add the current time to new bullet lines."
+  description="在新的子弹行中自动添加当前时间。"
   author="Boninall"
-  :downloads="6388"
+  :downloads="6390"
   :updated="1743653796000"
   repo="Quorafind/Obsidian-New-Bullet-With-Time"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 New Bullet With Time 是一个功能强大的 Obsidian 插件。
 
-Automatically add the current time to new bullet lines.
+在新的子弹行中自动添加当前时间。
 
 通过 New Bullet With Time,您可以:
 
@@ -202,7 +202,7 @@ Automatically add the current time to new bullet lines.
 - **下载量**：6.4K
 - **最后更新**：2025-04-03
 - **GitHub**：[Quorafind/Obsidian-New-Bullet-With-Time](https://github.com/Quorafind/Obsidian-New-Bullet-With-Time)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

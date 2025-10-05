@@ -2,11 +2,11 @@
 title: Hierarchical Outgoing Links
 description: Displays outgoing links in a tree structure.
 author: Jason Motylinski
-downloads: 2149
+downloads: 2151
 updated: 1756140400000
 repo: jasonmotylinski/hierarchical-outgoing-links
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hierarchical Outgoing Links"
   description="Displays outgoing links in a tree structure."
   author="Jason Motylinski"
-  :downloads="2149"
+  :downloads="2151"
   :updated="1756140400000"
   repo="jasonmotylinski/hierarchical-outgoing-links"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Displays outgoing links in a tree structure.
 - **插件 ID**：hierarchical-outgoing-links
 - **作者**：Jason Motylinski
 - **当前版本**：v1.0.0
-- **下载量**：2.1K
+- **下载量**：2.2K
 - **最后更新**：2025-08-26
 - **GitHub**：[jasonmotylinski/hierarchical-outgoing-links](https://github.com/jasonmotylinski/hierarchical-outgoing-links)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

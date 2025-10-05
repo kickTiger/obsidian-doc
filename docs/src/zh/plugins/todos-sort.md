@@ -2,11 +2,11 @@
 title: Todos sort
 description: Sorting your TODOs (checkboxes) in current note by completion status
 author: Jiri Sifalda
-downloads: 1059
+downloads: 1063
 updated: 1744552098000
 repo: jsifalda/obsidian-todos-sort
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Todos sort"
   description="Sorting your TODOs (checkboxes) in current note by completion status"
   author="Jiri Sifalda"
-  :downloads="1059"
+  :downloads="1063"
   :updated="1744552098000"
   repo="jsifalda/obsidian-todos-sort"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sorting your TODOs (checkboxes) in current note by completion status
 - **下载量**：1.1K
 - **最后更新**：2025-04-13
 - **GitHub**：[jsifalda/obsidian-todos-sort](https://github.com/jsifalda/obsidian-todos-sort)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

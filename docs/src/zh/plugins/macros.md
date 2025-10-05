@@ -2,11 +2,11 @@
 title: Macros
 description: Track and visualize your daily macros, meals and nutrition inside your notes.
 author: James Clifford Spratt
-downloads: 1082
+downloads: 1086
 updated: 1752757454000
 repo: JamesCliffordSpratt/macros
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Macros"
   description="Track and visualize your daily macros, meals and nutrition inside your notes."
   author="James Clifford Spratt"
-  :downloads="1082"
+  :downloads="1086"
   :updated="1752757454000"
   repo="JamesCliffordSpratt/macros"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Track and visualize your daily macros, meals and nutrition inside your notes.
 - **下载量**：1.1K
 - **最后更新**：2025-07-17
 - **GitHub**：[JamesCliffordSpratt/macros](https://github.com/JamesCliffordSpratt/macros)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

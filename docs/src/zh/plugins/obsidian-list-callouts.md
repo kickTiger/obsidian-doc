@@ -1,12 +1,12 @@
 ---
 title: List Callouts
-description: Create simple callouts in lists.
+description: 在列表中创建简单的呼出。
 author: mgmeyers
-downloads: 113640
+downloads: 113718
 updated: 1725810237000
 repo: mgmeyers/obsidian-list-callouts
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-list-callouts"
   name="List Callouts"
-  description="Create simple callouts in lists."
+  description="在列表中创建简单的呼出。"
   author="mgmeyers"
-  :downloads="113640"
+  :downloads="113718"
   :updated="1725810237000"
   repo="mgmeyers/obsidian-list-callouts"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 List Callouts 是一个功能强大的 Obsidian 插件。
 
-Create simple callouts in lists.
+在列表中创建简单的呼出。
 
 通过 List Callouts,您可以:
 
@@ -199,10 +199,10 @@ Create simple callouts in lists.
 - **插件 ID**：obsidian-list-callouts
 - **作者**：mgmeyers
 - **当前版本**：v1.0.0
-- **下载量**：113.6K
+- **下载量**：113.7K
 - **最后更新**：2024-09-08
 - **GitHub**：[mgmeyers/obsidian-list-callouts](https://github.com/mgmeyers/obsidian-list-callouts)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

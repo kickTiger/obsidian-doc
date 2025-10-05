@@ -1,12 +1,12 @@
 ---
 title: Ledger
-description: Plain text accounting.
+description: 纯文本会计。
 author: Tony Grosinger
-downloads: 35397
+downloads: 35431
 updated: 1716392180000
 repo: tgrosinger/ledger-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ledger-obsidian"
   name="Ledger"
-  description="Plain text accounting."
+  description="纯文本会计。"
   author="Tony Grosinger"
-  :downloads="35397"
+  :downloads="35431"
   :updated="1716392180000"
   repo="tgrosinger/ledger-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ledger 是一个功能强大的 Obsidian 插件。
 
-Plain text accounting.
+纯文本会计。
 
 通过 Ledger,您可以:
 
@@ -202,7 +202,7 @@ Plain text accounting.
 - **下载量**：35.4K
 - **最后更新**：2024-05-22
 - **GitHub**：[tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

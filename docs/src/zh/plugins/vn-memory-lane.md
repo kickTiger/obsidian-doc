@@ -1,12 +1,12 @@
 ---
 title: MemoryLane
-description: 'Relive and celebrate your life''s milestones on a personal, interactive timeline. A nostalgic journey through your history with anniversary reminders and cherished memories.'
+description: 在个人互动时间轴上重温和庆祝您的人生里程碑。通过周年纪念日提醒和珍贵回忆，为您的历史开启一段怀旧之旅。
 author: BangCa
-downloads: 5326
+downloads: 5333
 updated: 1701901189000
 repo: bangca85/obsidian-memorylane-plugin
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vn-memory-lane"
   name="MemoryLane"
-  description="Relive and celebrate your life&#39;s milestones on a personal, interactive timeline. A nostalgic journey through your history with anniversary reminders and cherished memories."
+  description="在个人互动时间轴上重温和庆祝您的人生里程碑。通过周年纪念日提醒和珍贵回忆，为您的历史开启一段怀旧之旅。"
   author="BangCa"
-  :downloads="5326"
+  :downloads="5333"
   :updated="1701901189000"
   repo="bangca85/obsidian-memorylane-plugin"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MemoryLane 是一个功能强大的 Obsidian 插件。
 
-Relive and celebrate your life&#39;s milestones on a personal, interactive timeline. A nostalgic journey through your history with anniversary reminders and cherished memories.
+在个人互动时间轴上重温和庆祝您的人生里程碑。通过周年纪念日提醒和珍贵回忆，为您的历史开启一段怀旧之旅。
 
 通过 MemoryLane,您可以:
 
@@ -202,7 +202,7 @@ Relive and celebrate your life&#39;s milestones on a personal, interactive timel
 - **下载量**：5.3K
 - **最后更新**：2023-12-07
 - **GitHub**：[bangca85/obsidian-memorylane-plugin](https://github.com/bangca85/obsidian-memorylane-plugin)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

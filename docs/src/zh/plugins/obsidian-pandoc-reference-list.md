@@ -1,12 +1,12 @@
 ---
 title: Pandoc Reference List
-description: Display a formatted reference in the sidebar for each Pandoc citekey present in the current document.
+description: 在侧边栏为当前文档中的每个 Pandoc 引用键显示格式化的参考文献。
 author: mgmeyers
-downloads: 63668
+downloads: 63733
 updated: 1704390989000
 repo: mgmeyers/obsidian-pandoc-reference-list
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-pandoc-reference-list"
   name="Pandoc Reference List"
-  description="Display a formatted reference in the sidebar for each Pandoc citekey present in the current document."
+  description="在侧边栏为当前文档中的每个 Pandoc 引用键显示格式化的参考文献。"
   author="mgmeyers"
-  :downloads="63668"
+  :downloads="63733"
   :updated="1704390989000"
   repo="mgmeyers/obsidian-pandoc-reference-list"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pandoc Reference List 是一个功能强大的 Obsidian 插件。
 
-Display a formatted reference in the sidebar for each Pandoc citekey present in the current document.
+在侧边栏为当前文档中的每个 Pandoc 引用键显示格式化的参考文献。
 
 通过 Pandoc Reference List,您可以:
 
@@ -202,7 +202,7 @@ Display a formatted reference in the sidebar for each Pandoc citekey present in 
 - **下载量**：63.7K
 - **最后更新**：2024-01-05
 - **GitHub**：[mgmeyers/obsidian-pandoc-reference-list](https://github.com/mgmeyers/obsidian-pandoc-reference-list)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Current Folder Notes
 description: Shows a list of notes in the current folder, and allows you to filter the titles to include or exclude notes.
 author: Pamela Wang
-downloads: 1826
+downloads: 1828
 updated: 1749743665000
 repo: Caffa/Obsidian-Current-Folder-Note-Display-Plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Current Folder Notes"
   description="Shows a list of notes in the current folder, and allows you to filter the titles to include or exclude notes."
   author="Pamela Wang"
-  :downloads="1826"
+  :downloads="1828"
   :updated="1749743665000"
   repo="Caffa/Obsidian-Current-Folder-Note-Display-Plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Shows a list of notes in the current folder, and allows you to filter the titles
 - **下载量**：1.8K
 - **最后更新**：2025-06-12
 - **GitHub**：[Caffa/Obsidian-Current-Folder-Note-Display-Plugin](https://github.com/Caffa/Obsidian-Current-Folder-Note-Display-Plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

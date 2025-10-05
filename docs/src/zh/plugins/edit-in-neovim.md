@@ -1,12 +1,12 @@
 ---
 title: Edit in Neovim
-description: Open a Neovim buffer for the currently open file
+description: 为当前打开的文件打开 Neovim 缓冲区
 author: Theseus
-downloads: 4258
+downloads: 4267
 updated: 1758835310000
 repo: TheseusGrey/edit-in-neovim
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="edit-in-neovim"
   name="Edit in Neovim"
-  description="Open a Neovim buffer for the currently open file"
+  description="为当前打开的文件打开 Neovim 缓冲区"
   author="Theseus"
-  :downloads="4258"
+  :downloads="4267"
   :updated="1758835310000"
   repo="TheseusGrey/edit-in-neovim"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Edit in Neovim 是一个功能强大的 Obsidian 插件。
 
-Open a Neovim buffer for the currently open file
+为当前打开的文件打开 Neovim 缓冲区
 
 通过 Edit in Neovim,您可以:
 
@@ -202,7 +202,7 @@ Open a Neovim buffer for the currently open file
 - **下载量**：4.3K
 - **最后更新**：2025-09-26
 - **GitHub**：[TheseusGrey/edit-in-neovim](https://github.com/TheseusGrey/edit-in-neovim)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

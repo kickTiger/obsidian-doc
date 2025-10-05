@@ -1,12 +1,12 @@
 ---
 title: Share to Flomo
-description: Quickly share content to Flomo.
+description: 快速分享内容到 Flomo。
 author: Xiaoyu Li
 downloads: 5066
 updated: 1706923892000
 repo: kaminono/obsidian-to-flomo
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-to-flomo"
   name="Share to Flomo"
-  description="Quickly share content to Flomo."
+  description="快速分享内容到 Flomo。"
   author="Xiaoyu Li"
   :downloads="5066"
   :updated="1706923892000"
   repo="kaminono/obsidian-to-flomo"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Share to Flomo 是一个功能强大的 Obsidian 插件。
 
-Quickly share content to Flomo.
+快速分享内容到 Flomo。
 
 通过 Share to Flomo,您可以:
 
@@ -202,7 +202,7 @@ Quickly share content to Flomo.
 - **下载量**：5.1K
 - **最后更新**：2024-02-03
 - **GitHub**：[kaminono/obsidian-to-flomo](https://github.com/kaminono/obsidian-to-flomo)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

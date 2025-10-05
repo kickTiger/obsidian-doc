@@ -1,12 +1,12 @@
 ---
 title: Tweaks
-description: Add convenient tweaks including improved toggling and ergonomic commands.
+description: 添加方便的调整功能，包括改进的切换功能和符合人体工程学的命令。
 author: Jeppe Klitgaard
 downloads: 5691
 updated: 1647904947000
 repo: JeppeKlitgaard/ObsidianTweaks
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-tweaks"
   name="Tweaks"
-  description="Add convenient tweaks including improved toggling and ergonomic commands."
+  description="添加方便的调整功能，包括改进的切换功能和符合人体工程学的命令。"
   author="Jeppe Klitgaard"
   :downloads="5691"
   :updated="1647904947000"
   repo="JeppeKlitgaard/ObsidianTweaks"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tweaks 是一个功能强大的 Obsidian 插件。
 
-Add convenient tweaks including improved toggling and ergonomic commands.
+添加方便的调整功能，包括改进的切换功能和符合人体工程学的命令。
 
 通过 Tweaks,您可以:
 
@@ -202,7 +202,7 @@ Add convenient tweaks including improved toggling and ergonomic commands.
 - **下载量**：5.7K
 - **最后更新**：2022-03-22
 - **GitHub**：[JeppeKlitgaard/ObsidianTweaks](https://github.com/JeppeKlitgaard/ObsidianTweaks)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

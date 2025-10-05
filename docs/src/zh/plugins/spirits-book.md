@@ -2,11 +2,11 @@
 title: 'The Spirit''s Book'
 description: 'Study and explore The Spirit''s Book with search, random questions, and favorites.'
 author: Antonio Henrique
-downloads: 35
+downloads: 36
 updated: 1751587049000
 repo: ahlrodrigues/spirits-book
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="The Spirit&#39;s Book"
   description="Study and explore The Spirit&#39;s Book with search, random questions, and favorites."
   author="Antonio Henrique"
-  :downloads="35"
+  :downloads="36"
   :updated="1751587049000"
   repo="ahlrodrigues/spirits-book"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Study and explore The Spirit&#39;s Book with search, random questions, and favor
 - **插件 ID**：spirits-book
 - **作者**：Antonio Henrique
 - **当前版本**：v1.0.0
-- **下载量**：35
+- **下载量**：36
 - **最后更新**：2025-07-04
 - **GitHub**：[ahlrodrigues/spirits-book](https://github.com/ahlrodrigues/spirits-book)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: AI Zhipu
 description: Generate text using the ZhipuAI API.
 author: Tarslab
-downloads: 2062
+downloads: 2063
 updated: 1717723877000
 repo: TarsLab/obsidian-ai-zhipu
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="AI Zhipu"
   description="Generate text using the ZhipuAI API."
   author="Tarslab"
-  :downloads="2062"
+  :downloads="2063"
   :updated="1717723877000"
   repo="TarsLab/obsidian-ai-zhipu"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate text using the ZhipuAI API.
 - **下载量**：2.1K
 - **最后更新**：2024-06-07
 - **GitHub**：[TarsLab/obsidian-ai-zhipu](https://github.com/TarsLab/obsidian-ai-zhipu)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 178
 updated: 1730138726000
 repo: bhavers/obsidian-ca
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1730138726000"
   repo="bhavers/obsidian-ca"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Synchronise Cognitive Architect (aka IBM IT Architect Assistant) architectures.
 - **下载量**：178
 - **最后更新**：2024-10-29
 - **GitHub**：[bhavers/obsidian-ca](https://github.com/bhavers/obsidian-ca)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

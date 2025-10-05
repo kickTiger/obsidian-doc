@@ -1,12 +1,12 @@
 ---
 title: Markdown Tree
-description: Create a beautiful and intuitive directory tree using Markdown-oriented code style using tabs, spaces and enters.
+description: 使用制表符、空格和回车键，以 Markdown 为导向的代码风格创建漂亮直观的目录树。
 author: carvah
-downloads: 6782
+downloads: 6790
 updated: 1689609037000
 repo: carvah/markdown-tree-plugin
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="markdown-tree"
   name="Markdown Tree"
-  description="Create a beautiful and intuitive directory tree using Markdown-oriented code style using tabs, spaces and enters."
+  description="使用制表符、空格和回车键，以 Markdown 为导向的代码风格创建漂亮直观的目录树。"
   author="carvah"
-  :downloads="6782"
+  :downloads="6790"
   :updated="1689609037000"
   repo="carvah/markdown-tree-plugin"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown Tree 是一个功能强大的 Obsidian 插件。
 
-Create a beautiful and intuitive directory tree using Markdown-oriented code style using tabs, spaces and enters.
+使用制表符、空格和回车键，以 Markdown 为导向的代码风格创建漂亮直观的目录树。
 
 通过 Markdown Tree,您可以:
 
@@ -202,7 +202,7 @@ Create a beautiful and intuitive directory tree using Markdown-oriented code sty
 - **下载量**：6.8K
 - **最后更新**：2023-07-17
 - **GitHub**：[carvah/markdown-tree-plugin](https://github.com/carvah/markdown-tree-plugin)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

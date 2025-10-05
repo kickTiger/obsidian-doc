@@ -1,12 +1,12 @@
 ---
 title: ChatGPT MD
-description: A seamless integration of ChatGPT, OpenRouter.ai and local LLMs via Ollama into your notes.
+description: 通过 Ollama 将 ChatGPT、OpenRouter.ai 和本地 LLM 无缝集成到笔记中。
 author: Deniz Okcu (created by Bram Adams)
-downloads: 79008
+downloads: 79122
 updated: 1756106361000
 repo: bramses/chatgpt-md
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="chatgpt-md"
   name="ChatGPT MD"
-  description="A seamless integration of ChatGPT, OpenRouter.ai and local LLMs via Ollama into your notes."
+  description="通过 Ollama 将 ChatGPT、OpenRouter.ai 和本地 LLM 无缝集成到笔记中。"
   author="Deniz Okcu (created by Bram Adams)"
-  :downloads="79008"
+  :downloads="79122"
   :updated="1756106361000"
   repo="bramses/chatgpt-md"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ChatGPT MD 是一个功能强大的 Obsidian 插件。
 
-A seamless integration of ChatGPT, OpenRouter.ai and local LLMs via Ollama into your notes.
+通过 Ollama 将 ChatGPT、OpenRouter.ai 和本地 LLM 无缝集成到笔记中。
 
 通过 ChatGPT MD,您可以:
 
@@ -199,10 +199,10 @@ A seamless integration of ChatGPT, OpenRouter.ai and local LLMs via Ollama into 
 - **插件 ID**：chatgpt-md
 - **作者**：Deniz Okcu (created by Bram Adams)
 - **当前版本**：v1.0.0
-- **下载量**：79.0K
+- **下载量**：79.1K
 - **最后更新**：2025-08-25
 - **GitHub**：[bramses/chatgpt-md](https://github.com/bramses/chatgpt-md)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

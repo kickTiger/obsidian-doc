@@ -1,12 +1,12 @@
 ---
 title: Auto Glossary
-description: Automatically create a glossary of files, an index of files, or both.
+description: 自动创建文件词汇表、文件索引或两者。
 author: Ennio Italiano
-downloads: 7786
+downloads: 7788
 updated: 1678096926000
 repo: ennioitaliano/obsidian-auto-glossary
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-glossary"
   name="Auto Glossary"
-  description="Automatically create a glossary of files, an index of files, or both."
+  description="自动创建文件词汇表、文件索引或两者。"
   author="Ennio Italiano"
-  :downloads="7786"
+  :downloads="7788"
   :updated="1678096926000"
   repo="ennioitaliano/obsidian-auto-glossary"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Glossary 是一个功能强大的 Obsidian 插件。
 
-Automatically create a glossary of files, an index of files, or both.
+自动创建文件词汇表、文件索引或两者。
 
 通过 Auto Glossary,您可以:
 
@@ -202,7 +202,7 @@ Automatically create a glossary of files, an index of files, or both.
 - **下载量**：7.8K
 - **最后更新**：2023-03-06
 - **GitHub**：[ennioitaliano/obsidian-auto-glossary](https://github.com/ennioitaliano/obsidian-auto-glossary)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

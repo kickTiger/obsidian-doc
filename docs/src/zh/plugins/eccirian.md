@@ -6,7 +6,7 @@ downloads: 318
 updated: 1754886822000
 repo: Enthalpiex/Eccirian-Encrypt
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1754886822000"
   repo="Enthalpiex/Eccirian-Encrypt"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Encrypt your notes using advanced encryption algorithms.
 - **下载量**：318
 - **最后更新**：2025-08-11
 - **GitHub**：[Enthalpiex/Eccirian-Encrypt](https://github.com/Enthalpiex/Eccirian-Encrypt)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

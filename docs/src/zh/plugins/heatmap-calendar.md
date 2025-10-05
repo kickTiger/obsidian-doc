@@ -1,12 +1,12 @@
 ---
 title: Heatmap Calendar
-description: 'Activity Year Overview for DataviewJS, Github style – Track Goals, Progress, Habits, Tasks, Exercise, Finances, "Dont Break the Chain" etc.'
+description: 'DataviewJS 的活动年概览，Github 风格--跟踪目标、进度、习惯、任务、锻炼、财务、"不要断链 "等。'
 author: Richard Slettevoll
-downloads: 130845
+downloads: 130943
 updated: 1719560507000
 repo: Richardsl/heatmap-calendar-obsidian
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="heatmap-calendar"
   name="Heatmap Calendar"
-  description="Activity Year Overview for DataviewJS, Github style – Track Goals, Progress, Habits, Tasks, Exercise, Finances, &quot;Dont Break the Chain&quot; etc."
+  description="DataviewJS 的活动年概览，Github 风格--跟踪目标、进度、习惯、任务、锻炼、财务、&quot;不要断链 &quot;等。"
   author="Richard Slettevoll"
-  :downloads="130845"
+  :downloads="130943"
   :updated="1719560507000"
   repo="Richardsl/heatmap-calendar-obsidian"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Heatmap Calendar 是一个功能强大的 Obsidian 插件。
 
-Activity Year Overview for DataviewJS, Github style – Track Goals, Progress, Habits, Tasks, Exercise, Finances, &quot;Dont Break the Chain&quot; etc.
+DataviewJS 的活动年概览，Github 风格--跟踪目标、进度、习惯、任务、锻炼、财务、&quot;不要断链 &quot;等。
 
 通过 Heatmap Calendar,您可以:
 
@@ -199,10 +199,10 @@ Activity Year Overview for DataviewJS, Github style – Track Goals, Progress, H
 - **插件 ID**：heatmap-calendar
 - **作者**：Richard Slettevoll
 - **当前版本**：v1.0.0
-- **下载量**：130.8K
+- **下载量**：130.9K
 - **最后更新**：2024-06-28
 - **GitHub**：[Richardsl/heatmap-calendar-obsidian](https://github.com/Richardsl/heatmap-calendar-obsidian)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Ollama Chat
-description: Chat with your notes using Ollama and LlamaIndex.
+description: 使用 Ollama 和 LlamaIndex 与笔记聊天。
 author: Brumik
-downloads: 8909
+downloads: 8916
 updated: 1728715801000
 repo: brumik/obsidian-ollama-chat
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ollama-chat"
   name="Ollama Chat"
-  description="Chat with your notes using Ollama and LlamaIndex."
+  description="使用 Ollama 和 LlamaIndex 与笔记聊天。"
   author="Brumik"
-  :downloads="8909"
+  :downloads="8916"
   :updated="1728715801000"
   repo="brumik/obsidian-ollama-chat"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ollama Chat 是一个功能强大的 Obsidian 插件。
 
-Chat with your notes using Ollama and LlamaIndex.
+使用 Ollama 和 LlamaIndex 与笔记聊天。
 
 通过 Ollama Chat,您可以:
 
@@ -202,7 +202,7 @@ Chat with your notes using Ollama and LlamaIndex.
 - **下载量**：8.9K
 - **最后更新**：2024-10-12
 - **GitHub**：[brumik/obsidian-ollama-chat](https://github.com/brumik/obsidian-ollama-chat)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

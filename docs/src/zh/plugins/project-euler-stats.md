@@ -6,7 +6,7 @@ downloads: 112
 updated: 1743659384000
 repo: artemkorsakov/project-euler-stats
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1743659384000"
   repo="artemkorsakov/project-euler-stats"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Get statistics from Project Euler.
 - **下载量**：112
 - **最后更新**：2025-04-03
 - **GitHub**：[artemkorsakov/project-euler-stats](https://github.com/artemkorsakov/project-euler-stats)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

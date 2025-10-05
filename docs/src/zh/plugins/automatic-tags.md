@@ -1,12 +1,12 @@
 ---
 title: Automatic Tags
-description: Add tags to new notes automatically based on their path.
+description: 根据新笔记的路径自动为其添加标签。
 author: Jamalam
-downloads: 5480
+downloads: 5492
 updated: 1713094550000
 repo: Jamalam360/obsidian-automatic-tags
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="automatic-tags"
   name="Automatic Tags"
-  description="Add tags to new notes automatically based on their path."
+  description="根据新笔记的路径自动为其添加标签。"
   author="Jamalam"
-  :downloads="5480"
+  :downloads="5492"
   :updated="1713094550000"
   repo="Jamalam360/obsidian-automatic-tags"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Automatic Tags 是一个功能强大的 Obsidian 插件。
 
-Add tags to new notes automatically based on their path.
+根据新笔记的路径自动为其添加标签。
 
 通过 Automatic Tags,您可以:
 
@@ -202,7 +202,7 @@ Add tags to new notes automatically based on their path.
 - **下载量**：5.5K
 - **最后更新**：2024-04-14
 - **GitHub**：[Jamalam360/obsidian-automatic-tags](https://github.com/Jamalam360/obsidian-automatic-tags)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

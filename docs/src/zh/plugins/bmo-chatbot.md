@@ -1,12 +1,12 @@
 ---
 title: BMO Chatbot
-description: 'Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) such as OpenAI''s "gpt-3.5-turbo" and "gpt-4".'
+description: '在使用大型语言模型（LLM）（如 OpenAI 的 "gpt-3.5-turbo "和 "gpt-4"）创建笔记时，生成并集思广益。'
 author: Longy2k
-downloads: 32844
+downloads: 32859
 updated: 1721866052000
 repo: longy2k/obsidian-bmo-chatbot
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="bmo-chatbot"
   name="BMO Chatbot"
-  description="Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) such as OpenAI&#39;s &quot;gpt-3.5-turbo&quot; and &quot;gpt-4&quot;."
+  description="在使用大型语言模型（LLM）（如 OpenAI 的 &quot;gpt-3.5-turbo &quot;和 &quot;gpt-4&quot;）创建笔记时，生成并集思广益。"
   author="Longy2k"
-  :downloads="32844"
+  :downloads="32859"
   :updated="1721866052000"
   repo="longy2k/obsidian-bmo-chatbot"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 BMO Chatbot 是一个功能强大的 Obsidian 插件。
 
-Generate and brainstorm ideas while creating your notes using Large Language Models (LLMs) such as OpenAI&#39;s &quot;gpt-3.5-turbo&quot; and &quot;gpt-4&quot;.
+在使用大型语言模型（LLM）（如 OpenAI 的 &quot;gpt-3.5-turbo &quot;和 &quot;gpt-4&quot;）创建笔记时，生成并集思广益。
 
 通过 BMO Chatbot,您可以:
 
@@ -199,10 +199,10 @@ Generate and brainstorm ideas while creating your notes using Large Language Mod
 - **插件 ID**：bmo-chatbot
 - **作者**：Longy2k
 - **当前版本**：v1.0.0
-- **下载量**：32.8K
+- **下载量**：32.9K
 - **最后更新**：2024-07-25
 - **GitHub**：[longy2k/obsidian-bmo-chatbot](https://github.com/longy2k/obsidian-bmo-chatbot)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

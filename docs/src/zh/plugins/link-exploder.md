@@ -1,12 +1,12 @@
 ---
 title: Link Exploder
-description: 'Link Exploder creates a canvas from a note, embedding it''s incoming (i.e. backlinks) and outgoing links onto the canvas (as well as the their linked notes).'
+description: Link Exploder 可从笔记创建画布，将传入（即反向链接）和传出链接嵌入画布（以及与其链接的笔记）。
 author: Ben Hughes
-downloads: 24182
+downloads: 24204
 updated: 1689446717000
 repo: benhughes/obsidian-link-exploder
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="link-exploder"
   name="Link Exploder"
-  description="Link Exploder creates a canvas from a note, embedding it&#39;s incoming (i.e. backlinks) and outgoing links onto the canvas (as well as the their linked notes)."
+  description="Link Exploder 可从笔记创建画布，将传入（即反向链接）和传出链接嵌入画布（以及与其链接的笔记）。"
   author="Ben Hughes"
-  :downloads="24182"
+  :downloads="24204"
   :updated="1689446717000"
   repo="benhughes/obsidian-link-exploder"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Link Exploder 是一个功能强大的 Obsidian 插件。
 
-Link Exploder creates a canvas from a note, embedding it&#39;s incoming (i.e. backlinks) and outgoing links onto the canvas (as well as the their linked notes).
+Link Exploder 可从笔记创建画布，将传入（即反向链接）和传出链接嵌入画布（以及与其链接的笔记）。
 
 通过 Link Exploder,您可以:
 
@@ -202,7 +202,7 @@ Link Exploder creates a canvas from a note, embedding it&#39;s incoming (i.e. ba
 - **下载量**：24.2K
 - **最后更新**：2023-07-16
 - **GitHub**：[benhughes/obsidian-link-exploder](https://github.com/benhughes/obsidian-link-exploder)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: External Link Opener
-description: Open external links using a modal or a tab.
+description: 使用模式或标签打开外部链接。
 author: zorazrr
-downloads: 4878
+downloads: 4879
 updated: 1669480667000
 repo: zorazrr/obsidian-link-opener
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-link-opener"
   name="External Link Opener"
-  description="Open external links using a modal or a tab."
+  description="使用模式或标签打开外部链接。"
   author="zorazrr"
-  :downloads="4878"
+  :downloads="4879"
   :updated="1669480667000"
   repo="zorazrr/obsidian-link-opener"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 External Link Opener 是一个功能强大的 Obsidian 插件。
 
-Open external links using a modal or a tab.
+使用模式或标签打开外部链接。
 
 通过 External Link Opener,您可以:
 
@@ -202,7 +202,7 @@ Open external links using a modal or a tab.
 - **下载量**：4.9K
 - **最后更新**：2022-11-27
 - **GitHub**：[zorazrr/obsidian-link-opener](https://github.com/zorazrr/obsidian-link-opener)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

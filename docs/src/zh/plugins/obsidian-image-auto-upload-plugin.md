@@ -1,12 +1,12 @@
 ---
 title: Image auto upload
-description: Upload images from your clipboard by PicGo.
+description: 通过 PicGo 从剪贴板上传图片。
 author: renmu123
-downloads: 114619
+downloads: 114655
 updated: 1732772925000
 repo: renmu123/obsidian-image-auto-upload-plugin
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-image-auto-upload-plugin"
   name="Image auto upload"
-  description="Upload images from your clipboard by PicGo."
+  description="通过 PicGo 从剪贴板上传图片。"
   author="renmu123"
-  :downloads="114619"
+  :downloads="114655"
   :updated="1732772925000"
   repo="renmu123/obsidian-image-auto-upload-plugin"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image auto upload 是一个功能强大的 Obsidian 插件。
 
-Upload images from your clipboard by PicGo.
+通过 PicGo 从剪贴板上传图片。
 
 通过 Image auto upload,您可以:
 
@@ -199,10 +199,10 @@ Upload images from your clipboard by PicGo.
 - **插件 ID**：obsidian-image-auto-upload-plugin
 - **作者**：renmu123
 - **当前版本**：v1.0.0
-- **下载量**：114.6K
+- **下载量**：114.7K
 - **最后更新**：2024-11-28
 - **GitHub**：[renmu123/obsidian-image-auto-upload-plugin](https://github.com/renmu123/obsidian-image-auto-upload-plugin)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Colorful Note Borders
-description: Add customizable colorful borders to notes based on folder location or frontmatter metadata, enhancing visual organization.
+description: 根据文件夹位置或封面元数据为笔记添加可定制的彩色边框，增强视觉组织。
 author: rusi
-downloads: 12576
+downloads: 12584
 updated: 1680226563000
 repo: rusi/obsidian-colorful-note-borders
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="colorful-note-borders"
   name="Colorful Note Borders"
-  description="Add customizable colorful borders to notes based on folder location or frontmatter metadata, enhancing visual organization."
+  description="根据文件夹位置或封面元数据为笔记添加可定制的彩色边框，增强视觉组织。"
   author="rusi"
-  :downloads="12576"
+  :downloads="12584"
   :updated="1680226563000"
   repo="rusi/obsidian-colorful-note-borders"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Colorful Note Borders 是一个功能强大的 Obsidian 插件。
 
-Add customizable colorful borders to notes based on folder location or frontmatter metadata, enhancing visual organization.
+根据文件夹位置或封面元数据为笔记添加可定制的彩色边框，增强视觉组织。
 
 通过 Colorful Note Borders,您可以:
 
@@ -202,7 +202,7 @@ Add customizable colorful borders to notes based on folder location or frontmatt
 - **下载量**：12.6K
 - **最后更新**：2023-03-31
 - **GitHub**：[rusi/obsidian-colorful-note-borders](https://github.com/rusi/obsidian-colorful-note-borders)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Creases
-description: Tools for effectively folding Markdown sections.
+description: 有效折叠 Markdown 部分的工具。
 author: Liam Cain
-downloads: 31379
+downloads: 31402
 updated: 1689603814000
 repo: liamcain/obsidian-creases
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="creases"
   name="Creases"
-  description="Tools for effectively folding Markdown sections."
+  description="有效折叠 Markdown 部分的工具。"
   author="Liam Cain"
-  :downloads="31379"
+  :downloads="31402"
   :updated="1689603814000"
   repo="liamcain/obsidian-creases"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Creases 是一个功能强大的 Obsidian 插件。
 
-Tools for effectively folding Markdown sections.
+有效折叠 Markdown 部分的工具。
 
 通过 Creases,您可以:
 
@@ -202,7 +202,7 @@ Tools for effectively folding Markdown sections.
 - **下载量**：31.4K
 - **最后更新**：2023-07-17
 - **GitHub**：[liamcain/obsidian-creases](https://github.com/liamcain/obsidian-creases)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

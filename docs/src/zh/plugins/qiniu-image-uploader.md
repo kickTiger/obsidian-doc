@@ -6,7 +6,7 @@ downloads: 3183
 updated: 1722085215000
 repo: jianzs/obsidian-qiniu-image-uploader
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1722085215000"
   repo="jianzs/obsidian-qiniu-image-uploader"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Upload images from your clipboard to qiniu.com and embed uploaded image to your 
 - **下载量**：3.2K
 - **最后更新**：2024-07-27
 - **GitHub**：[jianzs/obsidian-qiniu-image-uploader](https://github.com/jianzs/obsidian-qiniu-image-uploader)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

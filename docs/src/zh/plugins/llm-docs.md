@@ -2,11 +2,11 @@
 title: LLM docs
 description: Simple LLM (AI chat) client using pure markdown documents
 author: Shane Lamb
-downloads: 390
+downloads: 391
 updated: 1752913964000
 repo: shane-lamb/obsidian-llm-docs
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="LLM docs"
   description="Simple LLM (AI chat) client using pure markdown documents"
   author="Shane Lamb"
-  :downloads="390"
+  :downloads="391"
   :updated="1752913964000"
   repo="shane-lamb/obsidian-llm-docs"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Simple LLM (AI chat) client using pure markdown documents
 - **插件 ID**：llm-docs
 - **作者**：Shane Lamb
 - **当前版本**：v1.0.0
-- **下载量**：390
+- **下载量**：391
 - **最后更新**：2025-07-19
 - **GitHub**：[shane-lamb/obsidian-llm-docs](https://github.com/shane-lamb/obsidian-llm-docs)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

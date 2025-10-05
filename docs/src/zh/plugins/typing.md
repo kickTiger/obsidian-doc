@@ -1,12 +1,12 @@
 ---
 title: Typing
-description: Customizable note types.
+description: 可定制的笔记类型
 author: Nikita Konodyuk
-downloads: 3866
+downloads: 3868
 updated: 1701608819000
 repo: konodyuk/obsidian-typing
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="typing"
   name="Typing"
-  description="Customizable note types."
+  description="可定制的笔记类型"
   author="Nikita Konodyuk"
-  :downloads="3866"
+  :downloads="3868"
   :updated="1701608819000"
   repo="konodyuk/obsidian-typing"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Typing 是一个功能强大的 Obsidian 插件。
 
-Customizable note types.
+可定制的笔记类型
 
 通过 Typing,您可以:
 
@@ -202,7 +202,7 @@ Customizable note types.
 - **下载量**：3.9K
 - **最后更新**：2023-12-03
 - **GitHub**：[konodyuk/obsidian-typing](https://github.com/konodyuk/obsidian-typing)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

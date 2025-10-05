@@ -1,12 +1,12 @@
 ---
 title: Itinerary
-description: Make planning your trip or event easier by rendering a calendar from event information found in your notes.
+description: 利用笔记中的事件信息制作日历，让您更轻松地计划旅行或活动。
 author: Adam Coddington
-downloads: 9816
+downloads: 9818
 updated: 1639881977000
 repo: coddingtonbear/obsidian-itinerary
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-itinerary"
   name="Itinerary"
-  description="Make planning your trip or event easier by rendering a calendar from event information found in your notes."
+  description="利用笔记中的事件信息制作日历，让您更轻松地计划旅行或活动。"
   author="Adam Coddington"
-  :downloads="9816"
+  :downloads="9818"
   :updated="1639881977000"
   repo="coddingtonbear/obsidian-itinerary"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Itinerary 是一个功能强大的 Obsidian 插件。
 
-Make planning your trip or event easier by rendering a calendar from event information found in your notes.
+利用笔记中的事件信息制作日历，让您更轻松地计划旅行或活动。
 
 通过 Itinerary,您可以:
 
@@ -202,7 +202,7 @@ Make planning your trip or event easier by rendering a calendar from event infor
 - **下载量**：9.8K
 - **最后更新**：2021-12-19
 - **GitHub**：[coddingtonbear/obsidian-itinerary](https://github.com/coddingtonbear/obsidian-itinerary)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

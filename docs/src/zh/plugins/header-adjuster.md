@@ -2,11 +2,11 @@
 title: Header Adjuster
 description: Easily adjust header levels in Markdown documents by increasing or decreasing their levels. Supports full document adjustments or specified line ranges, with default settings and commands for convenience.
 author: Valentin Pelletier
-downloads: 1175
+downloads: 1177
 updated: 1744223922000
 repo: Netajam/header-adjuster
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Header Adjuster"
   description="Easily adjust header levels in Markdown documents by increasing or decreasing their levels. Supports full document adjustments or specified line ranges, with default settings and commands for convenience."
   author="Valentin Pelletier"
-  :downloads="1175"
+  :downloads="1177"
   :updated="1744223922000"
   repo="Netajam/header-adjuster"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily adjust header levels in Markdown documents by increasing or decreasing th
 - **下载量**：1.2K
 - **最后更新**：2025-04-10
 - **GitHub**：[Netajam/header-adjuster](https://github.com/Netajam/header-adjuster)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

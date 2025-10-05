@@ -2,11 +2,11 @@
 title: Timeline Canvas Creator
 description: Quickly create timeline structured canvases.
 author: chris-codes1
-downloads: 557
+downloads: 560
 updated: 1749409817000
 repo: chris-codes1/timeline-canvas-creator
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Timeline Canvas Creator"
   description="Quickly create timeline structured canvases."
   author="chris-codes1"
-  :downloads="557"
+  :downloads="560"
   :updated="1749409817000"
   repo="chris-codes1/timeline-canvas-creator"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Quickly create timeline structured canvases.
 - **插件 ID**：timeline-canvas-creator
 - **作者**：chris-codes1
 - **当前版本**：v1.0.0
-- **下载量**：557
+- **下载量**：560
 - **最后更新**：2025-06-09
 - **GitHub**：[chris-codes1/timeline-canvas-creator](https://github.com/chris-codes1/timeline-canvas-creator)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

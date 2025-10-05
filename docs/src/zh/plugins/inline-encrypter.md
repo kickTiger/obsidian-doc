@@ -1,12 +1,12 @@
 ---
 title: Inline Encrypter
-description: Encrypt secrets in your notes.
+description: 为笔记中的秘密加密
 author: Alexander Cheryomukhin
-downloads: 6218
+downloads: 6229
 updated: 1755967826000
 repo: solargate/obsidian-inline-encrypter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="inline-encrypter"
   name="Inline Encrypter"
-  description="Encrypt secrets in your notes."
+  description="为笔记中的秘密加密"
   author="Alexander Cheryomukhin"
-  :downloads="6218"
+  :downloads="6229"
   :updated="1755967826000"
   repo="solargate/obsidian-inline-encrypter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Inline Encrypter 是一个功能强大的 Obsidian 插件。
 
-Encrypt secrets in your notes.
+为笔记中的秘密加密
 
 通过 Inline Encrypter,您可以:
 
@@ -202,7 +202,7 @@ Encrypt secrets in your notes.
 - **下载量**：6.2K
 - **最后更新**：2025-08-24
 - **GitHub**：[solargate/obsidian-inline-encrypter](https://github.com/solargate/obsidian-inline-encrypter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

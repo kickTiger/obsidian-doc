@@ -1,12 +1,12 @@
 ---
 title: Prominent Bookmarked Files
-description: Prominently display bookmarked notes in the file explorer.
+description: 在文件资源管理器中显著显示书签笔记。
 author: Jeremy Valentine
-downloads: 10383
+downloads: 10385
 updated: 1682514628000
 repo: javalent/prominent-files
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-prominent-starred-files"
   name="Prominent Bookmarked Files"
-  description="Prominently display bookmarked notes in the file explorer."
+  description="在文件资源管理器中显著显示书签笔记。"
   author="Jeremy Valentine"
-  :downloads="10383"
+  :downloads="10385"
   :updated="1682514628000"
   repo="javalent/prominent-files"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Prominent Bookmarked Files 是一个功能强大的 Obsidian 插件。
 
-Prominently display bookmarked notes in the file explorer.
+在文件资源管理器中显著显示书签笔记。
 
 通过 Prominent Bookmarked Files,您可以:
 
@@ -202,7 +202,7 @@ Prominently display bookmarked notes in the file explorer.
 - **下载量**：10.4K
 - **最后更新**：2023-04-26
 - **GitHub**：[javalent/prominent-files](https://github.com/javalent/prominent-files)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,6 +1,10 @@
 <template>
   <div class="plugin-detail-container">
     <div class="plugin-detail-main">
+      <!-- 徽标：优先显示新增，其次显示更新 -->
+      <div v-if="isNewlyAdded" class="new-badge">新增</div>
+      <div v-else-if="isRecentlyUpdated" class="update-badge">更新</div>
+
       <!-- 插件头部 -->
       <div class="plugin-header">
         <div class="plugin-icon">
@@ -8,7 +12,7 @@
         </div>
         <div class="plugin-title-section">
           <h1 class="plugin-title">{{ name }}</h1>
-          <p class="plugin-tagline">{{ description }}</p>
+          <p class="plugin-tagline">{{ translatedDescription }}</p>
         </div>
       </div>
 
@@ -37,7 +41,7 @@
         <div class="meta-item">
           <i class="iconfont icon-folder"></i>
           <span class="meta-label">分类:</span>
-          <span class="meta-value category-badge">{{ category }}</span>
+          <span class="meta-value category-badge">{{ categoryName }}</span>
         </div>
       </div>
 
@@ -73,7 +77,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue';
+import { computed, ref, onMounted } from 'vue';
 import PluginAd from './PluginAd.vue';
 
 // Props 定义
@@ -91,6 +95,67 @@ interface Props {
 }
 
 const props = defineProps<Props>();
+
+// 分类ID到中文名称的映射（与搜索页面保持一致）
+const CATEGORY_NAMES: Record<string, string> = {
+  'note-taking': '笔记增强',
+  'task-management': '任务管理',
+  'data-processing': '数据处理',
+  'visualization': '可视化',
+  'drawing': '绘图',
+  'calendar-time': '日历时间',
+  'template': '模板',
+  'automation': '自动化',
+  'sync-backup': '备份同步',
+  'editor-enhancement': '编辑增强',
+  'appearance': '外观定制',
+  'productivity': '效率工具',
+  'integration': '集成',
+  'other': '其他'
+};
+
+// 获取分类的中文名称
+const getCategoryName = (categoryId: string): string => {
+  return CATEGORY_NAMES[categoryId] || categoryId || '其他';
+};
+
+// 翻译数据
+const translations = ref<Record<string, { description: string; notes?: string }>>({});
+
+// 加载翻译数据
+onMounted(async () => {
+  try {
+    const response = await fetch('/data/plugin-translations.json');
+    if (response.ok) {
+      translations.value = await response.json();
+    }
+  } catch (err) {
+    console.log('翻译数据加载失败，使用原始描述');
+  }
+});
+
+// 获取翻译后的描述
+const translatedDescription = computed(() => {
+  const translation = translations.value[props.id];
+  return translation?.description || props.description;
+});
+
+// 获取分类的中文名称
+const categoryName = computed(() => {
+  return getCategoryName(props.category);
+});
+
+// 判断插件是否在一周内更新
+const isRecentlyUpdated = computed(() => {
+  const oneWeekAgo = Date.now() - 7 * 24 * 60 * 60 * 1000; // 7天前的时间戳
+  return props.updated > oneWeekAgo;
+});
+
+// 判断插件是否在一个月内新增
+const isNewlyAdded = computed(() => {
+  const oneMonthAgo = Date.now() - 30 * 24 * 60 * 60 * 1000; // 30天前的时间戳
+  return props.created > oneMonthAgo;
+});
 
 // 格式化下载量
 const formatDownloads = (num: number): string => {
@@ -120,6 +185,52 @@ const formatDate = (timestamp: number): string => {
 /* 主内容区 */
 .plugin-detail-main {
   width: 100%;
+  position: relative; /* 为 NEW 徽标定位 */
+}
+
+/* 新增徽标（一个月内新增） */
+.new-badge {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: linear-gradient(135deg, #ff6b6b 0%, #ff8787 100%);
+  color: white;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 8px;
+  letter-spacing: 0.3px;
+  box-shadow: 0 2px 6px rgba(255, 107, 107, 0.25);
+  z-index: 100;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+/* 更新徽标（一周内更新） */
+.update-badge {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: linear-gradient(135deg, #4CAF50 0%, #66BB6A 100%);
+  color: white;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 8px;
+  letter-spacing: 0.3px;
+  box-shadow: 0 2px 6px rgba(76, 175, 80, 0.25);
+  z-index: 100;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    box-shadow: 0 4px 12px rgba(255, 107, 107, 0.4);
+  }
+  50% {
+    transform: scale(1.05);
+    box-shadow: 0 6px 16px rgba(255, 107, 107, 0.6);
+  }
 }
 
 /* 插件头部 */

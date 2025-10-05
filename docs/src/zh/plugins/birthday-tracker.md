@@ -1,12 +1,12 @@
 ---
 title: Birthday-Tracker
-description: Keep track of all birthdays of your family and friends.
+description: 记录家人和朋友的所有生日。
 author: Marius Wörfel
-downloads: 7020
+downloads: 7022
 updated: 1753313519000
 repo: Raboro/Obsidian-Birthday-Tracker-Plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="birthday-tracker"
   name="Birthday-Tracker"
-  description="Keep track of all birthdays of your family and friends."
+  description="记录家人和朋友的所有生日。"
   author="Marius Wörfel"
-  :downloads="7020"
+  :downloads="7022"
   :updated="1753313519000"
   repo="Raboro/Obsidian-Birthday-Tracker-Plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Birthday-Tracker 是一个功能强大的 Obsidian 插件。
 
-Keep track of all birthdays of your family and friends.
+记录家人和朋友的所有生日。
 
 通过 Birthday-Tracker,您可以:
 
@@ -202,7 +202,7 @@ Keep track of all birthdays of your family and friends.
 - **下载量**：7.0K
 - **最后更新**：2025-07-24
 - **GitHub**：[Raboro/Obsidian-Birthday-Tracker-Plugin](https://github.com/Raboro/Obsidian-Birthday-Tracker-Plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

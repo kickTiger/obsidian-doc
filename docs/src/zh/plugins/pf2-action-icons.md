@@ -1,12 +1,12 @@
 ---
 title: Pathfinder 2E Action Icons
-description: Display Pathfinder 2E action icons.
+description: 显示 Pathfinder 2E 动作图标。
 author: Thiago Coutinho
-downloads: 7973
+downloads: 7976
 updated: 1730725687000
 repo: thiagocoutinhor/pf2-action-icons
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pf2-action-icons"
   name="Pathfinder 2E Action Icons"
-  description="Display Pathfinder 2E action icons."
+  description="显示 Pathfinder 2E 动作图标。"
   author="Thiago Coutinho"
-  :downloads="7973"
+  :downloads="7976"
   :updated="1730725687000"
   repo="thiagocoutinhor/pf2-action-icons"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pathfinder 2E Action Icons 是一个功能强大的 Obsidian 插件。
 
-Display Pathfinder 2E action icons.
+显示 Pathfinder 2E 动作图标。
 
 通过 Pathfinder 2E Action Icons,您可以:
 
@@ -202,7 +202,7 @@ Display Pathfinder 2E action icons.
 - **下载量**：8.0K
 - **最后更新**：2024-11-04
 - **GitHub**：[thiagocoutinhor/pf2-action-icons](https://github.com/thiagocoutinhor/pf2-action-icons)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

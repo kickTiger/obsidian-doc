@@ -2,11 +2,11 @@
 title: Animated Cursor
 description: Simple yet smooth animated cursor.
 author: Kotaindah55
-downloads: 2033
+downloads: 2043
 updated: 1753097601000
 repo: kotaindah55/animated-cursor
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Animated Cursor"
   description="Simple yet smooth animated cursor."
   author="Kotaindah55"
-  :downloads="2033"
+  :downloads="2043"
   :updated="1753097601000"
   repo="kotaindah55/animated-cursor"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Simple yet smooth animated cursor.
 - **下载量**：2.0K
 - **最后更新**：2025-07-21
 - **GitHub**：[kotaindah55/animated-cursor](https://github.com/kotaindah55/animated-cursor)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 381
 updated: 1742638489000
 repo: bnchiang96/xiaohongshu-importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1742638489000"
   repo="bnchiang96/xiaohongshu-importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Import Xiaohongshu (小红书) notes with media and categorization.
 - **下载量**：381
 - **最后更新**：2025-03-22
 - **GitHub**：[bnchiang96/xiaohongshu-importer](https://github.com/bnchiang96/xiaohongshu-importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

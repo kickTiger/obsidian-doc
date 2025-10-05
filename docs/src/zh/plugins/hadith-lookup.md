@@ -6,7 +6,7 @@ downloads: 120
 updated: 1747769657000
 repo: iadnanmukhtar/obsidian-hadith-lookup-plugin
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1747769657000"
   repo="iadnanmukhtar/obsidian-hadith-lookup-plugin"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Inserts Hadith and Quranic ayat and passages using a reference ID from the Ḥad
 - **下载量**：120
 - **最后更新**：2025-05-21
 - **GitHub**：[iadnanmukhtar/obsidian-hadith-lookup-plugin](https://github.com/iadnanmukhtar/obsidian-hadith-lookup-plugin)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Minote Sync
 description: Sync Minote(小米笔记) into your vault.
 author: Emac Shen
-downloads: 530
+downloads: 532
 updated: 1743740734000
 repo: emac/obsidian-minote-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Minote Sync"
   description="Sync Minote(小米笔记) into your vault."
   author="Emac Shen"
-  :downloads="530"
+  :downloads="532"
   :updated="1743740734000"
   repo="emac/obsidian-minote-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Sync Minote(小米笔记) into your vault.
 - **插件 ID**：minote-sync
 - **作者**：Emac Shen
 - **当前版本**：v1.0.0
-- **下载量**：530
+- **下载量**：532
 - **最后更新**：2025-04-04
 - **GitHub**：[emac/obsidian-minote-plugin](https://github.com/emac/obsidian-minote-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

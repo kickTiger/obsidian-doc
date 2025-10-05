@@ -2,11 +2,11 @@
 title: Literate Haskell
 description: Integrate .lhs files into your PKM.
 author: James Jensen
-downloads: 3458
+downloads: 3459
 updated: 1660987230000
 repo: jajaperson/obsidian-literate-haskell
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Literate Haskell"
   description="Integrate .lhs files into your PKM."
   author="James Jensen"
-  :downloads="3458"
+  :downloads="3459"
   :updated="1660987230000"
   repo="jajaperson/obsidian-literate-haskell"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Integrate .lhs files into your PKM.
 - **下载量**：3.5K
 - **最后更新**：2022-08-20
 - **GitHub**：[jajaperson/obsidian-literate-haskell](https://github.com/jajaperson/obsidian-literate-haskell)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

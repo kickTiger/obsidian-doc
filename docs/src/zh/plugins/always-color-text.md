@@ -2,11 +2,11 @@
 title: Always Color Text
 description: Colors texts across the Vault.
 author: Kazi Aidah Haque
-downloads: 174
+downloads: 181
 updated: 1751972960000
 repo: Kazi-Aidah/always-color-text
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Always Color Text"
   description="Colors texts across the Vault."
   author="Kazi Aidah Haque"
-  :downloads="174"
+  :downloads="181"
   :updated="1751972960000"
   repo="Kazi-Aidah/always-color-text"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Colors texts across the Vault.
 - **插件 ID**：always-color-text
 - **作者**：Kazi Aidah Haque
 - **当前版本**：v1.0.0
-- **下载量**：174
+- **下载量**：181
 - **最后更新**：2025-07-08
 - **GitHub**：[Kazi-Aidah/always-color-text](https://github.com/Kazi-Aidah/always-color-text)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

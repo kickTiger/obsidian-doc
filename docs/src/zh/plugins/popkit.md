@@ -1,12 +1,12 @@
 ---
 title: PopKit
-description: Select text to instantly access quick tools
+description: 选择文本，立即访问快速工具
 author: Zhou Hua
-downloads: 4415
+downloads: 4417
 updated: 1742443043000
 repo: zhouhua/obsidian-popkit
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="popkit"
   name="PopKit"
-  description="Select text to instantly access quick tools"
+  description="选择文本，立即访问快速工具"
   author="Zhou Hua"
-  :downloads="4415"
+  :downloads="4417"
   :updated="1742443043000"
   repo="zhouhua/obsidian-popkit"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 PopKit 是一个功能强大的 Obsidian 插件。
 
-Select text to instantly access quick tools
+选择文本，立即访问快速工具
 
 通过 PopKit,您可以:
 
@@ -202,7 +202,7 @@ Select text to instantly access quick tools
 - **下载量**：4.4K
 - **最后更新**：2025-03-20
 - **GitHub**：[zhouhua/obsidian-popkit](https://github.com/zhouhua/obsidian-popkit)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

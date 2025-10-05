@@ -1,12 +1,12 @@
 ---
 title: echarts
-description: Render echarts.
+description: 渲染电子图表
 author: 'windily-cloud && Cuman'
-downloads: 7694
+downloads: 7700
 updated: 1655968892000
 repo: cumany/obsidian-echarts
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-echarts"
   name="echarts"
-  description="Render echarts."
+  description="渲染电子图表"
   author="windily-cloud &amp;&amp; Cuman"
-  :downloads="7694"
+  :downloads="7700"
   :updated="1655968892000"
   repo="cumany/obsidian-echarts"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 echarts 是一个功能强大的 Obsidian 插件。
 
-Render echarts.
+渲染电子图表
 
 通过 echarts,您可以:
 
@@ -202,7 +202,7 @@ Render echarts.
 - **下载量**：7.7K
 - **最后更新**：2022-06-23
 - **GitHub**：[cumany/obsidian-echarts](https://github.com/cumany/obsidian-echarts)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

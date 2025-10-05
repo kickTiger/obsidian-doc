@@ -2,11 +2,11 @@
 title: Random Wikipedia Article
 description: Generates a note for a random Wikipedia article.
 author: SpencerF718
-downloads: 129
+downloads: 130
 updated: 1752703873000
 repo: SpencerF718/obsidian-random-wikipedia
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Random Wikipedia Article"
   description="Generates a note for a random Wikipedia article."
   author="SpencerF718"
-  :downloads="129"
+  :downloads="130"
   :updated="1752703873000"
   repo="SpencerF718/obsidian-random-wikipedia"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Generates a note for a random Wikipedia article.
 - **插件 ID**：random-wikipedia-article
 - **作者**：SpencerF718
 - **当前版本**：v1.0.0
-- **下载量**：129
+- **下载量**：130
 - **最后更新**：2025-07-17
 - **GitHub**：[SpencerF718/obsidian-random-wikipedia](https://github.com/SpencerF718/obsidian-random-wikipedia)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

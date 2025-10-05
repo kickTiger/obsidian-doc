@@ -1,12 +1,12 @@
 ---
 title: Clipper
-description: Capture highlights from the web.
+description: 从网络上捕捉亮点。
 author: John Christopher
-downloads: 39623
+downloads: 39667
 updated: 1752420069000
 repo: jgchristopher/obsidian-clipper
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-clipper"
   name="Clipper"
-  description="Capture highlights from the web."
+  description="从网络上捕捉亮点。"
   author="John Christopher"
-  :downloads="39623"
+  :downloads="39667"
   :updated="1752420069000"
   repo="jgchristopher/obsidian-clipper"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Clipper 是一个功能强大的 Obsidian 插件。
 
-Capture highlights from the web.
+从网络上捕捉亮点。
 
 通过 Clipper,您可以:
 
@@ -199,10 +199,10 @@ Capture highlights from the web.
 - **插件 ID**：obsidian-clipper
 - **作者**：John Christopher
 - **当前版本**：v1.0.0
-- **下载量**：39.6K
+- **下载量**：39.7K
 - **最后更新**：2025-07-13
 - **GitHub**：[jgchristopher/obsidian-clipper](https://github.com/jgchristopher/obsidian-clipper)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

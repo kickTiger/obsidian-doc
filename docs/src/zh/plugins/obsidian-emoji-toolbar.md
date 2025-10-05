@@ -1,12 +1,12 @@
 ---
 title: Emoji Toolbar
-description: Quickly search for and insert emojis into your editor.
+description: 快速搜索和插入表情符号。
 author: oliveryh
-downloads: 391977
+downloads: 392129
 updated: 1683148360000
 repo: oliveryh/obsidian-emoji-toolbar
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-emoji-toolbar"
   name="Emoji Toolbar"
-  description="Quickly search for and insert emojis into your editor."
+  description="快速搜索和插入表情符号。"
   author="oliveryh"
-  :downloads="391977"
+  :downloads="392129"
   :updated="1683148360000"
   repo="oliveryh/obsidian-emoji-toolbar"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Emoji Toolbar 是一个功能强大的 Obsidian 插件。
 
-Quickly search for and insert emojis into your editor.
+快速搜索和插入表情符号。
 
 通过 Emoji Toolbar,您可以:
 
@@ -199,10 +199,10 @@ Quickly search for and insert emojis into your editor.
 - **插件 ID**：obsidian-emoji-toolbar
 - **作者**：oliveryh
 - **当前版本**：v1.0.0
-- **下载量**：392.0K
+- **下载量**：392.1K
 - **最后更新**：2023-05-04
 - **GitHub**：[oliveryh/obsidian-emoji-toolbar](https://github.com/oliveryh/obsidian-emoji-toolbar)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

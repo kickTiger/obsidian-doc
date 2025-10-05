@@ -1,12 +1,12 @@
 ---
 title: FuzzyTag
-description: Fuzzy match autocomplete tags in frontmatter.
+description: 模糊匹配 frontmatter 中的自动完成标记。
 author: Adrian
 downloads: 5605
 updated: 1748430850000
 repo: adriandersen/obsidian-fuzzytag
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-fuzzytag"
   name="FuzzyTag"
-  description="Fuzzy match autocomplete tags in frontmatter."
+  description="模糊匹配 frontmatter 中的自动完成标记。"
   author="Adrian"
   :downloads="5605"
   :updated="1748430850000"
   repo="adriandersen/obsidian-fuzzytag"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 FuzzyTag 是一个功能强大的 Obsidian 插件。
 
-Fuzzy match autocomplete tags in frontmatter.
+模糊匹配 frontmatter 中的自动完成标记。
 
 通过 FuzzyTag,您可以:
 
@@ -202,7 +202,7 @@ Fuzzy match autocomplete tags in frontmatter.
 - **下载量**：5.6K
 - **最后更新**：2025-05-28
 - **GitHub**：[adriandersen/obsidian-fuzzytag](https://github.com/adriandersen/obsidian-fuzzytag)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

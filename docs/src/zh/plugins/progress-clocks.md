@@ -1,12 +1,12 @@
 ---
 title: Progress Clocks
-description: Progress clocks and other useful widgets for real-time status tracking.
+description: 用于实时跟踪状态的进度钟和其他实用小部件。
 author: Nathan Clark
-downloads: 3833
+downloads: 3842
 updated: 1737332023000
 repo: tokenshift/obsidian-progress-clocks
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="progress-clocks"
   name="Progress Clocks"
-  description="Progress clocks and other useful widgets for real-time status tracking."
+  description="用于实时跟踪状态的进度钟和其他实用小部件。"
   author="Nathan Clark"
-  :downloads="3833"
+  :downloads="3842"
   :updated="1737332023000"
   repo="tokenshift/obsidian-progress-clocks"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Progress Clocks 是一个功能强大的 Obsidian 插件。
 
-Progress clocks and other useful widgets for real-time status tracking.
+用于实时跟踪状态的进度钟和其他实用小部件。
 
 通过 Progress Clocks,您可以:
 
@@ -202,7 +202,7 @@ Progress clocks and other useful widgets for real-time status tracking.
 - **下载量**：3.8K
 - **最后更新**：2025-01-20
 - **GitHub**：[tokenshift/obsidian-progress-clocks](https://github.com/tokenshift/obsidian-progress-clocks)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

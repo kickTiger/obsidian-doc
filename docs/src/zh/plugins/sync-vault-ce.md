@@ -2,11 +2,11 @@
 title: Sync Vault CE
 description: sync with cloud disk fast and safely.
 author: Camus Qiu
-downloads: 1308
+downloads: 1314
 updated: 1757319574000
 repo: abcamus/obsidian-sync-vault-ce
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Sync Vault CE"
   description="sync with cloud disk fast and safely."
   author="Camus Qiu"
-  :downloads="1308"
+  :downloads="1314"
   :updated="1757319574000"
   repo="abcamus/obsidian-sync-vault-ce"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ sync with cloud disk fast and safely.
 - **下载量**：1.3K
 - **最后更新**：2025-09-08
 - **GitHub**：[abcamus/obsidian-sync-vault-ce](https://github.com/abcamus/obsidian-sync-vault-ce)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

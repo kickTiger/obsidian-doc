@@ -2,11 +2,11 @@
 title: Auto Replacer
 description: Replace text in your notes automatically using regex rules and JavaScript functions.
 author: Alecell
-downloads: 601
+downloads: 603
 updated: 1758085015000
 repo: Alecell/auto-replacer
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto Replacer"
   description="Replace text in your notes automatically using regex rules and JavaScript functions."
   author="Alecell"
-  :downloads="601"
+  :downloads="603"
   :updated="1758085015000"
   repo="Alecell/auto-replacer"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Replace text in your notes automatically using regex rules and JavaScript functi
 - **插件 ID**：auto-replacer
 - **作者**：Alecell
 - **当前版本**：v1.0.0
-- **下载量**：601
+- **下载量**：603
 - **最后更新**：2025-09-17
 - **GitHub**：[Alecell/auto-replacer](https://github.com/Alecell/auto-replacer)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

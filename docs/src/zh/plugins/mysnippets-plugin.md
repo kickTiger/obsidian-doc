@@ -1,12 +1,12 @@
 ---
 title: MySnippets
-description: A status bar menu allowing you to quickly toggle snippets on and off.
+description: 状态栏菜单允许你快速切换片段的开启和关闭。
 author: Chetachi
-downloads: 32942
+downloads: 32962
 updated: 1661991437000
 repo: chetachiezikeuzor/MySnippets-Plugin
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mysnippets-plugin"
   name="MySnippets"
-  description="A status bar menu allowing you to quickly toggle snippets on and off."
+  description="状态栏菜单允许你快速切换片段的开启和关闭。"
   author="Chetachi"
-  :downloads="32942"
+  :downloads="32962"
   :updated="1661991437000"
   repo="chetachiezikeuzor/MySnippets-Plugin"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MySnippets 是一个功能强大的 Obsidian 插件。
 
-A status bar menu allowing you to quickly toggle snippets on and off.
+状态栏菜单允许你快速切换片段的开启和关闭。
 
 通过 MySnippets,您可以:
 
@@ -199,10 +199,10 @@ A status bar menu allowing you to quickly toggle snippets on and off.
 - **插件 ID**：mysnippets-plugin
 - **作者**：Chetachi
 - **当前版本**：v1.0.0
-- **下载量**：32.9K
+- **下载量**：33.0K
 - **最后更新**：2022-09-01
 - **GitHub**：[chetachiezikeuzor/MySnippets-Plugin](https://github.com/chetachiezikeuzor/MySnippets-Plugin)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

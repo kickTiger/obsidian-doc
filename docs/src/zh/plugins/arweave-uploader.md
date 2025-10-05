@@ -6,7 +6,7 @@ downloads: 133
 updated: 1730491267000
 repo: konfuzz/arweave-uploader-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1730491267000"
   repo="konfuzz/arweave-uploader-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Convert your notes to HTML and upload to Arweave.
 - **下载量**：133
 - **最后更新**：2024-11-02
 - **GitHub**：[konfuzz/arweave-uploader-plugin](https://github.com/konfuzz/arweave-uploader-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

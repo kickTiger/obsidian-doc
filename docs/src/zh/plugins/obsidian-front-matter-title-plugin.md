@@ -1,12 +1,12 @@
 ---
 title: Front Matter Title
-description: Define a title in frontmatter to be displayed as the filename.
+description: 在 frontmatter 中定义显示为文件名的标题。
 author: Snezhig
-downloads: 41699
+downloads: 41719
 updated: 1733555137000
 repo: snezhig/obsidian-front-matter-title
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-front-matter-title-plugin"
   name="Front Matter Title"
-  description="Define a title in frontmatter to be displayed as the filename."
+  description="在 frontmatter 中定义显示为文件名的标题。"
   author="Snezhig"
-  :downloads="41699"
+  :downloads="41719"
   :updated="1733555137000"
   repo="snezhig/obsidian-front-matter-title"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Front Matter Title 是一个功能强大的 Obsidian 插件。
 
-Define a title in frontmatter to be displayed as the filename.
+在 frontmatter 中定义显示为文件名的标题。
 
 通过 Front Matter Title,您可以:
 
@@ -202,7 +202,7 @@ Define a title in frontmatter to be displayed as the filename.
 - **下载量**：41.7K
 - **最后更新**：2024-12-07
 - **GitHub**：[snezhig/obsidian-front-matter-title](https://github.com/snezhig/obsidian-front-matter-title)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: DMN
-description: Enable viewing DMNs using dmn-js.
+description: 启用使用 dmn-js 查看 DMN。
 author: joleaf
-downloads: 3701
+downloads: 3702
 updated: 1714383724000
 repo: joleaf/obsidian-dmn-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="dmn-plugin"
   name="DMN"
-  description="Enable viewing DMNs using dmn-js."
+  description="启用使用 dmn-js 查看 DMN。"
   author="joleaf"
-  :downloads="3701"
+  :downloads="3702"
   :updated="1714383724000"
   repo="joleaf/obsidian-dmn-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 DMN 是一个功能强大的 Obsidian 插件。
 
-Enable viewing DMNs using dmn-js.
+启用使用 dmn-js 查看 DMN。
 
 通过 DMN,您可以:
 
@@ -202,7 +202,7 @@ Enable viewing DMNs using dmn-js.
 - **下载量**：3.7K
 - **最后更新**：2024-04-29
 - **GitHub**：[joleaf/obsidian-dmn-plugin](https://github.com/joleaf/obsidian-dmn-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: aDHL
 description: Create pretty static highlighters from search or regEx. Group by tag and set commands for toggling. Based on Dynamic Highlights. Works well with Highlightr.
 author: tine-schreibt
-downloads: 1851
+downloads: 1873
 updated: 1755375974000
 repo: tine-schreibt/aDHL
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="aDHL"
   description="Create pretty static highlighters from search or regEx. Group by tag and set commands for toggling. Based on Dynamic Highlights. Works well with Highlightr."
   author="tine-schreibt"
-  :downloads="1851"
+  :downloads="1873"
   :updated="1755375974000"
   repo="tine-schreibt/aDHL"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create pretty static highlighters from search or regEx. Group by tag and set com
 - **下载量**：1.9K
 - **最后更新**：2025-08-17
 - **GitHub**：[tine-schreibt/aDHL](https://github.com/tine-schreibt/aDHL)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

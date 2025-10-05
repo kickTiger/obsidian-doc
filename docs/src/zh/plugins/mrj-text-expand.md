@@ -1,12 +1,12 @@
 ---
 title: Text expand
-description: Search and paste/transclude links to found files.
+description: 搜索并粘贴/转录找到的文件链接。
 author: MrJackphil
-downloads: 34607
+downloads: 34612
 updated: 1743779139000
 repo: mrjackphil/obsidian-text-expand
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mrj-text-expand"
   name="Text expand"
-  description="Search and paste/transclude links to found files."
+  description="搜索并粘贴/转录找到的文件链接。"
   author="MrJackphil"
-  :downloads="34607"
+  :downloads="34612"
   :updated="1743779139000"
   repo="mrjackphil/obsidian-text-expand"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text expand 是一个功能强大的 Obsidian 插件。
 
-Search and paste/transclude links to found files.
+搜索并粘贴/转录找到的文件链接。
 
 通过 Text expand,您可以:
 
@@ -202,7 +202,7 @@ Search and paste/transclude links to found files.
 - **下载量**：34.6K
 - **最后更新**：2025-04-04
 - **GitHub**：[mrjackphil/obsidian-text-expand](https://github.com/mrjackphil/obsidian-text-expand)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

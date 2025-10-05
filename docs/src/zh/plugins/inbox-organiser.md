@@ -2,11 +2,11 @@
 title: Inbox Organiser
 description: Capture any new notes into an inbox and periodically prompt to organise these into other folders within the vault.
 author: Jamie Hurst
-downloads: 1608
+downloads: 1610
 updated: 1751436174000
 repo: jamiefdhurst/obsidian-inbox-organiser
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Inbox Organiser"
   description="Capture any new notes into an inbox and periodically prompt to organise these into other folders within the vault."
   author="Jamie Hurst"
-  :downloads="1608"
+  :downloads="1610"
   :updated="1751436174000"
   repo="jamiefdhurst/obsidian-inbox-organiser"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Capture any new notes into an inbox and periodically prompt to organise these in
 - **下载量**：1.6K
 - **最后更新**：2025-07-02
 - **GitHub**：[jamiefdhurst/obsidian-inbox-organiser](https://github.com/jamiefdhurst/obsidian-inbox-organiser)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

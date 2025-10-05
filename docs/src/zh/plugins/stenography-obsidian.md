@@ -1,12 +1,12 @@
 ---
 title: Stenography
-description: Translate code blocks into simple English using Machine Learning with the Stenography API.
+description: 利用速记 API 的机器学习功能，将代码块翻译成简单的英文。
 author: bramses
 downloads: 4668
 updated: 1635432468000
 repo: bramses/stenography-obsidian
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="stenography-obsidian"
   name="Stenography"
-  description="Translate code blocks into simple English using Machine Learning with the Stenography API."
+  description="利用速记 API 的机器学习功能，将代码块翻译成简单的英文。"
   author="bramses"
   :downloads="4668"
   :updated="1635432468000"
   repo="bramses/stenography-obsidian"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Stenography 是一个功能强大的 Obsidian 插件。
 
-Translate code blocks into simple English using Machine Learning with the Stenography API.
+利用速记 API 的机器学习功能，将代码块翻译成简单的英文。
 
 通过 Stenography,您可以:
 
@@ -202,7 +202,7 @@ Translate code blocks into simple English using Machine Learning with the Stenog
 - **下载量**：4.7K
 - **最后更新**：2021-10-28
 - **GitHub**：[bramses/stenography-obsidian](https://github.com/bramses/stenography-obsidian)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

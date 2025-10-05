@@ -1,12 +1,12 @@
 ---
 title: Waypoint
-description: 'Easily generate dynamic MOCs in your folder notes using waypoints. Enables folders to show up in the graph view and removes the need for messy tags!'
+description: 在文件夹注释中使用航点轻松生成动态 MOC。让文件夹显示在图表视图中，不再需要杂乱的标签！
 author: Idrees Hassan
-downloads: 84243
+downloads: 84301
 updated: 1711818766000
 repo: IdreesInc/Waypoint
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="waypoint"
   name="Waypoint"
-  description="Easily generate dynamic MOCs in your folder notes using waypoints. Enables folders to show up in the graph view and removes the need for messy tags!"
+  description="在文件夹注释中使用航点轻松生成动态 MOC。让文件夹显示在图表视图中，不再需要杂乱的标签！"
   author="Idrees Hassan"
-  :downloads="84243"
+  :downloads="84301"
   :updated="1711818766000"
   repo="IdreesInc/Waypoint"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Waypoint 是一个功能强大的 Obsidian 插件。
 
-Easily generate dynamic MOCs in your folder notes using waypoints. Enables folders to show up in the graph view and removes the need for messy tags!
+在文件夹注释中使用航点轻松生成动态 MOC。让文件夹显示在图表视图中，不再需要杂乱的标签！
 
 通过 Waypoint,您可以:
 
@@ -199,10 +199,10 @@ Easily generate dynamic MOCs in your folder notes using waypoints. Enables folde
 - **插件 ID**：waypoint
 - **作者**：Idrees Hassan
 - **当前版本**：v1.0.0
-- **下载量**：84.2K
+- **下载量**：84.3K
 - **最后更新**：2024-03-31
 - **GitHub**：[IdreesInc/Waypoint](https://github.com/IdreesInc/Waypoint)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

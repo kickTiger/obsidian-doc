@@ -1,12 +1,12 @@
 ---
 title: Local Quotes
-description: Collect your quotes from all over the vault and embed them in different locations and watch them refreshing in real-time.
+description: 收集你在整个保险库中的语录，并将它们嵌入不同的位置，观看它们实时刷新。
 author: sundevista
-downloads: 6981
+downloads: 6983
 updated: 1690552482000
 repo: sundevista/local-quotes
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="local-quotes"
   name="Local Quotes"
-  description="Collect your quotes from all over the vault and embed them in different locations and watch them refreshing in real-time."
+  description="收集你在整个保险库中的语录，并将它们嵌入不同的位置，观看它们实时刷新。"
   author="sundevista"
-  :downloads="6981"
+  :downloads="6983"
   :updated="1690552482000"
   repo="sundevista/local-quotes"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Local Quotes 是一个功能强大的 Obsidian 插件。
 
-Collect your quotes from all over the vault and embed them in different locations and watch them refreshing in real-time.
+收集你在整个保险库中的语录，并将它们嵌入不同的位置，观看它们实时刷新。
 
 通过 Local Quotes,您可以:
 
@@ -202,7 +202,7 @@ Collect your quotes from all over the vault and embed them in different location
 - **下载量**：7.0K
 - **最后更新**：2023-07-28
 - **GitHub**：[sundevista/local-quotes](https://github.com/sundevista/local-quotes)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

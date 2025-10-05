@@ -2,11 +2,11 @@
 title: Timesheet
 description: Timesheet generator for tasks in daily notes.
 author: vkostyanetsky
-downloads: 936
+downloads: 937
 updated: 1753553548000
 repo: vkostyanetsky/ObsidianTimesheet
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Timesheet"
   description="Timesheet generator for tasks in daily notes."
   author="vkostyanetsky"
-  :downloads="936"
+  :downloads="937"
   :updated="1753553548000"
   repo="vkostyanetsky/ObsidianTimesheet"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Timesheet generator for tasks in daily notes.
 - **插件 ID**：timesheet
 - **作者**：vkostyanetsky
 - **当前版本**：v1.0.0
-- **下载量**：936
+- **下载量**：937
 - **最后更新**：2025-07-27
 - **GitHub**：[vkostyanetsky/ObsidianTimesheet](https://github.com/vkostyanetsky/ObsidianTimesheet)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

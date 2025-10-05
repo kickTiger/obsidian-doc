@@ -1,12 +1,12 @@
 ---
 title: Recall
-description: A flexible and configurable spaced repetition plugin with multiple algorithms to choose from.
+description: 这是一款灵活、可配置的间隔重复插件，有多种算法可供选择。
 author: Martin Jirlow
-downloads: 9774
+downloads: 9776
 updated: 1619710422000
 repo: martin-jw/obsidian-recall
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-recall"
   name="Recall"
-  description="A flexible and configurable spaced repetition plugin with multiple algorithms to choose from."
+  description="这是一款灵活、可配置的间隔重复插件，有多种算法可供选择。"
   author="Martin Jirlow"
-  :downloads="9774"
+  :downloads="9776"
   :updated="1619710422000"
   repo="martin-jw/obsidian-recall"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Recall 是一个功能强大的 Obsidian 插件。
 
-A flexible and configurable spaced repetition plugin with multiple algorithms to choose from.
+这是一款灵活、可配置的间隔重复插件，有多种算法可供选择。
 
 通过 Recall,您可以:
 
@@ -202,7 +202,7 @@ A flexible and configurable spaced repetition plugin with multiple algorithms to
 - **下载量**：9.8K
 - **最后更新**：2021-04-29
 - **GitHub**：[martin-jw/obsidian-recall](https://github.com/martin-jw/obsidian-recall)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

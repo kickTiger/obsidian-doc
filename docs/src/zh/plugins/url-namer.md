@@ -1,12 +1,12 @@
 ---
 title: URL Namer
-description: Retrieve the HTML title of web pages to name external links.
+description: 读取网页的 HTML 标题，为外部链接命名。
 author: zfei
-downloads: 7136
+downloads: 7140
 updated: 1663659551000
 repo: zfei/obsidian-url-namer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="url-namer"
   name="URL Namer"
-  description="Retrieve the HTML title of web pages to name external links."
+  description="读取网页的 HTML 标题，为外部链接命名。"
   author="zfei"
-  :downloads="7136"
+  :downloads="7140"
   :updated="1663659551000"
   repo="zfei/obsidian-url-namer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 URL Namer 是一个功能强大的 Obsidian 插件。
 
-Retrieve the HTML title of web pages to name external links.
+读取网页的 HTML 标题，为外部链接命名。
 
 通过 URL Namer,您可以:
 
@@ -202,7 +202,7 @@ Retrieve the HTML title of web pages to name external links.
 - **下载量**：7.1K
 - **最后更新**：2022-09-20
 - **GitHub**：[zfei/obsidian-url-namer](https://github.com/zfei/obsidian-url-namer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

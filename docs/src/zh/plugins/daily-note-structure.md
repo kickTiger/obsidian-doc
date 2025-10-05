@@ -2,11 +2,11 @@
 title: Daily Note Structure
 description: One-Click create a structure for and including your daily notes.
 author: db-developer
-downloads: 354
+downloads: 355
 updated: 1719172395000
 repo: db-developer/daily-note-structure
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Daily Note Structure"
   description="One-Click create a structure for and including your daily notes."
   author="db-developer"
-  :downloads="354"
+  :downloads="355"
   :updated="1719172395000"
   repo="db-developer/daily-note-structure"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ One-Click create a structure for and including your daily notes.
 - **插件 ID**：daily-note-structure
 - **作者**：db-developer
 - **当前版本**：v1.0.0
-- **下载量**：354
+- **下载量**：355
 - **最后更新**：2024-06-24
 - **GitHub**：[db-developer/daily-note-structure](https://github.com/db-developer/daily-note-structure)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

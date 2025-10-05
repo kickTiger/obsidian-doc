@@ -6,7 +6,7 @@ downloads: 3502
 updated: 1689684517000
 repo: hamsterbase/obsidian-hamsterbase
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1689684517000"
   repo="hamsterbase/obsidian-hamsterbase"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Official HamsterBase integration.
 - **下载量**：3.5K
 - **最后更新**：2023-07-18
 - **GitHub**：[hamsterbase/obsidian-hamsterbase](https://github.com/hamsterbase/obsidian-hamsterbase)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

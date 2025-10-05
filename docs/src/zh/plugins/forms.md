@@ -2,11 +2,11 @@
 title: Forms
 description: Publish beautiful forms and get responses straight to your vault.
 author: Sorin Mircea
-downloads: 571
+downloads: 573
 updated: 1744702745000
 repo: sorinmircea/obsidian-forms-plugin
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Forms"
   description="Publish beautiful forms and get responses straight to your vault."
   author="Sorin Mircea"
-  :downloads="571"
+  :downloads="573"
   :updated="1744702745000"
   repo="sorinmircea/obsidian-forms-plugin"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Publish beautiful forms and get responses straight to your vault.
 - **插件 ID**：forms
 - **作者**：Sorin Mircea
 - **当前版本**：v1.0.0
-- **下载量**：571
+- **下载量**：573
 - **最后更新**：2025-04-15
 - **GitHub**：[sorinmircea/obsidian-forms-plugin](https://github.com/sorinmircea/obsidian-forms-plugin)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

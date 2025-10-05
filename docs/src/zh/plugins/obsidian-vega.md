@@ -1,12 +1,12 @@
 ---
 title: Vega Visualizations
-description: Create highly-customizable data visualizations like line charts and scatter plots using Vega or Vega-Lite.
+description: 使用 Vega 或 Vega-Lite 创建线形图和散点图等高度自定义的数据可视化。
 author: Justin Kim
-downloads: 5108
+downloads: 5109
 updated: 1689996778000
 repo: Justin-J-K/obsidian-vega
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-vega"
   name="Vega Visualizations"
-  description="Create highly-customizable data visualizations like line charts and scatter plots using Vega or Vega-Lite."
+  description="使用 Vega 或 Vega-Lite 创建线形图和散点图等高度自定义的数据可视化。"
   author="Justin Kim"
-  :downloads="5108"
+  :downloads="5109"
   :updated="1689996778000"
   repo="Justin-J-K/obsidian-vega"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vega Visualizations 是一个功能强大的 Obsidian 插件。
 
-Create highly-customizable data visualizations like line charts and scatter plots using Vega or Vega-Lite.
+使用 Vega 或 Vega-Lite 创建线形图和散点图等高度自定义的数据可视化。
 
 通过 Vega Visualizations,您可以:
 
@@ -202,7 +202,7 @@ Create highly-customizable data visualizations like line charts and scatter plot
 - **下载量**：5.1K
 - **最后更新**：2023-07-22
 - **GitHub**：[Justin-J-K/obsidian-vega](https://github.com/Justin-J-K/obsidian-vega)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

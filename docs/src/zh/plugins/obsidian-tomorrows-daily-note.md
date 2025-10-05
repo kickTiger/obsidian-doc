@@ -1,12 +1,12 @@
 ---
 title: 'Tomorrow''s Daily Note'
-description: 'Create tomorrow''s daily note for preemptive planning.'
+description: 创建明天的每日便签，以便预先计划。
 author: Will Olson
-downloads: 13145
+downloads: 13147
 updated: 1741673724000
 repo: frankolson/obsidian-tomorrows-daily-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-tomorrows-daily-note"
   name="Tomorrow&#39;s Daily Note"
-  description="Create tomorrow&#39;s daily note for preemptive planning."
+  description="创建明天的每日便签，以便预先计划。"
   author="Will Olson"
-  :downloads="13145"
+  :downloads="13147"
   :updated="1741673724000"
   repo="frankolson/obsidian-tomorrows-daily-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tomorrow&#39;s Daily Note 是一个功能强大的 Obsidian 插件。
 
-Create tomorrow&#39;s daily note for preemptive planning.
+创建明天的每日便签，以便预先计划。
 
 通过 Tomorrow&#39;s Daily Note,您可以:
 
@@ -202,7 +202,7 @@ Create tomorrow&#39;s daily note for preemptive planning.
 - **下载量**：13.1K
 - **最后更新**：2025-03-11
 - **GitHub**：[frankolson/obsidian-tomorrows-daily-note](https://github.com/frankolson/obsidian-tomorrows-daily-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

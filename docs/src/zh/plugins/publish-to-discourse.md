@@ -6,7 +6,7 @@ downloads: 444
 updated: 1756746301000
 repo: woodchen-ink/obsidian-publish-to-discourse
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1756746301000"
   repo="woodchen-ink/obsidian-publish-to-discourse"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Post notes to the Discourse forum.
 - **下载量**：444
 - **最后更新**：2025-09-02
 - **GitHub**：[woodchen-ink/obsidian-publish-to-discourse](https://github.com/woodchen-ink/obsidian-publish-to-discourse)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

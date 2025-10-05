@@ -1,12 +1,12 @@
 ---
 title: 'Better Math in Callouts & Blockquotes'
-description: 'Add better Live Preview support for math rendering inside callouts & blockquotes.'
+description: 添加更好的实时预览支持，以便在标注和引号内进行数学渲染。
 author: Ryota Ushio
-downloads: 7243
+downloads: 7273
 updated: 1755766595000
 repo: RyotaUshio/obsidian-math-in-callout
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="math-in-callout"
   name="Better Math in Callouts &amp; Blockquotes"
-  description="Add better Live Preview support for math rendering inside callouts &amp; blockquotes."
+  description="添加更好的实时预览支持，以便在标注和引号内进行数学渲染。"
   author="Ryota Ushio"
-  :downloads="7243"
+  :downloads="7273"
   :updated="1755766595000"
   repo="RyotaUshio/obsidian-math-in-callout"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better Math in Callouts &amp; Blockquotes 是一个功能强大的 Obsidian 插件。
 
-Add better Live Preview support for math rendering inside callouts &amp; blockquotes.
+添加更好的实时预览支持，以便在标注和引号内进行数学渲染。
 
 通过 Better Math in Callouts &amp; Blockquotes,您可以:
 
@@ -199,10 +199,10 @@ Add better Live Preview support for math rendering inside callouts &amp; blockqu
 - **插件 ID**：math-in-callout
 - **作者**：Ryota Ushio
 - **当前版本**：v1.0.0
-- **下载量**：7.2K
+- **下载量**：7.3K
 - **最后更新**：2025-08-21
 - **GitHub**：[RyotaUshio/obsidian-math-in-callout](https://github.com/RyotaUshio/obsidian-math-in-callout)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

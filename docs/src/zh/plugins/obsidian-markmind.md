@@ -1,12 +1,12 @@
 ---
 title: Markmind
-description: Mind map, outline and PDF annotation tool. (Closed source)
+description: 思维导图、大纲和PDF注释工具。（闭源）
 author: Mark
-downloads: 434472
-updated: 1758861011000
+downloads: 435020
+updated: 1759570577000
 repo: MarkMindCkm/obsidian-markmind
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-markmind"
   name="Markmind"
-  description="Mind map, outline and PDF annotation tool. (Closed source)"
+  description="思维导图、大纲和PDF注释工具。（闭源）"
   author="Mark"
-  :downloads="434472"
-  :updated="1758861011000"
+  :downloads="435020"
+  :updated="1759570577000"
   repo="MarkMindCkm/obsidian-markmind"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markmind 是一个功能强大的 Obsidian 插件。
 
-Mind map, outline and PDF annotation tool. (Closed source)
+思维导图、大纲和PDF注释工具。（闭源）
 
 通过 Markmind,您可以:
 
@@ -181,7 +181,7 @@ Mind map, outline and PDF annotation tool. (Closed source)
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-09-26
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/MarkMindCkm/obsidian-markmind/releases) 查看详细更新日志
@@ -199,10 +199,10 @@ Mind map, outline and PDF annotation tool. (Closed source)
 - **插件 ID**：obsidian-markmind
 - **作者**：Mark
 - **当前版本**：v1.0.0
-- **下载量**：434.5K
-- **最后更新**：2025-09-26
+- **下载量**：435.0K
+- **最后更新**：2025-10-04
 - **GitHub**：[MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

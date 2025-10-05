@@ -2,11 +2,11 @@
 title: Ridian
 description: 'Execute R code blocks and display outputs and plots & render documents with Quarto.'
 author: Michel Nivard
-downloads: 1685
+downloads: 1687
 updated: 1733300872000
 repo: MichelNivard/Ridian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Ridian"
   description="Execute R code blocks and display outputs and plots &amp; render documents with Quarto."
   author="Michel Nivard"
-  :downloads="1685"
+  :downloads="1687"
   :updated="1733300872000"
   repo="MichelNivard/Ridian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Execute R code blocks and display outputs and plots &amp; render documents with 
 - **下载量**：1.7K
 - **最后更新**：2024-12-04
 - **GitHub**：[MichelNivard/Ridian](https://github.com/MichelNivard/Ridian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Featured Image
-description: Featured Image automatically sets a featured image property in your notes based on the first image, YouTube link, or Auto Card Link image found in your document. This allows you to create rich note galleries using Folder Notes and Dataview.
+description: 精选图片可根据在文档中找到的第一张图片、YouTube 链接或自动卡片链接图片，自动在笔记中设置精选图片属性。这样，您就可以使用文件夹笔记和 Dataview 创建丰富的笔记图库。
 author: Johan Sanneblad
-downloads: 13559
+downloads: 13664
 updated: 1756559292000
 repo: johansan/obsidian-featured-image
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="featured-image"
   name="Featured Image"
-  description="Featured Image automatically sets a featured image property in your notes based on the first image, YouTube link, or Auto Card Link image found in your document. This allows you to create rich note galleries using Folder Notes and Dataview."
+  description="精选图片可根据在文档中找到的第一张图片、YouTube 链接或自动卡片链接图片，自动在笔记中设置精选图片属性。这样，您就可以使用文件夹笔记和 Dataview 创建丰富的笔记图库。"
   author="Johan Sanneblad"
-  :downloads="13559"
+  :downloads="13664"
   :updated="1756559292000"
   repo="johansan/obsidian-featured-image"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Featured Image 是一个功能强大的 Obsidian 插件。
 
-Featured Image automatically sets a featured image property in your notes based on the first image, YouTube link, or Auto Card Link image found in your document. This allows you to create rich note galleries using Folder Notes and Dataview.
+精选图片可根据在文档中找到的第一张图片、YouTube 链接或自动卡片链接图片，自动在笔记中设置精选图片属性。这样，您就可以使用文件夹笔记和 Dataview 创建丰富的笔记图库。
 
 通过 Featured Image,您可以:
 
@@ -199,10 +199,10 @@ Featured Image automatically sets a featured image property in your notes based 
 - **插件 ID**：featured-image
 - **作者**：Johan Sanneblad
 - **当前版本**：v1.0.0
-- **下载量**：13.6K
+- **下载量**：13.7K
 - **最后更新**：2025-08-30
 - **GitHub**：[johansan/obsidian-featured-image](https://github.com/johansan/obsidian-featured-image)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

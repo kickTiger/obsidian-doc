@@ -1,12 +1,12 @@
 ---
 title: Key-Value List
-description: Turn lists into neatly formatted key-value lists.
+description: 将列表转化为格式整洁的键值列表。
 author: Christian Wannerstedt
-downloads: 5583
+downloads: 5586
 updated: 1709663013000
 repo: christianwannerstedt/obsidian-key-value-list
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="key-value-list"
   name="Key-Value List"
-  description="Turn lists into neatly formatted key-value lists."
+  description="将列表转化为格式整洁的键值列表。"
   author="Christian Wannerstedt"
-  :downloads="5583"
+  :downloads="5586"
   :updated="1709663013000"
   repo="christianwannerstedt/obsidian-key-value-list"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Key-Value List 是一个功能强大的 Obsidian 插件。
 
-Turn lists into neatly formatted key-value lists.
+将列表转化为格式整洁的键值列表。
 
 通过 Key-Value List,您可以:
 
@@ -202,7 +202,7 @@ Turn lists into neatly formatted key-value lists.
 - **下载量**：5.6K
 - **最后更新**：2024-03-06
 - **GitHub**：[christianwannerstedt/obsidian-key-value-list](https://github.com/christianwannerstedt/obsidian-key-value-list)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

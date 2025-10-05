@@ -6,7 +6,7 @@ downloads: 2115
 updated: 1709262234000
 repo: kerry/obsidian-confluence-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1709262234000"
   repo="kerry/obsidian-confluence-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync notes with Confluence
 - **下载量**：2.1K
 - **最后更新**：2024-03-01
 - **GitHub**：[kerry/obsidian-confluence-sync](https://github.com/kerry/obsidian-confluence-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

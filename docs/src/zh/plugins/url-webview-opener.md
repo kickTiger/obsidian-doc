@@ -2,11 +2,11 @@
 title: .url WebView Opener
 description: Opens .url files in the internal webview.
 author: Kieirra
-downloads: 637
+downloads: 644
 updated: 1756763003000
 repo: Kieirra/obsidian-url-extension
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name=".url WebView Opener"
   description="Opens .url files in the internal webview."
   author="Kieirra"
-  :downloads="637"
+  :downloads="644"
   :updated="1756763003000"
   repo="Kieirra/obsidian-url-extension"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Opens .url files in the internal webview.
 - **插件 ID**：url-webview-opener
 - **作者**：Kieirra
 - **当前版本**：v1.0.0
-- **下载量**：637
+- **下载量**：644
 - **最后更新**：2025-09-02
 - **GitHub**：[Kieirra/obsidian-url-extension](https://github.com/Kieirra/obsidian-url-extension)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

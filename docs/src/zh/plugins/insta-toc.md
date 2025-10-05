@@ -1,12 +1,12 @@
 ---
 title: Insta TOC
-description: Simultaneously generate, update, and maintain a table of contents for your notes.
+description: 同时生成、更新和维护笔记目录。
 author: Nick C.
-downloads: 4190
+downloads: 4206
 updated: 1744658528000
 repo: iLiftALot/insta-toc
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="insta-toc"
   name="Insta TOC"
-  description="Simultaneously generate, update, and maintain a table of contents for your notes."
+  description="同时生成、更新和维护笔记目录。"
   author="Nick C."
-  :downloads="4190"
+  :downloads="4206"
   :updated="1744658528000"
   repo="iLiftALot/insta-toc"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Insta TOC 是一个功能强大的 Obsidian 插件。
 
-Simultaneously generate, update, and maintain a table of contents for your notes.
+同时生成、更新和维护笔记目录。
 
 通过 Insta TOC,您可以:
 
@@ -202,7 +202,7 @@ Simultaneously generate, update, and maintain a table of contents for your notes
 - **下载量**：4.2K
 - **最后更新**：2025-04-15
 - **GitHub**：[iLiftALot/insta-toc](https://github.com/iLiftALot/insta-toc)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

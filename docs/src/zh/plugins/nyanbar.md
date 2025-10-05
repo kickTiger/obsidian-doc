@@ -6,7 +6,7 @@ downloads: 553
 updated: 1758570937000
 repo: xhyabunny/nyanbar
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1758570937000"
   repo="xhyabunny/nyanbar"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Nyan Cat Progress Bar generator!
 - **下载量**：553
 - **最后更新**：2025-09-23
 - **GitHub**：[xhyabunny/nyanbar](https://github.com/xhyabunny/nyanbar)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

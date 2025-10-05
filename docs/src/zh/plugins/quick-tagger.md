@@ -1,12 +1,12 @@
 ---
 title: Quick Tagger
-description: 'Add and remove tags quickly. Tag search results, bulk tag, and add dedicated buttons/commands for your favorites!'
+description: 快速添加和删除标签。为搜索结果添加标签、批量添加标签，以及为收藏夹添加专用按钮/命令！
 author: Gorkycreator
-downloads: 10132
+downloads: 10139
 updated: 1699746535000
 repo: Gorkycreator/obsidian-quick-tagger
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quick-tagger"
   name="Quick Tagger"
-  description="Add and remove tags quickly. Tag search results, bulk tag, and add dedicated buttons/commands for your favorites!"
+  description="快速添加和删除标签。为搜索结果添加标签、批量添加标签，以及为收藏夹添加专用按钮/命令！"
   author="Gorkycreator"
-  :downloads="10132"
+  :downloads="10139"
   :updated="1699746535000"
   repo="Gorkycreator/obsidian-quick-tagger"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quick Tagger 是一个功能强大的 Obsidian 插件。
 
-Add and remove tags quickly. Tag search results, bulk tag, and add dedicated buttons/commands for your favorites!
+快速添加和删除标签。为搜索结果添加标签、批量添加标签，以及为收藏夹添加专用按钮/命令！
 
 通过 Quick Tagger,您可以:
 
@@ -202,7 +202,7 @@ Add and remove tags quickly. Tag search results, bulk tag, and add dedicated but
 - **下载量**：10.1K
 - **最后更新**：2023-11-12
 - **GitHub**：[Gorkycreator/obsidian-quick-tagger](https://github.com/Gorkycreator/obsidian-quick-tagger)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

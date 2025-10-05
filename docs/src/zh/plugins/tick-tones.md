@@ -2,11 +2,11 @@
 title: Tick Tones
 description: Plays your custom tone/sound when you tick/complete a checkbox
 author: DontBlameMe
-downloads: 847
+downloads: 863
 updated: 1759486868000
 repo: DontBlameMe99/Tick-Tones
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tick Tones"
   description="Plays your custom tone/sound when you tick/complete a checkbox"
   author="DontBlameMe"
-  :downloads="847"
+  :downloads="863"
   :updated="1759486868000"
   repo="DontBlameMe99/Tick-Tones"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Plays your custom tone/sound when you tick/complete a checkbox
 - **插件 ID**：tick-tones
 - **作者**：DontBlameMe
 - **当前版本**：v1.0.0
-- **下载量**：847
+- **下载量**：863
 - **最后更新**：2025-10-03
 - **GitHub**：[DontBlameMe99/Tick-Tones](https://github.com/DontBlameMe99/Tick-Tones)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

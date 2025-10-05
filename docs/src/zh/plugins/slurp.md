@@ -1,12 +1,12 @@
 ---
 title: Slurp
-description: Slurps webpages and saves them as clean, uncluttered Markdown.
+description: 啜饮网页，并将其保存为干净、整洁的 Markdown 格式。
 author: inhumantsar
-downloads: 15723
+downloads: 15747
 updated: 1733874714000
 repo: inhumantsar/slurp
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="slurp"
   name="Slurp"
-  description="Slurps webpages and saves them as clean, uncluttered Markdown."
+  description="啜饮网页，并将其保存为干净、整洁的 Markdown 格式。"
   author="inhumantsar"
-  :downloads="15723"
+  :downloads="15747"
   :updated="1733874714000"
   repo="inhumantsar/slurp"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Slurp 是一个功能强大的 Obsidian 插件。
 
-Slurps webpages and saves them as clean, uncluttered Markdown.
+啜饮网页，并将其保存为干净、整洁的 Markdown 格式。
 
 通过 Slurp,您可以:
 
@@ -202,7 +202,7 @@ Slurps webpages and saves them as clean, uncluttered Markdown.
 - **下载量**：15.7K
 - **最后更新**：2024-12-11
 - **GitHub**：[inhumantsar/slurp](https://github.com/inhumantsar/slurp)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

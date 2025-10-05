@@ -2,11 +2,11 @@
 title: Strapi Exporter AI
 description: Effortlessly export your notes to Strapi CMS with AI-powered handling and SEO optimization.
 author: Cinquin Andy
-downloads: 2225
+downloads: 2226
 updated: 1759288810000
 repo: CinquinAndy/notes-to-strapi-export-article-ai
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Strapi Exporter AI"
   description="Effortlessly export your notes to Strapi CMS with AI-powered handling and SEO optimization."
   author="Cinquin Andy"
-  :downloads="2225"
+  :downloads="2226"
   :updated="1759288810000"
   repo="CinquinAndy/notes-to-strapi-export-article-ai"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Effortlessly export your notes to Strapi CMS with AI-powered handling and SEO op
 - **下载量**：2.2K
 - **最后更新**：2025-10-01
 - **GitHub**：[CinquinAndy/notes-to-strapi-export-article-ai](https://github.com/CinquinAndy/notes-to-strapi-export-article-ai)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

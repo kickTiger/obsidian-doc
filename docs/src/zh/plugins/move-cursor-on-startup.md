@@ -2,11 +2,11 @@
 title: Move Cursor On Startup
 description: 'Move cursor right then left briefly on startup --> first opened note. Makes DataView expressions ''activate'' automatically instead of waiting for user interaction.'
 author: Jared Kelnhofer
-downloads: 54
+downloads: 56
 updated: 1753652590000
 repo: Treadder/move-cursor-on-startup
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Move Cursor On Startup"
   description="Move cursor right then left briefly on startup --&gt; first opened note. Makes DataView expressions &#39;activate&#39; automatically instead of waiting for user interaction."
   author="Jared Kelnhofer"
-  :downloads="54"
+  :downloads="56"
   :updated="1753652590000"
   repo="Treadder/move-cursor-on-startup"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Move cursor right then left briefly on startup --&gt; first opened note. Makes D
 - **插件 ID**：move-cursor-on-startup
 - **作者**：Jared Kelnhofer
 - **当前版本**：v1.0.0
-- **下载量**：54
+- **下载量**：56
 - **最后更新**：2025-07-28
 - **GitHub**：[Treadder/move-cursor-on-startup](https://github.com/Treadder/move-cursor-on-startup)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

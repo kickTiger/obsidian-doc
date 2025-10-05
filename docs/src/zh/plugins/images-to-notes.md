@@ -2,11 +2,11 @@
 title: Images to Notes
 description: Turn photos of handwritten or printed notes into Markdown using AI.
 author: Rodolfo Terriquez
-downloads: 963
+downloads: 968
 updated: 1757635633000
 repo: rodolfo-terriquez/images-to-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Images to Notes"
   description="Turn photos of handwritten or printed notes into Markdown using AI."
   author="Rodolfo Terriquez"
-  :downloads="963"
+  :downloads="968"
   :updated="1757635633000"
   repo="rodolfo-terriquez/images-to-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Turn photos of handwritten or printed notes into Markdown using AI.
 - **插件 ID**：images-to-notes
 - **作者**：Rodolfo Terriquez
 - **当前版本**：v1.0.0
-- **下载量**：963
+- **下载量**：968
 - **最后更新**：2025-09-12
 - **GitHub**：[rodolfo-terriquez/images-to-notes](https://github.com/rodolfo-terriquez/images-to-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

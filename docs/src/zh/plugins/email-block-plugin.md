@@ -1,12 +1,12 @@
 ---
 title: Email Block
-description: Render an email code block.
+description: 渲染电子邮件代码块。
 author: joleaf
 downloads: 6449
 updated: 1718706495000
 repo: joleaf/obsidian-email-block-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="email-block-plugin"
   name="Email Block"
-  description="Render an email code block."
+  description="渲染电子邮件代码块。"
   author="joleaf"
   :downloads="6449"
   :updated="1718706495000"
   repo="joleaf/obsidian-email-block-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Email Block 是一个功能强大的 Obsidian 插件。
 
-Render an email code block.
+渲染电子邮件代码块。
 
 通过 Email Block,您可以:
 
@@ -202,7 +202,7 @@ Render an email code block.
 - **下载量**：6.4K
 - **最后更新**：2024-06-18
 - **GitHub**：[joleaf/obsidian-email-block-plugin](https://github.com/joleaf/obsidian-email-block-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

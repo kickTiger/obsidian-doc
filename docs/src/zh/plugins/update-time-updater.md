@@ -6,7 +6,7 @@ downloads: 790
 updated: 1712709062000
 repo: muratagawa/update-time-updater
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1712709062000"
   repo="muratagawa/update-time-updater"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manually update the modified date field in frontmatter.
 - **下载量**：790
 - **最后更新**：2024-04-10
 - **GitHub**：[muratagawa/update-time-updater](https://github.com/muratagawa/update-time-updater)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

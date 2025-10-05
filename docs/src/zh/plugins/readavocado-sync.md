@@ -6,7 +6,7 @@ downloads: 3364
 updated: 1664818643000
 repo: innneang/obsidian-readavocado-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1664818643000"
   repo="innneang/obsidian-readavocado-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync your Readavocado highlights.
 - **下载量**：3.4K
 - **最后更新**：2022-10-04
 - **GitHub**：[innneang/obsidian-readavocado-sync](https://github.com/innneang/obsidian-readavocado-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

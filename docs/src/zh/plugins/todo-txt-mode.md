@@ -2,11 +2,11 @@
 title: Todo.txt Mode
 description: Support for todo.txt file format with syntax highlighting and task management
 author: rioskit
-downloads: 574
+downloads: 576
 updated: 1751930798000
 repo: rioskit/obsidian-todo-txt-mode
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Todo.txt Mode"
   description="Support for todo.txt file format with syntax highlighting and task management"
   author="rioskit"
-  :downloads="574"
+  :downloads="576"
   :updated="1751930798000"
   repo="rioskit/obsidian-todo-txt-mode"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Support for todo.txt file format with syntax highlighting and task management
 - **插件 ID**：todo-txt-mode
 - **作者**：rioskit
 - **当前版本**：v1.0.0
-- **下载量**：574
+- **下载量**：576
 - **最后更新**：2025-07-08
 - **GitHub**：[rioskit/obsidian-todo-txt-mode](https://github.com/rioskit/obsidian-todo-txt-mode)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

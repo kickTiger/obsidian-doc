@@ -1,12 +1,12 @@
 ---
 title: Better Word Count
-description: Count the words of selected text in the editor.
+description: 统计编辑器中选定文本的字数。
 author: Luke Leppan
-downloads: 511350
+downloads: 511689
 updated: 1706020459000
 repo: lukeleppan/better-word-count
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="better-word-count"
   name="Better Word Count"
-  description="Count the words of selected text in the editor."
+  description="统计编辑器中选定文本的字数。"
   author="Luke Leppan"
-  :downloads="511350"
+  :downloads="511689"
   :updated="1706020459000"
   repo="lukeleppan/better-word-count"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better Word Count 是一个功能强大的 Obsidian 插件。
 
-Count the words of selected text in the editor.
+统计编辑器中选定文本的字数。
 
 通过 Better Word Count,您可以:
 
@@ -199,10 +199,10 @@ Count the words of selected text in the editor.
 - **插件 ID**：better-word-count
 - **作者**：Luke Leppan
 - **当前版本**：v1.0.0
-- **下载量**：511.4K
+- **下载量**：511.7K
 - **最后更新**：2024-01-23
 - **GitHub**：[lukeleppan/better-word-count](https://github.com/lukeleppan/better-word-count)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

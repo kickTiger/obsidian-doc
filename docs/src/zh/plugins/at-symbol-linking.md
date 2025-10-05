@@ -1,12 +1,12 @@
 ---
 title: '@ Symbol Linking'
-description: 'Link with @ (the at symbol). Can scope @ linking to a specific directory e.g. Contacts/'
+description: '用 @（at 符号）链接。可在 @ 范围内链接到特定目录，例如 Contacts/'
 author: Evan Bonsignori
-downloads: 12018
+downloads: 12054
 updated: 1759205528000
 repo: Ebonsignori/obsidian-at-symbol-linking
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="at-symbol-linking"
   name="@ Symbol Linking"
-  description="Link with @ (the at symbol). Can scope @ linking to a specific directory e.g. Contacts/"
+  description="用 @（at 符号）链接。可在 @ 范围内链接到特定目录，例如 Contacts/"
   author="Evan Bonsignori"
-  :downloads="12018"
+  :downloads="12054"
   :updated="1759205528000"
   repo="Ebonsignori/obsidian-at-symbol-linking"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 @ Symbol Linking 是一个功能强大的 Obsidian 插件。
 
-Link with @ (the at symbol). Can scope @ linking to a specific directory e.g. Contacts/
+用 @（at 符号）链接。可在 @ 范围内链接到特定目录，例如 Contacts/
 
 通过 @ Symbol Linking,您可以:
 
@@ -199,10 +199,10 @@ Link with @ (the at symbol). Can scope @ linking to a specific directory e.g. Co
 - **插件 ID**：at-symbol-linking
 - **作者**：Evan Bonsignori
 - **当前版本**：v1.0.0
-- **下载量**：12.0K
+- **下载量**：12.1K
 - **最后更新**：2025-09-30
 - **GitHub**：[Ebonsignori/obsidian-at-symbol-linking](https://github.com/Ebonsignori/obsidian-at-symbol-linking)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

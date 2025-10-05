@@ -1,12 +1,12 @@
 ---
 title: Expand Bullet
-description: Transform bullet content into note.
+description: 将子弹内容转化为注释。
 author: Boninall
 downloads: 4965
 updated: 1654134336000
 repo: Quorafind/Obsidian-Expand-Bullet
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-expand-bullet"
   name="Expand Bullet"
-  description="Transform bullet content into note."
+  description="将子弹内容转化为注释。"
   author="Boninall"
   :downloads="4965"
   :updated="1654134336000"
   repo="Quorafind/Obsidian-Expand-Bullet"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Expand Bullet 是一个功能强大的 Obsidian 插件。
 
-Transform bullet content into note.
+将子弹内容转化为注释。
 
 通过 Expand Bullet,您可以:
 
@@ -202,7 +202,7 @@ Transform bullet content into note.
 - **下载量**：5.0K
 - **最后更新**：2022-06-02
 - **GitHub**：[Quorafind/Obsidian-Expand-Bullet](https://github.com/Quorafind/Obsidian-Expand-Bullet)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

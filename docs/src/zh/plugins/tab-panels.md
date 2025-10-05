@@ -1,12 +1,12 @@
 ---
 title: Tab Panels
-description: Create tab panels to organize content into sections
+description: 创建标签面板，将内容组织成不同部分
 author: GnoxNahte
-downloads: 5971
+downloads: 5981
 updated: 1755185197000
 repo: GnoxNahte/obsidian-tab-panels
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tab-panels"
   name="Tab Panels"
-  description="Create tab panels to organize content into sections"
+  description="创建标签面板，将内容组织成不同部分"
   author="GnoxNahte"
-  :downloads="5971"
+  :downloads="5981"
   :updated="1755185197000"
   repo="GnoxNahte/obsidian-tab-panels"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tab Panels 是一个功能强大的 Obsidian 插件。
 
-Create tab panels to organize content into sections
+创建标签面板，将内容组织成不同部分
 
 通过 Tab Panels,您可以:
 
@@ -202,7 +202,7 @@ Create tab panels to organize content into sections
 - **下载量**：6.0K
 - **最后更新**：2025-08-14
 - **GitHub**：[GnoxNahte/obsidian-tab-panels](https://github.com/GnoxNahte/obsidian-tab-panels)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

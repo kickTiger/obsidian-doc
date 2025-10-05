@@ -1,12 +1,12 @@
 ---
 title: Tag Project
-description: 'A Project Management Tool: Tag tasks everywhere, Manage in One page.'
+description: 项目管理工具：随处标记任务，单页管理。
 author: Odaimoko
-downloads: 8378
+downloads: 8383
 updated: 1755060459000
 repo: Odaimoko/tag-project
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tag-project-odaimoko"
   name="Tag Project"
-  description="A Project Management Tool: Tag tasks everywhere, Manage in One page."
+  description="项目管理工具：随处标记任务，单页管理。"
   author="Odaimoko"
-  :downloads="8378"
+  :downloads="8383"
   :updated="1755060459000"
   repo="Odaimoko/tag-project"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tag Project 是一个功能强大的 Obsidian 插件。
 
-A Project Management Tool: Tag tasks everywhere, Manage in One page.
+项目管理工具：随处标记任务，单页管理。
 
 通过 Tag Project,您可以:
 
@@ -202,7 +202,7 @@ A Project Management Tool: Tag tasks everywhere, Manage in One page.
 - **下载量**：8.4K
 - **最后更新**：2025-08-13
 - **GitHub**：[Odaimoko/tag-project](https://github.com/Odaimoko/tag-project)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

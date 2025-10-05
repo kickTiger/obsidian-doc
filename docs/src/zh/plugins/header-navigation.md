@@ -2,11 +2,11 @@
 title: Header navigation
 description: Quickly jump between headers and toggle folding
 author: readwithai
-downloads: 717
+downloads: 718
 updated: 1733683225000
 repo: talwrii/obsidian-header-navigation
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Header navigation"
   description="Quickly jump between headers and toggle folding"
   author="readwithai"
-  :downloads="717"
+  :downloads="718"
   :updated="1733683225000"
   repo="talwrii/obsidian-header-navigation"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Quickly jump between headers and toggle folding
 - **插件 ID**：header-navigation
 - **作者**：readwithai
 - **当前版本**：v1.0.0
-- **下载量**：717
+- **下载量**：718
 - **最后更新**：2024-12-09
 - **GitHub**：[talwrii/obsidian-header-navigation](https://github.com/talwrii/obsidian-header-navigation)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

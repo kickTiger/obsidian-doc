@@ -2,11 +2,11 @@
 title: Simple File Info
 description: A lightweight file info pane with native look and feel.
 author: Lukas Capkovic
-downloads: 458
+downloads: 459
 updated: 1743452274000
 repo: lukas-cap/simple-file-info
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Simple File Info"
   description="A lightweight file info pane with native look and feel."
   author="Lukas Capkovic"
-  :downloads="458"
+  :downloads="459"
   :updated="1743452274000"
   repo="lukas-cap/simple-file-info"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ A lightweight file info pane with native look and feel.
 - **插件 ID**：simple-file-info
 - **作者**：Lukas Capkovic
 - **当前版本**：v1.0.0
-- **下载量**：458
+- **下载量**：459
 - **最后更新**：2025-04-01
 - **GitHub**：[lukas-cap/simple-file-info](https://github.com/lukas-cap/simple-file-info)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

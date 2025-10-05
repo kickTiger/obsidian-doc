@@ -2,11 +2,11 @@
 title: Truth Table+
 description: Generate truth tables quickly in your .md files
 author: Maximilian Schulten
-downloads: 610
+downloads: 611
 updated: 1722954345000
 repo: Max-Schulten/truth-table-plus
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Truth Table+"
   description="Generate truth tables quickly in your .md files"
   author="Maximilian Schulten"
-  :downloads="610"
+  :downloads="611"
   :updated="1722954345000"
   repo="Max-Schulten/truth-table-plus"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Generate truth tables quickly in your .md files
 - **插件 ID**：truth-table-gen
 - **作者**：Maximilian Schulten
 - **当前版本**：v1.0.0
-- **下载量**：610
+- **下载量**：611
 - **最后更新**：2024-08-06
 - **GitHub**：[Max-Schulten/truth-table-plus](https://github.com/Max-Schulten/truth-table-plus)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

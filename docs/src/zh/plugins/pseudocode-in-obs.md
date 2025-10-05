@@ -1,12 +1,12 @@
 ---
 title: Pseudocode
-description: Render LaTeX-style pseudocode inside a code block.
+description: 在代码块内渲染 LaTeX 风格的伪代码。
 author: Yaotian Liu
-downloads: 14750
+downloads: 14760
 updated: 1725148010000
 repo: ytliu74/obsidian-pseudocode
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pseudocode-in-obs"
   name="Pseudocode"
-  description="Render LaTeX-style pseudocode inside a code block."
+  description="在代码块内渲染 LaTeX 风格的伪代码。"
   author="Yaotian Liu"
-  :downloads="14750"
+  :downloads="14760"
   :updated="1725148010000"
   repo="ytliu74/obsidian-pseudocode"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pseudocode 是一个功能强大的 Obsidian 插件。
 
-Render LaTeX-style pseudocode inside a code block.
+在代码块内渲染 LaTeX 风格的伪代码。
 
 通过 Pseudocode,您可以:
 
@@ -202,7 +202,7 @@ Render LaTeX-style pseudocode inside a code block.
 - **下载量**：14.8K
 - **最后更新**：2024-09-01
 - **GitHub**：[ytliu74/obsidian-pseudocode](https://github.com/ytliu74/obsidian-pseudocode)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

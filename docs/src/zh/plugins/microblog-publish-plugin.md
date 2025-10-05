@@ -1,12 +1,12 @@
 ---
 title: Micro.publish
-description: Publish notes to Micro.blog.
+description: 将笔记发布到 Micro.blog。
 author: Otavio Cordeiro
-downloads: 5519
+downloads: 5523
 updated: 1756150593000
 repo: otaviocc/obsidian-microblog
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="microblog-publish-plugin"
   name="Micro.publish"
-  description="Publish notes to Micro.blog."
+  description="将笔记发布到 Micro.blog。"
   author="Otavio Cordeiro"
-  :downloads="5519"
+  :downloads="5523"
   :updated="1756150593000"
   repo="otaviocc/obsidian-microblog"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Micro.publish 是一个功能强大的 Obsidian 插件。
 
-Publish notes to Micro.blog.
+将笔记发布到 Micro.blog。
 
 通过 Micro.publish,您可以:
 
@@ -202,7 +202,7 @@ Publish notes to Micro.blog.
 - **下载量**：5.5K
 - **最后更新**：2025-08-26
 - **GitHub**：[otaviocc/obsidian-microblog](https://github.com/otaviocc/obsidian-microblog)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

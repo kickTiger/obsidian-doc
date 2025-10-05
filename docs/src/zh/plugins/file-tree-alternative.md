@@ -1,12 +1,12 @@
 ---
 title: File Tree Alternative
-description: An alternative file tree view with separate folder and file panes.
+description: 另一种文件树视图，有单独的文件夹和文件窗格。
 author: Ozan Tellioglu
-downloads: 307504
+downloads: 307630
 updated: 1719082237000
 repo: ozntel/file-tree-alternative
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-tree-alternative"
   name="File Tree Alternative"
-  description="An alternative file tree view with separate folder and file panes."
+  description="另一种文件树视图，有单独的文件夹和文件窗格。"
   author="Ozan Tellioglu"
-  :downloads="307504"
+  :downloads="307630"
   :updated="1719082237000"
   repo="ozntel/file-tree-alternative"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Tree Alternative 是一个功能强大的 Obsidian 插件。
 
-An alternative file tree view with separate folder and file panes.
+另一种文件树视图，有单独的文件夹和文件窗格。
 
 通过 File Tree Alternative,您可以:
 
@@ -199,10 +199,10 @@ An alternative file tree view with separate folder and file panes.
 - **插件 ID**：file-tree-alternative
 - **作者**：Ozan Tellioglu
 - **当前版本**：v1.0.0
-- **下载量**：307.5K
+- **下载量**：307.6K
 - **最后更新**：2024-06-23
 - **GitHub**：[ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

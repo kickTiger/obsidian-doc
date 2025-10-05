@@ -1,12 +1,12 @@
 ---
 title: ePub Reader
-description: 'Open documents with ".epub" file extension.'
+description: '打开扩展名为".epub "的文件。'
 author: caronchen
-downloads: 40422
+downloads: 40463
 updated: 1745723116000
 repo: caronchen/obsidian-epub-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-epub-plugin"
   name="ePub Reader"
-  description="Open documents with &quot;.epub&quot; file extension."
+  description="打开扩展名为&quot;.epub &quot;的文件。"
   author="caronchen"
-  :downloads="40422"
+  :downloads="40463"
   :updated="1745723116000"
   repo="caronchen/obsidian-epub-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ePub Reader 是一个功能强大的 Obsidian 插件。
 
-Open documents with &quot;.epub&quot; file extension.
+打开扩展名为&quot;.epub &quot;的文件。
 
 通过 ePub Reader,您可以:
 
@@ -199,10 +199,10 @@ Open documents with &quot;.epub&quot; file extension.
 - **插件 ID**：obsidian-epub-plugin
 - **作者**：caronchen
 - **当前版本**：v1.0.0
-- **下载量**：40.4K
+- **下载量**：40.5K
 - **最后更新**：2025-04-27
 - **GitHub**：[caronchen/obsidian-epub-plugin](https://github.com/caronchen/obsidian-epub-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

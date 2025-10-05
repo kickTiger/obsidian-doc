@@ -1,12 +1,12 @@
 ---
 title: Taskbone
-description: Extract text and equations from images and PDFs and make it available for search.
+description: 从图像和 PDF 文件中提取文本和公式，并将其用于搜索。
 author: Dominik Schlund
-downloads: 24833
+downloads: 24838
 updated: 1726077540000
 repo: schlundd/obsidian-ocr-plugin
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="taskbone-ocr-plugin"
   name="Taskbone"
-  description="Extract text and equations from images and PDFs and make it available for search."
+  description="从图像和 PDF 文件中提取文本和公式，并将其用于搜索。"
   author="Dominik Schlund"
-  :downloads="24833"
+  :downloads="24838"
   :updated="1726077540000"
   repo="schlundd/obsidian-ocr-plugin"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Taskbone 是一个功能强大的 Obsidian 插件。
 
-Extract text and equations from images and PDFs and make it available for search.
+从图像和 PDF 文件中提取文本和公式，并将其用于搜索。
 
 通过 Taskbone,您可以:
 
@@ -202,7 +202,7 @@ Extract text and equations from images and PDFs and make it available for search
 - **下载量**：24.8K
 - **最后更新**：2024-09-12
 - **GitHub**：[schlundd/obsidian-ocr-plugin](https://github.com/schlundd/obsidian-ocr-plugin)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

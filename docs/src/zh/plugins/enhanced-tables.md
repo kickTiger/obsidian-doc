@@ -1,12 +1,12 @@
 ---
 title: Enhanced tables
-description: Add programmable controls to selected tables.
+description: 为选定的表格添加可编程控件。
 author: pistacchio
-downloads: 6291
+downloads: 6298
 updated: 1710229811000
 repo: pistacchio/obsidian-enhanced-tables
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="enhanced-tables"
   name="Enhanced tables"
-  description="Add programmable controls to selected tables."
+  description="为选定的表格添加可编程控件。"
   author="pistacchio"
-  :downloads="6291"
+  :downloads="6298"
   :updated="1710229811000"
   repo="pistacchio/obsidian-enhanced-tables"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Enhanced tables 是一个功能强大的 Obsidian 插件。
 
-Add programmable controls to selected tables.
+为选定的表格添加可编程控件。
 
 通过 Enhanced tables,您可以:
 
@@ -202,7 +202,7 @@ Add programmable controls to selected tables.
 - **下载量**：6.3K
 - **最后更新**：2024-03-12
 - **GitHub**：[pistacchio/obsidian-enhanced-tables](https://github.com/pistacchio/obsidian-enhanced-tables)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Excel
-description: Create spreadsheets and easily embed them in Markdown.
+description: 创建电子表格并轻松嵌入 Markdown。
 author: ljcoder
-downloads: 61373
+downloads: 61419
 updated: 1710902854000
 repo: ljcoder2015/obsidian-excel
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="excel"
   name="Excel"
-  description="Create spreadsheets and easily embed them in Markdown."
+  description="创建电子表格并轻松嵌入 Markdown。"
   author="ljcoder"
-  :downloads="61373"
+  :downloads="61419"
   :updated="1710902854000"
   repo="ljcoder2015/obsidian-excel"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Excel 是一个功能强大的 Obsidian 插件。
 
-Create spreadsheets and easily embed them in Markdown.
+创建电子表格并轻松嵌入 Markdown。
 
 通过 Excel,您可以:
 
@@ -202,7 +202,7 @@ Create spreadsheets and easily embed them in Markdown.
 - **下载量**：61.4K
 - **最后更新**：2024-03-20
 - **GitHub**：[ljcoder2015/obsidian-excel](https://github.com/ljcoder2015/obsidian-excel)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

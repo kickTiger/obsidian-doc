@@ -1,12 +1,12 @@
 ---
 title: LanguageTool Integration
-description: advanced spell/grammar checks with the help of language-tool.
+description: 借助语言工具进行高级拼写/语法检查。
 author: Clemens Ertle
-downloads: 250460
+downloads: 250575
 updated: 1708271978000
 repo: Clemens-E/obsidian-languagetool-plugin
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-languagetool-plugin"
   name="LanguageTool Integration"
-  description="advanced spell/grammar checks with the help of language-tool."
+  description="借助语言工具进行高级拼写/语法检查。"
   author="Clemens Ertle"
-  :downloads="250460"
+  :downloads="250575"
   :updated="1708271978000"
   repo="Clemens-E/obsidian-languagetool-plugin"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 LanguageTool Integration 是一个功能强大的 Obsidian 插件。
 
-advanced spell/grammar checks with the help of language-tool.
+借助语言工具进行高级拼写/语法检查。
 
 通过 LanguageTool Integration,您可以:
 
@@ -199,10 +199,10 @@ advanced spell/grammar checks with the help of language-tool.
 - **插件 ID**：obsidian-languagetool-plugin
 - **作者**：Clemens Ertle
 - **当前版本**：v1.0.0
-- **下载量**：250.5K
+- **下载量**：250.6K
 - **最后更新**：2024-02-18
 - **GitHub**：[Clemens-E/obsidian-languagetool-plugin](https://github.com/Clemens-E/obsidian-languagetool-plugin)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

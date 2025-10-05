@@ -2,11 +2,11 @@
 title: Note Linker with Previewer
 description: Link your notes together.
 author: Nick Allison
-downloads: 973
+downloads: 975
 updated: 1724648886000
 repo: nickrallison/obsidian-note-linker-with-previewer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note Linker with Previewer"
   description="Link your notes together."
   author="Nick Allison"
-  :downloads="973"
+  :downloads="975"
   :updated="1724648886000"
   repo="nickrallison/obsidian-note-linker-with-previewer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Link your notes together.
 - **插件 ID**：note-linker-with-previewer
 - **作者**：Nick Allison
 - **当前版本**：v1.0.0
-- **下载量**：973
+- **下载量**：975
 - **最后更新**：2024-08-26
 - **GitHub**：[nickrallison/obsidian-note-linker-with-previewer](https://github.com/nickrallison/obsidian-note-linker-with-previewer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Daf Yomi
-description: Prepare Daf Yomi notes.
+description: 准备 Daf Yomi 笔记。
 author: lyonsquark
 downloads: 4931
 updated: 1674015684000
 repo: lyonsquark/obsidian-daf-yomi
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-daf-yomi"
   name="Daf Yomi"
-  description="Prepare Daf Yomi notes."
+  description="准备 Daf Yomi 笔记。"
   author="lyonsquark"
   :downloads="4931"
   :updated="1674015684000"
   repo="lyonsquark/obsidian-daf-yomi"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Daf Yomi 是一个功能强大的 Obsidian 插件。
 
-Prepare Daf Yomi notes.
+准备 Daf Yomi 笔记。
 
 通过 Daf Yomi,您可以:
 
@@ -202,7 +202,7 @@ Prepare Daf Yomi notes.
 - **下载量**：4.9K
 - **最后更新**：2023-01-18
 - **GitHub**：[lyonsquark/obsidian-daf-yomi](https://github.com/lyonsquark/obsidian-daf-yomi)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

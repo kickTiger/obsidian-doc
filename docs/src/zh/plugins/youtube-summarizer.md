@@ -1,12 +1,12 @@
 ---
 title: Youtube Summarizer
-description: Summarize Youtube videos using ChatGPT 3.5.
+description: 使用 ChatGPT 3.5 总结 Youtube 视频。
 author: ozdemir08
-downloads: 5605
+downloads: 5608
 updated: 1707911533000
 repo: ozdemir08/youtube-video-summarizer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="youtube-summarizer"
   name="Youtube Summarizer"
-  description="Summarize Youtube videos using ChatGPT 3.5."
+  description="使用 ChatGPT 3.5 总结 Youtube 视频。"
   author="ozdemir08"
-  :downloads="5605"
+  :downloads="5608"
   :updated="1707911533000"
   repo="ozdemir08/youtube-video-summarizer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Youtube Summarizer 是一个功能强大的 Obsidian 插件。
 
-Summarize Youtube videos using ChatGPT 3.5.
+使用 ChatGPT 3.5 总结 Youtube 视频。
 
 通过 Youtube Summarizer,您可以:
 
@@ -202,7 +202,7 @@ Summarize Youtube videos using ChatGPT 3.5.
 - **下载量**：5.6K
 - **最后更新**：2024-02-14
 - **GitHub**：[ozdemir08/youtube-video-summarizer](https://github.com/ozdemir08/youtube-video-summarizer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

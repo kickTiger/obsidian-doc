@@ -1,12 +1,12 @@
 ---
 title: Hotkeys for templates
-description: Add commands to insert specific templates with a hotkey.
+description: 添加使用热键插入特定模板的命令。
 author: Vinzent
-downloads: 28464
+downloads: 28480
 updated: 1632809493000
 repo: Vinzent03/obsidian-hotkeys-for-templates
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-hotkeys-for-templates"
   name="Hotkeys for templates"
-  description="Add commands to insert specific templates with a hotkey."
+  description="添加使用热键插入特定模板的命令。"
   author="Vinzent"
-  :downloads="28464"
+  :downloads="28480"
   :updated="1632809493000"
   repo="Vinzent03/obsidian-hotkeys-for-templates"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hotkeys for templates 是一个功能强大的 Obsidian 插件。
 
-Add commands to insert specific templates with a hotkey.
+添加使用热键插入特定模板的命令。
 
 通过 Hotkeys for templates,您可以:
 
@@ -202,7 +202,7 @@ Add commands to insert specific templates with a hotkey.
 - **下载量**：28.5K
 - **最后更新**：2021-09-28
 - **GitHub**：[Vinzent03/obsidian-hotkeys-for-templates](https://github.com/Vinzent03/obsidian-hotkeys-for-templates)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

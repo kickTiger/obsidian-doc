@@ -1,12 +1,12 @@
 ---
 title: Heading Level Indent
-description: Indenting content under headers based on their level.
+description: 根据标题的级别缩进标题下的内容。
 author: svonjoi
-downloads: 19461
+downloads: 19481
 updated: 1717025141000
 repo: svonjoi/obsidian-heading-level-indent
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="heading-level-indent"
   name="Heading Level Indent"
-  description="Indenting content under headers based on their level."
+  description="根据标题的级别缩进标题下的内容。"
   author="svonjoi"
-  :downloads="19461"
+  :downloads="19481"
   :updated="1717025141000"
   repo="svonjoi/obsidian-heading-level-indent"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Heading Level Indent 是一个功能强大的 Obsidian 插件。
 
-Indenting content under headers based on their level.
+根据标题的级别缩进标题下的内容。
 
 通过 Heading Level Indent,您可以:
 
@@ -202,7 +202,7 @@ Indenting content under headers based on their level.
 - **下载量**：19.5K
 - **最后更新**：2024-05-30
 - **GitHub**：[svonjoi/obsidian-heading-level-indent](https://github.com/svonjoi/obsidian-heading-level-indent)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

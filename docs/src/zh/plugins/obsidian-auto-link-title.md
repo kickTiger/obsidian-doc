@@ -1,12 +1,12 @@
 ---
 title: Auto Link Title
-description: Automatically fetches the titles of links from the web.
+description: 自动获取链接的标题。
 author: Matt Furden
-downloads: 311000
+downloads: 311217
 updated: 1733348135000
 repo: zolrath/obsidian-auto-link-title
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-auto-link-title"
   name="Auto Link Title"
-  description="Automatically fetches the titles of links from the web."
+  description="自动获取链接的标题。"
   author="Matt Furden"
-  :downloads="311000"
+  :downloads="311217"
   :updated="1733348135000"
   repo="zolrath/obsidian-auto-link-title"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Link Title 是一个功能强大的 Obsidian 插件。
 
-Automatically fetches the titles of links from the web.
+自动获取链接的标题。
 
 通过 Auto Link Title,您可以:
 
@@ -199,10 +199,10 @@ Automatically fetches the titles of links from the web.
 - **插件 ID**：obsidian-auto-link-title
 - **作者**：Matt Furden
 - **当前版本**：v1.0.0
-- **下载量**：311.0K
+- **下载量**：311.2K
 - **最后更新**：2024-12-05
 - **GitHub**：[zolrath/obsidian-auto-link-title](https://github.com/zolrath/obsidian-auto-link-title)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

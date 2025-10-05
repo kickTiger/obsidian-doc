@@ -2,11 +2,11 @@
 title: Theme toggle
 description: Dark/light theme toggle via ribbon icon or command.
 author: '@gapmiss'
-downloads: 1258
+downloads: 1267
 updated: 1748268886000
 repo: gapmiss/theme-toggle
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Theme toggle"
   description="Dark/light theme toggle via ribbon icon or command."
   author="@gapmiss"
-  :downloads="1258"
+  :downloads="1267"
   :updated="1748268886000"
   repo="gapmiss/theme-toggle"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Dark/light theme toggle via ribbon icon or command.
 - **下载量**：1.3K
 - **最后更新**：2025-05-26
 - **GitHub**：[gapmiss/theme-toggle](https://github.com/gapmiss/theme-toggle)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

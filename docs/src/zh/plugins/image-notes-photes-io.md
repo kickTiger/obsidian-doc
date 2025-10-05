@@ -2,11 +2,11 @@
 title: Image to notes by Photes.IO
 description: Turn your images into text notes with AI.
 author: Kanaries Data Inc.
-downloads: 620
+downloads: 621
 updated: 1724738986000
 repo: Kanaries/photes-io-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Image to notes by Photes.IO"
   description="Turn your images into text notes with AI."
   author="Kanaries Data Inc."
-  :downloads="620"
+  :downloads="621"
   :updated="1724738986000"
   repo="Kanaries/photes-io-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Turn your images into text notes with AI.
 - **插件 ID**：image-notes-photes-io
 - **作者**：Kanaries Data Inc.
 - **当前版本**：v1.0.0
-- **下载量**：620
+- **下载量**：621
 - **最后更新**：2024-08-27
 - **GitHub**：[Kanaries/photes-io-obsidian-plugin](https://github.com/Kanaries/photes-io-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

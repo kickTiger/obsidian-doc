@@ -2,11 +2,11 @@
 title: Clipboard Manager
 description: A clipboard manager that stores clipboard history and provides search functionality with real-time updates
 author: Ayush Raj
-downloads: 259
+downloads: 261
 updated: 1750704997000
 repo: ayu5h-raj/clipboard-manager
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Clipboard Manager"
   description="A clipboard manager that stores clipboard history and provides search functionality with real-time updates"
   author="Ayush Raj"
-  :downloads="259"
+  :downloads="261"
   :updated="1750704997000"
   repo="ayu5h-raj/clipboard-manager"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ A clipboard manager that stores clipboard history and provides search functional
 - **插件 ID**：clipboard-manager
 - **作者**：Ayush Raj
 - **当前版本**：v1.0.0
-- **下载量**：259
+- **下载量**：261
 - **最后更新**：2025-06-24
 - **GitHub**：[ayu5h-raj/clipboard-manager](https://github.com/ayu5h-raj/clipboard-manager)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

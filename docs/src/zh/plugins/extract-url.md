@@ -1,12 +1,12 @@
 ---
 title: Extract url content
-description: Extract URL converting content into Markdown.
+description: 提取 URL 将内容转换为 Markdown。
 author: Stephen Solka
-downloads: 31806
+downloads: 31811
 updated: 1654005149000
 repo: trashhalo/obsidian-extract-url
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="extract-url"
   name="Extract url content"
-  description="Extract URL converting content into Markdown."
+  description="提取 URL 将内容转换为 Markdown。"
   author="Stephen Solka"
-  :downloads="31806"
+  :downloads="31811"
   :updated="1654005149000"
   repo="trashhalo/obsidian-extract-url"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Extract url content 是一个功能强大的 Obsidian 插件。
 
-Extract URL converting content into Markdown.
+提取 URL 将内容转换为 Markdown。
 
 通过 Extract url content,您可以:
 
@@ -202,7 +202,7 @@ Extract URL converting content into Markdown.
 - **下载量**：31.8K
 - **最后更新**：2022-05-31
 - **GitHub**：[trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

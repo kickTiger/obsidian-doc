@@ -1,12 +1,12 @@
 ---
 title: Markdown export
-description: Export Markdown to a package, including images.
+description: 将 Markdown 导出到软件包，包括图像。
 author: bingryan
-downloads: 34308
+downloads: 34331
 updated: 1757224748000
 repo: bingryan/obsidian-markdown-export-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-markdown-export-plugin"
   name="Markdown export"
-  description="Export Markdown to a package, including images."
+  description="将 Markdown 导出到软件包，包括图像。"
   author="bingryan"
-  :downloads="34308"
+  :downloads="34331"
   :updated="1757224748000"
   repo="bingryan/obsidian-markdown-export-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown export 是一个功能强大的 Obsidian 插件。
 
-Export Markdown to a package, including images.
+将 Markdown 导出到软件包，包括图像。
 
 通过 Markdown export,您可以:
 
@@ -202,7 +202,7 @@ Export Markdown to a package, including images.
 - **下载量**：34.3K
 - **最后更新**：2025-09-07
 - **GitHub**：[bingryan/obsidian-markdown-export-plugin](https://github.com/bingryan/obsidian-markdown-export-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

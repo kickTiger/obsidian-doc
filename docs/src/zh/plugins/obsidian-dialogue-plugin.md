@@ -1,12 +1,12 @@
 ---
 title: Dialogue
-description: Create dialogues in Markdown.
+description: 用 Markdown 创建对话框
 author: Jakub Holub
-downloads: 19416
+downloads: 19431
 updated: 1653129289000
 repo: holubj/obsidian-dialogue-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-dialogue-plugin"
   name="Dialogue"
-  description="Create dialogues in Markdown."
+  description="用 Markdown 创建对话框"
   author="Jakub Holub"
-  :downloads="19416"
+  :downloads="19431"
   :updated="1653129289000"
   repo="holubj/obsidian-dialogue-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dialogue 是一个功能强大的 Obsidian 插件。
 
-Create dialogues in Markdown.
+用 Markdown 创建对话框
 
 通过 Dialogue,您可以:
 
@@ -202,7 +202,7 @@ Create dialogues in Markdown.
 - **下载量**：19.4K
 - **最后更新**：2022-05-21
 - **GitHub**：[holubj/obsidian-dialogue-plugin](https://github.com/holubj/obsidian-dialogue-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

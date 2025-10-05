@@ -2,11 +2,11 @@
 title: PDF2Image
 description: Turns a PDF into a series of images.
 author: RasmusAChr
-downloads: 934
+downloads: 935
 updated: 1750762563000
 repo: RasmusAChr/PDF2Images
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="PDF2Image"
   description="Turns a PDF into a series of images."
   author="RasmusAChr"
-  :downloads="934"
+  :downloads="935"
   :updated="1750762563000"
   repo="RasmusAChr/PDF2Images"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Turns a PDF into a series of images.
 - **插件 ID**：pdf2img
 - **作者**：RasmusAChr
 - **当前版本**：v1.0.0
-- **下载量**：934
+- **下载量**：935
 - **最后更新**：2025-06-24
 - **GitHub**：[RasmusAChr/PDF2Images](https://github.com/RasmusAChr/PDF2Images)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

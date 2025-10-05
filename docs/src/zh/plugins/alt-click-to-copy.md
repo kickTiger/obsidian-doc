@@ -6,7 +6,7 @@ downloads: 2056
 updated: 1707542167000
 repo: veersheth/obsidian-alt-click-to-copy
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1707542167000"
   repo="veersheth/obsidian-alt-click-to-copy"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Alt-click on codeblocks to copy its data to the clipboard
 - **下载量**：2.1K
 - **最后更新**：2024-02-10
 - **GitHub**：[veersheth/obsidian-alt-click-to-copy](https://github.com/veersheth/obsidian-alt-click-to-copy)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

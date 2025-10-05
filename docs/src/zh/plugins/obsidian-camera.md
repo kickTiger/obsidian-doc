@@ -1,12 +1,12 @@
 ---
 title: Camera
-description: Create and save snaps or video recordings.
+description: 创建并保存快照或视频记录。
 author: Aldrin Jenson
-downloads: 13049
+downloads: 13056
 updated: 1706350198000
 repo: aldrinjenson/obsidian-camera
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-camera"
   name="Camera"
-  description="Create and save snaps or video recordings."
+  description="创建并保存快照或视频记录。"
   author="Aldrin Jenson"
-  :downloads="13049"
+  :downloads="13056"
   :updated="1706350198000"
   repo="aldrinjenson/obsidian-camera"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Camera 是一个功能强大的 Obsidian 插件。
 
-Create and save snaps or video recordings.
+创建并保存快照或视频记录。
 
 通过 Camera,您可以:
 
@@ -199,10 +199,10 @@ Create and save snaps or video recordings.
 - **插件 ID**：obsidian-camera
 - **作者**：Aldrin Jenson
 - **当前版本**：v1.0.0
-- **下载量**：13.0K
+- **下载量**：13.1K
 - **最后更新**：2024-01-27
 - **GitHub**：[aldrinjenson/obsidian-camera](https://github.com/aldrinjenson/obsidian-camera)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

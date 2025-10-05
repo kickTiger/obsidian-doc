@@ -2,11 +2,11 @@
 title: Character Sheets
 description: Create character sheets for your very own traumatized little guys.
 author: Grayvox
-downloads: 2134
+downloads: 2153
 updated: 1753221106000
 repo: Grayvox/obsidian-character-sheets
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Character Sheets"
   description="Create character sheets for your very own traumatized little guys."
   author="Grayvox"
-  :downloads="2134"
+  :downloads="2153"
   :updated="1753221106000"
   repo="Grayvox/obsidian-character-sheets"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create character sheets for your very own traumatized little guys.
 - **插件 ID**：character-sheets
 - **作者**：Grayvox
 - **当前版本**：v1.0.0
-- **下载量**：2.1K
+- **下载量**：2.2K
 - **最后更新**：2025-07-23
 - **GitHub**：[Grayvox/obsidian-character-sheets](https://github.com/Grayvox/obsidian-character-sheets)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

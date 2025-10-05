@@ -1,12 +1,12 @@
 ---
 title: Habit Tracker
-description: Display the Habits of a calendar week.
+description: 显示日历周的习惯。
 author: David Moeller
-downloads: 9286
+downloads: 9289
 updated: 1658047744000
 repo: Narsail/habit-tracker-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="habit-tracker"
   name="Habit Tracker"
-  description="Display the Habits of a calendar week."
+  description="显示日历周的习惯。"
   author="David Moeller"
-  :downloads="9286"
+  :downloads="9289"
   :updated="1658047744000"
   repo="Narsail/habit-tracker-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Habit Tracker 是一个功能强大的 Obsidian 插件。
 
-Display the Habits of a calendar week.
+显示日历周的习惯。
 
 通过 Habit Tracker,您可以:
 
@@ -202,7 +202,7 @@ Display the Habits of a calendar week.
 - **下载量**：9.3K
 - **最后更新**：2022-07-17
 - **GitHub**：[Narsail/habit-tracker-obsidian](https://github.com/Narsail/habit-tracker-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

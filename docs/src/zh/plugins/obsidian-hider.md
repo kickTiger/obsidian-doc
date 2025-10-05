@@ -1,12 +1,12 @@
 ---
 title: Hider
-description: Hide UI elements such as tooltips, status, titlebar and more.
+description: 隐藏UI元素，如标题栏、状态栏、侧边栏等。
 author: '@kepano'
-downloads: 326601
+downloads: 326762
 updated: 1724621652000
 repo: kepano/obsidian-hider
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-hider"
   name="Hider"
-  description="Hide UI elements such as tooltips, status, titlebar and more."
+  description="隐藏UI元素，如标题栏、状态栏、侧边栏等。"
   author="@kepano"
-  :downloads="326601"
+  :downloads="326762"
   :updated="1724621652000"
   repo="kepano/obsidian-hider"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hider 是一个功能强大的 Obsidian 插件。
 
-Hide UI elements such as tooltips, status, titlebar and more.
+隐藏UI元素，如标题栏、状态栏、侧边栏等。
 
 通过 Hider,您可以:
 
@@ -199,10 +199,10 @@ Hide UI elements such as tooltips, status, titlebar and more.
 - **插件 ID**：obsidian-hider
 - **作者**：@kepano
 - **当前版本**：v1.0.0
-- **下载量**：326.6K
+- **下载量**：326.8K
 - **最后更新**：2024-08-26
 - **GitHub**：[kepano/obsidian-hider](https://github.com/kepano/obsidian-hider)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: 3D Graph
-description: Add a 3D graph view.
+description: 添加 3D 图表视图。
 author: Alexander Weichart
-downloads: 44458
+downloads: 44498
 updated: 1698170724000
 repo: AlexW00/obsidian-3d-graph
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="3d-graph"
   name="3D Graph"
-  description="Add a 3D graph view."
+  description="添加 3D 图表视图。"
   author="Alexander Weichart"
-  :downloads="44458"
+  :downloads="44498"
   :updated="1698170724000"
   repo="AlexW00/obsidian-3d-graph"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 3D Graph 是一个功能强大的 Obsidian 插件。
 
-Add a 3D graph view.
+添加 3D 图表视图。
 
 通过 3D Graph,您可以:
 
@@ -202,7 +202,7 @@ Add a 3D graph view.
 - **下载量**：44.5K
 - **最后更新**：2023-10-25
 - **GitHub**：[AlexW00/obsidian-3d-graph](https://github.com/AlexW00/obsidian-3d-graph)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

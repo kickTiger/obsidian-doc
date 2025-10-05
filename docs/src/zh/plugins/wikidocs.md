@@ -6,7 +6,7 @@ downloads: 620
 updated: 1755527116000
 repo: pahkey/obsidian-wikidocs-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1755527116000"
   repo="pahkey/obsidian-wikidocs-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Fetch, edit, and upload WikiDocs books.
 - **下载量**：620
 - **最后更新**：2025-08-18
 - **GitHub**：[pahkey/obsidian-wikidocs-plugin](https://github.com/pahkey/obsidian-wikidocs-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Mark Open Files
 description: Enhances the File Explorer by adding a marker to all the File Explorer items that are currently open in the workspace.
 author: Michael Schrauzer
-downloads: 654
+downloads: 656
 updated: 1752812660000
 repo: gasparschott/obsidian-mark-open-files
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Mark Open Files"
   description="Enhances the File Explorer by adding a marker to all the File Explorer items that are currently open in the workspace."
   author="Michael Schrauzer"
-  :downloads="654"
+  :downloads="656"
   :updated="1752812660000"
   repo="gasparschott/obsidian-mark-open-files"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Enhances the File Explorer by adding a marker to all the File Explorer items tha
 - **插件 ID**：mark-open-files
 - **作者**：Michael Schrauzer
 - **当前版本**：v1.0.0
-- **下载量**：654
+- **下载量**：656
 - **最后更新**：2025-07-18
 - **GitHub**：[gasparschott/obsidian-mark-open-files](https://github.com/gasparschott/obsidian-mark-open-files)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

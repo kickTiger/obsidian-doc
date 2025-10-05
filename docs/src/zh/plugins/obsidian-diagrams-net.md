@@ -1,12 +1,12 @@
 ---
 title: Diagrams.net
-description: Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net embedded editor.
+description: 使用 diagrams.net 嵌入式编辑器启用 diagrams.net（以前为 draw.io）类型的图表。
 author: Jens M Gleditsch
-downloads: 38054
+downloads: 38068
 updated: 1655961199000
 repo: jensmtg/obsidian-diagrams-net
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-diagrams-net"
   name="Diagrams.net"
-  description="Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net embedded editor."
+  description="使用 diagrams.net 嵌入式编辑器启用 diagrams.net（以前为 draw.io）类型的图表。"
   author="Jens M Gleditsch"
-  :downloads="38054"
+  :downloads="38068"
   :updated="1655961199000"
   repo="jensmtg/obsidian-diagrams-net"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Diagrams.net 是一个功能强大的 Obsidian 插件。
 
-Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net embedded editor.
+使用 diagrams.net 嵌入式编辑器启用 diagrams.net（以前为 draw.io）类型的图表。
 
 通过 Diagrams.net,您可以:
 
@@ -202,7 +202,7 @@ Enable diagrams.net (previously draw.io) type diagrams, with the diagrams.net em
 - **下载量**：38.1K
 - **最后更新**：2022-06-23
 - **GitHub**：[jensmtg/obsidian-diagrams-net](https://github.com/jensmtg/obsidian-diagrams-net)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Timetracker
-description: A stopwatch whose value can be inserted in the editor with a hotkey.
+description: 秒表，其值可通过热键插入编辑器。
 author: Nils Dammenhayn
-downloads: 6465
+downloads: 6469
 updated: 1753215668000
 repo: hedgehog1833/obsidian-timetracker
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="timetracker"
   name="Timetracker"
-  description="A stopwatch whose value can be inserted in the editor with a hotkey."
+  description="秒表，其值可通过热键插入编辑器。"
   author="Nils Dammenhayn"
-  :downloads="6465"
+  :downloads="6469"
   :updated="1753215668000"
   repo="hedgehog1833/obsidian-timetracker"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Timetracker 是一个功能强大的 Obsidian 插件。
 
-A stopwatch whose value can be inserted in the editor with a hotkey.
+秒表，其值可通过热键插入编辑器。
 
 通过 Timetracker,您可以:
 
@@ -202,7 +202,7 @@ A stopwatch whose value can be inserted in the editor with a hotkey.
 - **下载量**：6.5K
 - **最后更新**：2025-07-23
 - **GitHub**：[hedgehog1833/obsidian-timetracker](https://github.com/hedgehog1833/obsidian-timetracker)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

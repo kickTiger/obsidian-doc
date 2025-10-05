@@ -1,12 +1,12 @@
 ---
 title: Status Bar Organizer
-description: Rearrange and hide status bar elements.
+description: 重新排列和隐藏状态栏元素
 author: Kacper Darowski
-downloads: 8966
+downloads: 8979
 updated: 1740180241000
 repo: Opisek/obsidian-statusbar-organizer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="statusbar-organizer"
   name="Status Bar Organizer"
-  description="Rearrange and hide status bar elements."
+  description="重新排列和隐藏状态栏元素"
   author="Kacper Darowski"
-  :downloads="8966"
+  :downloads="8979"
   :updated="1740180241000"
   repo="Opisek/obsidian-statusbar-organizer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Status Bar Organizer 是一个功能强大的 Obsidian 插件。
 
-Rearrange and hide status bar elements.
+重新排列和隐藏状态栏元素
 
 通过 Status Bar Organizer,您可以:
 
@@ -202,7 +202,7 @@ Rearrange and hide status bar elements.
 - **下载量**：9.0K
 - **最后更新**：2025-02-22
 - **GitHub**：[Opisek/obsidian-statusbar-organizer](https://github.com/Opisek/obsidian-statusbar-organizer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

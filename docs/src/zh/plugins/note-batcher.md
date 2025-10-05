@@ -6,7 +6,7 @@ downloads: 2529
 updated: 1700515400000
 repo: MrAnyx/obsidian-note-batcher
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1700515400000"
   repo="MrAnyx/obsidian-note-batcher"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create all unresolvered links with a single click.
 - **下载量**：2.5K
 - **最后更新**：2023-11-21
 - **GitHub**：[MrAnyx/obsidian-note-batcher](https://github.com/MrAnyx/obsidian-note-batcher)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

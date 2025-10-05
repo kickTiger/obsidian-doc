@@ -1,12 +1,12 @@
 ---
 title: Trim Whitespace
-description: Trim unnecessary whitespace.
+description: 删除不必要的空白。
 author: Zack Lovatt
-downloads: 11018
+downloads: 11047
 updated: 1759054237000
 repo: zlovatt/obsidian-trim-whitespace
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-trim-whitespace"
   name="Trim Whitespace"
-  description="Trim unnecessary whitespace."
+  description="删除不必要的空白。"
   author="Zack Lovatt"
-  :downloads="11018"
+  :downloads="11047"
   :updated="1759054237000"
   repo="zlovatt/obsidian-trim-whitespace"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Trim Whitespace 是一个功能强大的 Obsidian 插件。
 
-Trim unnecessary whitespace.
+删除不必要的空白。
 
 通过 Trim Whitespace,您可以:
 
@@ -202,7 +202,7 @@ Trim unnecessary whitespace.
 - **下载量**：11.0K
 - **最后更新**：2025-09-28
 - **GitHub**：[zlovatt/obsidian-trim-whitespace](https://github.com/zlovatt/obsidian-trim-whitespace)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

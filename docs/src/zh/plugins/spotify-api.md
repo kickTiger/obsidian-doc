@@ -2,11 +2,11 @@
 title: Spotify API
 description: Exposes Spotify API
 author: Darren-project
-downloads: 2697
+downloads: 2698
 updated: 1723256503000
 repo: Darren-project/obsidian-spotify
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Spotify API"
   description="Exposes Spotify API"
   author="Darren-project"
-  :downloads="2697"
+  :downloads="2698"
   :updated="1723256503000"
   repo="Darren-project/obsidian-spotify"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Exposes Spotify API
 - **下载量**：2.7K
 - **最后更新**：2024-08-10
 - **GitHub**：[Darren-project/obsidian-spotify](https://github.com/Darren-project/obsidian-spotify)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Folder Periodic Notes
 description: Periodic notes in a year, month, and day folder hierarchy.
 author: Andrew Heekin
-downloads: 1573
+downloads: 1574
 updated: 1720973379000
 repo: andrewheekin/obsidian-folder-periodic-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Folder Periodic Notes"
   description="Periodic notes in a year, month, and day folder hierarchy."
   author="Andrew Heekin"
-  :downloads="1573"
+  :downloads="1574"
   :updated="1720973379000"
   repo="andrewheekin/obsidian-folder-periodic-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Periodic notes in a year, month, and day folder hierarchy.
 - **下载量**：1.6K
 - **最后更新**：2024-07-15
 - **GitHub**：[andrewheekin/obsidian-folder-periodic-notes](https://github.com/andrewheekin/obsidian-folder-periodic-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

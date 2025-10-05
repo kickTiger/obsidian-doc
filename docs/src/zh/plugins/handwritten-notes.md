@@ -1,12 +1,12 @@
 ---
 title: Handwritten Notes
-description: Annotate PDFs and create handwritten notes inside your vault.
+description: 在你的保险库中注释 PDF 文件并创建手写笔记。
 author: FBarrCa
-downloads: 38717
+downloads: 38768
 updated: 1744555960000
 repo: FBarrca/obsidian-handwritten-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="handwritten-notes"
   name="Handwritten Notes"
-  description="Annotate PDFs and create handwritten notes inside your vault."
+  description="在你的保险库中注释 PDF 文件并创建手写笔记。"
   author="FBarrCa"
-  :downloads="38717"
+  :downloads="38768"
   :updated="1744555960000"
   repo="FBarrca/obsidian-handwritten-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Handwritten Notes 是一个功能强大的 Obsidian 插件。
 
-Annotate PDFs and create handwritten notes inside your vault.
+在你的保险库中注释 PDF 文件并创建手写笔记。
 
 通过 Handwritten Notes,您可以:
 
@@ -199,10 +199,10 @@ Annotate PDFs and create handwritten notes inside your vault.
 - **插件 ID**：handwritten-notes
 - **作者**：FBarrCa
 - **当前版本**：v1.0.0
-- **下载量**：38.7K
+- **下载量**：38.8K
 - **最后更新**：2025-04-13
 - **GitHub**：[FBarrca/obsidian-handwritten-notes](https://github.com/FBarrca/obsidian-handwritten-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

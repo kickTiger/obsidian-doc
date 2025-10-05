@@ -2,11 +2,11 @@
 title: Dictionary translator
 description: Helps you to quickly underline word translations and insert word cards in your notes.
 author: Grover
-downloads: 2189
+downloads: 2192
 updated: 1727774926000
 repo: grover572/obsidian-Dictionary-translator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Dictionary translator"
   description="Helps you to quickly underline word translations and insert word cards in your notes."
   author="Grover"
-  :downloads="2189"
+  :downloads="2192"
   :updated="1727774926000"
   repo="grover572/obsidian-Dictionary-translator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Helps you to quickly underline word translations and insert word cards in your n
 - **下载量**：2.2K
 - **最后更新**：2024-10-01
 - **GitHub**：[grover572/obsidian-Dictionary-translator](https://github.com/grover572/obsidian-Dictionary-translator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

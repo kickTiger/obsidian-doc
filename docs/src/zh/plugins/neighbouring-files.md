@@ -1,12 +1,12 @@
 ---
 title: Neighbouring Files
-description: Navigate to the next and previous file in the current directory.
+description: 导航到当前目录下的下一个和上一个文件。
 author: Fabian Untermoser
-downloads: 4918
+downloads: 4919
 updated: 1742942403000
 repo: FabianUntermoser/obsidian-neighbouring-files-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="neighbouring-files"
   name="Neighbouring Files"
-  description="Navigate to the next and previous file in the current directory."
+  description="导航到当前目录下的下一个和上一个文件。"
   author="Fabian Untermoser"
-  :downloads="4918"
+  :downloads="4919"
   :updated="1742942403000"
   repo="FabianUntermoser/obsidian-neighbouring-files-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Neighbouring Files 是一个功能强大的 Obsidian 插件。
 
-Navigate to the next and previous file in the current directory.
+导航到当前目录下的下一个和上一个文件。
 
 通过 Neighbouring Files,您可以:
 
@@ -202,7 +202,7 @@ Navigate to the next and previous file in the current directory.
 - **下载量**：4.9K
 - **最后更新**：2025-03-26
 - **GitHub**：[FabianUntermoser/obsidian-neighbouring-files-plugin](https://github.com/FabianUntermoser/obsidian-neighbouring-files-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

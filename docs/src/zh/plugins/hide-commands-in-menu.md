@@ -2,11 +2,11 @@
 title: Hide Commands in Menu
 description: Allows you to hide any command to different menu.
 author: bomian98
-downloads: 571
+downloads: 574
 updated: 1756298148000
 repo: bomian98/obsidian-hide-commands-in-menu
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hide Commands in Menu"
   description="Allows you to hide any command to different menu."
   author="bomian98"
-  :downloads="571"
+  :downloads="574"
   :updated="1756298148000"
   repo="bomian98/obsidian-hide-commands-in-menu"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Allows you to hide any command to different menu.
 - **插件 ID**：hide-commands-in-menu
 - **作者**：bomian98
 - **当前版本**：v1.0.0
-- **下载量**：571
+- **下载量**：574
 - **最后更新**：2025-08-27
 - **GitHub**：[bomian98/obsidian-hide-commands-in-menu](https://github.com/bomian98/obsidian-hide-commands-in-menu)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

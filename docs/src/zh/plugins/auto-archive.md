@@ -1,12 +1,12 @@
 ---
 title: Auto Archive
-description: Automatically archive notes once they reach a certain age.
+description: 笔记达到一定年限后自动存档。
 author: Shane Burke
 downloads: 3778
 updated: 1693065394000
 repo: shanedonburke/obsidian-auto-archive
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-archive"
   name="Auto Archive"
-  description="Automatically archive notes once they reach a certain age."
+  description="笔记达到一定年限后自动存档。"
   author="Shane Burke"
   :downloads="3778"
   :updated="1693065394000"
   repo="shanedonburke/obsidian-auto-archive"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Archive 是一个功能强大的 Obsidian 插件。
 
-Automatically archive notes once they reach a certain age.
+笔记达到一定年限后自动存档。
 
 通过 Auto Archive,您可以:
 
@@ -202,7 +202,7 @@ Automatically archive notes once they reach a certain age.
 - **下载量**：3.8K
 - **最后更新**：2023-08-26
 - **GitHub**：[shanedonburke/obsidian-auto-archive](https://github.com/shanedonburke/obsidian-auto-archive)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

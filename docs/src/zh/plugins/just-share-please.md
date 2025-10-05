@@ -1,12 +1,12 @@
 ---
 title: Just Share Please
-description: 'Quickly and easily share individual notes online using an anonymized link. Also easy to self-host!'
+description: 使用匿名链接快速、轻松地在线共享个人笔记。也可轻松自行托管！
 author: Ellpeck
-downloads: 4238
+downloads: 4239
 updated: 1754052199000
 repo: Ellpeck/ObsidianJustSharePlease
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="just-share-please"
   name="Just Share Please"
-  description="Quickly and easily share individual notes online using an anonymized link. Also easy to self-host!"
+  description="使用匿名链接快速、轻松地在线共享个人笔记。也可轻松自行托管！"
   author="Ellpeck"
-  :downloads="4238"
+  :downloads="4239"
   :updated="1754052199000"
   repo="Ellpeck/ObsidianJustSharePlease"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Just Share Please 是一个功能强大的 Obsidian 插件。
 
-Quickly and easily share individual notes online using an anonymized link. Also easy to self-host!
+使用匿名链接快速、轻松地在线共享个人笔记。也可轻松自行托管！
 
 通过 Just Share Please,您可以:
 
@@ -202,7 +202,7 @@ Quickly and easily share individual notes online using an anonymized link. Also 
 - **下载量**：4.2K
 - **最后更新**：2025-08-01
 - **GitHub**：[Ellpeck/ObsidianJustSharePlease](https://github.com/Ellpeck/ObsidianJustSharePlease)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

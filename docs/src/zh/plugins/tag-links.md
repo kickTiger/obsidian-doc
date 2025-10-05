@@ -6,7 +6,7 @@ downloads: 1038
 updated: 1747019002000
 repo: zedseven/obsidian-tag-links
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1747019002000"
   repo="zedseven/obsidian-tag-links"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Open tags as links using a hotkey.
 - **下载量**：1.0K
 - **最后更新**：2025-05-12
 - **GitHub**：[zedseven/obsidian-tag-links](https://github.com/zedseven/obsidian-tag-links)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

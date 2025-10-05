@@ -2,11 +2,11 @@
 title: Simple Password
 description: Protect your vault behind a password
 author: Lucy Dryaeva
-downloads: 607
+downloads: 609
 updated: 1747473653000
 repo: ShadiestGoat/obsidian-simple-password
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Simple Password"
   description="Protect your vault behind a password"
   author="Lucy Dryaeva"
-  :downloads="607"
+  :downloads="609"
   :updated="1747473653000"
   repo="ShadiestGoat/obsidian-simple-password"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Protect your vault behind a password
 - **插件 ID**：simple-password
 - **作者**：Lucy Dryaeva
 - **当前版本**：v1.0.0
-- **下载量**：607
+- **下载量**：609
 - **最后更新**：2025-05-17
 - **GitHub**：[ShadiestGoat/obsidian-simple-password](https://github.com/ShadiestGoat/obsidian-simple-password)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: IMDb
 description: Sync your IMDb list.
 author: Andrew Chen
-downloads: 921
+downloads: 922
 updated: 1712850089000
 repo: aaachen/IMDb-Obsidian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="IMDb"
   description="Sync your IMDb list."
   author="Andrew Chen"
-  :downloads="921"
+  :downloads="922"
   :updated="1712850089000"
   repo="aaachen/IMDb-Obsidian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Sync your IMDb list.
 - **插件 ID**：imdb-sync
 - **作者**：Andrew Chen
 - **当前版本**：v1.0.0
-- **下载量**：921
+- **下载量**：922
 - **最后更新**：2024-04-11
 - **GitHub**：[aaachen/IMDb-Obsidian](https://github.com/aaachen/IMDb-Obsidian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

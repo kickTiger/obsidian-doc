@@ -1,12 +1,12 @@
 ---
 title: Relay
-description: Collaborate in real time with live cursors. Share folders. Manage access to updates.
+description: 使用实时光标进行实时协作。共享文件夹。管理更新访问权限
 author: System 3
-downloads: 88039
+downloads: 88401
 updated: 1759363000000
 repo: No-Instructions/Relay
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="system3-relay"
   name="Relay"
-  description="Collaborate in real time with live cursors. Share folders. Manage access to updates."
+  description="使用实时光标进行实时协作。共享文件夹。管理更新访问权限"
   author="System 3"
-  :downloads="88039"
+  :downloads="88401"
   :updated="1759363000000"
   repo="No-Instructions/Relay"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Relay 是一个功能强大的 Obsidian 插件。
 
-Collaborate in real time with live cursors. Share folders. Manage access to updates.
+使用实时光标进行实时协作。共享文件夹。管理更新访问权限
 
 通过 Relay,您可以:
 
@@ -199,10 +199,10 @@ Collaborate in real time with live cursors. Share folders. Manage access to upda
 - **插件 ID**：system3-relay
 - **作者**：System 3
 - **当前版本**：v1.0.0
-- **下载量**：88.0K
+- **下载量**：88.4K
 - **最后更新**：2025-10-02
 - **GitHub**：[No-Instructions/Relay](https://github.com/No-Instructions/Relay)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Markdown Blogger
-description: Push Markdown notes to your local blog, portfolio, or static site. Works with Astro.js, Next.js, and any other framework configured to render Markdown pages.
+description: 将 Markdown 注释推送到本地博客、作品集或静态网站。可与 Astro.js、Next.js 以及任何其他配置为呈现 Markdown 页面的框架配合使用。
 author: Alexa Fazio
-downloads: 4307
+downloads: 4308
 updated: 1699144263000
 repo: afazio1/obsidian-markdown-blogger
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="markdown-blogger"
   name="Markdown Blogger"
-  description="Push Markdown notes to your local blog, portfolio, or static site. Works with Astro.js, Next.js, and any other framework configured to render Markdown pages."
+  description="将 Markdown 注释推送到本地博客、作品集或静态网站。可与 Astro.js、Next.js 以及任何其他配置为呈现 Markdown 页面的框架配合使用。"
   author="Alexa Fazio"
-  :downloads="4307"
+  :downloads="4308"
   :updated="1699144263000"
   repo="afazio1/obsidian-markdown-blogger"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown Blogger 是一个功能强大的 Obsidian 插件。
 
-Push Markdown notes to your local blog, portfolio, or static site. Works with Astro.js, Next.js, and any other framework configured to render Markdown pages.
+将 Markdown 注释推送到本地博客、作品集或静态网站。可与 Astro.js、Next.js 以及任何其他配置为呈现 Markdown 页面的框架配合使用。
 
 通过 Markdown Blogger,您可以:
 
@@ -202,7 +202,7 @@ Push Markdown notes to your local blog, portfolio, or static site. Works with As
 - **下载量**：4.3K
 - **最后更新**：2023-11-05
 - **GitHub**：[afazio1/obsidian-markdown-blogger](https://github.com/afazio1/obsidian-markdown-blogger)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

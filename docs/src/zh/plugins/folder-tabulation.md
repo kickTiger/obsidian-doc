@@ -6,7 +6,7 @@ downloads: 415
 updated: 1731554915000
 repo: SpeedaRJ/obsidian_folder_tabulation
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1731554915000"
   repo="SpeedaRJ/obsidian_folder_tabulation"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enables navigation between files in a folder via hotkeys and commands.
 - **下载量**：415
 - **最后更新**：2024-11-14
 - **GitHub**：[SpeedaRJ/obsidian_folder_tabulation](https://github.com/SpeedaRJ/obsidian_folder_tabulation)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: HTML Tags Autocomplete
-description: Automatically add closing HTML tags.
+description: 自动添加 HTML 结尾标记
 author: bicarlsen
-downloads: 15954
+downloads: 15963
 updated: 1682265515000
 repo: bicarlsen/obsidian_html_tags_autocomplete
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-html-tags-autocomplete"
   name="HTML Tags Autocomplete"
-  description="Automatically add closing HTML tags."
+  description="自动添加 HTML 结尾标记"
   author="bicarlsen"
-  :downloads="15954"
+  :downloads="15963"
   :updated="1682265515000"
   repo="bicarlsen/obsidian_html_tags_autocomplete"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 HTML Tags Autocomplete 是一个功能强大的 Obsidian 插件。
 
-Automatically add closing HTML tags.
+自动添加 HTML 结尾标记
 
 通过 HTML Tags Autocomplete,您可以:
 
@@ -202,7 +202,7 @@ Automatically add closing HTML tags.
 - **下载量**：16.0K
 - **最后更新**：2023-04-23
 - **GitHub**：[bicarlsen/obsidian_html_tags_autocomplete](https://github.com/bicarlsen/obsidian_html_tags_autocomplete)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Nexus AI Chat Importer
-description: Import conversations from ChatGPT export files.
+description: 从 ChatGPT 导出文件中导入对话。
 author: Superkikim
-downloads: 3931
+downloads: 3939
 updated: 1754954306000
 repo: Superkikim/nexus-ai-chat-importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="nexus-ai-chat-importer"
   name="Nexus AI Chat Importer"
-  description="Import conversations from ChatGPT export files."
+  description="从 ChatGPT 导出文件中导入对话。"
   author="Superkikim"
-  :downloads="3931"
+  :downloads="3939"
   :updated="1754954306000"
   repo="Superkikim/nexus-ai-chat-importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Nexus AI Chat Importer 是一个功能强大的 Obsidian 插件。
 
-Import conversations from ChatGPT export files.
+从 ChatGPT 导出文件中导入对话。
 
 通过 Nexus AI Chat Importer,您可以:
 
@@ -202,7 +202,7 @@ Import conversations from ChatGPT export files.
 - **下载量**：3.9K
 - **最后更新**：2025-08-12
 - **GitHub**：[Superkikim/nexus-ai-chat-importer](https://github.com/Superkikim/nexus-ai-chat-importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

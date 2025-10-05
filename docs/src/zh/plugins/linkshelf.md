@@ -1,12 +1,12 @@
 ---
 title: LinkStowr
-description: Save links from your browser.
+description: 保存浏览器中的链接
 author: Joel Sequeira
-downloads: 4328
+downloads: 4329
 updated: 1750730412000
 repo: joelseq/obsidian-linkstowr
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="linkshelf"
   name="LinkStowr"
-  description="Save links from your browser."
+  description="保存浏览器中的链接"
   author="Joel Sequeira"
-  :downloads="4328"
+  :downloads="4329"
   :updated="1750730412000"
   repo="joelseq/obsidian-linkstowr"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 LinkStowr 是一个功能强大的 Obsidian 插件。
 
-Save links from your browser.
+保存浏览器中的链接
 
 通过 LinkStowr,您可以:
 
@@ -202,7 +202,7 @@ Save links from your browser.
 - **下载量**：4.3K
 - **最后更新**：2025-06-24
 - **GitHub**：[joelseq/obsidian-linkstowr](https://github.com/joelseq/obsidian-linkstowr)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

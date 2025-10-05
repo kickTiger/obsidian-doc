@@ -2,11 +2,11 @@
 title: Checkbox Time Tracker
 description: Insert timestamp when you check off the checkbox
 author: UD
-downloads: 1930
+downloads: 1931
 updated: 1725755666000
 repo: udus122/checkbox-time-tracker
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Checkbox Time Tracker"
   description="Insert timestamp when you check off the checkbox"
   author="UD"
-  :downloads="1930"
+  :downloads="1931"
   :updated="1725755666000"
   repo="udus122/checkbox-time-tracker"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Insert timestamp when you check off the checkbox
 - **下载量**：1.9K
 - **最后更新**：2024-09-08
 - **GitHub**：[udus122/checkbox-time-tracker](https://github.com/udus122/checkbox-time-tracker)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

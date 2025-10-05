@@ -2,11 +2,11 @@
 title: Folder Canvas
 description: Generate a Canvas view of your folder structure.
 author: Nancy Lee
-downloads: 2018
+downloads: 2021
 updated: 1751355092000
 repo: nancyel/obsidian-foldercanvas-plugin
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Folder Canvas"
   description="Generate a Canvas view of your folder structure."
   author="Nancy Lee"
-  :downloads="2018"
+  :downloads="2021"
   :updated="1751355092000"
   repo="nancyel/obsidian-foldercanvas-plugin"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate a Canvas view of your folder structure.
 - **下载量**：2.0K
 - **最后更新**：2025-07-01
 - **GitHub**：[nancyel/obsidian-foldercanvas-plugin](https://github.com/nancyel/obsidian-foldercanvas-plugin)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

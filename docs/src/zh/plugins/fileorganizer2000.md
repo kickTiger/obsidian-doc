@@ -1,12 +1,12 @@
 ---
 title: Note Companion AI
-description: AI-powered note organization and chat. Requires subscription or self-hosting with your own API keys.
+description: 人工智能驱动的笔记组织和聊天功能。需要订阅或使用自己的 API 密钥自行托管。
 author: Benjamin Ashgan Shafii
-downloads: 28092
+downloads: 28154
 updated: 1759536235000
 repo: different-ai/note-companion
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="fileorganizer2000"
   name="Note Companion AI"
-  description="AI-powered note organization and chat. Requires subscription or self-hosting with your own API keys."
+  description="人工智能驱动的笔记组织和聊天功能。需要订阅或使用自己的 API 密钥自行托管。"
   author="Benjamin Ashgan Shafii"
-  :downloads="28092"
+  :downloads="28154"
   :updated="1759536235000"
   repo="different-ai/note-companion"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note Companion AI 是一个功能强大的 Obsidian 插件。
 
-AI-powered note organization and chat. Requires subscription or self-hosting with your own API keys.
+人工智能驱动的笔记组织和聊天功能。需要订阅或使用自己的 API 密钥自行托管。
 
 通过 Note Companion AI,您可以:
 
@@ -199,10 +199,10 @@ AI-powered note organization and chat. Requires subscription or self-hosting wit
 - **插件 ID**：fileorganizer2000
 - **作者**：Benjamin Ashgan Shafii
 - **当前版本**：v1.0.0
-- **下载量**：28.1K
+- **下载量**：28.2K
 - **最后更新**：2025-10-04
 - **GitHub**：[different-ai/note-companion](https://github.com/different-ai/note-companion)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

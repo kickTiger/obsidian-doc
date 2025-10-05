@@ -1,12 +1,12 @@
 ---
 title: WuCai highlights Official
-description: Sync WuCai highlights into your notes.
+description: 将 WuCai 摘要同步到您的笔记中。
 author: 希果壳五彩
-downloads: 16233
+downloads: 16235
 updated: 1739798624000
 repo: makediff/obsidian-wucai
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="wucai-highlights-official"
   name="WuCai highlights Official"
-  description="Sync WuCai highlights into your notes."
+  description="将 WuCai 摘要同步到您的笔记中。"
   author="希果壳五彩"
-  :downloads="16233"
+  :downloads="16235"
   :updated="1739798624000"
   repo="makediff/obsidian-wucai"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 WuCai highlights Official 是一个功能强大的 Obsidian 插件。
 
-Sync WuCai highlights into your notes.
+将 WuCai 摘要同步到您的笔记中。
 
 通过 WuCai highlights Official,您可以:
 
@@ -202,7 +202,7 @@ Sync WuCai highlights into your notes.
 - **下载量**：16.2K
 - **最后更新**：2025-02-17
 - **GitHub**：[makediff/obsidian-wucai](https://github.com/makediff/obsidian-wucai)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

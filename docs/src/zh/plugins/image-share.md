@@ -2,11 +2,11 @@
 title: Image Share
 description: Share selected text as beautiful images.
 author: Shawn
-downloads: 254
+downloads: 256
 updated: 1746114654000
 repo: iqijun/obsidian-image-share
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Image Share"
   description="Share selected text as beautiful images."
   author="Shawn"
-  :downloads="254"
+  :downloads="256"
   :updated="1746114654000"
   repo="iqijun/obsidian-image-share"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Share selected text as beautiful images.
 - **插件 ID**：image-share
 - **作者**：Shawn
 - **当前版本**：v1.0.0
-- **下载量**：254
+- **下载量**：256
 - **最后更新**：2025-05-01
 - **GitHub**：[iqijun/obsidian-image-share](https://github.com/iqijun/obsidian-image-share)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

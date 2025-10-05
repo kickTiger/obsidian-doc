@@ -2,11 +2,11 @@
 title: Tier List
 description: Visual ranking and organizing content into customizable tier lists.
 author: Mox Alehin
-downloads: 1365
+downloads: 1375
 updated: 1758650992000
 repo: MoxAlehin/TierList
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tier List"
   description="Visual ranking and organizing content into customizable tier lists."
   author="Mox Alehin"
-  :downloads="1365"
+  :downloads="1375"
   :updated="1758650992000"
   repo="MoxAlehin/TierList"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Visual ranking and organizing content into customizable tier lists.
 - **下载量**：1.4K
 - **最后更新**：2025-09-24
 - **GitHub**：[MoxAlehin/TierList](https://github.com/MoxAlehin/TierList)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Transcription
-description: Create high-quality transcriptions via Whisper from Markdown linked audio files.
+description: 通过 Whisper 从 Markdown 链接的音频文件创建高质量的转录。
 author: djmango (Sulaiman Ghori)
-downloads: 27083
+downloads: 27097
 updated: 1712940954000
 repo: djmango/obsidian-transcription
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-transcription"
   name="Transcription"
-  description="Create high-quality transcriptions via Whisper from Markdown linked audio files."
+  description="通过 Whisper 从 Markdown 链接的音频文件创建高质量的转录。"
   author="djmango (Sulaiman Ghori)"
-  :downloads="27083"
+  :downloads="27097"
   :updated="1712940954000"
   repo="djmango/obsidian-transcription"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Transcription 是一个功能强大的 Obsidian 插件。
 
-Create high-quality transcriptions via Whisper from Markdown linked audio files.
+通过 Whisper 从 Markdown 链接的音频文件创建高质量的转录。
 
 通过 Transcription,您可以:
 
@@ -202,7 +202,7 @@ Create high-quality transcriptions via Whisper from Markdown linked audio files.
 - **下载量**：27.1K
 - **最后更新**：2024-04-13
 - **GitHub**：[djmango/obsidian-transcription](https://github.com/djmango/obsidian-transcription)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Go to Line
-description: Add a Go to Line command.
+description: 添加转到行命令。
 author: phibr0
 downloads: 4686
 updated: 1631979394000
 repo: phibr0/obsidian-go-to-line
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-go-to-line"
   name="Go to Line"
-  description="Add a Go to Line command."
+  description="添加转到行命令。"
   author="phibr0"
   :downloads="4686"
   :updated="1631979394000"
   repo="phibr0/obsidian-go-to-line"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Go to Line 是一个功能强大的 Obsidian 插件。
 
-Add a Go to Line command.
+添加转到行命令。
 
 通过 Go to Line,您可以:
 
@@ -202,7 +202,7 @@ Add a Go to Line command.
 - **下载量**：4.7K
 - **最后更新**：2021-09-18
 - **GitHub**：[phibr0/obsidian-go-to-line](https://github.com/phibr0/obsidian-go-to-line)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

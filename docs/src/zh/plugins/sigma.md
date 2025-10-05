@@ -1,12 +1,12 @@
 ---
 title: Sigma
-description: Use notes as calculation sheets.
+description: 用笔记作为计算表。
 author: monesga
 downloads: 4645
 updated: 1668129978000
 repo: monesga/obsidian-sigma
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="sigma"
   name="Sigma"
-  description="Use notes as calculation sheets."
+  description="用笔记作为计算表。"
   author="monesga"
   :downloads="4645"
   :updated="1668129978000"
   repo="monesga/obsidian-sigma"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sigma 是一个功能强大的 Obsidian 插件。
 
-Use notes as calculation sheets.
+用笔记作为计算表。
 
 通过 Sigma,您可以:
 
@@ -202,7 +202,7 @@ Use notes as calculation sheets.
 - **下载量**：4.6K
 - **最后更新**：2022-11-11
 - **GitHub**：[monesga/obsidian-sigma](https://github.com/monesga/obsidian-sigma)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

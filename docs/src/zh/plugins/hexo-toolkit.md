@@ -6,7 +6,7 @@ downloads: 135
 updated: 1732083394000
 repo: sissilab/obsidian-hexo-toolkit
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1732083394000"
   repo="sissilab/obsidian-hexo-toolkit"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Maintain Hexo posts.
 - **下载量**：135
 - **最后更新**：2024-11-20
 - **GitHub**：[sissilab/obsidian-hexo-toolkit](https://github.com/sissilab/obsidian-hexo-toolkit)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Word Splitting for Simplified Chinese in Edit Mode and Vim Mode
-description: 'A patch for Obsidian''s built-in CodeMirror editor to support Simplified Chinese word splitting.'
+description: 黑曜石内置 CodeMirror 编辑器的补丁，支持简体中文分词。
 author: AidenLx
-downloads: 52557
+downloads: 52571
 updated: 1715009853000
 repo: aidenlx/cm-chs-patch
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cm-chs-patch"
   name="Word Splitting for Simplified Chinese in Edit Mode and Vim Mode"
-  description="A patch for Obsidian&#39;s built-in CodeMirror editor to support Simplified Chinese word splitting."
+  description="黑曜石内置 CodeMirror 编辑器的补丁，支持简体中文分词。"
   author="AidenLx"
-  :downloads="52557"
+  :downloads="52571"
   :updated="1715009853000"
   repo="aidenlx/cm-chs-patch"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Word Splitting for Simplified Chinese in Edit Mode and Vim Mode 是一个功能强大的 Obsidian 插件。
 
-A patch for Obsidian&#39;s built-in CodeMirror editor to support Simplified Chinese word splitting.
+黑曜石内置 CodeMirror 编辑器的补丁，支持简体中文分词。
 
 通过 Word Splitting for Simplified Chinese in Edit Mode and Vim Mode,您可以:
 
@@ -202,7 +202,7 @@ A patch for Obsidian&#39;s built-in CodeMirror editor to support Simplified Chin
 - **下载量**：52.6K
 - **最后更新**：2024-05-06
 - **GitHub**：[aidenlx/cm-chs-patch](https://github.com/aidenlx/cm-chs-patch)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

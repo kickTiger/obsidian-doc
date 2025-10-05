@@ -1,12 +1,12 @@
 ---
 title: Word Sprint
-description: Word Sprint for your writing projects like NaNoWriMo.
+description: '为您的写作项目（如 "NaNoWriMo"）提供文字冲刺。'
 author: Andrew Lombardi
-downloads: 19117
+downloads: 19128
 updated: 1755497142000
 repo: kinabalu/obsidian-word-sprint
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-word-sprint"
   name="Word Sprint"
-  description="Word Sprint for your writing projects like NaNoWriMo."
+  description="为您的写作项目（如 &quot;NaNoWriMo&quot;）提供文字冲刺。"
   author="Andrew Lombardi"
-  :downloads="19117"
+  :downloads="19128"
   :updated="1755497142000"
   repo="kinabalu/obsidian-word-sprint"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Word Sprint 是一个功能强大的 Obsidian 插件。
 
-Word Sprint for your writing projects like NaNoWriMo.
+为您的写作项目（如 &quot;NaNoWriMo&quot;）提供文字冲刺。
 
 通过 Word Sprint,您可以:
 
@@ -202,7 +202,7 @@ Word Sprint for your writing projects like NaNoWriMo.
 - **下载量**：19.1K
 - **最后更新**：2025-08-18
 - **GitHub**：[kinabalu/obsidian-word-sprint](https://github.com/kinabalu/obsidian-word-sprint)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

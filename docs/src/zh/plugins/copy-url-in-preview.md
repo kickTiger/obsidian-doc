@@ -1,12 +1,12 @@
 ---
 title: Image Context Menus
-description: 'Image context menus (mostly on right click): Copy to clipboard, Open in default app, Show in system explorer, Reveal file in navigation, Open in new tab.'
+description: 图像上下文菜单（主要在右键单击时）：复制到剪贴板、在默认应用中打开、在系统资源管理器中显示、在导航中显示文件、在新标签页中打开。
 author: NomarCub
-downloads: 58803
+downloads: 58843
 updated: 1755634167000
 repo: NomarCub/obsidian-copy-url-in-preview
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="copy-url-in-preview"
   name="Image Context Menus"
-  description="Image context menus (mostly on right click): Copy to clipboard, Open in default app, Show in system explorer, Reveal file in navigation, Open in new tab."
+  description="图像上下文菜单（主要在右键单击时）：复制到剪贴板、在默认应用中打开、在系统资源管理器中显示、在导航中显示文件、在新标签页中打开。"
   author="NomarCub"
-  :downloads="58803"
+  :downloads="58843"
   :updated="1755634167000"
   repo="NomarCub/obsidian-copy-url-in-preview"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Context Menus 是一个功能强大的 Obsidian 插件。
 
-Image context menus (mostly on right click): Copy to clipboard, Open in default app, Show in system explorer, Reveal file in navigation, Open in new tab.
+图像上下文菜单（主要在右键单击时）：复制到剪贴板、在默认应用中打开、在系统资源管理器中显示、在导航中显示文件、在新标签页中打开。
 
 通过 Image Context Menus,您可以:
 
@@ -202,7 +202,7 @@ Image context menus (mostly on right click): Copy to clipboard, Open in default 
 - **下载量**：58.8K
 - **最后更新**：2025-08-20
 - **GitHub**：[NomarCub/obsidian-copy-url-in-preview](https://github.com/NomarCub/obsidian-copy-url-in-preview)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

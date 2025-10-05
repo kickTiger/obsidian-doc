@@ -2,11 +2,11 @@
 title: .md Merge
 description: Merge all markdown files from a folder into a single file.
 author: Tosatur
-downloads: 292
+downloads: 295
 updated: 1753885818000
 repo: tosatur/obsidian-md-merge
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name=".md Merge"
   description="Merge all markdown files from a folder into a single file."
   author="Tosatur"
-  :downloads="292"
+  :downloads="295"
   :updated="1753885818000"
   repo="tosatur/obsidian-md-merge"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Merge all markdown files from a folder into a single file.
 - **插件 ID**：md-merge
 - **作者**：Tosatur
 - **当前版本**：v1.0.0
-- **下载量**：292
+- **下载量**：295
 - **最后更新**：2025-07-30
 - **GitHub**：[tosatur/obsidian-md-merge](https://github.com/tosatur/obsidian-md-merge)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

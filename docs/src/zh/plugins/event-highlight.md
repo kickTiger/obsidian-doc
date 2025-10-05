@@ -6,7 +6,7 @@ downloads: 270
 updated: 1743545966000
 repo: playmean/obsidian-event-highlight-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1743545966000"
   repo="playmean/obsidian-event-highlight-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Render colored bars with relative event dates
 - **下载量**：270
 - **最后更新**：2025-04-02
 - **GitHub**：[playmean/obsidian-event-highlight-plugin](https://github.com/playmean/obsidian-event-highlight-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

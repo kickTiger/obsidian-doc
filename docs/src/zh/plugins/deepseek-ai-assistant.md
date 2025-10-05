@@ -2,11 +2,11 @@
 title: deepseek-ai-assistant
 description: Help you to study with ai-prompting
 author: algernon
-downloads: 949
+downloads: 952
 updated: 1757995182000
 repo: mali-i/deepseek-ai-assistant
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="deepseek-ai-assistant"
   description="Help you to study with ai-prompting"
   author="algernon"
-  :downloads="949"
+  :downloads="952"
   :updated="1757995182000"
   repo="mali-i/deepseek-ai-assistant"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Help you to study with ai-prompting
 - **插件 ID**：deepseek-ai-assistant
 - **作者**：algernon
 - **当前版本**：v1.0.0
-- **下载量**：949
+- **下载量**：952
 - **最后更新**：2025-09-16
 - **GitHub**：[mali-i/deepseek-ai-assistant](https://github.com/mali-i/deepseek-ai-assistant)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

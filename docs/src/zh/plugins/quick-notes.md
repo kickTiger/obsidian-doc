@@ -6,7 +6,7 @@ downloads: 312
 updated: 1727375872000
 repo: SeanMcOwen/Quick-Note-Obsidian-Plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1727375872000"
   repo="SeanMcOwen/Quick-Note-Obsidian-Plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Speeds up some note taking abilities and allows for creating notes/links in the 
 - **下载量**：312
 - **最后更新**：2024-09-27
 - **GitHub**：[SeanMcOwen/Quick-Note-Obsidian-Plugin](https://github.com/SeanMcOwen/Quick-Note-Obsidian-Plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

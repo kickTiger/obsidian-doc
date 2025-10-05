@@ -1,12 +1,12 @@
 ---
 title: List Outline Helper
-description: Utilities to work with list outlines. Currently supports selecting the outline (current line and children)
+description: 用于处理列表大纲的实用程序。目前支持选择大纲（当前行和子行）
 author: triangular-sneaky
-downloads: 5883
+downloads: 5896
 updated: 1715669996000
 repo: triangular-sneaky/obsidian-list-outline-helper
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="list-outline-helper"
   name="List Outline Helper"
-  description="Utilities to work with list outlines. Currently supports selecting the outline (current line and children)"
+  description="用于处理列表大纲的实用程序。目前支持选择大纲（当前行和子行）"
   author="triangular-sneaky"
-  :downloads="5883"
+  :downloads="5896"
   :updated="1715669996000"
   repo="triangular-sneaky/obsidian-list-outline-helper"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 List Outline Helper 是一个功能强大的 Obsidian 插件。
 
-Utilities to work with list outlines. Currently supports selecting the outline (current line and children)
+用于处理列表大纲的实用程序。目前支持选择大纲（当前行和子行）
 
 通过 List Outline Helper,您可以:
 
@@ -202,7 +202,7 @@ Utilities to work with list outlines. Currently supports selecting the outline (
 - **下载量**：5.9K
 - **最后更新**：2024-05-14
 - **GitHub**：[triangular-sneaky/obsidian-list-outline-helper](https://github.com/triangular-sneaky/obsidian-list-outline-helper)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

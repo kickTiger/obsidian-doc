@@ -2,11 +2,11 @@
 title: Come Through
 description: Drill flashcards using spaced repetition.
 author: mntno
-downloads: 213
+downloads: 215
 updated: 1756039320000
 repo: mntno/obsidian-come-through
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Come Through"
   description="Drill flashcards using spaced repetition."
   author="mntno"
-  :downloads="213"
+  :downloads="215"
   :updated="1756039320000"
   repo="mntno/obsidian-come-through"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Drill flashcards using spaced repetition.
 - **插件 ID**：come-through
 - **作者**：mntno
 - **当前版本**：v1.0.0
-- **下载量**：213
+- **下载量**：215
 - **最后更新**：2025-08-24
 - **GitHub**：[mntno/obsidian-come-through](https://github.com/mntno/obsidian-come-through)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

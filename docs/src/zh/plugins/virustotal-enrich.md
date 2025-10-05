@@ -2,11 +2,11 @@
 title: Virus Total Enrichment
 description: Enrich your notes with information from VirusTotal.
 author: ytisf
-downloads: 898
+downloads: 899
 updated: 1724903774000
 repo: ytisf/virustotal-enrich
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Virus Total Enrichment"
   description="Enrich your notes with information from VirusTotal."
   author="ytisf"
-  :downloads="898"
+  :downloads="899"
   :updated="1724903774000"
   repo="ytisf/virustotal-enrich"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Enrich your notes with information from VirusTotal.
 - **插件 ID**：virustotal-enrich
 - **作者**：ytisf
 - **当前版本**：v1.0.0
-- **下载量**：898
+- **下载量**：899
 - **最后更新**：2024-08-29
 - **GitHub**：[ytisf/virustotal-enrich](https://github.com/ytisf/virustotal-enrich)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

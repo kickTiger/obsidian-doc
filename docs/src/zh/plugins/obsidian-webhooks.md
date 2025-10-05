@@ -1,12 +1,12 @@
 ---
 title: Webhooks
-description: Connect your editor to the internet of things through webhooks.
+description: 通过网络钩子将编辑器与物联网连接起来。
 author: Stephen Solka
 downloads: 8490
 updated: 1657715822000
 repo: trashhalo/obsidian-webhooks
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-webhooks"
   name="Webhooks"
-  description="Connect your editor to the internet of things through webhooks."
+  description="通过网络钩子将编辑器与物联网连接起来。"
   author="Stephen Solka"
   :downloads="8490"
   :updated="1657715822000"
   repo="trashhalo/obsidian-webhooks"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Webhooks 是一个功能强大的 Obsidian 插件。
 
-Connect your editor to the internet of things through webhooks.
+通过网络钩子将编辑器与物联网连接起来。
 
 通过 Webhooks,您可以:
 
@@ -202,7 +202,7 @@ Connect your editor to the internet of things through webhooks.
 - **下载量**：8.5K
 - **最后更新**：2022-07-13
 - **GitHub**：[trashhalo/obsidian-webhooks](https://github.com/trashhalo/obsidian-webhooks)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

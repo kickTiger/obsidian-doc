@@ -1,12 +1,12 @@
 ---
 title: Single File Daily Notes
-description: Create and manage daily notes in a single file.
+description: 在单个文件中创建和管理每日笔记。
 author: Pranav Mangal
-downloads: 4676
+downloads: 4680
 updated: 1746232994000
 repo: pranavmangal/obsidian-single-file-daily-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="single-file-daily-notes"
   name="Single File Daily Notes"
-  description="Create and manage daily notes in a single file."
+  description="在单个文件中创建和管理每日笔记。"
   author="Pranav Mangal"
-  :downloads="4676"
+  :downloads="4680"
   :updated="1746232994000"
   repo="pranavmangal/obsidian-single-file-daily-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Single File Daily Notes 是一个功能强大的 Obsidian 插件。
 
-Create and manage daily notes in a single file.
+在单个文件中创建和管理每日笔记。
 
 通过 Single File Daily Notes,您可以:
 
@@ -202,7 +202,7 @@ Create and manage daily notes in a single file.
 - **下载量**：4.7K
 - **最后更新**：2025-05-03
 - **GitHub**：[pranavmangal/obsidian-single-file-daily-notes](https://github.com/pranavmangal/obsidian-single-file-daily-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

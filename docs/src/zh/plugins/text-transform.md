@@ -1,12 +1,12 @@
 ---
 title: Text Transform
-description: Add options to transform text to different casings using keyboard shortcuts.
+description: 添加使用键盘快捷键将文本转换为不同外壳的选项。
 author: ipshing
-downloads: 3643
+downloads: 3646
 updated: 1756507191000
 repo: ipshing/obsidian-text-transform
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="text-transform"
   name="Text Transform"
-  description="Add options to transform text to different casings using keyboard shortcuts."
+  description="添加使用键盘快捷键将文本转换为不同外壳的选项。"
   author="ipshing"
-  :downloads="3643"
+  :downloads="3646"
   :updated="1756507191000"
   repo="ipshing/obsidian-text-transform"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text Transform 是一个功能强大的 Obsidian 插件。
 
-Add options to transform text to different casings using keyboard shortcuts.
+添加使用键盘快捷键将文本转换为不同外壳的选项。
 
 通过 Text Transform,您可以:
 
@@ -202,7 +202,7 @@ Add options to transform text to different casings using keyboard shortcuts.
 - **下载量**：3.6K
 - **最后更新**：2025-08-30
 - **GitHub**：[ipshing/obsidian-text-transform](https://github.com/ipshing/obsidian-text-transform)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

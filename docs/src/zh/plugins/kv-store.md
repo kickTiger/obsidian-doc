@@ -6,7 +6,7 @@ downloads: 687
 updated: 1737951857000
 repo: Darren-project/obsidian-kv
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1737951857000"
   repo="Darren-project/obsidian-kv"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds a key-value store. Use it to store and retrieve key-value pairs in your vau
 - **下载量**：687
 - **最后更新**：2025-01-27
 - **GitHub**：[Darren-project/obsidian-kv](https://github.com/Darren-project/obsidian-kv)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

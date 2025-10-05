@@ -1,12 +1,12 @@
 ---
 title: Markdown shortcuts
-description: Write Markdown from shortcuts.
+description: 用快捷方式编写 Markdown
 author: Jules Guesnon
-downloads: 7967
+downloads: 7969
 updated: 1663101115000
 repo: JulesGuesnon/obsidian-markdown-shortcuts
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="markdown-shortcuts"
   name="Markdown shortcuts"
-  description="Write Markdown from shortcuts."
+  description="用快捷方式编写 Markdown"
   author="Jules Guesnon"
-  :downloads="7967"
+  :downloads="7969"
   :updated="1663101115000"
   repo="JulesGuesnon/obsidian-markdown-shortcuts"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown shortcuts 是一个功能强大的 Obsidian 插件。
 
-Write Markdown from shortcuts.
+用快捷方式编写 Markdown
 
 通过 Markdown shortcuts,您可以:
 
@@ -202,7 +202,7 @@ Write Markdown from shortcuts.
 - **下载量**：8.0K
 - **最后更新**：2022-09-14
 - **GitHub**：[JulesGuesnon/obsidian-markdown-shortcuts](https://github.com/JulesGuesnon/obsidian-markdown-shortcuts)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

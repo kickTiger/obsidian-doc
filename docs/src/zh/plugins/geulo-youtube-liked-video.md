@@ -2,11 +2,11 @@
 title: Geulo
 description: Fetch all the YouTube videos you have liked, search and sort them with multiple sort options, and add them to your daily note.
 author: Junyoung Bang
-downloads: 959
+downloads: 962
 updated: 1758954569000
 repo: zzunebye/obsidian-google-liked-video
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Geulo"
   description="Fetch all the YouTube videos you have liked, search and sort them with multiple sort options, and add them to your daily note."
   author="Junyoung Bang"
-  :downloads="959"
+  :downloads="962"
   :updated="1758954569000"
   repo="zzunebye/obsidian-google-liked-video"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Fetch all the YouTube videos you have liked, search and sort them with multiple 
 - **插件 ID**：geulo-youtube-liked-video
 - **作者**：Junyoung Bang
 - **当前版本**：v1.0.0
-- **下载量**：959
+- **下载量**：962
 - **最后更新**：2025-09-27
 - **GitHub**：[zzunebye/obsidian-google-liked-video](https://github.com/zzunebye/obsidian-google-liked-video)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

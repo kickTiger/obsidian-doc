@@ -2,11 +2,11 @@
 title: Themed Discord RPC
 description: A Customizable Discord RPC
 author: Mouadhbendjedidi
-downloads: 692
+downloads: 694
 updated: 1753283877000
 repo: Mouadhbendjedidi/themed-obsidian-discord-rpc
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Themed Discord RPC"
   description="A Customizable Discord RPC"
   author="Mouadhbendjedidi"
-  :downloads="692"
+  :downloads="694"
   :updated="1753283877000"
   repo="Mouadhbendjedidi/themed-obsidian-discord-rpc"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ A Customizable Discord RPC
 - **插件 ID**：themed-discord-rpc
 - **作者**：Mouadhbendjedidi
 - **当前版本**：v1.0.0
-- **下载量**：692
+- **下载量**：694
 - **最后更新**：2025-07-23
 - **GitHub**：[Mouadhbendjedidi/themed-obsidian-discord-rpc](https://github.com/Mouadhbendjedidi/themed-obsidian-discord-rpc)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Custom Font Loader
-description: Customize your vault with any font you want (+ Support for Android and iOS).
+description: 使用任意字体定制你的保险库（+ 支持 Android 和 iOS）。
 author: Amir Pourmand
-downloads: 40418
+downloads: 40494
 updated: 1756314894000
 repo: pourmand1376/obsidian-custom-font
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="custom-font-loader"
   name="Custom Font Loader"
-  description="Customize your vault with any font you want (+ Support for Android and iOS)."
+  description="使用任意字体定制你的保险库（+ 支持 Android 和 iOS）。"
   author="Amir Pourmand"
-  :downloads="40418"
+  :downloads="40494"
   :updated="1756314894000"
   repo="pourmand1376/obsidian-custom-font"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Custom Font Loader 是一个功能强大的 Obsidian 插件。
 
-Customize your vault with any font you want (+ Support for Android and iOS).
+使用任意字体定制你的保险库（+ 支持 Android 和 iOS）。
 
 通过 Custom Font Loader,您可以:
 
@@ -199,10 +199,10 @@ Customize your vault with any font you want (+ Support for Android and iOS).
 - **插件 ID**：custom-font-loader
 - **作者**：Amir Pourmand
 - **当前版本**：v1.0.0
-- **下载量**：40.4K
+- **下载量**：40.5K
 - **最后更新**：2025-08-28
 - **GitHub**：[pourmand1376/obsidian-custom-font](https://github.com/pourmand1376/obsidian-custom-font)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

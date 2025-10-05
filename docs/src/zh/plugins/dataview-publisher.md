@@ -1,12 +1,12 @@
 ---
 title: Dataview Publisher
-description: Output markdown from your Dataview queries and keep them up to date. You can also publish them.
+description: 从 Dataview 查询中输出标记符并保持更新。您还可以发布它们。
 author: UD
-downloads: 6243
+downloads: 6264
 updated: 1731747752000
 repo: udus122/dataview-publisher
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="dataview-publisher"
   name="Dataview Publisher"
-  description="Output markdown from your Dataview queries and keep them up to date. You can also publish them."
+  description="从 Dataview 查询中输出标记符并保持更新。您还可以发布它们。"
   author="UD"
-  :downloads="6243"
+  :downloads="6264"
   :updated="1731747752000"
   repo="udus122/dataview-publisher"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dataview Publisher 是一个功能强大的 Obsidian 插件。
 
-Output markdown from your Dataview queries and keep them up to date. You can also publish them.
+从 Dataview 查询中输出标记符并保持更新。您还可以发布它们。
 
 通过 Dataview Publisher,您可以:
 
@@ -199,10 +199,10 @@ Output markdown from your Dataview queries and keep them up to date. You can als
 - **插件 ID**：dataview-publisher
 - **作者**：UD
 - **当前版本**：v1.0.0
-- **下载量**：6.2K
+- **下载量**：6.3K
 - **最后更新**：2024-11-16
 - **GitHub**：[udus122/dataview-publisher](https://github.com/udus122/dataview-publisher)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

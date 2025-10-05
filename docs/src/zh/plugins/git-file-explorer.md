@@ -6,7 +6,7 @@ downloads: 2579
 updated: 1746279846000
 repo: MateusMolina/obsidian-git-file-explorer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1746279846000"
   repo="MateusMolina/obsidian-git-file-explorer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add relevant git information of detected git repositories to the file explorer.
 - **下载量**：2.6K
 - **最后更新**：2025-05-03
 - **GitHub**：[MateusMolina/obsidian-git-file-explorer](https://github.com/MateusMolina/obsidian-git-file-explorer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

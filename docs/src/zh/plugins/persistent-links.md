@@ -1,12 +1,12 @@
 ---
 title: Persistent Links
-description: Automatically repair internal links to blocks and headings when moving them between files.
+description: 在文件间移动时，自动修复块和标题的内部链接。
 author: Ivan Lednev
-downloads: 6081
+downloads: 6082
 updated: 1681745733000
 repo: ivan-lednev/obsidian-persistent-links
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="persistent-links"
   name="Persistent Links"
-  description="Automatically repair internal links to blocks and headings when moving them between files."
+  description="在文件间移动时，自动修复块和标题的内部链接。"
   author="Ivan Lednev"
-  :downloads="6081"
+  :downloads="6082"
   :updated="1681745733000"
   repo="ivan-lednev/obsidian-persistent-links"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Persistent Links 是一个功能强大的 Obsidian 插件。
 
-Automatically repair internal links to blocks and headings when moving them between files.
+在文件间移动时，自动修复块和标题的内部链接。
 
 通过 Persistent Links,您可以:
 
@@ -202,7 +202,7 @@ Automatically repair internal links to blocks and headings when moving them betw
 - **下载量**：6.1K
 - **最后更新**：2023-04-17
 - **GitHub**：[ivan-lednev/obsidian-persistent-links](https://github.com/ivan-lednev/obsidian-persistent-links)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

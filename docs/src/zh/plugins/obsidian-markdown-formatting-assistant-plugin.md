@@ -1,12 +1,12 @@
 ---
 title: Markdown Formatting Assistant
-description: A formatting sidebar for Markdown and a command line interface to facilitate a faster workflow.
+description: 用于 Markdown 的格式化侧边栏和命令行界面可加快工作流程。
 author: Reocin
-downloads: 106483
+downloads: 106545
 updated: 1668510962000
 repo: Reocin/obsidian-markdown-formatting-assistant-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-markdown-formatting-assistant-plugin"
   name="Markdown Formatting Assistant"
-  description="A formatting sidebar for Markdown and a command line interface to facilitate a faster workflow."
+  description="用于 Markdown 的格式化侧边栏和命令行界面可加快工作流程。"
   author="Reocin"
-  :downloads="106483"
+  :downloads="106545"
   :updated="1668510962000"
   repo="Reocin/obsidian-markdown-formatting-assistant-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown Formatting Assistant 是一个功能强大的 Obsidian 插件。
 
-A formatting sidebar for Markdown and a command line interface to facilitate a faster workflow.
+用于 Markdown 的格式化侧边栏和命令行界面可加快工作流程。
 
 通过 Markdown Formatting Assistant,您可以:
 
@@ -202,7 +202,7 @@ A formatting sidebar for Markdown and a command line interface to facilitate a f
 - **下载量**：106.5K
 - **最后更新**：2022-11-15
 - **GitHub**：[Reocin/obsidian-markdown-formatting-assistant-plugin](https://github.com/Reocin/obsidian-markdown-formatting-assistant-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

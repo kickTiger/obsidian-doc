@@ -2,11 +2,11 @@
 title: AI Helper
 description: An AI helper tool for summarizing text and providing a chatbot to let you ask questions about your notes.
 author: David Connolly
-downloads: 177
+downloads: 179
 updated: 1742479340000
 repo: davidjconnolly/obsidian-ai-helper
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="AI Helper"
   description="An AI helper tool for summarizing text and providing a chatbot to let you ask questions about your notes."
   author="David Connolly"
-  :downloads="177"
+  :downloads="179"
   :updated="1742479340000"
   repo="davidjconnolly/obsidian-ai-helper"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ An AI helper tool for summarizing text and providing a chatbot to let you ask qu
 - **插件 ID**：ai-helper
 - **作者**：David Connolly
 - **当前版本**：v1.0.0
-- **下载量**：177
+- **下载量**：179
 - **最后更新**：2025-03-20
 - **GitHub**：[davidjconnolly/obsidian-ai-helper](https://github.com/davidjconnolly/obsidian-ai-helper)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

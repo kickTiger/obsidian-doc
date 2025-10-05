@@ -6,7 +6,7 @@ downloads: 212
 updated: 1731423263000
 repo: Cold-dragon7/Obsidian-Class-Relation-Visualization
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1731423263000"
   repo="Cold-dragon7/Obsidian-Class-Relation-Visualization"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ You can visualize your classes and their inheritance, composition, aggregation r
 - **下载量**：212
 - **最后更新**：2024-11-12
 - **GitHub**：[Cold-dragon7/Obsidian-Class-Relation-Visualization](https://github.com/Cold-dragon7/Obsidian-Class-Relation-Visualization)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

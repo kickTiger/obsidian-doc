@@ -1,12 +1,12 @@
 ---
 title: Floating TOC
-description: A floating directory that hovers a widget of the current directory on the notes page.
+description: 浮动目录，将当前目录的小部件悬浮在备注页面上。
 author: curtgrimes modified by Cuman
-downloads: 101739
+downloads: 101806
 updated: 1752214057000
 repo: PKM-er/obsidian-floating-toc-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="floating-toc"
   name="Floating TOC"
-  description="A floating directory that hovers a widget of the current directory on the notes page."
+  description="浮动目录，将当前目录的小部件悬浮在备注页面上。"
   author="curtgrimes modified by Cuman"
-  :downloads="101739"
+  :downloads="101806"
   :updated="1752214057000"
   repo="PKM-er/obsidian-floating-toc-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Floating TOC 是一个功能强大的 Obsidian 插件。
 
-A floating directory that hovers a widget of the current directory on the notes page.
+浮动目录，将当前目录的小部件悬浮在备注页面上。
 
 通过 Floating TOC,您可以:
 
@@ -199,10 +199,10 @@ A floating directory that hovers a widget of the current directory on the notes 
 - **插件 ID**：floating-toc
 - **作者**：curtgrimes modified by Cuman
 - **当前版本**：v1.0.0
-- **下载量**：101.7K
+- **下载量**：101.8K
 - **最后更新**：2025-07-11
 - **GitHub**：[PKM-er/obsidian-floating-toc-plugin](https://github.com/PKM-er/obsidian-floating-toc-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

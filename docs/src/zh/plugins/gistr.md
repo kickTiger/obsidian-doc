@@ -6,7 +6,7 @@ downloads: 1743
 updated: 1750819066000
 repo: Aetherinox/obsidian-gistr
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1750819066000"
   repo="Aetherinox/obsidian-gistr"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Use your notes to embed, create, and update gists for Github and Opengist.
 - **下载量**：1.7K
 - **最后更新**：2025-06-25
 - **GitHub**：[Aetherinox/obsidian-gistr](https://github.com/Aetherinox/obsidian-gistr)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

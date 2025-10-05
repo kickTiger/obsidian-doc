@@ -1,12 +1,12 @@
 ---
 title: Frontmatter generator
-description: Generate frontmatter for your notes from JSON and JavaScript.
+description: 用 JSON 和 JavaScript 生成笔记的正面内容。
 author: Hananoshika Yomaru
-downloads: 3812
+downloads: 3814
 updated: 1701363700000
 repo: HananoshikaYomaru/Obsidian-Frontmatter-Generator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="frontmatter-generator"
   name="Frontmatter generator"
-  description="Generate frontmatter for your notes from JSON and JavaScript."
+  description="用 JSON 和 JavaScript 生成笔记的正面内容。"
   author="Hananoshika Yomaru"
-  :downloads="3812"
+  :downloads="3814"
   :updated="1701363700000"
   repo="HananoshikaYomaru/Obsidian-Frontmatter-Generator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Frontmatter generator 是一个功能强大的 Obsidian 插件。
 
-Generate frontmatter for your notes from JSON and JavaScript.
+用 JSON 和 JavaScript 生成笔记的正面内容。
 
 通过 Frontmatter generator,您可以:
 
@@ -202,7 +202,7 @@ Generate frontmatter for your notes from JSON and JavaScript.
 - **下载量**：3.8K
 - **最后更新**：2023-12-01
 - **GitHub**：[HananoshikaYomaru/Obsidian-Frontmatter-Generator](https://github.com/HananoshikaYomaru/Obsidian-Frontmatter-Generator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Filename Emoji Remover
-description: Automatically remove emojis from filenames. Main purpose is to get rid of Dropbox sync issues for Readwise imported content.
+description: 自动移除文件名中的表情符号。主要目的是解决 Readwise 导入内容的 Dropbox 同步问题。
 author: Yüksel Tolun
-downloads: 4056
+downloads: 4057
 updated: 1651418815000
 repo: YTolun/obsidian-filename-emoji-remover
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-filename-emoji-remover"
   name="Filename Emoji Remover"
-  description="Automatically remove emojis from filenames. Main purpose is to get rid of Dropbox sync issues for Readwise imported content."
+  description="自动移除文件名中的表情符号。主要目的是解决 Readwise 导入内容的 Dropbox 同步问题。"
   author="Yüksel Tolun"
-  :downloads="4056"
+  :downloads="4057"
   :updated="1651418815000"
   repo="YTolun/obsidian-filename-emoji-remover"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Filename Emoji Remover 是一个功能强大的 Obsidian 插件。
 
-Automatically remove emojis from filenames. Main purpose is to get rid of Dropbox sync issues for Readwise imported content.
+自动移除文件名中的表情符号。主要目的是解决 Readwise 导入内容的 Dropbox 同步问题。
 
 通过 Filename Emoji Remover,您可以:
 
@@ -202,7 +202,7 @@ Automatically remove emojis from filenames. Main purpose is to get rid of Dropbo
 - **下载量**：4.1K
 - **最后更新**：2022-05-01
 - **GitHub**：[YTolun/obsidian-filename-emoji-remover](https://github.com/YTolun/obsidian-filename-emoji-remover)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

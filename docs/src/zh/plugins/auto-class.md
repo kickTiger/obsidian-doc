@@ -1,12 +1,12 @@
 ---
 title: Auto Class
-description: 'Automatically apply CSS classes to Markdown views based on a note''s path.'
+description: 根据注释路径自动将 CSS 类应用于 Markdown 视图。
 author: Nathonius
-downloads: 4895
+downloads: 4898
 updated: 1675271052000
 repo: nathonius/obsidian-auto-class
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-class"
   name="Auto Class"
-  description="Automatically apply CSS classes to Markdown views based on a note&#39;s path."
+  description="根据注释路径自动将 CSS 类应用于 Markdown 视图。"
   author="Nathonius"
-  :downloads="4895"
+  :downloads="4898"
   :updated="1675271052000"
   repo="nathonius/obsidian-auto-class"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Class 是一个功能强大的 Obsidian 插件。
 
-Automatically apply CSS classes to Markdown views based on a note&#39;s path.
+根据注释路径自动将 CSS 类应用于 Markdown 视图。
 
 通过 Auto Class,您可以:
 
@@ -202,7 +202,7 @@ Automatically apply CSS classes to Markdown views based on a note&#39;s path.
 - **下载量**：4.9K
 - **最后更新**：2023-02-02
 - **GitHub**：[nathonius/obsidian-auto-class](https://github.com/nathonius/obsidian-auto-class)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

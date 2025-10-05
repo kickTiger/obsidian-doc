@@ -2,11 +2,11 @@
 title: Share as ZIP
 description: Share notes and their links as a zip folder.
 author: Till Friebe
-downloads: 674
+downloads: 677
 updated: 1750145309000
 repo: friebetill/obsidian-share-as-zip
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Share as ZIP"
   description="Share notes and their links as a zip folder."
   author="Till Friebe"
-  :downloads="674"
+  :downloads="677"
   :updated="1750145309000"
   repo="friebetill/obsidian-share-as-zip"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Share notes and their links as a zip folder.
 - **插件 ID**：share-as-zip
 - **作者**：Till Friebe
 - **当前版本**：v1.0.0
-- **下载量**：674
+- **下载量**：677
 - **最后更新**：2025-06-17
 - **GitHub**：[friebetill/obsidian-share-as-zip](https://github.com/friebetill/obsidian-share-as-zip)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Things Logbook
-description: Sync your Things logbook with your daily notes.
+description: '将您的 "事情日志 "与您的日常笔记同步。'
 author: Liam Cain
-downloads: 10156
+downloads: 10157
 updated: 1698243621000
 repo: liamcain/obsidian-things-logbook
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="things-logbook"
   name="Things Logbook"
-  description="Sync your Things logbook with your daily notes."
+  description="将您的 &quot;事情日志 &quot;与您的日常笔记同步。"
   author="Liam Cain"
-  :downloads="10156"
+  :downloads="10157"
   :updated="1698243621000"
   repo="liamcain/obsidian-things-logbook"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Things Logbook 是一个功能强大的 Obsidian 插件。
 
-Sync your Things logbook with your daily notes.
+将您的 &quot;事情日志 &quot;与您的日常笔记同步。
 
 通过 Things Logbook,您可以:
 
@@ -202,7 +202,7 @@ Sync your Things logbook with your daily notes.
 - **下载量**：10.2K
 - **最后更新**：2023-10-25
 - **GitHub**：[liamcain/obsidian-things-logbook](https://github.com/liamcain/obsidian-things-logbook)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

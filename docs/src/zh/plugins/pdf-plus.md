@@ -1,12 +1,12 @@
 ---
 title: PDF++
-description: The most Obsidian-native PDF annotation tool ever.
+description: 最原生的Obsidian PDF注释工具。
 author: Ryota Ushio
-downloads: 386536
+downloads: 387196
 updated: 1756521138000
 repo: RyotaUshio/obsidian-pdf-plus
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pdf-plus"
   name="PDF++"
-  description="The most Obsidian-native PDF annotation tool ever."
+  description="最原生的Obsidian PDF注释工具。"
   author="Ryota Ushio"
-  :downloads="386536"
+  :downloads="387196"
   :updated="1756521138000"
   repo="RyotaUshio/obsidian-pdf-plus"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 PDF++ 是一个功能强大的 Obsidian 插件。
 
-The most Obsidian-native PDF annotation tool ever.
+最原生的Obsidian PDF注释工具。
 
 通过 PDF++,您可以:
 
@@ -199,10 +199,10 @@ The most Obsidian-native PDF annotation tool ever.
 - **插件 ID**：pdf-plus
 - **作者**：Ryota Ushio
 - **当前版本**：v1.0.0
-- **下载量**：386.5K
+- **下载量**：387.2K
 - **最后更新**：2025-08-30
 - **GitHub**：[RyotaUshio/obsidian-pdf-plus](https://github.com/RyotaUshio/obsidian-pdf-plus)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

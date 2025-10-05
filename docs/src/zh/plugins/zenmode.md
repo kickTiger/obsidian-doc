@@ -2,11 +2,11 @@
 title: Zen Mode
 description: Hide most UI elements.
 author: paperbenni
-downloads: 2480
+downloads: 2486
 updated: 1740651667000
 repo: paperbenni/obsidian-zenmode
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Zen Mode"
   description="Hide most UI elements."
   author="paperbenni"
-  :downloads="2480"
+  :downloads="2486"
   :updated="1740651667000"
   repo="paperbenni/obsidian-zenmode"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Hide most UI elements.
 - **下载量**：2.5K
 - **最后更新**：2025-02-27
 - **GitHub**：[paperbenni/obsidian-zenmode](https://github.com/paperbenni/obsidian-zenmode)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

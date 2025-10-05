@@ -1,12 +1,12 @@
 ---
 title: Custom list character
-description: 'Choose the character to use when creating a bullet list between ''-'', ''*'' and ''+''.'
+description: '在"-"、"*"和 "+"之间选择创建项目符号列表时要使用的字符。'
 author: Lilian POULIQUEN
 downloads: 4789
 updated: 1701465878000
 repo: lilian-pouliquen/obsidian-custom-list-character
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="custom-list-character"
   name="Custom list character"
-  description="Choose the character to use when creating a bullet list between &#39;-&#39;, &#39;*&#39; and &#39;+&#39;."
+  description="在&quot;-&quot;、&quot;*&quot;和 &quot;+&quot;之间选择创建项目符号列表时要使用的字符。"
   author="Lilian POULIQUEN"
   :downloads="4789"
   :updated="1701465878000"
   repo="lilian-pouliquen/obsidian-custom-list-character"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Custom list character 是一个功能强大的 Obsidian 插件。
 
-Choose the character to use when creating a bullet list between &#39;-&#39;, &#39;*&#39; and &#39;+&#39;.
+在&quot;-&quot;、&quot;*&quot;和 &quot;+&quot;之间选择创建项目符号列表时要使用的字符。
 
 通过 Custom list character,您可以:
 
@@ -202,7 +202,7 @@ Choose the character to use when creating a bullet list between &#39;-&#39;, &#3
 - **下载量**：4.8K
 - **最后更新**：2023-12-02
 - **GitHub**：[lilian-pouliquen/obsidian-custom-list-character](https://github.com/lilian-pouliquen/obsidian-custom-list-character)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

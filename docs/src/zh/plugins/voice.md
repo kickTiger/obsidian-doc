@@ -1,12 +1,12 @@
 ---
 title: Voice
-description: Let your notes talk and speak to you and enhance your experience to effortlessly listen to your notes being read aloud and enjoy the power of sound, audio, and speech.
+description: 让您的笔记与您对话，增强您的体验，轻松聆听笔记朗读，享受声音、音频和语音的力量。
 author: Chris Oguntolu
-downloads: 19289
+downloads: 19324
 updated: 1759059477000
 repo: chrisurf/obsidian-voice
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="voice"
   name="Voice"
-  description="Let your notes talk and speak to you and enhance your experience to effortlessly listen to your notes being read aloud and enjoy the power of sound, audio, and speech."
+  description="让您的笔记与您对话，增强您的体验，轻松聆听笔记朗读，享受声音、音频和语音的力量。"
   author="Chris Oguntolu"
-  :downloads="19289"
+  :downloads="19324"
   :updated="1759059477000"
   repo="chrisurf/obsidian-voice"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Voice 是一个功能强大的 Obsidian 插件。
 
-Let your notes talk and speak to you and enhance your experience to effortlessly listen to your notes being read aloud and enjoy the power of sound, audio, and speech.
+让您的笔记与您对话，增强您的体验，轻松聆听笔记朗读，享受声音、音频和语音的力量。
 
 通过 Voice,您可以:
 
@@ -202,7 +202,7 @@ Let your notes talk and speak to you and enhance your experience to effortlessly
 - **下载量**：19.3K
 - **最后更新**：2025-09-28
 - **GitHub**：[chrisurf/obsidian-voice](https://github.com/chrisurf/obsidian-voice)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

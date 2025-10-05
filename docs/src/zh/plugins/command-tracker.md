@@ -2,11 +2,11 @@
 title: Command Tracker
 description: Track the number of times the command is used.
 author: namikaze-40p
-downloads: 959
+downloads: 961
 updated: 1757146605000
 repo: namikaze-40p/obsidian-command-tracker
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Command Tracker"
   description="Track the number of times the command is used."
   author="namikaze-40p"
-  :downloads="959"
+  :downloads="961"
   :updated="1757146605000"
   repo="namikaze-40p/obsidian-command-tracker"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Track the number of times the command is used.
 - **插件 ID**：command-tracker
 - **作者**：namikaze-40p
 - **当前版本**：v1.0.0
-- **下载量**：959
+- **下载量**：961
 - **最后更新**：2025-09-06
 - **GitHub**：[namikaze-40p/obsidian-command-tracker](https://github.com/namikaze-40p/obsidian-command-tracker)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

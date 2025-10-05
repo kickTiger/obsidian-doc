@@ -1,12 +1,12 @@
 ---
 title: Gene 🧬
-description: Generate text using the OpenAI API.
+description: 使用 OpenAI API 生成文本。
 author: Matiss Jurevics
 downloads: 5475
 updated: 1685218004000
 repo: MatissJurevics/Gene-AI
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gene-ai"
   name="Gene 🧬"
-  description="Generate text using the OpenAI API."
+  description="使用 OpenAI API 生成文本。"
   author="Matiss Jurevics"
   :downloads="5475"
   :updated="1685218004000"
   repo="MatissJurevics/Gene-AI"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Gene 🧬 是一个功能强大的 Obsidian 插件。
 
-Generate text using the OpenAI API.
+使用 OpenAI API 生成文本。
 
 通过 Gene 🧬,您可以:
 
@@ -202,7 +202,7 @@ Generate text using the OpenAI API.
 - **下载量**：5.5K
 - **最后更新**：2023-05-28
 - **GitHub**：[MatissJurevics/Gene-AI](https://github.com/MatissJurevics/Gene-AI)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

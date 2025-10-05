@@ -2,11 +2,11 @@
 title: MemoChron
 description: Calendar integration and note creation with support for public iCalendar URLs.
 author: Michalis Efstratiadis
-downloads: 1862
-updated: 1759477374000
+downloads: 1897
+updated: 1759564455000
 repo: formax68/memoChron
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="MemoChron"
   description="Calendar integration and note creation with support for public iCalendar URLs."
   author="Michalis Efstratiadis"
-  :downloads="1862"
-  :updated="1759477374000"
+  :downloads="1897"
+  :updated="1759564455000"
   repo="formax68/memoChron"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -181,7 +181,7 @@ Calendar integration and note creation with support for public iCalendar URLs.
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-10-03
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/formax68/memoChron/releases) 查看详细更新日志
@@ -200,9 +200,9 @@ Calendar integration and note creation with support for public iCalendar URLs.
 - **作者**：Michalis Efstratiadis
 - **当前版本**：v1.0.0
 - **下载量**：1.9K
-- **最后更新**：2025-10-03
+- **最后更新**：2025-10-04
 - **GitHub**：[formax68/memoChron](https://github.com/formax68/memoChron)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

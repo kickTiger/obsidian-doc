@@ -1,12 +1,12 @@
 ---
 title: Adamantine Pick
-description: Embeddable Pikchr diagrams renderer.
+description: 可嵌入的 Pikchr 图表渲染器。
 author: Urist McMiner
 downloads: 4875
 updated: 1742540355000
 repo: notlibrary/obsidian-adamantine-pick
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="adamantine-pick"
   name="Adamantine Pick"
-  description="Embeddable Pikchr diagrams renderer."
+  description="可嵌入的 Pikchr 图表渲染器。"
   author="Urist McMiner"
   :downloads="4875"
   :updated="1742540355000"
   repo="notlibrary/obsidian-adamantine-pick"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Adamantine Pick 是一个功能强大的 Obsidian 插件。
 
-Embeddable Pikchr diagrams renderer.
+可嵌入的 Pikchr 图表渲染器。
 
 通过 Adamantine Pick,您可以:
 
@@ -202,7 +202,7 @@ Embeddable Pikchr diagrams renderer.
 - **下载量**：4.9K
 - **最后更新**：2025-03-21
 - **GitHub**：[notlibrary/obsidian-adamantine-pick](https://github.com/notlibrary/obsidian-adamantine-pick)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

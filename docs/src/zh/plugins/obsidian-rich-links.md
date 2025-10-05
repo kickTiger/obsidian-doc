@@ -1,12 +1,12 @@
 ---
 title: Rich Links
-description: Convert URLs in your notes to rich link previews.
+description: 将笔记中的 URL 转换为丰富的链接预览。
 author: dhamaniasad
-downloads: 29569
+downloads: 29582
 updated: 1682955207000
 repo: dhamaniasad/obsidian-rich-links
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-rich-links"
   name="Rich Links"
-  description="Convert URLs in your notes to rich link previews."
+  description="将笔记中的 URL 转换为丰富的链接预览。"
   author="dhamaniasad"
-  :downloads="29569"
+  :downloads="29582"
   :updated="1682955207000"
   repo="dhamaniasad/obsidian-rich-links"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Rich Links 是一个功能强大的 Obsidian 插件。
 
-Convert URLs in your notes to rich link previews.
+将笔记中的 URL 转换为丰富的链接预览。
 
 通过 Rich Links,您可以:
 
@@ -202,7 +202,7 @@ Convert URLs in your notes to rich link previews.
 - **下载量**：29.6K
 - **最后更新**：2023-05-01
 - **GitHub**：[dhamaniasad/obsidian-rich-links](https://github.com/dhamaniasad/obsidian-rich-links)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

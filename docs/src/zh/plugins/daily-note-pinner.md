@@ -1,12 +1,12 @@
 ---
 title: Daily Note Pinner
-description: Pin the daily note of the present day. Unpin all daily notes of past and future days.
+description: 钉上当天的每日笔记。取消固定所有过去和未来的每日记录。
 author: LukeMT
-downloads: 6044
+downloads: 6052
 updated: 1698431793000
 repo: lukemt/obsidian-daily-note-pinner
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="daily-note-pinner"
   name="Daily Note Pinner"
-  description="Pin the daily note of the present day. Unpin all daily notes of past and future days."
+  description="钉上当天的每日笔记。取消固定所有过去和未来的每日记录。"
   author="LukeMT"
-  :downloads="6044"
+  :downloads="6052"
   :updated="1698431793000"
   repo="lukemt/obsidian-daily-note-pinner"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Daily Note Pinner 是一个功能强大的 Obsidian 插件。
 
-Pin the daily note of the present day. Unpin all daily notes of past and future days.
+钉上当天的每日笔记。取消固定所有过去和未来的每日记录。
 
 通过 Daily Note Pinner,您可以:
 
@@ -199,10 +199,10 @@ Pin the daily note of the present day. Unpin all daily notes of past and future 
 - **插件 ID**：daily-note-pinner
 - **作者**：LukeMT
 - **当前版本**：v1.0.0
-- **下载量**：6.0K
+- **下载量**：6.1K
 - **最后更新**：2023-10-28
 - **GitHub**：[lukemt/obsidian-daily-note-pinner](https://github.com/lukemt/obsidian-daily-note-pinner)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 1508
 updated: 1714794206000
 repo: alincoop/obsidian-tinychart
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1714794206000"
   repo="alincoop/obsidian-tinychart"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate simple ASCII charts.
 - **下载量**：1.5K
 - **最后更新**：2024-05-04
 - **GitHub**：[alincoop/obsidian-tinychart](https://github.com/alincoop/obsidian-tinychart)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

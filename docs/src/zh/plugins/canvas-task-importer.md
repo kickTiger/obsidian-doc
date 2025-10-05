@@ -6,7 +6,7 @@ downloads: 276
 updated: 1759259875000
 repo: jordaeday/canvas-task-importer
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1759259875000"
   repo="jordaeday/canvas-task-importer"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Import assignments from Canvas LMS.
 - **下载量**：276
 - **最后更新**：2025-10-01
 - **GitHub**：[jordaeday/canvas-task-importer](https://github.com/jordaeday/canvas-task-importer)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

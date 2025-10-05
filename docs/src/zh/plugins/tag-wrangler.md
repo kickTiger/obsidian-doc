@@ -1,12 +1,12 @@
 ---
 title: Tag Wrangler
-description: Rename, merge, toggle, and search tags from the tag pane.
+description: 在标签窗格中重命名、合并、切换和搜索标签。
 author: PJ Eby
-downloads: 808933
+downloads: 809500
 updated: 1741734643000
 repo: pjeby/tag-wrangler
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tag-wrangler"
   name="Tag Wrangler"
-  description="Rename, merge, toggle, and search tags from the tag pane."
+  description="在标签窗格中重命名、合并、切换和搜索标签。"
   author="PJ Eby"
-  :downloads="808933"
+  :downloads="809500"
   :updated="1741734643000"
   repo="pjeby/tag-wrangler"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tag Wrangler 是一个功能强大的 Obsidian 插件。
 
-Rename, merge, toggle, and search tags from the tag pane.
+在标签窗格中重命名、合并、切换和搜索标签。
 
 通过 Tag Wrangler,您可以:
 
@@ -199,10 +199,10 @@ Rename, merge, toggle, and search tags from the tag pane.
 - **插件 ID**：tag-wrangler
 - **作者**：PJ Eby
 - **当前版本**：v1.0.0
-- **下载量**：808.9K
+- **下载量**：809.5K
 - **最后更新**：2025-03-12
 - **GitHub**：[pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Auto Embed
-description: Helps to embed links using markdown instead of iframe.
+description: 有助于使用标记符而不是 iframe 嵌入链接。
 author: GnoxNahte
-downloads: 7550
+downloads: 7555
 updated: 1735016536000
 repo: GnoxNahte/obsidian-auto-embed
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-embed"
   name="Auto Embed"
-  description="Helps to embed links using markdown instead of iframe."
+  description="有助于使用标记符而不是 iframe 嵌入链接。"
   author="GnoxNahte"
-  :downloads="7550"
+  :downloads="7555"
   :updated="1735016536000"
   repo="GnoxNahte/obsidian-auto-embed"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Embed 是一个功能强大的 Obsidian 插件。
 
-Helps to embed links using markdown instead of iframe.
+有助于使用标记符而不是 iframe 嵌入链接。
 
 通过 Auto Embed,您可以:
 
@@ -199,10 +199,10 @@ Helps to embed links using markdown instead of iframe.
 - **插件 ID**：auto-embed
 - **作者**：GnoxNahte
 - **当前版本**：v1.0.0
-- **下载量**：7.5K
+- **下载量**：7.6K
 - **最后更新**：2024-12-24
 - **GitHub**：[GnoxNahte/obsidian-auto-embed](https://github.com/GnoxNahte/obsidian-auto-embed)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

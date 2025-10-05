@@ -2,11 +2,11 @@
 title: Duplicate Detector
 description: Highlights duplicate lines in the open note.
 author: David Alcalde
-downloads: 779
+downloads: 782
 updated: 1741063853000
 repo: Wishmater/obsidian-plugin-duplicate-detector
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Duplicate Detector"
   description="Highlights duplicate lines in the open note."
   author="David Alcalde"
-  :downloads="779"
+  :downloads="782"
   :updated="1741063853000"
   repo="Wishmater/obsidian-plugin-duplicate-detector"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Highlights duplicate lines in the open note.
 - **插件 ID**：duplicate-detector
 - **作者**：David Alcalde
 - **当前版本**：v1.0.0
-- **下载量**：779
+- **下载量**：782
 - **最后更新**：2025-03-04
 - **GitHub**：[Wishmater/obsidian-plugin-duplicate-detector](https://github.com/Wishmater/obsidian-plugin-duplicate-detector)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

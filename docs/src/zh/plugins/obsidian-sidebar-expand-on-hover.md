@@ -1,12 +1,12 @@
 ---
 title: Sidebar Expand on Hover
-description: Expand or collapse the sidebar when your mouse is hovering on the left ribbon.
+description: 当鼠标悬停在左侧功能区时，可展开或折叠侧边栏。
 author: Tousif Iqbal Anik (toiq)
-downloads: 12080
+downloads: 12088
 updated: 1624028146000
 repo: toiq/obsidian-sidebar-expand-on-hover
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-sidebar-expand-on-hover"
   name="Sidebar Expand on Hover"
-  description="Expand or collapse the sidebar when your mouse is hovering on the left ribbon."
+  description="当鼠标悬停在左侧功能区时，可展开或折叠侧边栏。"
   author="Tousif Iqbal Anik (toiq)"
-  :downloads="12080"
+  :downloads="12088"
   :updated="1624028146000"
   repo="toiq/obsidian-sidebar-expand-on-hover"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sidebar Expand on Hover 是一个功能强大的 Obsidian 插件。
 
-Expand or collapse the sidebar when your mouse is hovering on the left ribbon.
+当鼠标悬停在左侧功能区时，可展开或折叠侧边栏。
 
 通过 Sidebar Expand on Hover,您可以:
 
@@ -202,7 +202,7 @@ Expand or collapse the sidebar when your mouse is hovering on the left ribbon.
 - **下载量**：12.1K
 - **最后更新**：2021-06-18
 - **GitHub**：[toiq/obsidian-sidebar-expand-on-hover](https://github.com/toiq/obsidian-sidebar-expand-on-hover)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

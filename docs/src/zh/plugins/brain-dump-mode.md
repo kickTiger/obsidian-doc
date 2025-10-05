@@ -6,7 +6,7 @@ downloads: 658
 updated: 1728120738000
 repo: yesjinu/brain-dump-mode
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1728120738000"
   repo="yesjinu/brain-dump-mode"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Done is better than perfect. Complete your first-messy-draft before you make it 
 - **下载量**：658
 - **最后更新**：2024-10-05
 - **GitHub**：[yesjinu/brain-dump-mode](https://github.com/yesjinu/brain-dump-mode)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

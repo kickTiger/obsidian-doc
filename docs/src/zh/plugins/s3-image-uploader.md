@@ -1,12 +1,12 @@
 ---
 title: S3 Image Uploader
-description: Self-host images on AWS S3.
+description: 在 AWS S3 上自行托管图像。
 author: jvsteiner
-downloads: 6174
+downloads: 6177
 updated: 1756463281000
 repo: jvsteiner/s3-image-uploader
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="s3-image-uploader"
   name="S3 Image Uploader"
-  description="Self-host images on AWS S3."
+  description="在 AWS S3 上自行托管图像。"
   author="jvsteiner"
-  :downloads="6174"
+  :downloads="6177"
   :updated="1756463281000"
   repo="jvsteiner/s3-image-uploader"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 S3 Image Uploader 是一个功能强大的 Obsidian 插件。
 
-Self-host images on AWS S3.
+在 AWS S3 上自行托管图像。
 
 通过 S3 Image Uploader,您可以:
 
@@ -202,7 +202,7 @@ Self-host images on AWS S3.
 - **下载量**：6.2K
 - **最后更新**：2025-08-29
 - **GitHub**：[jvsteiner/s3-image-uploader](https://github.com/jvsteiner/s3-image-uploader)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

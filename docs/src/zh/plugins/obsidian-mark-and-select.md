@@ -1,12 +1,12 @@
 ---
 title: Mark and Select
-description: Set mark, move cursors freely and select from mark to cursor position.
+description: 设置标记、自由移动光标以及从标记到光标位置的选择。
 author: anselmwang
-downloads: 4459
+downloads: 4462
 updated: 1645896427000
 repo: anselmwang/obsidian-mark-and-select
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-mark-and-select"
   name="Mark and Select"
-  description="Set mark, move cursors freely and select from mark to cursor position."
+  description="设置标记、自由移动光标以及从标记到光标位置的选择。"
   author="anselmwang"
-  :downloads="4459"
+  :downloads="4462"
   :updated="1645896427000"
   repo="anselmwang/obsidian-mark-and-select"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mark and Select 是一个功能强大的 Obsidian 插件。
 
-Set mark, move cursors freely and select from mark to cursor position.
+设置标记、自由移动光标以及从标记到光标位置的选择。
 
 通过 Mark and Select,您可以:
 
@@ -202,7 +202,7 @@ Set mark, move cursors freely and select from mark to cursor position.
 - **下载量**：4.5K
 - **最后更新**：2022-02-27
 - **GitHub**：[anselmwang/obsidian-mark-and-select](https://github.com/anselmwang/obsidian-mark-and-select)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

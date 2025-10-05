@@ -1,12 +1,12 @@
 ---
 title: Graph Link Types
-description: Link types for graph view.
+description: 图表视图的链接类型。
 author: natefrisch01
-downloads: 7691
+downloads: 7695
 updated: 1714930118000
 repo: natefrisch01/Graph-Link-Types
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="graph-link-types"
   name="Graph Link Types"
-  description="Link types for graph view."
+  description="图表视图的链接类型。"
   author="natefrisch01"
-  :downloads="7691"
+  :downloads="7695"
   :updated="1714930118000"
   repo="natefrisch01/Graph-Link-Types"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Graph Link Types 是一个功能强大的 Obsidian 插件。
 
-Link types for graph view.
+图表视图的链接类型。
 
 通过 Graph Link Types,您可以:
 
@@ -202,7 +202,7 @@ Link types for graph view.
 - **下载量**：7.7K
 - **最后更新**：2024-05-06
 - **GitHub**：[natefrisch01/Graph-Link-Types](https://github.com/natefrisch01/Graph-Link-Types)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

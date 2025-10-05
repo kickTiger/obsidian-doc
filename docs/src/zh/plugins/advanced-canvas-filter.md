@@ -2,11 +2,11 @@
 title: Advanced Сanvas Filter
 description: Filter Canvas to show only items with specified tags.
 author: CHex0K
-downloads: 1020
+downloads: 1030
 updated: 1714910518000
 repo: CHex0K/advanced-canvas-filter
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Advanced Сanvas Filter"
   description="Filter Canvas to show only items with specified tags."
   author="CHex0K"
-  :downloads="1020"
+  :downloads="1030"
   :updated="1714910518000"
   repo="CHex0K/advanced-canvas-filter"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Filter Canvas to show only items with specified tags.
 - **下载量**：1.0K
 - **最后更新**：2024-05-05
 - **GitHub**：[CHex0K/advanced-canvas-filter](https://github.com/CHex0K/advanced-canvas-filter)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

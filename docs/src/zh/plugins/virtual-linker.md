@@ -1,12 +1,12 @@
 ---
 title: Virtual Linker / Glossary
-description: Automatically creates virtual links for text within your notes that match the titles or aliases of other notes in your vault. Create a glossary-like functionality, show unlinked mentions and transform them to real links.
+description: 自动为笔记中的文本创建虚拟链接，这些链接要与资料库中其他笔记的标题或别名相匹配。创建类似词汇表的功能，显示未链接的提及内容，并将其转换为真实链接。
 author: Valentin Schröter
-downloads: 22296
+downloads: 22335
 updated: 1737025195000
 repo: vschroeter/obsidian-virtual-linker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="virtual-linker"
   name="Virtual Linker / Glossary"
-  description="Automatically creates virtual links for text within your notes that match the titles or aliases of other notes in your vault. Create a glossary-like functionality, show unlinked mentions and transform them to real links."
+  description="自动为笔记中的文本创建虚拟链接，这些链接要与资料库中其他笔记的标题或别名相匹配。创建类似词汇表的功能，显示未链接的提及内容，并将其转换为真实链接。"
   author="Valentin Schröter"
-  :downloads="22296"
+  :downloads="22335"
   :updated="1737025195000"
   repo="vschroeter/obsidian-virtual-linker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Virtual Linker / Glossary 是一个功能强大的 Obsidian 插件。
 
-Automatically creates virtual links for text within your notes that match the titles or aliases of other notes in your vault. Create a glossary-like functionality, show unlinked mentions and transform them to real links.
+自动为笔记中的文本创建虚拟链接，这些链接要与资料库中其他笔记的标题或别名相匹配。创建类似词汇表的功能，显示未链接的提及内容，并将其转换为真实链接。
 
 通过 Virtual Linker / Glossary,您可以:
 
@@ -202,7 +202,7 @@ Automatically creates virtual links for text within your notes that match the ti
 - **下载量**：22.3K
 - **最后更新**：2025-01-16
 - **GitHub**：[vschroeter/obsidian-virtual-linker](https://github.com/vschroeter/obsidian-virtual-linker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

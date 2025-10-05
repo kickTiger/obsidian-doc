@@ -1,12 +1,12 @@
 ---
 title: Timekeep
-description: Time tracking.
+description: 时间跟踪。
 author: Jacobtread
-downloads: 7487
+downloads: 7496
 updated: 1752838983000
 repo: jacobtread/obsidian-timekeep
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="timekeep"
   name="Timekeep"
-  description="Time tracking."
+  description="时间跟踪。"
   author="Jacobtread"
-  :downloads="7487"
+  :downloads="7496"
   :updated="1752838983000"
   repo="jacobtread/obsidian-timekeep"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Timekeep 是一个功能强大的 Obsidian 插件。
 
-Time tracking.
+时间跟踪。
 
 通过 Timekeep,您可以:
 
@@ -202,7 +202,7 @@ Time tracking.
 - **下载量**：7.5K
 - **最后更新**：2025-07-18
 - **GitHub**：[jacobtread/obsidian-timekeep](https://github.com/jacobtread/obsidian-timekeep)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

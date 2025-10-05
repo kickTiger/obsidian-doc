@@ -6,7 +6,7 @@ downloads: 3399
 updated: 1675590856000
 repo: filipesilva/obsidian-babashka
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1675590856000"
   repo="filipesilva/obsidian-babashka"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Evaluate Clojure(Script) code blocks in Babashka.
 - **下载量**：3.4K
 - **最后更新**：2023-02-05
 - **GitHub**：[filipesilva/obsidian-babashka](https://github.com/filipesilva/obsidian-babashka)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

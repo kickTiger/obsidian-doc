@@ -2,11 +2,11 @@
 title: Wakatime / Wakapi
 description: Connect to Wakatime or Wakapi to track the time spent while browsing or writing notes.
 author: Kevin Woblick
-downloads: 314
+downloads: 315
 updated: 1758363362000
 repo: Kovah/obsidian-wakatime
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Wakatime / Wakapi"
   description="Connect to Wakatime or Wakapi to track the time spent while browsing or writing notes."
   author="Kevin Woblick"
-  :downloads="314"
+  :downloads="315"
   :updated="1758363362000"
   repo="Kovah/obsidian-wakatime"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Connect to Wakatime or Wakapi to track the time spent while browsing or writing 
 - **插件 ID**：wakatime-kvh
 - **作者**：Kevin Woblick
 - **当前版本**：v1.0.0
-- **下载量**：314
+- **下载量**：315
 - **最后更新**：2025-09-20
 - **GitHub**：[Kovah/obsidian-wakatime](https://github.com/Kovah/obsidian-wakatime)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

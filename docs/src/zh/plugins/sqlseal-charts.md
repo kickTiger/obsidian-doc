@@ -2,11 +2,11 @@
 title: SQLSeal Charts
 description: Generate charts from your data. Graph line charts, pie charts, scatter plots and more.
 author: hypersphere
-downloads: 1567
+downloads: 1570
 updated: 1755185782000
 repo: h-sphere/sql-seal-charts
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="SQLSeal Charts"
   description="Generate charts from your data. Graph line charts, pie charts, scatter plots and more."
   author="hypersphere"
-  :downloads="1567"
+  :downloads="1570"
   :updated="1755185782000"
   repo="h-sphere/sql-seal-charts"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate charts from your data. Graph line charts, pie charts, scatter plots and
 - **下载量**：1.6K
 - **最后更新**：2025-08-14
 - **GitHub**：[h-sphere/sql-seal-charts](https://github.com/h-sphere/sql-seal-charts)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Stack Overflow Answers
-description: Copy and paste Stack Overflow answers.
+description: 复制并粘贴 Stack Overflow 答案。
 author: bramses
 downloads: 4196
 updated: 1654134518000
 repo: bramses/obsidian-stack-overflow
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-stack-overflow"
   name="Stack Overflow Answers"
-  description="Copy and paste Stack Overflow answers."
+  description="复制并粘贴 Stack Overflow 答案。"
   author="bramses"
   :downloads="4196"
   :updated="1654134518000"
   repo="bramses/obsidian-stack-overflow"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Stack Overflow Answers 是一个功能强大的 Obsidian 插件。
 
-Copy and paste Stack Overflow answers.
+复制并粘贴 Stack Overflow 答案。
 
 通过 Stack Overflow Answers,您可以:
 
@@ -202,7 +202,7 @@ Copy and paste Stack Overflow answers.
 - **下载量**：4.2K
 - **最后更新**：2022-06-02
 - **GitHub**：[bramses/obsidian-stack-overflow](https://github.com/bramses/obsidian-stack-overflow)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

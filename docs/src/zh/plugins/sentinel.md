@@ -2,11 +2,11 @@
 title: Sentinel
 description: Trigger actions based on document visibility changes.
 author: Giorgos Sarigiannidis
-downloads: 899
+downloads: 900
 updated: 1743347018000
 repo: gsarig/obsidian-sentinel
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Sentinel"
   description="Trigger actions based on document visibility changes."
   author="Giorgos Sarigiannidis"
-  :downloads="899"
+  :downloads="900"
   :updated="1743347018000"
   repo="gsarig/obsidian-sentinel"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Trigger actions based on document visibility changes.
 - **插件 ID**：sentinel
 - **作者**：Giorgos Sarigiannidis
 - **当前版本**：v1.0.0
-- **下载量**：899
+- **下载量**：900
 - **最后更新**：2025-03-30
 - **GitHub**：[gsarig/obsidian-sentinel](https://github.com/gsarig/obsidian-sentinel)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

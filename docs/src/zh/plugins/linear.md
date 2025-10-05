@@ -2,11 +2,11 @@
 title: Linear
 description: Integrate Linear issues with advanced filtering, sorting, and visual enhancements. Features include due date indicators, status colors, and comprehensive debug logging.
 author: Casey Becking
-downloads: 161
+downloads: 162
 updated: 1758631863000
 repo: caseybecking/obsidian-linear-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Linear"
   description="Integrate Linear issues with advanced filtering, sorting, and visual enhancements. Features include due date indicators, status colors, and comprehensive debug logging."
   author="Casey Becking"
-  :downloads="161"
+  :downloads="162"
   :updated="1758631863000"
   repo="caseybecking/obsidian-linear-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Integrate Linear issues with advanced filtering, sorting, and visual enhancement
 - **插件 ID**：linear
 - **作者**：Casey Becking
 - **当前版本**：v1.0.0
-- **下载量**：161
+- **下载量**：162
 - **最后更新**：2025-09-23
 - **GitHub**：[caseybecking/obsidian-linear-plugin](https://github.com/caseybecking/obsidian-linear-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

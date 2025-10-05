@@ -6,7 +6,7 @@ downloads: 1222
 updated: 1713739987000
 repo: Loac/obsidian-fight-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1713739987000"
   repo="Loac/obsidian-fight-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Render Tekken notation into an easy-to-read format (partially useful for other f
 - **下载量**：1.2K
 - **最后更新**：2024-04-22
 - **GitHub**：[Loac/obsidian-fight-note](https://github.com/Loac/obsidian-fight-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

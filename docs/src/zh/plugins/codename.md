@@ -1,12 +1,12 @@
 ---
 title: Codename
-description: 'Solve the hardest problem: naming things.'
+description: 解决最难的问题：为事物命名。
 author: dstack
-downloads: 3690
+downloads: 3691
 updated: 1691359213000
 repo: dstack/obsidian-codename
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="codename"
   name="Codename"
-  description="Solve the hardest problem: naming things."
+  description="解决最难的问题：为事物命名。"
   author="dstack"
-  :downloads="3690"
+  :downloads="3691"
   :updated="1691359213000"
   repo="dstack/obsidian-codename"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Codename 是一个功能强大的 Obsidian 插件。
 
-Solve the hardest problem: naming things.
+解决最难的问题：为事物命名。
 
 通过 Codename,您可以:
 
@@ -202,7 +202,7 @@ Solve the hardest problem: naming things.
 - **下载量**：3.7K
 - **最后更新**：2023-08-07
 - **GitHub**：[dstack/obsidian-codename](https://github.com/dstack/obsidian-codename)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

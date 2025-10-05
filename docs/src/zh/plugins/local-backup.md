@@ -1,12 +1,12 @@
 ---
 title: Local Backup
-description: Automatically creates a local backup of the vault.
+description: 自动为保险库创建本地备份。
 author: GC Chen
-downloads: 44205
+downloads: 44245
 updated: 1741919544000
 repo: velviagris/obsidian-local-backup
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="local-backup"
   name="Local Backup"
-  description="Automatically creates a local backup of the vault."
+  description="自动为保险库创建本地备份。"
   author="GC Chen"
-  :downloads="44205"
+  :downloads="44245"
   :updated="1741919544000"
   repo="velviagris/obsidian-local-backup"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Local Backup 是一个功能强大的 Obsidian 插件。
 
-Automatically creates a local backup of the vault.
+自动为保险库创建本地备份。
 
 通过 Local Backup,您可以:
 
@@ -202,7 +202,7 @@ Automatically creates a local backup of the vault.
 - **下载量**：44.2K
 - **最后更新**：2025-03-14
 - **GitHub**：[velviagris/obsidian-local-backup](https://github.com/velviagris/obsidian-local-backup)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

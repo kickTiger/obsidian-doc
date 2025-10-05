@@ -1,12 +1,12 @@
 ---
 title: ZotLit
-description: Integrate with Zotero, create literature notes, and insert citations from a Zotero library.
+description: 与 Zotero 整合，创建文献注释，并从 Zotero 库中插入引文。
 author: AidenLx
-downloads: 45268
+downloads: 45314
 updated: 1755593483000
 repo: PKM-er/obsidian-zotlit
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="zotlit"
   name="ZotLit"
-  description="Integrate with Zotero, create literature notes, and insert citations from a Zotero library."
+  description="与 Zotero 整合，创建文献注释，并从 Zotero 库中插入引文。"
   author="AidenLx"
-  :downloads="45268"
+  :downloads="45314"
   :updated="1755593483000"
   repo="PKM-er/obsidian-zotlit"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ZotLit 是一个功能强大的 Obsidian 插件。
 
-Integrate with Zotero, create literature notes, and insert citations from a Zotero library.
+与 Zotero 整合，创建文献注释，并从 Zotero 库中插入引文。
 
 通过 ZotLit,您可以:
 
@@ -202,7 +202,7 @@ Integrate with Zotero, create literature notes, and insert citations from a Zote
 - **下载量**：45.3K
 - **最后更新**：2025-08-19
 - **GitHub**：[PKM-er/obsidian-zotlit](https://github.com/PKM-er/obsidian-zotlit)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

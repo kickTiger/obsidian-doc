@@ -2,11 +2,11 @@
 title: QuickLink
 description: 'Quickly create links to files using @ trigger character'
 author: Jamba Hailar
-downloads: 1687
+downloads: 1709
 updated: 1752649901000
 repo: Jamailar/QuickLink-Obsidian
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="QuickLink"
   description="Quickly create links to files using @ trigger character"
   author="Jamba Hailar"
-  :downloads="1687"
+  :downloads="1709"
   :updated="1752649901000"
   repo="Jamailar/QuickLink-Obsidian"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Quickly create links to files using @ trigger character
 - **下载量**：1.7K
 - **最后更新**：2025-07-16
 - **GitHub**：[Jamailar/QuickLink-Obsidian](https://github.com/Jamailar/QuickLink-Obsidian)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

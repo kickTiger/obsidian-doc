@@ -2,11 +2,11 @@
 title: Code Language Completer
 description: Autosuggests and completes codeblock language options based on history.
 author: Stanley Wang
-downloads: 1180
+downloads: 1181
 updated: 1727211015000
 repo: stanley-910/obsidian-code-language-completer
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Code Language Completer"
   description="Autosuggests and completes codeblock language options based on history."
   author="Stanley Wang"
-  :downloads="1180"
+  :downloads="1181"
   :updated="1727211015000"
   repo="stanley-910/obsidian-code-language-completer"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Autosuggests and completes codeblock language options based on history.
 - **下载量**：1.2K
 - **最后更新**：2024-09-25
 - **GitHub**：[stanley-910/obsidian-code-language-completer](https://github.com/stanley-910/obsidian-code-language-completer)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

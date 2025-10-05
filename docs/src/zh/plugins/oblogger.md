@@ -1,12 +1,12 @@
 ---
 title: oblogger
-description: Tag explorer and frontmatter logger.
+description: 标签资源管理器和前置物质记录器。
 author: loftTech
-downloads: 5745
+downloads: 5746
 updated: 1698534286000
 repo: loftTech/obsidian-oblogger
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="oblogger"
   name="oblogger"
-  description="Tag explorer and frontmatter logger."
+  description="标签资源管理器和前置物质记录器。"
   author="loftTech"
-  :downloads="5745"
+  :downloads="5746"
   :updated="1698534286000"
   repo="loftTech/obsidian-oblogger"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 oblogger 是一个功能强大的 Obsidian 插件。
 
-Tag explorer and frontmatter logger.
+标签资源管理器和前置物质记录器。
 
 通过 oblogger,您可以:
 
@@ -202,7 +202,7 @@ Tag explorer and frontmatter logger.
 - **下载量**：5.7K
 - **最后更新**：2023-10-29
 - **GitHub**：[loftTech/obsidian-oblogger](https://github.com/loftTech/obsidian-oblogger)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

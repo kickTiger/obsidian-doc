@@ -1,12 +1,12 @@
 ---
 title: Diagram Popup
-description: Show diagrams, from Mermaid, PlantUML, Graphviz and so on, in a draggable and zoomable popup
+description: 在可拖动、可缩放的弹出式窗口中显示来自 Mermaid、PlantUML、Graphviz 等的图表
 author: ChenPengyuan
-downloads: 5705
+downloads: 5713
 updated: 1751454596000
 repo: gitcpy/obsidian-diagram-popup
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mermaid-popup"
   name="Diagram Popup"
-  description="Show diagrams, from Mermaid, PlantUML, Graphviz and so on, in a draggable and zoomable popup"
+  description="在可拖动、可缩放的弹出式窗口中显示来自 Mermaid、PlantUML、Graphviz 等的图表"
   author="ChenPengyuan"
-  :downloads="5705"
+  :downloads="5713"
   :updated="1751454596000"
   repo="gitcpy/obsidian-diagram-popup"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Diagram Popup 是一个功能强大的 Obsidian 插件。
 
-Show diagrams, from Mermaid, PlantUML, Graphviz and so on, in a draggable and zoomable popup
+在可拖动、可缩放的弹出式窗口中显示来自 Mermaid、PlantUML、Graphviz 等的图表
 
 通过 Diagram Popup,您可以:
 
@@ -202,7 +202,7 @@ Show diagrams, from Mermaid, PlantUML, Graphviz and so on, in a draggable and zo
 - **下载量**：5.7K
 - **最后更新**：2025-07-02
 - **GitHub**：[gitcpy/obsidian-diagram-popup](https://github.com/gitcpy/obsidian-diagram-popup)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

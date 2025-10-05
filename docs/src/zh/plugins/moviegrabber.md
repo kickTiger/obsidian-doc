@@ -1,12 +1,12 @@
 ---
 title: moviegrabber
-description: Grab movie data from public APIs and transform it into notes that can be used with dataview and properties.
+description: 从公共应用程序接口获取电影数据，并将其转换为可与数据视图和属性一起使用的注释。
 author: Leon Holtmeier
-downloads: 5875
+downloads: 5878
 updated: 1728643977000
 repo: Superschnizel/Obsidian-Moviegrabber
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="moviegrabber"
   name="moviegrabber"
-  description="Grab movie data from public APIs and transform it into notes that can be used with dataview and properties."
+  description="从公共应用程序接口获取电影数据，并将其转换为可与数据视图和属性一起使用的注释。"
   author="Leon Holtmeier"
-  :downloads="5875"
+  :downloads="5878"
   :updated="1728643977000"
   repo="Superschnizel/Obsidian-Moviegrabber"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 moviegrabber 是一个功能强大的 Obsidian 插件。
 
-Grab movie data from public APIs and transform it into notes that can be used with dataview and properties.
+从公共应用程序接口获取电影数据，并将其转换为可与数据视图和属性一起使用的注释。
 
 通过 moviegrabber,您可以:
 
@@ -202,7 +202,7 @@ Grab movie data from public APIs and transform it into notes that can be used wi
 - **下载量**：5.9K
 - **最后更新**：2024-10-11
 - **GitHub**：[Superschnizel/Obsidian-Moviegrabber](https://github.com/Superschnizel/Obsidian-Moviegrabber)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

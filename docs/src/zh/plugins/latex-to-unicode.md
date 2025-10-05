@@ -1,12 +1,12 @@
 ---
 title: LaTeX to Unicode converter
-description: Convert LaTeX commands into unicode sequences.
+description: 将 LaTeX 命令转换为 unicode 序列。
 author: fjdu
-downloads: 4392
+downloads: 4395
 updated: 1677918513000
 repo: fjdu/obsidian-latex-unicode
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="latex-to-unicode"
   name="LaTeX to Unicode converter"
-  description="Convert LaTeX commands into unicode sequences."
+  description="将 LaTeX 命令转换为 unicode 序列。"
   author="fjdu"
-  :downloads="4392"
+  :downloads="4395"
   :updated="1677918513000"
   repo="fjdu/obsidian-latex-unicode"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 LaTeX to Unicode converter 是一个功能强大的 Obsidian 插件。
 
-Convert LaTeX commands into unicode sequences.
+将 LaTeX 命令转换为 unicode 序列。
 
 通过 LaTeX to Unicode converter,您可以:
 
@@ -202,7 +202,7 @@ Convert LaTeX commands into unicode sequences.
 - **下载量**：4.4K
 - **最后更新**：2023-03-04
 - **GitHub**：[fjdu/obsidian-latex-unicode](https://github.com/fjdu/obsidian-latex-unicode)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

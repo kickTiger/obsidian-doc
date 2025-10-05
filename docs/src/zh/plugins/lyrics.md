@@ -2,11 +2,11 @@
 title: Lyrics
 description: Enhance the audio player with interacive lyrics.
 author: eatgrass
-downloads: 3225
+downloads: 3226
 updated: 1708234932000
 repo: eatgrass/obsidian-lyrics
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Lyrics"
   description="Enhance the audio player with interacive lyrics."
   author="eatgrass"
-  :downloads="3225"
+  :downloads="3226"
   :updated="1708234932000"
   repo="eatgrass/obsidian-lyrics"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enhance the audio player with interacive lyrics.
 - **下载量**：3.2K
 - **最后更新**：2024-02-18
 - **GitHub**：[eatgrass/obsidian-lyrics](https://github.com/eatgrass/obsidian-lyrics)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

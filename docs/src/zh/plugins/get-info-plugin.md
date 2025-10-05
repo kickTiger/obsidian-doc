@@ -1,12 +1,12 @@
 ---
 title: Get Info
-description: Tuck a menu inside your status bar and show helpful information for your chosen file.
+description: 在状态栏中添加菜单，显示所选文件的有用信息。
 author: Chetachi
-downloads: 6514
+downloads: 6515
 updated: 1639035545000
 repo: chetachiezikeuzor/Get-Info-Plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="get-info-plugin"
   name="Get Info"
-  description="Tuck a menu inside your status bar and show helpful information for your chosen file."
+  description="在状态栏中添加菜单，显示所选文件的有用信息。"
   author="Chetachi"
-  :downloads="6514"
+  :downloads="6515"
   :updated="1639035545000"
   repo="chetachiezikeuzor/Get-Info-Plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Get Info 是一个功能强大的 Obsidian 插件。
 
-Tuck a menu inside your status bar and show helpful information for your chosen file.
+在状态栏中添加菜单，显示所选文件的有用信息。
 
 通过 Get Info,您可以:
 
@@ -202,7 +202,7 @@ Tuck a menu inside your status bar and show helpful information for your chosen 
 - **下载量**：6.5K
 - **最后更新**：2021-12-09
 - **GitHub**：[chetachiezikeuzor/Get-Info-Plugin](https://github.com/chetachiezikeuzor/Get-Info-Plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Pomodoro Timer
-description: Manage your daily focus using the Pomodoro Technique.
+description: 使用 Pomodoro 技术管理你的日常工作重点。
 author: eatgrass
-downloads: 41379
+downloads: 41424
 updated: 1717052479000
 repo: eatgrass/obsidian-pomodoro-timer
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pomodoro-timer"
   name="Pomodoro Timer"
-  description="Manage your daily focus using the Pomodoro Technique."
+  description="使用 Pomodoro 技术管理你的日常工作重点。"
   author="eatgrass"
-  :downloads="41379"
+  :downloads="41424"
   :updated="1717052479000"
   repo="eatgrass/obsidian-pomodoro-timer"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pomodoro Timer 是一个功能强大的 Obsidian 插件。
 
-Manage your daily focus using the Pomodoro Technique.
+使用 Pomodoro 技术管理你的日常工作重点。
 
 通过 Pomodoro Timer,您可以:
 
@@ -202,7 +202,7 @@ Manage your daily focus using the Pomodoro Technique.
 - **下载量**：41.4K
 - **最后更新**：2024-05-30
 - **GitHub**：[eatgrass/obsidian-pomodoro-timer](https://github.com/eatgrass/obsidian-pomodoro-timer)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Harper
-description: The fastest grammar and spell checker that respects your privacy.
+description: 最快的语法和拼写检查程序，尊重你的隐私。
 author: Elijah Potter
-downloads: 42467
+downloads: 42610
 updated: 1759339159000
 repo: Automattic/harper-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="harper"
   name="Harper"
-  description="The fastest grammar and spell checker that respects your privacy."
+  description="最快的语法和拼写检查程序，尊重你的隐私。"
   author="Elijah Potter"
-  :downloads="42467"
+  :downloads="42610"
   :updated="1759339159000"
   repo="Automattic/harper-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Harper 是一个功能强大的 Obsidian 插件。
 
-The fastest grammar and spell checker that respects your privacy.
+最快的语法和拼写检查程序，尊重你的隐私。
 
 通过 Harper,您可以:
 
@@ -199,10 +199,10 @@ The fastest grammar and spell checker that respects your privacy.
 - **插件 ID**：harper
 - **作者**：Elijah Potter
 - **当前版本**：v1.0.0
-- **下载量**：42.5K
+- **下载量**：42.6K
 - **最后更新**：2025-10-02
 - **GitHub**：[Automattic/harper-obsidian-plugin](https://github.com/Automattic/harper-obsidian-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

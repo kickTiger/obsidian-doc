@@ -6,7 +6,7 @@ downloads: 2822
 updated: 1715277245000
 repo: mrniket/palta-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1715277245000"
   repo="mrniket/palta-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Render Bhatkhande notation for Tabla.
 - **下载量**：2.8K
 - **最后更新**：2024-05-10
 - **GitHub**：[mrniket/palta-obsidian-plugin](https://github.com/mrniket/palta-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

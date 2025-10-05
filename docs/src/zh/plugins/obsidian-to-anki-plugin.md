@@ -1,12 +1,12 @@
 ---
 title: Export to Anki
-description: Anki integration designed for efficient bulk exporting. Previously known as Obsidian_to_Anki.
+description: 专为高效批量导出而设计的 Anki 集成。前身为 Obsidian_to_Anki。
 author: Pseudonium
-downloads: 114081
+downloads: 114154
 updated: 1706065816000
 repo: ObsidianToAnki/Obsidian_to_Anki
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-to-anki-plugin"
   name="Export to Anki"
-  description="Anki integration designed for efficient bulk exporting. Previously known as Obsidian_to_Anki."
+  description="专为高效批量导出而设计的 Anki 集成。前身为 Obsidian_to_Anki。"
   author="Pseudonium"
-  :downloads="114081"
+  :downloads="114154"
   :updated="1706065816000"
   repo="ObsidianToAnki/Obsidian_to_Anki"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Export to Anki 是一个功能强大的 Obsidian 插件。
 
-Anki integration designed for efficient bulk exporting. Previously known as Obsidian_to_Anki.
+专为高效批量导出而设计的 Anki 集成。前身为 Obsidian_to_Anki。
 
 通过 Export to Anki,您可以:
 
@@ -199,10 +199,10 @@ Anki integration designed for efficient bulk exporting. Previously known as Obsi
 - **插件 ID**：obsidian-to-anki-plugin
 - **作者**：Pseudonium
 - **当前版本**：v1.0.0
-- **下载量**：114.1K
+- **下载量**：114.2K
 - **最后更新**：2024-01-24
 - **GitHub**：[ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

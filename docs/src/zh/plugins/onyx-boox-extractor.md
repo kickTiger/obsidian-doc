@@ -1,12 +1,12 @@
 ---
 title: 'Onyx Boox Annotation & Highlight Extractor'
-description: Extract annotations and highlights files exported from Onyx Boox tablets, and convert them to reference, literature and permanent notes fitting to the Zettelkasten method.
+description: 提取从 Onyx Boox 书写板导出的注释和摘要文件，并将其转换为适合 Zettelkasten 方法的参考、文献和永久笔记。
 author: Akos Balasko
-downloads: 5988
+downloads: 5989
 updated: 1667116427000
 repo: akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="onyx-boox-extractor"
   name="Onyx Boox Annotation &amp; Highlight Extractor"
-  description="Extract annotations and highlights files exported from Onyx Boox tablets, and convert them to reference, literature and permanent notes fitting to the Zettelkasten method."
+  description="提取从 Onyx Boox 书写板导出的注释和摘要文件，并将其转换为适合 Zettelkasten 方法的参考、文献和永久笔记。"
   author="Akos Balasko"
-  :downloads="5988"
+  :downloads="5989"
   :updated="1667116427000"
   repo="akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Onyx Boox Annotation &amp; Highlight Extractor 是一个功能强大的 Obsidian 插件。
 
-Extract annotations and highlights files exported from Onyx Boox tablets, and convert them to reference, literature and permanent notes fitting to the Zettelkasten method.
+提取从 Onyx Boox 书写板导出的注释和摘要文件，并将其转换为适合 Zettelkasten 方法的参考、文献和永久笔记。
 
 通过 Onyx Boox Annotation &amp; Highlight Extractor,您可以:
 
@@ -202,7 +202,7 @@ Extract annotations and highlights files exported from Onyx Boox tablets, and co
 - **下载量**：6.0K
 - **最后更新**：2022-10-30
 - **GitHub**：[akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor](https://github.com/akosbalasko/Onyx-Boox-Annotation-Highlight-Extractor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

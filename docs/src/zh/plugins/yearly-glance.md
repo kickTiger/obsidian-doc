@@ -1,12 +1,12 @@
 ---
 title: Yearly Glance
-description: Year at a glance - overview of annual events with customizable management options.
+description: 年度一览--年度活动概览，可定制管理选项。
 author: 'Moy & RavenHogWarts'
-downloads: 5916
+downloads: 5931
 updated: 1755792154000
 repo: Moyf/yearly-glance
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="yearly-glance"
   name="Yearly Glance"
-  description="Year at a glance - overview of annual events with customizable management options."
+  description="年度一览--年度活动概览，可定制管理选项。"
   author="Moy &amp; RavenHogWarts"
-  :downloads="5916"
+  :downloads="5931"
   :updated="1755792154000"
   repo="Moyf/yearly-glance"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Yearly Glance 是一个功能强大的 Obsidian 插件。
 
-Year at a glance - overview of annual events with customizable management options.
+年度一览--年度活动概览，可定制管理选项。
 
 通过 Yearly Glance,您可以:
 
@@ -202,7 +202,7 @@ Year at a glance - overview of annual events with customizable management option
 - **下载量**：5.9K
 - **最后更新**：2025-08-22
 - **GitHub**：[Moyf/yearly-glance](https://github.com/Moyf/yearly-glance)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

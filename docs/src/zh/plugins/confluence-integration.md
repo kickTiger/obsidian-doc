@@ -1,12 +1,12 @@
 ---
 title: Confluence Integration
-description: Publish Markdown content to Atlassian Confluence. It supports some Obsidian Markdown extensions for richer content.
+description: 将 Markdown 内容发布到 Atlassian Confluence。它支持一些 Obsidian Markdown 扩展，可提供更丰富的内容。
 author: andymac4182
-downloads: 13706
+downloads: 13710
 updated: 1695555200000
 repo: markdown-confluence/obsidian-integration
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="confluence-integration"
   name="Confluence Integration"
-  description="Publish Markdown content to Atlassian Confluence. It supports some Obsidian Markdown extensions for richer content."
+  description="将 Markdown 内容发布到 Atlassian Confluence。它支持一些 Obsidian Markdown 扩展，可提供更丰富的内容。"
   author="andymac4182"
-  :downloads="13706"
+  :downloads="13710"
   :updated="1695555200000"
   repo="markdown-confluence/obsidian-integration"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Confluence Integration 是一个功能强大的 Obsidian 插件。
 
-Publish Markdown content to Atlassian Confluence. It supports some Obsidian Markdown extensions for richer content.
+将 Markdown 内容发布到 Atlassian Confluence。它支持一些 Obsidian Markdown 扩展，可提供更丰富的内容。
 
 通过 Confluence Integration,您可以:
 
@@ -202,7 +202,7 @@ Publish Markdown content to Atlassian Confluence. It supports some Obsidian Mark
 - **下载量**：13.7K
 - **最后更新**：2023-09-24
 - **GitHub**：[markdown-confluence/obsidian-integration](https://github.com/markdown-confluence/obsidian-integration)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

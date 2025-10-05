@@ -2,11 +2,11 @@
 title: Heading Decorator
 description: Implement displaying specific content around headings based on their levels.
 author: dragonish
-downloads: 2439
+downloads: 2459
 updated: 1756039181000
 repo: dragonish/obsidian-heading-decorator
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Heading Decorator"
   description="Implement displaying specific content around headings based on their levels."
   author="dragonish"
-  :downloads="2439"
+  :downloads="2459"
   :updated="1756039181000"
   repo="dragonish/obsidian-heading-decorator"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Implement displaying specific content around headings based on their levels.
 - **插件 ID**：heading-decorator
 - **作者**：dragonish
 - **当前版本**：v1.0.0
-- **下载量**：2.4K
+- **下载量**：2.5K
 - **最后更新**：2025-08-24
 - **GitHub**：[dragonish/obsidian-heading-decorator](https://github.com/dragonish/obsidian-heading-decorator)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

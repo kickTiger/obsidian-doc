@@ -6,7 +6,7 @@ downloads: 116
 updated: 1743052976000
 repo: networkmastered/obsidian-compress
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1743052976000"
   repo="networkmastered/obsidian-compress"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Make your files smaller with compression!
 - **下载量**：116
 - **最后更新**：2025-03-27
 - **GitHub**：[networkmastered/obsidian-compress](https://github.com/networkmastered/obsidian-compress)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

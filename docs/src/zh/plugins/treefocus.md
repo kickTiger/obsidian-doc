@@ -1,12 +1,12 @@
 ---
 title: TreeFocus
-description: 'Highlight, dim & style your files & folders in the file explorer (navigation) based on predefined or custom rules.'
+description: 根据预定义或自定义规则，在文件资源管理器（导航）中突出显示、调暗和样式化你的文件和文件夹。
 author: iOSonntag
-downloads: 6013
+downloads: 6017
 updated: 1703677990000
 repo: iOSonntag/obsidian-plugin-treefocus
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="treefocus"
   name="TreeFocus"
-  description="Highlight, dim &amp; style your files &amp; folders in the file explorer (navigation) based on predefined or custom rules."
+  description="根据预定义或自定义规则，在文件资源管理器（导航）中突出显示、调暗和样式化你的文件和文件夹。"
   author="iOSonntag"
-  :downloads="6013"
+  :downloads="6017"
   :updated="1703677990000"
   repo="iOSonntag/obsidian-plugin-treefocus"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 TreeFocus 是一个功能强大的 Obsidian 插件。
 
-Highlight, dim &amp; style your files &amp; folders in the file explorer (navigation) based on predefined or custom rules.
+根据预定义或自定义规则，在文件资源管理器（导航）中突出显示、调暗和样式化你的文件和文件夹。
 
 通过 TreeFocus,您可以:
 
@@ -202,7 +202,7 @@ Highlight, dim &amp; style your files &amp; folders in the file explorer (naviga
 - **下载量**：6.0K
 - **最后更新**：2023-12-27
 - **GitHub**：[iOSonntag/obsidian-plugin-treefocus](https://github.com/iOSonntag/obsidian-plugin-treefocus)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

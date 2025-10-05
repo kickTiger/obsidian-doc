@@ -1,12 +1,12 @@
 ---
 title: x86 Assembly Flow Graphing
-description: Convert well formatted x86 assembly into appropriate flow graphs using Obsidian canvases.
+description: 使用 Obsidian 画布将格式化良好的 x86 程序集转换为适当的流程图。
 author: icebear
 downloads: 4321
 updated: 1678729937000
 repo: dwolfe884/obsidian-x86-flow-graph
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="x86-flow-graphing"
   name="x86 Assembly Flow Graphing"
-  description="Convert well formatted x86 assembly into appropriate flow graphs using Obsidian canvases."
+  description="使用 Obsidian 画布将格式化良好的 x86 程序集转换为适当的流程图。"
   author="icebear"
   :downloads="4321"
   :updated="1678729937000"
   repo="dwolfe884/obsidian-x86-flow-graph"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 x86 Assembly Flow Graphing 是一个功能强大的 Obsidian 插件。
 
-Convert well formatted x86 assembly into appropriate flow graphs using Obsidian canvases.
+使用 Obsidian 画布将格式化良好的 x86 程序集转换为适当的流程图。
 
 通过 x86 Assembly Flow Graphing,您可以:
 
@@ -202,7 +202,7 @@ Convert well formatted x86 assembly into appropriate flow graphs using Obsidian 
 - **下载量**：4.3K
 - **最后更新**：2023-03-14
 - **GitHub**：[dwolfe884/obsidian-x86-flow-graph](https://github.com/dwolfe884/obsidian-x86-flow-graph)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

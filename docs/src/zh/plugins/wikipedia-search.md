@@ -1,12 +1,12 @@
 ---
 title: Wikipedia Helper
-description: Search, link, insert and open Wikipedia/Wikimedia articles.
+description: 搜索、链接、插入和打开维基百科/维基媒体文章。
 author: StrangeGirlMurph
-downloads: 20732
+downloads: 20743
 updated: 1749722757000
 repo: StrangeGirlMurph/obsidian-wikipedia-helper
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="wikipedia-search"
   name="Wikipedia Helper"
-  description="Search, link, insert and open Wikipedia/Wikimedia articles."
+  description="搜索、链接、插入和打开维基百科/维基媒体文章。"
   author="StrangeGirlMurph"
-  :downloads="20732"
+  :downloads="20743"
   :updated="1749722757000"
   repo="StrangeGirlMurph/obsidian-wikipedia-helper"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Wikipedia Helper 是一个功能强大的 Obsidian 插件。
 
-Search, link, insert and open Wikipedia/Wikimedia articles.
+搜索、链接、插入和打开维基百科/维基媒体文章。
 
 通过 Wikipedia Helper,您可以:
 
@@ -202,7 +202,7 @@ Search, link, insert and open Wikipedia/Wikimedia articles.
 - **下载量**：20.7K
 - **最后更新**：2025-06-12
 - **GitHub**：[StrangeGirlMurph/obsidian-wikipedia-helper](https://github.com/StrangeGirlMurph/obsidian-wikipedia-helper)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

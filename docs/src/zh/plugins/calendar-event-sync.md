@@ -6,7 +6,7 @@ downloads: 987
 updated: 1730215926000
 repo: stephendolan/obsidian-calendar-event-sync
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1730215926000"
   repo="stephendolan/obsidian-calendar-event-sync"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync your current note with a relevant calendar event.
 - **下载量**：987
 - **最后更新**：2024-10-29
 - **GitHub**：[stephendolan/obsidian-calendar-event-sync](https://github.com/stephendolan/obsidian-calendar-event-sync)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

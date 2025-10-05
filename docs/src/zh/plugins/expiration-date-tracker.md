@@ -2,11 +2,11 @@
 title: Expiration-Date-Tracker
 description: Keep track of all expiration dates, for example, for your groceries.
 author: Marius Wörfel
-downloads: 3097
+downloads: 3098
 updated: 1696711916000
 repo: Raboro/obsidian-expiration-date-tracker-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Expiration-Date-Tracker"
   description="Keep track of all expiration dates, for example, for your groceries."
   author="Marius Wörfel"
-  :downloads="3097"
+  :downloads="3098"
   :updated="1696711916000"
   repo="Raboro/obsidian-expiration-date-tracker-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Keep track of all expiration dates, for example, for your groceries.
 - **下载量**：3.1K
 - **最后更新**：2023-10-08
 - **GitHub**：[Raboro/obsidian-expiration-date-tracker-plugin](https://github.com/Raboro/obsidian-expiration-date-tracker-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

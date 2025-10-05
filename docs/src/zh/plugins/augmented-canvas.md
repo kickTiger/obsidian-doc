@@ -1,12 +1,12 @@
 ---
 title: Augmented Canvas
-description: Augment Canvas with AI features.
+description: 用人工智能功能增强画布功能。
 author: Léopold Szabatura
-downloads: 4702
+downloads: 4710
 updated: 1732460842000
 repo: MetaCorp/obsidian-augmented-canvas
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="augmented-canvas"
   name="Augmented Canvas"
-  description="Augment Canvas with AI features."
+  description="用人工智能功能增强画布功能。"
   author="Léopold Szabatura"
-  :downloads="4702"
+  :downloads="4710"
   :updated="1732460842000"
   repo="MetaCorp/obsidian-augmented-canvas"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Augmented Canvas 是一个功能强大的 Obsidian 插件。
 
-Augment Canvas with AI features.
+用人工智能功能增强画布功能。
 
 通过 Augmented Canvas,您可以:
 
@@ -202,7 +202,7 @@ Augment Canvas with AI features.
 - **下载量**：4.7K
 - **最后更新**：2024-11-24
 - **GitHub**：[MetaCorp/obsidian-augmented-canvas](https://github.com/MetaCorp/obsidian-augmented-canvas)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

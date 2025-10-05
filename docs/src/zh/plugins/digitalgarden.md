@@ -1,12 +1,12 @@
 ---
 title: Digital Garden
-description: Publish your notes to a digital garden for others to enjoy.
+description: 将您的笔记发布到数字花园，供他人欣赏。
 author: Ole Eskild Steensen
-downloads: 54688
+downloads: 54759
 updated: 1751891809000
 repo: oleeskild/obsidian-digital-garden
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="digitalgarden"
   name="Digital Garden"
-  description="Publish your notes to a digital garden for others to enjoy."
+  description="将您的笔记发布到数字花园，供他人欣赏。"
   author="Ole Eskild Steensen"
-  :downloads="54688"
+  :downloads="54759"
   :updated="1751891809000"
   repo="oleeskild/obsidian-digital-garden"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Digital Garden 是一个功能强大的 Obsidian 插件。
 
-Publish your notes to a digital garden for others to enjoy.
+将您的笔记发布到数字花园，供他人欣赏。
 
 通过 Digital Garden,您可以:
 
@@ -199,10 +199,10 @@ Publish your notes to a digital garden for others to enjoy.
 - **插件 ID**：digitalgarden
 - **作者**：Ole Eskild Steensen
 - **当前版本**：v1.0.0
-- **下载量**：54.7K
+- **下载量**：54.8K
 - **最后更新**：2025-07-07
 - **GitHub**：[oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Auto Filename
-description: Automatically rename files on the go based on the first x characters of files.
+description: 根据文件的前 x 个字符自动重命名文件。
 author: rcsaquino
-downloads: 5652
+downloads: 5659
 updated: 1706436566000
 repo: rcsaquino/obsidian-auto-filename
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-filename"
   name="Auto Filename"
-  description="Automatically rename files on the go based on the first x characters of files."
+  description="根据文件的前 x 个字符自动重命名文件。"
   author="rcsaquino"
-  :downloads="5652"
+  :downloads="5659"
   :updated="1706436566000"
   repo="rcsaquino/obsidian-auto-filename"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Filename 是一个功能强大的 Obsidian 插件。
 
-Automatically rename files on the go based on the first x characters of files.
+根据文件的前 x 个字符自动重命名文件。
 
 通过 Auto Filename,您可以:
 
@@ -202,7 +202,7 @@ Automatically rename files on the go based on the first x characters of files.
 - **下载量**：5.7K
 - **最后更新**：2024-01-28
 - **GitHub**：[rcsaquino/obsidian-auto-filename](https://github.com/rcsaquino/obsidian-auto-filename)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

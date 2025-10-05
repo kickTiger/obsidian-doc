@@ -2,11 +2,11 @@
 title: Weekly Goal Tracker
 description: Keep track of weekly goals in the status bar
 author: George Gorman
-downloads: 875
+downloads: 876
 updated: 1736017364000
 repo: GitGorman/weekly-goal-tracker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Weekly Goal Tracker"
   description="Keep track of weekly goals in the status bar"
   author="George Gorman"
-  :downloads="875"
+  :downloads="876"
   :updated="1736017364000"
   repo="GitGorman/weekly-goal-tracker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Keep track of weekly goals in the status bar
 - **插件 ID**：weekly-goal-tracker
 - **作者**：George Gorman
 - **当前版本**：v1.0.0
-- **下载量**：875
+- **下载量**：876
 - **最后更新**：2025-01-05
 - **GitHub**：[GitGorman/weekly-goal-tracker](https://github.com/GitGorman/weekly-goal-tracker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

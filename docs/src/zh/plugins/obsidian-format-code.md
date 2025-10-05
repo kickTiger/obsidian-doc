@@ -1,12 +1,12 @@
 ---
 title: Format code blocks of various languages
-description: Commands to format code (internally uses prettier).
+description: 格式化代码的命令（内部使用 prettier）。
 author: iVariable
-downloads: 10787
+downloads: 10792
 updated: 1647709702000
 repo: iVariable/Obsidian-Format-Code
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-format-code"
   name="Format code blocks of various languages"
-  description="Commands to format code (internally uses prettier)."
+  description="格式化代码的命令（内部使用 prettier）。"
   author="iVariable"
-  :downloads="10787"
+  :downloads="10792"
   :updated="1647709702000"
   repo="iVariable/Obsidian-Format-Code"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Format code blocks of various languages 是一个功能强大的 Obsidian 插件。
 
-Commands to format code (internally uses prettier).
+格式化代码的命令（内部使用 prettier）。
 
 通过 Format code blocks of various languages,您可以:
 
@@ -202,7 +202,7 @@ Commands to format code (internally uses prettier).
 - **下载量**：10.8K
 - **最后更新**：2022-03-20
 - **GitHub**：[iVariable/Obsidian-Format-Code](https://github.com/iVariable/Obsidian-Format-Code)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

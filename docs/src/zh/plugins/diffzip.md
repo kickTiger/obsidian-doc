@@ -1,12 +1,12 @@
 ---
 title: Differential ZIP Backup
-description: Back our vault up with lesser storage.
+description: 用更少的存储空间来支持我们的保险库。
 author: vorotamoroz
-downloads: 6455
+downloads: 6481
 updated: 1756888912000
 repo: vrtmrz/diffzip
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="diffzip"
   name="Differential ZIP Backup"
-  description="Back our vault up with lesser storage."
+  description="用更少的存储空间来支持我们的保险库。"
   author="vorotamoroz"
-  :downloads="6455"
+  :downloads="6481"
   :updated="1756888912000"
   repo="vrtmrz/diffzip"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Differential ZIP Backup 是一个功能强大的 Obsidian 插件。
 
-Back our vault up with lesser storage.
+用更少的存储空间来支持我们的保险库。
 
 通过 Differential ZIP Backup,您可以:
 
@@ -202,7 +202,7 @@ Back our vault up with lesser storage.
 - **下载量**：6.5K
 - **最后更新**：2025-09-03
 - **GitHub**：[vrtmrz/diffzip](https://github.com/vrtmrz/diffzip)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

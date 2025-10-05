@@ -1,12 +1,12 @@
 ---
 title: Crumbs
-description: Breadcrumb navigation.
+description: 面包屑导航
 author: Tony Grosinger
-downloads: 5695
+downloads: 5698
 updated: 1690133258000
 repo: tgrosinger/crumbs-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="crumbs-obsidian"
   name="Crumbs"
-  description="Breadcrumb navigation."
+  description="面包屑导航"
   author="Tony Grosinger"
-  :downloads="5695"
+  :downloads="5698"
   :updated="1690133258000"
   repo="tgrosinger/crumbs-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Crumbs 是一个功能强大的 Obsidian 插件。
 
-Breadcrumb navigation.
+面包屑导航
 
 通过 Crumbs,您可以:
 
@@ -202,7 +202,7 @@ Breadcrumb navigation.
 - **下载量**：5.7K
 - **最后更新**：2023-07-24
 - **GitHub**：[tgrosinger/crumbs-obsidian](https://github.com/tgrosinger/crumbs-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

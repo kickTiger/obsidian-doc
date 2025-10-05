@@ -2,11 +2,11 @@
 title: Vector Search
 description: Semantic search for your notes using Ollama and nomic-embed-text embeddings. Requires Ollama installation.
 author: Ashwin A Murali
-downloads: 1259
+downloads: 1261
 updated: 1739764271000
 repo: ashwin271/obsidian-vector-search
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Vector Search"
   description="Semantic search for your notes using Ollama and nomic-embed-text embeddings. Requires Ollama installation."
   author="Ashwin A Murali"
-  :downloads="1259"
+  :downloads="1261"
   :updated="1739764271000"
   repo="ashwin271/obsidian-vector-search"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Semantic search for your notes using Ollama and nomic-embed-text embeddings. Req
 - **下载量**：1.3K
 - **最后更新**：2025-02-17
 - **GitHub**：[ashwin271/obsidian-vector-search](https://github.com/ashwin271/obsidian-vector-search)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

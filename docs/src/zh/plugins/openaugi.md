@@ -2,11 +2,11 @@
 title: OpenAugi
 description: 'Parse your voice notes into atomic notes, tasks, and summaries. OpenAugi is the voice to self-organizing second brain. While taking a voice note say ''auggie'' to help the agent. Augmented Intelligence is AI for thinkers.'
 author: Chris Lettieri
-downloads: 472
+downloads: 474
 updated: 1753705003000
 repo: bitsofchris/openaugi-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="OpenAugi"
   description="Parse your voice notes into atomic notes, tasks, and summaries. OpenAugi is the voice to self-organizing second brain. While taking a voice note say &#39;auggie&#39; to help the agent. Augmented Intelligence is AI for thinkers."
   author="Chris Lettieri"
-  :downloads="472"
+  :downloads="474"
   :updated="1753705003000"
   repo="bitsofchris/openaugi-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Parse your voice notes into atomic notes, tasks, and summaries. OpenAugi is the 
 - **插件 ID**：openaugi
 - **作者**：Chris Lettieri
 - **当前版本**：v1.0.0
-- **下载量**：472
+- **下载量**：474
 - **最后更新**：2025-07-28
 - **GitHub**：[bitsofchris/openaugi-obsidian-plugin](https://github.com/bitsofchris/openaugi-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

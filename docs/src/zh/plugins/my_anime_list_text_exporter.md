@@ -2,11 +2,11 @@
 title: my anime list text exporter
 description: add anime data for your notes.
 author: XmoncocoX
-downloads: 2498
+downloads: 2500
 updated: 1722376784000
 repo: Xmoncoco/my_anime_list_text_exporter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="my anime list text exporter"
   description="add anime data for your notes."
   author="XmoncocoX"
-  :downloads="2498"
+  :downloads="2500"
   :updated="1722376784000"
   repo="Xmoncoco/my_anime_list_text_exporter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ add anime data for your notes.
 - **下载量**：2.5K
 - **最后更新**：2024-07-31
 - **GitHub**：[Xmoncoco/my_anime_list_text_exporter](https://github.com/Xmoncoco/my_anime_list_text_exporter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

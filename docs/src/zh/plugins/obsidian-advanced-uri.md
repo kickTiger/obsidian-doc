@@ -1,12 +1,12 @@
 ---
 title: Advanced URI
-description: Control everything with URI.
+description: 通过URI控制一切。
 author: Vinzent
-downloads: 493003
+downloads: 493334
 updated: 1756198566000
 repo: Vinzent03/obsidian-advanced-uri
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-advanced-uri"
   name="Advanced URI"
-  description="Control everything with URI."
+  description="通过URI控制一切。"
   author="Vinzent"
-  :downloads="493003"
+  :downloads="493334"
   :updated="1756198566000"
   repo="Vinzent03/obsidian-advanced-uri"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Advanced URI 是一个功能强大的 Obsidian 插件。
 
-Control everything with URI.
+通过URI控制一切。
 
 通过 Advanced URI,您可以:
 
@@ -199,10 +199,10 @@ Control everything with URI.
 - **插件 ID**：obsidian-advanced-uri
 - **作者**：Vinzent
 - **当前版本**：v1.0.0
-- **下载量**：493.0K
+- **下载量**：493.3K
 - **最后更新**：2025-08-26
 - **GitHub**：[Vinzent03/obsidian-advanced-uri](https://github.com/Vinzent03/obsidian-advanced-uri)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

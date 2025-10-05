@@ -1,12 +1,12 @@
 ---
 title: Org Mode
-description: Add Org Mode support.
+description: 添加机关模式支持。
 author: ryanpcmcquen
-downloads: 13222
+downloads: 13226
 updated: 1732776486000
 repo: ryanpcmcquen/obsidian-org-mode
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-org-mode"
   name="Org Mode"
-  description="Add Org Mode support."
+  description="添加机关模式支持。"
   author="ryanpcmcquen"
-  :downloads="13222"
+  :downloads="13226"
   :updated="1732776486000"
   repo="ryanpcmcquen/obsidian-org-mode"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Org Mode 是一个功能强大的 Obsidian 插件。
 
-Add Org Mode support.
+添加机关模式支持。
 
 通过 Org Mode,您可以:
 
@@ -202,7 +202,7 @@ Add Org Mode support.
 - **下载量**：13.2K
 - **最后更新**：2024-11-28
 - **GitHub**：[ryanpcmcquen/obsidian-org-mode](https://github.com/ryanpcmcquen/obsidian-org-mode)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

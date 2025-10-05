@@ -6,7 +6,7 @@ downloads: 1944
 updated: 1728136774000
 repo: jaewonE/checkbox-styling-helper
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1728136774000"
   repo="jaewonE/checkbox-styling-helper"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Helps you styling checkboxes in preview mode.
 - **下载量**：1.9K
 - **最后更新**：2024-10-05
 - **GitHub**：[jaewonE/checkbox-styling-helper](https://github.com/jaewonE/checkbox-styling-helper)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

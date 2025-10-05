@@ -6,7 +6,7 @@ downloads: 2157
 updated: 1698618557000
 repo: danielegrazzini/adjacency-matrix-exporter
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1698618557000"
   repo="danielegrazzini/adjacency-matrix-exporter"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create a numerical adjacency matrix of your vault in two ways: Absolute and Norm
 - **下载量**：2.2K
 - **最后更新**：2023-10-30
 - **GitHub**：[danielegrazzini/adjacency-matrix-exporter](https://github.com/danielegrazzini/adjacency-matrix-exporter)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

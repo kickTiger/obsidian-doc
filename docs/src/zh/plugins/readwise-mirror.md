@@ -1,12 +1,12 @@
 ---
 title: Readwise Mirror
-description: Mirror your Readwise library.
+description: 镜像您的 Readwise 图书馆。
 author: jsonmartin
-downloads: 11717
+downloads: 11745
 updated: 1759172065000
 repo: jsonMartin/readwise-mirror
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="readwise-mirror"
   name="Readwise Mirror"
-  description="Mirror your Readwise library."
+  description="镜像您的 Readwise 图书馆。"
   author="jsonmartin"
-  :downloads="11717"
+  :downloads="11745"
   :updated="1759172065000"
   repo="jsonMartin/readwise-mirror"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Readwise Mirror 是一个功能强大的 Obsidian 插件。
 
-Mirror your Readwise library.
+镜像您的 Readwise 图书馆。
 
 通过 Readwise Mirror,您可以:
 
@@ -202,7 +202,7 @@ Mirror your Readwise library.
 - **下载量**：11.7K
 - **最后更新**：2025-09-30
 - **GitHub**：[jsonMartin/readwise-mirror](https://github.com/jsonMartin/readwise-mirror)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

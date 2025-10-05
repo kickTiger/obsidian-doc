@@ -1,12 +1,12 @@
 ---
 title: Various Complements
-description: Complete words similar to auto-completion in an IDE.
+description: 类似IDE中的自动补全功能。
 author: tadashi-aikawa
-downloads: 397290
+downloads: 397633
 updated: 1756629312000
 repo: tadashi-aikawa/obsidian-various-complements-plugin
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="various-complements"
   name="Various Complements"
-  description="Complete words similar to auto-completion in an IDE."
+  description="类似IDE中的自动补全功能。"
   author="tadashi-aikawa"
-  :downloads="397290"
+  :downloads="397633"
   :updated="1756629312000"
   repo="tadashi-aikawa/obsidian-various-complements-plugin"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Various Complements 是一个功能强大的 Obsidian 插件。
 
-Complete words similar to auto-completion in an IDE.
+类似IDE中的自动补全功能。
 
 通过 Various Complements,您可以:
 
@@ -199,10 +199,10 @@ Complete words similar to auto-completion in an IDE.
 - **插件 ID**：various-complements
 - **作者**：tadashi-aikawa
 - **当前版本**：v1.0.0
-- **下载量**：397.3K
+- **下载量**：397.6K
 - **最后更新**：2025-08-31
 - **GitHub**：[tadashi-aikawa/obsidian-various-complements-plugin](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

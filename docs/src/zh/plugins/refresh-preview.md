@@ -1,12 +1,12 @@
 ---
 title: Refresh Any View
-description: Allows to refresh any view without reopening it.
+description: 允许刷新任何视图，而无需重新打开。
 author: mnaoumov
-downloads: 6841
+downloads: 6882
 updated: 1759384305000
 repo: mnaoumov/obsidian-refresh-any-view
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="refresh-preview"
   name="Refresh Any View"
-  description="Allows to refresh any view without reopening it."
+  description="允许刷新任何视图，而无需重新打开。"
   author="mnaoumov"
-  :downloads="6841"
+  :downloads="6882"
   :updated="1759384305000"
   repo="mnaoumov/obsidian-refresh-any-view"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Refresh Any View 是一个功能强大的 Obsidian 插件。
 
-Allows to refresh any view without reopening it.
+允许刷新任何视图，而无需重新打开。
 
 通过 Refresh Any View,您可以:
 
@@ -199,10 +199,10 @@ Allows to refresh any view without reopening it.
 - **插件 ID**：refresh-preview
 - **作者**：mnaoumov
 - **当前版本**：v1.0.0
-- **下载量**：6.8K
+- **下载量**：6.9K
 - **最后更新**：2025-10-02
 - **GitHub**：[mnaoumov/obsidian-refresh-any-view](https://github.com/mnaoumov/obsidian-refresh-any-view)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

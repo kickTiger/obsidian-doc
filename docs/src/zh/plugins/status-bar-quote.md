@@ -1,12 +1,12 @@
 ---
 title: Status Bar Quote
-description: Show your favorite quote in the status bar.
+description: 在状态栏中显示你最喜欢的一句话。
 author: Jinu
 downloads: 4193
 updated: 1665905572000
 repo: yesjinu/StatusBarQuote
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="status-bar-quote"
   name="Status Bar Quote"
-  description="Show your favorite quote in the status bar."
+  description="在状态栏中显示你最喜欢的一句话。"
   author="Jinu"
   :downloads="4193"
   :updated="1665905572000"
   repo="yesjinu/StatusBarQuote"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Status Bar Quote 是一个功能强大的 Obsidian 插件。
 
-Show your favorite quote in the status bar.
+在状态栏中显示你最喜欢的一句话。
 
 通过 Status Bar Quote,您可以:
 
@@ -202,7 +202,7 @@ Show your favorite quote in the status bar.
 - **下载量**：4.2K
 - **最后更新**：2022-10-16
 - **GitHub**：[yesjinu/StatusBarQuote](https://github.com/yesjinu/StatusBarQuote)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: ZettelGPT
-description: Effortlessly generate context-aware answers from ChatGPT, while maintaining a visually clear and organized conversation history.
+description: 从 ChatGPT 轻松生成上下文感知答案，同时保持直观清晰的对话历史记录。
 author: Overraddit
-downloads: 4888
+downloads: 4889
 updated: 1682005053000
 repo: OverRaddit/ZettelGPT
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="zettelgpt"
   name="ZettelGPT"
-  description="Effortlessly generate context-aware answers from ChatGPT, while maintaining a visually clear and organized conversation history."
+  description="从 ChatGPT 轻松生成上下文感知答案，同时保持直观清晰的对话历史记录。"
   author="Overraddit"
-  :downloads="4888"
+  :downloads="4889"
   :updated="1682005053000"
   repo="OverRaddit/ZettelGPT"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ZettelGPT 是一个功能强大的 Obsidian 插件。
 
-Effortlessly generate context-aware answers from ChatGPT, while maintaining a visually clear and organized conversation history.
+从 ChatGPT 轻松生成上下文感知答案，同时保持直观清晰的对话历史记录。
 
 通过 ZettelGPT,您可以:
 
@@ -202,7 +202,7 @@ Effortlessly generate context-aware answers from ChatGPT, while maintaining a vi
 - **下载量**：4.9K
 - **最后更新**：2023-04-20
 - **GitHub**：[OverRaddit/ZettelGPT](https://github.com/OverRaddit/ZettelGPT)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

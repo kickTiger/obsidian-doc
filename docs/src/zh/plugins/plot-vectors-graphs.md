@@ -2,11 +2,11 @@
 title: Plot Vectors and Graphs
 description: Generates graphs and vectors.
 author: Nicole Tan YiTong
-downloads: 990
+downloads: 994
 updated: 1716794427000
 repo: nicoletanyt/obsidian-plugin-graphs
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Plot Vectors and Graphs"
   description="Generates graphs and vectors."
   author="Nicole Tan YiTong"
-  :downloads="990"
+  :downloads="994"
   :updated="1716794427000"
   repo="nicoletanyt/obsidian-plugin-graphs"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Generates graphs and vectors.
 - **插件 ID**：plot-vectors-graphs
 - **作者**：Nicole Tan YiTong
 - **当前版本**：v1.0.0
-- **下载量**：990
+- **下载量**：994
 - **最后更新**：2024-05-27
 - **GitHub**：[nicoletanyt/obsidian-plugin-graphs](https://github.com/nicoletanyt/obsidian-plugin-graphs)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

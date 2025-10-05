@@ -2,11 +2,11 @@
 title: Textgrams
 description: Store and visualise ASCII graphics and charts
 author: Akop Kesheshyan
-downloads: 1009
+downloads: 1011
 updated: 1733224869000
 repo: akopdev/obsidian-textgrams
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Textgrams"
   description="Store and visualise ASCII graphics and charts"
   author="Akop Kesheshyan"
-  :downloads="1009"
+  :downloads="1011"
   :updated="1733224869000"
   repo="akopdev/obsidian-textgrams"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Store and visualise ASCII graphics and charts
 - **下载量**：1.0K
 - **最后更新**：2024-12-03
 - **GitHub**：[akopdev/obsidian-textgrams](https://github.com/akopdev/obsidian-textgrams)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

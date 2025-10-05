@@ -2,11 +2,11 @@
 title: Letterboxd Diary RSS Sync
 description: Syncs your public Letterboxd diary.
 author: Nick Felker
-downloads: 1144
+downloads: 1147
 updated: 1736990547000
 repo: Fleker/letterboxd-for-obsidian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Letterboxd Diary RSS Sync"
   description="Syncs your public Letterboxd diary."
   author="Nick Felker"
-  :downloads="1144"
+  :downloads="1147"
   :updated="1736990547000"
   repo="Fleker/letterboxd-for-obsidian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Syncs your public Letterboxd diary.
 - **下载量**：1.1K
 - **最后更新**：2025-01-16
 - **GitHub**：[Fleker/letterboxd-for-obsidian](https://github.com/Fleker/letterboxd-for-obsidian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

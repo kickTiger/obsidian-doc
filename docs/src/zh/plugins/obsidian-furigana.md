@@ -1,12 +1,12 @@
 ---
 title: Furigana
-description: 'Display furigana using <ruby> syntax.'
+description: '使用 <ruby> 语法显示假名。'
 author: Koppa
-downloads: 6009
+downloads: 6013
 updated: 1739251378000
 repo: uonr/obsidian-furigana
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-furigana"
   name="Furigana"
-  description="Display furigana using &lt;ruby&gt; syntax."
+  description="使用 &lt;ruby&gt; 语法显示假名。"
   author="Koppa"
-  :downloads="6009"
+  :downloads="6013"
   :updated="1739251378000"
   repo="uonr/obsidian-furigana"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Furigana 是一个功能强大的 Obsidian 插件。
 
-Display furigana using &lt;ruby&gt; syntax.
+使用 &lt;ruby&gt; 语法显示假名。
 
 通过 Furigana,您可以:
 
@@ -202,7 +202,7 @@ Display furigana using &lt;ruby&gt; syntax.
 - **下载量**：6.0K
 - **最后更新**：2025-02-11
 - **GitHub**：[uonr/obsidian-furigana](https://github.com/uonr/obsidian-furigana)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Floating Highlights
-description: Adding animations to focus more on the highlights as you scroll down while in reading mode.
+description: 添加动画，使您在阅读模式下向下滚动时更加关注重点内容。
 author: Karthik S Raju
-downloads: 4382
+downloads: 4385
 updated: 1678683076000
 repo: KarthikRaju391/obsidian-float
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="floating-highlights"
   name="Floating Highlights"
-  description="Adding animations to focus more on the highlights as you scroll down while in reading mode."
+  description="添加动画，使您在阅读模式下向下滚动时更加关注重点内容。"
   author="Karthik S Raju"
-  :downloads="4382"
+  :downloads="4385"
   :updated="1678683076000"
   repo="KarthikRaju391/obsidian-float"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Floating Highlights 是一个功能强大的 Obsidian 插件。
 
-Adding animations to focus more on the highlights as you scroll down while in reading mode.
+添加动画，使您在阅读模式下向下滚动时更加关注重点内容。
 
 通过 Floating Highlights,您可以:
 
@@ -202,7 +202,7 @@ Adding animations to focus more on the highlights as you scroll down while in re
 - **下载量**：4.4K
 - **最后更新**：2023-03-13
 - **GitHub**：[KarthikRaju391/obsidian-float](https://github.com/KarthikRaju391/obsidian-float)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

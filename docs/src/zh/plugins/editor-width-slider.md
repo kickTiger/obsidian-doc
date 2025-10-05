@@ -1,12 +1,12 @@
 ---
 title: Editor Width Slider
-description: 'Customize Obsidian''s editor width with a slider for a tailored editing experience.'
+description: 使用滑块自定义 Obsidian 编辑器的宽度，获得量身定制的编辑体验。
 author: '@MugishoMp'
-downloads: 49988
+downloads: 50068
 updated: 1697622562000
 repo: MugishoMp/obsidian-editor-width-slider
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="editor-width-slider"
   name="Editor Width Slider"
-  description="Customize Obsidian&#39;s editor width with a slider for a tailored editing experience."
+  description="使用滑块自定义 Obsidian 编辑器的宽度，获得量身定制的编辑体验。"
   author="@MugishoMp"
-  :downloads="49988"
+  :downloads="50068"
   :updated="1697622562000"
   repo="MugishoMp/obsidian-editor-width-slider"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Editor Width Slider 是一个功能强大的 Obsidian 插件。
 
-Customize Obsidian&#39;s editor width with a slider for a tailored editing experience.
+使用滑块自定义 Obsidian 编辑器的宽度，获得量身定制的编辑体验。
 
 通过 Editor Width Slider,您可以:
 
@@ -199,10 +199,10 @@ Customize Obsidian&#39;s editor width with a slider for a tailored editing exper
 - **插件 ID**：editor-width-slider
 - **作者**：@MugishoMp
 - **当前版本**：v1.0.0
-- **下载量**：50.0K
+- **下载量**：50.1K
 - **最后更新**：2023-10-18
 - **GitHub**：[MugishoMp/obsidian-editor-width-slider](https://github.com/MugishoMp/obsidian-editor-width-slider)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

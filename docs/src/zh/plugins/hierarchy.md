@@ -6,7 +6,7 @@ downloads: 811
 updated: 1739695217000
 repo: kdnk/obsidian-hierarchy
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1739695217000"
   repo="kdnk/obsidian-hierarchy"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Visualize the hierarchy of your link.
 - **下载量**：811
 - **最后更新**：2025-02-16
 - **GitHub**：[kdnk/obsidian-hierarchy](https://github.com/kdnk/obsidian-hierarchy)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

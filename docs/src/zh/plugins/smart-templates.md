@@ -1,12 +1,12 @@
 ---
 title: Smart Templates
-description: 'AI powered templates for generating structured content. Works with Local Models, Anthropic Claude, Gemini, OpenAI & more.'
+description: 人工智能驱动的模板，用于生成结构化内容。可与 Local Models、Anthropic Claude、Gemini、OpenAI 等协同工作。
 author: 🌴 Brian Petro
-downloads: 6114
+downloads: 6140
 updated: 1755791811000
 repo: brianpetro/obsidian-smart-templates
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smart-templates"
   name="Smart Templates"
-  description="AI powered templates for generating structured content. Works with Local Models, Anthropic Claude, Gemini, OpenAI &amp; more."
+  description="人工智能驱动的模板，用于生成结构化内容。可与 Local Models、Anthropic Claude、Gemini、OpenAI 等协同工作。"
   author="🌴 Brian Petro"
-  :downloads="6114"
+  :downloads="6140"
   :updated="1755791811000"
   repo="brianpetro/obsidian-smart-templates"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Templates 是一个功能强大的 Obsidian 插件。
 
-AI powered templates for generating structured content. Works with Local Models, Anthropic Claude, Gemini, OpenAI &amp; more.
+人工智能驱动的模板，用于生成结构化内容。可与 Local Models、Anthropic Claude、Gemini、OpenAI 等协同工作。
 
 通过 Smart Templates,您可以:
 
@@ -202,7 +202,7 @@ AI powered templates for generating structured content. Works with Local Models,
 - **下载量**：6.1K
 - **最后更新**：2025-08-21
 - **GitHub**：[brianpetro/obsidian-smart-templates](https://github.com/brianpetro/obsidian-smart-templates)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: YTranscript
-description: Easily fetch transcription for any YouTube video.
+description: 轻松获取任何 YouTube 视频的转录。
 author: Łukasz Strzępek
-downloads: 31162
+downloads: 31202
 updated: 1752605960000
 repo: lstrzepek/obsidian-yt-transcript
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ytranscript"
   name="YTranscript"
-  description="Easily fetch transcription for any YouTube video."
+  description="轻松获取任何 YouTube 视频的转录。"
   author="Łukasz Strzępek"
-  :downloads="31162"
+  :downloads="31202"
   :updated="1752605960000"
   repo="lstrzepek/obsidian-yt-transcript"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 YTranscript 是一个功能强大的 Obsidian 插件。
 
-Easily fetch transcription for any YouTube video.
+轻松获取任何 YouTube 视频的转录。
 
 通过 YTranscript,您可以:
 
@@ -202,7 +202,7 @@ Easily fetch transcription for any YouTube video.
 - **下载量**：31.2K
 - **最后更新**：2025-07-16
 - **GitHub**：[lstrzepek/obsidian-yt-transcript](https://github.com/lstrzepek/obsidian-yt-transcript)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

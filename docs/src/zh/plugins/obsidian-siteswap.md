@@ -6,7 +6,7 @@ downloads: 3558
 updated: 1642954346000
 repo: tdresser/obsidian-siteswap
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1642954346000"
   repo="tdresser/obsidian-siteswap"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Visualize Juggling Pattern Siteswap via the JugglingLab gif server.
 - **下载量**：3.6K
 - **最后更新**：2022-01-24
 - **GitHub**：[tdresser/obsidian-siteswap](https://github.com/tdresser/obsidian-siteswap)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

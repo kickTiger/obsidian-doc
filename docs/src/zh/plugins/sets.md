@@ -1,12 +1,12 @@
 ---
 title: Sets
-description: Create, edit and search sets of notes like Notion or AnyType DBs.
+description: 创建、编辑和搜索笔记集，如 Notion 或 AnyType DB。
 author: Gabriele Cannata
-downloads: 10143
+downloads: 10145
 updated: 1708018510000
 repo: Canna71/obsidian-sets
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="sets"
   name="Sets"
-  description="Create, edit and search sets of notes like Notion or AnyType DBs."
+  description="创建、编辑和搜索笔记集，如 Notion 或 AnyType DB。"
   author="Gabriele Cannata"
-  :downloads="10143"
+  :downloads="10145"
   :updated="1708018510000"
   repo="Canna71/obsidian-sets"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sets 是一个功能强大的 Obsidian 插件。
 
-Create, edit and search sets of notes like Notion or AnyType DBs.
+创建、编辑和搜索笔记集，如 Notion 或 AnyType DB。
 
 通过 Sets,您可以:
 
@@ -202,7 +202,7 @@ Create, edit and search sets of notes like Notion or AnyType DBs.
 - **下载量**：10.1K
 - **最后更新**：2024-02-16
 - **GitHub**：[Canna71/obsidian-sets](https://github.com/Canna71/obsidian-sets)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Open Gate
-description: Embed any website to Obsidian, from now all, you have anything you need in one place.
+description: 将任何网站嵌入到 Obsidian 中，从现在起，您就可以在一个地方获得所需的一切。
 author: DuocNV
-downloads: 39544
+downloads: 39579
 updated: 1743887698000
 repo: nguyenvanduocit/obsidian-open-gate
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="open-gate"
   name="Open Gate"
-  description="Embed any website to Obsidian, from now all, you have anything you need in one place."
+  description="将任何网站嵌入到 Obsidian 中，从现在起，您就可以在一个地方获得所需的一切。"
   author="DuocNV"
-  :downloads="39544"
+  :downloads="39579"
   :updated="1743887698000"
   repo="nguyenvanduocit/obsidian-open-gate"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Open Gate 是一个功能强大的 Obsidian 插件。
 
-Embed any website to Obsidian, from now all, you have anything you need in one place.
+将任何网站嵌入到 Obsidian 中，从现在起，您就可以在一个地方获得所需的一切。
 
 通过 Open Gate,您可以:
 
@@ -199,10 +199,10 @@ Embed any website to Obsidian, from now all, you have anything you need in one p
 - **插件 ID**：open-gate
 - **作者**：DuocNV
 - **当前版本**：v1.0.0
-- **下载量**：39.5K
+- **下载量**：39.6K
 - **最后更新**：2025-04-06
 - **GitHub**：[nguyenvanduocit/obsidian-open-gate](https://github.com/nguyenvanduocit/obsidian-open-gate)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

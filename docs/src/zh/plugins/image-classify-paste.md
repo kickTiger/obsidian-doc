@@ -2,11 +2,11 @@
 title: Image Classify Paste
 description: 'Paste your image like Typora, the image link name not ![[Paste xxx]] but ![some name](relative-directory/xxx.png) with a relative directory.'
 author: tianfx
-downloads: 3403
+downloads: 3404
 updated: 1706200199000
 repo: ostoe/Ob-ImagePastePlugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Image Classify Paste"
   description="Paste your image like Typora, the image link name not ![[Paste xxx]] but ![some name](relative-directory/xxx.png) with a relative directory."
   author="tianfx"
-  :downloads="3403"
+  :downloads="3404"
   :updated="1706200199000"
   repo="ostoe/Ob-ImagePastePlugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Paste your image like Typora, the image link name not ![[Paste xxx]] but ![some 
 - **下载量**：3.4K
 - **最后更新**：2024-01-26
 - **GitHub**：[ostoe/Ob-ImagePastePlugin](https://github.com/ostoe/Ob-ImagePastePlugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

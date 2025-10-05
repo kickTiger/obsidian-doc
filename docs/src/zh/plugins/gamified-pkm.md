@@ -1,12 +1,12 @@
 ---
 title: Gamificate your PKM
-description: Enhance your Personal Knowledge Management with gamification elements. Boost motivation and achieve growth as you engage with your PKM.
+description: 利用游戏化元素增强个人知识管理。在参与 PKM 的过程中提高积极性，实现成长。
 author: Andreas Trebing
-downloads: 3940
+downloads: 3941
 updated: 1750365010000
 repo: saertna/obsidian-gamified-pkm
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gamified-pkm"
   name="Gamificate your PKM"
-  description="Enhance your Personal Knowledge Management with gamification elements. Boost motivation and achieve growth as you engage with your PKM."
+  description="利用游戏化元素增强个人知识管理。在参与 PKM 的过程中提高积极性，实现成长。"
   author="Andreas Trebing"
-  :downloads="3940"
+  :downloads="3941"
   :updated="1750365010000"
   repo="saertna/obsidian-gamified-pkm"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Gamificate your PKM 是一个功能强大的 Obsidian 插件。
 
-Enhance your Personal Knowledge Management with gamification elements. Boost motivation and achieve growth as you engage with your PKM.
+利用游戏化元素增强个人知识管理。在参与 PKM 的过程中提高积极性，实现成长。
 
 通过 Gamificate your PKM,您可以:
 
@@ -202,7 +202,7 @@ Enhance your Personal Knowledge Management with gamification elements. Boost mot
 - **下载量**：3.9K
 - **最后更新**：2025-06-20
 - **GitHub**：[saertna/obsidian-gamified-pkm](https://github.com/saertna/obsidian-gamified-pkm)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

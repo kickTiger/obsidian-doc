@@ -2,11 +2,11 @@
 title: Remove Newlines
 description: Remove line breaks or blank lines from text selected in the editor, or as you paste from the clipboard.
 author: Elias Jaffe
-downloads: 2906
+downloads: 2918
 updated: 1730756873000
 repo: HandcartCactus/obsidian-remove-newlines
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Remove Newlines"
   description="Remove line breaks or blank lines from text selected in the editor, or as you paste from the clipboard."
   author="Elias Jaffe"
-  :downloads="2906"
+  :downloads="2918"
   :updated="1730756873000"
   repo="HandcartCactus/obsidian-remove-newlines"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Remove line breaks or blank lines from text selected in the editor, or as you pa
 - **下载量**：2.9K
 - **最后更新**：2024-11-05
 - **GitHub**：[HandcartCactus/obsidian-remove-newlines](https://github.com/HandcartCactus/obsidian-remove-newlines)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Templater
-description: Create and use templates.
+description: 创建和使用模板。
 author: SilentVoid
 downloads: 3110072
 updated: 1759085696000
 repo: SilentVoid13/Templater
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="templater-obsidian"
   name="Templater"
-  description="Create and use templates."
+  description="创建和使用模板。"
   author="SilentVoid"
   :downloads="3110072"
   :updated="1759085696000"
   repo="SilentVoid13/Templater"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Templater 是一个功能强大的 Obsidian 插件。
 
-Create and use templates.
+创建和使用模板。
 
 通过 Templater,您可以:
 
@@ -202,7 +202,7 @@ Create and use templates.
 - **下载量**：3.11M
 - **最后更新**：2025-09-29
 - **GitHub**：[SilentVoid13/Templater](https://github.com/SilentVoid13/Templater)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

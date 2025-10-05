@@ -2,11 +2,11 @@
 title: Daily Notes Automater
 description: Automates the creation of a daily note
 author: David Pedrero
-downloads: 204
+downloads: 205
 updated: 1743452469000
 repo: davidpedrero/obsidian-daily-notes-automater
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Daily Notes Automater"
   description="Automates the creation of a daily note"
   author="David Pedrero"
-  :downloads="204"
+  :downloads="205"
   :updated="1743452469000"
   repo="davidpedrero/obsidian-daily-notes-automater"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automates the creation of a daily note
 - **插件 ID**：daily-note-automater
 - **作者**：David Pedrero
 - **当前版本**：v1.0.0
-- **下载量**：204
+- **下载量**：205
 - **最后更新**：2025-04-01
 - **GitHub**：[davidpedrero/obsidian-daily-notes-automater](https://github.com/davidpedrero/obsidian-daily-notes-automater)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

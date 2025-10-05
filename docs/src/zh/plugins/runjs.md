@@ -1,12 +1,12 @@
 ---
 title: RunJS
-description: Run JavaScript code.
+description: 运行 JavaScript 代码
 author: eoureo
-downloads: 7293
+downloads: 7296
 updated: 1735984112000
 repo: eoureo/obsidian-runjs
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="runjs"
   name="RunJS"
-  description="Run JavaScript code."
+  description="运行 JavaScript 代码"
   author="eoureo"
-  :downloads="7293"
+  :downloads="7296"
   :updated="1735984112000"
   repo="eoureo/obsidian-runjs"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 RunJS 是一个功能强大的 Obsidian 插件。
 
-Run JavaScript code.
+运行 JavaScript 代码
 
 通过 RunJS,您可以:
 
@@ -202,7 +202,7 @@ Run JavaScript code.
 - **下载量**：7.3K
 - **最后更新**：2025-01-04
 - **GitHub**：[eoureo/obsidian-runjs](https://github.com/eoureo/obsidian-runjs)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

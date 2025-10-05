@@ -1,12 +1,12 @@
 ---
 title: Kindle Highlights
-description: Sync your Kindle book highlights using your Amazon login or uploading your My Clippings file.
+description: '使用 Amazon 登录或上传 "我的剪报 "文件同步 Kindle 电子书集锦。'
 author: Hady Osman
-downloads: 127304
+downloads: 127397
 updated: 1680477668000
 repo: hadynz/obsidian-kindle-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-kindle-plugin"
   name="Kindle Highlights"
-  description="Sync your Kindle book highlights using your Amazon login or uploading your My Clippings file."
+  description="使用 Amazon 登录或上传 &quot;我的剪报 &quot;文件同步 Kindle 电子书集锦。"
   author="Hady Osman"
-  :downloads="127304"
+  :downloads="127397"
   :updated="1680477668000"
   repo="hadynz/obsidian-kindle-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Kindle Highlights 是一个功能强大的 Obsidian 插件。
 
-Sync your Kindle book highlights using your Amazon login or uploading your My Clippings file.
+使用 Amazon 登录或上传 &quot;我的剪报 &quot;文件同步 Kindle 电子书集锦。
 
 通过 Kindle Highlights,您可以:
 
@@ -199,10 +199,10 @@ Sync your Kindle book highlights using your Amazon login or uploading your My Cl
 - **插件 ID**：obsidian-kindle-plugin
 - **作者**：Hady Osman
 - **当前版本**：v1.0.0
-- **下载量**：127.3K
+- **下载量**：127.4K
 - **最后更新**：2023-04-03
 - **GitHub**：[hadynz/obsidian-kindle-plugin](https://github.com/hadynz/obsidian-kindle-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

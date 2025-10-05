@@ -1,12 +1,12 @@
 ---
 title: Paste image rename
-description: Rename image after pasting, support name pattern and auto renaming.
+description: 粘贴图片时重命名。
 author: Reorx
-downloads: 98335
+downloads: 98428
 updated: 1675069703000
 repo: reorx/obsidian-paste-image-rename
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-paste-image-rename"
   name="Paste image rename"
-  description="Rename image after pasting, support name pattern and auto renaming."
+  description="粘贴图片时重命名。"
   author="Reorx"
-  :downloads="98335"
+  :downloads="98428"
   :updated="1675069703000"
   repo="reorx/obsidian-paste-image-rename"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Paste image rename 是一个功能强大的 Obsidian 插件。
 
-Rename image after pasting, support name pattern and auto renaming.
+粘贴图片时重命名。
 
 通过 Paste image rename,您可以:
 
@@ -199,10 +199,10 @@ Rename image after pasting, support name pattern and auto renaming.
 - **插件 ID**：obsidian-paste-image-rename
 - **作者**：Reorx
 - **当前版本**：v1.0.0
-- **下载量**：98.3K
+- **下载量**：98.4K
 - **最后更新**：2023-01-30
 - **GitHub**：[reorx/obsidian-paste-image-rename](https://github.com/reorx/obsidian-paste-image-rename)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

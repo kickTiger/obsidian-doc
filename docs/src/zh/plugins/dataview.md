@@ -1,12 +1,12 @@
 ---
 title: Dataview
-description: Advanced queries over your vault for the data-obsessed.
+description: 为数据狂人提供高级查询功能。
 author: Michael Brenan
 downloads: 3306708
 updated: 1744053450000
 repo: blacksmithgu/obsidian-dataview
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="dataview"
   name="Dataview"
-  description="Advanced queries over your vault for the data-obsessed."
+  description="为数据狂人提供高级查询功能。"
   author="Michael Brenan"
   :downloads="3306708"
   :updated="1744053450000"
   repo="blacksmithgu/obsidian-dataview"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dataview 是一个功能强大的 Obsidian 插件。
 
-Advanced queries over your vault for the data-obsessed.
+为数据狂人提供高级查询功能。
 
 通过 Dataview,您可以:
 
@@ -202,7 +202,7 @@ Advanced queries over your vault for the data-obsessed.
 - **下载量**：3.31M
 - **最后更新**：2025-04-08
 - **GitHub**：[blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

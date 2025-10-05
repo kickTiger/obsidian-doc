@@ -2,11 +2,11 @@
 title: Bottom to Top
 description: Makes text go from left-to-right, bottom-to-top.
 author: Henry Gustafson
-downloads: 182
+downloads: 184
 updated: 1731808090000
 repo: lizard-heart/obsidian-bottom-to-top-text
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Bottom to Top"
   description="Makes text go from left-to-right, bottom-to-top."
   author="Henry Gustafson"
-  :downloads="182"
+  :downloads="184"
   :updated="1731808090000"
   repo="lizard-heart/obsidian-bottom-to-top-text"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Makes text go from left-to-right, bottom-to-top.
 - **插件 ID**：bottom-to-top
 - **作者**：Henry Gustafson
 - **当前版本**：v1.0.0
-- **下载量**：182
+- **下载量**：184
 - **最后更新**：2024-11-17
 - **GitHub**：[lizard-heart/obsidian-bottom-to-top-text](https://github.com/lizard-heart/obsidian-bottom-to-top-text)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

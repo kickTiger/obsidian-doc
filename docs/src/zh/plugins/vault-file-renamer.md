@@ -2,11 +2,11 @@
 title: Vault File Renamer
 description: Automatically standardizes file names to GitHub style (lowercase, no accents, only -, ., _) while preserving folder structure and file contents. 
 author: Louan Fontenele
-downloads: 600
+downloads: 602
 updated: 1755871709000
 repo: louanfontenele/obsidian-vault-file-renamer
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Vault File Renamer"
   description="Automatically standardizes file names to GitHub style (lowercase, no accents, only -, ., _) while preserving folder structure and file contents. "
   author="Louan Fontenele"
-  :downloads="600"
+  :downloads="602"
   :updated="1755871709000"
   repo="louanfontenele/obsidian-vault-file-renamer"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically standardizes file names to GitHub style (lowercase, no accents, on
 - **插件 ID**：vault-file-renamer
 - **作者**：Louan Fontenele
 - **当前版本**：v1.0.0
-- **下载量**：600
+- **下载量**：602
 - **最后更新**：2025-08-22
 - **GitHub**：[louanfontenele/obsidian-vault-file-renamer](https://github.com/louanfontenele/obsidian-vault-file-renamer)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

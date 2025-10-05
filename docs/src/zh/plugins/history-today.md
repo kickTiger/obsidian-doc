@@ -6,7 +6,7 @@ downloads: 487
 updated: 1731852699000
 repo: Yaob1990/obsidian-history-today
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1731852699000"
   repo="Yaob1990/obsidian-history-today"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ View and review your historical notes from this day across previous years
 - **下载量**：487
 - **最后更新**：2024-11-17
 - **GitHub**：[Yaob1990/obsidian-history-today](https://github.com/Yaob1990/obsidian-history-today)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

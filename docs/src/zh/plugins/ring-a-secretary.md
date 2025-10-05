@@ -1,12 +1,12 @@
 ---
 title: Ring a secretary
-description: Yet another ChatGPT-powered digital secretary.
+description: 又一个由 ChatGPT 支持的数字秘书。
 author: vorotamoroz
-downloads: 4170
+downloads: 4171
 updated: 1687250339000
 repo: vrtmrz/ring-a-secretary
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ring-a-secretary"
   name="Ring a secretary"
-  description="Yet another ChatGPT-powered digital secretary."
+  description="又一个由 ChatGPT 支持的数字秘书。"
   author="vorotamoroz"
-  :downloads="4170"
+  :downloads="4171"
   :updated="1687250339000"
   repo="vrtmrz/ring-a-secretary"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ring a secretary 是一个功能强大的 Obsidian 插件。
 
-Yet another ChatGPT-powered digital secretary.
+又一个由 ChatGPT 支持的数字秘书。
 
 通过 Ring a secretary,您可以:
 
@@ -202,7 +202,7 @@ Yet another ChatGPT-powered digital secretary.
 - **下载量**：4.2K
 - **最后更新**：2023-06-20
 - **GitHub**：[vrtmrz/ring-a-secretary](https://github.com/vrtmrz/ring-a-secretary)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

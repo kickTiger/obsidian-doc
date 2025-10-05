@@ -1,12 +1,12 @@
 ---
 title: Quick LaTeX
-description: Simplify and speed up LaTeX math typing.
+description: 简化并加快 LaTeX 数学键入。
 author: joeyuping
-downloads: 191586
+downloads: 191645
 updated: 1706498647000
 repo: joeyuping/quick_latex_obsidian
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quick-latex"
   name="Quick LaTeX"
-  description="Simplify and speed up LaTeX math typing."
+  description="简化并加快 LaTeX 数学键入。"
   author="joeyuping"
-  :downloads="191586"
+  :downloads="191645"
   :updated="1706498647000"
   repo="joeyuping/quick_latex_obsidian"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quick LaTeX 是一个功能强大的 Obsidian 插件。
 
-Simplify and speed up LaTeX math typing.
+简化并加快 LaTeX 数学键入。
 
 通过 Quick LaTeX,您可以:
 
@@ -202,7 +202,7 @@ Simplify and speed up LaTeX math typing.
 - **下载量**：191.6K
 - **最后更新**：2024-01-29
 - **GitHub**：[joeyuping/quick_latex_obsidian](https://github.com/joeyuping/quick_latex_obsidian)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

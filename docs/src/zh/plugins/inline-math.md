@@ -1,12 +1,12 @@
 ---
 title: No more flickering inline math
-description: Remove flickering inline math.
+description: 删除闪烁的内联数学。
 author: Ryota Ushio
-downloads: 6129
+downloads: 6137
 updated: 1730199622000
 repo: RyotaUshio/obsidian-inline-math
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="inline-math"
   name="No more flickering inline math"
-  description="Remove flickering inline math."
+  description="删除闪烁的内联数学。"
   author="Ryota Ushio"
-  :downloads="6129"
+  :downloads="6137"
   :updated="1730199622000"
   repo="RyotaUshio/obsidian-inline-math"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 No more flickering inline math 是一个功能强大的 Obsidian 插件。
 
-Remove flickering inline math.
+删除闪烁的内联数学。
 
 通过 No more flickering inline math,您可以:
 
@@ -202,7 +202,7 @@ Remove flickering inline math.
 - **下载量**：6.1K
 - **最后更新**：2024-10-29
 - **GitHub**：[RyotaUshio/obsidian-inline-math](https://github.com/RyotaUshio/obsidian-inline-math)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

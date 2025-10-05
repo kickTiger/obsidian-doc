@@ -2,11 +2,11 @@
 title: Alias Management
 description: Identify duplicate notes based on similar aliases and filenames.
 author: WithMarcel
-downloads: 3000
+downloads: 3001
 updated: 1709236305000
 repo: WithMarcel/alias-management
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Alias Management"
   description="Identify duplicate notes based on similar aliases and filenames."
   author="WithMarcel"
-  :downloads="3000"
+  :downloads="3001"
   :updated="1709236305000"
   repo="WithMarcel/alias-management"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Identify duplicate notes based on similar aliases and filenames.
 - **下载量**：3.0K
 - **最后更新**：2024-03-01
 - **GitHub**：[WithMarcel/alias-management](https://github.com/WithMarcel/alias-management)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: text2anki-openai
-description: Use OpenAI to generate flashcards from text and add them to Anki.
+description: 使用 OpenAI 从文本中生成闪存卡，并将其添加到 Anki 中。
 author: Mani Batra
 downloads: 4211
 updated: 1679659051000
 repo: manibatra/obsidian-text2anki-openai
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="text2anki-openai"
   name="text2anki-openai"
-  description="Use OpenAI to generate flashcards from text and add them to Anki."
+  description="使用 OpenAI 从文本中生成闪存卡，并将其添加到 Anki 中。"
   author="Mani Batra"
   :downloads="4211"
   :updated="1679659051000"
   repo="manibatra/obsidian-text2anki-openai"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 text2anki-openai 是一个功能强大的 Obsidian 插件。
 
-Use OpenAI to generate flashcards from text and add them to Anki.
+使用 OpenAI 从文本中生成闪存卡，并将其添加到 Anki 中。
 
 通过 text2anki-openai,您可以:
 
@@ -202,7 +202,7 @@ Use OpenAI to generate flashcards from text and add them to Anki.
 - **下载量**：4.2K
 - **最后更新**：2023-03-24
 - **GitHub**：[manibatra/obsidian-text2anki-openai](https://github.com/manibatra/obsidian-text2anki-openai)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

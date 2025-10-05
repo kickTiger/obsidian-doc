@@ -1,12 +1,12 @@
 ---
 title: Emoji Titler
-description: Easily insert an emoji in the title using a keyboard shortcut.
+description: 使用键盘快捷键在标题中轻松插入表情符号。
 author: Hyeonseo Nam
-downloads: 6134
+downloads: 6136
 updated: 1678630961000
 repo: HyeonseoNam/obsidian-emoji-titler
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="emoji-titler"
   name="Emoji Titler"
-  description="Easily insert an emoji in the title using a keyboard shortcut."
+  description="使用键盘快捷键在标题中轻松插入表情符号。"
   author="Hyeonseo Nam"
-  :downloads="6134"
+  :downloads="6136"
   :updated="1678630961000"
   repo="HyeonseoNam/obsidian-emoji-titler"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Emoji Titler 是一个功能强大的 Obsidian 插件。
 
-Easily insert an emoji in the title using a keyboard shortcut.
+使用键盘快捷键在标题中轻松插入表情符号。
 
 通过 Emoji Titler,您可以:
 
@@ -202,7 +202,7 @@ Easily insert an emoji in the title using a keyboard shortcut.
 - **下载量**：6.1K
 - **最后更新**：2023-03-12
 - **GitHub**：[HyeonseoNam/obsidian-emoji-titler](https://github.com/HyeonseoNam/obsidian-emoji-titler)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Daily Task Auto Generator
 description: Daily Task Auto Generator can helps you automatically generate daily task files with customizable templates.
 author: maigamo
-downloads: 428
+downloads: 432
 updated: 1750647922000
 repo: maigamo/Daily-Task-Auto-Generator
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Daily Task Auto Generator"
   description="Daily Task Auto Generator can helps you automatically generate daily task files with customizable templates."
   author="maigamo"
-  :downloads="428"
+  :downloads="432"
   :updated="1750647922000"
   repo="maigamo/Daily-Task-Auto-Generator"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Daily Task Auto Generator can helps you automatically generate daily task files 
 - **插件 ID**：daily-task-auto-generator
 - **作者**：maigamo
 - **当前版本**：v1.0.0
-- **下载量**：428
+- **下载量**：432
 - **最后更新**：2025-06-23
 - **GitHub**：[maigamo/Daily-Task-Auto-Generator](https://github.com/maigamo/Daily-Task-Auto-Generator)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

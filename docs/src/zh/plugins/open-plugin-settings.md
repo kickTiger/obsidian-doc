@@ -1,12 +1,12 @@
 ---
 title: Open Plugin Settings
-description: Create a command to open a specified plugin settings.
+description: 创建打开指定插件设置的命令。
 author: Mara-Li
-downloads: 5727
+downloads: 5736
 updated: 1751227411000
 repo: Mara-Li/obsidian-open-settings
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="open-plugin-settings"
   name="Open Plugin Settings"
-  description="Create a command to open a specified plugin settings."
+  description="创建打开指定插件设置的命令。"
   author="Mara-Li"
-  :downloads="5727"
+  :downloads="5736"
   :updated="1751227411000"
   repo="Mara-Li/obsidian-open-settings"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Open Plugin Settings 是一个功能强大的 Obsidian 插件。
 
-Create a command to open a specified plugin settings.
+创建打开指定插件设置的命令。
 
 通过 Open Plugin Settings,您可以:
 
@@ -202,7 +202,7 @@ Create a command to open a specified plugin settings.
 - **下载量**：5.7K
 - **最后更新**：2025-06-30
 - **GitHub**：[Mara-Li/obsidian-open-settings](https://github.com/Mara-Li/obsidian-open-settings)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

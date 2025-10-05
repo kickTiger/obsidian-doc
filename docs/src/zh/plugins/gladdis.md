@@ -1,12 +1,12 @@
 ---
 title: Gladdis
-description: 'Gladdis (Generative Language Artificial Dedicated & Diligent Intelligence System) - it''s an AI chatbot.'
+description: Gladdis（生成语言人工智能系统）--这是一个人工智能聊天机器人。
 author: Aurélien Stébé
-downloads: 3789
+downloads: 3791
 updated: 1739288296000
 repo: AurelienStebe/Gladdis
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gladdis"
   name="Gladdis"
-  description="Gladdis (Generative Language Artificial Dedicated &amp; Diligent Intelligence System) - it&#39;s an AI chatbot."
+  description="Gladdis（生成语言人工智能系统）--这是一个人工智能聊天机器人。"
   author="Aurélien Stébé"
-  :downloads="3789"
+  :downloads="3791"
   :updated="1739288296000"
   repo="AurelienStebe/Gladdis"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Gladdis 是一个功能强大的 Obsidian 插件。
 
-Gladdis (Generative Language Artificial Dedicated &amp; Diligent Intelligence System) - it&#39;s an AI chatbot.
+Gladdis（生成语言人工智能系统）--这是一个人工智能聊天机器人。
 
 通过 Gladdis,您可以:
 
@@ -202,7 +202,7 @@ Gladdis (Generative Language Artificial Dedicated &amp; Diligent Intelligence Sy
 - **下载量**：3.8K
 - **最后更新**：2025-02-11
 - **GitHub**：[AurelienStebe/Gladdis](https://github.com/AurelienStebe/Gladdis)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

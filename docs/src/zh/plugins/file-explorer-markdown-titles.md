@@ -1,12 +1,12 @@
 ---
 title: File Explorer Markdown Titles
-description: Show the first Markdown header of a note in the file explorer.
+description: 在文件资源管理器中显示笔记的第一个 Markdown 标头。
 author: Dylan Elliott
-downloads: 6353
+downloads: 6355
 updated: 1631447722000
 repo: Dyldog/file-explorer-markdown-titles
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-explorer-markdown-titles"
   name="File Explorer Markdown Titles"
-  description="Show the first Markdown header of a note in the file explorer."
+  description="在文件资源管理器中显示笔记的第一个 Markdown 标头。"
   author="Dylan Elliott"
-  :downloads="6353"
+  :downloads="6355"
   :updated="1631447722000"
   repo="Dyldog/file-explorer-markdown-titles"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Explorer Markdown Titles 是一个功能强大的 Obsidian 插件。
 
-Show the first Markdown header of a note in the file explorer.
+在文件资源管理器中显示笔记的第一个 Markdown 标头。
 
 通过 File Explorer Markdown Titles,您可以:
 
@@ -202,7 +202,7 @@ Show the first Markdown header of a note in the file explorer.
 - **下载量**：6.4K
 - **最后更新**：2021-09-12
 - **GitHub**：[Dyldog/file-explorer-markdown-titles](https://github.com/Dyldog/file-explorer-markdown-titles)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

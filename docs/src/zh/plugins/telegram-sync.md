@@ -1,12 +1,12 @@
 ---
 title: Telegram Sync
-description: Transfer messages and files from Telegram to Obsidian.
+description: 从 Telegram 向 Obsidian 传输信息和文件。
 author: soberhacker
-downloads: 37443
+downloads: 37484
 updated: 1730316338000
 repo: soberhacker/obsidian-telegram-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="telegram-sync"
   name="Telegram Sync"
-  description="Transfer messages and files from Telegram to Obsidian."
+  description="从 Telegram 向 Obsidian 传输信息和文件。"
   author="soberhacker"
-  :downloads="37443"
+  :downloads="37484"
   :updated="1730316338000"
   repo="soberhacker/obsidian-telegram-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Telegram Sync 是一个功能强大的 Obsidian 插件。
 
-Transfer messages and files from Telegram to Obsidian.
+从 Telegram 向 Obsidian 传输信息和文件。
 
 通过 Telegram Sync,您可以:
 
@@ -199,10 +199,10 @@ Transfer messages and files from Telegram to Obsidian.
 - **插件 ID**：telegram-sync
 - **作者**：soberhacker
 - **当前版本**：v1.0.0
-- **下载量**：37.4K
+- **下载量**：37.5K
 - **最后更新**：2024-10-31
 - **GitHub**：[soberhacker/obsidian-telegram-sync](https://github.com/soberhacker/obsidian-telegram-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

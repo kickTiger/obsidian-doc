@@ -2,11 +2,11 @@
 title: Quarto Exporter
 description: Export notes to Quarto-compatible QMD files.
 author: Andreas Varotsis
-downloads: 560
+downloads: 561
 updated: 1730414418000
 repo: AndreasThinks/obsidian-to-quarto-exporter
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Quarto Exporter"
   description="Export notes to Quarto-compatible QMD files."
   author="Andreas Varotsis"
-  :downloads="560"
+  :downloads="561"
   :updated="1730414418000"
   repo="AndreasThinks/obsidian-to-quarto-exporter"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Export notes to Quarto-compatible QMD files.
 - **插件 ID**：quarto-exporter
 - **作者**：Andreas Varotsis
 - **当前版本**：v1.0.0
-- **下载量**：560
+- **下载量**：561
 - **最后更新**：2024-11-01
 - **GitHub**：[AndreasThinks/obsidian-to-quarto-exporter](https://github.com/AndreasThinks/obsidian-to-quarto-exporter)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

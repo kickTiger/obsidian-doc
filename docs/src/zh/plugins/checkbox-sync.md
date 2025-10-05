@@ -2,11 +2,11 @@
 title: Checkbox Sync
 description: Automatically checks the parent checkbox if all child checkboxes are completed, and unchecks it otherwise.
 author: Grol
-downloads: 1569
+downloads: 1574
 updated: 1754648295000
 repo: groldsf/obsidian_check_plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Checkbox Sync"
   description="Automatically checks the parent checkbox if all child checkboxes are completed, and unchecks it otherwise."
   author="Grol"
-  :downloads="1569"
+  :downloads="1574"
   :updated="1754648295000"
   repo="groldsf/obsidian_check_plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically checks the parent checkbox if all child checkboxes are completed, 
 - **下载量**：1.6K
 - **最后更新**：2025-08-08
 - **GitHub**：[groldsf/obsidian_check_plugin](https://github.com/groldsf/obsidian_check_plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: CSV All-in-One
 description: all about CSV.
 author: hihangeol
-downloads: 1078
+downloads: 1079
 updated: 1750566056000
 repo: Hangeol-Chang/obsidian-csv-allinone
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="CSV All-in-One"
   description="all about CSV."
   author="hihangeol"
-  :downloads="1078"
+  :downloads="1079"
   :updated="1750566056000"
   repo="Hangeol-Chang/obsidian-csv-allinone"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ all about CSV.
 - **下载量**：1.1K
 - **最后更新**：2025-06-22
 - **GitHub**：[Hangeol-Chang/obsidian-csv-allinone](https://github.com/Hangeol-Chang/obsidian-csv-allinone)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

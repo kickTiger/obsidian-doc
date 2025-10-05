@@ -2,11 +2,11 @@
 title: Tags for Markdown
 description: Enhance your Markdown documents with tags and arrow tags. Use predefined or custom labels, customizable colors, and arrow indicators to visually track tasks and statuses.
 author: John Smith III
-downloads: 3413
+downloads: 3447
 updated: 1755611510000
 repo: binarynoir/obsidian-markdown-tags
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tags for Markdown"
   description="Enhance your Markdown documents with tags and arrow tags. Use predefined or custom labels, customizable colors, and arrow indicators to visually track tasks and statuses."
   author="John Smith III"
-  :downloads="3413"
+  :downloads="3447"
   :updated="1755611510000"
   repo="binarynoir/obsidian-markdown-tags"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enhance your Markdown documents with tags and arrow tags. Use predefined or cust
 - **下载量**：3.4K
 - **最后更新**：2025-08-19
 - **GitHub**：[binarynoir/obsidian-markdown-tags](https://github.com/binarynoir/obsidian-markdown-tags)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

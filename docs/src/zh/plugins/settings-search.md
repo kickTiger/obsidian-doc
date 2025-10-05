@@ -1,12 +1,12 @@
 ---
 title: Settings Search
-description: Globally search settings.
+description: 全局搜索设置。
 author: Jeremy Valentine
-downloads: 163272
+downloads: 163371
 updated: 1696509384000
 repo: javalent/settings-search
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="settings-search"
   name="Settings Search"
-  description="Globally search settings."
+  description="全局搜索设置。"
   author="Jeremy Valentine"
-  :downloads="163272"
+  :downloads="163371"
   :updated="1696509384000"
   repo="javalent/settings-search"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Settings Search 是一个功能强大的 Obsidian 插件。
 
-Globally search settings.
+全局搜索设置。
 
 通过 Settings Search,您可以:
 
@@ -199,10 +199,10 @@ Globally search settings.
 - **插件 ID**：settings-search
 - **作者**：Jeremy Valentine
 - **当前版本**：v1.0.0
-- **下载量**：163.3K
+- **下载量**：163.4K
 - **最后更新**：2023-10-05
 - **GitHub**：[javalent/settings-search](https://github.com/javalent/settings-search)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

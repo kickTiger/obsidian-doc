@@ -1,12 +1,12 @@
 ---
 title: Review Notes
-description: Show recently modified and newly created files.
+description: 显示最近修改和新建的文件
 author: tjandy98
 downloads: 5856
 updated: 1707392382000
 repo: tjandy98/obsidian-review-notes-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-review-notes-plugin"
   name="Review Notes"
-  description="Show recently modified and newly created files."
+  description="显示最近修改和新建的文件"
   author="tjandy98"
   :downloads="5856"
   :updated="1707392382000"
   repo="tjandy98/obsidian-review-notes-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Review Notes 是一个功能强大的 Obsidian 插件。
 
-Show recently modified and newly created files.
+显示最近修改和新建的文件
 
 通过 Review Notes,您可以:
 
@@ -202,7 +202,7 @@ Show recently modified and newly created files.
 - **下载量**：5.9K
 - **最后更新**：2024-02-08
 - **GitHub**：[tjandy98/obsidian-review-notes-plugin](https://github.com/tjandy98/obsidian-review-notes-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

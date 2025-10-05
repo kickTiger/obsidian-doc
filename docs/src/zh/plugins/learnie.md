@@ -2,11 +2,11 @@
 title: Learnie
 description: Enhance your learning with active recall and spaced repetition. Track changes, create review questions, and streamline your study process for more effective, long-lasting learning.
 author: tankh99
-downloads: 2266
+downloads: 2269
 updated: 1738670528000
 repo: tankh99/learnie-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Learnie"
   description="Enhance your learning with active recall and spaced repetition. Track changes, create review questions, and streamline your study process for more effective, long-lasting learning."
   author="tankh99"
-  :downloads="2266"
+  :downloads="2269"
   :updated="1738670528000"
   repo="tankh99/learnie-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enhance your learning with active recall and spaced repetition. Track changes, c
 - **下载量**：2.3K
 - **最后更新**：2025-02-04
 - **GitHub**：[tankh99/learnie-plugin](https://github.com/tankh99/learnie-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

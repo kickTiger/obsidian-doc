@@ -2,11 +2,11 @@
 title: Link Remover
 description: Easily remove hyperlinks and wikilinks from selected text or the entire note.
 author: Daniel Agafonov
-downloads: 1077
+downloads: 1085
 updated: 1755185117000
 repo: AlphaHasher/obsidian-remove-links
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Link Remover"
   description="Easily remove hyperlinks and wikilinks from selected text or the entire note."
   author="Daniel Agafonov"
-  :downloads="1077"
+  :downloads="1085"
   :updated="1755185117000"
   repo="AlphaHasher/obsidian-remove-links"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily remove hyperlinks and wikilinks from selected text or the entire note.
 - **下载量**：1.1K
 - **最后更新**：2025-08-14
 - **GitHub**：[AlphaHasher/obsidian-remove-links](https://github.com/AlphaHasher/obsidian-remove-links)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

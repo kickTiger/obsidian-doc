@@ -1,12 +1,12 @@
 ---
 title: Heatmap Tracker
-description: 'Visualize your activity and track goals, progress, habits, tasks, exercise, finances, and more—all in a single, interactive heatmap!'
+description: 可视化你的活动，并跟踪目标、进度、习惯、任务、锻炼、财务等情况--所有这一切都在一张交互式热图中一目了然！
 author: Maksim Rubanau
-downloads: 14410
+downloads: 14440
 updated: 1756583119000
 repo: mokkiebear/heatmap-tracker
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="heatmap-tracker"
   name="Heatmap Tracker"
-  description="Visualize your activity and track goals, progress, habits, tasks, exercise, finances, and more—all in a single, interactive heatmap!"
+  description="可视化你的活动，并跟踪目标、进度、习惯、任务、锻炼、财务等情况--所有这一切都在一张交互式热图中一目了然！"
   author="Maksim Rubanau"
-  :downloads="14410"
+  :downloads="14440"
   :updated="1756583119000"
   repo="mokkiebear/heatmap-tracker"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Heatmap Tracker 是一个功能强大的 Obsidian 插件。
 
-Visualize your activity and track goals, progress, habits, tasks, exercise, finances, and more—all in a single, interactive heatmap!
+可视化你的活动，并跟踪目标、进度、习惯、任务、锻炼、财务等情况--所有这一切都在一张交互式热图中一目了然！
 
 通过 Heatmap Tracker,您可以:
 
@@ -202,7 +202,7 @@ Visualize your activity and track goals, progress, habits, tasks, exercise, fina
 - **下载量**：14.4K
 - **最后更新**：2025-08-31
 - **GitHub**：[mokkiebear/heatmap-tracker](https://github.com/mokkiebear/heatmap-tracker)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

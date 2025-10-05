@@ -2,11 +2,11 @@
 title: Paste Reformatter
 description: Reformats pasted text for precise control.
 author: Keath Milligan
-downloads: 1033
+downloads: 1038
 updated: 1755992167000
 repo: keathmilligan/obsidian-paste-reformatter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Paste Reformatter"
   description="Reformats pasted text for precise control."
   author="Keath Milligan"
-  :downloads="1033"
+  :downloads="1038"
   :updated="1755992167000"
   repo="keathmilligan/obsidian-paste-reformatter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Reformats pasted text for precise control.
 - **下载量**：1.0K
 - **最后更新**：2025-08-24
 - **GitHub**：[keathmilligan/obsidian-paste-reformatter](https://github.com/keathmilligan/obsidian-paste-reformatter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

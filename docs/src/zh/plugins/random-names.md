@@ -2,11 +2,11 @@
 title: Random names
 description: Generates random names.
 author: Tom Parker-Shemilt
-downloads: 869
+downloads: 871
 updated: 1713736450000
 repo: palfrey/obsidian-random-names
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Random names"
   description="Generates random names."
   author="Tom Parker-Shemilt"
-  :downloads="869"
+  :downloads="871"
   :updated="1713736450000"
   repo="palfrey/obsidian-random-names"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Generates random names.
 - **插件 ID**：random-names
 - **作者**：Tom Parker-Shemilt
 - **当前版本**：v1.0.0
-- **下载量**：869
+- **下载量**：871
 - **最后更新**：2024-04-22
 - **GitHub**：[palfrey/obsidian-random-names](https://github.com/palfrey/obsidian-random-names)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

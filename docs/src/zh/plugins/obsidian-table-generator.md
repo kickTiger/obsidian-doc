@@ -1,12 +1,12 @@
 ---
 title: Table Generator
-description: Generate Markdown tables quickly like Typora.
+description: 像 Typora 一样快速生成 Markdown 表格
 author: Boninall
-downloads: 52645
+downloads: 52679
 updated: 1692972033000
 repo: Quorafind/Obsidian-Table-Generator
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-table-generator"
   name="Table Generator"
-  description="Generate Markdown tables quickly like Typora."
+  description="像 Typora 一样快速生成 Markdown 表格"
   author="Boninall"
-  :downloads="52645"
+  :downloads="52679"
   :updated="1692972033000"
   repo="Quorafind/Obsidian-Table-Generator"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Table Generator 是一个功能强大的 Obsidian 插件。
 
-Generate Markdown tables quickly like Typora.
+像 Typora 一样快速生成 Markdown 表格
 
 通过 Table Generator,您可以:
 
@@ -199,10 +199,10 @@ Generate Markdown tables quickly like Typora.
 - **插件 ID**：obsidian-table-generator
 - **作者**：Boninall
 - **当前版本**：v1.0.0
-- **下载量**：52.6K
+- **下载量**：52.7K
 - **最后更新**：2023-08-25
 - **GitHub**：[Quorafind/Obsidian-Table-Generator](https://github.com/Quorafind/Obsidian-Table-Generator)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Double row toolbar
 description: Adds a second row to the toolbar on mobile devices, allowing for more quick access buttons.
 author: Lorens Osman
-downloads: 1247
+downloads: 1253
 updated: 1742796666000
 repo: lorens-osman-dev/double-row-toolbar
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Double row toolbar"
   description="Adds a second row to the toolbar on mobile devices, allowing for more quick access buttons."
   author="Lorens Osman"
-  :downloads="1247"
+  :downloads="1253"
   :updated="1742796666000"
   repo="lorens-osman-dev/double-row-toolbar"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Adds a second row to the toolbar on mobile devices, allowing for more quick acce
 - **插件 ID**：double-row-toolbar
 - **作者**：Lorens Osman
 - **当前版本**：v1.0.0
-- **下载量**：1.2K
+- **下载量**：1.3K
 - **最后更新**：2025-03-24
 - **GitHub**：[lorens-osman-dev/double-row-toolbar](https://github.com/lorens-osman-dev/double-row-toolbar)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

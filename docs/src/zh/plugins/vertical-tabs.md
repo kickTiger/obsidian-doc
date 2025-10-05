@@ -1,12 +1,12 @@
 ---
 title: Vertical Tabs
-description: Offer an alternative view that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.
+description: 提供另一种视图，以垂直方式显示打开的标签页，让用户对标签页进行分组和整理，从而获得更好的导航体验。
 author: oxdc
-downloads: 44017
+downloads: 44078
 updated: 1755148656000
 repo: oxdc/obsidian-vertical-tabs
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vertical-tabs"
   name="Vertical Tabs"
-  description="Offer an alternative view that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience."
+  description="提供另一种视图，以垂直方式显示打开的标签页，让用户对标签页进行分组和整理，从而获得更好的导航体验。"
   author="oxdc"
-  :downloads="44017"
+  :downloads="44078"
   :updated="1755148656000"
   repo="oxdc/obsidian-vertical-tabs"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vertical Tabs 是一个功能强大的 Obsidian 插件。
 
-Offer an alternative view that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.
+提供另一种视图，以垂直方式显示打开的标签页，让用户对标签页进行分组和整理，从而获得更好的导航体验。
 
 通过 Vertical Tabs,您可以:
 
@@ -199,10 +199,10 @@ Offer an alternative view that displays open tabs vertically, allowing users to 
 - **插件 ID**：vertical-tabs
 - **作者**：oxdc
 - **当前版本**：v1.0.0
-- **下载量**：44.0K
+- **下载量**：44.1K
 - **最后更新**：2025-08-14
 - **GitHub**：[oxdc/obsidian-vertical-tabs](https://github.com/oxdc/obsidian-vertical-tabs)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

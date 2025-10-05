@@ -2,11 +2,11 @@
 title: Digital Sticky Notes
 description: A lightweight plugin that digitizes physical sticky notes, helping you quickly save, organize, and retrieve temporary notes.
 author: dgggg
-downloads: 980
+downloads: 983
 updated: 1744349670000
 repo: dalecgu/obsidian-sticky-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Digital Sticky Notes"
   description="A lightweight plugin that digitizes physical sticky notes, helping you quickly save, organize, and retrieve temporary notes."
   author="dgggg"
-  :downloads="980"
+  :downloads="983"
   :updated="1744349670000"
   repo="dalecgu/obsidian-sticky-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ A lightweight plugin that digitizes physical sticky notes, helping you quickly s
 - **插件 ID**：digital-sticky-notes
 - **作者**：dgggg
 - **当前版本**：v1.0.0
-- **下载量**：980
+- **下载量**：983
 - **最后更新**：2025-04-11
 - **GitHub**：[dalecgu/obsidian-sticky-notes](https://github.com/dalecgu/obsidian-sticky-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

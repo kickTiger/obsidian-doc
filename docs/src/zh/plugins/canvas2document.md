@@ -1,12 +1,12 @@
 ---
 title: Canvas2Document
-description: Convert a complete Canvas to a long form document, integrating all cards, notes, images and other media content into a single markdown file.
+description: 将完整的画布转换为长格式文件，将所有卡片、注释、图像和其他媒体内容整合到一个标记文件中。
 author: slnsys
-downloads: 10090
+downloads: 10102
 updated: 1746534524000
 repo: slnsys/obsidian-canvas2document
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="canvas2document"
   name="Canvas2Document"
-  description="Convert a complete Canvas to a long form document, integrating all cards, notes, images and other media content into a single markdown file."
+  description="将完整的画布转换为长格式文件，将所有卡片、注释、图像和其他媒体内容整合到一个标记文件中。"
   author="slnsys"
-  :downloads="10090"
+  :downloads="10102"
   :updated="1746534524000"
   repo="slnsys/obsidian-canvas2document"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas2Document 是一个功能强大的 Obsidian 插件。
 
-Convert a complete Canvas to a long form document, integrating all cards, notes, images and other media content into a single markdown file.
+将完整的画布转换为长格式文件，将所有卡片、注释、图像和其他媒体内容整合到一个标记文件中。
 
 通过 Canvas2Document,您可以:
 
@@ -202,7 +202,7 @@ Convert a complete Canvas to a long form document, integrating all cards, notes,
 - **下载量**：10.1K
 - **最后更新**：2025-05-06
 - **GitHub**：[slnsys/obsidian-canvas2document](https://github.com/slnsys/obsidian-canvas2document)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

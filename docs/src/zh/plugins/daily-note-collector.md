@@ -2,11 +2,11 @@
 title: Daily Note Collector
 description: Adds links to new notes to your daily note.
 author: Adar Butel
-downloads: 1224
+downloads: 1229
 updated: 1749073459000
 repo: LA/obsidian-daily-note-collector
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Daily Note Collector"
   description="Adds links to new notes to your daily note."
   author="Adar Butel"
-  :downloads="1224"
+  :downloads="1229"
   :updated="1749073459000"
   repo="LA/obsidian-daily-note-collector"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds links to new notes to your daily note.
 - **下载量**：1.2K
 - **最后更新**：2025-06-05
 - **GitHub**：[LA/obsidian-daily-note-collector](https://github.com/LA/obsidian-daily-note-collector)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

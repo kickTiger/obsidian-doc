@@ -1,12 +1,12 @@
 ---
 title: Word Splitting for Japanese in Edit Mode
-description: 'A patch for Obsidian''s built-in CodeMirror Editor to support Japanese word splitting.'
+description: 黑曜石内置 CodeMirror 编辑器的补丁，支持日语分词。
 author: sonarAIT
-downloads: 5815
+downloads: 5818
 updated: 1644810944000
 repo: sonarAIT/cm-japanese-patch
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="japanese-word-splitter"
   name="Word Splitting for Japanese in Edit Mode"
-  description="A patch for Obsidian&#39;s built-in CodeMirror Editor to support Japanese word splitting."
+  description="黑曜石内置 CodeMirror 编辑器的补丁，支持日语分词。"
   author="sonarAIT"
-  :downloads="5815"
+  :downloads="5818"
   :updated="1644810944000"
   repo="sonarAIT/cm-japanese-patch"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Word Splitting for Japanese in Edit Mode 是一个功能强大的 Obsidian 插件。
 
-A patch for Obsidian&#39;s built-in CodeMirror Editor to support Japanese word splitting.
+黑曜石内置 CodeMirror 编辑器的补丁，支持日语分词。
 
 通过 Word Splitting for Japanese in Edit Mode,您可以:
 
@@ -202,7 +202,7 @@ A patch for Obsidian&#39;s built-in CodeMirror Editor to support Japanese word s
 - **下载量**：5.8K
 - **最后更新**：2022-02-14
 - **GitHub**：[sonarAIT/cm-japanese-patch](https://github.com/sonarAIT/cm-japanese-patch)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

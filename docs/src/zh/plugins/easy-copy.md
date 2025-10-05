@@ -2,11 +2,11 @@
 title: Easy Copy
 description: Easily copy the text within inline code, bold text (and many other formats), or quickly generate an elegant link to a heading or block.
 author: Moy
-downloads: 2563
+downloads: 2573
 updated: 1757939187000
 repo: Moyf/easy-copy
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Easy Copy"
   description="Easily copy the text within inline code, bold text (and many other formats), or quickly generate an elegant link to a heading or block."
   author="Moy"
-  :downloads="2563"
+  :downloads="2573"
   :updated="1757939187000"
   repo="Moyf/easy-copy"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily copy the text within inline code, bold text (and many other formats), or 
 - **下载量**：2.6K
 - **最后更新**：2025-09-15
 - **GitHub**：[Moyf/easy-copy](https://github.com/Moyf/easy-copy)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

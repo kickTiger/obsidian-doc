@@ -1,12 +1,12 @@
 ---
 title: Continuous Mode
-description: Displays all open notes in a tab group as a continuous scrollable page (sometimes called Scrivenings mode).
+description: '以连续滚动页面的形式显示标签组中所有打开的笔记（有时称为 "书写模式"）。'
 author: Michael Schrauzer
-downloads: 23777
+downloads: 23811
 updated: 1757890411000
 repo: gasparschott/obsidian-continuous-mode
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="continuous-mode"
   name="Continuous Mode"
-  description="Displays all open notes in a tab group as a continuous scrollable page (sometimes called Scrivenings mode)."
+  description="以连续滚动页面的形式显示标签组中所有打开的笔记（有时称为 &quot;书写模式&quot;）。"
   author="Michael Schrauzer"
-  :downloads="23777"
+  :downloads="23811"
   :updated="1757890411000"
   repo="gasparschott/obsidian-continuous-mode"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Continuous Mode 是一个功能强大的 Obsidian 插件。
 
-Displays all open notes in a tab group as a continuous scrollable page (sometimes called Scrivenings mode).
+以连续滚动页面的形式显示标签组中所有打开的笔记（有时称为 &quot;书写模式&quot;）。
 
 通过 Continuous Mode,您可以:
 
@@ -202,7 +202,7 @@ Displays all open notes in a tab group as a continuous scrollable page (sometime
 - **下载量**：23.8K
 - **最后更新**：2025-09-15
 - **GitHub**：[gasparschott/obsidian-continuous-mode](https://github.com/gasparschott/obsidian-continuous-mode)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

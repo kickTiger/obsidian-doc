@@ -2,11 +2,11 @@
 title: Cut The Fluff
 description: Make your writing clearer by checking for unnecessary complexity and clutter.
 author: Adam Fletcher
-downloads: 347
+downloads: 348
 updated: 1745165315000
 repo: adamfletcher/obsidian-cut-the-fluff
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Cut The Fluff"
   description="Make your writing clearer by checking for unnecessary complexity and clutter."
   author="Adam Fletcher"
-  :downloads="347"
+  :downloads="348"
   :updated="1745165315000"
   repo="adamfletcher/obsidian-cut-the-fluff"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Make your writing clearer by checking for unnecessary complexity and clutter.
 - **插件 ID**：cut-the-fluff
 - **作者**：Adam Fletcher
 - **当前版本**：v1.0.0
-- **下载量**：347
+- **下载量**：348
 - **最后更新**：2025-04-21
 - **GitHub**：[adamfletcher/obsidian-cut-the-fluff](https://github.com/adamfletcher/obsidian-cut-the-fluff)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

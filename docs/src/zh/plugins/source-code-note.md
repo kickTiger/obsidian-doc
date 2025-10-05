@@ -1,12 +1,12 @@
 ---
 title: Source Code Note
-description: Organize source code note easily.
+description: 轻松整理源代码注释
 author: Waiting
 downloads: 3780
 updated: 1678809575000
 repo: waiting0324/obsidian-code-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="source-code-note"
   name="Source Code Note"
-  description="Organize source code note easily."
+  description="轻松整理源代码注释"
   author="Waiting"
   :downloads="3780"
   :updated="1678809575000"
   repo="waiting0324/obsidian-code-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Source Code Note 是一个功能强大的 Obsidian 插件。
 
-Organize source code note easily.
+轻松整理源代码注释
 
 通过 Source Code Note,您可以:
 
@@ -202,7 +202,7 @@ Organize source code note easily.
 - **下载量**：3.8K
 - **最后更新**：2023-03-14
 - **GitHub**：[waiting0324/obsidian-code-note](https://github.com/waiting0324/obsidian-code-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

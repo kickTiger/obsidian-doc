@@ -2,11 +2,11 @@
 title: Tree Search
 description: Supercharged search across backlinks and relations in your notes
 author: catacgc
-downloads: 2007
+downloads: 2010
 updated: 1739162861000
 repo: catacgc/obsidian-tree-search
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tree Search"
   description="Supercharged search across backlinks and relations in your notes"
   author="catacgc"
-  :downloads="2007"
+  :downloads="2010"
   :updated="1739162861000"
   repo="catacgc/obsidian-tree-search"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Supercharged search across backlinks and relations in your notes
 - **下载量**：2.0K
 - **最后更新**：2025-02-10
 - **GitHub**：[catacgc/obsidian-tree-search](https://github.com/catacgc/obsidian-tree-search)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

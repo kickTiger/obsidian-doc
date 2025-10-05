@@ -2,11 +2,11 @@
 title: Quick Emoji
 description: 'Quick, in-editor, emoji inserting. Type ":" to start selecting an emoji to insert.'
 author: Alec Sibilia
-downloads: 591
+downloads: 594
 updated: 1755176276000
 repo: asibilia/obsidian-quick-emoji
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Quick Emoji"
   description="Quick, in-editor, emoji inserting. Type &quot;:&quot; to start selecting an emoji to insert."
   author="Alec Sibilia"
-  :downloads="591"
+  :downloads="594"
   :updated="1755176276000"
   repo="asibilia/obsidian-quick-emoji"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Quick, in-editor, emoji inserting. Type &quot;:&quot; to start selecting an emoj
 - **插件 ID**：quick-emoji
 - **作者**：Alec Sibilia
 - **当前版本**：v1.0.0
-- **下载量**：591
+- **下载量**：594
 - **最后更新**：2025-08-14
 - **GitHub**：[asibilia/obsidian-quick-emoji](https://github.com/asibilia/obsidian-quick-emoji)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

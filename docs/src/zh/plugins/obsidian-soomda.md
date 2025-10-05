@@ -1,12 +1,12 @@
 ---
 title: Soomda
-description: Quickly hide your sidebars.
+description: 快速隐藏侧边栏
 author: Michael Lee
 downloads: 3864
 updated: 1683172553000
 repo: michaellee/soomda
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-soomda"
   name="Soomda"
-  description="Quickly hide your sidebars."
+  description="快速隐藏侧边栏"
   author="Michael Lee"
   :downloads="3864"
   :updated="1683172553000"
   repo="michaellee/soomda"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Soomda 是一个功能强大的 Obsidian 插件。
 
-Quickly hide your sidebars.
+快速隐藏侧边栏
 
 通过 Soomda,您可以:
 
@@ -202,7 +202,7 @@ Quickly hide your sidebars.
 - **下载量**：3.9K
 - **最后更新**：2023-05-04
 - **GitHub**：[michaellee/soomda](https://github.com/michaellee/soomda)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

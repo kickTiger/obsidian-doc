@@ -2,11 +2,11 @@
 title: Accounting Journal and Ledger
 description: Tool for recording simple journal entries in class, based on the Spanish libro diario and libro mayor (ledger). Uses double-entry bookkeeping.
 author: Javier Ribal del Río
-downloads: 85
+downloads: 88
 updated: 1751817486000
 repo: JavierRibaldelRio/accounting-journal-ledger
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Accounting Journal and Ledger"
   description="Tool for recording simple journal entries in class, based on the Spanish libro diario and libro mayor (ledger). Uses double-entry bookkeeping."
   author="Javier Ribal del Río"
-  :downloads="85"
+  :downloads="88"
   :updated="1751817486000"
   repo="JavierRibaldelRio/accounting-journal-ledger"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Tool for recording simple journal entries in class, based on the Spanish libro d
 - **插件 ID**：accounting-journal-ledger
 - **作者**：Javier Ribal del Río
 - **当前版本**：v1.0.0
-- **下载量**：85
+- **下载量**：88
 - **最后更新**：2025-07-06
 - **GitHub**：[JavierRibaldelRio/accounting-journal-ledger](https://github.com/JavierRibaldelRio/accounting-journal-ledger)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

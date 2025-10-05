@@ -1,12 +1,12 @@
 ---
 title: Pandoc
-description: Commands to export to Pandoc-supported formats like DOCX, ePub and PDF.
+description: 使用 Pandoc 导出为多种格式。
 author: Oliver Balfour
-downloads: 418719
+downloads: 418992
 updated: 1664139062000
 repo: OliverBalfour/obsidian-pandoc
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-pandoc"
   name="Pandoc"
-  description="Commands to export to Pandoc-supported formats like DOCX, ePub and PDF."
+  description="使用 Pandoc 导出为多种格式。"
   author="Oliver Balfour"
-  :downloads="418719"
+  :downloads="418992"
   :updated="1664139062000"
   repo="OliverBalfour/obsidian-pandoc"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pandoc 是一个功能强大的 Obsidian 插件。
 
-Commands to export to Pandoc-supported formats like DOCX, ePub and PDF.
+使用 Pandoc 导出为多种格式。
 
 通过 Pandoc,您可以:
 
@@ -199,10 +199,10 @@ Commands to export to Pandoc-supported formats like DOCX, ePub and PDF.
 - **插件 ID**：obsidian-pandoc
 - **作者**：Oliver Balfour
 - **当前版本**：v1.0.0
-- **下载量**：418.7K
+- **下载量**：419.0K
 - **最后更新**：2022-09-26
 - **GitHub**：[OliverBalfour/obsidian-pandoc](https://github.com/OliverBalfour/obsidian-pandoc)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Typing Transformer
-description: Improved, configurable auto formatting as typing.
+description: 改进了可配置的输入自动格式化功能。
 author: aptend
-downloads: 9581
+downloads: 9594
 updated: 1755696365000
 repo: aptend/typing-transformer-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="typing-transformer-obsidian"
   name="Typing Transformer"
-  description="Improved, configurable auto formatting as typing."
+  description="改进了可配置的输入自动格式化功能。"
   author="aptend"
-  :downloads="9581"
+  :downloads="9594"
   :updated="1755696365000"
   repo="aptend/typing-transformer-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Typing Transformer 是一个功能强大的 Obsidian 插件。
 
-Improved, configurable auto formatting as typing.
+改进了可配置的输入自动格式化功能。
 
 通过 Typing Transformer,您可以:
 
@@ -202,7 +202,7 @@ Improved, configurable auto formatting as typing.
 - **下载量**：9.6K
 - **最后更新**：2025-08-20
 - **GitHub**：[aptend/typing-transformer-obsidian](https://github.com/aptend/typing-transformer-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Enhanced Publisher
 description: 增强发布插件，支持图片时自动存储、HTML预览和发布到微信公众号等内容平台。
 author: Cube
-downloads: 320
+downloads: 322
 updated: 1744451592000
 repo: chararch/obsidian-enhanced-publisher
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Enhanced Publisher"
   description="增强发布插件，支持图片时自动存储、HTML预览和发布到微信公众号等内容平台。"
   author="Cube"
-  :downloads="320"
+  :downloads="322"
   :updated="1744451592000"
   repo="chararch/obsidian-enhanced-publisher"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Enhanced Publisher 是一个功能强大的 Obsidian 插件。
 - **插件 ID**：enhanced-publisher
 - **作者**：Cube
 - **当前版本**：v1.0.0
-- **下载量**：320
+- **下载量**：322
 - **最后更新**：2025-04-12
 - **GitHub**：[chararch/obsidian-enhanced-publisher](https://github.com/chararch/obsidian-enhanced-publisher)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

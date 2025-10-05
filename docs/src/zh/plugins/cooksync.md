@@ -6,7 +6,7 @@ downloads: 149
 updated: 1736884991000
 repo: furst/cooksync-obsidian
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1736884991000"
   repo="furst/cooksync-obsidian"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically imports recipes collected using Cooksync.
 - **下载量**：149
 - **最后更新**：2025-01-15
 - **GitHub**：[furst/cooksync-obsidian](https://github.com/furst/cooksync-obsidian)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

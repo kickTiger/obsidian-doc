@@ -2,11 +2,11 @@
 title: hello nemesis
 description: Uses OpenAI to challenge your ideas.
 author: Dian
-downloads: 243
+downloads: 244
 updated: 1740064261000
 repo: adiguno/hello-nemesis
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="hello nemesis"
   description="Uses OpenAI to challenge your ideas."
   author="Dian"
-  :downloads="243"
+  :downloads="244"
   :updated="1740064261000"
   repo="adiguno/hello-nemesis"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Uses OpenAI to challenge your ideas.
 - **插件 ID**：hello-nemesis
 - **作者**：Dian
 - **当前版本**：v1.0.0
-- **下载量**：243
+- **下载量**：244
 - **最后更新**：2025-02-20
 - **GitHub**：[adiguno/hello-nemesis](https://github.com/adiguno/hello-nemesis)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

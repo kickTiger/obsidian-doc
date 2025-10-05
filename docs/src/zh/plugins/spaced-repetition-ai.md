@@ -2,11 +2,11 @@
 title: Spaced Repetition AI
 description: Review, generate, and add flashcards for your notes using AI
 author: Belinda Mo, Athena Leong
-downloads: 627
+downloads: 629
 updated: 1741158321000
 repo: ai-learning-tools/obsidian-spaced-repetition-ai
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Spaced Repetition AI"
   description="Review, generate, and add flashcards for your notes using AI"
   author="Belinda Mo, Athena Leong"
-  :downloads="627"
+  :downloads="629"
   :updated="1741158321000"
   repo="ai-learning-tools/obsidian-spaced-repetition-ai"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Review, generate, and add flashcards for your notes using AI
 - **插件 ID**：spaced-repetition-ai
 - **作者**：Belinda Mo, Athena Leong
 - **当前版本**：v1.0.0
-- **下载量**：627
+- **下载量**：629
 - **最后更新**：2025-03-05
 - **GitHub**：[ai-learning-tools/obsidian-spaced-repetition-ai](https://github.com/ai-learning-tools/obsidian-spaced-repetition-ai)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

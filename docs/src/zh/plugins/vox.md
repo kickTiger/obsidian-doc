@@ -1,12 +1,12 @@
 ---
 title: Vox
-description: Intelligently transcribe and categorize your voice notes.
+description: 智能转录语音笔记并进行分类。
 author: vincentbavitz
-downloads: 6500
+downloads: 6504
 updated: 1726640761000
 repo: vincentbavitz/obsidian-vox
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vox"
   name="Vox"
-  description="Intelligently transcribe and categorize your voice notes."
+  description="智能转录语音笔记并进行分类。"
   author="vincentbavitz"
-  :downloads="6500"
+  :downloads="6504"
   :updated="1726640761000"
   repo="vincentbavitz/obsidian-vox"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vox 是一个功能强大的 Obsidian 插件。
 
-Intelligently transcribe and categorize your voice notes.
+智能转录语音笔记并进行分类。
 
 通过 Vox,您可以:
 
@@ -202,7 +202,7 @@ Intelligently transcribe and categorize your voice notes.
 - **下载量**：6.5K
 - **最后更新**：2024-09-18
 - **GitHub**：[vincentbavitz/obsidian-vox](https://github.com/vincentbavitz/obsidian-vox)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

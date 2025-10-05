@@ -1,12 +1,12 @@
 ---
 title: AI LLM
-description: Integrate local machine learning (OLLAMA) functionality into your notes, enhancing their capabilities.
+description: 将本地机器学习 (OLLAMA) 功能集成到笔记中，增强笔记功能。
 author: Sparky4567
-downloads: 6023
+downloads: 6029
 updated: 1719734953000
 repo: Sparky4567/obsidian_ai_plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ai_llm"
   name="AI LLM"
-  description="Integrate local machine learning (OLLAMA) functionality into your notes, enhancing their capabilities."
+  description="将本地机器学习 (OLLAMA) 功能集成到笔记中，增强笔记功能。"
   author="Sparky4567"
-  :downloads="6023"
+  :downloads="6029"
   :updated="1719734953000"
   repo="Sparky4567/obsidian_ai_plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AI LLM 是一个功能强大的 Obsidian 插件。
 
-Integrate local machine learning (OLLAMA) functionality into your notes, enhancing their capabilities.
+将本地机器学习 (OLLAMA) 功能集成到笔记中，增强笔记功能。
 
 通过 AI LLM,您可以:
 
@@ -202,7 +202,7 @@ Integrate local machine learning (OLLAMA) functionality into your notes, enhanci
 - **下载量**：6.0K
 - **最后更新**：2024-06-30
 - **GitHub**：[Sparky4567/obsidian_ai_plugin](https://github.com/Sparky4567/obsidian_ai_plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

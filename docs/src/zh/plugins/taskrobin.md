@@ -2,11 +2,11 @@
 title: Sync Emails
 description: Sync and save emails and attachment files to your vault with TaskRobin.
 author: taskrobin
-downloads: 459
+downloads: 460
 updated: 1754642760000
 repo: taskrobin/Obsidian-Plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Sync Emails"
   description="Sync and save emails and attachment files to your vault with TaskRobin."
   author="taskrobin"
-  :downloads="459"
+  :downloads="460"
   :updated="1754642760000"
   repo="taskrobin/Obsidian-Plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Sync and save emails and attachment files to your vault with TaskRobin.
 - **插件 ID**：taskrobin
 - **作者**：taskrobin
 - **当前版本**：v1.0.0
-- **下载量**：459
+- **下载量**：460
 - **最后更新**：2025-08-08
 - **GitHub**：[taskrobin/Obsidian-Plugin](https://github.com/taskrobin/Obsidian-Plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

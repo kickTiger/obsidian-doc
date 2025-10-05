@@ -1,12 +1,12 @@
 ---
 title: Image Inserter
-description: Help users easily search and insert images to editors from Unsplash.
+description: 帮助用户从 Unsplash 轻松搜索图片并插入到编辑器中。
 author: Ray Hao
-downloads: 15841
+downloads: 15857
 updated: 1758019916000
 repo: cloudy9101/obsidian-image-inserter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="insert-unsplash-image"
   name="Image Inserter"
-  description="Help users easily search and insert images to editors from Unsplash."
+  description="帮助用户从 Unsplash 轻松搜索图片并插入到编辑器中。"
   author="Ray Hao"
-  :downloads="15841"
+  :downloads="15857"
   :updated="1758019916000"
   repo="cloudy9101/obsidian-image-inserter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image Inserter 是一个功能强大的 Obsidian 插件。
 
-Help users easily search and insert images to editors from Unsplash.
+帮助用户从 Unsplash 轻松搜索图片并插入到编辑器中。
 
 通过 Image Inserter,您可以:
 
@@ -199,10 +199,10 @@ Help users easily search and insert images to editors from Unsplash.
 - **插件 ID**：insert-unsplash-image
 - **作者**：Ray Hao
 - **当前版本**：v1.0.0
-- **下载量**：15.8K
+- **下载量**：15.9K
 - **最后更新**：2025-09-16
 - **GitHub**：[cloudy9101/obsidian-image-inserter](https://github.com/cloudy9101/obsidian-image-inserter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

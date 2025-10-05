@@ -2,11 +2,11 @@
 title: Inscribe
 description: Inline autocompletion powered by AI.
 author: Ahmet Ildirim
-downloads: 1039
+downloads: 1043
 updated: 1758742453000
 repo: ahmetildirim/obsidian-inscribe
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Inscribe"
   description="Inline autocompletion powered by AI."
   author="Ahmet Ildirim"
-  :downloads="1039"
+  :downloads="1043"
   :updated="1758742453000"
   repo="ahmetildirim/obsidian-inscribe"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Inline autocompletion powered by AI.
 - **下载量**：1.0K
 - **最后更新**：2025-09-25
 - **GitHub**：[ahmetildirim/obsidian-inscribe](https://github.com/ahmetildirim/obsidian-inscribe)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Markdown to Slack Message
-description: Convert a Markdown note to the Slack message blocks that enable you to send to Slack.
+description: 将 Markdown 注释转换为 Slack 消息块，以便发送到 Slack。
 author: Woongshik Choi
 downloads: 4337
 updated: 1686657406000
 repo: idreamer/markdown-to-slack-message
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="markdown-to-slack-message"
   name="Markdown to Slack Message"
-  description="Convert a Markdown note to the Slack message blocks that enable you to send to Slack."
+  description="将 Markdown 注释转换为 Slack 消息块，以便发送到 Slack。"
   author="Woongshik Choi"
   :downloads="4337"
   :updated="1686657406000"
   repo="idreamer/markdown-to-slack-message"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown to Slack Message 是一个功能强大的 Obsidian 插件。
 
-Convert a Markdown note to the Slack message blocks that enable you to send to Slack.
+将 Markdown 注释转换为 Slack 消息块，以便发送到 Slack。
 
 通过 Markdown to Slack Message,您可以:
 
@@ -202,7 +202,7 @@ Convert a Markdown note to the Slack message blocks that enable you to send to S
 - **下载量**：4.3K
 - **最后更新**：2023-06-13
 - **GitHub**：[idreamer/markdown-to-slack-message](https://github.com/idreamer/markdown-to-slack-message)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

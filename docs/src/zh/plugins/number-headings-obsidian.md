@@ -1,12 +1,12 @@
 ---
 title: Number Headings
-description: Automatically number or re-number headings.
+description: 自动编号或重新编号标题。
 author: Kevin Albrecht
-downloads: 67593
+downloads: 67636
 updated: 1696337257000
 repo: onlyafly/number-headings-obsidian
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="number-headings-obsidian"
   name="Number Headings"
-  description="Automatically number or re-number headings."
+  description="自动编号或重新编号标题。"
   author="Kevin Albrecht"
-  :downloads="67593"
+  :downloads="67636"
   :updated="1696337257000"
   repo="onlyafly/number-headings-obsidian"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Number Headings 是一个功能强大的 Obsidian 插件。
 
-Automatically number or re-number headings.
+自动编号或重新编号标题。
 
 通过 Number Headings,您可以:
 
@@ -202,7 +202,7 @@ Automatically number or re-number headings.
 - **下载量**：67.6K
 - **最后更新**：2023-10-03
 - **GitHub**：[onlyafly/number-headings-obsidian](https://github.com/onlyafly/number-headings-obsidian)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

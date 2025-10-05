@@ -2,11 +2,11 @@
 title: BookNav
 description: Book style page navigation.
 author: jemberton
-downloads: 564
+downloads: 569
 updated: 1728240989000
 repo: jemberton/obsidian-booknav-plugin
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="BookNav"
   description="Book style page navigation."
   author="jemberton"
-  :downloads="564"
+  :downloads="569"
   :updated="1728240989000"
   repo="jemberton/obsidian-booknav-plugin"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Book style page navigation.
 - **插件 ID**：booknav
 - **作者**：jemberton
 - **当前版本**：v1.0.0
-- **下载量**：564
+- **下载量**：569
 - **最后更新**：2024-10-07
 - **GitHub**：[jemberton/obsidian-booknav-plugin](https://github.com/jemberton/obsidian-booknav-plugin)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

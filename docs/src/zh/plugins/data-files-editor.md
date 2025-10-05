@@ -1,12 +1,12 @@
 ---
 title: Data Files Editor
-description: Create and edit .txt, .json and .xml files.
+description: 创建和编辑 .txt、.json 和 .xml 文件。
 author: ZukTol
-downloads: 6054
+downloads: 6075
 updated: 1758048764000
 repo: ZukTol/obsidian-data-files-editor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="data-files-editor"
   name="Data Files Editor"
-  description="Create and edit .txt, .json and .xml files."
+  description="创建和编辑 .txt、.json 和 .xml 文件。"
   author="ZukTol"
-  :downloads="6054"
+  :downloads="6075"
   :updated="1758048764000"
   repo="ZukTol/obsidian-data-files-editor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Data Files Editor 是一个功能强大的 Obsidian 插件。
 
-Create and edit .txt, .json and .xml files.
+创建和编辑 .txt、.json 和 .xml 文件。
 
 通过 Data Files Editor,您可以:
 
@@ -202,7 +202,7 @@ Create and edit .txt, .json and .xml files.
 - **下载量**：6.1K
 - **最后更新**：2025-09-17
 - **GitHub**：[ZukTol/obsidian-data-files-editor](https://github.com/ZukTol/obsidian-data-files-editor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

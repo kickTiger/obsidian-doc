@@ -1,12 +1,12 @@
 ---
 title: Pluck
-description: Quickly create notes from web pages.
+description: 快速创建网页笔记
 author: Kevin Barrett
-downloads: 9631
+downloads: 9632
 updated: 1624133852000
 repo: kevboh/obsidian-pluck
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-pluck"
   name="Pluck"
-  description="Quickly create notes from web pages."
+  description="快速创建网页笔记"
   author="Kevin Barrett"
-  :downloads="9631"
+  :downloads="9632"
   :updated="1624133852000"
   repo="kevboh/obsidian-pluck"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pluck 是一个功能强大的 Obsidian 插件。
 
-Quickly create notes from web pages.
+快速创建网页笔记
 
 通过 Pluck,您可以:
 
@@ -202,7 +202,7 @@ Quickly create notes from web pages.
 - **下载量**：9.6K
 - **最后更新**：2021-06-20
 - **GitHub**：[kevboh/obsidian-pluck](https://github.com/kevboh/obsidian-pluck)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Snippets
-description: Execute simple scripts/snippets. This plugin is experimental.
+description: 执行简单的脚本/片段。此插件为实验性插件。
 author: Pelao
-downloads: 6090
+downloads: 6091
 updated: 1624353830000
 repo: cristianvasquez/obsidian-snippets-plugin
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="snippets"
   name="Snippets"
-  description="Execute simple scripts/snippets. This plugin is experimental."
+  description="执行简单的脚本/片段。此插件为实验性插件。"
   author="Pelao"
-  :downloads="6090"
+  :downloads="6091"
   :updated="1624353830000"
   repo="cristianvasquez/obsidian-snippets-plugin"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Snippets 是一个功能强大的 Obsidian 插件。
 
-Execute simple scripts/snippets. This plugin is experimental.
+执行简单的脚本/片段。此插件为实验性插件。
 
 通过 Snippets,您可以:
 
@@ -202,7 +202,7 @@ Execute simple scripts/snippets. This plugin is experimental.
 - **下载量**：6.1K
 - **最后更新**：2021-06-22
 - **GitHub**：[cristianvasquez/obsidian-snippets-plugin](https://github.com/cristianvasquez/obsidian-snippets-plugin)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

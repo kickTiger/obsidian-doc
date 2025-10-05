@@ -1,12 +1,12 @@
 ---
 title: Task Marker
-description: Change task status and append text with hotkeys and context menu. Create, complete, cancel and mark tasks, cycle among configured task statuses, and append text (automatically).
+description: 使用热键和上下文菜单更改任务状态和附加文本。创建、完成、取消和标记任务，在配置的任务状态之间循环，以及添加文本（自动）。
 author: wenlzhang
-downloads: 13672
+downloads: 13675
 updated: 1732729790000
 repo: wenlzhang/obsidian-task-marker
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-task-marker"
   name="Task Marker"
-  description="Change task status and append text with hotkeys and context menu. Create, complete, cancel and mark tasks, cycle among configured task statuses, and append text (automatically)."
+  description="使用热键和上下文菜单更改任务状态和附加文本。创建、完成、取消和标记任务，在配置的任务状态之间循环，以及添加文本（自动）。"
   author="wenlzhang"
-  :downloads="13672"
+  :downloads="13675"
   :updated="1732729790000"
   repo="wenlzhang/obsidian-task-marker"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Task Marker 是一个功能强大的 Obsidian 插件。
 
-Change task status and append text with hotkeys and context menu. Create, complete, cancel and mark tasks, cycle among configured task statuses, and append text (automatically).
+使用热键和上下文菜单更改任务状态和附加文本。创建、完成、取消和标记任务，在配置的任务状态之间循环，以及添加文本（自动）。
 
 通过 Task Marker,您可以:
 
@@ -202,7 +202,7 @@ Change task status and append text with hotkeys and context menu. Create, comple
 - **下载量**：13.7K
 - **最后更新**：2024-11-28
 - **GitHub**：[wenlzhang/obsidian-task-marker](https://github.com/wenlzhang/obsidian-task-marker)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

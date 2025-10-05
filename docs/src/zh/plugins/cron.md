@@ -1,12 +1,12 @@
 ---
 title: Cron
-description: Simple CRON / scheduler to regularly run user scripts or commands.
+description: 简单的 CRON/调度程序，可定期运行用户脚本或命令。
 author: Callum Loh
-downloads: 5126
+downloads: 5127
 updated: 1692872787000
 repo: cdloh/obsidian-cron
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cron"
   name="Cron"
-  description="Simple CRON / scheduler to regularly run user scripts or commands."
+  description="简单的 CRON/调度程序，可定期运行用户脚本或命令。"
   author="Callum Loh"
-  :downloads="5126"
+  :downloads="5127"
   :updated="1692872787000"
   repo="cdloh/obsidian-cron"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Cron 是一个功能强大的 Obsidian 插件。
 
-Simple CRON / scheduler to regularly run user scripts or commands.
+简单的 CRON/调度程序，可定期运行用户脚本或命令。
 
 通过 Cron,您可以:
 
@@ -202,7 +202,7 @@ Simple CRON / scheduler to regularly run user scripts or commands.
 - **下载量**：5.1K
 - **最后更新**：2023-08-24
 - **GitHub**：[cdloh/obsidian-cron](https://github.com/cdloh/obsidian-cron)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

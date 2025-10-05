@@ -2,11 +2,11 @@
 title: Fold Properties
 description: Adds fold/unfold properties function to folder and file context menu
 author: James Alexandre
-downloads: 2329
+downloads: 2333
 updated: 1756688672000
 repo: itsonlyjames/obsidian-fold-properties
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Fold Properties"
   description="Adds fold/unfold properties function to folder and file context menu"
   author="James Alexandre"
-  :downloads="2329"
+  :downloads="2333"
   :updated="1756688672000"
   repo="itsonlyjames/obsidian-fold-properties"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds fold/unfold properties function to folder and file context menu
 - **下载量**：2.3K
 - **最后更新**：2025-09-01
 - **GitHub**：[itsonlyjames/obsidian-fold-properties](https://github.com/itsonlyjames/obsidian-fold-properties)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

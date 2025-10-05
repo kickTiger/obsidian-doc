@@ -2,11 +2,11 @@
 title: Force Read Mode
 description: Forces Markdown files in specified folders to open in read-only mode.
 author: al3xw
-downloads: 1769
+downloads: 1775
 updated: 1735398799000
 repo: al3xw/force-read-mode
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Force Read Mode"
   description="Forces Markdown files in specified folders to open in read-only mode."
   author="al3xw"
-  :downloads="1769"
+  :downloads="1775"
   :updated="1735398799000"
   repo="al3xw/force-read-mode"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Forces Markdown files in specified folders to open in read-only mode.
 - **下载量**：1.8K
 - **最后更新**：2024-12-28
 - **GitHub**：[al3xw/force-read-mode](https://github.com/al3xw/force-read-mode)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

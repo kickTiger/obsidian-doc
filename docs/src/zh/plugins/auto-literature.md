@@ -6,7 +6,7 @@ downloads: 3578
 updated: 1733494531000
 repo: hucorz/obsidian-autoLiterature
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1733494531000"
   repo="hucorz/obsidian-autoLiterature"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Assist you in taking notes for your literature.
 - **下载量**：3.6K
 - **最后更新**：2024-12-06
 - **GitHub**：[hucorz/obsidian-autoLiterature](https://github.com/hucorz/obsidian-autoLiterature)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

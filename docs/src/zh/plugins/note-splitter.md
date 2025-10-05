@@ -2,11 +2,11 @@
 title: Note Splitter
 description: Split a note into individual notes based on a delimiter.
 author: DecafDev
-downloads: 2079
+downloads: 2081
 updated: 1726991005000
 repo: decaf-dev/obsidian-note-splitter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note Splitter"
   description="Split a note into individual notes based on a delimiter."
   author="DecafDev"
-  :downloads="2079"
+  :downloads="2081"
   :updated="1726991005000"
   repo="decaf-dev/obsidian-note-splitter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Split a note into individual notes based on a delimiter.
 - **下载量**：2.1K
 - **最后更新**：2024-09-22
 - **GitHub**：[decaf-dev/obsidian-note-splitter](https://github.com/decaf-dev/obsidian-note-splitter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: downloadPDF
 description: Allows you to download all included PDF files.
 author: Frieda
-downloads: 701
+downloads: 702
 updated: 1730736389000
 repo: Frieder21/downloadPDF
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="downloadPDF"
   description="Allows you to download all included PDF files."
   author="Frieda"
-  :downloads="701"
+  :downloads="702"
   :updated="1730736389000"
   repo="Frieder21/downloadPDF"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Allows you to download all included PDF files.
 - **插件 ID**：downloadpdf
 - **作者**：Frieda
 - **当前版本**：v1.0.0
-- **下载量**：701
+- **下载量**：702
 - **最后更新**：2024-11-05
 - **GitHub**：[Frieder21/downloadPDF](https://github.com/Frieder21/downloadPDF)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

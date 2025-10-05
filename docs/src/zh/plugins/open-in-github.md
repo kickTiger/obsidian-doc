@@ -2,11 +2,11 @@
 title: Open in GitHub
 description: Open the current project or file in github.com.
 author: Muurphy Chen
-downloads: 177
+downloads: 178
 updated: 1743311109000
 repo: Hacker-C/obsidian-open-in-github-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Open in GitHub"
   description="Open the current project or file in github.com."
   author="Muurphy Chen"
-  :downloads="177"
+  :downloads="178"
   :updated="1743311109000"
   repo="Hacker-C/obsidian-open-in-github-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Open the current project or file in github.com.
 - **插件 ID**：open-in-github
 - **作者**：Muurphy Chen
 - **当前版本**：v1.0.0
-- **下载量**：177
+- **下载量**：178
 - **最后更新**：2025-03-30
 - **GitHub**：[Hacker-C/obsidian-open-in-github-plugin](https://github.com/Hacker-C/obsidian-open-in-github-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Days Since
 description: 'Relive and celebrate your life''s milestones on a personal, interactive timeline. A nostalgic journey through your history with anniversary reminders and cherished memories.'
 author: gndclouds
-downloads: 2480
+downloads: 2482
 updated: 1716181782000
 repo: gndclouds/days-since-obsidian
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Days Since"
   description="Relive and celebrate your life&#39;s milestones on a personal, interactive timeline. A nostalgic journey through your history with anniversary reminders and cherished memories."
   author="gndclouds"
-  :downloads="2480"
+  :downloads="2482"
   :updated="1716181782000"
   repo="gndclouds/days-since-obsidian"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Relive and celebrate your life&#39;s milestones on a personal, interactive timel
 - **下载量**：2.5K
 - **最后更新**：2024-05-20
 - **GitHub**：[gndclouds/days-since-obsidian](https://github.com/gndclouds/days-since-obsidian)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

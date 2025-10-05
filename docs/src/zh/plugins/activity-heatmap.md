@@ -2,11 +2,11 @@
 title: Activity Heatmap
 description: 'Tracks and visualizes app activity, similar to GitHub''s contribution chart.'
 author: Zak Hijaouy
-downloads: 1818
+downloads: 1820
 updated: 1733887356000
 repo: zakhij/obsidian-activity-heatmap
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Activity Heatmap"
   description="Tracks and visualizes app activity, similar to GitHub&#39;s contribution chart."
   author="Zak Hijaouy"
-  :downloads="1818"
+  :downloads="1820"
   :updated="1733887356000"
   repo="zakhij/obsidian-activity-heatmap"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Tracks and visualizes app activity, similar to GitHub&#39;s contribution chart.
 - **下载量**：1.8K
 - **最后更新**：2024-12-11
 - **GitHub**：[zakhij/obsidian-activity-heatmap](https://github.com/zakhij/obsidian-activity-heatmap)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Password Protect
 description: Password protect your notes.
 author: Aspharmyx
-downloads: 2643
+downloads: 2644
 updated: 1730330181000
 repo: Aspharmyx/obsidian-password-protect
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Password Protect"
   description="Password protect your notes."
   author="Aspharmyx"
-  :downloads="2643"
+  :downloads="2644"
   :updated="1730330181000"
   repo="Aspharmyx/obsidian-password-protect"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Password protect your notes.
 - **下载量**：2.6K
 - **最后更新**：2024-10-31
 - **GitHub**：[Aspharmyx/obsidian-password-protect](https://github.com/Aspharmyx/obsidian-password-protect)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

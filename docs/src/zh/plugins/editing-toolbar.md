@@ -1,12 +1,12 @@
 ---
 title: Editing Toolbar
-description: The Editing Toolbar is modified from cMenu, which provides more powerful customization settings and has many built-in editing commands to be a MS Word-like toolbar editing experience.
+description: 编辑工具栏是从 cMenu 修改而来的，它提供了更强大的自定义设置，并内置了许多编辑命令，可提供类似 MS Word 的工具栏编辑体验。
 author: Cuman
-downloads: 942838
+downloads: 944023
 updated: 1752166533000
 repo: PKM-er/obsidian-editing-toolbar
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="editing-toolbar"
   name="Editing Toolbar"
-  description="The Editing Toolbar is modified from cMenu, which provides more powerful customization settings and has many built-in editing commands to be a MS Word-like toolbar editing experience."
+  description="编辑工具栏是从 cMenu 修改而来的，它提供了更强大的自定义设置，并内置了许多编辑命令，可提供类似 MS Word 的工具栏编辑体验。"
   author="Cuman"
-  :downloads="942838"
+  :downloads="944023"
   :updated="1752166533000"
   repo="PKM-er/obsidian-editing-toolbar"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Editing Toolbar 是一个功能强大的 Obsidian 插件。
 
-The Editing Toolbar is modified from cMenu, which provides more powerful customization settings and has many built-in editing commands to be a MS Word-like toolbar editing experience.
+编辑工具栏是从 cMenu 修改而来的，它提供了更强大的自定义设置，并内置了许多编辑命令，可提供类似 MS Word 的工具栏编辑体验。
 
 通过 Editing Toolbar,您可以:
 
@@ -199,10 +199,10 @@ The Editing Toolbar is modified from cMenu, which provides more powerful customi
 - **插件 ID**：editing-toolbar
 - **作者**：Cuman
 - **当前版本**：v1.0.0
-- **下载量**：942.8K
+- **下载量**：944.0K
 - **最后更新**：2025-07-11
 - **GitHub**：[PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

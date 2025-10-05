@@ -6,7 +6,7 @@ downloads: 495
 updated: 1734244686000
 repo: barkstone2/vault-to-blog
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1734244686000"
   repo="barkstone2/vault-to-blog"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish the vault to a GitHub Pages blog.
 - **下载量**：495
 - **最后更新**：2024-12-15
 - **GitHub**：[barkstone2/vault-to-blog](https://github.com/barkstone2/vault-to-blog)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

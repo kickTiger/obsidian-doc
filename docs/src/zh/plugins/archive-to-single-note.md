@@ -6,7 +6,7 @@ downloads: 2674
 updated: 1699948633000
 repo: mwoz123/archive-to-single-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1699948633000"
   repo="mwoz123/archive-to-single-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create single file archive/trash and merge(archive) old notes with it.
 - **下载量**：2.7K
 - **最后更新**：2023-11-14
 - **GitHub**：[mwoz123/archive-to-single-note](https://github.com/mwoz123/archive-to-single-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

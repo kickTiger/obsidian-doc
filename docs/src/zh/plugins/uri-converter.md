@@ -6,7 +6,7 @@ downloads: 388
 updated: 1751039012000
 repo: wenlzhang/obsidian-uri-converter
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1751039012000"
   repo="wenlzhang/obsidian-uri-converter"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Convert URIs to internal links.
 - **下载量**：388
 - **最后更新**：2025-06-27
 - **GitHub**：[wenlzhang/obsidian-uri-converter](https://github.com/wenlzhang/obsidian-uri-converter)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Tab Shifter
 description: Enables shifting tabs between different tab splits
 author: Joshua Rozner
-downloads: 2637
+downloads: 2639
 updated: 1743000979000
 repo: jsrozner/obsidian-tab-shifter
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tab Shifter"
   description="Enables shifting tabs between different tab splits"
   author="Joshua Rozner"
-  :downloads="2637"
+  :downloads="2639"
   :updated="1743000979000"
   repo="jsrozner/obsidian-tab-shifter"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enables shifting tabs between different tab splits
 - **下载量**：2.6K
 - **最后更新**：2025-03-26
 - **GitHub**：[jsrozner/obsidian-tab-shifter](https://github.com/jsrozner/obsidian-tab-shifter)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

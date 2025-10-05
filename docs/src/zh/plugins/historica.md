@@ -1,12 +1,12 @@
 ---
 title: historica
-description: Intelligently generates timeline from your content
+description: 从内容中智能生成时间轴
 author: Nhan Nguyen
-downloads: 4073
+downloads: 4075
 updated: 1732162911000
 repo: nhannht/obsidian-historica
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="historica"
   name="historica"
-  description="Intelligently generates timeline from your content"
+  description="从内容中智能生成时间轴"
   author="Nhan Nguyen"
-  :downloads="4073"
+  :downloads="4075"
   :updated="1732162911000"
   repo="nhannht/obsidian-historica"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 historica 是一个功能强大的 Obsidian 插件。
 
-Intelligently generates timeline from your content
+从内容中智能生成时间轴
 
 通过 historica,您可以:
 
@@ -202,7 +202,7 @@ Intelligently generates timeline from your content
 - **下载量**：4.1K
 - **最后更新**：2024-11-21
 - **GitHub**：[nhannht/obsidian-historica](https://github.com/nhannht/obsidian-historica)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

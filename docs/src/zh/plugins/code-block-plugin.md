@@ -1,12 +1,12 @@
 ---
 title: Code Block
-description: Convert text into code blocks with automatic language detection.
+description: 通过自动语言检测将文本转换为代码块。
 author: Patrik Lindefors
-downloads: 12265
+downloads: 12271
 updated: 1717844703000
 repo: paddan/code-block-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="code-block-plugin"
   name="Code Block"
-  description="Convert text into code blocks with automatic language detection."
+  description="通过自动语言检测将文本转换为代码块。"
   author="Patrik Lindefors"
-  :downloads="12265"
+  :downloads="12271"
   :updated="1717844703000"
   repo="paddan/code-block-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Code Block 是一个功能强大的 Obsidian 插件。
 
-Convert text into code blocks with automatic language detection.
+通过自动语言检测将文本转换为代码块。
 
 通过 Code Block,您可以:
 
@@ -202,7 +202,7 @@ Convert text into code blocks with automatic language detection.
 - **下载量**：12.3K
 - **最后更新**：2024-06-08
 - **GitHub**：[paddan/code-block-plugin](https://github.com/paddan/code-block-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

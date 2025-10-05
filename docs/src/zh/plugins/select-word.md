@@ -6,7 +6,7 @@ downloads: 353
 updated: 1714099973000
 repo: ConnorEspino/ObsidianSelectWord
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1714099973000"
   repo="ConnorEspino/ObsidianSelectWord"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Selects the word that is closest to the caret.
 - **下载量**：353
 - **最后更新**：2024-04-26
 - **GitHub**：[ConnorEspino/ObsidianSelectWord](https://github.com/ConnorEspino/ObsidianSelectWord)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

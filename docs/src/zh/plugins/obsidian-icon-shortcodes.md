@@ -1,12 +1,12 @@
 ---
 title: Icon Shortcodes
-description: Insert emoji and custom icons with shortcodes.
+description: 使用简码插入表情符号和自定义图标。
 author: AidenLx
-downloads: 52927
+downloads: 52956
 updated: 1665839928000
 repo: aidenlx/obsidian-icon-shortcodes
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-icon-shortcodes"
   name="Icon Shortcodes"
-  description="Insert emoji and custom icons with shortcodes."
+  description="使用简码插入表情符号和自定义图标。"
   author="AidenLx"
-  :downloads="52927"
+  :downloads="52956"
   :updated="1665839928000"
   repo="aidenlx/obsidian-icon-shortcodes"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Icon Shortcodes 是一个功能强大的 Obsidian 插件。
 
-Insert emoji and custom icons with shortcodes.
+使用简码插入表情符号和自定义图标。
 
 通过 Icon Shortcodes,您可以:
 
@@ -199,10 +199,10 @@ Insert emoji and custom icons with shortcodes.
 - **插件 ID**：obsidian-icon-shortcodes
 - **作者**：AidenLx
 - **当前版本**：v1.0.0
-- **下载量**：52.9K
+- **下载量**：53.0K
 - **最后更新**：2022-10-15
 - **GitHub**：[aidenlx/obsidian-icon-shortcodes](https://github.com/aidenlx/obsidian-icon-shortcodes)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

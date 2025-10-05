@@ -1,12 +1,12 @@
 ---
 title: AnkiSync+
-description: Integration between Obsidian and Anki.
+description: 整合 Obsidian 和 Anki。
 author: RochaG0
-downloads: 4376
+downloads: 4377
 updated: 1696529898000
 repo: RochaG07/anki-sync-plus
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="anki-sync-plus"
   name="AnkiSync+"
-  description="Integration between Obsidian and Anki."
+  description="整合 Obsidian 和 Anki。"
   author="RochaG0"
-  :downloads="4376"
+  :downloads="4377"
   :updated="1696529898000"
   repo="RochaG07/anki-sync-plus"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AnkiSync+ 是一个功能强大的 Obsidian 插件。
 
-Integration between Obsidian and Anki.
+整合 Obsidian 和 Anki。
 
 通过 AnkiSync+,您可以:
 
@@ -202,7 +202,7 @@ Integration between Obsidian and Anki.
 - **下载量**：4.4K
 - **最后更新**：2023-10-06
 - **GitHub**：[RochaG07/anki-sync-plus](https://github.com/RochaG07/anki-sync-plus)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

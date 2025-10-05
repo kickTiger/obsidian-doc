@@ -1,12 +1,12 @@
 ---
 title: Julian Date
-description: Add a shortcut to insert the current Julian date for astronomical observations.
+description: 为天文观测添加插入当前儒略日的快捷方式。
 author: thek3nger
 downloads: 4255
 updated: 1626876571000
 repo: THeK3nger/obsidian-juliandate
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-juliandate"
   name="Julian Date"
-  description="Add a shortcut to insert the current Julian date for astronomical observations."
+  description="为天文观测添加插入当前儒略日的快捷方式。"
   author="thek3nger"
   :downloads="4255"
   :updated="1626876571000"
   repo="THeK3nger/obsidian-juliandate"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Julian Date 是一个功能强大的 Obsidian 插件。
 
-Add a shortcut to insert the current Julian date for astronomical observations.
+为天文观测添加插入当前儒略日的快捷方式。
 
 通过 Julian Date,您可以:
 
@@ -202,7 +202,7 @@ Add a shortcut to insert the current Julian date for astronomical observations.
 - **下载量**：4.3K
 - **最后更新**：2021-07-21
 - **GitHub**：[THeK3nger/obsidian-juliandate](https://github.com/THeK3nger/obsidian-juliandate)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Thumbnails
-description: Insert YouTube thumbnails into your notes.
+description: 在笔记中插入 YouTube 缩略图。
 author: Michael Harris
-downloads: 19793
+downloads: 19811
 updated: 1736658314000
 repo: Meikul/obsidian-thumbnails
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-thumbnails"
   name="Thumbnails"
-  description="Insert YouTube thumbnails into your notes."
+  description="在笔记中插入 YouTube 缩略图。"
   author="Michael Harris"
-  :downloads="19793"
+  :downloads="19811"
   :updated="1736658314000"
   repo="Meikul/obsidian-thumbnails"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Thumbnails 是一个功能强大的 Obsidian 插件。
 
-Insert YouTube thumbnails into your notes.
+在笔记中插入 YouTube 缩略图。
 
 通过 Thumbnails,您可以:
 
@@ -202,7 +202,7 @@ Insert YouTube thumbnails into your notes.
 - **下载量**：19.8K
 - **最后更新**：2025-01-12
 - **GitHub**：[Meikul/obsidian-thumbnails](https://github.com/Meikul/obsidian-thumbnails)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

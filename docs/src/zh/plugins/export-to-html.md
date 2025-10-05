@@ -1,12 +1,12 @@
 ---
 title: Export to HTML
-description: Export your Markdown notes as HTML, directly in the clipboard or as a file.
+description: 将 Markdown 笔记导出为 HTML，直接导入剪贴板或导出为文件。
 author: kalvn
-downloads: 3861
+downloads: 3871
 updated: 1732976433000
 repo: kalvn/obsidian-export-to-html
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="export-to-html"
   name="Export to HTML"
-  description="Export your Markdown notes as HTML, directly in the clipboard or as a file."
+  description="将 Markdown 笔记导出为 HTML，直接导入剪贴板或导出为文件。"
   author="kalvn"
-  :downloads="3861"
+  :downloads="3871"
   :updated="1732976433000"
   repo="kalvn/obsidian-export-to-html"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Export to HTML 是一个功能强大的 Obsidian 插件。
 
-Export your Markdown notes as HTML, directly in the clipboard or as a file.
+将 Markdown 笔记导出为 HTML，直接导入剪贴板或导出为文件。
 
 通过 Export to HTML,您可以:
 
@@ -202,7 +202,7 @@ Export your Markdown notes as HTML, directly in the clipboard or as a file.
 - **下载量**：3.9K
 - **最后更新**：2024-11-30
 - **GitHub**：[kalvn/obsidian-export-to-html](https://github.com/kalvn/obsidian-export-to-html)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

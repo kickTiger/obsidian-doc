@@ -1,12 +1,12 @@
 ---
 title: Title Generator
-description: 'Quickly and easily title your notes using OpenAI''s GPT-3.5.'
+description: 使用 OpenAI 的 GPT-3.5 快速、轻松地为您的笔记添加标题。
 author: Jascha Ephraim
 downloads: 3592
 updated: 1697044224000
 repo: jaschaephraim/obsidian-title-generator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="title-generator"
   name="Title Generator"
-  description="Quickly and easily title your notes using OpenAI&#39;s GPT-3.5."
+  description="使用 OpenAI 的 GPT-3.5 快速、轻松地为您的笔记添加标题。"
   author="Jascha Ephraim"
   :downloads="3592"
   :updated="1697044224000"
   repo="jaschaephraim/obsidian-title-generator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Title Generator 是一个功能强大的 Obsidian 插件。
 
-Quickly and easily title your notes using OpenAI&#39;s GPT-3.5.
+使用 OpenAI 的 GPT-3.5 快速、轻松地为您的笔记添加标题。
 
 通过 Title Generator,您可以:
 
@@ -202,7 +202,7 @@ Quickly and easily title your notes using OpenAI&#39;s GPT-3.5.
 - **下载量**：3.6K
 - **最后更新**：2023-10-12
 - **GitHub**：[jaschaephraim/obsidian-title-generator](https://github.com/jaschaephraim/obsidian-title-generator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

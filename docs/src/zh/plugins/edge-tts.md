@@ -1,12 +1,12 @@
 ---
 title: Edge TTS
-description: Read notes aloud using Microsoft Edge Read Aloud API (free, high quality text-to-speech).
+description: 使用 Microsoft Edge 朗读 API（免费、高质量的文本到语音）朗读笔记。
 author: Travis
-downloads: 15318
+downloads: 15382
 updated: 1758741336000
 repo: travisvn/obsidian-edge-tts
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="edge-tts"
   name="Edge TTS"
-  description="Read notes aloud using Microsoft Edge Read Aloud API (free, high quality text-to-speech)."
+  description="使用 Microsoft Edge 朗读 API（免费、高质量的文本到语音）朗读笔记。"
   author="Travis"
-  :downloads="15318"
+  :downloads="15382"
   :updated="1758741336000"
   repo="travisvn/obsidian-edge-tts"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Edge TTS 是一个功能强大的 Obsidian 插件。
 
-Read notes aloud using Microsoft Edge Read Aloud API (free, high quality text-to-speech).
+使用 Microsoft Edge 朗读 API（免费、高质量的文本到语音）朗读笔记。
 
 通过 Edge TTS,您可以:
 
@@ -199,10 +199,10 @@ Read notes aloud using Microsoft Edge Read Aloud API (free, high quality text-to
 - **插件 ID**：edge-tts
 - **作者**：Travis
 - **当前版本**：v1.0.0
-- **下载量**：15.3K
+- **下载量**：15.4K
 - **最后更新**：2025-09-25
 - **GitHub**：[travisvn/obsidian-edge-tts](https://github.com/travisvn/obsidian-edge-tts)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

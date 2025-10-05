@@ -2,11 +2,11 @@
 title: Paperless
 description: Link your paperless-ngx documents within your vault.
 author: Talal Abou Haiba
-downloads: 995
+downloads: 998
 updated: 1746762874000
 repo: Talal-A/obsidian-paperless
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Paperless"
   description="Link your paperless-ngx documents within your vault."
   author="Talal Abou Haiba"
-  :downloads="995"
+  :downloads="998"
   :updated="1746762874000"
   repo="Talal-A/obsidian-paperless"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Link your paperless-ngx documents within your vault.
 - **插件 ID**：paperless
 - **作者**：Talal Abou Haiba
 - **当前版本**：v1.0.0
-- **下载量**：995
+- **下载量**：998
 - **最后更新**：2025-05-09
 - **GitHub**：[Talal-A/obsidian-paperless](https://github.com/Talal-A/obsidian-paperless)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

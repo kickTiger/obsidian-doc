@@ -1,12 +1,12 @@
 ---
 title: ABC Music Notation
-description: Render music sheets directly from code blocks using ABC music notation via abcjs.
+description: 通过 abcjs，使用 ABC 音乐符号直接从代码块渲染乐谱。
 author: Til Blechschmidt
-downloads: 23179
+downloads: 23198
 updated: 1756902171000
 repo: abcjs-music/obsidian-plugin-abcjs
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="music-code-blocks"
   name="ABC Music Notation"
-  description="Render music sheets directly from code blocks using ABC music notation via abcjs."
+  description="通过 abcjs，使用 ABC 音乐符号直接从代码块渲染乐谱。"
   author="Til Blechschmidt"
-  :downloads="23179"
+  :downloads="23198"
   :updated="1756902171000"
   repo="abcjs-music/obsidian-plugin-abcjs"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ABC Music Notation 是一个功能强大的 Obsidian 插件。
 
-Render music sheets directly from code blocks using ABC music notation via abcjs.
+通过 abcjs，使用 ABC 音乐符号直接从代码块渲染乐谱。
 
 通过 ABC Music Notation,您可以:
 
@@ -202,7 +202,7 @@ Render music sheets directly from code blocks using ABC music notation via abcjs
 - **下载量**：23.2K
 - **最后更新**：2025-09-03
 - **GitHub**：[abcjs-music/obsidian-plugin-abcjs](https://github.com/abcjs-music/obsidian-plugin-abcjs)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

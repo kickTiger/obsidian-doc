@@ -2,11 +2,11 @@
 title: Link to Verse
 description: From a bible reference selected creates a markdown link to a configured bible site.
 author: Alberto Sesiliano (aygjiay)
-downloads: 760
+downloads: 764
 updated: 1749604690000
 repo: aygjiay/obsidian-link-to-verse
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Link to Verse"
   description="From a bible reference selected creates a markdown link to a configured bible site."
   author="Alberto Sesiliano (aygjiay)"
-  :downloads="760"
+  :downloads="764"
   :updated="1749604690000"
   repo="aygjiay/obsidian-link-to-verse"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ From a bible reference selected creates a markdown link to a configured bible si
 - **插件 ID**：link-to-verse
 - **作者**：Alberto Sesiliano (aygjiay)
 - **当前版本**：v1.0.0
-- **下载量**：760
+- **下载量**：764
 - **最后更新**：2025-06-11
 - **GitHub**：[aygjiay/obsidian-link-to-verse](https://github.com/aygjiay/obsidian-link-to-verse)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

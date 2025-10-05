@@ -1,12 +1,12 @@
 ---
 title: Live Variables
-description: 'Define variables in your note''s properties and reuse them throughout your content.'
+description: 在笔记属性中定义变量，并在内容中重复使用。
 author: Hamza Ben Yazid
-downloads: 5122
+downloads: 5130
 updated: 1747386565000
 repo: HamzaBenyazid/Live-variables
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="live-variables"
   name="Live Variables"
-  description="Define variables in your note&#39;s properties and reuse them throughout your content."
+  description="在笔记属性中定义变量，并在内容中重复使用。"
   author="Hamza Ben Yazid"
-  :downloads="5122"
+  :downloads="5130"
   :updated="1747386565000"
   repo="HamzaBenyazid/Live-variables"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Live Variables 是一个功能强大的 Obsidian 插件。
 
-Define variables in your note&#39;s properties and reuse them throughout your content.
+在笔记属性中定义变量，并在内容中重复使用。
 
 通过 Live Variables,您可以:
 
@@ -202,7 +202,7 @@ Define variables in your note&#39;s properties and reuse them throughout your co
 - **下载量**：5.1K
 - **最后更新**：2025-05-16
 - **GitHub**：[HamzaBenyazid/Live-variables](https://github.com/HamzaBenyazid/Live-variables)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

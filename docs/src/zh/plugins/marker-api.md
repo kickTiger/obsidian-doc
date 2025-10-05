@@ -1,12 +1,12 @@
 ---
 title: Marker PDF to MD
-description: Convert PDFs to rich Markdown, including images and ocr using the marker api
+description: 使用标记 api 将 PDF 转换为内容丰富的 Markdown 文件，包括图像和 OCR
 author: L3N0X
-downloads: 12067
+downloads: 12086
 updated: 1750240966000
 repo: L3-N0X/obsidian-marker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="marker-api"
   name="Marker PDF to MD"
-  description="Convert PDFs to rich Markdown, including images and ocr using the marker api"
+  description="使用标记 api 将 PDF 转换为内容丰富的 Markdown 文件，包括图像和 OCR"
   author="L3N0X"
-  :downloads="12067"
+  :downloads="12086"
   :updated="1750240966000"
   repo="L3-N0X/obsidian-marker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Marker PDF to MD 是一个功能强大的 Obsidian 插件。
 
-Convert PDFs to rich Markdown, including images and ocr using the marker api
+使用标记 api 将 PDF 转换为内容丰富的 Markdown 文件，包括图像和 OCR
 
 通过 Marker PDF to MD,您可以:
 
@@ -202,7 +202,7 @@ Convert PDFs to rich Markdown, including images and ocr using the marker api
 - **下载量**：12.1K
 - **最后更新**：2025-06-18
 - **GitHub**：[L3-N0X/obsidian-marker](https://github.com/L3-N0X/obsidian-marker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

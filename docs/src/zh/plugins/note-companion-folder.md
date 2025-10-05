@@ -2,11 +2,11 @@
 title: Note Companion Folder
 description: Manage a separate folder of attachments for each note.
 author: Chris Verbree
-downloads: 1609
+downloads: 1614
 updated: 1759324417000
 repo: vkodocha/NoteCompanionFolder
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note Companion Folder"
   description="Manage a separate folder of attachments for each note."
   author="Chris Verbree"
-  :downloads="1609"
+  :downloads="1614"
   :updated="1759324417000"
   repo="vkodocha/NoteCompanionFolder"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manage a separate folder of attachments for each note.
 - **下载量**：1.6K
 - **最后更新**：2025-10-01
 - **GitHub**：[vkodocha/NoteCompanionFolder](https://github.com/vkodocha/NoteCompanionFolder)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

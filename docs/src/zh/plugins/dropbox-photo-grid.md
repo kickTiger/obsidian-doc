@@ -2,11 +2,11 @@
 title: Dropbox Photo Grid
 description: Fetch images from your dropbox based on date or path
 author: Ali Moeeny
-downloads: 116
+downloads: 117
 updated: 1742267813000
 repo: alimoeeny/obsidian-dropbox-photo-grid
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Dropbox Photo Grid"
   description="Fetch images from your dropbox based on date or path"
   author="Ali Moeeny"
-  :downloads="116"
+  :downloads="117"
   :updated="1742267813000"
   repo="alimoeeny/obsidian-dropbox-photo-grid"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Fetch images from your dropbox based on date or path
 - **插件 ID**：dropbox-photo-grid
 - **作者**：Ali Moeeny
 - **当前版本**：v1.0.0
-- **下载量**：116
+- **下载量**：117
 - **最后更新**：2025-03-18
 - **GitHub**：[alimoeeny/obsidian-dropbox-photo-grid](https://github.com/alimoeeny/obsidian-dropbox-photo-grid)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

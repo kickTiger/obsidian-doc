@@ -1,12 +1,12 @@
 ---
 title: Hints Flow
-description: Save data directly to Obsidian with specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
+description: 使用指定模板将数据直接保存到 Obsidian。从 Telegram、WhatsApp、Slack、电子邮件、短信、Raycast 等处捕获数据。
 author: Hints
 downloads: 9672
 updated: 1704451755000
 repo: slpbx/obsidian-plugin
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="hints-plugin"
   name="Hints Flow"
-  description="Save data directly to Obsidian with specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more."
+  description="使用指定模板将数据直接保存到 Obsidian。从 Telegram、WhatsApp、Slack、电子邮件、短信、Raycast 等处捕获数据。"
   author="Hints"
   :downloads="9672"
   :updated="1704451755000"
   repo="slpbx/obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Hints Flow 是一个功能强大的 Obsidian 插件。
 
-Save data directly to Obsidian with specified template. Capture from Telegram, WhatsApp, Slack, Email, SMS, Raycast and more.
+使用指定模板将数据直接保存到 Obsidian。从 Telegram、WhatsApp、Slack、电子邮件、短信、Raycast 等处捕获数据。
 
 通过 Hints Flow,您可以:
 
@@ -202,7 +202,7 @@ Save data directly to Obsidian with specified template. Capture from Telegram, W
 - **下载量**：9.7K
 - **最后更新**：2024-01-05
 - **GitHub**：[slpbx/obsidian-plugin](https://github.com/slpbx/obsidian-plugin)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

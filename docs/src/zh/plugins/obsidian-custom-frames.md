@@ -1,12 +1,12 @@
 ---
 title: Custom Frames
-description: Turn web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
+description: 使用带有自定义样式的 iframe 将网络应用程序转化为窗格。还为 Google Keep、Todoist 等提供预设。
 author: Ellpeck
-downloads: 194118
+downloads: 194254
 updated: 1737284546000
 repo: Ellpeck/ObsidianCustomFrames
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-custom-frames"
   name="Custom Frames"
-  description="Turn web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more."
+  description="使用带有自定义样式的 iframe 将网络应用程序转化为窗格。还为 Google Keep、Todoist 等提供预设。"
   author="Ellpeck"
-  :downloads="194118"
+  :downloads="194254"
   :updated="1737284546000"
   repo="Ellpeck/ObsidianCustomFrames"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Custom Frames 是一个功能强大的 Obsidian 插件。
 
-Turn web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
+使用带有自定义样式的 iframe 将网络应用程序转化为窗格。还为 Google Keep、Todoist 等提供预设。
 
 通过 Custom Frames,您可以:
 
@@ -199,10 +199,10 @@ Turn web apps into panes using iframes with custom styling. Also comes with pres
 - **插件 ID**：obsidian-custom-frames
 - **作者**：Ellpeck
 - **当前版本**：v1.0.0
-- **下载量**：194.1K
+- **下载量**：194.3K
 - **最后更新**：2025-01-19
 - **GitHub**：[Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

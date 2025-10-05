@@ -6,7 +6,7 @@ downloads: 417
 updated: 1726824426000
 repo: Barba828/obsidian-plugin-gtp-preview
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1726824426000"
   repo="Barba828/obsidian-plugin-gtp-preview"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Supports rendering of GuitarPro files such as `gtp/gp/gp5/gpx`.
 - **下载量**：417
 - **最后更新**：2024-09-20
 - **GitHub**：[Barba828/obsidian-plugin-gtp-preview](https://github.com/Barba828/obsidian-plugin-gtp-preview)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

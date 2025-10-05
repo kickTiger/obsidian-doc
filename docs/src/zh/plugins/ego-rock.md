@@ -1,12 +1,12 @@
 ---
 title: Ego Rock
-description: A basic taskwarrior UI for listing and modifying tasks.
+description: 用于列出和修改任务的基本任务战士用户界面。
 author: Ashton Eby
-downloads: 7029
+downloads: 7041
 updated: 1711126866000
 repo: echo-bravo-yahoo/ego-rock
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ego-rock"
   name="Ego Rock"
-  description="A basic taskwarrior UI for listing and modifying tasks."
+  description="用于列出和修改任务的基本任务战士用户界面。"
   author="Ashton Eby"
-  :downloads="7029"
+  :downloads="7041"
   :updated="1711126866000"
   repo="echo-bravo-yahoo/ego-rock"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ego Rock 是一个功能强大的 Obsidian 插件。
 
-A basic taskwarrior UI for listing and modifying tasks.
+用于列出和修改任务的基本任务战士用户界面。
 
 通过 Ego Rock,您可以:
 
@@ -202,7 +202,7 @@ A basic taskwarrior UI for listing and modifying tasks.
 - **下载量**：7.0K
 - **最后更新**：2024-03-23
 - **GitHub**：[echo-bravo-yahoo/ego-rock](https://github.com/echo-bravo-yahoo/ego-rock)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

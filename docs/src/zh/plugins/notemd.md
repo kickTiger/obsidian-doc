@@ -2,11 +2,11 @@
 title: Notemd
 description: Integrates with various LLMs to process notes, generate wiki-links, and create concept notes
 author: Jacob
-downloads: 1307
+downloads: 1324
 updated: 1759220135000
 repo: Jacobinwwey/obsidian-NotEMD
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Notemd"
   description="Integrates with various LLMs to process notes, generate wiki-links, and create concept notes"
   author="Jacob"
-  :downloads="1307"
+  :downloads="1324"
   :updated="1759220135000"
   repo="Jacobinwwey/obsidian-NotEMD"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Integrates with various LLMs to process notes, generate wiki-links, and create c
 - **下载量**：1.3K
 - **最后更新**：2025-09-30
 - **GitHub**：[Jacobinwwey/obsidian-NotEMD](https://github.com/Jacobinwwey/obsidian-NotEMD)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

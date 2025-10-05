@@ -6,7 +6,7 @@ downloads: 2917
 updated: 1746188647000
 repo: Balibaloo/obsidian-filtered-opener
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1746188647000"
   repo="Balibaloo/obsidian-filtered-opener"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Open notes and folders, chose from sets defined by filters.
 - **下载量**：2.9K
 - **最后更新**：2025-05-02
 - **GitHub**：[Balibaloo/obsidian-filtered-opener](https://github.com/Balibaloo/obsidian-filtered-opener)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

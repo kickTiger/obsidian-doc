@@ -1,12 +1,12 @@
 ---
 title: Note Annotations
-description: Add multi-colored highlights and comments to your notes.
+description: 为笔记添加多色高亮和注释。
 author: Jan Beck
-downloads: 4115
+downloads: 4127
 updated: 1732970624000
 repo: jancbeck/obsidian-note-annotations
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="note-annotations"
   name="Note Annotations"
-  description="Add multi-colored highlights and comments to your notes."
+  description="为笔记添加多色高亮和注释。"
   author="Jan Beck"
-  :downloads="4115"
+  :downloads="4127"
   :updated="1732970624000"
   repo="jancbeck/obsidian-note-annotations"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note Annotations 是一个功能强大的 Obsidian 插件。
 
-Add multi-colored highlights and comments to your notes.
+为笔记添加多色高亮和注释。
 
 通过 Note Annotations,您可以:
 
@@ -202,7 +202,7 @@ Add multi-colored highlights and comments to your notes.
 - **下载量**：4.1K
 - **最后更新**：2024-11-30
 - **GitHub**：[jancbeck/obsidian-note-annotations](https://github.com/jancbeck/obsidian-note-annotations)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

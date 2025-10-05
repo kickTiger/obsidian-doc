@@ -1,12 +1,12 @@
 ---
 title: Optimize Canvas Connections
-description: Declutter a canvas by reconnecting notes using their nearest edges.
+description: 通过使用最近的边缘重新连接笔记来整理画布。
 author: Félix Chénier
-downloads: 19136
+downloads: 19146
 updated: 1678897946000
 repo: felixchenier/obsidian-optimize-canvas-connections
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="optimize-canvas-connections"
   name="Optimize Canvas Connections"
-  description="Declutter a canvas by reconnecting notes using their nearest edges."
+  description="通过使用最近的边缘重新连接笔记来整理画布。"
   author="Félix Chénier"
-  :downloads="19136"
+  :downloads="19146"
   :updated="1678897946000"
   repo="felixchenier/obsidian-optimize-canvas-connections"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Optimize Canvas Connections 是一个功能强大的 Obsidian 插件。
 
-Declutter a canvas by reconnecting notes using their nearest edges.
+通过使用最近的边缘重新连接笔记来整理画布。
 
 通过 Optimize Canvas Connections,您可以:
 
@@ -202,7 +202,7 @@ Declutter a canvas by reconnecting notes using their nearest edges.
 - **下载量**：19.1K
 - **最后更新**：2023-03-16
 - **GitHub**：[felixchenier/obsidian-optimize-canvas-connections](https://github.com/felixchenier/obsidian-optimize-canvas-connections)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

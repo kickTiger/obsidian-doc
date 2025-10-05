@@ -2,11 +2,11 @@
 title: Slackify Note
 description: Convert a note to Slack-compliant Markdown.
 author: Jeremy Overman
-downloads: 3117
+downloads: 3118
 updated: 1698953114000
 repo: jeremyoverman/obsidian-slackify-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Slackify Note"
   description="Convert a note to Slack-compliant Markdown."
   author="Jeremy Overman"
-  :downloads="3117"
+  :downloads="3118"
   :updated="1698953114000"
   repo="jeremyoverman/obsidian-slackify-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Convert a note to Slack-compliant Markdown.
 - **下载量**：3.1K
 - **最后更新**：2023-11-03
 - **GitHub**：[jeremyoverman/obsidian-slackify-note](https://github.com/jeremyoverman/obsidian-slackify-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

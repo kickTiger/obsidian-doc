@@ -2,11 +2,11 @@
 title: Structured Tree
 description: 'A file explorer for navigating hierarchical notes separated by ''.'''
 author: Marius Svarverud
-downloads: 2674
+downloads: 2677
 updated: 1750141230000
 repo: Rudtrack/structured-tree
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Structured Tree"
   description="A file explorer for navigating hierarchical notes separated by &#39;.&#39;"
   author="Marius Svarverud"
-  :downloads="2674"
+  :downloads="2677"
   :updated="1750141230000"
   repo="Rudtrack/structured-tree"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ A file explorer for navigating hierarchical notes separated by &#39;.&#39;
 - **下载量**：2.7K
 - **最后更新**：2025-06-17
 - **GitHub**：[Rudtrack/structured-tree](https://github.com/Rudtrack/structured-tree)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

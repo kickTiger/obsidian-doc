@@ -6,7 +6,7 @@ downloads: 763
 updated: 1740674256000
 repo: Sporarum/every-day-calendar
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1740674256000"
   repo="Sporarum/every-day-calendar"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create calendars inspired by Simone Giertz&#39;s Every Day Calendar
 - **下载量**：763
 - **最后更新**：2025-02-28
 - **GitHub**：[Sporarum/every-day-calendar](https://github.com/Sporarum/every-day-calendar)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Auto Card Link
-description: Automatically fetches metadata from a URL and makes it as a card-styled link.
+description: 自动从 URL 获取元数据，并将其制作成卡片式链接。
 author: Nekoshita Yuki
-downloads: 60354
+downloads: 60416
 updated: 1708757240000
 repo: nekoshita/obsidian-auto-card-link
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-card-link"
   name="Auto Card Link"
-  description="Automatically fetches metadata from a URL and makes it as a card-styled link."
+  description="自动从 URL 获取元数据，并将其制作成卡片式链接。"
   author="Nekoshita Yuki"
-  :downloads="60354"
+  :downloads="60416"
   :updated="1708757240000"
   repo="nekoshita/obsidian-auto-card-link"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Card Link 是一个功能强大的 Obsidian 插件。
 
-Automatically fetches metadata from a URL and makes it as a card-styled link.
+自动从 URL 获取元数据，并将其制作成卡片式链接。
 
 通过 Auto Card Link,您可以:
 
@@ -202,7 +202,7 @@ Automatically fetches metadata from a URL and makes it as a card-styled link.
 - **下载量**：60.4K
 - **最后更新**：2024-02-24
 - **GitHub**：[nekoshita/obsidian-auto-card-link](https://github.com/nekoshita/obsidian-auto-card-link)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Poker
-description: Easily document and view your poker hands.
+description: 轻松记录和查看您的牌局。
 author: James DiGioia
-downloads: 3783
+downloads: 3784
 updated: 1721000845000
 repo: mAAdhaTTah/obsidian-poker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="poker"
   name="Poker"
-  description="Easily document and view your poker hands."
+  description="轻松记录和查看您的牌局。"
   author="James DiGioia"
-  :downloads="3783"
+  :downloads="3784"
   :updated="1721000845000"
   repo="mAAdhaTTah/obsidian-poker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Poker 是一个功能强大的 Obsidian 插件。
 
-Easily document and view your poker hands.
+轻松记录和查看您的牌局。
 
 通过 Poker,您可以:
 
@@ -202,7 +202,7 @@ Easily document and view your poker hands.
 - **下载量**：3.8K
 - **最后更新**：2024-07-15
 - **GitHub**：[mAAdhaTTah/obsidian-poker](https://github.com/mAAdhaTTah/obsidian-poker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

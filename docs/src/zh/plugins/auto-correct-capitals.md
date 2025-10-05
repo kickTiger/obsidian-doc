@@ -1,12 +1,12 @@
 ---
 title: Auto Correct Capitals Misspellings
-description: Correct words with the first two letters in uppercase.
+description: 纠正前两个字母为大写的单词。
 author: Ummel
-downloads: 3677
+downloads: 3683
 updated: 1746376353000
 repo: Ummler/obsidian-auto-correct-capitals
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-correct-capitals"
   name="Auto Correct Capitals Misspellings"
-  description="Correct words with the first two letters in uppercase."
+  description="纠正前两个字母为大写的单词。"
   author="Ummel"
-  :downloads="3677"
+  :downloads="3683"
   :updated="1746376353000"
   repo="Ummler/obsidian-auto-correct-capitals"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Correct Capitals Misspellings 是一个功能强大的 Obsidian 插件。
 
-Correct words with the first two letters in uppercase.
+纠正前两个字母为大写的单词。
 
 通过 Auto Correct Capitals Misspellings,您可以:
 
@@ -202,7 +202,7 @@ Correct words with the first two letters in uppercase.
 - **下载量**：3.7K
 - **最后更新**：2025-05-05
 - **GitHub**：[Ummler/obsidian-auto-correct-capitals](https://github.com/Ummler/obsidian-auto-correct-capitals)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

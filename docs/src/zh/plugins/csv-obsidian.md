@@ -1,12 +1,12 @@
 ---
 title: CSV Editor
-description: Edit CSV files.
+description: 编辑 CSV 文件
 author: death_au
-downloads: 22178
+downloads: 22187
 updated: 1613794294000
 repo: deathau/csv-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="csv-obsidian"
   name="CSV Editor"
-  description="Edit CSV files."
+  description="编辑 CSV 文件"
   author="death_au"
-  :downloads="22178"
+  :downloads="22187"
   :updated="1613794294000"
   repo="deathau/csv-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 CSV Editor 是一个功能强大的 Obsidian 插件。
 
-Edit CSV files.
+编辑 CSV 文件
 
 通过 CSV Editor,您可以:
 
@@ -202,7 +202,7 @@ Edit CSV files.
 - **下载量**：22.2K
 - **最后更新**：2021-02-20
 - **GitHub**：[deathau/csv-obsidian](https://github.com/deathau/csv-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

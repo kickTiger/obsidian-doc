@@ -1,12 +1,12 @@
 ---
 title: SystemSculpt AI
-description: Enhance your data flow with AI-powered tools for note-taking, task management, templates, and so much more.
+description: 利用人工智能工具来记笔记、管理任务、制作模板等，增强数据流。
 author: SystemSculpt.com
-downloads: 24241
+downloads: 24316
 updated: 1759503215000
 repo: SystemSculpt/obsidian-systemsculpt-ai
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="systemsculpt-ai"
   name="SystemSculpt AI"
-  description="Enhance your data flow with AI-powered tools for note-taking, task management, templates, and so much more."
+  description="利用人工智能工具来记笔记、管理任务、制作模板等，增强数据流。"
   author="SystemSculpt.com"
-  :downloads="24241"
+  :downloads="24316"
   :updated="1759503215000"
   repo="SystemSculpt/obsidian-systemsculpt-ai"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 SystemSculpt AI 是一个功能强大的 Obsidian 插件。
 
-Enhance your data flow with AI-powered tools for note-taking, task management, templates, and so much more.
+利用人工智能工具来记笔记、管理任务、制作模板等，增强数据流。
 
 通过 SystemSculpt AI,您可以:
 
@@ -199,10 +199,10 @@ Enhance your data flow with AI-powered tools for note-taking, task management, t
 - **插件 ID**：systemsculpt-ai
 - **作者**：SystemSculpt.com
 - **当前版本**：v1.0.0
-- **下载量**：24.2K
+- **下载量**：24.3K
 - **最后更新**：2025-10-03
 - **GitHub**：[SystemSculpt/obsidian-systemsculpt-ai](https://github.com/SystemSculpt/obsidian-systemsculpt-ai)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

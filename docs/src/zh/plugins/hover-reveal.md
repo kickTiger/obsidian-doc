@@ -2,11 +2,11 @@
 title: Hover Reveal
 description: 'Shows hidden text in tooltips when hovering over marked elements using [visibleText]{tooltipText} syntax.'
 author: Shawn Yang
-downloads: 1522
+downloads: 1531
 updated: 1757611418000
 repo: Asrieal/HoverReveal
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hover Reveal"
   description="Shows hidden text in tooltips when hovering over marked elements using [visibleText]{tooltipText} syntax."
   author="Shawn Yang"
-  :downloads="1522"
+  :downloads="1531"
   :updated="1757611418000"
   repo="Asrieal/HoverReveal"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Shows hidden text in tooltips when hovering over marked elements using [visibleT
 - **下载量**：1.5K
 - **最后更新**：2025-09-12
 - **GitHub**：[Asrieal/HoverReveal](https://github.com/Asrieal/HoverReveal)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Zoottelkeeper
-description: 'It maintains index files in all of your folders in your vault: if you create/delete/move a note, the index files will be updated automatically. It can be used to show folders in Graph View.'
+description: 它可以维护存储库中所有文件夹的索引文件：如果创建/删除/移动备忘，索引文件会自动更新。它可用于在图表视图中显示文件夹。
 author: Akos Balasko
-downloads: 73867
+downloads: 73905
 updated: 1648144601000
 repo: akosbalasko/zoottelkeeper-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="zoottelkeeper-obsidian-plugin"
   name="Zoottelkeeper"
-  description="It maintains index files in all of your folders in your vault: if you create/delete/move a note, the index files will be updated automatically. It can be used to show folders in Graph View."
+  description="它可以维护存储库中所有文件夹的索引文件：如果创建/删除/移动备忘，索引文件会自动更新。它可用于在图表视图中显示文件夹。"
   author="Akos Balasko"
-  :downloads="73867"
+  :downloads="73905"
   :updated="1648144601000"
   repo="akosbalasko/zoottelkeeper-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Zoottelkeeper 是一个功能强大的 Obsidian 插件。
 
-It maintains index files in all of your folders in your vault: if you create/delete/move a note, the index files will be updated automatically. It can be used to show folders in Graph View.
+它可以维护存储库中所有文件夹的索引文件：如果创建/删除/移动备忘，索引文件会自动更新。它可用于在图表视图中显示文件夹。
 
 通过 Zoottelkeeper,您可以:
 
@@ -202,7 +202,7 @@ It maintains index files in all of your folders in your vault: if you create/del
 - **下载量**：73.9K
 - **最后更新**：2022-03-25
 - **GitHub**：[akosbalasko/zoottelkeeper-obsidian-plugin](https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

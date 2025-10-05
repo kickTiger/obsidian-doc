@@ -1,12 +1,12 @@
 ---
 title: Notes Explorer
-description: Explore your notes as cards in gallery or masonry view. A new way to revise your content.
+description: 在图库或砖石视图中以卡片形式浏览笔记。修改内容的新方法。
 author: Atmanand Gauns
-downloads: 13044
+downloads: 13103
 updated: 1755236683000
 repo: tu2-atmanand/obsidian-notes-explorer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="notes-explorer"
   name="Notes Explorer"
-  description="Explore your notes as cards in gallery or masonry view. A new way to revise your content."
+  description="在图库或砖石视图中以卡片形式浏览笔记。修改内容的新方法。"
   author="Atmanand Gauns"
-  :downloads="13044"
+  :downloads="13103"
   :updated="1755236683000"
   repo="tu2-atmanand/obsidian-notes-explorer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Notes Explorer 是一个功能强大的 Obsidian 插件。
 
-Explore your notes as cards in gallery or masonry view. A new way to revise your content.
+在图库或砖石视图中以卡片形式浏览笔记。修改内容的新方法。
 
 通过 Notes Explorer,您可以:
 
@@ -199,10 +199,10 @@ Explore your notes as cards in gallery or masonry view. A new way to revise your
 - **插件 ID**：notes-explorer
 - **作者**：Atmanand Gauns
 - **当前版本**：v1.0.0
-- **下载量**：13.0K
+- **下载量**：13.1K
 - **最后更新**：2025-08-15
 - **GitHub**：[tu2-atmanand/obsidian-notes-explorer](https://github.com/tu2-atmanand/obsidian-notes-explorer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

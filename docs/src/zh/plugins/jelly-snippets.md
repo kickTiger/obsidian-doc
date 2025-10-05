@@ -1,12 +1,12 @@
 ---
 title: Jelly Snippets
-description: A simple text snippets plugin.
+description: 一个简单的文本片段插件。
 author: Spencer Gouw
-downloads: 5773
+downloads: 5779
 updated: 1696811442000
 repo: rabirabirara/obsidian-jelly-snippets
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="jelly-snippets"
   name="Jelly Snippets"
-  description="A simple text snippets plugin."
+  description="一个简单的文本片段插件。"
   author="Spencer Gouw"
-  :downloads="5773"
+  :downloads="5779"
   :updated="1696811442000"
   repo="rabirabirara/obsidian-jelly-snippets"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Jelly Snippets 是一个功能强大的 Obsidian 插件。
 
-A simple text snippets plugin.
+一个简单的文本片段插件。
 
 通过 Jelly Snippets,您可以:
 
@@ -202,7 +202,7 @@ A simple text snippets plugin.
 - **下载量**：5.8K
 - **最后更新**：2023-10-09
 - **GitHub**：[rabirabirara/obsidian-jelly-snippets](https://github.com/rabirabirara/obsidian-jelly-snippets)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Global Hotkeys
-description: Configurable system-wide hotkeys for running commands.
+description: 可配置的全系统热键，用于运行命令。
 author: Marc Jessome
-downloads: 12382
+downloads: 12386
 updated: 1647354076000
 repo: mjessome/obsidian-global-hotkeys
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-global-hotkeys"
   name="Global Hotkeys"
-  description="Configurable system-wide hotkeys for running commands."
+  description="可配置的全系统热键，用于运行命令。"
   author="Marc Jessome"
-  :downloads="12382"
+  :downloads="12386"
   :updated="1647354076000"
   repo="mjessome/obsidian-global-hotkeys"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Global Hotkeys 是一个功能强大的 Obsidian 插件。
 
-Configurable system-wide hotkeys for running commands.
+可配置的全系统热键，用于运行命令。
 
 通过 Global Hotkeys,您可以:
 
@@ -202,7 +202,7 @@ Configurable system-wide hotkeys for running commands.
 - **下载量**：12.4K
 - **最后更新**：2022-03-15
 - **GitHub**：[mjessome/obsidian-global-hotkeys](https://github.com/mjessome/obsidian-global-hotkeys)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

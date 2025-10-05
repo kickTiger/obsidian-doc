@@ -1,12 +1,12 @@
 ---
 title: Numerals
-description: Turn any code block into an advanced calculator. Evaluate math expressions on each line of a code block, including units, currency, and optional TeX rendering.
+description: 将任何代码块变成高级计算器。在代码块的每一行中评估数学表达式，包括单位、货币和可选的 TeX 渲染。
 author: RyanC
-downloads: 51236
+downloads: 51293
 updated: 1759381532000
 repo: gtg922r/obsidian-numerals
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="numerals"
   name="Numerals"
-  description="Turn any code block into an advanced calculator. Evaluate math expressions on each line of a code block, including units, currency, and optional TeX rendering."
+  description="将任何代码块变成高级计算器。在代码块的每一行中评估数学表达式，包括单位、货币和可选的 TeX 渲染。"
   author="RyanC"
-  :downloads="51236"
+  :downloads="51293"
   :updated="1759381532000"
   repo="gtg922r/obsidian-numerals"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Numerals 是一个功能强大的 Obsidian 插件。
 
-Turn any code block into an advanced calculator. Evaluate math expressions on each line of a code block, including units, currency, and optional TeX rendering.
+将任何代码块变成高级计算器。在代码块的每一行中评估数学表达式，包括单位、货币和可选的 TeX 渲染。
 
 通过 Numerals,您可以:
 
@@ -199,10 +199,10 @@ Turn any code block into an advanced calculator. Evaluate math expressions on ea
 - **插件 ID**：numerals
 - **作者**：RyanC
 - **当前版本**：v1.0.0
-- **下载量**：51.2K
+- **下载量**：51.3K
 - **最后更新**：2025-10-02
 - **GitHub**：[gtg922r/obsidian-numerals](https://github.com/gtg922r/obsidian-numerals)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

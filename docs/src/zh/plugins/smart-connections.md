@@ -1,12 +1,12 @@
 ---
 title: Smart Connections
-description: 'Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3'
+description: 使用AI嵌入与笔记聊天并查看相关内容链接。支持本地模型或通过API使用100+模型，如Claude、Gemini、ChatGPT和Llama 3。
 author: Brian Petro
-downloads: 693646
+downloads: 694461
 updated: 1757521944000
 repo: brianpetro/obsidian-smart-connections
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smart-connections"
   name="Smart Connections"
-  description="Chat with your notes &amp; see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT &amp; Llama 3"
+  description="使用AI嵌入与笔记聊天并查看相关内容链接。支持本地模型或通过API使用100+模型，如Claude、Gemini、ChatGPT和Llama 3。"
   author="Brian Petro"
-  :downloads="693646"
+  :downloads="694461"
   :updated="1757521944000"
   repo="brianpetro/obsidian-smart-connections"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Connections 是一个功能强大的 Obsidian 插件。
 
-Chat with your notes &amp; see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT &amp; Llama 3
+使用AI嵌入与笔记聊天并查看相关内容链接。支持本地模型或通过API使用100+模型，如Claude、Gemini、ChatGPT和Llama 3。
 
 通过 Smart Connections,您可以:
 
@@ -199,10 +199,10 @@ Chat with your notes &amp; see links to related content with AI embeddings. Use 
 - **插件 ID**：smart-connections
 - **作者**：Brian Petro
 - **当前版本**：v1.0.0
-- **下载量**：693.6K
+- **下载量**：694.5K
 - **最后更新**：2025-09-11
 - **GitHub**：[brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Importer
-description: Import data from Notion, Evernote, Apple Notes, Microsoft OneNote, Google Keep, Bear, Roam, and HTML files.
+description: 从 Notion、Evernote、Apple Notes、Microsoft OneNote、Google Keep、Bear、Roam 和 HTML 文件导入数据。
 author: Obsidian
-downloads: 817050
+downloads: 818262
 updated: 1758145510000
 repo: obsidianmd/obsidian-importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-importer"
   name="Importer"
-  description="Import data from Notion, Evernote, Apple Notes, Microsoft OneNote, Google Keep, Bear, Roam, and HTML files."
+  description="从 Notion、Evernote、Apple Notes、Microsoft OneNote、Google Keep、Bear、Roam 和 HTML 文件导入数据。"
   author="Obsidian"
-  :downloads="817050"
+  :downloads="818262"
   :updated="1758145510000"
   repo="obsidianmd/obsidian-importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Importer 是一个功能强大的 Obsidian 插件。
 
-Import data from Notion, Evernote, Apple Notes, Microsoft OneNote, Google Keep, Bear, Roam, and HTML files.
+从 Notion、Evernote、Apple Notes、Microsoft OneNote、Google Keep、Bear、Roam 和 HTML 文件导入数据。
 
 通过 Importer,您可以:
 
@@ -199,10 +199,10 @@ Import data from Notion, Evernote, Apple Notes, Microsoft OneNote, Google Keep, 
 - **插件 ID**：obsidian-importer
 - **作者**：Obsidian
 - **当前版本**：v1.0.0
-- **下载量**：817.0K
+- **下载量**：818.3K
 - **最后更新**：2025-09-18
 - **GitHub**：[obsidianmd/obsidian-importer](https://github.com/obsidianmd/obsidian-importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

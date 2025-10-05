@@ -1,12 +1,12 @@
 ---
 title: Outliner
-description: Work with your lists like in Workflowy or Roam Research.
+description: 使用键盘快捷键处理列表。
 author: Viacheslav Slinko
-downloads: 1036779
+downloads: 1037190
 updated: 1741002650000
 repo: vslinko/obsidian-outliner
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-outliner"
   name="Outliner"
-  description="Work with your lists like in Workflowy or Roam Research."
+  description="使用键盘快捷键处理列表。"
   author="Viacheslav Slinko"
-  :downloads="1036779"
+  :downloads="1037190"
   :updated="1741002650000"
   repo="vslinko/obsidian-outliner"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Outliner 是一个功能强大的 Obsidian 插件。
 
-Work with your lists like in Workflowy or Roam Research.
+使用键盘快捷键处理列表。
 
 通过 Outliner,您可以:
 
@@ -202,7 +202,7 @@ Work with your lists like in Workflowy or Roam Research.
 - **下载量**：1.04M
 - **最后更新**：2025-03-03
 - **GitHub**：[vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: 盘古 PanGu
-description: Add spaces between Chinese characters and English alphabet. A boon for typographically compulsive people.
+description: 在汉字和英文字母之间添加空格。对于有排版强迫症的人来说，这无疑是一大福音。
 author: Natumsol
-downloads: 25938
+downloads: 25944
 updated: 1729585984000
 repo: Natumsol/obsidian-pangu
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-pangu"
   name="盘古 PanGu"
-  description="Add spaces between Chinese characters and English alphabet. A boon for typographically compulsive people."
+  description="在汉字和英文字母之间添加空格。对于有排版强迫症的人来说，这无疑是一大福音。"
   author="Natumsol"
-  :downloads="25938"
+  :downloads="25944"
   :updated="1729585984000"
   repo="Natumsol/obsidian-pangu"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 盘古 PanGu 是一个功能强大的 Obsidian 插件。
 
-Add spaces between Chinese characters and English alphabet. A boon for typographically compulsive people.
+在汉字和英文字母之间添加空格。对于有排版强迫症的人来说，这无疑是一大福音。
 
 通过 盘古 PanGu,您可以:
 
@@ -202,7 +202,7 @@ Add spaces between Chinese characters and English alphabet. A boon for typograph
 - **下载量**：25.9K
 - **最后更新**：2024-10-22
 - **GitHub**：[Natumsol/obsidian-pangu](https://github.com/Natumsol/obsidian-pangu)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 469
 updated: 1754374854000
 repo: sedationh/obsidian-instant-above-divider
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1754374854000"
   repo="sedationh/obsidian-instant-above-divider"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Quickly insert a divider line at the beginning of your note.
 - **下载量**：469
 - **最后更新**：2025-08-05
 - **GitHub**：[sedationh/obsidian-instant-above-divider](https://github.com/sedationh/obsidian-instant-above-divider)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

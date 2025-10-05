@@ -1,12 +1,12 @@
 ---
 title: Smort
-description: Add Smort.io articles to Obsidian. Smort.io lets you easily edit, annotate and share articles.
+description: 将 Smort.io 文章添加到 Obsidian。Smort.io 可让您轻松编辑、注释和共享文章。
 author: Smort
 downloads: 3755
 updated: 1649218729000
 repo: SmortApp/obsidian-smort
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smort-obsidian"
   name="Smort"
-  description="Add Smort.io articles to Obsidian. Smort.io lets you easily edit, annotate and share articles."
+  description="将 Smort.io 文章添加到 Obsidian。Smort.io 可让您轻松编辑、注释和共享文章。"
   author="Smort"
   :downloads="3755"
   :updated="1649218729000"
   repo="SmortApp/obsidian-smort"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smort 是一个功能强大的 Obsidian 插件。
 
-Add Smort.io articles to Obsidian. Smort.io lets you easily edit, annotate and share articles.
+将 Smort.io 文章添加到 Obsidian。Smort.io 可让您轻松编辑、注释和共享文章。
 
 通过 Smort,您可以:
 
@@ -202,7 +202,7 @@ Add Smort.io articles to Obsidian. Smort.io lets you easily edit, annotate and s
 - **下载量**：3.8K
 - **最后更新**：2022-04-06
 - **GitHub**：[SmortApp/obsidian-smort](https://github.com/SmortApp/obsidian-smort)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

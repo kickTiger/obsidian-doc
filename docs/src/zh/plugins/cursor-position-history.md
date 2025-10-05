@@ -2,11 +2,11 @@
 title: Cursor Position History
 description: 'Remember the previous positions of the cursor across files: auto-scroll to the correct position in a new file. Navigate backward and forward through your cursor position history without losing context.'
 author: Florian Gubler
-downloads: 1282
+downloads: 1287
 updated: 1740642935000
 repo: fgubler/obsidian-cursor-position-history
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Cursor Position History"
   description="Remember the previous positions of the cursor across files: auto-scroll to the correct position in a new file. Navigate backward and forward through your cursor position history without losing context."
   author="Florian Gubler"
-  :downloads="1282"
+  :downloads="1287"
   :updated="1740642935000"
   repo="fgubler/obsidian-cursor-position-history"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Remember the previous positions of the cursor across files: auto-scroll to the c
 - **下载量**：1.3K
 - **最后更新**：2025-02-27
 - **GitHub**：[fgubler/obsidian-cursor-position-history](https://github.com/fgubler/obsidian-cursor-position-history)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

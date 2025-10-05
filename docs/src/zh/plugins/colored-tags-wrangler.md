@@ -1,12 +1,12 @@
 ---
 title: Colored Tags Wrangler
-description: Assign colors to tags. Has integrations with other plugins, like Kanban.
+description: 为标签指定颜色与 Kanban 等其他插件集成。
 author: AnnaSasDev
-downloads: 32649
+downloads: 32705
 updated: 1719330374000
 repo: code-of-chaos/obsidian-colored_tags_wrangler
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="colored-tags-wrangler"
   name="Colored Tags Wrangler"
-  description="Assign colors to tags. Has integrations with other plugins, like Kanban."
+  description="为标签指定颜色与 Kanban 等其他插件集成。"
   author="AnnaSasDev"
-  :downloads="32649"
+  :downloads="32705"
   :updated="1719330374000"
   repo="code-of-chaos/obsidian-colored_tags_wrangler"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Colored Tags Wrangler 是一个功能强大的 Obsidian 插件。
 
-Assign colors to tags. Has integrations with other plugins, like Kanban.
+为标签指定颜色与 Kanban 等其他插件集成。
 
 通过 Colored Tags Wrangler,您可以:
 
@@ -199,10 +199,10 @@ Assign colors to tags. Has integrations with other plugins, like Kanban.
 - **插件 ID**：colored-tags-wrangler
 - **作者**：AnnaSasDev
 - **当前版本**：v1.0.0
-- **下载量**：32.6K
+- **下载量**：32.7K
 - **最后更新**：2024-06-25
 - **GitHub**：[code-of-chaos/obsidian-colored_tags_wrangler](https://github.com/code-of-chaos/obsidian-colored_tags_wrangler)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

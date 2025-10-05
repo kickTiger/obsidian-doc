@@ -1,12 +1,12 @@
 ---
 title: Global Proxy
-description: Configure network proxies for users in areas with restricted networks.
+description: 为网络受限地区的用户配置网络代理。
 author: windingblack
-downloads: 10894
+downloads: 10901
 updated: 1750166907000
 repo: windingblack/obsidian-global-proxy
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="global-proxy"
   name="Global Proxy"
-  description="Configure network proxies for users in areas with restricted networks."
+  description="为网络受限地区的用户配置网络代理。"
   author="windingblack"
-  :downloads="10894"
+  :downloads="10901"
   :updated="1750166907000"
   repo="windingblack/obsidian-global-proxy"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Global Proxy 是一个功能强大的 Obsidian 插件。
 
-Configure network proxies for users in areas with restricted networks.
+为网络受限地区的用户配置网络代理。
 
 通过 Global Proxy,您可以:
 
@@ -202,7 +202,7 @@ Configure network proxies for users in areas with restricted networks.
 - **下载量**：10.9K
 - **最后更新**：2025-06-17
 - **GitHub**：[windingblack/obsidian-global-proxy](https://github.com/windingblack/obsidian-global-proxy)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

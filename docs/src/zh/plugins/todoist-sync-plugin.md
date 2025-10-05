@@ -1,12 +1,12 @@
 ---
 title: Todoist Sync
-description: Materialize Todoist tasks within your notes.
+description: 在笔记中将 Todoist 任务具体化。
 author: jamiebrynes7
-downloads: 140030
+downloads: 140169
 updated: 1758563710000
 repo: jamiebrynes7/obsidian-todoist-plugin
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="todoist-sync-plugin"
   name="Todoist Sync"
-  description="Materialize Todoist tasks within your notes."
+  description="在笔记中将 Todoist 任务具体化。"
   author="jamiebrynes7"
-  :downloads="140030"
+  :downloads="140169"
   :updated="1758563710000"
   repo="jamiebrynes7/obsidian-todoist-plugin"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Todoist Sync 是一个功能强大的 Obsidian 插件。
 
-Materialize Todoist tasks within your notes.
+在笔记中将 Todoist 任务具体化。
 
 通过 Todoist Sync,您可以:
 
@@ -199,10 +199,10 @@ Materialize Todoist tasks within your notes.
 - **插件 ID**：todoist-sync-plugin
 - **作者**：jamiebrynes7
 - **当前版本**：v1.0.0
-- **下载量**：140.0K
+- **下载量**：140.2K
 - **最后更新**：2025-09-23
 - **GitHub**：[jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

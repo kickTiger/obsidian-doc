@@ -2,11 +2,11 @@
 title: Open with Natural Language Dates
 description: 'Open a daily note using natural language. Requires "Natural Language Dates" plugin to work.'
 author: Charlie Chao
-downloads: 633
+downloads: 634
 updated: 1729143580000
 repo: charliecm/obsidian-open-with-nldates
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Open with Natural Language Dates"
   description="Open a daily note using natural language. Requires &quot;Natural Language Dates&quot; plugin to work."
   author="Charlie Chao"
-  :downloads="633"
+  :downloads="634"
   :updated="1729143580000"
   repo="charliecm/obsidian-open-with-nldates"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Open a daily note using natural language. Requires &quot;Natural Language Dates&
 - **插件 ID**：open-with-nldates
 - **作者**：Charlie Chao
 - **当前版本**：v1.0.0
-- **下载量**：633
+- **下载量**：634
 - **最后更新**：2024-10-17
 - **GitHub**：[charliecm/obsidian-open-with-nldates](https://github.com/charliecm/obsidian-open-with-nldates)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

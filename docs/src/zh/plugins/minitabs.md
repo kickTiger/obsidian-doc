@@ -2,11 +2,11 @@
 title: Minitabs
 description: Customize a set of nested tabs through code blocks.
 author: ssjy1919
-downloads: 3354
+downloads: 3357
 updated: 1747496378000
 repo: ssjy1919/Obsidian-minitabs
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Minitabs"
   description="Customize a set of nested tabs through code blocks."
   author="ssjy1919"
-  :downloads="3354"
+  :downloads="3357"
   :updated="1747496378000"
   repo="ssjy1919/Obsidian-minitabs"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Customize a set of nested tabs through code blocks.
 - **下载量**：3.4K
 - **最后更新**：2025-05-17
 - **GitHub**：[ssjy1919/Obsidian-minitabs](https://github.com/ssjy1919/Obsidian-minitabs)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

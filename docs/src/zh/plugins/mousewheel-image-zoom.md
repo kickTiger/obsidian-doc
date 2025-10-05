@@ -1,12 +1,12 @@
 ---
 title: Mousewheel Image zoom
-description: Increase or decrease the size of an image by scrolling.
+description: 通过滚动来增大或缩小图片大小。
 author: Nico Jeske
-downloads: 132198
+downloads: 132296
 updated: 1748482801000
 repo: nicojeske/mousewheel-image-zoom
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mousewheel-image-zoom"
   name="Mousewheel Image zoom"
-  description="Increase or decrease the size of an image by scrolling."
+  description="通过滚动来增大或缩小图片大小。"
   author="Nico Jeske"
-  :downloads="132198"
+  :downloads="132296"
   :updated="1748482801000"
   repo="nicojeske/mousewheel-image-zoom"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mousewheel Image zoom 是一个功能强大的 Obsidian 插件。
 
-Increase or decrease the size of an image by scrolling.
+通过滚动来增大或缩小图片大小。
 
 通过 Mousewheel Image zoom,您可以:
 
@@ -199,10 +199,10 @@ Increase or decrease the size of an image by scrolling.
 - **插件 ID**：mousewheel-image-zoom
 - **作者**：Nico Jeske
 - **当前版本**：v1.0.0
-- **下载量**：132.2K
+- **下载量**：132.3K
 - **最后更新**：2025-05-29
 - **GitHub**：[nicojeske/mousewheel-image-zoom](https://github.com/nicojeske/mousewheel-image-zoom)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

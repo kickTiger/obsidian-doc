@@ -1,12 +1,12 @@
 ---
 title: Lock Screen
-description: Protect your vault with a lock screen.
+description: 用锁屏保护你的保险库
 author: Eric Biewener
-downloads: 9690
+downloads: 9693
 updated: 1646326328000
 repo: ericbiewener/obsidian-lock-screen-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-lock-screen-plugin"
   name="Lock Screen"
-  description="Protect your vault with a lock screen."
+  description="用锁屏保护你的保险库"
   author="Eric Biewener"
-  :downloads="9690"
+  :downloads="9693"
   :updated="1646326328000"
   repo="ericbiewener/obsidian-lock-screen-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Lock Screen 是一个功能强大的 Obsidian 插件。
 
-Protect your vault with a lock screen.
+用锁屏保护你的保险库
 
 通过 Lock Screen,您可以:
 
@@ -202,7 +202,7 @@ Protect your vault with a lock screen.
 - **下载量**：9.7K
 - **最后更新**：2022-03-04
 - **GitHub**：[ericbiewener/obsidian-lock-screen-plugin](https://github.com/ericbiewener/obsidian-lock-screen-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

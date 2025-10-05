@@ -1,12 +1,12 @@
 ---
 title: Google Tasks
-description: Interact with your Google Tasks.
+description: 与 Google 任务互动
 author: YukiGasai
-downloads: 17303
+downloads: 17307
 updated: 1679791857000
 repo: YukiGasai/obsidian-google-tasks
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-google-tasks"
   name="Google Tasks"
-  description="Interact with your Google Tasks."
+  description="与 Google 任务互动"
   author="YukiGasai"
-  :downloads="17303"
+  :downloads="17307"
   :updated="1679791857000"
   repo="YukiGasai/obsidian-google-tasks"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Google Tasks 是一个功能强大的 Obsidian 插件。
 
-Interact with your Google Tasks.
+与 Google 任务互动
 
 通过 Google Tasks,您可以:
 
@@ -202,7 +202,7 @@ Interact with your Google Tasks.
 - **下载量**：17.3K
 - **最后更新**：2023-03-26
 - **GitHub**：[YukiGasai/obsidian-google-tasks](https://github.com/YukiGasai/obsidian-google-tasks)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: 13th Age Statblocks
-description: Render 13th Age statblocks.
+description: 渲染 13th Age 状态块。
 author: ben
 downloads: 4427
 updated: 1709754303000
 repo: ben/obsidian-13th-age-statblocks
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="13th-age-statblocks"
   name="13th Age Statblocks"
-  description="Render 13th Age statblocks."
+  description="渲染 13th Age 状态块。"
   author="ben"
   :downloads="4427"
   :updated="1709754303000"
   repo="ben/obsidian-13th-age-statblocks"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 13th Age Statblocks 是一个功能强大的 Obsidian 插件。
 
-Render 13th Age statblocks.
+渲染 13th Age 状态块。
 
 通过 13th Age Statblocks,您可以:
 
@@ -202,7 +202,7 @@ Render 13th Age statblocks.
 - **下载量**：4.4K
 - **最后更新**：2024-03-07
 - **GitHub**：[ben/obsidian-13th-age-statblocks](https://github.com/ben/obsidian-13th-age-statblocks)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

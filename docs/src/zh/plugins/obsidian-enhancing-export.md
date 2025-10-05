@@ -1,12 +1,12 @@
 ---
 title: Enhancing Export
-description: Enhanced export based on Pandoc. Allows export to formats like HTML, DOCX, ePub and PDF or Hugo.
+description: 基于 Pandoc 的增强导出功能。允许导出为 HTML、DOCX、ePub 和 PDF 或 Hugo 等格式。
 author: YISH
-downloads: 299263
+downloads: 299518
 updated: 1757249777000
 repo: mokeyish/obsidian-enhancing-export
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-enhancing-export"
   name="Enhancing Export"
-  description="Enhanced export based on Pandoc. Allows export to formats like HTML, DOCX, ePub and PDF or Hugo."
+  description="基于 Pandoc 的增强导出功能。允许导出为 HTML、DOCX、ePub 和 PDF 或 Hugo 等格式。"
   author="YISH"
-  :downloads="299263"
+  :downloads="299518"
   :updated="1757249777000"
   repo="mokeyish/obsidian-enhancing-export"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Enhancing Export 是一个功能强大的 Obsidian 插件。
 
-Enhanced export based on Pandoc. Allows export to formats like HTML, DOCX, ePub and PDF or Hugo.
+基于 Pandoc 的增强导出功能。允许导出为 HTML、DOCX、ePub 和 PDF 或 Hugo 等格式。
 
 通过 Enhancing Export,您可以:
 
@@ -199,10 +199,10 @@ Enhanced export based on Pandoc. Allows export to formats like HTML, DOCX, ePub 
 - **插件 ID**：obsidian-enhancing-export
 - **作者**：YISH
 - **当前版本**：v1.0.0
-- **下载量**：299.3K
+- **下载量**：299.5K
 - **最后更新**：2025-09-07
 - **GitHub**：[mokeyish/obsidian-enhancing-export](https://github.com/mokeyish/obsidian-enhancing-export)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

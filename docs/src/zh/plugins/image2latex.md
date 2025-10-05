@@ -1,12 +1,12 @@
 ---
 title: Image2LaTEX
-description: Convert your images with math to LaTeX code.
+description: 将带有数学运算的图像转换为 LaTeX 代码。
 author: Hugo Persson
-downloads: 5587
+downloads: 5589
 updated: 1712249654000
 repo: Hugo-Persson/obsidian-ocrlatex
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="image2latex"
   name="Image2LaTEX"
-  description="Convert your images with math to LaTeX code."
+  description="将带有数学运算的图像转换为 LaTeX 代码。"
   author="Hugo Persson"
-  :downloads="5587"
+  :downloads="5589"
   :updated="1712249654000"
   repo="Hugo-Persson/obsidian-ocrlatex"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Image2LaTEX 是一个功能强大的 Obsidian 插件。
 
-Convert your images with math to LaTeX code.
+将带有数学运算的图像转换为 LaTeX 代码。
 
 通过 Image2LaTEX,您可以:
 
@@ -202,7 +202,7 @@ Convert your images with math to LaTeX code.
 - **下载量**：5.6K
 - **最后更新**：2024-04-05
 - **GitHub**：[Hugo-Persson/obsidian-ocrlatex](https://github.com/Hugo-Persson/obsidian-ocrlatex)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

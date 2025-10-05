@@ -1,12 +1,12 @@
 ---
 title: Scales and Chords
-description: Capture musical tab notation. Chords become clickable links to modal images (provided by scales-chords.com).
+description: 捕捉音乐制表符。和弦变成可点击的模态图像链接（由音阶-和弦.com 提供）。
 author: egradman
-downloads: 7509
+downloads: 7513
 updated: 1631926998000
 repo: egradman/scales-chords
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="scales-chords"
   name="Scales and Chords"
-  description="Capture musical tab notation. Chords become clickable links to modal images (provided by scales-chords.com)."
+  description="捕捉音乐制表符。和弦变成可点击的模态图像链接（由音阶-和弦.com 提供）。"
   author="egradman"
-  :downloads="7509"
+  :downloads="7513"
   :updated="1631926998000"
   repo="egradman/scales-chords"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Scales and Chords 是一个功能强大的 Obsidian 插件。
 
-Capture musical tab notation. Chords become clickable links to modal images (provided by scales-chords.com).
+捕捉音乐制表符。和弦变成可点击的模态图像链接（由音阶-和弦.com 提供）。
 
 通过 Scales and Chords,您可以:
 
@@ -202,7 +202,7 @@ Capture musical tab notation. Chords become clickable links to modal images (pro
 - **下载量**：7.5K
 - **最后更新**：2021-09-18
 - **GitHub**：[egradman/scales-chords](https://github.com/egradman/scales-chords)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

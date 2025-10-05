@@ -1,12 +1,12 @@
 ---
 title: Invio
-description: Export docs as websites and deploy them to AWS S3 or compatible COS. Invio streamlines the process of publishing, enabling users to easily share their work online.
+description: 将文档导出为网站并部署到 AWS S3 或兼容的 COS。Invio 简化了发布流程，使用户能够轻松地在线共享工作成果。
 author: frontend-engineering
-downloads: 4346
+downloads: 4347
 updated: 1727326952000
 repo: frontend-engineering/Invio
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="invio"
   name="Invio"
-  description="Export docs as websites and deploy them to AWS S3 or compatible COS. Invio streamlines the process of publishing, enabling users to easily share their work online."
+  description="将文档导出为网站并部署到 AWS S3 或兼容的 COS。Invio 简化了发布流程，使用户能够轻松地在线共享工作成果。"
   author="frontend-engineering"
-  :downloads="4346"
+  :downloads="4347"
   :updated="1727326952000"
   repo="frontend-engineering/Invio"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Invio 是一个功能强大的 Obsidian 插件。
 
-Export docs as websites and deploy them to AWS S3 or compatible COS. Invio streamlines the process of publishing, enabling users to easily share their work online.
+将文档导出为网站并部署到 AWS S3 或兼容的 COS。Invio 简化了发布流程，使用户能够轻松地在线共享工作成果。
 
 通过 Invio,您可以:
 
@@ -202,7 +202,7 @@ Export docs as websites and deploy them to AWS S3 or compatible COS. Invio strea
 - **下载量**：4.3K
 - **最后更新**：2024-09-26
 - **GitHub**：[frontend-engineering/Invio](https://github.com/frontend-engineering/Invio)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

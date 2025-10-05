@@ -6,7 +6,7 @@ downloads: 1223
 updated: 1747729520000
 repo: yamfeel/coco-askai
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1747729520000"
   repo="yamfeel/coco-askai"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Let your questions flow swiftly with CoCo AskAI. (Closed source)
 - **下载量**：1.2K
 - **最后更新**：2025-05-20
 - **GitHub**：[yamfeel/coco-askai](https://github.com/yamfeel/coco-askai)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

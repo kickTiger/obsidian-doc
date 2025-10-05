@@ -2,11 +2,11 @@
 title: Day One Importer
 description: Import Day One journals.
 author: Marc Donald
-downloads: 1825
+downloads: 1830
 updated: 1743958594000
 repo: MarcDonald/obsidian-day-one-importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Day One Importer"
   description="Import Day One journals."
   author="Marc Donald"
-  :downloads="1825"
+  :downloads="1830"
   :updated="1743958594000"
   repo="MarcDonald/obsidian-day-one-importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Import Day One journals.
 - **下载量**：1.8K
 - **最后更新**：2025-04-07
 - **GitHub**：[MarcDonald/obsidian-day-one-importer](https://github.com/MarcDonald/obsidian-day-one-importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

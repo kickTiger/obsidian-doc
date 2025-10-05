@@ -1,12 +1,12 @@
 ---
 title: Metadata Menu
-description: 'For data quality enthusiasts and Dataview users: access and manage the metadata of your notes.'
+description: 数据质量爱好者和 Dataview 用户：访问和管理笔记的元数据。
 author: mdelobelle
-downloads: 204623
+downloads: 204725
 updated: 1747809338000
 repo: mdelobelle/metadatamenu
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="metadata-menu"
   name="Metadata Menu"
-  description="For data quality enthusiasts and Dataview users: access and manage the metadata of your notes."
+  description="数据质量爱好者和 Dataview 用户：访问和管理笔记的元数据。"
   author="mdelobelle"
-  :downloads="204623"
+  :downloads="204725"
   :updated="1747809338000"
   repo="mdelobelle/metadatamenu"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Metadata Menu 是一个功能强大的 Obsidian 插件。
 
-For data quality enthusiasts and Dataview users: access and manage the metadata of your notes.
+数据质量爱好者和 Dataview 用户：访问和管理笔记的元数据。
 
 通过 Metadata Menu,您可以:
 
@@ -199,10 +199,10 @@ For data quality enthusiasts and Dataview users: access and manage the metadata 
 - **插件 ID**：metadata-menu
 - **作者**：mdelobelle
 - **当前版本**：v1.0.0
-- **下载量**：204.6K
+- **下载量**：204.7K
 - **最后更新**：2025-05-21
 - **GitHub**：[mdelobelle/metadatamenu](https://github.com/mdelobelle/metadatamenu)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Markitdown File Converter
 description: 'Convert PDFs, Office documents, images, and other file formats to Markdown using Microsoft''s Markitdown tool'
 author: Ethan Troy
-downloads: 2726
+downloads: 2739
 updated: 1741624881000
 repo: ethanolivertroy/obsidian-markitdown
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Markitdown File Converter"
   description="Convert PDFs, Office documents, images, and other file formats to Markdown using Microsoft&#39;s Markitdown tool"
   author="Ethan Troy"
-  :downloads="2726"
+  :downloads="2739"
   :updated="1741624881000"
   repo="ethanolivertroy/obsidian-markitdown"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Convert PDFs, Office documents, images, and other file formats to Markdown using
 - **下载量**：2.7K
 - **最后更新**：2025-03-11
 - **GitHub**：[ethanolivertroy/obsidian-markitdown](https://github.com/ethanolivertroy/obsidian-markitdown)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

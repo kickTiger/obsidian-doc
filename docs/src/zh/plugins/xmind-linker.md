@@ -2,11 +2,11 @@
 title: XMind Linker
 description: View XMind files in your vault and connect to XMind software for editing.
 author: Leafney
-downloads: 136
+downloads: 150
 updated: 1757645171000
 repo: leafney/obsidian-xmind-linker
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="XMind Linker"
   description="View XMind files in your vault and connect to XMind software for editing."
   author="Leafney"
-  :downloads="136"
+  :downloads="150"
   :updated="1757645171000"
   repo="leafney/obsidian-xmind-linker"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ View XMind files in your vault and connect to XMind software for editing.
 - **插件 ID**：xmind-linker
 - **作者**：Leafney
 - **当前版本**：v1.0.0
-- **下载量**：136
+- **下载量**：150
 - **最后更新**：2025-09-12
 - **GitHub**：[leafney/obsidian-xmind-linker](https://github.com/leafney/obsidian-xmind-linker)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

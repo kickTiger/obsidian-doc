@@ -6,7 +6,7 @@ downloads: 289
 updated: 1747665487000
 repo: natipt/obsidian-zhongwen-reader
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1747665487000"
   repo="natipt/obsidian-zhongwen-reader"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ This lightweight plugin helps you read Chinese more easily with a CEDICT based h
 - **下载量**：289
 - **最后更新**：2025-05-19
 - **GitHub**：[natipt/obsidian-zhongwen-reader](https://github.com/natipt/obsidian-zhongwen-reader)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Game Search
-description: Help insert game metadata into game notes or vaults, optionally sync with Steam Library and Wishlist
+description: 帮助将游戏元数据插入游戏注释或保险库，可选择与 Steam 资料库和 Wishlist 同步
 author: calvin
-downloads: 6988
+downloads: 6993
 updated: 1755373938000
 repo: CMorooney/obsidian-game-search-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="game-search"
   name="Game Search"
-  description="Help insert game metadata into game notes or vaults, optionally sync with Steam Library and Wishlist"
+  description="帮助将游戏元数据插入游戏注释或保险库，可选择与 Steam 资料库和 Wishlist 同步"
   author="calvin"
-  :downloads="6988"
+  :downloads="6993"
   :updated="1755373938000"
   repo="CMorooney/obsidian-game-search-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Game Search 是一个功能强大的 Obsidian 插件。
 
-Help insert game metadata into game notes or vaults, optionally sync with Steam Library and Wishlist
+帮助将游戏元数据插入游戏注释或保险库，可选择与 Steam 资料库和 Wishlist 同步
 
 通过 Game Search,您可以:
 
@@ -202,7 +202,7 @@ Help insert game metadata into game notes or vaults, optionally sync with Steam 
 - **下载量**：7.0K
 - **最后更新**：2025-08-17
 - **GitHub**：[CMorooney/obsidian-game-search-plugin](https://github.com/CMorooney/obsidian-game-search-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 263
 updated: 1717699326000
 repo: Windesheim-HBO-ICT/Obsidian-Interactive-Code-Block-Plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1717699326000"
   repo="Windesheim-HBO-ICT/Obsidian-Interactive-Code-Block-Plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Preview interactive code blocks!
 - **下载量**：263
 - **最后更新**：2024-06-07
 - **GitHub**：[Windesheim-HBO-ICT/Obsidian-Interactive-Code-Block-Plugin](https://github.com/Windesheim-HBO-ICT/Obsidian-Interactive-Code-Block-Plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

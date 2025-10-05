@@ -6,7 +6,7 @@ downloads: 122
 updated: 1746108456000
 repo: natri0/obsidian-bytefield
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1746108456000"
   repo="natri0/obsidian-bytefield"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds diagrams that show how structures are laid out in memory / network.
 - **下载量**：122
 - **最后更新**：2025-05-01
 - **GitHub**：[natri0/obsidian-bytefield](https://github.com/natri0/obsidian-bytefield)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

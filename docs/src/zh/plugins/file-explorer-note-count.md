@@ -1,12 +1,12 @@
 ---
 title: File Explorer Note Count
-description: See the number of notes in each folder within the file explorer.
+description: 在文件资源管理器中查看每个文件夹中的笔记数量。
 author: Ozan Tellioglu
-downloads: 196484
+downloads: 196975
 updated: 1758580421000
 repo: ozntel/file-explorer-note-count
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-explorer-note-count"
   name="File Explorer Note Count"
-  description="See the number of notes in each folder within the file explorer."
+  description="在文件资源管理器中查看每个文件夹中的笔记数量。"
   author="Ozan Tellioglu"
-  :downloads="196484"
+  :downloads="196975"
   :updated="1758580421000"
   repo="ozntel/file-explorer-note-count"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File Explorer Note Count 是一个功能强大的 Obsidian 插件。
 
-See the number of notes in each folder within the file explorer.
+在文件资源管理器中查看每个文件夹中的笔记数量。
 
 通过 File Explorer Note Count,您可以:
 
@@ -199,10 +199,10 @@ See the number of notes in each folder within the file explorer.
 - **插件 ID**：file-explorer-note-count
 - **作者**：Ozan Tellioglu
 - **当前版本**：v1.0.0
-- **下载量**：196.5K
+- **下载量**：197.0K
 - **最后更新**：2025-09-23
 - **GitHub**：[ozntel/file-explorer-note-count](https://github.com/ozntel/file-explorer-note-count)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

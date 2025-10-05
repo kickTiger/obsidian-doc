@@ -2,11 +2,11 @@
 title: EasyLink
 description: Select text in your editor to find the most similar content from other notes and easily create links.
 author: isitwho
-downloads: 663
+downloads: 665
 updated: 1754898794000
 repo: isitwho/EasyLink
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="EasyLink"
   description="Select text in your editor to find the most similar content from other notes and easily create links."
   author="isitwho"
-  :downloads="663"
+  :downloads="665"
   :updated="1754898794000"
   repo="isitwho/EasyLink"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Select text in your editor to find the most similar content from other notes and
 - **插件 ID**：easylink
 - **作者**：isitwho
 - **当前版本**：v1.0.0
-- **下载量**：663
+- **下载量**：665
 - **最后更新**：2025-08-11
 - **GitHub**：[isitwho/EasyLink](https://github.com/isitwho/EasyLink)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

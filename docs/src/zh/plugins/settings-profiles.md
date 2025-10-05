@@ -1,12 +1,12 @@
 ---
 title: Settings profiles
-description: 'Allows you to create various global settings profiles. You can sync them between different vaults. To keep all your settings in sync, you''ll never have to manually adjust them again for every vault you have or create in the future.'
+description: 允许您创建各种全局设置配置文件。您可以在不同的保险库之间同步它们。要保持所有设置同步，你就不必再为现有的或将来创建的每个保险库手动调整设置。
 author: 4Source
-downloads: 11407
+downloads: 11419
 updated: 1750931641000
 repo: 4Source/settings-profiles-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="settings-profiles"
   name="Settings profiles"
-  description="Allows you to create various global settings profiles. You can sync them between different vaults. To keep all your settings in sync, you&#39;ll never have to manually adjust them again for every vault you have or create in the future."
+  description="允许您创建各种全局设置配置文件。您可以在不同的保险库之间同步它们。要保持所有设置同步，你就不必再为现有的或将来创建的每个保险库手动调整设置。"
   author="4Source"
-  :downloads="11407"
+  :downloads="11419"
   :updated="1750931641000"
   repo="4Source/settings-profiles-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Settings profiles 是一个功能强大的 Obsidian 插件。
 
-Allows you to create various global settings profiles. You can sync them between different vaults. To keep all your settings in sync, you&#39;ll never have to manually adjust them again for every vault you have or create in the future.
+允许您创建各种全局设置配置文件。您可以在不同的保险库之间同步它们。要保持所有设置同步，你就不必再为现有的或将来创建的每个保险库手动调整设置。
 
 通过 Settings profiles,您可以:
 
@@ -202,7 +202,7 @@ Allows you to create various global settings profiles. You can sync them between
 - **下载量**：11.4K
 - **最后更新**：2025-06-26
 - **GitHub**：[4Source/settings-profiles-obsidian-plugin](https://github.com/4Source/settings-profiles-obsidian-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

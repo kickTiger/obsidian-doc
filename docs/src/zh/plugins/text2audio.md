@@ -2,11 +2,11 @@
 title: Text2Audio
 description: Convert text to speech.
 author: Haifeng Lu
-downloads: 2101
+downloads: 2102
 updated: 1718174721000
 repo: luhaifeng666/obsidian-text2audio
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Text2Audio"
   description="Convert text to speech."
   author="Haifeng Lu"
-  :downloads="2101"
+  :downloads="2102"
   :updated="1718174721000"
   repo="luhaifeng666/obsidian-text2audio"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Convert text to speech.
 - **下载量**：2.1K
 - **最后更新**：2024-06-12
 - **GitHub**：[luhaifeng666/obsidian-text2audio](https://github.com/luhaifeng666/obsidian-text2audio)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

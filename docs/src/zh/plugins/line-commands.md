@@ -2,11 +2,11 @@
 title: Line Commands
 description: Adds commands to quickly select, copy, cut, and paste lines under the selection or cursor.
 author: charliecm
-downloads: 1981
+downloads: 1982
 updated: 1740544555000
 repo: charliecm/obsidian-line-commands
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Line Commands"
   description="Adds commands to quickly select, copy, cut, and paste lines under the selection or cursor."
   author="charliecm"
-  :downloads="1981"
+  :downloads="1982"
   :updated="1740544555000"
   repo="charliecm/obsidian-line-commands"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds commands to quickly select, copy, cut, and paste lines under the selection 
 - **下载量**：2.0K
 - **最后更新**：2025-02-26
 - **GitHub**：[charliecm/obsidian-line-commands](https://github.com/charliecm/obsidian-line-commands)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

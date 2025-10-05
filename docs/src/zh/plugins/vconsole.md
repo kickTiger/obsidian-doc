@@ -2,11 +2,11 @@
 title: vConsole
 description: Integrate vConsole for developers to facilitate the debugging of mobile plugins.
 author: Zhou Hua
-downloads: 2935
+downloads: 2938
 updated: 1745841416000
 repo: zhouhua/obsidian-vconsole
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="vConsole"
   description="Integrate vConsole for developers to facilitate the debugging of mobile plugins."
   author="Zhou Hua"
-  :downloads="2935"
+  :downloads="2938"
   :updated="1745841416000"
   repo="zhouhua/obsidian-vconsole"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Integrate vConsole for developers to facilitate the debugging of mobile plugins.
 - **下载量**：2.9K
 - **最后更新**：2025-04-28
 - **GitHub**：[zhouhua/obsidian-vconsole](https://github.com/zhouhua/obsidian-vconsole)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

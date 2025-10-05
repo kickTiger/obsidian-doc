@@ -1,12 +1,12 @@
 ---
 title: Formatto
-description: Simple, fast, and easy-to-use Markdown formatter.
+description: 简单、快速、易用的 Markdown 格式化器。
 author: Eva
 downloads: 6250
 updated: 1738557645000
 repo: evasquare/formatto
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="formatto-format"
   name="Formatto"
-  description="Simple, fast, and easy-to-use Markdown formatter."
+  description="简单、快速、易用的 Markdown 格式化器。"
   author="Eva"
   :downloads="6250"
   :updated="1738557645000"
   repo="evasquare/formatto"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Formatto 是一个功能强大的 Obsidian 插件。
 
-Simple, fast, and easy-to-use Markdown formatter.
+简单、快速、易用的 Markdown 格式化器。
 
 通过 Formatto,您可以:
 
@@ -202,7 +202,7 @@ Simple, fast, and easy-to-use Markdown formatter.
 - **下载量**：6.3K
 - **最后更新**：2025-02-03
 - **GitHub**：[evasquare/formatto](https://github.com/evasquare/formatto)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 365
 updated: 1747920910000
 repo: makebit/obsidian-readeck-importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1747920910000"
   repo="makebit/obsidian-readeck-importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Import bookmarks from Readeck.
 - **下载量**：365
 - **最后更新**：2025-05-22
 - **GitHub**：[makebit/obsidian-readeck-importer](https://github.com/makebit/obsidian-readeck-importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

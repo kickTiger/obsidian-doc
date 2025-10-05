@@ -1,12 +1,12 @@
 ---
 title: Code Emitter
-description: Allow code blocks to be executed interactively in a sandbox like Jupyter notebooks. Supported language Rust, Kotlin, Python, JavaScript, TypeScript, etc.
+description: 允许在类似 Jupyter 笔记本的沙盒中交互式执行代码块。支持的语言有 Rust、Kotlin、Python、JavaScript、TypeScript 等。
 author: YISH
-downloads: 50492
+downloads: 50552
 updated: 1733962618000
 repo: mokeyish/obsidian-code-emitter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="code-emitter"
   name="Code Emitter"
-  description="Allow code blocks to be executed interactively in a sandbox like Jupyter notebooks. Supported language Rust, Kotlin, Python, JavaScript, TypeScript, etc."
+  description="允许在类似 Jupyter 笔记本的沙盒中交互式执行代码块。支持的语言有 Rust、Kotlin、Python、JavaScript、TypeScript 等。"
   author="YISH"
-  :downloads="50492"
+  :downloads="50552"
   :updated="1733962618000"
   repo="mokeyish/obsidian-code-emitter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Code Emitter 是一个功能强大的 Obsidian 插件。
 
-Allow code blocks to be executed interactively in a sandbox like Jupyter notebooks. Supported language Rust, Kotlin, Python, JavaScript, TypeScript, etc.
+允许在类似 Jupyter 笔记本的沙盒中交互式执行代码块。支持的语言有 Rust、Kotlin、Python、JavaScript、TypeScript 等。
 
 通过 Code Emitter,您可以:
 
@@ -199,10 +199,10 @@ Allow code blocks to be executed interactively in a sandbox like Jupyter noteboo
 - **插件 ID**：code-emitter
 - **作者**：YISH
 - **当前版本**：v1.0.0
-- **下载量**：50.5K
+- **下载量**：50.6K
 - **最后更新**：2024-12-12
 - **GitHub**：[mokeyish/obsidian-code-emitter](https://github.com/mokeyish/obsidian-code-emitter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

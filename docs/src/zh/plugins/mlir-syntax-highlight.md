@@ -1,12 +1,12 @@
 ---
 title: MLIR Syntax Highlight
-description: Show syntax highlighing for MLIR in code blocks the editor.
+description: 在代码块编辑器中显示 MLIR 的语法高亮。
 author: Lewuathe
-downloads: 8739
+downloads: 8743
 updated: 1693360102000
 repo: Lewuathe/obsidian-mlir-syntax-highlight
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mlir-syntax-highlight"
   name="MLIR Syntax Highlight"
-  description="Show syntax highlighing for MLIR in code blocks the editor."
+  description="在代码块编辑器中显示 MLIR 的语法高亮。"
   author="Lewuathe"
-  :downloads="8739"
+  :downloads="8743"
   :updated="1693360102000"
   repo="Lewuathe/obsidian-mlir-syntax-highlight"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 MLIR Syntax Highlight 是一个功能强大的 Obsidian 插件。
 
-Show syntax highlighing for MLIR in code blocks the editor.
+在代码块编辑器中显示 MLIR 的语法高亮。
 
 通过 MLIR Syntax Highlight,您可以:
 
@@ -202,7 +202,7 @@ Show syntax highlighing for MLIR in code blocks the editor.
 - **下载量**：8.7K
 - **最后更新**：2023-08-30
 - **GitHub**：[Lewuathe/obsidian-mlir-syntax-highlight](https://github.com/Lewuathe/obsidian-mlir-syntax-highlight)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: 2Hop Links Plus
-description: Related links up to 2 hops away are displayed in a card format, allowing for easy browsing through connections between notes. Each card contains a preview of the corresponding note.
+description: 2 跳以内的相关链接以卡片形式显示，便于浏览笔记之间的联系。每张卡片都包含相应笔记的预览。
 author: Tokuhiro Matsuno, L7Cy
-downloads: 18992
+downloads: 19031
 updated: 1697422365000
 repo: L7Cy/obsidian-2hop-links-plus
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="2hop-links-plus"
   name="2Hop Links Plus"
-  description="Related links up to 2 hops away are displayed in a card format, allowing for easy browsing through connections between notes. Each card contains a preview of the corresponding note."
+  description="2 跳以内的相关链接以卡片形式显示，便于浏览笔记之间的联系。每张卡片都包含相应笔记的预览。"
   author="Tokuhiro Matsuno, L7Cy"
-  :downloads="18992"
+  :downloads="19031"
   :updated="1697422365000"
   repo="L7Cy/obsidian-2hop-links-plus"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 2Hop Links Plus 是一个功能强大的 Obsidian 插件。
 
-Related links up to 2 hops away are displayed in a card format, allowing for easy browsing through connections between notes. Each card contains a preview of the corresponding note.
+2 跳以内的相关链接以卡片形式显示，便于浏览笔记之间的联系。每张卡片都包含相应笔记的预览。
 
 通过 2Hop Links Plus,您可以:
 
@@ -202,7 +202,7 @@ Related links up to 2 hops away are displayed in a card format, allowing for eas
 - **下载量**：19.0K
 - **最后更新**：2023-10-16
 - **GitHub**：[L7Cy/obsidian-2hop-links-plus](https://github.com/L7Cy/obsidian-2hop-links-plus)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 348
 updated: 1721822428000
 repo: eust-w/obsidian-image-auto-upload
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1721822428000"
   repo="eust-w/obsidian-image-auto-upload"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Fast upload images from your clipboard by gopic
 - **下载量**：348
 - **最后更新**：2024-07-24
 - **GitHub**：[eust-w/obsidian-image-auto-upload](https://github.com/eust-w/obsidian-image-auto-upload)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

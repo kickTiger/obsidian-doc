@@ -1,12 +1,12 @@
 ---
 title: Show Diff
-description: Render Git diffs in your notes.
+description: 在笔记中渲染 Git 差异。
 author: Ivan Lednev
-downloads: 3935
+downloads: 3936
 updated: 1682325553000
 repo: ivan-lednev/obsidian-automatic-changelog
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="show-diff"
   name="Show Diff"
-  description="Render Git diffs in your notes."
+  description="在笔记中渲染 Git 差异。"
   author="Ivan Lednev"
-  :downloads="3935"
+  :downloads="3936"
   :updated="1682325553000"
   repo="ivan-lednev/obsidian-automatic-changelog"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Show Diff 是一个功能强大的 Obsidian 插件。
 
-Render Git diffs in your notes.
+在笔记中渲染 Git 差异。
 
 通过 Show Diff,您可以:
 
@@ -202,7 +202,7 @@ Render Git diffs in your notes.
 - **下载量**：3.9K
 - **最后更新**：2023-04-24
 - **GitHub**：[ivan-lednev/obsidian-automatic-changelog](https://github.com/ivan-lednev/obsidian-automatic-changelog)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

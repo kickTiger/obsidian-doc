@@ -6,7 +6,7 @@ downloads: 227
 updated: 1750612143000
 repo: ShadiestGoat/obsidian-layout-manager
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1750612143000"
   repo="ShadiestGoat/obsidian-layout-manager"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manage layouts with context
 - **下载量**：227
 - **最后更新**：2025-06-23
 - **GitHub**：[ShadiestGoat/obsidian-layout-manager](https://github.com/ShadiestGoat/obsidian-layout-manager)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

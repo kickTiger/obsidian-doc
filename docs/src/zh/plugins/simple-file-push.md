@@ -6,7 +6,7 @@ downloads: 1109
 updated: 1708426117000
 repo: huedaya/obsidian-simple-file-push
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1708426117000"
   repo="huedaya/obsidian-simple-file-push"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Push Markdown file to API endpoint.
 - **下载量**：1.1K
 - **最后更新**：2024-02-20
 - **GitHub**：[huedaya/obsidian-simple-file-push](https://github.com/huedaya/obsidian-simple-file-push)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

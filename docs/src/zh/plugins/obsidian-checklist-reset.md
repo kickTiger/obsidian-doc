@@ -1,12 +1,12 @@
 ---
 title: Checklist Reset
-description: Add a command to reset the state of any checklists in a document.
+description: 添加一条命令，用于重置文档中任何核对表的状态。
 author: Luke Hansford
-downloads: 9035
+downloads: 9044
 updated: 1741400478000
 repo: lhansford/obsidian-checklist-reset
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-checklist-reset"
   name="Checklist Reset"
-  description="Add a command to reset the state of any checklists in a document."
+  description="添加一条命令，用于重置文档中任何核对表的状态。"
   author="Luke Hansford"
-  :downloads="9035"
+  :downloads="9044"
   :updated="1741400478000"
   repo="lhansford/obsidian-checklist-reset"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Checklist Reset 是一个功能强大的 Obsidian 插件。
 
-Add a command to reset the state of any checklists in a document.
+添加一条命令，用于重置文档中任何核对表的状态。
 
 通过 Checklist Reset,您可以:
 
@@ -202,7 +202,7 @@ Add a command to reset the state of any checklists in a document.
 - **下载量**：9.0K
 - **最后更新**：2025-03-08
 - **GitHub**：[lhansford/obsidian-checklist-reset](https://github.com/lhansford/obsidian-checklist-reset)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

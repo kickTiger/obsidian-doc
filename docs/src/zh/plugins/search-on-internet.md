@@ -1,12 +1,12 @@
 ---
 title: Search on Internet
-description: Add context menu items to search the internet based on the title of your note.
+description: 添加上下文菜单项，根据笔记标题搜索互联网。
 author: Emile
-downloads: 28532
+downloads: 28538
 updated: 1624466128000
 repo: HEmile/obsidian-search-on-internet
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="search-on-internet"
   name="Search on Internet"
-  description="Add context menu items to search the internet based on the title of your note."
+  description="添加上下文菜单项，根据笔记标题搜索互联网。"
   author="Emile"
-  :downloads="28532"
+  :downloads="28538"
   :updated="1624466128000"
   repo="HEmile/obsidian-search-on-internet"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Search on Internet 是一个功能强大的 Obsidian 插件。
 
-Add context menu items to search the internet based on the title of your note.
+添加上下文菜单项，根据笔记标题搜索互联网。
 
 通过 Search on Internet,您可以:
 
@@ -202,7 +202,7 @@ Add context menu items to search the internet based on the title of your note.
 - **下载量**：28.5K
 - **最后更新**：2021-06-24
 - **GitHub**：[HEmile/obsidian-search-on-internet](https://github.com/HEmile/obsidian-search-on-internet)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

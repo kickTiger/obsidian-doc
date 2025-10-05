@@ -6,7 +6,7 @@ downloads: 830
 updated: 1712470827000
 repo: SaalikLok/lavadocs-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1712470827000"
   repo="SaalikLok/lavadocs-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Public docs, from the fires of your vault.
 - **下载量**：830
 - **最后更新**：2024-04-07
 - **GitHub**：[SaalikLok/lavadocs-obsidian](https://github.com/SaalikLok/lavadocs-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

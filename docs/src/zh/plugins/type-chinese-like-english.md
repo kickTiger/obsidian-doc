@@ -2,11 +2,11 @@
 title: Type Chinese Like English
 description: Convert pinyin to Chinese and LaTeX
 author: Hwenyi
-downloads: 327
+downloads: 329
 updated: 1740492510000
 repo: Hwenyi/obsidian-type-chinese-like-english
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Type Chinese Like English"
   description="Convert pinyin to Chinese and LaTeX"
   author="Hwenyi"
-  :downloads="327"
+  :downloads="329"
   :updated="1740492510000"
   repo="Hwenyi/obsidian-type-chinese-like-english"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Convert pinyin to Chinese and LaTeX
 - **插件 ID**：type-chinese-like-english
 - **作者**：Hwenyi
 - **当前版本**：v1.0.0
-- **下载量**：327
+- **下载量**：329
 - **最后更新**：2025-02-25
 - **GitHub**：[Hwenyi/obsidian-type-chinese-like-english](https://github.com/Hwenyi/obsidian-type-chinese-like-english)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

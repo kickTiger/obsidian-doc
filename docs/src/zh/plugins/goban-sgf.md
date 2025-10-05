@@ -2,11 +2,11 @@
 title: Goban SGF
 description: Record Go games (SGF format goban).
 author: Stinson
-downloads: 1225
+downloads: 1226
 updated: 1712565409000
 repo: StinsonZhao/obsidian-plugin-goban-sgf
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Goban SGF"
   description="Record Go games (SGF format goban)."
   author="Stinson"
-  :downloads="1225"
+  :downloads="1226"
   :updated="1712565409000"
   repo="StinsonZhao/obsidian-plugin-goban-sgf"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Record Go games (SGF format goban).
 - **下载量**：1.2K
 - **最后更新**：2024-04-08
 - **GitHub**：[StinsonZhao/obsidian-plugin-goban-sgf](https://github.com/StinsonZhao/obsidian-plugin-goban-sgf)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

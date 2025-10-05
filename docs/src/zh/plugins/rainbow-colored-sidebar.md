@@ -1,12 +1,12 @@
 ---
 title: Rainbow-Colored Sidebar
-description: Automatically color your sidebar like a rainbow. No configuration needed.
+description: 像彩虹一样自动为侧边栏着色。无需配置。
 author: Kevin Woblick
-downloads: 4812
+downloads: 4839
 updated: 1757500673000
 repo: Kovah/obsidian-rainbow-colored-sidebar
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="rainbow-colored-sidebar"
   name="Rainbow-Colored Sidebar"
-  description="Automatically color your sidebar like a rainbow. No configuration needed."
+  description="像彩虹一样自动为侧边栏着色。无需配置。"
   author="Kevin Woblick"
-  :downloads="4812"
+  :downloads="4839"
   :updated="1757500673000"
   repo="Kovah/obsidian-rainbow-colored-sidebar"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Rainbow-Colored Sidebar 是一个功能强大的 Obsidian 插件。
 
-Automatically color your sidebar like a rainbow. No configuration needed.
+像彩虹一样自动为侧边栏着色。无需配置。
 
 通过 Rainbow-Colored Sidebar,您可以:
 
@@ -202,7 +202,7 @@ Automatically color your sidebar like a rainbow. No configuration needed.
 - **下载量**：4.8K
 - **最后更新**：2025-09-10
 - **GitHub**：[Kovah/obsidian-rainbow-colored-sidebar](https://github.com/Kovah/obsidian-rainbow-colored-sidebar)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

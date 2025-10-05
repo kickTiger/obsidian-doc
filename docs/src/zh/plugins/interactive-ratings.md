@@ -2,11 +2,11 @@
 title: Interactive Ratings
 description: Edit symbol ratings in your notes interactively.
 author: peritus
-downloads: 1629
+downloads: 1636
 updated: 1757482180000
 repo: peritus/obsidian-interactive-ratings
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Interactive Ratings"
   description="Edit symbol ratings in your notes interactively."
   author="peritus"
-  :downloads="1629"
+  :downloads="1636"
   :updated="1757482180000"
   repo="peritus/obsidian-interactive-ratings"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Edit symbol ratings in your notes interactively.
 - **下载量**：1.6K
 - **最后更新**：2025-09-10
 - **GitHub**：[peritus/obsidian-interactive-ratings](https://github.com/peritus/obsidian-interactive-ratings)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Markdown Image Caption
 description: Generate Markdown-based image captions.
 author: Hananoshika Yomaru
-downloads: 3016
+downloads: 3017
 updated: 1700538397000
 repo: HananoshikaYomaru/obsidian-image-caption
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Markdown Image Caption"
   description="Generate Markdown-based image captions."
   author="Hananoshika Yomaru"
-  :downloads="3016"
+  :downloads="3017"
   :updated="1700538397000"
   repo="HananoshikaYomaru/obsidian-image-caption"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate Markdown-based image captions.
 - **下载量**：3.0K
 - **最后更新**：2023-11-21
 - **GitHub**：[HananoshikaYomaru/obsidian-image-caption](https://github.com/HananoshikaYomaru/obsidian-image-caption)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

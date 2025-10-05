@@ -2,11 +2,11 @@
 title: Figma Embed
 description: Embed Figma files as inline previews.
 author: Kyle Kochanek
-downloads: 1999
+downloads: 2001
 updated: 1747577968000
 repo: kocheck/obsidian-figma-viewer
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Figma Embed"
   description="Embed Figma files as inline previews."
   author="Kyle Kochanek"
-  :downloads="1999"
+  :downloads="2001"
   :updated="1747577968000"
   repo="kocheck/obsidian-figma-viewer"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Embed Figma files as inline previews.
 - **下载量**：2.0K
 - **最后更新**：2025-05-18
 - **GitHub**：[kocheck/obsidian-figma-viewer](https://github.com/kocheck/obsidian-figma-viewer)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

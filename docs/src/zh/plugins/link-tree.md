@@ -1,12 +1,12 @@
 ---
 title: Link Tree
-description: 'View file links and backlinks as a recursively expandable, filterable list with editable text, combining the structure of outliners like Dynalist & WorkFlowy with the flexibility of Obsidian.'
+description: 将文件链接和反向链接视作可递归扩展、可过滤的列表，并带有可编辑文本，将 Dynalist 和 WorkFlowy 等大纲工具的结构与 Obsidian 的灵活性相结合。
 author: Joshua Tazman Reinier
-downloads: 11832
+downloads: 11844
 updated: 1690359835000
 repo: j-palindrome/obsidian-link-tree
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="link-tree"
   name="Link Tree"
-  description="View file links and backlinks as a recursively expandable, filterable list with editable text, combining the structure of outliners like Dynalist &amp; WorkFlowy with the flexibility of Obsidian."
+  description="将文件链接和反向链接视作可递归扩展、可过滤的列表，并带有可编辑文本，将 Dynalist 和 WorkFlowy 等大纲工具的结构与 Obsidian 的灵活性相结合。"
   author="Joshua Tazman Reinier"
-  :downloads="11832"
+  :downloads="11844"
   :updated="1690359835000"
   repo="j-palindrome/obsidian-link-tree"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Link Tree 是一个功能强大的 Obsidian 插件。
 
-View file links and backlinks as a recursively expandable, filterable list with editable text, combining the structure of outliners like Dynalist &amp; WorkFlowy with the flexibility of Obsidian.
+将文件链接和反向链接视作可递归扩展、可过滤的列表，并带有可编辑文本，将 Dynalist 和 WorkFlowy 等大纲工具的结构与 Obsidian 的灵活性相结合。
 
 通过 Link Tree,您可以:
 
@@ -202,7 +202,7 @@ View file links and backlinks as a recursively expandable, filterable list with 
 - **下载量**：11.8K
 - **最后更新**：2023-07-26
 - **GitHub**：[j-palindrome/obsidian-link-tree](https://github.com/j-palindrome/obsidian-link-tree)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

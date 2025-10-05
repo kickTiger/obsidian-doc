@@ -1,12 +1,12 @@
 ---
 title: Mxmind Mindmap
-description: Convert Markdown files to a mind map,mind map editor.
+description: 将 Markdown 文件转换为思维导图，思维导图编辑器。
 author: mxmind
-downloads: 16533
+downloads: 16562
 updated: 1746668492000
 repo: webceoboy/mxmind-obsidian
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mxmind"
   name="Mxmind Mindmap"
-  description="Convert Markdown files to a mind map,mind map editor."
+  description="将 Markdown 文件转换为思维导图，思维导图编辑器。"
   author="mxmind"
-  :downloads="16533"
+  :downloads="16562"
   :updated="1746668492000"
   repo="webceoboy/mxmind-obsidian"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Mxmind Mindmap 是一个功能强大的 Obsidian 插件。
 
-Convert Markdown files to a mind map,mind map editor.
+将 Markdown 文件转换为思维导图，思维导图编辑器。
 
 通过 Mxmind Mindmap,您可以:
 
@@ -199,10 +199,10 @@ Convert Markdown files to a mind map,mind map editor.
 - **插件 ID**：mxmind
 - **作者**：mxmind
 - **当前版本**：v1.0.0
-- **下载量**：16.5K
+- **下载量**：16.6K
 - **最后更新**：2025-05-08
 - **GitHub**：[webceoboy/mxmind-obsidian](https://github.com/webceoboy/mxmind-obsidian)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

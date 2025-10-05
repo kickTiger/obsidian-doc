@@ -1,12 +1,12 @@
 ---
 title: Autocomplete
-description: Autocomplete text to increase your typing speed.
+description: 自动完成文本，提高打字速度。
 author: Yeboster
-downloads: 34726
+downloads: 34738
 updated: 1623513095000
 repo: Yeboster/autocomplete-obsidian
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-autocomplete-plugin"
   name="Autocomplete"
-  description="Autocomplete text to increase your typing speed."
+  description="自动完成文本，提高打字速度。"
   author="Yeboster"
-  :downloads="34726"
+  :downloads="34738"
   :updated="1623513095000"
   repo="Yeboster/autocomplete-obsidian"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Autocomplete 是一个功能强大的 Obsidian 插件。
 
-Autocomplete text to increase your typing speed.
+自动完成文本，提高打字速度。
 
 通过 Autocomplete,您可以:
 
@@ -202,7 +202,7 @@ Autocomplete text to increase your typing speed.
 - **下载量**：34.7K
 - **最后更新**：2021-06-12
 - **GitHub**：[Yeboster/autocomplete-obsidian](https://github.com/Yeboster/autocomplete-obsidian)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

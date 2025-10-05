@@ -2,11 +2,11 @@
 title: Page Scroll
 description: 'Page Up|Down|Top|Bottom'
 author: triski
-downloads: 1458
+downloads: 1463
 updated: 1719153847000
 repo: chenshutian9610/obsidian-pagescroll-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Page Scroll"
   description="Page Up|Down|Top|Bottom"
   author="triski"
-  :downloads="1458"
+  :downloads="1463"
   :updated="1719153847000"
   repo="chenshutian9610/obsidian-pagescroll-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Page Up|Down|Top|Bottom
 - **下载量**：1.5K
 - **最后更新**：2024-06-23
 - **GitHub**：[chenshutian9610/obsidian-pagescroll-plugin](https://github.com/chenshutian9610/obsidian-pagescroll-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

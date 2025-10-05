@@ -2,11 +2,11 @@
 title: short tab name
 description: Set tab name to short for UID user.
 author: Shumpei Tanaka
-downloads: 2151
+downloads: 2152
 updated: 1700746578000
 repo: Shumpei-Tanaka/obsidian-short-tab-name
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="short tab name"
   description="Set tab name to short for UID user."
   author="Shumpei Tanaka"
-  :downloads="2151"
+  :downloads="2152"
   :updated="1700746578000"
   repo="Shumpei-Tanaka/obsidian-short-tab-name"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Set tab name to short for UID user.
 - **下载量**：2.2K
 - **最后更新**：2023-11-23
 - **GitHub**：[Shumpei-Tanaka/obsidian-short-tab-name](https://github.com/Shumpei-Tanaka/obsidian-short-tab-name)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

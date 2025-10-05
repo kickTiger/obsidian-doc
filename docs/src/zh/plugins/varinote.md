@@ -6,7 +6,7 @@ downloads: 437
 updated: 1739816040000
 repo: gsarig/obsidian-varinote
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1739816040000"
   repo="gsarig/obsidian-varinote"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add variables in Templates and set their values on-the-fly during the Note creat
 - **下载量**：437
 - **最后更新**：2025-02-18
 - **GitHub**：[gsarig/obsidian-varinote](https://github.com/gsarig/obsidian-varinote)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

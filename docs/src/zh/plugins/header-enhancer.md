@@ -1,12 +1,12 @@
 ---
 title: Header Enhancer
-description: Level up your headers, customize your notes. Header Enhancer makes your notes header better and more useful.
+description: 提升你的标题，定制你的笔记。Header Enhancer 能让你的笔记标题更好用、更实用。
 author: Hobee Liu
-downloads: 7453
+downloads: 7460
 updated: 1756745465000
 repo: HoBeedzc/obsidian-header-enhancer-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="header-enhancer"
   name="Header Enhancer"
-  description="Level up your headers, customize your notes. Header Enhancer makes your notes header better and more useful."
+  description="提升你的标题，定制你的笔记。Header Enhancer 能让你的笔记标题更好用、更实用。"
   author="Hobee Liu"
-  :downloads="7453"
+  :downloads="7460"
   :updated="1756745465000"
   repo="HoBeedzc/obsidian-header-enhancer-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Header Enhancer 是一个功能强大的 Obsidian 插件。
 
-Level up your headers, customize your notes. Header Enhancer makes your notes header better and more useful.
+提升你的标题，定制你的笔记。Header Enhancer 能让你的笔记标题更好用、更实用。
 
 通过 Header Enhancer,您可以:
 
@@ -202,7 +202,7 @@ Level up your headers, customize your notes. Header Enhancer makes your notes he
 - **下载量**：7.5K
 - **最后更新**：2025-09-02
 - **GitHub**：[HoBeedzc/obsidian-header-enhancer-plugin](https://github.com/HoBeedzc/obsidian-header-enhancer-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

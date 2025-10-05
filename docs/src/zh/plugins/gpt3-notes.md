@@ -1,12 +1,12 @@
 ---
 title: GPT Notes
-description: 'Generate notes on any subject using OpenAI''s GPT-3.5 and GPT-4 language models.'
+description: 使用 OpenAI 的 GPT-3.5 和 GPT-4 语言模型生成任何主题的笔记。
 author: micahke
-downloads: 35982
+downloads: 35990
 updated: 1688721094000
 repo: micahke/obsidian-gpt3-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gpt3-notes"
   name="GPT Notes"
-  description="Generate notes on any subject using OpenAI&#39;s GPT-3.5 and GPT-4 language models."
+  description="使用 OpenAI 的 GPT-3.5 和 GPT-4 语言模型生成任何主题的笔记。"
   author="micahke"
-  :downloads="35982"
+  :downloads="35990"
   :updated="1688721094000"
   repo="micahke/obsidian-gpt3-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 GPT Notes 是一个功能强大的 Obsidian 插件。
 
-Generate notes on any subject using OpenAI&#39;s GPT-3.5 and GPT-4 language models.
+使用 OpenAI 的 GPT-3.5 和 GPT-4 语言模型生成任何主题的笔记。
 
 通过 GPT Notes,您可以:
 
@@ -202,7 +202,7 @@ Generate notes on any subject using OpenAI&#39;s GPT-3.5 and GPT-4 language mode
 - **下载量**：36.0K
 - **最后更新**：2023-07-07
 - **GitHub**：[micahke/obsidian-gpt3-notes](https://github.com/micahke/obsidian-gpt3-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

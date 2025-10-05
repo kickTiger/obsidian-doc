@@ -1,12 +1,12 @@
 ---
 title: Things3 Sync
-description: Sync between Obsidian and Things3. Supports multi-language, tags and dates.
+description: 在 Obsidian 和 Things3 之间同步。支持多语言、标签和日期。
 author: royx
-downloads: 13806
+downloads: 13814
 updated: 1713868502000
 repo: royxue/obsidian-things3-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-things3-sync"
   name="Things3 Sync"
-  description="Sync between Obsidian and Things3. Supports multi-language, tags and dates."
+  description="在 Obsidian 和 Things3 之间同步。支持多语言、标签和日期。"
   author="royx"
-  :downloads="13806"
+  :downloads="13814"
   :updated="1713868502000"
   repo="royxue/obsidian-things3-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Things3 Sync 是一个功能强大的 Obsidian 插件。
 
-Sync between Obsidian and Things3. Supports multi-language, tags and dates.
+在 Obsidian 和 Things3 之间同步。支持多语言、标签和日期。
 
 通过 Things3 Sync,您可以:
 
@@ -202,7 +202,7 @@ Sync between Obsidian and Things3. Supports multi-language, tags and dates.
 - **下载量**：13.8K
 - **最后更新**：2024-04-23
 - **GitHub**：[royxue/obsidian-things3-sync](https://github.com/royxue/obsidian-things3-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Workspaces Plus
-description: Quickly switch and manage workspaces.
+description: 快速切换和管理工作区
 author: NothingIsLost
-downloads: 70853
+downloads: 70885
 updated: 1670604486000
 repo: jsmorabito/obsidian-workspaces-plus
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="workspaces-plus"
   name="Workspaces Plus"
-  description="Quickly switch and manage workspaces."
+  description="快速切换和管理工作区"
   author="NothingIsLost"
-  :downloads="70853"
+  :downloads="70885"
   :updated="1670604486000"
   repo="jsmorabito/obsidian-workspaces-plus"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Workspaces Plus 是一个功能强大的 Obsidian 插件。
 
-Quickly switch and manage workspaces.
+快速切换和管理工作区
 
 通过 Workspaces Plus,您可以:
 
@@ -202,7 +202,7 @@ Quickly switch and manage workspaces.
 - **下载量**：70.9K
 - **最后更新**：2022-12-10
 - **GitHub**：[jsmorabito/obsidian-workspaces-plus](https://github.com/jsmorabito/obsidian-workspaces-plus)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

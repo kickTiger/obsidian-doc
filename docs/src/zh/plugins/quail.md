@@ -1,12 +1,12 @@
 ---
 title: Quail
-description: Save, publish, delivery notes via Quail.ink as newsletters and blogs.
+description: 通过 Quail.ink 将笔记保存、发布为通讯和博客。
 author: Lyric
 downloads: 4401
 updated: 1743987785000
 repo: lyricat/obsidian-quail
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quail"
   name="Quail"
-  description="Save, publish, delivery notes via Quail.ink as newsletters and blogs."
+  description="通过 Quail.ink 将笔记保存、发布为通讯和博客。"
   author="Lyric"
   :downloads="4401"
   :updated="1743987785000"
   repo="lyricat/obsidian-quail"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quail 是一个功能强大的 Obsidian 插件。
 
-Save, publish, delivery notes via Quail.ink as newsletters and blogs.
+通过 Quail.ink 将笔记保存、发布为通讯和博客。
 
 通过 Quail,您可以:
 
@@ -202,7 +202,7 @@ Save, publish, delivery notes via Quail.ink as newsletters and blogs.
 - **下载量**：4.4K
 - **最后更新**：2025-04-07
 - **GitHub**：[lyricat/obsidian-quail](https://github.com/lyricat/obsidian-quail)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

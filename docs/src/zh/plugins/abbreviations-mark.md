@@ -2,11 +2,11 @@
 title: Abbreviations and Acronyms
 description: Implements automatic marking of abbreviations and acronyms (terminology).
 author: dragonish
-downloads: 2519
+downloads: 2520
 updated: 1756039571000
 repo: dragonish/obsidian-abbreviations
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Abbreviations and Acronyms"
   description="Implements automatic marking of abbreviations and acronyms (terminology)."
   author="dragonish"
-  :downloads="2519"
+  :downloads="2520"
   :updated="1756039571000"
   repo="dragonish/obsidian-abbreviations"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Implements automatic marking of abbreviations and acronyms (terminology).
 - **下载量**：2.5K
 - **最后更新**：2025-08-24
 - **GitHub**：[dragonish/obsidian-abbreviations](https://github.com/dragonish/obsidian-abbreviations)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

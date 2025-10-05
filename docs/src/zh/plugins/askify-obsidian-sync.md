@@ -1,12 +1,12 @@
 ---
 title: Askify Sync
-description: Syncing between Obsidian and Askify.
+description: 在 Obsidian 和 Askify 之间进行同步。
 author: Kishlay Raj
 downloads: 3674
 updated: 1716728156000
 repo: helloworldkr/Askify-Obsidian-Sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="askify-obsidian-sync"
   name="Askify Sync"
-  description="Syncing between Obsidian and Askify."
+  description="在 Obsidian 和 Askify 之间进行同步。"
   author="Kishlay Raj"
   :downloads="3674"
   :updated="1716728156000"
   repo="helloworldkr/Askify-Obsidian-Sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Askify Sync 是一个功能强大的 Obsidian 插件。
 
-Syncing between Obsidian and Askify.
+在 Obsidian 和 Askify 之间进行同步。
 
 通过 Askify Sync,您可以:
 
@@ -202,7 +202,7 @@ Syncing between Obsidian and Askify.
 - **下载量**：3.7K
 - **最后更新**：2024-05-26
 - **GitHub**：[helloworldkr/Askify-Obsidian-Sync](https://github.com/helloworldkr/Askify-Obsidian-Sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

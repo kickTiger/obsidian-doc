@@ -2,11 +2,11 @@
 title: Daily Note Metrics
 description: Parses the tags in your Daily Notes and create interactive charts in a dashboard view.
 author: Andre-Diamond
-downloads: 801
+downloads: 804
 updated: 1755939517000
 repo: Andre-Diamond/note-metrics
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Daily Note Metrics"
   description="Parses the tags in your Daily Notes and create interactive charts in a dashboard view."
   author="Andre-Diamond"
-  :downloads="801"
+  :downloads="804"
   :updated="1755939517000"
   repo="Andre-Diamond/note-metrics"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Parses the tags in your Daily Notes and create interactive charts in a dashboard
 - **插件 ID**：note-metrics
 - **作者**：Andre-Diamond
 - **当前版本**：v1.0.0
-- **下载量**：801
+- **下载量**：804
 - **最后更新**：2025-08-23
 - **GitHub**：[Andre-Diamond/note-metrics](https://github.com/Andre-Diamond/note-metrics)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

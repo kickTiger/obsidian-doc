@@ -1,12 +1,12 @@
 ---
 title: Line Arrange
-description: Shuffle, reverse, or sort lines, using either visual width or lexical order.
+description: 利用视觉宽度或词汇顺序对行进行洗行、倒行或排序。
 author: Chitwan Singh
-downloads: 4647
+downloads: 4652
 updated: 1758447990000
 repo: chitwan27/lineArrange
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="line-arrange"
   name="Line Arrange"
-  description="Shuffle, reverse, or sort lines, using either visual width or lexical order."
+  description="利用视觉宽度或词汇顺序对行进行洗行、倒行或排序。"
   author="Chitwan Singh"
-  :downloads="4647"
+  :downloads="4652"
   :updated="1758447990000"
   repo="chitwan27/lineArrange"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Line Arrange 是一个功能强大的 Obsidian 插件。
 
-Shuffle, reverse, or sort lines, using either visual width or lexical order.
+利用视觉宽度或词汇顺序对行进行洗行、倒行或排序。
 
 通过 Line Arrange,您可以:
 
@@ -199,10 +199,10 @@ Shuffle, reverse, or sort lines, using either visual width or lexical order.
 - **插件 ID**：line-arrange
 - **作者**：Chitwan Singh
 - **当前版本**：v1.0.0
-- **下载量**：4.6K
+- **下载量**：4.7K
 - **最后更新**：2025-09-21
 - **GitHub**：[chitwan27/lineArrange](https://github.com/chitwan27/lineArrange)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

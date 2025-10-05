@@ -2,11 +2,11 @@
 title: Linked Note Exporter
 description: Export note with all its attachments and linked notes.
 author: the-c0d3r
-downloads: 1693
+downloads: 1696
 updated: 1757591397000
 repo: the-c0d3r/obsidian-linked-note-exporter
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Linked Note Exporter"
   description="Export note with all its attachments and linked notes."
   author="the-c0d3r"
-  :downloads="1693"
+  :downloads="1696"
   :updated="1757591397000"
   repo="the-c0d3r/obsidian-linked-note-exporter"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Export note with all its attachments and linked notes.
 - **下载量**：1.7K
 - **最后更新**：2025-09-11
 - **GitHub**：[the-c0d3r/obsidian-linked-note-exporter](https://github.com/the-c0d3r/obsidian-linked-note-exporter)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

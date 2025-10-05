@@ -6,7 +6,7 @@ downloads: 869
 updated: 1710004003000
 repo: simsapa/simsapa-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1710004003000"
   repo="simsapa/simsapa-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Pāli dictionary and sutta search using Simsapa Dhamma Reader. Open a sidebar or
 - **下载量**：869
 - **最后更新**：2024-03-10
 - **GitHub**：[simsapa/simsapa-obsidian](https://github.com/simsapa/simsapa-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

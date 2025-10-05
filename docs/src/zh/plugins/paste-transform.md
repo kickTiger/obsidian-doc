@@ -2,11 +2,11 @@
 title: Paste transform
 description: Modify text from the clipboard by regexp rules
 author: Timofey Koolin
-downloads: 1685
+downloads: 1686
 updated: 1707471968000
 repo: rekby/obsidian-paste-transform
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Paste transform"
   description="Modify text from the clipboard by regexp rules"
   author="Timofey Koolin"
-  :downloads="1685"
+  :downloads="1686"
   :updated="1707471968000"
   repo="rekby/obsidian-paste-transform"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Modify text from the clipboard by regexp rules
 - **下载量**：1.7K
 - **最后更新**：2024-02-09
 - **GitHub**：[rekby/obsidian-paste-transform](https://github.com/rekby/obsidian-paste-transform)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

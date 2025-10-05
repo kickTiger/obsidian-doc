@@ -2,11 +2,11 @@
 title: Custom Selected Word Count
 description: Provides advanced word counting features for selected text across all view modes. Goes beyond basic word counting with customizable path exclusion, and more.
 author: banisterious
-downloads: 447
+downloads: 451
 updated: 1754691294000
 repo: banisterious/obsidian-custom-selected-word-count
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Custom Selected Word Count"
   description="Provides advanced word counting features for selected text across all view modes. Goes beyond basic word counting with customizable path exclusion, and more."
   author="banisterious"
-  :downloads="447"
+  :downloads="451"
   :updated="1754691294000"
   repo="banisterious/obsidian-custom-selected-word-count"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Provides advanced word counting features for selected text across all view modes
 - **插件 ID**：custom-selected-word-count
 - **作者**：banisterious
 - **当前版本**：v1.0.0
-- **下载量**：447
+- **下载量**：451
 - **最后更新**：2025-08-09
 - **GitHub**：[banisterious/obsidian-custom-selected-word-count](https://github.com/banisterious/obsidian-custom-selected-word-count)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

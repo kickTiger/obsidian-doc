@@ -1,12 +1,12 @@
 ---
 title: Extract Highlights
-description: Extract all ==highlights== in a note into your clipboard.
+description: 将注释中的所有 ==highlights== 提取到剪贴板中。
 author: Alexis Rondeau
-downloads: 21375
+downloads: 21379
 updated: 1614247342000
 repo: akaalias/extract-highlights-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="extract-highlights-plugin"
   name="Extract Highlights"
-  description="Extract all ==highlights== in a note into your clipboard."
+  description="将注释中的所有 ==highlights== 提取到剪贴板中。"
   author="Alexis Rondeau"
-  :downloads="21375"
+  :downloads="21379"
   :updated="1614247342000"
   repo="akaalias/extract-highlights-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Extract Highlights 是一个功能强大的 Obsidian 插件。
 
-Extract all ==highlights== in a note into your clipboard.
+将注释中的所有 ==highlights== 提取到剪贴板中。
 
 通过 Extract Highlights,您可以:
 
@@ -202,7 +202,7 @@ Extract all ==highlights== in a note into your clipboard.
 - **下载量**：21.4K
 - **最后更新**：2021-02-25
 - **GitHub**：[akaalias/extract-highlights-plugin](https://github.com/akaalias/extract-highlights-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

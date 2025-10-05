@@ -2,11 +2,11 @@
 title: MathLive in Editor Mode
 description: MathLive input in editor mode
 author: MizarZh
-downloads: 1910
+downloads: 1915
 updated: 1728388187000
 repo: MizarZh/mathlive-in-editor-mode
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="MathLive in Editor Mode"
   description="MathLive input in editor mode"
   author="MizarZh"
-  :downloads="1910"
+  :downloads="1915"
   :updated="1728388187000"
   repo="MizarZh/mathlive-in-editor-mode"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ MathLive input in editor mode
 - **下载量**：1.9K
 - **最后更新**：2024-10-08
 - **GitHub**：[MizarZh/mathlive-in-editor-mode](https://github.com/MizarZh/mathlive-in-editor-mode)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

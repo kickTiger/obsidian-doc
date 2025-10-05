@@ -1,12 +1,12 @@
 ---
 title: Symbols Prettifier
-description: Prettify the symbols with actual symbols you commonly type, like arrows.
+description: 用你常用的符号来美化符号，比如箭头。
 author: Florian Woelki
-downloads: 26875
+downloads: 26905
 updated: 1721463749000
 repo: FlorianWoelki/obsidian-symbols-prettifier
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="symbols-prettifier"
   name="Symbols Prettifier"
-  description="Prettify the symbols with actual symbols you commonly type, like arrows."
+  description="用你常用的符号来美化符号，比如箭头。"
   author="Florian Woelki"
-  :downloads="26875"
+  :downloads="26905"
   :updated="1721463749000"
   repo="FlorianWoelki/obsidian-symbols-prettifier"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Symbols Prettifier 是一个功能强大的 Obsidian 插件。
 
-Prettify the symbols with actual symbols you commonly type, like arrows.
+用你常用的符号来美化符号，比如箭头。
 
 通过 Symbols Prettifier,您可以:
 
@@ -202,7 +202,7 @@ Prettify the symbols with actual symbols you commonly type, like arrows.
 - **下载量**：26.9K
 - **最后更新**：2024-07-20
 - **GitHub**：[FlorianWoelki/obsidian-symbols-prettifier](https://github.com/FlorianWoelki/obsidian-symbols-prettifier)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

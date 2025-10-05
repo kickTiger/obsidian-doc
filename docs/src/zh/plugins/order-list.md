@@ -1,12 +1,12 @@
 ---
 title: Order List
-description: 'Add ''Order selected list'' command to take the selected list and order it by the number at the end.'
+description: '添加 "排列所选列表 "命令，以获取所选列表并按末尾的数字排列。'
 author: Henry Gustafson
 downloads: 3911
 updated: 1673804807000
 repo: lizard-heart/obsidian-order-list-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="order-list"
   name="Order List"
-  description="Add &#39;Order selected list&#39; command to take the selected list and order it by the number at the end."
+  description="添加 &quot;排列所选列表 &quot;命令，以获取所选列表并按末尾的数字排列。"
   author="Henry Gustafson"
   :downloads="3911"
   :updated="1673804807000"
   repo="lizard-heart/obsidian-order-list-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Order List 是一个功能强大的 Obsidian 插件。
 
-Add &#39;Order selected list&#39; command to take the selected list and order it by the number at the end.
+添加 &quot;排列所选列表 &quot;命令，以获取所选列表并按末尾的数字排列。
 
 通过 Order List,您可以:
 
@@ -202,7 +202,7 @@ Add &#39;Order selected list&#39; command to take the selected list and order it
 - **下载量**：3.9K
 - **最后更新**：2023-01-16
 - **GitHub**：[lizard-heart/obsidian-order-list-plugin](https://github.com/lizard-heart/obsidian-order-list-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

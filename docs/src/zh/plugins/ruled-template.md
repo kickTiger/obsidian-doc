@@ -1,12 +1,12 @@
 ---
 title: Ruled template
-description: Use templates based on rules when creating a new file.
+description: 创建新文件时，根据规则使用模板。
 author: YPetremann
 downloads: 3809
 updated: 1690314190000
 repo: YPetremann/obsidian-ruled-template
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ruled-template"
   name="Ruled template"
-  description="Use templates based on rules when creating a new file."
+  description="创建新文件时，根据规则使用模板。"
   author="YPetremann"
   :downloads="3809"
   :updated="1690314190000"
   repo="YPetremann/obsidian-ruled-template"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ruled template 是一个功能强大的 Obsidian 插件。
 
-Use templates based on rules when creating a new file.
+创建新文件时，根据规则使用模板。
 
 通过 Ruled template,您可以:
 
@@ -202,7 +202,7 @@ Use templates based on rules when creating a new file.
 - **下载量**：3.8K
 - **最后更新**：2023-07-26
 - **GitHub**：[YPetremann/obsidian-ruled-template](https://github.com/YPetremann/obsidian-ruled-template)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

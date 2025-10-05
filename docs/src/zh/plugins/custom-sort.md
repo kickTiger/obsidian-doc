@@ -1,12 +1,12 @@
 ---
 title: Custom File Explorer sorting
-description: Manual or automatic config-driven reordering and sorting of files and folders in File Explorer.
+description: 在文件资源管理器中手动或自动对文件和文件夹进行配置驱动的重新排序和分类。
 author: SebastianMC
-downloads: 141888
+downloads: 142013
 updated: 1753394077000
 repo: SebastianMC/obsidian-custom-sort
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="custom-sort"
   name="Custom File Explorer sorting"
-  description="Manual or automatic config-driven reordering and sorting of files and folders in File Explorer."
+  description="在文件资源管理器中手动或自动对文件和文件夹进行配置驱动的重新排序和分类。"
   author="SebastianMC"
-  :downloads="141888"
+  :downloads="142013"
   :updated="1753394077000"
   repo="SebastianMC/obsidian-custom-sort"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Custom File Explorer sorting 是一个功能强大的 Obsidian 插件。
 
-Manual or automatic config-driven reordering and sorting of files and folders in File Explorer.
+在文件资源管理器中手动或自动对文件和文件夹进行配置驱动的重新排序和分类。
 
 通过 Custom File Explorer sorting,您可以:
 
@@ -199,10 +199,10 @@ Manual or automatic config-driven reordering and sorting of files and folders in
 - **插件 ID**：custom-sort
 - **作者**：SebastianMC
 - **当前版本**：v1.0.0
-- **下载量**：141.9K
+- **下载量**：142.0K
 - **最后更新**：2025-07-25
 - **GitHub**：[SebastianMC/obsidian-custom-sort](https://github.com/SebastianMC/obsidian-custom-sort)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

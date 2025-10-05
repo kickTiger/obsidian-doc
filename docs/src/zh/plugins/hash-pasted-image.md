@@ -2,11 +2,11 @@
 title: Hash Pasted Image
 description: Auto rename pasted images added to the vault via hash algorithm SHA-512
 author: Minh Vương
-downloads: 1005
+downloads: 1009
 updated: 1756143150000
 repo: hardingadonis/hash-pasted-image
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hash Pasted Image"
   description="Auto rename pasted images added to the vault via hash algorithm SHA-512"
   author="Minh Vương"
-  :downloads="1005"
+  :downloads="1009"
   :updated="1756143150000"
   repo="hardingadonis/hash-pasted-image"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Auto rename pasted images added to the vault via hash algorithm SHA-512
 - **下载量**：1.0K
 - **最后更新**：2025-08-26
 - **GitHub**：[hardingadonis/hash-pasted-image](https://github.com/hardingadonis/hash-pasted-image)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

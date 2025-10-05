@@ -1,12 +1,12 @@
 ---
 title: Plugin Manager
-description: Extend plugin management.
+description: 扩展插件管理。
 author: ohm-en
-downloads: 13388
+downloads: 13406
 updated: 1689530349000
 repo: ohm-en/obsidian-plugin-manager
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="plugin-manager"
   name="Plugin Manager"
-  description="Extend plugin management."
+  description="扩展插件管理。"
   author="ohm-en"
-  :downloads="13388"
+  :downloads="13406"
   :updated="1689530349000"
   repo="ohm-en/obsidian-plugin-manager"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Plugin Manager 是一个功能强大的 Obsidian 插件。
 
-Extend plugin management.
+扩展插件管理。
 
 通过 Plugin Manager,您可以:
 
@@ -202,7 +202,7 @@ Extend plugin management.
 - **下载量**：13.4K
 - **最后更新**：2023-07-17
 - **GitHub**：[ohm-en/obsidian-plugin-manager](https://github.com/ohm-en/obsidian-plugin-manager)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

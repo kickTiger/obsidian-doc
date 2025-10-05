@@ -1,12 +1,12 @@
 ---
 title: cMenu
-description: Add a minimal text formatting toolbar for a smoother writing/editing experience.
+description: 添加最小文本格式工具栏，让写作/编辑体验更加流畅。
 author: Chetachi
-downloads: 205377
+downloads: 205465
 updated: 1631597488000
 repo: chetachiezikeuzor/cMenu-Plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cmenu-plugin"
   name="cMenu"
-  description="Add a minimal text formatting toolbar for a smoother writing/editing experience."
+  description="添加最小文本格式工具栏，让写作/编辑体验更加流畅。"
   author="Chetachi"
-  :downloads="205377"
+  :downloads="205465"
   :updated="1631597488000"
   repo="chetachiezikeuzor/cMenu-Plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 cMenu 是一个功能强大的 Obsidian 插件。
 
-Add a minimal text formatting toolbar for a smoother writing/editing experience.
+添加最小文本格式工具栏，让写作/编辑体验更加流畅。
 
 通过 cMenu,您可以:
 
@@ -199,10 +199,10 @@ Add a minimal text formatting toolbar for a smoother writing/editing experience.
 - **插件 ID**：cmenu-plugin
 - **作者**：Chetachi
 - **当前版本**：v1.0.0
-- **下载量**：205.4K
+- **下载量**：205.5K
 - **最后更新**：2021-09-14
 - **GitHub**：[chetachiezikeuzor/cMenu-Plugin](https://github.com/chetachiezikeuzor/cMenu-Plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

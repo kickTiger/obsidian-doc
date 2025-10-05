@@ -1,12 +1,12 @@
 ---
 title: New Note New Window
-description: Easily open new notes in a floating window.
+description: 在浮动窗口中轻松打开新笔记。
 author: Pedro Reyes
 downloads: 4790
 updated: 1681770100000
 repo: Pr0dt0s/new-note-new-window
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-new-note-new-window"
   name="New Note New Window"
-  description="Easily open new notes in a floating window."
+  description="在浮动窗口中轻松打开新笔记。"
   author="Pedro Reyes"
   :downloads="4790"
   :updated="1681770100000"
   repo="Pr0dt0s/new-note-new-window"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 New Note New Window 是一个功能强大的 Obsidian 插件。
 
-Easily open new notes in a floating window.
+在浮动窗口中轻松打开新笔记。
 
 通过 New Note New Window,您可以:
 
@@ -202,7 +202,7 @@ Easily open new notes in a floating window.
 - **下载量**：4.8K
 - **最后更新**：2023-04-18
 - **GitHub**：[Pr0dt0s/new-note-new-window](https://github.com/Pr0dt0s/new-note-new-window)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

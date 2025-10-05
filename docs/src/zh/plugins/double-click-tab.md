@@ -1,12 +1,12 @@
 ---
 title: Double Click Tab
-description: Modify the default behavior when you double click on the tab title, like close tab.
+description: 修改双击选项卡标题时的默认行为，如关闭选项卡。
 author: Boninall
-downloads: 5035
+downloads: 5036
 updated: 1670030126000
 repo: Quorafind/Obsidian-Double-Click-Tab
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="double-click-tab"
   name="Double Click Tab"
-  description="Modify the default behavior when you double click on the tab title, like close tab."
+  description="修改双击选项卡标题时的默认行为，如关闭选项卡。"
   author="Boninall"
-  :downloads="5035"
+  :downloads="5036"
   :updated="1670030126000"
   repo="Quorafind/Obsidian-Double-Click-Tab"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Double Click Tab 是一个功能强大的 Obsidian 插件。
 
-Modify the default behavior when you double click on the tab title, like close tab.
+修改双击选项卡标题时的默认行为，如关闭选项卡。
 
 通过 Double Click Tab,您可以:
 
@@ -202,7 +202,7 @@ Modify the default behavior when you double click on the tab title, like close t
 - **下载量**：5.0K
 - **最后更新**：2022-12-03
 - **GitHub**：[Quorafind/Obsidian-Double-Click-Tab](https://github.com/Quorafind/Obsidian-Double-Click-Tab)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

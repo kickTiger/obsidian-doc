@@ -2,11 +2,11 @@
 title: Markdown Calendar Generator
 description: An intentionally simple markdown table calendar generator
 author: Zach Russell
-downloads: 353
+downloads: 358
 updated: 1752008923000
 repo: zachatrocity/md-cal-gen
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Markdown Calendar Generator"
   description="An intentionally simple markdown table calendar generator"
   author="Zach Russell"
-  :downloads="353"
+  :downloads="358"
   :updated="1752008923000"
   repo="zachatrocity/md-cal-gen"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ An intentionally simple markdown table calendar generator
 - **插件 ID**：md-cal-gen
 - **作者**：Zach Russell
 - **当前版本**：v1.0.0
-- **下载量**：353
+- **下载量**：358
 - **最后更新**：2025-07-09
 - **GitHub**：[zachatrocity/md-cal-gen](https://github.com/zachatrocity/md-cal-gen)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

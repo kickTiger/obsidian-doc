@@ -2,11 +2,11 @@
 title: YAML Table
 description: Transform YAML code blocks into HTML tables for better visualization
 author: dainakai
-downloads: 548
+downloads: 550
 updated: 1749104796000
 repo: dainakai/obsidian-yaml-table
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="YAML Table"
   description="Transform YAML code blocks into HTML tables for better visualization"
   author="dainakai"
-  :downloads="548"
+  :downloads="550"
   :updated="1749104796000"
   repo="dainakai/obsidian-yaml-table"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Transform YAML code blocks into HTML tables for better visualization
 - **插件 ID**：yaml-table
 - **作者**：dainakai
 - **当前版本**：v1.0.0
-- **下载量**：548
+- **下载量**：550
 - **最后更新**：2025-06-05
 - **GitHub**：[dainakai/obsidian-yaml-table](https://github.com/dainakai/obsidian-yaml-table)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

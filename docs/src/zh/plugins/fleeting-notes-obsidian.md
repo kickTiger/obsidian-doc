@@ -1,12 +1,12 @@
 ---
 title: Fleeting Notes Sync
-description: Sync Fleeting Notes with Obsidian.
+description: 将 Fleeting Notes 与 Obsidian 同步。
 author: Matthew Wong
-downloads: 33303
+downloads: 33309
 updated: 1699319158000
 repo: fleetingnotes/fleeting-notes-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="fleeting-notes-obsidian"
   name="Fleeting Notes Sync"
-  description="Sync Fleeting Notes with Obsidian."
+  description="将 Fleeting Notes 与 Obsidian 同步。"
   author="Matthew Wong"
-  :downloads="33303"
+  :downloads="33309"
   :updated="1699319158000"
   repo="fleetingnotes/fleeting-notes-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Fleeting Notes Sync 是一个功能强大的 Obsidian 插件。
 
-Sync Fleeting Notes with Obsidian.
+将 Fleeting Notes 与 Obsidian 同步。
 
 通过 Fleeting Notes Sync,您可以:
 
@@ -202,7 +202,7 @@ Sync Fleeting Notes with Obsidian.
 - **下载量**：33.3K
 - **最后更新**：2023-11-07
 - **GitHub**：[fleetingnotes/fleeting-notes-obsidian](https://github.com/fleetingnotes/fleeting-notes-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

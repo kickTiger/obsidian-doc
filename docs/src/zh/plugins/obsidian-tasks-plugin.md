@@ -1,12 +1,12 @@
 ---
 title: Tasks
-description: Track tasks across your vault. Supports due dates, recurring tasks, done dates, sub-set of checklist items, and filtering.
+description: 跨笔记库跟踪任务。支持截止日期、重复任务、完成日期、清单子项和筛选。
 author: Clare Macrae and Ilyas Landikov (created by Martin Schenck)
-downloads: 2782807
+downloads: 2785802
 updated: 1759054105000
 repo: obsidian-tasks-group/obsidian-tasks
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-tasks-plugin"
   name="Tasks"
-  description="Track tasks across your vault. Supports due dates, recurring tasks, done dates, sub-set of checklist items, and filtering."
+  description="跨笔记库跟踪任务。支持截止日期、重复任务、完成日期、清单子项和筛选。"
   author="Clare Macrae and Ilyas Landikov (created by Martin Schenck)"
-  :downloads="2782807"
+  :downloads="2785802"
   :updated="1759054105000"
   repo="obsidian-tasks-group/obsidian-tasks"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tasks 是一个功能强大的 Obsidian 插件。
 
-Track tasks across your vault. Supports due dates, recurring tasks, done dates, sub-set of checklist items, and filtering.
+跨笔记库跟踪任务。支持截止日期、重复任务、完成日期、清单子项和筛选。
 
 通过 Tasks,您可以:
 
@@ -199,10 +199,10 @@ Track tasks across your vault. Supports due dates, recurring tasks, done dates, 
 - **插件 ID**：obsidian-tasks-plugin
 - **作者**：Clare Macrae and Ilyas Landikov (created by Martin Schenck)
 - **当前版本**：v1.0.0
-- **下载量**：2.78M
+- **下载量**：2.79M
 - **最后更新**：2025-09-28
 - **GitHub**：[obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

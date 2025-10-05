@@ -1,12 +1,12 @@
 ---
 title: WaveDrom
-description: Create wavedrom plots.
+description: 创建波浪线图
 author: Alex Stewart
 downloads: 4946
 updated: 1704503263000
 repo: kingsquirrel152/obsidian-wavedrom
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-wavedrom"
   name="WaveDrom"
-  description="Create wavedrom plots."
+  description="创建波浪线图"
   author="Alex Stewart"
   :downloads="4946"
   :updated="1704503263000"
   repo="kingsquirrel152/obsidian-wavedrom"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 WaveDrom 是一个功能强大的 Obsidian 插件。
 
-Create wavedrom plots.
+创建波浪线图
 
 通过 WaveDrom,您可以:
 
@@ -202,7 +202,7 @@ Create wavedrom plots.
 - **下载量**：4.9K
 - **最后更新**：2024-01-06
 - **GitHub**：[kingsquirrel152/obsidian-wavedrom](https://github.com/kingsquirrel152/obsidian-wavedrom)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

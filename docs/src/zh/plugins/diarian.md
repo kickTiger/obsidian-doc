@@ -1,12 +1,12 @@
 ---
 title: Diarian
-description: All-in-one journaling toolkit.
+description: 一体化日志工具包
 author: Erika Gozar
-downloads: 6890
+downloads: 6905
 updated: 1738607091000
 repo: Erallie/diarian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="diarian"
   name="Diarian"
-  description="All-in-one journaling toolkit."
+  description="一体化日志工具包"
   author="Erika Gozar"
-  :downloads="6890"
+  :downloads="6905"
   :updated="1738607091000"
   repo="Erallie/diarian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Diarian 是一个功能强大的 Obsidian 插件。
 
-All-in-one journaling toolkit.
+一体化日志工具包
 
 通过 Diarian,您可以:
 
@@ -202,7 +202,7 @@ All-in-one journaling toolkit.
 - **下载量**：6.9K
 - **最后更新**：2025-02-04
 - **GitHub**：[Erallie/diarian](https://github.com/Erallie/diarian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

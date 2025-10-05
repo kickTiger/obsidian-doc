@@ -1,12 +1,12 @@
 ---
 title: Logstravaganza
-description: 'A simple proxy for `console.*()` calls which copies log messages and uncaught exceptions to a note.'
+description: '用于调用 `console.*()` 的简单代理，可将日志信息和未捕获异常复制到备注中。'
 author: Carlo Zottmann
-downloads: 7870
+downloads: 7884
 updated: 1747826778000
 repo: czottmann/obsidian-logstravaganza
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="logstravaganza"
   name="Logstravaganza"
-  description="A simple proxy for `console.*()` calls which copies log messages and uncaught exceptions to a note."
+  description="用于调用 `console.*()` 的简单代理，可将日志信息和未捕获异常复制到备注中。"
   author="Carlo Zottmann"
-  :downloads="7870"
+  :downloads="7884"
   :updated="1747826778000"
   repo="czottmann/obsidian-logstravaganza"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Logstravaganza 是一个功能强大的 Obsidian 插件。
 
-A simple proxy for `console.*()` calls which copies log messages and uncaught exceptions to a note.
+用于调用 `console.*()` 的简单代理，可将日志信息和未捕获异常复制到备注中。
 
 通过 Logstravaganza,您可以:
 
@@ -202,7 +202,7 @@ A simple proxy for `console.*()` calls which copies log messages and uncaught ex
 - **下载量**：7.9K
 - **最后更新**：2025-05-21
 - **GitHub**：[czottmann/obsidian-logstravaganza](https://github.com/czottmann/obsidian-logstravaganza)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

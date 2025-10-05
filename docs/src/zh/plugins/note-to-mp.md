@@ -1,12 +1,12 @@
 ---
 title: NoteToMP
-description: Send notes to WeChat MP drafts, or copy notes to WeChat MP editor, perfect preservation of note styles, support code highlighting, line numbers in code, and support local image uploads.
+description: 将笔记发送到微信 MP 草稿，或将笔记复制到微信 MP 编辑器，完美保留笔记样式，支持代码高亮显示、代码行号，支持本地图片上传。
 author: Sun Booshi
-downloads: 9255
+downloads: 9271
 updated: 1758597407000
 repo: sunbooshi/note-to-mp
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="note-to-mp"
   name="NoteToMP"
-  description="Send notes to WeChat MP drafts, or copy notes to WeChat MP editor, perfect preservation of note styles, support code highlighting, line numbers in code, and support local image uploads."
+  description="将笔记发送到微信 MP 草稿，或将笔记复制到微信 MP 编辑器，完美保留笔记样式，支持代码高亮显示、代码行号，支持本地图片上传。"
   author="Sun Booshi"
-  :downloads="9255"
+  :downloads="9271"
   :updated="1758597407000"
   repo="sunbooshi/note-to-mp"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 NoteToMP 是一个功能强大的 Obsidian 插件。
 
-Send notes to WeChat MP drafts, or copy notes to WeChat MP editor, perfect preservation of note styles, support code highlighting, line numbers in code, and support local image uploads.
+将笔记发送到微信 MP 草稿，或将笔记复制到微信 MP 编辑器，完美保留笔记样式，支持代码高亮显示、代码行号，支持本地图片上传。
 
 通过 NoteToMP,您可以:
 
@@ -202,7 +202,7 @@ Send notes to WeChat MP drafts, or copy notes to WeChat MP editor, perfect prese
 - **下载量**：9.3K
 - **最后更新**：2025-09-23
 - **GitHub**：[sunbooshi/note-to-mp](https://github.com/sunbooshi/note-to-mp)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

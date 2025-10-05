@@ -6,7 +6,7 @@ downloads: 2633
 updated: 1736274072000
 repo: chrisgrieser/obsidian-nothing
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1736274072000"
   repo="chrisgrieser/obsidian-nothing"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add a no-op command to disable hotkeys.
 - **下载量**：2.6K
 - **最后更新**：2025-01-08
 - **GitHub**：[chrisgrieser/obsidian-nothing](https://github.com/chrisgrieser/obsidian-nothing)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

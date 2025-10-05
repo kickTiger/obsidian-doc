@@ -1,12 +1,12 @@
 ---
 title: JavaScript Init
-description: Run JavaScript when Obsidian loads, or at any other time.
+description: 在黑曜石加载时或其他任何时候运行 JavaScript。
 author: ryanpcmcquen
-downloads: 5878
+downloads: 5880
 updated: 1634417077000
 repo: ryanpcmcquen/obsidian-javascript-init
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-javascript-init"
   name="JavaScript Init"
-  description="Run JavaScript when Obsidian loads, or at any other time."
+  description="在黑曜石加载时或其他任何时候运行 JavaScript。"
   author="ryanpcmcquen"
-  :downloads="5878"
+  :downloads="5880"
   :updated="1634417077000"
   repo="ryanpcmcquen/obsidian-javascript-init"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 JavaScript Init 是一个功能强大的 Obsidian 插件。
 
-Run JavaScript when Obsidian loads, or at any other time.
+在黑曜石加载时或其他任何时候运行 JavaScript。
 
 通过 JavaScript Init,您可以:
 
@@ -202,7 +202,7 @@ Run JavaScript when Obsidian loads, or at any other time.
 - **下载量**：5.9K
 - **最后更新**：2021-10-17
 - **GitHub**：[ryanpcmcquen/obsidian-javascript-init](https://github.com/ryanpcmcquen/obsidian-javascript-init)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Hledger Notes
 description: Create and manage hledger entries directly in your vault.
 author: Boburmirzo Khamrakulov
-downloads: 457
+downloads: 459
 updated: 1747669635000
 repo: bzimor/obsidian_hledger
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Hledger Notes"
   description="Create and manage hledger entries directly in your vault."
   author="Boburmirzo Khamrakulov"
-  :downloads="457"
+  :downloads="459"
   :updated="1747669635000"
   repo="bzimor/obsidian_hledger"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create and manage hledger entries directly in your vault.
 - **插件 ID**：hledger-notes
 - **作者**：Boburmirzo Khamrakulov
 - **当前版本**：v1.0.0
-- **下载量**：457
+- **下载量**：459
 - **最后更新**：2025-05-19
 - **GitHub**：[bzimor/obsidian_hledger](https://github.com/bzimor/obsidian_hledger)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

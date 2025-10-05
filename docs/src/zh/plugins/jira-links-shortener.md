@@ -2,11 +2,11 @@
 title: JIRA links shortener
 description: Modifies pasted JIRA links to use JIRA issue number as the link title
 author: Ruslans Platonovs
-downloads: 255
+downloads: 256
 updated: 1758905988000
 repo: rplatonovs/obsidian-jira-links-shortener
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="JIRA links shortener"
   description="Modifies pasted JIRA links to use JIRA issue number as the link title"
   author="Ruslans Platonovs"
-  :downloads="255"
+  :downloads="256"
   :updated="1758905988000"
   repo="rplatonovs/obsidian-jira-links-shortener"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Modifies pasted JIRA links to use JIRA issue number as the link title
 - **插件 ID**：jira-links-shortener
 - **作者**：Ruslans Platonovs
 - **当前版本**：v1.0.0
-- **下载量**：255
+- **下载量**：256
 - **最后更新**：2025-09-27
 - **GitHub**：[rplatonovs/obsidian-jira-links-shortener](https://github.com/rplatonovs/obsidian-jira-links-shortener)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

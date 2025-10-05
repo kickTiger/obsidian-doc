@@ -2,11 +2,11 @@
 title: Note Sync
 description: Sync notes or plugins between vaults.
 author: ZigHolding
-downloads: 342
+downloads: 344
 updated: 1752073810000
 repo: zigholding/obsidian-notesync-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note Sync"
   description="Sync notes or plugins between vaults."
   author="ZigHolding"
-  :downloads="342"
+  :downloads="344"
   :updated="1752073810000"
   repo="zigholding/obsidian-notesync-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Sync notes or plugins between vaults.
 - **插件 ID**：note-sync
 - **作者**：ZigHolding
 - **当前版本**：v1.0.0
-- **下载量**：342
+- **下载量**：344
 - **最后更新**：2025-07-09
 - **GitHub**：[zigholding/obsidian-notesync-plugin](https://github.com/zigholding/obsidian-notesync-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

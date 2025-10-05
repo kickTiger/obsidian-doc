@@ -1,12 +1,12 @@
 ---
 title: Note Refactor
-description: Extract note content into new notes and split notes.
+description: 将笔记内容提取到新笔记中，并分割笔记。
 author: James Lynch
-downloads: 296110
+downloads: 296208
 updated: 1695078360000
 repo: lynchjames/note-refactor-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="note-refactor-obsidian"
   name="Note Refactor"
-  description="Extract note content into new notes and split notes."
+  description="将笔记内容提取到新笔记中，并分割笔记。"
   author="James Lynch"
-  :downloads="296110"
+  :downloads="296208"
   :updated="1695078360000"
   repo="lynchjames/note-refactor-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note Refactor 是一个功能强大的 Obsidian 插件。
 
-Extract note content into new notes and split notes.
+将笔记内容提取到新笔记中，并分割笔记。
 
 通过 Note Refactor,您可以:
 
@@ -199,10 +199,10 @@ Extract note content into new notes and split notes.
 - **插件 ID**：note-refactor-obsidian
 - **作者**：James Lynch
 - **当前版本**：v1.0.0
-- **下载量**：296.1K
+- **下载量**：296.2K
 - **最后更新**：2023-09-19
 - **GitHub**：[lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

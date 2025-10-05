@@ -1,12 +1,12 @@
 ---
 title: YouTube Video Summarizer
-description: Summarize YouTube videos using Gemini AI. Extract transcripts, generate summaries, and create structured notes.
+description: 使用 Gemini AI 总结 YouTube 视频。提取脚本、生成摘要并创建结构化笔记。
 author: mbramani
-downloads: 3776
+downloads: 3795
 updated: 1752526347000
 repo: mbramani/obsidian-yt-video-summarizer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="yt-video-summarizer"
   name="YouTube Video Summarizer"
-  description="Summarize YouTube videos using Gemini AI. Extract transcripts, generate summaries, and create structured notes."
+  description="使用 Gemini AI 总结 YouTube 视频。提取脚本、生成摘要并创建结构化笔记。"
   author="mbramani"
-  :downloads="3776"
+  :downloads="3795"
   :updated="1752526347000"
   repo="mbramani/obsidian-yt-video-summarizer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 YouTube Video Summarizer 是一个功能强大的 Obsidian 插件。
 
-Summarize YouTube videos using Gemini AI. Extract transcripts, generate summaries, and create structured notes.
+使用 Gemini AI 总结 YouTube 视频。提取脚本、生成摘要并创建结构化笔记。
 
 通过 YouTube Video Summarizer,您可以:
 
@@ -202,7 +202,7 @@ Summarize YouTube videos using Gemini AI. Extract transcripts, generate summarie
 - **下载量**：3.8K
 - **最后更新**：2025-07-15
 - **GitHub**：[mbramani/obsidian-yt-video-summarizer](https://github.com/mbramani/obsidian-yt-video-summarizer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

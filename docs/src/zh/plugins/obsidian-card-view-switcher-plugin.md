@@ -1,12 +1,12 @@
 ---
 title: Card View Switcher
-description: Quick switcher with card view.
+description: 带卡片视图的快速切换器
 author: qawatake
-downloads: 7937
+downloads: 7938
 updated: 1745762595000
 repo: qawatake/obsidian-card-view-switcher-plugin
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-card-view-switcher-plugin"
   name="Card View Switcher"
-  description="Quick switcher with card view."
+  description="带卡片视图的快速切换器"
   author="qawatake"
-  :downloads="7937"
+  :downloads="7938"
   :updated="1745762595000"
   repo="qawatake/obsidian-card-view-switcher-plugin"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Card View Switcher 是一个功能强大的 Obsidian 插件。
 
-Quick switcher with card view.
+带卡片视图的快速切换器
 
 通过 Card View Switcher,您可以:
 
@@ -202,7 +202,7 @@ Quick switcher with card view.
 - **下载量**：7.9K
 - **最后更新**：2025-04-27
 - **GitHub**：[qawatake/obsidian-card-view-switcher-plugin](https://github.com/qawatake/obsidian-card-view-switcher-plugin)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Canvas Explorer
 description: Explore your vault by iteratively adding or ignoring linked notes, ultimately generating a customizable canvas that visually represents the preserved notes and their connections.
 author: Henri Jamet
-downloads: 1292
+downloads: 1293
 updated: 1729594774000
 repo: hjamet/Canvas-Explorer
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Canvas Explorer"
   description="Explore your vault by iteratively adding or ignoring linked notes, ultimately generating a customizable canvas that visually represents the preserved notes and their connections."
   author="Henri Jamet"
-  :downloads="1292"
+  :downloads="1293"
   :updated="1729594774000"
   repo="hjamet/Canvas-Explorer"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Explore your vault by iteratively adding or ignoring linked notes, ultimately ge
 - **下载量**：1.3K
 - **最后更新**：2024-10-22
 - **GitHub**：[hjamet/Canvas-Explorer](https://github.com/hjamet/Canvas-Explorer)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

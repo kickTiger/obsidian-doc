@@ -1,12 +1,12 @@
 ---
 title: Fold Anywhere
-description: Set start and end marker, and then fold any text anywhere in live preview mode.
+description: 设置开始和结束标记，然后在实时预览模式下任意折叠文本。
 author: Boninall
 downloads: 4676
 updated: 1741831774000
 repo: Quorafind/Obsidian-Fold-Anywhere
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="fold-anywhere"
   name="Fold Anywhere"
-  description="Set start and end marker, and then fold any text anywhere in live preview mode."
+  description="设置开始和结束标记，然后在实时预览模式下任意折叠文本。"
   author="Boninall"
   :downloads="4676"
   :updated="1741831774000"
   repo="Quorafind/Obsidian-Fold-Anywhere"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Fold Anywhere 是一个功能强大的 Obsidian 插件。
 
-Set start and end marker, and then fold any text anywhere in live preview mode.
+设置开始和结束标记，然后在实时预览模式下任意折叠文本。
 
 通过 Fold Anywhere,您可以:
 
@@ -202,7 +202,7 @@ Set start and end marker, and then fold any text anywhere in live preview mode.
 - **下载量**：4.7K
 - **最后更新**：2025-03-13
 - **GitHub**：[Quorafind/Obsidian-Fold-Anywhere](https://github.com/Quorafind/Obsidian-Fold-Anywhere)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

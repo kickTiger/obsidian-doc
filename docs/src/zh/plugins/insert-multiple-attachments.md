@@ -2,11 +2,11 @@
 title: Insert Multiple Attachments
 description: Allows to insert multiple attachments at a time.
 author: mnaoumov
-downloads: 2704
+downloads: 2725
 updated: 1759384928000
 repo: mnaoumov/obsidian-insert-multiple-attachments
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Insert Multiple Attachments"
   description="Allows to insert multiple attachments at a time."
   author="mnaoumov"
-  :downloads="2704"
+  :downloads="2725"
   :updated="1759384928000"
   repo="mnaoumov/obsidian-insert-multiple-attachments"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Allows to insert multiple attachments at a time.
 - **下载量**：2.7K
 - **最后更新**：2025-10-02
 - **GitHub**：[mnaoumov/obsidian-insert-multiple-attachments](https://github.com/mnaoumov/obsidian-insert-multiple-attachments)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

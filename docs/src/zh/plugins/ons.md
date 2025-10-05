@@ -2,11 +2,11 @@
 title: BetaX NAS Sync
 description: Keep Vault synchronized with the NAS on your home intranet.
 author: Skye
-downloads: 216
+downloads: 217
 updated: 1736216262000
 repo: skye-z/ons
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="BetaX NAS Sync"
   description="Keep Vault synchronized with the NAS on your home intranet."
   author="Skye"
-  :downloads="216"
+  :downloads="217"
   :updated="1736216262000"
   repo="skye-z/ons"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Keep Vault synchronized with the NAS on your home intranet.
 - **插件 ID**：ons
 - **作者**：Skye
 - **当前版本**：v1.0.0
-- **下载量**：216
+- **下载量**：217
 - **最后更新**：2025-01-07
 - **GitHub**：[skye-z/ons](https://github.com/skye-z/ons)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

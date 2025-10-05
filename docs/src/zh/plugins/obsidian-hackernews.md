@@ -1,12 +1,12 @@
 ---
 title: HackerNews
-description: Periodically fetches and displays top stories from HackerNews.
+description: 定期从 HackerNews 获取并显示热门新闻。
 author: arpitbbhayani
-downloads: 6187
+downloads: 6188
 updated: 1631086074000
 repo: arpitbbhayani/obsidian-hackernews
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-hackernews"
   name="HackerNews"
-  description="Periodically fetches and displays top stories from HackerNews."
+  description="定期从 HackerNews 获取并显示热门新闻。"
   author="arpitbbhayani"
-  :downloads="6187"
+  :downloads="6188"
   :updated="1631086074000"
   repo="arpitbbhayani/obsidian-hackernews"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 HackerNews 是一个功能强大的 Obsidian 插件。
 
-Periodically fetches and displays top stories from HackerNews.
+定期从 HackerNews 获取并显示热门新闻。
 
 通过 HackerNews,您可以:
 
@@ -202,7 +202,7 @@ Periodically fetches and displays top stories from HackerNews.
 - **下载量**：6.2K
 - **最后更新**：2021-09-08
 - **GitHub**：[arpitbbhayani/obsidian-hackernews](https://github.com/arpitbbhayani/obsidian-hackernews)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

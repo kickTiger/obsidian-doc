@@ -2,11 +2,11 @@
 title: LINE Notes Sync
 description: Sync messages from LINE to your notes.
 author: onikun94
-downloads: 2129
+downloads: 2133
 updated: 1756036748000
 repo: onikun94/line_to_obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="LINE Notes Sync"
   description="Sync messages from LINE to your notes."
   author="onikun94"
-  :downloads="2129"
+  :downloads="2133"
   :updated="1756036748000"
   repo="onikun94/line_to_obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync messages from LINE to your notes.
 - **下载量**：2.1K
 - **最后更新**：2025-08-24
 - **GitHub**：[onikun94/line_to_obsidian](https://github.com/onikun94/line_to_obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

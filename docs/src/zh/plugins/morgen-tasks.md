@@ -1,12 +1,12 @@
 ---
 title: Morgen Tasks
-description: Plan, time block, and track tasks from your vault in any calendar using Morgen.
+description: 使用摩根软件，在任何日历中都能对您的保险库中的任务进行计划、时间封锁和跟踪。
 author: Morgen AG
-downloads: 8978
+downloads: 8989
 updated: 1733499126000
 repo: morgen-so/morgen-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="morgen-tasks"
   name="Morgen Tasks"
-  description="Plan, time block, and track tasks from your vault in any calendar using Morgen."
+  description="使用摩根软件，在任何日历中都能对您的保险库中的任务进行计划、时间封锁和跟踪。"
   author="Morgen AG"
-  :downloads="8978"
+  :downloads="8989"
   :updated="1733499126000"
   repo="morgen-so/morgen-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Morgen Tasks 是一个功能强大的 Obsidian 插件。
 
-Plan, time block, and track tasks from your vault in any calendar using Morgen.
+使用摩根软件，在任何日历中都能对您的保险库中的任务进行计划、时间封锁和跟踪。
 
 通过 Morgen Tasks,您可以:
 
@@ -202,7 +202,7 @@ Plan, time block, and track tasks from your vault in any calendar using Morgen.
 - **下载量**：9.0K
 - **最后更新**：2024-12-06
 - **GitHub**：[morgen-so/morgen-obsidian](https://github.com/morgen-so/morgen-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

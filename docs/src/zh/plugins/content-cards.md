@@ -2,11 +2,11 @@
 title: Content Cards
 description: Insert content cards in Markdown, such as timeline, highlightblock, target card, book information card, music information card, movie information card, photoes ablum, business card, content subfield, countdown, etc.
 author: leo
-downloads: 3108
+downloads: 3117
 updated: 1744425575000
 repo: liqms/obsidian-content-cards
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Content Cards"
   description="Insert content cards in Markdown, such as timeline, highlightblock, target card, book information card, music information card, movie information card, photoes ablum, business card, content subfield, countdown, etc."
   author="leo"
-  :downloads="3108"
+  :downloads="3117"
   :updated="1744425575000"
   repo="liqms/obsidian-content-cards"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Insert content cards in Markdown, such as timeline, highlightblock, target card,
 - **下载量**：3.1K
 - **最后更新**：2025-04-12
 - **GitHub**：[liqms/obsidian-content-cards](https://github.com/liqms/obsidian-content-cards)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

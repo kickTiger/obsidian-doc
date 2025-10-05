@@ -2,11 +2,11 @@
 title: Auto Note Importer
 description: Automatically import notes from an external database like Airtable into your Vault.
 author: uppinote
-downloads: 518
+downloads: 519
 updated: 1758490100000
 repo: uppinote20/obsidian-auto-note-importer
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto Note Importer"
   description="Automatically import notes from an external database like Airtable into your Vault."
   author="uppinote"
-  :downloads="518"
+  :downloads="519"
   :updated="1758490100000"
   repo="uppinote20/obsidian-auto-note-importer"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically import notes from an external database like Airtable into your Vau
 - **插件 ID**：auto-note-importer
 - **作者**：uppinote
 - **当前版本**：v1.0.0
-- **下载量**：518
+- **下载量**：519
 - **最后更新**：2025-09-22
 - **GitHub**：[uppinote20/obsidian-auto-note-importer](https://github.com/uppinote20/obsidian-auto-note-importer)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

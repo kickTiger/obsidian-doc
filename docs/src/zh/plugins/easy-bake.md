@@ -1,12 +1,12 @@
 ---
 title: Easy Bake
-description: Easily compile many notes down to a single file.
+description: 轻松将许多笔记汇编成一个文件。
 author: mgmeyers
-downloads: 8395
+downloads: 8406
 updated: 1708454879000
 repo: mgmeyers/obsidian-easy-bake
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="easy-bake"
   name="Easy Bake"
-  description="Easily compile many notes down to a single file."
+  description="轻松将许多笔记汇编成一个文件。"
   author="mgmeyers"
-  :downloads="8395"
+  :downloads="8406"
   :updated="1708454879000"
   repo="mgmeyers/obsidian-easy-bake"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Easy Bake 是一个功能强大的 Obsidian 插件。
 
-Easily compile many notes down to a single file.
+轻松将许多笔记汇编成一个文件。
 
 通过 Easy Bake,您可以:
 
@@ -202,7 +202,7 @@ Easily compile many notes down to a single file.
 - **下载量**：8.4K
 - **最后更新**：2024-02-21
 - **GitHub**：[mgmeyers/obsidian-easy-bake](https://github.com/mgmeyers/obsidian-easy-bake)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

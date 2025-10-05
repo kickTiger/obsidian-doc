@@ -1,12 +1,12 @@
 ---
 title: URI Commands
-description: Execute URIs from the command palette.
+description: 从命令调板执行 URI。
 author: kzhovn
-downloads: 6645
+downloads: 6648
 updated: 1737446069000
 repo: kzhovn/uri-commands-obsidian
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="uri-commands"
   name="URI Commands"
-  description="Execute URIs from the command palette."
+  description="从命令调板执行 URI。"
   author="kzhovn"
-  :downloads="6645"
+  :downloads="6648"
   :updated="1737446069000"
   repo="kzhovn/uri-commands-obsidian"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 URI Commands 是一个功能强大的 Obsidian 插件。
 
-Execute URIs from the command palette.
+从命令调板执行 URI。
 
 通过 URI Commands,您可以:
 
@@ -202,7 +202,7 @@ Execute URIs from the command palette.
 - **下载量**：6.6K
 - **最后更新**：2025-01-21
 - **GitHub**：[kzhovn/uri-commands-obsidian](https://github.com/kzhovn/uri-commands-obsidian)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

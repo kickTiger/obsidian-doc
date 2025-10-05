@@ -1,12 +1,12 @@
 ---
 title: Multiple Notes Outline
-description: Add custom views which show outlines of multiple notes with headings, links, tags and list items.
+description: 添加自定义视图，显示带有标题、链接、标签和列表项的多个笔记大纲。
 author: iiz
-downloads: 7748
+downloads: 7753
 updated: 1714265573000
 repo: iiz00/obsidian-multiple-notes-outline
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="multiple-notes-outline"
   name="Multiple Notes Outline"
-  description="Add custom views which show outlines of multiple notes with headings, links, tags and list items."
+  description="添加自定义视图，显示带有标题、链接、标签和列表项的多个笔记大纲。"
   author="iiz"
-  :downloads="7748"
+  :downloads="7753"
   :updated="1714265573000"
   repo="iiz00/obsidian-multiple-notes-outline"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Multiple Notes Outline 是一个功能强大的 Obsidian 插件。
 
-Add custom views which show outlines of multiple notes with headings, links, tags and list items.
+添加自定义视图，显示带有标题、链接、标签和列表项的多个笔记大纲。
 
 通过 Multiple Notes Outline,您可以:
 
@@ -199,10 +199,10 @@ Add custom views which show outlines of multiple notes with headings, links, tag
 - **插件 ID**：multiple-notes-outline
 - **作者**：iiz
 - **当前版本**：v1.0.0
-- **下载量**：7.7K
+- **下载量**：7.8K
 - **最后更新**：2024-04-28
 - **GitHub**：[iiz00/obsidian-multiple-notes-outline](https://github.com/iiz00/obsidian-multiple-notes-outline)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

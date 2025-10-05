@@ -1,12 +1,12 @@
 ---
 title: PARA Shortcuts
-description: Useful commands to set up and manage your knowledge using the PARA method.
+description: 使用 PARA 方法设置和管理知识的实用命令。
 author: gOAT
-downloads: 6284
+downloads: 6286
 updated: 1708769963000
 repo: gOATiful/para-shortcuts
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="para-shortcuts"
   name="PARA Shortcuts"
-  description="Useful commands to set up and manage your knowledge using the PARA method."
+  description="使用 PARA 方法设置和管理知识的实用命令。"
   author="gOAT"
-  :downloads="6284"
+  :downloads="6286"
   :updated="1708769963000"
   repo="gOATiful/para-shortcuts"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 PARA Shortcuts 是一个功能强大的 Obsidian 插件。
 
-Useful commands to set up and manage your knowledge using the PARA method.
+使用 PARA 方法设置和管理知识的实用命令。
 
 通过 PARA Shortcuts,您可以:
 
@@ -202,7 +202,7 @@ Useful commands to set up and manage your knowledge using the PARA method.
 - **下载量**：6.3K
 - **最后更新**：2024-02-24
 - **GitHub**：[gOATiful/para-shortcuts](https://github.com/gOATiful/para-shortcuts)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

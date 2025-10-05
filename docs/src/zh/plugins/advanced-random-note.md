@@ -1,12 +1,12 @@
 ---
 title: Advanced Random Note
-description: Create commands from custom queries to open random notes.
+description: 通过自定义查询创建命令，打开随机笔记。
 author: Karsten Finderup Pedersen
-downloads: 6668
+downloads: 6670
 updated: 1697461428000
 repo: karstenpedersen/obsidian-advanced-random-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="advanced-random-note"
   name="Advanced Random Note"
-  description="Create commands from custom queries to open random notes."
+  description="通过自定义查询创建命令，打开随机笔记。"
   author="Karsten Finderup Pedersen"
-  :downloads="6668"
+  :downloads="6670"
   :updated="1697461428000"
   repo="karstenpedersen/obsidian-advanced-random-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Advanced Random Note 是一个功能强大的 Obsidian 插件。
 
-Create commands from custom queries to open random notes.
+通过自定义查询创建命令，打开随机笔记。
 
 通过 Advanced Random Note,您可以:
 
@@ -202,7 +202,7 @@ Create commands from custom queries to open random notes.
 - **下载量**：6.7K
 - **最后更新**：2023-10-16
 - **GitHub**：[karstenpedersen/obsidian-advanced-random-note](https://github.com/karstenpedersen/obsidian-advanced-random-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

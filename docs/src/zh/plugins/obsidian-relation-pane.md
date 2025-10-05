@@ -1,12 +1,12 @@
 ---
 title: Relation Pane
-description: Display a panel that summarize relations between notes.
+description: 显示汇总笔记之间关系的面板。
 author: mottox2
-downloads: 5933
+downloads: 5935
 updated: 1707719507000
 repo: mottox2/obsidian-relation-pane
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-relation-pane"
   name="Relation Pane"
-  description="Display a panel that summarize relations between notes."
+  description="显示汇总笔记之间关系的面板。"
   author="mottox2"
-  :downloads="5933"
+  :downloads="5935"
   :updated="1707719507000"
   repo="mottox2/obsidian-relation-pane"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Relation Pane 是一个功能强大的 Obsidian 插件。
 
-Display a panel that summarize relations between notes.
+显示汇总笔记之间关系的面板。
 
 通过 Relation Pane,您可以:
 
@@ -202,7 +202,7 @@ Display a panel that summarize relations between notes.
 - **下载量**：5.9K
 - **最后更新**：2024-02-12
 - **GitHub**：[mottox2/obsidian-relation-pane](https://github.com/mottox2/obsidian-relation-pane)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

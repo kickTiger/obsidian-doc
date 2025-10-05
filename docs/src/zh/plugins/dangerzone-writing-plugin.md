@@ -1,12 +1,12 @@
 ---
 title: Dangerzone Writing
-description: 'This plugin is dangerous! When you start it, you have to write without stopping for 100 seconds. If you stop, think and look around, after 3 seconds the plugin will DELETE what you''ve written in this note.'
+description: 这个插件很危险！当你启动它时，你必须在 100 秒内不停地书写。如果你停下来思考并环顾四周，3 秒钟后，该插件就会删除你在本笔记中所写的内容。
 author: Alexis Rondeau
-downloads: 11984
+downloads: 11987
 updated: 1664468241000
 repo: akaalias/dangerzone-writing-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="dangerzone-writing-plugin"
   name="Dangerzone Writing"
-  description="This plugin is dangerous! When you start it, you have to write without stopping for 100 seconds. If you stop, think and look around, after 3 seconds the plugin will DELETE what you&#39;ve written in this note."
+  description="这个插件很危险！当你启动它时，你必须在 100 秒内不停地书写。如果你停下来思考并环顾四周，3 秒钟后，该插件就会删除你在本笔记中所写的内容。"
   author="Alexis Rondeau"
-  :downloads="11984"
+  :downloads="11987"
   :updated="1664468241000"
   repo="akaalias/dangerzone-writing-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dangerzone Writing 是一个功能强大的 Obsidian 插件。
 
-This plugin is dangerous! When you start it, you have to write without stopping for 100 seconds. If you stop, think and look around, after 3 seconds the plugin will DELETE what you&#39;ve written in this note.
+这个插件很危险！当你启动它时，你必须在 100 秒内不停地书写。如果你停下来思考并环顾四周，3 秒钟后，该插件就会删除你在本笔记中所写的内容。
 
 通过 Dangerzone Writing,您可以:
 
@@ -202,7 +202,7 @@ This plugin is dangerous! When you start it, you have to write without stopping 
 - **下载量**：12.0K
 - **最后更新**：2022-09-30
 - **GitHub**：[akaalias/dangerzone-writing-plugin](https://github.com/akaalias/dangerzone-writing-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

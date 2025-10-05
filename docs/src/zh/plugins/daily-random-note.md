@@ -6,7 +6,7 @@ downloads: 647
 updated: 1735659329000
 repo: D4rkP1xel/daily-random-note
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1735659329000"
   repo="D4rkP1xel/daily-random-note"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically open daily random notes based on your preferences.
 - **下载量**：647
 - **最后更新**：2024-12-31
 - **GitHub**：[D4rkP1xel/daily-random-note](https://github.com/D4rkP1xel/daily-random-note)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

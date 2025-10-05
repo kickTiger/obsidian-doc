@@ -2,11 +2,11 @@
 title: Time Bullet
 description: Quickly add timestamp bullet points to your notes
 author: pedrogdn
-downloads: 614
+downloads: 617
 updated: 1754784288000
 repo: pedrogdn/obsidian-time-bullet-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Time Bullet"
   description="Quickly add timestamp bullet points to your notes"
   author="pedrogdn"
-  :downloads="614"
+  :downloads="617"
   :updated="1754784288000"
   repo="pedrogdn/obsidian-time-bullet-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Quickly add timestamp bullet points to your notes
 - **插件 ID**：time-bullet
 - **作者**：pedrogdn
 - **当前版本**：v1.0.0
-- **下载量**：614
+- **下载量**：617
 - **最后更新**：2025-08-10
 - **GitHub**：[pedrogdn/obsidian-time-bullet-plugin](https://github.com/pedrogdn/obsidian-time-bullet-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

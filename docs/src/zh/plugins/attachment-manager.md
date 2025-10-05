@@ -1,13 +1,13 @@
 ---
 title: Attachment Manager
-description: 'Attachment Manager: Attachment folder name binding note name, automatically rename, automatically delete, show/hide.
+description: '附件管理器：附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。
 附件管理器：附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。'
 author: chenfeicqq
-downloads: 9852
+downloads: 9857
 updated: 1697637278000
 repo: chenfeicqq/obsidian-attachment-manager
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -16,14 +16,14 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="attachment-manager"
   name="Attachment Manager"
-  description="Attachment Manager: Attachment folder name binding note name, automatically rename, automatically delete, show/hide.
+  description="附件管理器：附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。
 附件管理器：附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。"
   author="chenfeicqq"
-  :downloads="9852"
+  :downloads="9857"
   :updated="1697637278000"
   repo="chenfeicqq/obsidian-attachment-manager"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -31,7 +31,7 @@ pageClass: plugin-detail-page
 
 Attachment Manager 是一个功能强大的 Obsidian 插件。
 
-Attachment Manager: Attachment folder name binding note name, automatically rename, automatically delete, show/hide.
+附件管理器：附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。
 附件管理器：附件文件夹名称绑定笔记名、自动重命名、自动删除、显示/隐藏。
 
 通过 Attachment Manager,您可以:
@@ -205,7 +205,7 @@ Attachment Manager: Attachment folder name binding note name, automatically rena
 - **下载量**：9.9K
 - **最后更新**：2023-10-18
 - **GitHub**：[chenfeicqq/obsidian-attachment-manager](https://github.com/chenfeicqq/obsidian-attachment-manager)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

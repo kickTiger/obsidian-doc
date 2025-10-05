@@ -2,11 +2,11 @@
 title: Scrambling Title Animations
 description: Animates the title of any note you open by scrambling and revealing it in several visually appealing ways.
 author: HistidineDwarf
-downloads: 770
+downloads: 771
 updated: 1724036774000
 repo: DvorakDwarf/scrambling-title-animations
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Scrambling Title Animations"
   description="Animates the title of any note you open by scrambling and revealing it in several visually appealing ways."
   author="HistidineDwarf"
-  :downloads="770"
+  :downloads="771"
   :updated="1724036774000"
   repo="DvorakDwarf/scrambling-title-animations"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Animates the title of any note you open by scrambling and revealing it in severa
 - **插件 ID**：scrambling-title-animations
 - **作者**：HistidineDwarf
 - **当前版本**：v1.0.0
-- **下载量**：770
+- **下载量**：771
 - **最后更新**：2024-08-19
 - **GitHub**：[DvorakDwarf/scrambling-title-animations](https://github.com/DvorakDwarf/scrambling-title-animations)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

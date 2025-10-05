@@ -6,7 +6,7 @@ downloads: 858
 updated: 1712696577000
 repo: twofive-labs/target-word-count
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1712696577000"
   repo="twofive-labs/target-word-count"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Disable editing until you&#39;ve added a target number of words.
 - **下载量**：858
 - **最后更新**：2024-04-10
 - **GitHub**：[twofive-labs/target-word-count](https://github.com/twofive-labs/target-word-count)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

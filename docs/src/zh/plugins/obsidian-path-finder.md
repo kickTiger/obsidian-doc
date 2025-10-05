@@ -1,12 +1,12 @@
 ---
 title: Path Finder
-description: Find all paths between two notes and render them as graph or text.
+description: 查找两个音符之间的所有路径，并将其呈现为图形或文本。
 author: jerrywcy
-downloads: 8935
+downloads: 8938
 updated: 1681212866000
 repo: jerrywcy/obsidian-path-finder
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-path-finder"
   name="Path Finder"
-  description="Find all paths between two notes and render them as graph or text."
+  description="查找两个音符之间的所有路径，并将其呈现为图形或文本。"
   author="jerrywcy"
-  :downloads="8935"
+  :downloads="8938"
   :updated="1681212866000"
   repo="jerrywcy/obsidian-path-finder"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Path Finder 是一个功能强大的 Obsidian 插件。
 
-Find all paths between two notes and render them as graph or text.
+查找两个音符之间的所有路径，并将其呈现为图形或文本。
 
 通过 Path Finder,您可以:
 
@@ -202,7 +202,7 @@ Find all paths between two notes and render them as graph or text.
 - **下载量**：8.9K
 - **最后更新**：2023-04-11
 - **GitHub**：[jerrywcy/obsidian-path-finder](https://github.com/jerrywcy/obsidian-path-finder)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

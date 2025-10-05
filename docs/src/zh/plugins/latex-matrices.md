@@ -1,12 +1,12 @@
 ---
 title: LaTeX Matrices
-description: Speed up LaTeX matrices writing.
+description: 加快 LaTeX 矩阵的书写速度。
 author: Daniele Susino
-downloads: 4374
+downloads: 4377
 updated: 1679514820000
 repo: Deltekk/Obsidian-Latex-Matrices
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="latex-matrices"
   name="LaTeX Matrices"
-  description="Speed up LaTeX matrices writing."
+  description="加快 LaTeX 矩阵的书写速度。"
   author="Daniele Susino"
-  :downloads="4374"
+  :downloads="4377"
   :updated="1679514820000"
   repo="Deltekk/Obsidian-Latex-Matrices"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 LaTeX Matrices 是一个功能强大的 Obsidian 插件。
 
-Speed up LaTeX matrices writing.
+加快 LaTeX 矩阵的书写速度。
 
 通过 LaTeX Matrices,您可以:
 
@@ -202,7 +202,7 @@ Speed up LaTeX matrices writing.
 - **下载量**：4.4K
 - **最后更新**：2023-03-23
 - **GitHub**：[Deltekk/Obsidian-Latex-Matrices](https://github.com/Deltekk/Obsidian-Latex-Matrices)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

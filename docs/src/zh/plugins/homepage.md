@@ -1,12 +1,12 @@
 ---
 title: Homepage
-description: Open a specified note, canvas, or workspace on startup, or set it for quick access later.
+description: 在启动时打开指定的笔记、画布或工作区，或将其设置为稍后快速访问。
 author: mirnovov
-downloads: 874470
+downloads: 875158
 updated: 1748151461000
 repo: mirnovov/obsidian-homepage
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="homepage"
   name="Homepage"
-  description="Open a specified note, canvas, or workspace on startup, or set it for quick access later."
+  description="在启动时打开指定的笔记、画布或工作区，或将其设置为稍后快速访问。"
   author="mirnovov"
-  :downloads="874470"
+  :downloads="875158"
   :updated="1748151461000"
   repo="mirnovov/obsidian-homepage"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Homepage 是一个功能强大的 Obsidian 插件。
 
-Open a specified note, canvas, or workspace on startup, or set it for quick access later.
+在启动时打开指定的笔记、画布或工作区，或将其设置为稍后快速访问。
 
 通过 Homepage,您可以:
 
@@ -199,10 +199,10 @@ Open a specified note, canvas, or workspace on startup, or set it for quick acce
 - **插件 ID**：homepage
 - **作者**：mirnovov
 - **当前版本**：v1.0.0
-- **下载量**：874.5K
+- **下载量**：875.2K
 - **最后更新**：2025-05-25
 - **GitHub**：[mirnovov/obsidian-homepage](https://github.com/mirnovov/obsidian-homepage)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Smart Composer
-description: AI chat with note context, smart writing assistance, and one-click edits for your vault.
+description: 带有笔记上下文的人工智能聊天功能、智能写作辅助功能和一键编辑功能。
 author: Heesu Suh
-downloads: 90278
+downloads: 90474
 updated: 1756300986000
 repo: glowingjade/obsidian-smart-composer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="smart-composer"
   name="Smart Composer"
-  description="AI chat with note context, smart writing assistance, and one-click edits for your vault."
+  description="带有笔记上下文的人工智能聊天功能、智能写作辅助功能和一键编辑功能。"
   author="Heesu Suh"
-  :downloads="90278"
+  :downloads="90474"
   :updated="1756300986000"
   repo="glowingjade/obsidian-smart-composer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Smart Composer 是一个功能强大的 Obsidian 插件。
 
-AI chat with note context, smart writing assistance, and one-click edits for your vault.
+带有笔记上下文的人工智能聊天功能、智能写作辅助功能和一键编辑功能。
 
 通过 Smart Composer,您可以:
 
@@ -199,10 +199,10 @@ AI chat with note context, smart writing assistance, and one-click edits for you
 - **插件 ID**：smart-composer
 - **作者**：Heesu Suh
 - **当前版本**：v1.0.0
-- **下载量**：90.3K
+- **下载量**：90.5K
 - **最后更新**：2025-08-27
 - **GitHub**：[glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

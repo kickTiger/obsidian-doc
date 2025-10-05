@@ -2,11 +2,11 @@
 title: Tailwind Snippet
 description: Use TailwindCSS utility classes in your markup.
 author: Nicholas Wilcox
-downloads: 774
+downloads: 775
 updated: 1740323326000
 repo: nicholas-wilcox/tailwind-snippet-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tailwind Snippet"
   description="Use TailwindCSS utility classes in your markup."
   author="Nicholas Wilcox"
-  :downloads="774"
+  :downloads="775"
   :updated="1740323326000"
   repo="nicholas-wilcox/tailwind-snippet-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Use TailwindCSS utility classes in your markup.
 - **插件 ID**：tailwind-snippet
 - **作者**：Nicholas Wilcox
 - **当前版本**：v1.0.0
-- **下载量**：774
+- **下载量**：775
 - **最后更新**：2025-02-23
 - **GitHub**：[nicholas-wilcox/tailwind-snippet-obsidian-plugin](https://github.com/nicholas-wilcox/tailwind-snippet-obsidian-plugin)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

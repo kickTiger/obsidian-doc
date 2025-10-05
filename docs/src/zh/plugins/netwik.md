@@ -1,12 +1,12 @@
 ---
 title: Netwik
-description: Union Vault. Access a global network of notes. Anyone can create, view or edit notes. All changes will be synchronized between all participants.
+description: Union Vault。访问全球笔记网络。任何人都可以创建、查看或编辑笔记。所有更改将在所有参与者之间同步进行。
 author: Boris Bondarenko
 downloads: 4133
 updated: 1632858253000
 repo: fivol/netwik-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="netwik"
   name="Netwik"
-  description="Union Vault. Access a global network of notes. Anyone can create, view or edit notes. All changes will be synchronized between all participants."
+  description="Union Vault。访问全球笔记网络。任何人都可以创建、查看或编辑笔记。所有更改将在所有参与者之间同步进行。"
   author="Boris Bondarenko"
   :downloads="4133"
   :updated="1632858253000"
   repo="fivol/netwik-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Netwik 是一个功能强大的 Obsidian 插件。
 
-Union Vault. Access a global network of notes. Anyone can create, view or edit notes. All changes will be synchronized between all participants.
+Union Vault。访问全球笔记网络。任何人都可以创建、查看或编辑笔记。所有更改将在所有参与者之间同步进行。
 
 通过 Netwik,您可以:
 
@@ -202,7 +202,7 @@ Union Vault. Access a global network of notes. Anyone can create, view or edit n
 - **下载量**：4.1K
 - **最后更新**：2021-09-29
 - **GitHub**：[fivol/netwik-obsidian](https://github.com/fivol/netwik-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

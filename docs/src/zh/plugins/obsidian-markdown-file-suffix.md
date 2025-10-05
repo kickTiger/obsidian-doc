@@ -1,12 +1,12 @@
 ---
 title: Addional Markdown suffix (.mdx/.svx).
-description: Use additional files like .mdx / .svx as if they were Markdown.
+description: 像使用 Markdown 一样使用 .mdx / .svx 等附加文件。
 author: swissmation.com
-downloads: 4423
+downloads: 4424
 updated: 1660572985000
 repo: git-no/obsidian-markdown-file-suffix
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-markdown-file-suffix"
   name="Addional Markdown suffix (.mdx/.svx)."
-  description="Use additional files like .mdx / .svx as if they were Markdown."
+  description="像使用 Markdown 一样使用 .mdx / .svx 等附加文件。"
   author="swissmation.com"
-  :downloads="4423"
+  :downloads="4424"
   :updated="1660572985000"
   repo="git-no/obsidian-markdown-file-suffix"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Addional Markdown suffix (.mdx/.svx). 是一个功能强大的 Obsidian 插件。
 
-Use additional files like .mdx / .svx as if they were Markdown.
+像使用 Markdown 一样使用 .mdx / .svx 等附加文件。
 
 通过 Addional Markdown suffix (.mdx/.svx).,您可以:
 
@@ -202,7 +202,7 @@ Use additional files like .mdx / .svx as if they were Markdown.
 - **下载量**：4.4K
 - **最后更新**：2022-08-15
 - **GitHub**：[git-no/obsidian-markdown-file-suffix](https://github.com/git-no/obsidian-markdown-file-suffix)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

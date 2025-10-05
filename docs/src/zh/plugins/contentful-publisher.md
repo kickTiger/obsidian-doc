@@ -6,7 +6,7 @@ downloads: 2688
 updated: 1693739002000
 repo: ziyafenn/obsidian-contentful-publisher
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1693739002000"
   repo="ziyafenn/obsidian-contentful-publisher"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Manage your Contentful content.
 - **下载量**：2.7K
 - **最后更新**：2023-09-03
 - **GitHub**：[ziyafenn/obsidian-contentful-publisher](https://github.com/ziyafenn/obsidian-contentful-publisher)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

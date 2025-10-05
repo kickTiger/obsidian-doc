@@ -1,12 +1,12 @@
 ---
 title: Omnisearch
-description: Intelligent search for your notes, PDFs, and OCR for images.
+description: 智能搜索笔记、PDF 和 OCR 图像。
 author: Simon Cambier
-downloads: 1036786
-updated: 1753212532000
+downloads: 1039368
+updated: 1759576995000
 repo: scambier/obsidian-omnisearch
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="omnisearch"
   name="Omnisearch"
-  description="Intelligent search for your notes, PDFs, and OCR for images."
+  description="智能搜索笔记、PDF 和 OCR 图像。"
   author="Simon Cambier"
-  :downloads="1036786"
-  :updated="1753212532000"
+  :downloads="1039368"
+  :updated="1759576995000"
   repo="scambier/obsidian-omnisearch"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Omnisearch 是一个功能强大的 Obsidian 插件。
 
-Intelligent search for your notes, PDFs, and OCR for images.
+智能搜索笔记、PDF 和 OCR 图像。
 
 通过 Omnisearch,您可以:
 
@@ -181,7 +181,7 @@ Intelligent search for your notes, PDFs, and OCR for images.
 
 ### 最新版本：v1.0.0
 
-更新时间：2025-07-23
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/scambier/obsidian-omnisearch/releases) 查看详细更新日志
@@ -200,9 +200,9 @@ Intelligent search for your notes, PDFs, and OCR for images.
 - **作者**：Simon Cambier
 - **当前版本**：v1.0.0
 - **下载量**：1.04M
-- **最后更新**：2025-07-23
+- **最后更新**：2025-10-04
 - **GitHub**：[scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

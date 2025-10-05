@@ -1,12 +1,12 @@
 ---
 title: Dynbedded
-description: Dynamic embeds.
+description: 动态嵌入。
 author: Marcus Breiden
-downloads: 4737
+downloads: 4738
 updated: 1667164757000
 repo: MMoMM-org/obsidian-dynbedded
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-dynbedded"
   name="Dynbedded"
-  description="Dynamic embeds."
+  description="动态嵌入。"
   author="Marcus Breiden"
-  :downloads="4737"
+  :downloads="4738"
   :updated="1667164757000"
   repo="MMoMM-org/obsidian-dynbedded"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Dynbedded 是一个功能强大的 Obsidian 插件。
 
-Dynamic embeds.
+动态嵌入。
 
 通过 Dynbedded,您可以:
 
@@ -202,7 +202,7 @@ Dynamic embeds.
 - **下载量**：4.7K
 - **最后更新**：2022-10-31
 - **GitHub**：[MMoMM-org/obsidian-dynbedded](https://github.com/MMoMM-org/obsidian-dynbedded)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

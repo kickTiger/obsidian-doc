@@ -1,12 +1,12 @@
 ---
 title: Node Auto Resize
-description: Automatically resize the node when the content changes.
+description: 当内容发生变化时，自动调整节点的大小。
 author: Boninall
-downloads: 4768
+downloads: 4778
 updated: 1743862872000
 repo: Quorafind/Obsidian-Node-Auto-Resize
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="node-auto-resize"
   name="Node Auto Resize"
-  description="Automatically resize the node when the content changes."
+  description="当内容发生变化时，自动调整节点的大小。"
   author="Boninall"
-  :downloads="4768"
+  :downloads="4778"
   :updated="1743862872000"
   repo="Quorafind/Obsidian-Node-Auto-Resize"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Node Auto Resize 是一个功能强大的 Obsidian 插件。
 
-Automatically resize the node when the content changes.
+当内容发生变化时，自动调整节点的大小。
 
 通过 Node Auto Resize,您可以:
 
@@ -202,7 +202,7 @@ Automatically resize the node when the content changes.
 - **下载量**：4.8K
 - **最后更新**：2025-04-05
 - **GitHub**：[Quorafind/Obsidian-Node-Auto-Resize](https://github.com/Quorafind/Obsidian-Node-Auto-Resize)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

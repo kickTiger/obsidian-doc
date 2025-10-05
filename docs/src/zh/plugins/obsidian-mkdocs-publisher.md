@@ -1,12 +1,12 @@
 ---
 title: Enveloppe
-description: Publish your notes to a preconfigured GitHub repository.
+description: 将笔记发布到预先配置的 GitHub 仓库。
 author: Mara-Li
-downloads: 46679
+downloads: 46699
 updated: 1757494180000
 repo: Enveloppe/obsidian-enveloppe
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-mkdocs-publisher"
   name="Enveloppe"
-  description="Publish your notes to a preconfigured GitHub repository."
+  description="将笔记发布到预先配置的 GitHub 仓库。"
   author="Mara-Li"
-  :downloads="46679"
+  :downloads="46699"
   :updated="1757494180000"
   repo="Enveloppe/obsidian-enveloppe"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Enveloppe 是一个功能强大的 Obsidian 插件。
 
-Publish your notes to a preconfigured GitHub repository.
+将笔记发布到预先配置的 GitHub 仓库。
 
 通过 Enveloppe,您可以:
 
@@ -202,7 +202,7 @@ Publish your notes to a preconfigured GitHub repository.
 - **下载量**：46.7K
 - **最后更新**：2025-09-10
 - **GitHub**：[Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

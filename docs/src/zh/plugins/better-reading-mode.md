@@ -1,12 +1,12 @@
 ---
 title: Better Reading Mode
-description: Enable bionic reading mode in Live Preview mode.
+description: 在实时预览模式下启用仿生阅读模式。
 author: Boninall
-downloads: 13451
+downloads: 13454
 updated: 1705286406000
 repo: Quorafind/Obsidian-Better-Reading-Mode
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="better-reading-mode"
   name="Better Reading Mode"
-  description="Enable bionic reading mode in Live Preview mode."
+  description="在实时预览模式下启用仿生阅读模式。"
   author="Boninall"
-  :downloads="13451"
+  :downloads="13454"
   :updated="1705286406000"
   repo="Quorafind/Obsidian-Better-Reading-Mode"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better Reading Mode 是一个功能强大的 Obsidian 插件。
 
-Enable bionic reading mode in Live Preview mode.
+在实时预览模式下启用仿生阅读模式。
 
 通过 Better Reading Mode,您可以:
 
@@ -202,7 +202,7 @@ Enable bionic reading mode in Live Preview mode.
 - **下载量**：13.5K
 - **最后更新**：2024-01-15
 - **GitHub**：[Quorafind/Obsidian-Better-Reading-Mode](https://github.com/Quorafind/Obsidian-Better-Reading-Mode)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

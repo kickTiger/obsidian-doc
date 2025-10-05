@@ -1,12 +1,12 @@
 ---
 title: Spaced Repetition
-description: 'Fight the forgetting curve by reviewing flashcards & entire notes.'
+description: 通过复习闪卡和整个笔记来对抗遗忘曲线。
 author: Stephen Mwangi
-downloads: 396887
+downloads: 397126
 updated: 1742744964000
 repo: st3v3nmw/obsidian-spaced-repetition
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-spaced-repetition"
   name="Spaced Repetition"
-  description="Fight the forgetting curve by reviewing flashcards &amp; entire notes."
+  description="通过复习闪卡和整个笔记来对抗遗忘曲线。"
   author="Stephen Mwangi"
-  :downloads="396887"
+  :downloads="397126"
   :updated="1742744964000"
   repo="st3v3nmw/obsidian-spaced-repetition"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Spaced Repetition 是一个功能强大的 Obsidian 插件。
 
-Fight the forgetting curve by reviewing flashcards &amp; entire notes.
+通过复习闪卡和整个笔记来对抗遗忘曲线。
 
 通过 Spaced Repetition,您可以:
 
@@ -199,10 +199,10 @@ Fight the forgetting curve by reviewing flashcards &amp; entire notes.
 - **插件 ID**：obsidian-spaced-repetition
 - **作者**：Stephen Mwangi
 - **当前版本**：v1.0.0
-- **下载量**：396.9K
+- **下载量**：397.1K
 - **最后更新**：2025-03-23
 - **GitHub**：[st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

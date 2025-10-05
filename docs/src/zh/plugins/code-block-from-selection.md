@@ -1,12 +1,12 @@
 ---
 title: Code block from selection
-description: Turn the selected text into a code block.
+description: 将所选文本转化为代码块。
 author: Dmitry Savosh
-downloads: 11418
+downloads: 11419
 updated: 1630338106000
 repo: dy-sh/obsidian-code-block-from-selection
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="code-block-from-selection"
   name="Code block from selection"
-  description="Turn the selected text into a code block."
+  description="将所选文本转化为代码块。"
   author="Dmitry Savosh"
-  :downloads="11418"
+  :downloads="11419"
   :updated="1630338106000"
   repo="dy-sh/obsidian-code-block-from-selection"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Code block from selection 是一个功能强大的 Obsidian 插件。
 
-Turn the selected text into a code block.
+将所选文本转化为代码块。
 
 通过 Code block from selection,您可以:
 
@@ -202,7 +202,7 @@ Turn the selected text into a code block.
 - **下载量**：11.4K
 - **最后更新**：2021-08-30
 - **GitHub**：[dy-sh/obsidian-code-block-from-selection](https://github.com/dy-sh/obsidian-code-block-from-selection)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

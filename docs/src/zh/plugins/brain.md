@@ -1,12 +1,12 @@
 ---
 title: brAIn
-description: A ChatGPT powered chatbot specifically focused on question answering over your vault notes.
+description: 由 ChatGPT 支持的聊天机器人，专门为您的保险库笔记答疑解惑。
 author: lusob
-downloads: 4834
+downloads: 4835
 updated: 1687971030000
 repo: lusob/obsidian-brain
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="brain"
   name="brAIn"
-  description="A ChatGPT powered chatbot specifically focused on question answering over your vault notes."
+  description="由 ChatGPT 支持的聊天机器人，专门为您的保险库笔记答疑解惑。"
   author="lusob"
-  :downloads="4834"
+  :downloads="4835"
   :updated="1687971030000"
   repo="lusob/obsidian-brain"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 brAIn 是一个功能强大的 Obsidian 插件。
 
-A ChatGPT powered chatbot specifically focused on question answering over your vault notes.
+由 ChatGPT 支持的聊天机器人，专门为您的保险库笔记答疑解惑。
 
 通过 brAIn,您可以:
 
@@ -202,7 +202,7 @@ A ChatGPT powered chatbot specifically focused on question answering over your v
 - **下载量**：4.8K
 - **最后更新**：2023-06-29
 - **GitHub**：[lusob/obsidian-brain](https://github.com/lusob/obsidian-brain)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

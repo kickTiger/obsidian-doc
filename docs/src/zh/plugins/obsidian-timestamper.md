@@ -1,12 +1,12 @@
 ---
 title: TimeStamper
-description: Insert a customized or predefined time- or date-stamp at the current cursor position.
+description: 在当前光标位置插入自定义或预定义的时间或日期戳。
 author: Martin Eder
-downloads: 37124
+downloads: 37152
 updated: 1666467995000
 repo: Gru80/obsidian-timestamper
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-timestamper"
   name="TimeStamper"
-  description="Insert a customized or predefined time- or date-stamp at the current cursor position."
+  description="在当前光标位置插入自定义或预定义的时间或日期戳。"
   author="Martin Eder"
-  :downloads="37124"
+  :downloads="37152"
   :updated="1666467995000"
   repo="Gru80/obsidian-timestamper"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 TimeStamper 是一个功能强大的 Obsidian 插件。
 
-Insert a customized or predefined time- or date-stamp at the current cursor position.
+在当前光标位置插入自定义或预定义的时间或日期戳。
 
 通过 TimeStamper,您可以:
 
@@ -199,10 +199,10 @@ Insert a customized or predefined time- or date-stamp at the current cursor posi
 - **插件 ID**：obsidian-timestamper
 - **作者**：Martin Eder
 - **当前版本**：v1.0.0
-- **下载量**：37.1K
+- **下载量**：37.2K
 - **最后更新**：2022-10-23
 - **GitHub**：[Gru80/obsidian-timestamper](https://github.com/Gru80/obsidian-timestamper)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

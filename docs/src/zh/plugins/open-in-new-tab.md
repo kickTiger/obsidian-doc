@@ -1,12 +1,12 @@
 ---
 title: Open In New Tab
-description: Open files in new tabs.
+description: 在新标签页中打开文件
 author: patleeman
-downloads: 30101
+downloads: 30123
 updated: 1677641867000
 repo: patleeman/obsidian-open-in-new-tab
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="open-in-new-tab"
   name="Open In New Tab"
-  description="Open files in new tabs."
+  description="在新标签页中打开文件"
   author="patleeman"
-  :downloads="30101"
+  :downloads="30123"
   :updated="1677641867000"
   repo="patleeman/obsidian-open-in-new-tab"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Open In New Tab 是一个功能强大的 Obsidian 插件。
 
-Open files in new tabs.
+在新标签页中打开文件
 
 通过 Open In New Tab,您可以:
 
@@ -202,7 +202,7 @@ Open files in new tabs.
 - **下载量**：30.1K
 - **最后更新**：2023-03-01
 - **GitHub**：[patleeman/obsidian-open-in-new-tab](https://github.com/patleeman/obsidian-open-in-new-tab)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Metadata Auto Classifier
 description: Automatically classifies and applies metadata to your notes.
 author: Beomsu Koh
-downloads: 3095
+downloads: 3096
 updated: 1748978495000
 repo: GoBeromsu/Metadata-Auto-Classifier
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Metadata Auto Classifier"
   description="Automatically classifies and applies metadata to your notes."
   author="Beomsu Koh"
-  :downloads="3095"
+  :downloads="3096"
   :updated="1748978495000"
   repo="GoBeromsu/Metadata-Auto-Classifier"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Automatically classifies and applies metadata to your notes.
 - **下载量**：3.1K
 - **最后更新**：2025-06-04
 - **GitHub**：[GoBeromsu/Metadata-Auto-Classifier](https://github.com/GoBeromsu/Metadata-Auto-Classifier)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

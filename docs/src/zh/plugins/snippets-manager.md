@@ -2,11 +2,11 @@
 title: Snippets Manager
 description: Snippets manager with full mobile support. You can manage code snippets, infos like passport number, email signature or anything.
 author: Venkatraman Dhamodaran
-downloads: 1731
+downloads: 1733
 updated: 1727599111000
 repo: ramandv/obsidian-snippets-manager
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Snippets Manager"
   description="Snippets manager with full mobile support. You can manage code snippets, infos like passport number, email signature or anything."
   author="Venkatraman Dhamodaran"
-  :downloads="1731"
+  :downloads="1733"
   :updated="1727599111000"
   repo="ramandv/obsidian-snippets-manager"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Snippets manager with full mobile support. You can manage code snippets, infos l
 - **下载量**：1.7K
 - **最后更新**：2024-09-29
 - **GitHub**：[ramandv/obsidian-snippets-manager](https://github.com/ramandv/obsidian-snippets-manager)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

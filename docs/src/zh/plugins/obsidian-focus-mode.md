@@ -1,12 +1,12 @@
 ---
 title: Focus Mode
-description: Add a toggle to hide interface elements so you can focus on your note.
+description: 添加焦点模式以突出显示当前行。
 author: ryanpcmcquen
-downloads: 60347
+downloads: 60384
 updated: 1730952210000
 repo: ryanpcmcquen/obsidian-focus-mode
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-focus-mode"
   name="Focus Mode"
-  description="Add a toggle to hide interface elements so you can focus on your note."
+  description="添加焦点模式以突出显示当前行。"
   author="ryanpcmcquen"
-  :downloads="60347"
+  :downloads="60384"
   :updated="1730952210000"
   repo="ryanpcmcquen/obsidian-focus-mode"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Focus Mode 是一个功能强大的 Obsidian 插件。
 
-Add a toggle to hide interface elements so you can focus on your note.
+添加焦点模式以突出显示当前行。
 
 通过 Focus Mode,您可以:
 
@@ -199,10 +199,10 @@ Add a toggle to hide interface elements so you can focus on your note.
 - **插件 ID**：obsidian-focus-mode
 - **作者**：ryanpcmcquen
 - **当前版本**：v1.0.0
-- **下载量**：60.3K
+- **下载量**：60.4K
 - **最后更新**：2024-11-07
 - **GitHub**：[ryanpcmcquen/obsidian-focus-mode](https://github.com/ryanpcmcquen/obsidian-focus-mode)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

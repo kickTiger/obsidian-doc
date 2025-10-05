@@ -1,12 +1,12 @@
 ---
 title: Painter
-description: Paint text different colors.
+description: 为文字涂上不同的颜色。
 author: KraXen72 and Chetachi Ezikeuzor
-downloads: 10605
+downloads: 10619
 updated: 1713301888000
 repo: KraXen72/obsidian-painter
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="painter"
   name="Painter"
-  description="Paint text different colors."
+  description="为文字涂上不同的颜色。"
   author="KraXen72 and Chetachi Ezikeuzor"
-  :downloads="10605"
+  :downloads="10619"
   :updated="1713301888000"
   repo="KraXen72/obsidian-painter"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Painter 是一个功能强大的 Obsidian 插件。
 
-Paint text different colors.
+为文字涂上不同的颜色。
 
 通过 Painter,您可以:
 
@@ -202,7 +202,7 @@ Paint text different colors.
 - **下载量**：10.6K
 - **最后更新**：2024-04-17
 - **GitHub**：[KraXen72/obsidian-painter](https://github.com/KraXen72/obsidian-painter)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

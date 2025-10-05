@@ -1,12 +1,12 @@
 ---
 title: Wikipedia
-description: Get the first section of Wikipedia for a note title or search term.
+description: 获取维基百科第一部分的注释标题或搜索词。
 author: Jonathan Miller
-downloads: 24683
+downloads: 24692
 updated: 1634391466000
 repo: jmilldotdev/obsidian-wikipedia
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-wikipedia"
   name="Wikipedia"
-  description="Get the first section of Wikipedia for a note title or search term."
+  description="获取维基百科第一部分的注释标题或搜索词。"
   author="Jonathan Miller"
-  :downloads="24683"
+  :downloads="24692"
   :updated="1634391466000"
   repo="jmilldotdev/obsidian-wikipedia"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Wikipedia 是一个功能强大的 Obsidian 插件。
 
-Get the first section of Wikipedia for a note title or search term.
+获取维基百科第一部分的注释标题或搜索词。
 
 通过 Wikipedia,您可以:
 
@@ -202,7 +202,7 @@ Get the first section of Wikipedia for a note title or search term.
 - **下载量**：24.7K
 - **最后更新**：2021-10-16
 - **GitHub**：[jmilldotdev/obsidian-wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Latex Render
 description: Render small latex snippets in your notes as SVG and PNG files.
 author: jvsteiner
-downloads: 1563
+downloads: 1566
 updated: 1720631898000
 repo: jvsteiner/obsidian-latex-render
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Latex Render"
   description="Render small latex snippets in your notes as SVG and PNG files."
   author="jvsteiner"
-  :downloads="1563"
+  :downloads="1566"
   :updated="1720631898000"
   repo="jvsteiner/obsidian-latex-render"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Render small latex snippets in your notes as SVG and PNG files.
 - **下载量**：1.6K
 - **最后更新**：2024-07-11
 - **GitHub**：[jvsteiner/obsidian-latex-render](https://github.com/jvsteiner/obsidian-latex-render)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

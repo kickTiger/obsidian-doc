@@ -1,12 +1,12 @@
 ---
 title: Open Related Url
-description: 'Open URLs found in a note''s YAML frontmatter.'
+description: 打开在注释的 YAML frontmatter 中找到的 URL。
 author: Dan Pickett
 downloads: 4116
 updated: 1661009456000
 repo: dpickett/open-related-url
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="open-related-url"
   name="Open Related Url"
-  description="Open URLs found in a note&#39;s YAML frontmatter."
+  description="打开在注释的 YAML frontmatter 中找到的 URL。"
   author="Dan Pickett"
   :downloads="4116"
   :updated="1661009456000"
   repo="dpickett/open-related-url"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Open Related Url 是一个功能强大的 Obsidian 插件。
 
-Open URLs found in a note&#39;s YAML frontmatter.
+打开在注释的 YAML frontmatter 中找到的 URL。
 
 通过 Open Related Url,您可以:
 
@@ -202,7 +202,7 @@ Open URLs found in a note&#39;s YAML frontmatter.
 - **下载量**：4.1K
 - **最后更新**：2022-08-20
 - **GitHub**：[dpickett/open-related-url](https://github.com/dpickett/open-related-url)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

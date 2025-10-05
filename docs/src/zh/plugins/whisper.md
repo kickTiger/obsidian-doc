@@ -1,12 +1,12 @@
 ---
 title: Whisper
-description: Speech-to-text using OpenAI Whisper.
+description: 使用 OpenAI Whisper 将语音转换为文本。
 author: Nik Danilov
-downloads: 32571
+downloads: 32602
 updated: 1706543913000
 repo: nikdanilov/whisper-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="whisper"
   name="Whisper"
-  description="Speech-to-text using OpenAI Whisper."
+  description="使用 OpenAI Whisper 将语音转换为文本。"
   author="Nik Danilov"
-  :downloads="32571"
+  :downloads="32602"
   :updated="1706543913000"
   repo="nikdanilov/whisper-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Whisper 是一个功能强大的 Obsidian 插件。
 
-Speech-to-text using OpenAI Whisper.
+使用 OpenAI Whisper 将语音转换为文本。
 
 通过 Whisper,您可以:
 
@@ -202,7 +202,7 @@ Speech-to-text using OpenAI Whisper.
 - **下载量**：32.6K
 - **最后更新**：2024-01-29
 - **GitHub**：[nikdanilov/whisper-obsidian-plugin](https://github.com/nikdanilov/whisper-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

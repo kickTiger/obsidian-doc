@@ -2,11 +2,11 @@
 title: Organized daily notes
 description: Automatically organizes your daily notes into customizable folder structures (Year/Month/Week) for systematic note management
 author: duchangkim
-downloads: 790
+downloads: 791
 updated: 1744728418000
 repo: duchangkim/organized-daily-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Organized daily notes"
   description="Automatically organizes your daily notes into customizable folder structures (Year/Month/Week) for systematic note management"
   author="duchangkim"
-  :downloads="790"
+  :downloads="791"
   :updated="1744728418000"
   repo="duchangkim/organized-daily-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically organizes your daily notes into customizable folder structures (Ye
 - **插件 ID**：organized-daily-notes
 - **作者**：duchangkim
 - **当前版本**：v1.0.0
-- **下载量**：790
+- **下载量**：791
 - **最后更新**：2025-04-15
 - **GitHub**：[duchangkim/organized-daily-notes](https://github.com/duchangkim/organized-daily-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

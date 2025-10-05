@@ -1,12 +1,12 @@
 ---
 title: No Dupe Leaves
-description: 'Don''t reopen notes that are already open.'
+description: 不要重新打开已经打开的笔记。
 author: Simon Cambier
-downloads: 12550
+downloads: 12552
 updated: 1720868126000
 repo: scambier/obsidian-no-dupe-leaves
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="no-dupe-leaves"
   name="No Dupe Leaves"
-  description="Don&#39;t reopen notes that are already open."
+  description="不要重新打开已经打开的笔记。"
   author="Simon Cambier"
-  :downloads="12550"
+  :downloads="12552"
   :updated="1720868126000"
   repo="scambier/obsidian-no-dupe-leaves"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 No Dupe Leaves 是一个功能强大的 Obsidian 插件。
 
-Don&#39;t reopen notes that are already open.
+不要重新打开已经打开的笔记。
 
 通过 No Dupe Leaves,您可以:
 
@@ -202,7 +202,7 @@ Don&#39;t reopen notes that are already open.
 - **下载量**：12.6K
 - **最后更新**：2024-07-13
 - **GitHub**：[scambier/obsidian-no-dupe-leaves](https://github.com/scambier/obsidian-no-dupe-leaves)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

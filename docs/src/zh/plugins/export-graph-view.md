@@ -2,11 +2,11 @@
 title: Export Graph View
 description: 'Export your vault''s graph view to mermaid and dot format.'
 author: Sean McGhee
-downloads: 3163
+downloads: 3179
 updated: 1755807225000
 repo: seantiz/obsidian_egv_plugin
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Export Graph View"
   description="Export your vault&#39;s graph view to mermaid and dot format."
   author="Sean McGhee"
-  :downloads="3163"
+  :downloads="3179"
   :updated="1755807225000"
   repo="seantiz/obsidian_egv_plugin"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Export your vault&#39;s graph view to mermaid and dot format.
 - **下载量**：3.2K
 - **最后更新**：2025-08-22
 - **GitHub**：[seantiz/obsidian_egv_plugin](https://github.com/seantiz/obsidian_egv_plugin)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

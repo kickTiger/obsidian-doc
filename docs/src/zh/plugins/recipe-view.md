@@ -1,12 +1,12 @@
 ---
 title: Recipe view
-description: View your notes as interactive recipe cards while you cook.
+description: 在烹饪过程中，以互动食谱卡的形式查看笔记。
 author: lachholden
-downloads: 35989
+downloads: 36058
 updated: 1714881332000
 repo: lachsh/obsidian-recipe-view
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="recipe-view"
   name="Recipe view"
-  description="View your notes as interactive recipe cards while you cook."
+  description="在烹饪过程中，以互动食谱卡的形式查看笔记。"
   author="lachholden"
-  :downloads="35989"
+  :downloads="36058"
   :updated="1714881332000"
   repo="lachsh/obsidian-recipe-view"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Recipe view 是一个功能强大的 Obsidian 插件。
 
-View your notes as interactive recipe cards while you cook.
+在烹饪过程中，以互动食谱卡的形式查看笔记。
 
 通过 Recipe view,您可以:
 
@@ -199,10 +199,10 @@ View your notes as interactive recipe cards while you cook.
 - **插件 ID**：recipe-view
 - **作者**：lachholden
 - **当前版本**：v1.0.0
-- **下载量**：36.0K
+- **下载量**：36.1K
 - **最后更新**：2024-05-05
 - **GitHub**：[lachsh/obsidian-recipe-view](https://github.com/lachsh/obsidian-recipe-view)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

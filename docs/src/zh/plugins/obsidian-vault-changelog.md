@@ -1,12 +1,12 @@
 ---
 title: Vault Changelog
-description: Maintain a changelog of recently edited notes.
+description: 维护最近编辑过的注释的更新日志。
 author: Badr Bouslikhin
-downloads: 16008
+downloads: 16017
 updated: 1740801763000
 repo: philoserf/obsidian-vault-changelog
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-vault-changelog"
   name="Vault Changelog"
-  description="Maintain a changelog of recently edited notes."
+  description="维护最近编辑过的注释的更新日志。"
   author="Badr Bouslikhin"
-  :downloads="16008"
+  :downloads="16017"
   :updated="1740801763000"
   repo="philoserf/obsidian-vault-changelog"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vault Changelog 是一个功能强大的 Obsidian 插件。
 
-Maintain a changelog of recently edited notes.
+维护最近编辑过的注释的更新日志。
 
 通过 Vault Changelog,您可以:
 
@@ -202,7 +202,7 @@ Maintain a changelog of recently edited notes.
 - **下载量**：16.0K
 - **最后更新**：2025-03-01
 - **GitHub**：[philoserf/obsidian-vault-changelog](https://github.com/philoserf/obsidian-vault-changelog)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

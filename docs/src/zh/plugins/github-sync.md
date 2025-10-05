@@ -1,12 +1,12 @@
 ---
 title: GitHub Sync
-description: Sync vault to personal GitHub.
+description: 将保险库同步到个人 GitHub。
 author: Kevin Chin
-downloads: 25216
+downloads: 25258
 updated: 1742868226000
 repo: kevinmkchin/Obsidian-GitHub-Sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="github-sync"
   name="GitHub Sync"
-  description="Sync vault to personal GitHub."
+  description="将保险库同步到个人 GitHub。"
   author="Kevin Chin"
-  :downloads="25216"
+  :downloads="25258"
   :updated="1742868226000"
   repo="kevinmkchin/Obsidian-GitHub-Sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 GitHub Sync 是一个功能强大的 Obsidian 插件。
 
-Sync vault to personal GitHub.
+将保险库同步到个人 GitHub。
 
 通过 GitHub Sync,您可以:
 
@@ -199,10 +199,10 @@ Sync vault to personal GitHub.
 - **插件 ID**：github-sync
 - **作者**：Kevin Chin
 - **当前版本**：v1.0.0
-- **下载量**：25.2K
+- **下载量**：25.3K
 - **最后更新**：2025-03-25
 - **GitHub**：[kevinmkchin/Obsidian-GitHub-Sync](https://github.com/kevinmkchin/Obsidian-GitHub-Sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

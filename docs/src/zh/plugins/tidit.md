@@ -2,11 +2,11 @@
 title: tidit
 description: tidit adds timestamps to your document as you type — when you want it, how you want it, where you want it.
 author: codingthings.com
-downloads: 562
+downloads: 563
 updated: 1757282736000
 repo: codingthings-com/tidit-obsidian
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="tidit"
   description="tidit adds timestamps to your document as you type — when you want it, how you want it, where you want it."
   author="codingthings.com"
-  :downloads="562"
+  :downloads="563"
   :updated="1757282736000"
   repo="codingthings-com/tidit-obsidian"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ tidit adds timestamps to your document as you type — when you want it, how you
 - **插件 ID**：tidit
 - **作者**：codingthings.com
 - **当前版本**：v1.0.0
-- **下载量**：562
+- **下载量**：563
 - **最后更新**：2025-09-08
 - **GitHub**：[codingthings-com/tidit-obsidian](https://github.com/codingthings-com/tidit-obsidian)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

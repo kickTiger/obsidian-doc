@@ -2,11 +2,11 @@
 title: New 3D Graph
 description: Visualize your Vault in 3D with a powerful, highly customizable, and filterable graph.
 author: Aryan Gupta
-downloads: 1969
+downloads: 1988
 updated: 1754055852000
 repo: Apoo711/obsidian-3d-graph
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="New 3D Graph"
   description="Visualize your Vault in 3D with a powerful, highly customizable, and filterable graph."
   author="Aryan Gupta"
-  :downloads="1969"
+  :downloads="1988"
   :updated="1754055852000"
   repo="Apoo711/obsidian-3d-graph"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Visualize your Vault in 3D with a powerful, highly customizable, and filterable 
 - **下载量**：2.0K
 - **最后更新**：2025-08-01
 - **GitHub**：[Apoo711/obsidian-3d-graph](https://github.com/Apoo711/obsidian-3d-graph)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Rapid Notes
-description: Create and place notes quickly in specific folders based on predefined prefixes.
+description: 根据预定义前缀快速创建笔记并将其放入特定文件夹。
 author: valteriomon
-downloads: 6586
+downloads: 6587
 updated: 1750802485000
 repo: valteriomon/obsidian-rapid-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-rapid-notes"
   name="Rapid Notes"
-  description="Create and place notes quickly in specific folders based on predefined prefixes."
+  description="根据预定义前缀快速创建笔记并将其放入特定文件夹。"
   author="valteriomon"
-  :downloads="6586"
+  :downloads="6587"
   :updated="1750802485000"
   repo="valteriomon/obsidian-rapid-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Rapid Notes 是一个功能强大的 Obsidian 插件。
 
-Create and place notes quickly in specific folders based on predefined prefixes.
+根据预定义前缀快速创建笔记并将其放入特定文件夹。
 
 通过 Rapid Notes,您可以:
 
@@ -202,7 +202,7 @@ Create and place notes quickly in specific folders based on predefined prefixes.
 - **下载量**：6.6K
 - **最后更新**：2025-06-25
 - **GitHub**：[valteriomon/obsidian-rapid-notes](https://github.com/valteriomon/obsidian-rapid-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

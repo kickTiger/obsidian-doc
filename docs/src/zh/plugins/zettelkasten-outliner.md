@@ -1,12 +1,12 @@
 ---
 title: Zettelkasten Outliner
-description: A list representation for your Zettelkasten.
+description: 用于 Zettelkasten 的列表。
 author: Tyler Suzuki Nelson
 downloads: 3651
 updated: 1701974392000
 repo: tylersuzukinelson/zettelkasten-outliner
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="zettelkasten-outliner"
   name="Zettelkasten Outliner"
-  description="A list representation for your Zettelkasten."
+  description="用于 Zettelkasten 的列表。"
   author="Tyler Suzuki Nelson"
   :downloads="3651"
   :updated="1701974392000"
   repo="tylersuzukinelson/zettelkasten-outliner"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Zettelkasten Outliner 是一个功能强大的 Obsidian 插件。
 
-A list representation for your Zettelkasten.
+用于 Zettelkasten 的列表。
 
 通过 Zettelkasten Outliner,您可以:
 
@@ -202,7 +202,7 @@ A list representation for your Zettelkasten.
 - **下载量**：3.7K
 - **最后更新**：2023-12-08
 - **GitHub**：[tylersuzukinelson/zettelkasten-outliner](https://github.com/tylersuzukinelson/zettelkasten-outliner)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

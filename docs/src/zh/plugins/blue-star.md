@@ -6,7 +6,7 @@ downloads: 641
 updated: 1733396402000
 repo: Lio5n/blue-star
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1733396402000"
   repo="Lio5n/blue-star"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Generate Anki flashcards in multiple ways.
 - **下载量**：641
 - **最后更新**：2024-12-05
 - **GitHub**：[Lio5n/blue-star](https://github.com/Lio5n/blue-star)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

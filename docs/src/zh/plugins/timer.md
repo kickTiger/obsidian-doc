@@ -1,12 +1,12 @@
 ---
 title: Timer
-description: Measure time.
+description: 测量时间
 author: Marius Wörfel
-downloads: 10055
+downloads: 10062
 updated: 1735767697000
 repo: Raboro/obsidian-timer-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="timer"
   name="Timer"
-  description="Measure time."
+  description="测量时间"
   author="Marius Wörfel"
-  :downloads="10055"
+  :downloads="10062"
   :updated="1735767697000"
   repo="Raboro/obsidian-timer-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Timer 是一个功能强大的 Obsidian 插件。
 
-Measure time.
+测量时间
 
 通过 Timer,您可以:
 
@@ -202,7 +202,7 @@ Measure time.
 - **下载量**：10.1K
 - **最后更新**：2025-01-02
 - **GitHub**：[Raboro/obsidian-timer-plugin](https://github.com/Raboro/obsidian-timer-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

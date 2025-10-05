@@ -2,11 +2,11 @@
 title: 'Opener: New Tab by Default'
 description: Open links in new tabs by default. If the note is already open in another tab, it switches to it. Can also open PDFs and other file formats in System Apps when cmd/ctrl is hold.
 author: LukeMT, Aidan Gibson
-downloads: 2137
+downloads: 2151
 updated: 1748359877000
 repo: lukemt/obsidian-opener
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Opener: New Tab by Default"
   description="Open links in new tabs by default. If the note is already open in another tab, it switches to it. Can also open PDFs and other file formats in System Apps when cmd/ctrl is hold."
   author="LukeMT, Aidan Gibson"
-  :downloads="2137"
+  :downloads="2151"
   :updated="1748359877000"
   repo="lukemt/obsidian-opener"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Open links in new tabs by default. If the note is already open in another tab, i
 - **插件 ID**：opener
 - **作者**：LukeMT, Aidan Gibson
 - **当前版本**：v1.0.0
-- **下载量**：2.1K
+- **下载量**：2.2K
 - **最后更新**：2025-05-27
 - **GitHub**：[lukemt/obsidian-opener](https://github.com/lukemt/obsidian-opener)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

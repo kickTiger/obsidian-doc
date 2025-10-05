@@ -1,12 +1,12 @@
 ---
 title: Ribbon Divider
-description: Add dividers to the ribbon to space out your icons.
+description: 在色带中添加分隔线，以拉开图标之间的距离。
 author: Andrew McGivery
-downloads: 6310
+downloads: 6328
 updated: 1711485970000
 repo: andrewmcgivery/obsidian-ribbon-divider
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ribbon-divider"
   name="Ribbon Divider"
-  description="Add dividers to the ribbon to space out your icons."
+  description="在色带中添加分隔线，以拉开图标之间的距离。"
   author="Andrew McGivery"
-  :downloads="6310"
+  :downloads="6328"
   :updated="1711485970000"
   repo="andrewmcgivery/obsidian-ribbon-divider"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Ribbon Divider 是一个功能强大的 Obsidian 插件。
 
-Add dividers to the ribbon to space out your icons.
+在色带中添加分隔线，以拉开图标之间的距离。
 
 通过 Ribbon Divider,您可以:
 
@@ -202,7 +202,7 @@ Add dividers to the ribbon to space out your icons.
 - **下载量**：6.3K
 - **最后更新**：2024-03-27
 - **GitHub**：[andrewmcgivery/obsidian-ribbon-divider](https://github.com/andrewmcgivery/obsidian-ribbon-divider)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

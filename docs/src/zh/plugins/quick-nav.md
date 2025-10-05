@@ -2,11 +2,11 @@
 title: Quick Nav
 description: Swift cursor navigation plugin to enhance editing.
 author: exoticknight
-downloads: 151
+downloads: 152
 updated: 1743419579000
 repo: exoticknight/quick-nav
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Quick Nav"
   description="Swift cursor navigation plugin to enhance editing."
   author="exoticknight"
-  :downloads="151"
+  :downloads="152"
   :updated="1743419579000"
   repo="exoticknight/quick-nav"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Swift cursor navigation plugin to enhance editing.
 - **插件 ID**：quick-nav
 - **作者**：exoticknight
 - **当前版本**：v1.0.0
-- **下载量**：151
+- **下载量**：152
 - **最后更新**：2025-03-31
 - **GitHub**：[exoticknight/quick-nav](https://github.com/exoticknight/quick-nav)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

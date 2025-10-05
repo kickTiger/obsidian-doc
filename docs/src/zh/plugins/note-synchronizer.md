@@ -1,12 +1,12 @@
 ---
 title: Note Synchronizer
-description: Synchronize your notes to other note-based software like Anki, following more strictly the principles of Zettelkasten and treating each file as a note.
+description: 将笔记同步到 Anki 等其他基于笔记的软件，更严格地遵循 Zettelkasten 原则，将每个文件视为一个笔记。
 author: Songchen Tan
-downloads: 7773
+downloads: 7774
 updated: 1708210843000
 repo: tansongchen/obsidian-note-synchronizer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="note-synchronizer"
   name="Note Synchronizer"
-  description="Synchronize your notes to other note-based software like Anki, following more strictly the principles of Zettelkasten and treating each file as a note."
+  description="将笔记同步到 Anki 等其他基于笔记的软件，更严格地遵循 Zettelkasten 原则，将每个文件视为一个笔记。"
   author="Songchen Tan"
-  :downloads="7773"
+  :downloads="7774"
   :updated="1708210843000"
   repo="tansongchen/obsidian-note-synchronizer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Note Synchronizer 是一个功能强大的 Obsidian 插件。
 
-Synchronize your notes to other note-based software like Anki, following more strictly the principles of Zettelkasten and treating each file as a note.
+将笔记同步到 Anki 等其他基于笔记的软件，更严格地遵循 Zettelkasten 原则，将每个文件视为一个笔记。
 
 通过 Note Synchronizer,您可以:
 
@@ -202,7 +202,7 @@ Synchronize your notes to other note-based software like Anki, following more st
 - **下载量**：7.8K
 - **最后更新**：2024-02-18
 - **GitHub**：[tansongchen/obsidian-note-synchronizer](https://github.com/tansongchen/obsidian-note-synchronizer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

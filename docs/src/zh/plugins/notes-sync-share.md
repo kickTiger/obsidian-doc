@@ -1,12 +1,12 @@
 ---
 title: Notes Sync Share
-description: Sync and share (publish) your notes in your own private service.
+description: 在自己的私人服务中同步和共享（发布）笔记。
 author: Alt-er
-downloads: 5349
+downloads: 5353
 updated: 1701185047000
 repo: Alt-er/obsidian-sync-share
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="notes-sync-share"
   name="Notes Sync Share"
-  description="Sync and share (publish) your notes in your own private service."
+  description="在自己的私人服务中同步和共享（发布）笔记。"
   author="Alt-er"
-  :downloads="5349"
+  :downloads="5353"
   :updated="1701185047000"
   repo="Alt-er/obsidian-sync-share"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Notes Sync Share 是一个功能强大的 Obsidian 插件。
 
-Sync and share (publish) your notes in your own private service.
+在自己的私人服务中同步和共享（发布）笔记。
 
 通过 Notes Sync Share,您可以:
 
@@ -199,10 +199,10 @@ Sync and share (publish) your notes in your own private service.
 - **插件 ID**：notes-sync-share
 - **作者**：Alt-er
 - **当前版本**：v1.0.0
-- **下载量**：5.3K
+- **下载量**：5.4K
 - **最后更新**：2023-11-28
 - **GitHub**：[Alt-er/obsidian-sync-share](https://github.com/Alt-er/obsidian-sync-share)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

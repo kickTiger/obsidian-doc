@@ -1,12 +1,12 @@
 ---
 title: CircuitJS
-description: Embed CircuitJS circuit simulations into notes.
+description: 在笔记中嵌入 CircuitJS 电路仿真。
 author: Steven Gann
-downloads: 4701
+downloads: 4703
 updated: 1646786848000
 repo: StevenGann/obsidian-circuitjs
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-circuitjs"
   name="CircuitJS"
-  description="Embed CircuitJS circuit simulations into notes."
+  description="在笔记中嵌入 CircuitJS 电路仿真。"
   author="Steven Gann"
-  :downloads="4701"
+  :downloads="4703"
   :updated="1646786848000"
   repo="StevenGann/obsidian-circuitjs"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 CircuitJS 是一个功能强大的 Obsidian 插件。
 
-Embed CircuitJS circuit simulations into notes.
+在笔记中嵌入 CircuitJS 电路仿真。
 
 通过 CircuitJS,您可以:
 
@@ -202,7 +202,7 @@ Embed CircuitJS circuit simulations into notes.
 - **下载量**：4.7K
 - **最后更新**：2022-03-09
 - **GitHub**：[StevenGann/obsidian-circuitjs](https://github.com/StevenGann/obsidian-circuitjs)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

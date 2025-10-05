@@ -2,11 +2,11 @@
 title: Zhihu
 description: Enable you to publish your articles and answers to Zhihu.
 author: dgg
-downloads: 1522
+downloads: 1528
 updated: 1759037149000
 repo: dongguaguaguagua/zhihu_obsidian
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Zhihu"
   description="Enable you to publish your articles and answers to Zhihu."
   author="dgg"
-  :downloads="1522"
+  :downloads="1528"
   :updated="1759037149000"
   repo="dongguaguaguagua/zhihu_obsidian"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enable you to publish your articles and answers to Zhihu.
 - **下载量**：1.5K
 - **最后更新**：2025-09-28
 - **GitHub**：[dongguaguaguagua/zhihu_obsidian](https://github.com/dongguaguaguagua/zhihu_obsidian)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

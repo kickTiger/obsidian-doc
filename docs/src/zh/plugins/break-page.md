@@ -1,12 +1,12 @@
 ---
 title: PDF break page
-description: Add shortkey and command to insert a break page formating for pdf exports.
+description: 添加快捷键和命令，为 PDF 导出插入断页格式。
 author: CG
-downloads: 10191
+downloads: 10207
 updated: 1707968131000
 repo: corentin-godefroy/Obsidian-BreakPage
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="break-page"
   name="PDF break page"
-  description="Add shortkey and command to insert a break page formating for pdf exports."
+  description="添加快捷键和命令，为 PDF 导出插入断页格式。"
   author="CG"
-  :downloads="10191"
+  :downloads="10207"
   :updated="1707968131000"
   repo="corentin-godefroy/Obsidian-BreakPage"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 PDF break page 是一个功能强大的 Obsidian 插件。
 
-Add shortkey and command to insert a break page formating for pdf exports.
+添加快捷键和命令，为 PDF 导出插入断页格式。
 
 通过 PDF break page,您可以:
 
@@ -202,7 +202,7 @@ Add shortkey and command to insert a break page formating for pdf exports.
 - **下载量**：10.2K
 - **最后更新**：2024-02-15
 - **GitHub**：[corentin-godefroy/Obsidian-BreakPage](https://github.com/corentin-godefroy/Obsidian-BreakPage)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

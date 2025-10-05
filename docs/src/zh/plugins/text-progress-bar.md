@@ -1,12 +1,12 @@
 ---
 title: Text Progress Bar
-description: Display low-fi text progress bars in your notes.
+description: 在笔记中显示低保真文本进度条。
 author: Michael Adams
-downloads: 6925
+downloads: 6929
 updated: 1682678618000
 repo: michaeladams/obsidian-text-progress-bar
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="text-progress-bar"
   name="Text Progress Bar"
-  description="Display low-fi text progress bars in your notes."
+  description="在笔记中显示低保真文本进度条。"
   author="Michael Adams"
-  :downloads="6925"
+  :downloads="6929"
   :updated="1682678618000"
   repo="michaeladams/obsidian-text-progress-bar"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Text Progress Bar 是一个功能强大的 Obsidian 插件。
 
-Display low-fi text progress bars in your notes.
+在笔记中显示低保真文本进度条。
 
 通过 Text Progress Bar,您可以:
 
@@ -202,7 +202,7 @@ Display low-fi text progress bars in your notes.
 - **下载量**：6.9K
 - **最后更新**：2023-04-28
 - **GitHub**：[michaeladams/obsidian-text-progress-bar](https://github.com/michaeladams/obsidian-text-progress-bar)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

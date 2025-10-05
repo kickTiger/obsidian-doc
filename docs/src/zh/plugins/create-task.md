@@ -2,11 +2,11 @@
 title: Create Task
 description: Create tasks faster from anywhere.
 author: Simon Knittel
-downloads: 3265
+downloads: 3268
 updated: 1717832842000
 repo: simonknittel/obsidian-create-task
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Create Task"
   description="Create tasks faster from anywhere."
   author="Simon Knittel"
-  :downloads="3265"
+  :downloads="3268"
   :updated="1717832842000"
   repo="simonknittel/obsidian-create-task"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create tasks faster from anywhere.
 - **下载量**：3.3K
 - **最后更新**：2024-06-08
 - **GitHub**：[simonknittel/obsidian-create-task](https://github.com/simonknittel/obsidian-create-task)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Vika Sync
-description: Sync your note to Vika.
+description: 将笔记同步到 Vika。
 author: romantic-black
 downloads: 3961
 updated: 1668679928000
 repo: romantic-black/obsidain-vika-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vika-sync"
   name="Vika Sync"
-  description="Sync your note to Vika."
+  description="将笔记同步到 Vika。"
   author="romantic-black"
   :downloads="3961"
   :updated="1668679928000"
   repo="romantic-black/obsidain-vika-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vika Sync 是一个功能强大的 Obsidian 插件。
 
-Sync your note to Vika.
+将笔记同步到 Vika。
 
 通过 Vika Sync,您可以:
 
@@ -202,7 +202,7 @@ Sync your note to Vika.
 - **下载量**：4.0K
 - **最后更新**：2022-11-17
 - **GitHub**：[romantic-black/obsidain-vika-sync](https://github.com/romantic-black/obsidain-vika-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Xournal++
-description: Integration with Xournal++ for handwritten notes and annotations.
+description: 与 Xournal++ 集成，用于手写笔记和注释。
 author: Jon Jampen
-downloads: 5248
+downloads: 5257
 updated: 1750488824000
 repo: jonjampen/obsidian-xournalpp
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="xournalpp"
   name="Xournal++"
-  description="Integration with Xournal++ for handwritten notes and annotations."
+  description="与 Xournal++ 集成，用于手写笔记和注释。"
   author="Jon Jampen"
-  :downloads="5248"
+  :downloads="5257"
   :updated="1750488824000"
   repo="jonjampen/obsidian-xournalpp"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Xournal++ 是一个功能强大的 Obsidian 插件。
 
-Integration with Xournal++ for handwritten notes and annotations.
+与 Xournal++ 集成，用于手写笔记和注释。
 
 通过 Xournal++,您可以:
 
@@ -199,10 +199,10 @@ Integration with Xournal++ for handwritten notes and annotations.
 - **插件 ID**：xournalpp
 - **作者**：Jon Jampen
 - **当前版本**：v1.0.0
-- **下载量**：5.2K
+- **下载量**：5.3K
 - **最后更新**：2025-06-21
 - **GitHub**：[jonjampen/obsidian-xournalpp](https://github.com/jonjampen/obsidian-xournalpp)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

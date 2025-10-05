@@ -1,12 +1,12 @@
 ---
 title: Script Launcher
-description: Add scripts shortcuts on your bottom bar and launch them.
+description: 在底部栏添加脚本快捷方式并启动它们。
 author: Alessandro Ruggiero
-downloads: 8622
+downloads: 8623
 updated: 1756671313000
 repo: AlessandroRuggiero/script-launcher
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="script-launcher"
   name="Script Launcher"
-  description="Add scripts shortcuts on your bottom bar and launch them."
+  description="在底部栏添加脚本快捷方式并启动它们。"
   author="Alessandro Ruggiero"
-  :downloads="8622"
+  :downloads="8623"
   :updated="1756671313000"
   repo="AlessandroRuggiero/script-launcher"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Script Launcher 是一个功能强大的 Obsidian 插件。
 
-Add scripts shortcuts on your bottom bar and launch them.
+在底部栏添加脚本快捷方式并启动它们。
 
 通过 Script Launcher,您可以:
 
@@ -202,7 +202,7 @@ Add scripts shortcuts on your bottom bar and launch them.
 - **下载量**：8.6K
 - **最后更新**：2025-09-01
 - **GitHub**：[AlessandroRuggiero/script-launcher](https://github.com/AlessandroRuggiero/script-launcher)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

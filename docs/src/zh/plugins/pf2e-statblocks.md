@@ -1,12 +1,12 @@
 ---
 title: PF2e Statblocks
-description: Render Pathfinder 2e statblocks cleanly, using only Markdown-based syntax.
+description: 只使用基于 Markdown 的语法，简洁地渲染 Pathfinder 2e 状态块。
 author: Tyler Pixley
-downloads: 10049
+downloads: 10065
 updated: 1724136736000
 repo: pixley/pf2e-statblock-for-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pf2e-statblocks"
   name="PF2e Statblocks"
-  description="Render Pathfinder 2e statblocks cleanly, using only Markdown-based syntax."
+  description="只使用基于 Markdown 的语法，简洁地渲染 Pathfinder 2e 状态块。"
   author="Tyler Pixley"
-  :downloads="10049"
+  :downloads="10065"
   :updated="1724136736000"
   repo="pixley/pf2e-statblock-for-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 PF2e Statblocks 是一个功能强大的 Obsidian 插件。
 
-Render Pathfinder 2e statblocks cleanly, using only Markdown-based syntax.
+只使用基于 Markdown 的语法，简洁地渲染 Pathfinder 2e 状态块。
 
 通过 PF2e Statblocks,您可以:
 
@@ -199,10 +199,10 @@ Render Pathfinder 2e statblocks cleanly, using only Markdown-based syntax.
 - **插件 ID**：pf2e-statblocks
 - **作者**：Tyler Pixley
 - **当前版本**：v1.0.0
-- **下载量**：10.0K
+- **下载量**：10.1K
 - **最后更新**：2024-08-20
 - **GitHub**：[pixley/pf2e-statblock-for-obsidian](https://github.com/pixley/pf2e-statblock-for-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

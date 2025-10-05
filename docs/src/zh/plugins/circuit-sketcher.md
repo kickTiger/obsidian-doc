@@ -2,11 +2,11 @@
 title: Circuit Sketcher
 description: Draw circuits on a canvas using circuit-sketcher-core.
 author: Code Forge Temple
-downloads: 1828
+downloads: 1840
 updated: 1755007988000
 repo: code-forge-temple/circuit-sketcher-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Circuit Sketcher"
   description="Draw circuits on a canvas using circuit-sketcher-core."
   author="Code Forge Temple"
-  :downloads="1828"
+  :downloads="1840"
   :updated="1755007988000"
   repo="code-forge-temple/circuit-sketcher-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Draw circuits on a canvas using circuit-sketcher-core.
 - **下载量**：1.8K
 - **最后更新**：2025-08-12
 - **GitHub**：[code-forge-temple/circuit-sketcher-obsidian-plugin](https://github.com/code-forge-temple/circuit-sketcher-obsidian-plugin)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

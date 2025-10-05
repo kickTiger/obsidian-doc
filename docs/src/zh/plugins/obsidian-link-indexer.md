@@ -1,12 +1,12 @@
 ---
 title: Link indexer
-description: Generate index notes with links based on various conditions.
+description: 根据各种条件生成带有链接的索引说明。
 author: Yuliya Bagriy
-downloads: 7178
+downloads: 7179
 updated: 1607203333000
 repo: aviskase/obsidian-link-indexer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-link-indexer"
   name="Link indexer"
-  description="Generate index notes with links based on various conditions."
+  description="根据各种条件生成带有链接的索引说明。"
   author="Yuliya Bagriy"
-  :downloads="7178"
+  :downloads="7179"
   :updated="1607203333000"
   repo="aviskase/obsidian-link-indexer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Link indexer 是一个功能强大的 Obsidian 插件。
 
-Generate index notes with links based on various conditions.
+根据各种条件生成带有链接的索引说明。
 
 通过 Link indexer,您可以:
 
@@ -202,7 +202,7 @@ Generate index notes with links based on various conditions.
 - **下载量**：7.2K
 - **最后更新**：2020-12-06
 - **GitHub**：[aviskase/obsidian-link-indexer](https://github.com/aviskase/obsidian-link-indexer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

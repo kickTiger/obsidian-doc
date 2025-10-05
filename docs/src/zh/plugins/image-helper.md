@@ -2,11 +2,11 @@
 title: Image Helper
 description: Context menu to convert image format in reading view.
 author: Chongmyung Park
-downloads: 2189
+downloads: 2190
 updated: 1702346844000
 repo: byfun/obsidian-image-helper
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Image Helper"
   description="Context menu to convert image format in reading view."
   author="Chongmyung Park"
-  :downloads="2189"
+  :downloads="2190"
   :updated="1702346844000"
   repo="byfun/obsidian-image-helper"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Context menu to convert image format in reading view.
 - **下载量**：2.2K
 - **最后更新**：2023-12-12
 - **GitHub**：[byfun/obsidian-image-helper](https://github.com/byfun/obsidian-image-helper)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

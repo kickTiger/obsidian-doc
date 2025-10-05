@@ -6,7 +6,7 @@ downloads: 2720
 updated: 1702370990000
 repo: RyotaUshio/obsidian-dynamic-line-height-cjk
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1702370990000"
   repo="RyotaUshio/obsidian-dynamic-line-height-cjk"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Dynamically adjust line height for lines &amp; paragraphs containing CJK charact
 - **下载量**：2.7K
 - **最后更新**：2023-12-12
 - **GitHub**：[RyotaUshio/obsidian-dynamic-line-height-cjk](https://github.com/RyotaUshio/obsidian-dynamic-line-height-cjk)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Fast Text Color
-description: Quickly apply fully integrated text coloring and formatting with a custom syntax and a keyboard-centric interface.
+description: 通过自定义语法和以键盘为中心的界面，快速应用完全集成的文本着色和格式化功能。
 author: Leon Holtmeier
-downloads: 38403
+downloads: 38483
 updated: 1745245682000
 repo: Superschnizel/obsidian-fast-text-color
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="fast-text-color"
   name="Fast Text Color"
-  description="Quickly apply fully integrated text coloring and formatting with a custom syntax and a keyboard-centric interface."
+  description="通过自定义语法和以键盘为中心的界面，快速应用完全集成的文本着色和格式化功能。"
   author="Leon Holtmeier"
-  :downloads="38403"
+  :downloads="38483"
   :updated="1745245682000"
   repo="Superschnizel/obsidian-fast-text-color"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Fast Text Color 是一个功能强大的 Obsidian 插件。
 
-Quickly apply fully integrated text coloring and formatting with a custom syntax and a keyboard-centric interface.
+通过自定义语法和以键盘为中心的界面，快速应用完全集成的文本着色和格式化功能。
 
 通过 Fast Text Color,您可以:
 
@@ -199,10 +199,10 @@ Quickly apply fully integrated text coloring and formatting with a custom syntax
 - **插件 ID**：fast-text-color
 - **作者**：Leon Holtmeier
 - **当前版本**：v1.0.0
-- **下载量**：38.4K
+- **下载量**：38.5K
 - **最后更新**：2025-04-21
 - **GitHub**：[Superschnizel/obsidian-fast-text-color](https://github.com/Superschnizel/obsidian-fast-text-color)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

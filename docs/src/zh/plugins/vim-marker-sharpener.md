@@ -6,7 +6,7 @@ downloads: 160
 updated: 1749541657000
 repo: artemDvoryadkin/obsidian-vim-marker-sharpener
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1749541657000"
   repo="artemDvoryadkin/obsidian-vim-marker-sharpener"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Text formatting commands in Vim mode. Supports applying styles (bold, italic, et
 - **下载量**：160
 - **最后更新**：2025-06-10
 - **GitHub**：[artemDvoryadkin/obsidian-vim-marker-sharpener](https://github.com/artemDvoryadkin/obsidian-vim-marker-sharpener)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

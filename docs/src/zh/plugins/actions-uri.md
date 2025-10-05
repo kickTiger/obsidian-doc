@@ -1,12 +1,12 @@
 ---
 title: Actions URI
-description: 'Add additional `x-callback-url` endpoints to the app for common actions — it''s a clean, super-charged addition to Obsidian URI.'
+description: '在应用程序中为常用操作添加额外的 `x-callback-url` 端点--这是 Obsidian URI 的一个简洁、超强的附加功能。'
 author: Carlo Zottmann
-downloads: 75604
+downloads: 75661
 updated: 1754399812000
 repo: czottmann/obsidian-actions-uri
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="actions-uri"
   name="Actions URI"
-  description="Add additional `x-callback-url` endpoints to the app for common actions — it&#39;s a clean, super-charged addition to Obsidian URI."
+  description="在应用程序中为常用操作添加额外的 `x-callback-url` 端点--这是 Obsidian URI 的一个简洁、超强的附加功能。"
   author="Carlo Zottmann"
-  :downloads="75604"
+  :downloads="75661"
   :updated="1754399812000"
   repo="czottmann/obsidian-actions-uri"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Actions URI 是一个功能强大的 Obsidian 插件。
 
-Add additional `x-callback-url` endpoints to the app for common actions — it&#39;s a clean, super-charged addition to Obsidian URI.
+在应用程序中为常用操作添加额外的 `x-callback-url` 端点--这是 Obsidian URI 的一个简洁、超强的附加功能。
 
 通过 Actions URI,您可以:
 
@@ -199,10 +199,10 @@ Add additional `x-callback-url` endpoints to the app for common actions — it&#
 - **插件 ID**：actions-uri
 - **作者**：Carlo Zottmann
 - **当前版本**：v1.0.0
-- **下载量**：75.6K
+- **下载量**：75.7K
 - **最后更新**：2025-08-05
 - **GitHub**：[czottmann/obsidian-actions-uri](https://github.com/czottmann/obsidian-actions-uri)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

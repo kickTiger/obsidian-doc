@@ -2,11 +2,11 @@
 title: Explorer Colors
 description: Set custom colors for files and folders.
 author: Scott Van der Zwet
-downloads: 1969
+downloads: 1970
 updated: 1735890460000
 repo: VaguelyElectric/obsidian-explorer-colors
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Explorer Colors"
   description="Set custom colors for files and folders."
   author="Scott Van der Zwet"
-  :downloads="1969"
+  :downloads="1970"
   :updated="1735890460000"
   repo="VaguelyElectric/obsidian-explorer-colors"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Set custom colors for files and folders.
 - **下载量**：2.0K
 - **最后更新**：2025-01-03
 - **GitHub**：[VaguelyElectric/obsidian-explorer-colors](https://github.com/VaguelyElectric/obsidian-explorer-colors)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

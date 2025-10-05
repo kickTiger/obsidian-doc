@@ -2,11 +2,11 @@
 title: Tree Diagram
 description: Convert directory structure formatted in tab-indented text to a tree diagram.
 author: limpido
-downloads: 390
+downloads: 391
 updated: 1749478524000
 repo: limpido/obsidian-tree-diagram
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Tree Diagram"
   description="Convert directory structure formatted in tab-indented text to a tree diagram."
   author="limpido"
-  :downloads="390"
+  :downloads="391"
   :updated="1749478524000"
   repo="limpido/obsidian-tree-diagram"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Convert directory structure formatted in tab-indented text to a tree diagram.
 - **插件 ID**：tree-diagram
 - **作者**：limpido
 - **当前版本**：v1.0.0
-- **下载量**：390
+- **下载量**：391
 - **最后更新**：2025-06-09
 - **GitHub**：[limpido/obsidian-tree-diagram](https://github.com/limpido/obsidian-tree-diagram)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

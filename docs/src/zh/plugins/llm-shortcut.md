@@ -2,11 +2,11 @@
 title: LLM Shortcut
 description: Provides a way to create shortcuts for commands powered by LLM capabilities.
 author: Viktor Chernodub
-downloads: 188
+downloads: 189
 updated: 1755960168000
 repo: chernodub/obsidian-llm-shortcut
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="LLM Shortcut"
   description="Provides a way to create shortcuts for commands powered by LLM capabilities."
   author="Viktor Chernodub"
-  :downloads="188"
+  :downloads="189"
   :updated="1755960168000"
   repo="chernodub/obsidian-llm-shortcut"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Provides a way to create shortcuts for commands powered by LLM capabilities.
 - **插件 ID**：llm-shortcut
 - **作者**：Viktor Chernodub
 - **当前版本**：v1.0.0
-- **下载量**：188
+- **下载量**：189
 - **最后更新**：2025-08-23
 - **GitHub**：[chernodub/obsidian-llm-shortcut](https://github.com/chernodub/obsidian-llm-shortcut)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

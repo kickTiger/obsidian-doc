@@ -2,11 +2,11 @@
 title: S3agle
 description: Use S3 providers and/or Eagle to manage vault attachments locally and remotely.
 author: Turner Monroe (turnercore)
-downloads: 745
+downloads: 748
 updated: 1724662481000
 repo: turnercore/s3agle
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="S3agle"
   description="Use S3 providers and/or Eagle to manage vault attachments locally and remotely."
   author="Turner Monroe (turnercore)"
-  :downloads="745"
+  :downloads="748"
   :updated="1724662481000"
   repo="turnercore/s3agle"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Use S3 providers and/or Eagle to manage vault attachments locally and remotely.
 - **插件 ID**：s3agle
 - **作者**：Turner Monroe (turnercore)
 - **当前版本**：v1.0.0
-- **下载量**：745
+- **下载量**：748
 - **最后更新**：2024-08-26
 - **GitHub**：[turnercore/s3agle](https://github.com/turnercore/s3agle)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

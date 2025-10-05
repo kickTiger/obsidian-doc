@@ -1,12 +1,12 @@
 ---
 title: Markdown Link Space Encoder
-description: 'Automatically encode spaces to %20 in Markdown-style links.'
+description: '在 Markdown 风格链接中自动将空格编码为 %20。'
 author: Ron Kosova
 downloads: 3692
 updated: 1689939846000
 repo: rkosova/obsidian-markdown-link-space-encoder
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="markdown-link-space-encoder"
   name="Markdown Link Space Encoder"
-  description="Automatically encode spaces to %20 in Markdown-style links."
+  description="在 Markdown 风格链接中自动将空格编码为 %20。"
   author="Ron Kosova"
   :downloads="3692"
   :updated="1689939846000"
   repo="rkosova/obsidian-markdown-link-space-encoder"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown Link Space Encoder 是一个功能强大的 Obsidian 插件。
 
-Automatically encode spaces to %20 in Markdown-style links.
+在 Markdown 风格链接中自动将空格编码为 %20。
 
 通过 Markdown Link Space Encoder,您可以:
 
@@ -202,7 +202,7 @@ Automatically encode spaces to %20 in Markdown-style links.
 - **下载量**：3.7K
 - **最后更新**：2023-07-21
 - **GitHub**：[rkosova/obsidian-markdown-link-space-encoder](https://github.com/rkosova/obsidian-markdown-link-space-encoder)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

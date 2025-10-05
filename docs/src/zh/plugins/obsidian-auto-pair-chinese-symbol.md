@@ -1,12 +1,12 @@
 ---
 title: Auto pair chinese symbol
-description: Auto-pair Chinese symbols.
+description: 自动配对中文符号。
 author: renmu123
 downloads: 11436
 updated: 1622902346000
 repo: renmu123/obsidian-auto-pair-chinese-symbol
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-auto-pair-chinese-symbol"
   name="Auto pair chinese symbol"
-  description="Auto-pair Chinese symbols."
+  description="自动配对中文符号。"
   author="renmu123"
   :downloads="11436"
   :updated="1622902346000"
   repo="renmu123/obsidian-auto-pair-chinese-symbol"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto pair chinese symbol 是一个功能强大的 Obsidian 插件。
 
-Auto-pair Chinese symbols.
+自动配对中文符号。
 
 通过 Auto pair chinese symbol,您可以:
 
@@ -202,7 +202,7 @@ Auto-pair Chinese symbols.
 - **下载量**：11.4K
 - **最后更新**：2021-06-05
 - **GitHub**：[renmu123/obsidian-auto-pair-chinese-symbol](https://github.com/renmu123/obsidian-auto-pair-chinese-symbol)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

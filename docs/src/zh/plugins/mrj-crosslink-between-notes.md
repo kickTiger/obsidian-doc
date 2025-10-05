@@ -1,12 +1,12 @@
 ---
 title: Add links to current note
-description: A command to add a link to the current note at the bottom of selected notes.
+description: 在选定笔记的底部添加当前笔记链接的命令。
 author: MrJackphil
-downloads: 11545
+downloads: 11546
 updated: 1619862951000
 repo: mrjackphil/obsidian-crosslink-between-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mrj-crosslink-between-notes"
   name="Add links to current note"
-  description="A command to add a link to the current note at the bottom of selected notes."
+  description="在选定笔记的底部添加当前笔记链接的命令。"
   author="MrJackphil"
-  :downloads="11545"
+  :downloads="11546"
   :updated="1619862951000"
   repo="mrjackphil/obsidian-crosslink-between-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Add links to current note 是一个功能强大的 Obsidian 插件。
 
-A command to add a link to the current note at the bottom of selected notes.
+在选定笔记的底部添加当前笔记链接的命令。
 
 通过 Add links to current note,您可以:
 
@@ -202,7 +202,7 @@ A command to add a link to the current note at the bottom of selected notes.
 - **下载量**：11.5K
 - **最后更新**：2021-05-01
 - **GitHub**：[mrjackphil/obsidian-crosslink-between-notes](https://github.com/mrjackphil/obsidian-crosslink-between-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

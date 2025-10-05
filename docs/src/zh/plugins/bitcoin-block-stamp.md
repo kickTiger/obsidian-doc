@@ -6,7 +6,7 @@ downloads: 480
 updated: 1714632339000
 repo: sfr0xyz/obsidian-bitcoin-block-stamp
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1714632339000"
   repo="sfr0xyz/obsidian-bitcoin-block-stamp"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Stamp your notes with the current Bitcoin block.
 - **下载量**：480
 - **最后更新**：2024-05-02
 - **GitHub**：[sfr0xyz/obsidian-bitcoin-block-stamp](https://github.com/sfr0xyz/obsidian-bitcoin-block-stamp)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

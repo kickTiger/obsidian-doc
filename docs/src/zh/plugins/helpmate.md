@@ -1,12 +1,12 @@
 ---
 title: HelpMate
-description: Add a sidebar view to see help sites for the plugins and themes you have installed.
+description: 添加侧边栏视图，查看已安装插件和主题的帮助网站。
 author: TfTHacker
-downloads: 10278
-updated: 1730818227000
+downloads: 10363
+updated: 1759562659000
 repo: TfTHacker/obsidian42-HelpMate
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="helpmate"
   name="HelpMate"
-  description="Add a sidebar view to see help sites for the plugins and themes you have installed."
+  description="添加侧边栏视图，查看已安装插件和主题的帮助网站。"
   author="TfTHacker"
-  :downloads="10278"
-  :updated="1730818227000"
+  :downloads="10363"
+  :updated="1759562659000"
   repo="TfTHacker/obsidian42-HelpMate"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 HelpMate 是一个功能强大的 Obsidian 插件。
 
-Add a sidebar view to see help sites for the plugins and themes you have installed.
+添加侧边栏视图，查看已安装插件和主题的帮助网站。
 
 通过 HelpMate,您可以:
 
@@ -181,7 +181,7 @@ Add a sidebar view to see help sites for the plugins and themes you have install
 
 ### 最新版本：v1.0.0
 
-更新时间：2024-11-05
+更新时间：2025-10-04
 
 **更新内容**：
 - 请访问 [GitHub Releases](https://github.com/TfTHacker/obsidian42-HelpMate/releases) 查看详细更新日志
@@ -199,10 +199,10 @@ Add a sidebar view to see help sites for the plugins and themes you have install
 - **插件 ID**：helpmate
 - **作者**：TfTHacker
 - **当前版本**：v1.0.0
-- **下载量**：10.3K
-- **最后更新**：2024-11-05
+- **下载量**：10.4K
+- **最后更新**：2025-10-04
 - **GitHub**：[TfTHacker/obsidian42-HelpMate](https://github.com/TfTHacker/obsidian42-HelpMate)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Import Attachments+
 description: Import and manage attachments by enabling moving and linking
 author: Andrea Alberti
-downloads: 3204
+downloads: 3205
 updated: 1731879091000
 repo: alberti42/obsidian-import-attachments-plus
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Import Attachments+"
   description="Import and manage attachments by enabling moving and linking"
   author="Andrea Alberti"
-  :downloads="3204"
+  :downloads="3205"
   :updated="1731879091000"
   repo="alberti42/obsidian-import-attachments-plus"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Import and manage attachments by enabling moving and linking
 - **下载量**：3.2K
 - **最后更新**：2024-11-18
 - **GitHub**：[alberti42/obsidian-import-attachments-plus](https://github.com/alberti42/obsidian-import-attachments-plus)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

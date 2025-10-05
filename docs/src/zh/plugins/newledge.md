@@ -2,11 +2,11 @@
 title: 新枝Newledge
 description: Import Newledge data.
 author: 新枝Newledge
-downloads: 714
+downloads: 715
 updated: 1747491026000
 repo: DepartingAgain/obsidian-newledge
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="新枝Newledge"
   description="Import Newledge data."
   author="新枝Newledge"
-  :downloads="714"
+  :downloads="715"
   :updated="1747491026000"
   repo="DepartingAgain/obsidian-newledge"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Import Newledge data.
 - **插件 ID**：newledge
 - **作者**：新枝Newledge
 - **当前版本**：v1.0.0
-- **下载量**：714
+- **下载量**：715
 - **最后更新**：2025-05-17
 - **GitHub**：[DepartingAgain/obsidian-newledge](https://github.com/DepartingAgain/obsidian-newledge)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

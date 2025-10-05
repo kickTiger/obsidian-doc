@@ -1,12 +1,12 @@
 ---
 title: Automatic Table Of Contents
-description: Create a table of contents in a note that updates itself when the note changes.
+description: 在备注中创建目录，当备注发生变化时，目录会自动更新。
 author: Johan Satgé
-downloads: 98351
+downloads: 98478
 updated: 1748203926000
 repo: johansatge/obsidian-automatic-table-of-contents
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="automatic-table-of-contents"
   name="Automatic Table Of Contents"
-  description="Create a table of contents in a note that updates itself when the note changes."
+  description="在备注中创建目录，当备注发生变化时，目录会自动更新。"
   author="Johan Satgé"
-  :downloads="98351"
+  :downloads="98478"
   :updated="1748203926000"
   repo="johansatge/obsidian-automatic-table-of-contents"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Automatic Table Of Contents 是一个功能强大的 Obsidian 插件。
 
-Create a table of contents in a note that updates itself when the note changes.
+在备注中创建目录，当备注发生变化时，目录会自动更新。
 
 通过 Automatic Table Of Contents,您可以:
 
@@ -199,10 +199,10 @@ Create a table of contents in a note that updates itself when the note changes.
 - **插件 ID**：automatic-table-of-contents
 - **作者**：Johan Satgé
 - **当前版本**：v1.0.0
-- **下载量**：98.4K
+- **下载量**：98.5K
 - **最后更新**：2025-05-26
 - **GitHub**：[johansatge/obsidian-automatic-table-of-contents](https://github.com/johansatge/obsidian-automatic-table-of-contents)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

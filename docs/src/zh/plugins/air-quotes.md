@@ -1,12 +1,12 @@
 ---
 title: Air Quotes
-description: Search and insert quotes from a source text as you type.
+description: 在输入时搜索并插入源文本中的引文。
 author: Alan Grainger
-downloads: 5425
+downloads: 5426
 updated: 1742786336000
 repo: alangrainger/obsidian-air-quotes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="air-quotes"
   name="Air Quotes"
-  description="Search and insert quotes from a source text as you type."
+  description="在输入时搜索并插入源文本中的引文。"
   author="Alan Grainger"
-  :downloads="5425"
+  :downloads="5426"
   :updated="1742786336000"
   repo="alangrainger/obsidian-air-quotes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Air Quotes 是一个功能强大的 Obsidian 插件。
 
-Search and insert quotes from a source text as you type.
+在输入时搜索并插入源文本中的引文。
 
 通过 Air Quotes,您可以:
 
@@ -202,7 +202,7 @@ Search and insert quotes from a source text as you type.
 - **下载量**：5.4K
 - **最后更新**：2025-03-24
 - **GitHub**：[alangrainger/obsidian-air-quotes](https://github.com/alangrainger/obsidian-air-quotes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

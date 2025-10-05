@@ -1,12 +1,12 @@
 ---
 title: AI Research Assistant
-description: 'A Prompt Engineering research utility for generative AI models like OpenAI''s ChatGPT that facilitates archiving and searching conversations and live editing a conversation''s context/memory.'
+description: Prompt Engineering 是一种用于生成式人工智能模型（如 OpenAI 的 ChatGPT）的研究工具，可帮助存档和搜索对话，并实时编辑对话的上下文/内存。
 author: Interweb Alchemy
-downloads: 8586
+downloads: 8590
 updated: 1698673056000
 repo: InterwebAlchemy/obsidian-ai-research-assistant
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ai-research-assistant"
   name="AI Research Assistant"
-  description="A Prompt Engineering research utility for generative AI models like OpenAI&#39;s ChatGPT that facilitates archiving and searching conversations and live editing a conversation&#39;s context/memory."
+  description="Prompt Engineering 是一种用于生成式人工智能模型（如 OpenAI 的 ChatGPT）的研究工具，可帮助存档和搜索对话，并实时编辑对话的上下文/内存。"
   author="Interweb Alchemy"
-  :downloads="8586"
+  :downloads="8590"
   :updated="1698673056000"
   repo="InterwebAlchemy/obsidian-ai-research-assistant"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AI Research Assistant 是一个功能强大的 Obsidian 插件。
 
-A Prompt Engineering research utility for generative AI models like OpenAI&#39;s ChatGPT that facilitates archiving and searching conversations and live editing a conversation&#39;s context/memory.
+Prompt Engineering 是一种用于生成式人工智能模型（如 OpenAI 的 ChatGPT）的研究工具，可帮助存档和搜索对话，并实时编辑对话的上下文/内存。
 
 通过 AI Research Assistant,您可以:
 
@@ -202,7 +202,7 @@ A Prompt Engineering research utility for generative AI models like OpenAI&#39;s
 - **下载量**：8.6K
 - **最后更新**：2023-10-30
 - **GitHub**：[InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

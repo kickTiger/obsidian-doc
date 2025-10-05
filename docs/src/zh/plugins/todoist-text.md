@@ -1,12 +1,12 @@
 ---
 title: Todoist Text
-description: Integrate your Todoist tasks with Markdown checkboxes.
+description: 用 Markdown 复选框整合 Todoist 任务。
 author: Wes Moncrief
-downloads: 15660
+downloads: 15669
 updated: 1743873885000
 repo: wesmoncrief/obsidian-todoist-text
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="todoist-text"
   name="Todoist Text"
-  description="Integrate your Todoist tasks with Markdown checkboxes."
+  description="用 Markdown 复选框整合 Todoist 任务。"
   author="Wes Moncrief"
-  :downloads="15660"
+  :downloads="15669"
   :updated="1743873885000"
   repo="wesmoncrief/obsidian-todoist-text"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Todoist Text 是一个功能强大的 Obsidian 插件。
 
-Integrate your Todoist tasks with Markdown checkboxes.
+用 Markdown 复选框整合 Todoist 任务。
 
 通过 Todoist Text,您可以:
 
@@ -202,7 +202,7 @@ Integrate your Todoist tasks with Markdown checkboxes.
 - **下载量**：15.7K
 - **最后更新**：2025-04-06
 - **GitHub**：[wesmoncrief/obsidian-todoist-text](https://github.com/wesmoncrief/obsidian-todoist-text)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

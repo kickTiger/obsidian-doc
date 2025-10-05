@@ -1,12 +1,12 @@
 ---
 title: Touch Bar Macros
-description: 'Run custom macros from your Mac''s Touch Bar.'
+description: 通过 Mac 的 Touch Bar 运行自定义宏。
 author: Frostplexx
-downloads: 3611
+downloads: 3612
 updated: 1688123301000
 repo: frostplexx/obsidian-touchbar-macros
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="touchbar-macros"
   name="Touch Bar Macros"
-  description="Run custom macros from your Mac&#39;s Touch Bar."
+  description="通过 Mac 的 Touch Bar 运行自定义宏。"
   author="Frostplexx"
-  :downloads="3611"
+  :downloads="3612"
   :updated="1688123301000"
   repo="frostplexx/obsidian-touchbar-macros"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Touch Bar Macros 是一个功能强大的 Obsidian 插件。
 
-Run custom macros from your Mac&#39;s Touch Bar.
+通过 Mac 的 Touch Bar 运行自定义宏。
 
 通过 Touch Bar Macros,您可以:
 
@@ -202,7 +202,7 @@ Run custom macros from your Mac&#39;s Touch Bar.
 - **下载量**：3.6K
 - **最后更新**：2023-06-30
 - **GitHub**：[frostplexx/obsidian-touchbar-macros](https://github.com/frostplexx/obsidian-touchbar-macros)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

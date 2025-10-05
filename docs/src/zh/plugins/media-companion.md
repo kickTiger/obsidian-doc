@@ -1,12 +1,12 @@
 ---
 title: Media Companion
-description: Creates a searchable gallery and sidecar files for attachments such as images and videos. The sidecar files allow you to add notes and tags to your media files.
+description: 为图片和视频等附件创建可搜索的图库和侧边文件。通过侧边文件，您可以为媒体文件添加注释和标签。
 author: Nick de Bruin
-downloads: 4045
+downloads: 4053
 updated: 1753604572000
 repo: Nick-de-Bruin/obsidian-media-companion
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="media-companion"
   name="Media Companion"
-  description="Creates a searchable gallery and sidecar files for attachments such as images and videos. The sidecar files allow you to add notes and tags to your media files."
+  description="为图片和视频等附件创建可搜索的图库和侧边文件。通过侧边文件，您可以为媒体文件添加注释和标签。"
   author="Nick de Bruin"
-  :downloads="4045"
+  :downloads="4053"
   :updated="1753604572000"
   repo="Nick-de-Bruin/obsidian-media-companion"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Media Companion 是一个功能强大的 Obsidian 插件。
 
-Creates a searchable gallery and sidecar files for attachments such as images and videos. The sidecar files allow you to add notes and tags to your media files.
+为图片和视频等附件创建可搜索的图库和侧边文件。通过侧边文件，您可以为媒体文件添加注释和标签。
 
 通过 Media Companion,您可以:
 
@@ -199,10 +199,10 @@ Creates a searchable gallery and sidecar files for attachments such as images an
 - **插件 ID**：media-companion
 - **作者**：Nick de Bruin
 - **当前版本**：v1.0.0
-- **下载量**：4.0K
+- **下载量**：4.1K
 - **最后更新**：2025-07-27
 - **GitHub**：[Nick-de-Bruin/obsidian-media-companion](https://github.com/Nick-de-Bruin/obsidian-media-companion)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

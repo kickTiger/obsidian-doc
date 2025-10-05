@@ -1,14 +1,14 @@
 ---
 title: Quick snippets and navigation
-description: 'Keyboard navigation up/down for headings
-- Configurable default code block and callout
-- Copy code block via keyboard shortcut.'
+description: '标题的键盘向上/向下导航
+- 可配置默认代码块和呼出
+- 通过键盘快捷键复制代码块'
 author: '@aciq'
-downloads: 7232
+downloads: 7236
 updated: 1740849344000
 repo: ieviev/obsidian-keyboard-shortcuts
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,15 +17,15 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quick-snippets-and-navigation"
   name="Quick snippets and navigation"
-  description="Keyboard navigation up/down for headings
-- Configurable default code block and callout
-- Copy code block via keyboard shortcut."
+  description="标题的键盘向上/向下导航
+- 可配置默认代码块和呼出
+- 通过键盘快捷键复制代码块"
   author="@aciq"
-  :downloads="7232"
+  :downloads="7236"
   :updated="1740849344000"
   repo="ieviev/obsidian-keyboard-shortcuts"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -33,9 +33,9 @@ pageClass: plugin-detail-page
 
 Quick snippets and navigation 是一个功能强大的 Obsidian 插件。
 
-Keyboard navigation up/down for headings
-- Configurable default code block and callout
-- Copy code block via keyboard shortcut.
+标题的键盘向上/向下导航
+- 可配置默认代码块和呼出
+- 通过键盘快捷键复制代码块
 
 通过 Quick snippets and navigation,您可以:
 
@@ -208,7 +208,7 @@ Keyboard navigation up/down for headings
 - **下载量**：7.2K
 - **最后更新**：2025-03-02
 - **GitHub**：[ieviev/obsidian-keyboard-shortcuts](https://github.com/ieviev/obsidian-keyboard-shortcuts)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

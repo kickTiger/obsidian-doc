@@ -1,12 +1,12 @@
 ---
 title: Media Notes
-description: Take notes on YouTube videos and podcasts with media controls and timestamps.
+description: 利用媒体控制和时间戳，记录 YouTube 视频和播客。
 author: jemstelos
-downloads: 20680
+downloads: 20697
 updated: 1724475961000
 repo: jemstelos/obsidian-media-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="media-notes"
   name="Media Notes"
-  description="Take notes on YouTube videos and podcasts with media controls and timestamps."
+  description="利用媒体控制和时间戳，记录 YouTube 视频和播客。"
   author="jemstelos"
-  :downloads="20680"
+  :downloads="20697"
   :updated="1724475961000"
   repo="jemstelos/obsidian-media-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Media Notes 是一个功能强大的 Obsidian 插件。
 
-Take notes on YouTube videos and podcasts with media controls and timestamps.
+利用媒体控制和时间戳，记录 YouTube 视频和播客。
 
 通过 Media Notes,您可以:
 
@@ -202,7 +202,7 @@ Take notes on YouTube videos and podcasts with media controls and timestamps.
 - **下载量**：20.7K
 - **最后更新**：2024-08-24
 - **GitHub**：[jemstelos/obsidian-media-notes](https://github.com/jemstelos/obsidian-media-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

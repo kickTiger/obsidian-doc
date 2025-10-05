@@ -2,11 +2,11 @@
 title: ai-writer
 description: Use AI to generate high-quality articles with knowledge fragments.
 author: Donovan Ye
-downloads: 1141
+downloads: 1142
 updated: 1713860651000
 repo: Donovan-Ye/obsidian-ai-writer-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="ai-writer"
   description="Use AI to generate high-quality articles with knowledge fragments."
   author="Donovan Ye"
-  :downloads="1141"
+  :downloads="1142"
   :updated="1713860651000"
   repo="Donovan-Ye/obsidian-ai-writer-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Use AI to generate high-quality articles with knowledge fragments.
 - **下载量**：1.1K
 - **最后更新**：2024-04-23
 - **GitHub**：[Donovan-Ye/obsidian-ai-writer-plugin](https://github.com/Donovan-Ye/obsidian-ai-writer-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

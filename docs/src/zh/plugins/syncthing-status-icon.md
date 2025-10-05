@@ -2,11 +2,11 @@
 title: Syncthing status icon
 description: Displays a status icon in the status bar showing whether Syncthing is running locally or not.
 author: Diego Viero
-downloads: 1565
+downloads: 1573
 updated: 1756986893000
 repo: Diego-Viero/Syncthing-status-icon-Obsidian-plugin
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Syncthing status icon"
   description="Displays a status icon in the status bar showing whether Syncthing is running locally or not."
   author="Diego Viero"
-  :downloads="1565"
+  :downloads="1573"
   :updated="1756986893000"
   repo="Diego-Viero/Syncthing-status-icon-Obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Displays a status icon in the status bar showing whether Syncthing is running lo
 - **下载量**：1.6K
 - **最后更新**：2025-09-04
 - **GitHub**：[Diego-Viero/Syncthing-status-icon-Obsidian-plugin](https://github.com/Diego-Viero/Syncthing-status-icon-Obsidian-plugin)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

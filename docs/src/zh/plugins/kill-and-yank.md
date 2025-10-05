@@ -1,12 +1,12 @@
 ---
 title: Kill and Yank
-description: Enable kill and yank (like Emacs) in the editor.
+description: 在编辑器中启用 kill 和 yank（如 Emacs）功能。
 author: INOUE Takuya
 downloads: 3891
 updated: 1678811198000
 repo: inouetakuya/obsidian-kill-and-yank
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="kill-and-yank"
   name="Kill and Yank"
-  description="Enable kill and yank (like Emacs) in the editor."
+  description="在编辑器中启用 kill 和 yank（如 Emacs）功能。"
   author="INOUE Takuya"
   :downloads="3891"
   :updated="1678811198000"
   repo="inouetakuya/obsidian-kill-and-yank"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Kill and Yank 是一个功能强大的 Obsidian 插件。
 
-Enable kill and yank (like Emacs) in the editor.
+在编辑器中启用 kill 和 yank（如 Emacs）功能。
 
 通过 Kill and Yank,您可以:
 
@@ -202,7 +202,7 @@ Enable kill and yank (like Emacs) in the editor.
 - **下载量**：3.9K
 - **最后更新**：2023-03-15
 - **GitHub**：[inouetakuya/obsidian-kill-and-yank](https://github.com/inouetakuya/obsidian-kill-and-yank)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: WebDAV Image Uploader
 description: Uploads, downloads and deletes images on WebDAV server within notes.
 author: ste
-downloads: 218
+downloads: 220
 updated: 1758778060000
 repo: Koishiiko/obsidian-webdav-image-uploader
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="WebDAV Image Uploader"
   description="Uploads, downloads and deletes images on WebDAV server within notes."
   author="ste"
-  :downloads="218"
+  :downloads="220"
   :updated="1758778060000"
   repo="Koishiiko/obsidian-webdav-image-uploader"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Uploads, downloads and deletes images on WebDAV server within notes.
 - **插件 ID**：webdav-image-uploader
 - **作者**：ste
 - **当前版本**：v1.0.0
-- **下载量**：218
+- **下载量**：220
 - **最后更新**：2025-09-25
 - **GitHub**：[Koishiiko/obsidian-webdav-image-uploader](https://github.com/Koishiiko/obsidian-webdav-image-uploader)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

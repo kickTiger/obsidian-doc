@@ -1,12 +1,12 @@
 ---
 title: Datepicker
-description: Use a date picker to modify and insert date/time anywhere in your markdown notes.
+description: 使用日期选择器在标记符注释中的任意位置修改和插入日期/时间。
 author: Mostafa Mohamed
-downloads: 6909
+downloads: 6915
 updated: 1753025341000
 repo: joycode-hub/datepicker-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="datepicker"
   name="Datepicker"
-  description="Use a date picker to modify and insert date/time anywhere in your markdown notes."
+  description="使用日期选择器在标记符注释中的任意位置修改和插入日期/时间。"
   author="Mostafa Mohamed"
-  :downloads="6909"
+  :downloads="6915"
   :updated="1753025341000"
   repo="joycode-hub/datepicker-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Datepicker 是一个功能强大的 Obsidian 插件。
 
-Use a date picker to modify and insert date/time anywhere in your markdown notes.
+使用日期选择器在标记符注释中的任意位置修改和插入日期/时间。
 
 通过 Datepicker,您可以:
 
@@ -202,7 +202,7 @@ Use a date picker to modify and insert date/time anywhere in your markdown notes
 - **下载量**：6.9K
 - **最后更新**：2025-07-20
 - **GitHub**：[joycode-hub/datepicker-plugin](https://github.com/joycode-hub/datepicker-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Quran Lookup
-description: Easily add Quran verses and translations.
+description: 轻松添加古兰经经文和翻译。
 author: Abu Ibrahim
 downloads: 5105
 updated: 1734323923000
 repo: abuibrahim2/quranlookup
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-quran-lookup"
   name="Quran Lookup"
-  description="Easily add Quran verses and translations."
+  description="轻松添加古兰经经文和翻译。"
   author="Abu Ibrahim"
   :downloads="5105"
   :updated="1734323923000"
   repo="abuibrahim2/quranlookup"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Quran Lookup 是一个功能强大的 Obsidian 插件。
 
-Easily add Quran verses and translations.
+轻松添加古兰经经文和翻译。
 
 通过 Quran Lookup,您可以:
 
@@ -202,7 +202,7 @@ Easily add Quran verses and translations.
 - **下载量**：5.1K
 - **最后更新**：2024-12-16
 - **GitHub**：[abuibrahim2/quranlookup](https://github.com/abuibrahim2/quranlookup)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

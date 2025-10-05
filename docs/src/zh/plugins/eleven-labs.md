@@ -1,12 +1,12 @@
 ---
 title: Eleven Labs
-description: Turn your notes into text-to-speech audio files with Eleven Labs.
+description: 使用 Eleven Labs 将笔记转化为文本转语音音频文件。
 author: Mark Charles
-downloads: 4910
+downloads: 4912
 updated: 1701968135000
 repo: veritas1/eleven-labs-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="eleven-labs"
   name="Eleven Labs"
-  description="Turn your notes into text-to-speech audio files with Eleven Labs."
+  description="使用 Eleven Labs 将笔记转化为文本转语音音频文件。"
   author="Mark Charles"
-  :downloads="4910"
+  :downloads="4912"
   :updated="1701968135000"
   repo="veritas1/eleven-labs-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Eleven Labs 是一个功能强大的 Obsidian 插件。
 
-Turn your notes into text-to-speech audio files with Eleven Labs.
+使用 Eleven Labs 将笔记转化为文本转语音音频文件。
 
 通过 Eleven Labs,您可以:
 
@@ -202,7 +202,7 @@ Turn your notes into text-to-speech audio files with Eleven Labs.
 - **下载量**：4.9K
 - **最后更新**：2023-12-08
 - **GitHub**：[veritas1/eleven-labs-obsidian-plugin](https://github.com/veritas1/eleven-labs-obsidian-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

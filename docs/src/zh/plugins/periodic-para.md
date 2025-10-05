@@ -1,12 +1,12 @@
 ---
 title: LifeOS
-description: Life management system.
+description: 生活管理系统。
 author: YiBing Lin
-downloads: 38228
+downloads: 38249
 updated: 1758342958000
 repo: quanru/obsidian-lifeos
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="periodic-para"
   name="LifeOS"
-  description="Life management system."
+  description="生活管理系统。"
   author="YiBing Lin"
-  :downloads="38228"
+  :downloads="38249"
   :updated="1758342958000"
   repo="quanru/obsidian-lifeos"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 LifeOS 是一个功能强大的 Obsidian 插件。
 
-Life management system.
+生活管理系统。
 
 通过 LifeOS,您可以:
 
@@ -202,7 +202,7 @@ Life management system.
 - **下载量**：38.2K
 - **最后更新**：2025-09-20
 - **GitHub**：[quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

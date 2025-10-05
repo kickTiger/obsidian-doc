@@ -1,12 +1,12 @@
 ---
 title: ICS
-description: Add events from calendar ics on the web to daily notes on demand. Includes vdir support. Daily Planner, Templater and Dataview friendly.
+description: 按需将网络日历中的事件添加到每日笔记中。包括 vdir 支持。每日计划器、模板和数据视图友好。
 author: Cloud Atlas
-downloads: 20453
+downloads: 20480
 updated: 1758914651000
 repo: cloud-atlas-ai/obsidian-ics
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ics"
   name="ICS"
-  description="Add events from calendar ics on the web to daily notes on demand. Includes vdir support. Daily Planner, Templater and Dataview friendly."
+  description="按需将网络日历中的事件添加到每日笔记中。包括 vdir 支持。每日计划器、模板和数据视图友好。"
   author="Cloud Atlas"
-  :downloads="20453"
+  :downloads="20480"
   :updated="1758914651000"
   repo="cloud-atlas-ai/obsidian-ics"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ICS 是一个功能强大的 Obsidian 插件。
 
-Add events from calendar ics on the web to daily notes on demand. Includes vdir support. Daily Planner, Templater and Dataview friendly.
+按需将网络日历中的事件添加到每日笔记中。包括 vdir 支持。每日计划器、模板和数据视图友好。
 
 通过 ICS,您可以:
 
@@ -202,7 +202,7 @@ Add events from calendar ics on the web to daily notes on demand. Includes vdir 
 - **下载量**：20.5K
 - **最后更新**：2025-09-27
 - **GitHub**：[cloud-atlas-ai/obsidian-ics](https://github.com/cloud-atlas-ai/obsidian-ics)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

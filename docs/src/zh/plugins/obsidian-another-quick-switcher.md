@@ -1,12 +1,12 @@
 ---
 title: Another Quick Switcher
-description: Another choice of Quick switcher.
+description: 快速切换器的另一种选择。
 author: tadashi-aikawa
-downloads: 112850
+downloads: 112984
 updated: 1759274027000
 repo: tadashi-aikawa/obsidian-another-quick-switcher
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-another-quick-switcher"
   name="Another Quick Switcher"
-  description="Another choice of Quick switcher."
+  description="快速切换器的另一种选择。"
   author="tadashi-aikawa"
-  :downloads="112850"
+  :downloads="112984"
   :updated="1759274027000"
   repo="tadashi-aikawa/obsidian-another-quick-switcher"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Another Quick Switcher 是一个功能强大的 Obsidian 插件。
 
-Another choice of Quick switcher.
+快速切换器的另一种选择。
 
 通过 Another Quick Switcher,您可以:
 
@@ -199,10 +199,10 @@ Another choice of Quick switcher.
 - **插件 ID**：obsidian-another-quick-switcher
 - **作者**：tadashi-aikawa
 - **当前版本**：v1.0.0
-- **下载量**：112.8K
+- **下载量**：113.0K
 - **最后更新**：2025-10-01
 - **GitHub**：[tadashi-aikawa/obsidian-another-quick-switcher](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

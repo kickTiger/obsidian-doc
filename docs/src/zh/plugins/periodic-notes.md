@@ -1,12 +1,12 @@
 ---
 title: Periodic Notes
-description: Create/manage your daily, weekly, and monthly notes.
+description: 创建/管理日记、周记、月记等。
 author: Liam Cain
-downloads: 519201
+downloads: 519676
 updated: 1649948603000
 repo: liamcain/obsidian-periodic-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="periodic-notes"
   name="Periodic Notes"
-  description="Create/manage your daily, weekly, and monthly notes."
+  description="创建/管理日记、周记、月记等。"
   author="Liam Cain"
-  :downloads="519201"
+  :downloads="519676"
   :updated="1649948603000"
   repo="liamcain/obsidian-periodic-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Periodic Notes 是一个功能强大的 Obsidian 插件。
 
-Create/manage your daily, weekly, and monthly notes.
+创建/管理日记、周记、月记等。
 
 通过 Periodic Notes,您可以:
 
@@ -199,10 +199,10 @@ Create/manage your daily, weekly, and monthly notes.
 - **插件 ID**：periodic-notes
 - **作者**：Liam Cain
 - **当前版本**：v1.0.0
-- **下载量**：519.2K
+- **下载量**：519.7K
 - **最后更新**：2022-04-14
 - **GitHub**：[liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

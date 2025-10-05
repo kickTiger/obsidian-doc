@@ -2,11 +2,11 @@
 title: Everyday Classical Music
 description: Display a different piece of classical music each day with a YouTube link in your daily note.
 author: the flying markhor
-downloads: 538
+downloads: 539
 updated: 1717991804000
 repo: Eloliuyx/everyday-classical-music-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Everyday Classical Music"
   description="Display a different piece of classical music each day with a YouTube link in your daily note."
   author="the flying markhor"
-  :downloads="538"
+  :downloads="539"
   :updated="1717991804000"
   repo="Eloliuyx/everyday-classical-music-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Display a different piece of classical music each day with a YouTube link in you
 - **插件 ID**：everyday-classical-music
 - **作者**：the flying markhor
 - **当前版本**：v1.0.0
-- **下载量**：538
+- **下载量**：539
 - **最后更新**：2024-06-10
 - **GitHub**：[Eloliuyx/everyday-classical-music-plugin](https://github.com/Eloliuyx/everyday-classical-music-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

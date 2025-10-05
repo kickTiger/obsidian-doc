@@ -2,11 +2,11 @@
 title: Node Factor
 description: Customize factors effecting node size in graph.
 author: CalfMoon
-downloads: 1389
+downloads: 1403
 updated: 1741772976000
 repo: CalfMoon/node-factor
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Node Factor"
   description="Customize factors effecting node size in graph."
   author="CalfMoon"
-  :downloads="1389"
+  :downloads="1403"
   :updated="1741772976000"
   repo="CalfMoon/node-factor"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Customize factors effecting node size in graph.
 - **下载量**：1.4K
 - **最后更新**：2025-03-12
 - **GitHub**：[CalfMoon/node-factor](https://github.com/CalfMoon/node-factor)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

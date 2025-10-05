@@ -1,12 +1,12 @@
 ---
 title: CSS Editor
-description: Edit CSS snippet files.
+description: 编辑 CSS 代码段文件
 author: Zachatoo
-downloads: 41559
+downloads: 41607
 updated: 1757560049000
 repo: Zachatoo/obsidian-css-editor
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="css-editor"
   name="CSS Editor"
-  description="Edit CSS snippet files."
+  description="编辑 CSS 代码段文件"
   author="Zachatoo"
-  :downloads="41559"
+  :downloads="41607"
   :updated="1757560049000"
   repo="Zachatoo/obsidian-css-editor"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 CSS Editor 是一个功能强大的 Obsidian 插件。
 
-Edit CSS snippet files.
+编辑 CSS 代码段文件
 
 通过 CSS Editor,您可以:
 
@@ -202,7 +202,7 @@ Edit CSS snippet files.
 - **下载量**：41.6K
 - **最后更新**：2025-09-11
 - **GitHub**：[Zachatoo/obsidian-css-editor](https://github.com/Zachatoo/obsidian-css-editor)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

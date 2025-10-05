@@ -1,12 +1,12 @@
 ---
 title: Base Tag Renderer
-description: Render the basename of tags in preview mode.
+description: 在预览模式下渲染标签的基础名称。
 author: Darren Kuro
-downloads: 6440
+downloads: 6445
 updated: 1696443035000
 repo: darrenkuro/obsidian-basetag
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-basetag"
   name="Base Tag Renderer"
-  description="Render the basename of tags in preview mode."
+  description="在预览模式下渲染标签的基础名称。"
   author="Darren Kuro"
-  :downloads="6440"
+  :downloads="6445"
   :updated="1696443035000"
   repo="darrenkuro/obsidian-basetag"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Base Tag Renderer 是一个功能强大的 Obsidian 插件。
 
-Render the basename of tags in preview mode.
+在预览模式下渲染标签的基础名称。
 
 通过 Base Tag Renderer,您可以:
 
@@ -202,7 +202,7 @@ Render the basename of tags in preview mode.
 - **下载量**：6.4K
 - **最后更新**：2023-10-05
 - **GitHub**：[darrenkuro/obsidian-basetag](https://github.com/darrenkuro/obsidian-basetag)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

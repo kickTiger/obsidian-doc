@@ -2,11 +2,11 @@
 title: SOC Toolkit
 description: A collection of tools for cyber security analysts.
 author: Michael Massoni
-downloads: 213
+downloads: 217
 updated: 1752240163000
 repo: michaelmassoni/obsidian-soc-toolkit
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="SOC Toolkit"
   description="A collection of tools for cyber security analysts."
   author="Michael Massoni"
-  :downloads="213"
+  :downloads="217"
   :updated="1752240163000"
   repo="michaelmassoni/obsidian-soc-toolkit"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ A collection of tools for cyber security analysts.
 - **插件 ID**：soc-toolkit
 - **作者**：Michael Massoni
 - **当前版本**：v1.0.0
-- **下载量**：213
+- **下载量**：217
 - **最后更新**：2025-07-11
 - **GitHub**：[michaelmassoni/obsidian-soc-toolkit](https://github.com/michaelmassoni/obsidian-soc-toolkit)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

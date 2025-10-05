@@ -1,12 +1,12 @@
 ---
 title: AutoMOC
-description: Look for missing linked mentions to the current note and import them into the current note.
+description: 查找当前笔记中丢失的链接提及，并将其导入到当前笔记中。
 author: Diego Alcantara
-downloads: 15415
+downloads: 15423
 updated: 1749435010000
 repo: dalcantara7/obsidian-auto-moc
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-moc"
   name="AutoMOC"
-  description="Look for missing linked mentions to the current note and import them into the current note."
+  description="查找当前笔记中丢失的链接提及，并将其导入到当前笔记中。"
   author="Diego Alcantara"
-  :downloads="15415"
+  :downloads="15423"
   :updated="1749435010000"
   repo="dalcantara7/obsidian-auto-moc"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 AutoMOC 是一个功能强大的 Obsidian 插件。
 
-Look for missing linked mentions to the current note and import them into the current note.
+查找当前笔记中丢失的链接提及，并将其导入到当前笔记中。
 
 通过 AutoMOC,您可以:
 
@@ -202,7 +202,7 @@ Look for missing linked mentions to the current note and import them into the cu
 - **下载量**：15.4K
 - **最后更新**：2025-06-09
 - **GitHub**：[dalcantara7/obsidian-auto-moc](https://github.com/dalcantara7/obsidian-auto-moc)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

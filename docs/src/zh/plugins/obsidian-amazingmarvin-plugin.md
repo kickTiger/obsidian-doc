@@ -1,12 +1,12 @@
 ---
 title: Amazing Marvin
-description: Get data from Amazing Marvin.
+description: 从 Amazing Marvin 获取数据。
 author: Shirayuki Nekomata
 downloads: 4514
 updated: 1627465291000
 repo: ikuyarihS/obsidian-amazingmarvin-plugin
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-amazingmarvin-plugin"
   name="Amazing Marvin"
-  description="Get data from Amazing Marvin."
+  description="从 Amazing Marvin 获取数据。"
   author="Shirayuki Nekomata"
   :downloads="4514"
   :updated="1627465291000"
   repo="ikuyarihS/obsidian-amazingmarvin-plugin"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Amazing Marvin 是一个功能强大的 Obsidian 插件。
 
-Get data from Amazing Marvin.
+从 Amazing Marvin 获取数据。
 
 通过 Amazing Marvin,您可以:
 
@@ -202,7 +202,7 @@ Get data from Amazing Marvin.
 - **下载量**：4.5K
 - **最后更新**：2021-07-28
 - **GitHub**：[ikuyarihS/obsidian-amazingmarvin-plugin](https://github.com/ikuyarihS/obsidian-amazingmarvin-plugin)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

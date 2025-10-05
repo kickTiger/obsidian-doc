@@ -2,11 +2,11 @@
 title: Friday
 description: Notes to Website. Friday helps you turn Markdown documents into websites in minutes.
 author: sunwei
-downloads: 1641
+downloads: 1645
 updated: 1759145086000
 repo: mdfriday/obsidian-friday-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Friday"
   description="Notes to Website. Friday helps you turn Markdown documents into websites in minutes."
   author="sunwei"
-  :downloads="1641"
+  :downloads="1645"
   :updated="1759145086000"
   repo="mdfriday/obsidian-friday-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Notes to Website. Friday helps you turn Markdown documents into websites in minu
 - **下载量**：1.6K
 - **最后更新**：2025-09-29
 - **GitHub**：[mdfriday/obsidian-friday-plugin](https://github.com/mdfriday/obsidian-friday-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

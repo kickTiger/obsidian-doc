@@ -1,12 +1,12 @@
 ---
 title: File indicators
-description: Add custom indicators to the file explorer.
+description: 在文件浏览器中添加自定义指标
 author: Jakob
-downloads: 3811
+downloads: 3815
 updated: 1705529023000
 repo: JakobMick/obsidian-file-indicators
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="file-indicators"
   name="File indicators"
-  description="Add custom indicators to the file explorer."
+  description="在文件浏览器中添加自定义指标"
   author="Jakob"
-  :downloads="3811"
+  :downloads="3815"
   :updated="1705529023000"
   repo="JakobMick/obsidian-file-indicators"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 File indicators 是一个功能强大的 Obsidian 插件。
 
-Add custom indicators to the file explorer.
+在文件浏览器中添加自定义指标
 
 通过 File indicators,您可以:
 
@@ -202,7 +202,7 @@ Add custom indicators to the file explorer.
 - **下载量**：3.8K
 - **最后更新**：2024-01-18
 - **GitHub**：[JakobMick/obsidian-file-indicators](https://github.com/JakobMick/obsidian-file-indicators)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Cryptsidian
-description: Encrypt all files in your vault with a password.
+description: 用密码为保险库中的所有文件加密。
 author: triumphantomato
-downloads: 15571
+downloads: 15578
 updated: 1635881200000
 repo: triumphantomato/cryptsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="cryptsidian"
   name="Cryptsidian"
-  description="Encrypt all files in your vault with a password."
+  description="用密码为保险库中的所有文件加密。"
   author="triumphantomato"
-  :downloads="15571"
+  :downloads="15578"
   :updated="1635881200000"
   repo="triumphantomato/cryptsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Cryptsidian 是一个功能强大的 Obsidian 插件。
 
-Encrypt all files in your vault with a password.
+用密码为保险库中的所有文件加密。
 
 通过 Cryptsidian,您可以:
 
@@ -202,7 +202,7 @@ Encrypt all files in your vault with a password.
 - **下载量**：15.6K
 - **最后更新**：2021-11-03
 - **GitHub**：[triumphantomato/cryptsidian](https://github.com/triumphantomato/cryptsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

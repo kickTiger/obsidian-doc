@@ -1,12 +1,12 @@
 ---
 title: Open Tab Settings
-description: Adds options to customize how tabs are opened, including open in new tab by default, preventing duplicate tabs, and more.
+description: 增加了自定义标签页打开方式的选项，包括默认在新标签页中打开、防止重复标签页等。
 author: jesse-r-s-hines
-downloads: 8824
+downloads: 8868
 updated: 1757169656000
 repo: jesse-r-s-hines/obsidian-open-tab-settings
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="open-tab-settings"
   name="Open Tab Settings"
-  description="Adds options to customize how tabs are opened, including open in new tab by default, preventing duplicate tabs, and more."
+  description="增加了自定义标签页打开方式的选项，包括默认在新标签页中打开、防止重复标签页等。"
   author="jesse-r-s-hines"
-  :downloads="8824"
+  :downloads="8868"
   :updated="1757169656000"
   repo="jesse-r-s-hines/obsidian-open-tab-settings"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Open Tab Settings 是一个功能强大的 Obsidian 插件。
 
-Adds options to customize how tabs are opened, including open in new tab by default, preventing duplicate tabs, and more.
+增加了自定义标签页打开方式的选项，包括默认在新标签页中打开、防止重复标签页等。
 
 通过 Open Tab Settings,您可以:
 
@@ -199,10 +199,10 @@ Adds options to customize how tabs are opened, including open in new tab by defa
 - **插件 ID**：open-tab-settings
 - **作者**：jesse-r-s-hines
 - **当前版本**：v1.0.0
-- **下载量**：8.8K
+- **下载量**：8.9K
 - **最后更新**：2025-09-06
 - **GitHub**：[jesse-r-s-hines/obsidian-open-tab-settings](https://github.com/jesse-r-s-hines/obsidian-open-tab-settings)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

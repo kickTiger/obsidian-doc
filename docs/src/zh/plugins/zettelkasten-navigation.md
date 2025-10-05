@@ -1,12 +1,12 @@
 ---
 title: zettelkasten navigation
-description: Visualize a Luhmann-style zettelkasten.
+description: 想象一下鲁曼式的zettelkasten。
 author: terrychenzw
-downloads: 6309
+downloads: 6328
 updated: 1759210637000
 repo: PKM-er/obsidian-zettelkasten-navigation
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="zettelkasten-navigation"
   name="zettelkasten navigation"
-  description="Visualize a Luhmann-style zettelkasten."
+  description="想象一下鲁曼式的zettelkasten。"
   author="terrychenzw"
-  :downloads="6309"
+  :downloads="6328"
   :updated="1759210637000"
   repo="PKM-er/obsidian-zettelkasten-navigation"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 zettelkasten navigation 是一个功能强大的 Obsidian 插件。
 
-Visualize a Luhmann-style zettelkasten.
+想象一下鲁曼式的zettelkasten。
 
 通过 zettelkasten navigation,您可以:
 
@@ -202,7 +202,7 @@ Visualize a Luhmann-style zettelkasten.
 - **下载量**：6.3K
 - **最后更新**：2025-09-30
 - **GitHub**：[PKM-er/obsidian-zettelkasten-navigation](https://github.com/PKM-er/obsidian-zettelkasten-navigation)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

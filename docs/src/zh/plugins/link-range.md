@@ -1,12 +1,12 @@
 ---
 title: Link Range
-description: Add ranged wikilink support.
+description: 添加范围可变的维基链接支持。
 author: Ryan Mellmer
 downloads: 4589
 updated: 1714583496000
 repo: rmellmer/obsidian-link-range
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="link-range"
   name="Link Range"
-  description="Add ranged wikilink support."
+  description="添加范围可变的维基链接支持。"
   author="Ryan Mellmer"
   :downloads="4589"
   :updated="1714583496000"
   repo="rmellmer/obsidian-link-range"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Link Range 是一个功能强大的 Obsidian 插件。
 
-Add ranged wikilink support.
+添加范围可变的维基链接支持。
 
 通过 Link Range,您可以:
 
@@ -202,7 +202,7 @@ Add ranged wikilink support.
 - **下载量**：4.6K
 - **最后更新**：2024-05-02
 - **GitHub**：[rmellmer/obsidian-link-range](https://github.com/rmellmer/obsidian-link-range)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

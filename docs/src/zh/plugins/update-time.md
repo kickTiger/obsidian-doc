@@ -2,11 +2,11 @@
 title: Update Time
 description: Update front matter to include creation and last update times
 author: Sébastien Dubois
-downloads: 2051
+downloads: 2053
 updated: 1730000684000
 repo: dsebastien/obsidian-update-time
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Update Time"
   description="Update front matter to include creation and last update times"
   author="Sébastien Dubois"
-  :downloads="2051"
+  :downloads="2053"
   :updated="1730000684000"
   repo="dsebastien/obsidian-update-time"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Update front matter to include creation and last update times
 - **下载量**：2.1K
 - **最后更新**：2024-10-27
 - **GitHub**：[dsebastien/obsidian-update-time](https://github.com/dsebastien/obsidian-update-time)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

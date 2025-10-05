@@ -1,12 +1,12 @@
 ---
 title: Journaling
-description: View daily notes in a journal-like format, similar to Logseq. It enhances note organization and facilitates better reflection by consolidating daily notes into a continuous journaling view.
+description: 以类似日志的格式查看每日笔记，与 Logseq 类似。它通过将每日笔记合并成一个连续的日志视图，加强了笔记的组织，便于更好地进行反思。
 author: Ordeeper
-downloads: 5496
+downloads: 5509
 updated: 1735064565000
 repo: Ordeeper/obsidian-journaling-plugin
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="journaling"
   name="Journaling"
-  description="View daily notes in a journal-like format, similar to Logseq. It enhances note organization and facilitates better reflection by consolidating daily notes into a continuous journaling view."
+  description="以类似日志的格式查看每日笔记，与 Logseq 类似。它通过将每日笔记合并成一个连续的日志视图，加强了笔记的组织，便于更好地进行反思。"
   author="Ordeeper"
-  :downloads="5496"
+  :downloads="5509"
   :updated="1735064565000"
   repo="Ordeeper/obsidian-journaling-plugin"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Journaling 是一个功能强大的 Obsidian 插件。
 
-View daily notes in a journal-like format, similar to Logseq. It enhances note organization and facilitates better reflection by consolidating daily notes into a continuous journaling view.
+以类似日志的格式查看每日笔记，与 Logseq 类似。它通过将每日笔记合并成一个连续的日志视图，加强了笔记的组织，便于更好地进行反思。
 
 通过 Journaling,您可以:
 
@@ -202,7 +202,7 @@ View daily notes in a journal-like format, similar to Logseq. It enhances note o
 - **下载量**：5.5K
 - **最后更新**：2024-12-25
 - **GitHub**：[Ordeeper/obsidian-journaling-plugin](https://github.com/Ordeeper/obsidian-journaling-plugin)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

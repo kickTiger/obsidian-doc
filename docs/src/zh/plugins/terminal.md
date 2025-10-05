@@ -1,12 +1,12 @@
 ---
 title: Terminal
-description: Integrate consoles, shells, and terminals.
+description: 整合控制台、外壳和终端。
 author: polyipseity
-downloads: 56674
+downloads: 56849
 updated: 1755478807000
 repo: polyipseity/obsidian-terminal
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="terminal"
   name="Terminal"
-  description="Integrate consoles, shells, and terminals."
+  description="整合控制台、外壳和终端。"
   author="polyipseity"
-  :downloads="56674"
+  :downloads="56849"
   :updated="1755478807000"
   repo="polyipseity/obsidian-terminal"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Terminal 是一个功能强大的 Obsidian 插件。
 
-Integrate consoles, shells, and terminals.
+整合控制台、外壳和终端。
 
 通过 Terminal,您可以:
 
@@ -199,10 +199,10 @@ Integrate consoles, shells, and terminals.
 - **插件 ID**：terminal
 - **作者**：polyipseity
 - **当前版本**：v1.0.0
-- **下载量**：56.7K
+- **下载量**：56.8K
 - **最后更新**：2025-08-18
 - **GitHub**：[polyipseity/obsidian-terminal](https://github.com/polyipseity/obsidian-terminal)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

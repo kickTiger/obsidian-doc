@@ -2,11 +2,11 @@
 title: NeuroVox
 description: Enhances your note-taking with voice transcription and AI capabilities.
 author: Synaptic Labs
-downloads: 2431
+downloads: 2433
 updated: 1754854486000
 repo: Synaptic-Labs-AI/NeuroVox
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="NeuroVox"
   description="Enhances your note-taking with voice transcription and AI capabilities."
   author="Synaptic Labs"
-  :downloads="2431"
+  :downloads="2433"
   :updated="1754854486000"
   repo="Synaptic-Labs-AI/NeuroVox"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enhances your note-taking with voice transcription and AI capabilities.
 - **下载量**：2.4K
 - **最后更新**：2025-08-11
 - **GitHub**：[Synaptic-Labs-AI/NeuroVox](https://github.com/Synaptic-Labs-AI/NeuroVox)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

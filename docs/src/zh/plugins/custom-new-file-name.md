@@ -2,11 +2,11 @@
 title: Custom new file name
 description: Enables the creation of new notes with custom formatted names, including dynamic datetime stamps.
 author: homu-konamilk
-downloads: 2328
+downloads: 2330
 updated: 1724461603000
 repo: hokolamp/obsidian-custom-new-file-name
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Custom new file name"
   description="Enables the creation of new notes with custom formatted names, including dynamic datetime stamps."
   author="homu-konamilk"
-  :downloads="2328"
+  :downloads="2330"
   :updated="1724461603000"
   repo="hokolamp/obsidian-custom-new-file-name"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Enables the creation of new notes with custom formatted names, including dynamic
 - **下载量**：2.3K
 - **最后更新**：2024-08-24
 - **GitHub**：[hokolamp/obsidian-custom-new-file-name](https://github.com/hokolamp/obsidian-custom-new-file-name)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

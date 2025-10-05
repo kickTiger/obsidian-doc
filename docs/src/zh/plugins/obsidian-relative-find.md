@@ -1,12 +1,12 @@
 ---
 title: Relative Find
-description: Search relative to your cursor position.
+description: 相对于光标位置进行搜索。
 author: phibr0
 downloads: 4527
 updated: 1630655417000
 repo: phibr0/obsidian-relative-find
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-relative-find"
   name="Relative Find"
-  description="Search relative to your cursor position."
+  description="相对于光标位置进行搜索。"
   author="phibr0"
   :downloads="4527"
   :updated="1630655417000"
   repo="phibr0/obsidian-relative-find"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Relative Find 是一个功能强大的 Obsidian 插件。
 
-Search relative to your cursor position.
+相对于光标位置进行搜索。
 
 通过 Relative Find,您可以:
 
@@ -202,7 +202,7 @@ Search relative to your cursor position.
 - **下载量**：4.5K
 - **最后更新**：2021-09-03
 - **GitHub**：[phibr0/obsidian-relative-find](https://github.com/phibr0/obsidian-relative-find)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Advanced Slides
-description: Create Markdown-based presentations.
+description: 基于 Reveal.js 创建 Markdown 演示文稿。
 author: MSzturc
-downloads: 793790
+downloads: 793889
 updated: 1676504371000
 repo: MSzturc/obsidian-advanced-slides
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-advanced-slides"
   name="Advanced Slides"
-  description="Create Markdown-based presentations."
+  description="基于 Reveal.js 创建 Markdown 演示文稿。"
   author="MSzturc"
-  :downloads="793790"
+  :downloads="793889"
   :updated="1676504371000"
   repo="MSzturc/obsidian-advanced-slides"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Advanced Slides 是一个功能强大的 Obsidian 插件。
 
-Create Markdown-based presentations.
+基于 Reveal.js 创建 Markdown 演示文稿。
 
 通过 Advanced Slides,您可以:
 
@@ -199,10 +199,10 @@ Create Markdown-based presentations.
 - **插件 ID**：obsidian-advanced-slides
 - **作者**：MSzturc
 - **当前版本**：v1.0.0
-- **下载量**：793.8K
+- **下载量**：793.9K
 - **最后更新**：2023-02-16
 - **GitHub**：[MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

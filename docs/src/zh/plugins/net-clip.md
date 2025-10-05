@@ -1,12 +1,12 @@
 ---
 title: NetClip
-description: Clip, save, search, and browse web pages
+description: 剪贴、保存、搜索和浏览网页
 author: Elhary
-downloads: 6110
+downloads: 6140
 updated: 1759225232000
 repo: Elhary/Obsidian-NetClip
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="net-clip"
   name="NetClip"
-  description="Clip, save, search, and browse web pages"
+  description="剪贴、保存、搜索和浏览网页"
   author="Elhary"
-  :downloads="6110"
+  :downloads="6140"
   :updated="1759225232000"
   repo="Elhary/Obsidian-NetClip"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 NetClip 是一个功能强大的 Obsidian 插件。
 
-Clip, save, search, and browse web pages
+剪贴、保存、搜索和浏览网页
 
 通过 NetClip,您可以:
 
@@ -202,7 +202,7 @@ Clip, save, search, and browse web pages
 - **下载量**：6.1K
 - **最后更新**：2025-09-30
 - **GitHub**：[Elhary/Obsidian-NetClip](https://github.com/Elhary/Obsidian-NetClip)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

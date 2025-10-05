@@ -6,7 +6,7 @@ downloads: 2834
 updated: 1744546065000
 repo: lukemt/obsidian-feeds
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1744546065000"
   repo="lukemt/obsidian-feeds"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create feeds of topic-specific bullet points.
 - **下载量**：2.8K
 - **最后更新**：2025-04-13
 - **GitHub**：[lukemt/obsidian-feeds](https://github.com/lukemt/obsidian-feeds)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

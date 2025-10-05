@@ -2,11 +2,11 @@
 title: simple-sketch
 description: Create minimalist sketches in a dedicated view, draw with a pencil, generate shapes, add text, save it to the vault or download it as an image.
 author: Yoh
-downloads: 3059
+downloads: 3064
 updated: 1732636198000
 repo: Yohh/obsidian-simple-sketch
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="simple-sketch"
   description="Create minimalist sketches in a dedicated view, draw with a pencil, generate shapes, add text, save it to the vault or download it as an image."
   author="Yoh"
-  :downloads="3059"
+  :downloads="3064"
   :updated="1732636198000"
   repo="Yohh/obsidian-simple-sketch"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create minimalist sketches in a dedicated view, draw with a pencil, generate sha
 - **下载量**：3.1K
 - **最后更新**：2024-11-26
 - **GitHub**：[Yohh/obsidian-simple-sketch](https://github.com/Yohh/obsidian-simple-sketch)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

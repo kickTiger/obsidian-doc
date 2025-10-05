@@ -1,12 +1,12 @@
 ---
 title: Substitutions
-description: Automatically replace text fragments with symbols or different text
+description: 用符号或不同文字自动替换文本片段
 author: BambusControl
-downloads: 3666
+downloads: 3699
 updated: 1759414928000
 repo: BambusControl/obsidian-substitutions
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="substitutions"
   name="Substitutions"
-  description="Automatically replace text fragments with symbols or different text"
+  description="用符号或不同文字自动替换文本片段"
   author="BambusControl"
-  :downloads="3666"
+  :downloads="3699"
   :updated="1759414928000"
   repo="BambusControl/obsidian-substitutions"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Substitutions 是一个功能强大的 Obsidian 插件。
 
-Automatically replace text fragments with symbols or different text
+用符号或不同文字自动替换文本片段
 
 通过 Substitutions,您可以:
 
@@ -202,7 +202,7 @@ Automatically replace text fragments with symbols or different text
 - **下载量**：3.7K
 - **最后更新**：2025-10-02
 - **GitHub**：[BambusControl/obsidian-substitutions](https://github.com/BambusControl/obsidian-substitutions)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

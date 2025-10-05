@@ -2,11 +2,11 @@
 title: Template Filename
 description: Create notes with templatable filenames, using date/time formats, random strings, and custom base numbering systems.
 author: Callum Alpass
-downloads: 592
+downloads: 595
 updated: 1745461481000
 repo: callumalpass/obsidian-template-filename
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Template Filename"
   description="Create notes with templatable filenames, using date/time formats, random strings, and custom base numbering systems."
   author="Callum Alpass"
-  :downloads="592"
+  :downloads="595"
   :updated="1745461481000"
   repo="callumalpass/obsidian-template-filename"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create notes with templatable filenames, using date/time formats, random strings
 - **插件 ID**：template-filename
 - **作者**：Callum Alpass
 - **当前版本**：v1.0.0
-- **下载量**：592
+- **下载量**：595
 - **最后更新**：2025-04-24
 - **GitHub**：[callumalpass/obsidian-template-filename](https://github.com/callumalpass/obsidian-template-filename)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

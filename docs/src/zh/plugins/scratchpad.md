@@ -2,11 +2,11 @@
 title: Scratchpad
 description: Take temporary notes and draw freehand in a sidebar scratchpad.
 author: KVH
-downloads: 842
+downloads: 844
 updated: 1751816715000
 repo: kvh03/obsidian-scratchpad
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Scratchpad"
   description="Take temporary notes and draw freehand in a sidebar scratchpad."
   author="KVH"
-  :downloads="842"
+  :downloads="844"
   :updated="1751816715000"
   repo="kvh03/obsidian-scratchpad"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Take temporary notes and draw freehand in a sidebar scratchpad.
 - **插件 ID**：scratchpad
 - **作者**：KVH
 - **当前版本**：v1.0.0
-- **下载量**：842
+- **下载量**：844
 - **最后更新**：2025-07-06
 - **GitHub**：[kvh03/obsidian-scratchpad](https://github.com/kvh03/obsidian-scratchpad)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

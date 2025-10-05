@@ -1,12 +1,12 @@
 ---
 title: Code Styler
-description: Style codeblocks and inline code in reading view and editing view.
+description: 阅读视图和编辑视图中的代码锁和内联代码样式。
 author: Mayuran Visakan
-downloads: 141834
+downloads: 142096
 updated: 1708695160000
 repo: mayurankv/Obsidian-Code-Styler
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="code-styler"
   name="Code Styler"
-  description="Style codeblocks and inline code in reading view and editing view."
+  description="阅读视图和编辑视图中的代码锁和内联代码样式。"
   author="Mayuran Visakan"
-  :downloads="141834"
+  :downloads="142096"
   :updated="1708695160000"
   repo="mayurankv/Obsidian-Code-Styler"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Code Styler 是一个功能强大的 Obsidian 插件。
 
-Style codeblocks and inline code in reading view and editing view.
+阅读视图和编辑视图中的代码锁和内联代码样式。
 
 通过 Code Styler,您可以:
 
@@ -199,10 +199,10 @@ Style codeblocks and inline code in reading view and editing view.
 - **插件 ID**：code-styler
 - **作者**：Mayuran Visakan
 - **当前版本**：v1.0.0
-- **下载量**：141.8K
+- **下载量**：142.1K
 - **最后更新**：2024-02-23
 - **GitHub**：[mayurankv/Obsidian-Code-Styler](https://github.com/mayurankv/Obsidian-Code-Styler)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

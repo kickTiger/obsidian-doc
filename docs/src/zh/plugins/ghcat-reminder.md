@@ -6,7 +6,7 @@ downloads: 2887
 updated: 1737909018000
 repo: anil-e/obsidian_gchat_plugin
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1737909018000"
   repo="anil-e/obsidian_gchat_plugin"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Send notifications to Google Chat Webhook based on due dates in tasks.
 - **下载量**：2.9K
 - **最后更新**：2025-01-27
 - **GitHub**：[anil-e/obsidian_gchat_plugin](https://github.com/anil-e/obsidian_gchat_plugin)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Execute Code
-description: Execute code snippets within a note.
+description: 在注释中执行代码片段。
 author: twibiral
-downloads: 131782
+downloads: 131870
 updated: 1740846725000
 repo: twibiral/obsidian-execute-code
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="execute-code"
   name="Execute Code"
-  description="Execute code snippets within a note."
+  description="在注释中执行代码片段。"
   author="twibiral"
-  :downloads="131782"
+  :downloads="131870"
   :updated="1740846725000"
   repo="twibiral/obsidian-execute-code"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Execute Code 是一个功能强大的 Obsidian 插件。
 
-Execute code snippets within a note.
+在注释中执行代码片段。
 
 通过 Execute Code,您可以:
 
@@ -199,10 +199,10 @@ Execute code snippets within a note.
 - **插件 ID**：execute-code
 - **作者**：twibiral
 - **当前版本**：v1.0.0
-- **下载量**：131.8K
+- **下载量**：131.9K
 - **最后更新**：2025-03-02
 - **GitHub**：[twibiral/obsidian-execute-code](https://github.com/twibiral/obsidian-execute-code)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

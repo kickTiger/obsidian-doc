@@ -2,11 +2,11 @@
 title: Permalink Opener
 description: Open URLs based on a permalink or slug in the note properties. Useful with static site generator such as Jekyll, Hugo, Eleventy, etc.
 author: '@kepano'
-downloads: 3449
+downloads: 3451
 updated: 1698258166000
 repo: kepano/obsidian-permalink-opener
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Permalink Opener"
   description="Open URLs based on a permalink or slug in the note properties. Useful with static site generator such as Jekyll, Hugo, Eleventy, etc."
   author="@kepano"
-  :downloads="3449"
+  :downloads="3451"
   :updated="1698258166000"
   repo="kepano/obsidian-permalink-opener"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Open URLs based on a permalink or slug in the note properties. Useful with stati
 - **插件 ID**：permalink-opener
 - **作者**：@kepano
 - **当前版本**：v1.0.0
-- **下载量**：3.4K
+- **下载量**：3.5K
 - **最后更新**：2023-10-26
 - **GitHub**：[kepano/obsidian-permalink-opener](https://github.com/kepano/obsidian-permalink-opener)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

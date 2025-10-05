@@ -6,7 +6,7 @@ downloads: 2079
 updated: 1698792723000
 repo: Obsidian-Desci/Obsidian-Desci
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1698792723000"
   repo="Obsidian-Desci/Obsidian-Desci"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Web3, IPFS, and Desci integrations.
 - **下载量**：2.1K
 - **最后更新**：2023-11-01
 - **GitHub**：[Obsidian-Desci/Obsidian-Desci](https://github.com/Obsidian-Desci/Obsidian-Desci)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

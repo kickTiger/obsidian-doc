@@ -1,12 +1,12 @@
 ---
 title: Todoist Link
-description: Create Todoist tasks and projects including bidirectional links from Obsidian.
+description: 从 Obsidian 创建 Todoist 任务和项目，包括双向链接。
 author: dennisseidel
-downloads: 11719
+downloads: 11728
 updated: 1670445854000
 repo: dennisseidel/obsidian-todoist-link
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-todoist-link"
   name="Todoist Link"
-  description="Create Todoist tasks and projects including bidirectional links from Obsidian."
+  description="从 Obsidian 创建 Todoist 任务和项目，包括双向链接。"
   author="dennisseidel"
-  :downloads="11719"
+  :downloads="11728"
   :updated="1670445854000"
   repo="dennisseidel/obsidian-todoist-link"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Todoist Link 是一个功能强大的 Obsidian 插件。
 
-Create Todoist tasks and projects including bidirectional links from Obsidian.
+从 Obsidian 创建 Todoist 任务和项目，包括双向链接。
 
 通过 Todoist Link,您可以:
 
@@ -202,7 +202,7 @@ Create Todoist tasks and projects including bidirectional links from Obsidian.
 - **下载量**：11.7K
 - **最后更新**：2022-12-08
 - **GitHub**：[dennisseidel/obsidian-todoist-link](https://github.com/dennisseidel/obsidian-todoist-link)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

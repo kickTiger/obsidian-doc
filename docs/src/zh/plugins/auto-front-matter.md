@@ -1,12 +1,12 @@
 ---
 title: Auto Front Matter
-description: Auto update front matter.
+description: 自动更新正面内容。
 author: conorzhong
 downloads: 4208
 updated: 1699406011000
 repo: conorzhong/obsidian-auto-front-matter
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-front-matter"
   name="Auto Front Matter"
-  description="Auto update front matter."
+  description="自动更新正面内容。"
   author="conorzhong"
   :downloads="4208"
   :updated="1699406011000"
   repo="conorzhong/obsidian-auto-front-matter"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Front Matter 是一个功能强大的 Obsidian 插件。
 
-Auto update front matter.
+自动更新正面内容。
 
 通过 Auto Front Matter,您可以:
 
@@ -202,7 +202,7 @@ Auto update front matter.
 - **下载量**：4.2K
 - **最后更新**：2023-11-08
 - **GitHub**：[conorzhong/obsidian-auto-front-matter](https://github.com/conorzhong/obsidian-auto-front-matter)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

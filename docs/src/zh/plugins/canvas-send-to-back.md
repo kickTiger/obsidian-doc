@@ -1,12 +1,12 @@
 ---
 title: Canvas Send to Back
-description: Move cards in canvas to the top or behind all other cards.
+description: 将画布上的纸牌移到顶部或所有其他纸牌的后面。
 author: Zachatoo
-downloads: 9087
+downloads: 9091
 updated: 1698617634000
 repo: Zachatoo/obsidian-canvas-send-to-back
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="canvas-send-to-back"
   name="Canvas Send to Back"
-  description="Move cards in canvas to the top or behind all other cards."
+  description="将画布上的纸牌移到顶部或所有其他纸牌的后面。"
   author="Zachatoo"
-  :downloads="9087"
+  :downloads="9091"
   :updated="1698617634000"
   repo="Zachatoo/obsidian-canvas-send-to-back"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas Send to Back 是一个功能强大的 Obsidian 插件。
 
-Move cards in canvas to the top or behind all other cards.
+将画布上的纸牌移到顶部或所有其他纸牌的后面。
 
 通过 Canvas Send to Back,您可以:
 
@@ -202,7 +202,7 @@ Move cards in canvas to the top or behind all other cards.
 - **下载量**：9.1K
 - **最后更新**：2023-10-30
 - **GitHub**：[Zachatoo/obsidian-canvas-send-to-back](https://github.com/Zachatoo/obsidian-canvas-send-to-back)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

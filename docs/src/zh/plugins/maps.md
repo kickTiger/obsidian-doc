@@ -2,11 +2,11 @@
 title: Maps
 description: Adds a map layout to bases so you can display notes as an interactive map view.
 author: Obsidian
-downloads: 1031
+downloads: 1362
 updated: 1759526701000
 repo: obsidianmd/obsidian-maps
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Maps"
   description="Adds a map layout to bases so you can display notes as an interactive map view."
   author="Obsidian"
-  :downloads="1031"
+  :downloads="1362"
   :updated="1759526701000"
   repo="obsidianmd/obsidian-maps"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Adds a map layout to bases so you can display notes as an interactive map view.
 - **插件 ID**：maps
 - **作者**：Obsidian
 - **当前版本**：v1.0.0
-- **下载量**：1.0K
+- **下载量**：1.4K
 - **最后更新**：2025-10-04
 - **GitHub**：[obsidianmd/obsidian-maps](https://github.com/obsidianmd/obsidian-maps)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

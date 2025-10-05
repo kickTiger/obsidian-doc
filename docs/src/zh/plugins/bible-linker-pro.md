@@ -2,11 +2,11 @@
 title: Bible linker Pro
 description: Converts Bible texts to JW Library links
 author: Floydv149
-downloads: 2398
+downloads: 2401
 updated: 1743768242000
 repo: Floydv149/bibleLinkerPro
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Bible linker Pro"
   description="Converts Bible texts to JW Library links"
   author="Floydv149"
-  :downloads="2398"
+  :downloads="2401"
   :updated="1743768242000"
   repo="Floydv149/bibleLinkerPro"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Converts Bible texts to JW Library links
 - **下载量**：2.4K
 - **最后更新**：2025-04-04
 - **GitHub**：[Floydv149/bibleLinkerPro](https://github.com/Floydv149/bibleLinkerPro)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

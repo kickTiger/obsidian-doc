@@ -1,12 +1,12 @@
 ---
 title: Recent Files
-description: Display a list of recently opened files.
+description: 显示最近打开的文件列表。
 author: Tony Grosinger
-downloads: 826949
+downloads: 827300
 updated: 1735925693000
 repo: tgrosinger/recent-files-obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="recent-files-obsidian"
   name="Recent Files"
-  description="Display a list of recently opened files."
+  description="显示最近打开的文件列表。"
   author="Tony Grosinger"
-  :downloads="826949"
+  :downloads="827300"
   :updated="1735925693000"
   repo="tgrosinger/recent-files-obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Recent Files 是一个功能强大的 Obsidian 插件。
 
-Display a list of recently opened files.
+显示最近打开的文件列表。
 
 通过 Recent Files,您可以:
 
@@ -199,10 +199,10 @@ Display a list of recently opened files.
 - **插件 ID**：recent-files-obsidian
 - **作者**：Tony Grosinger
 - **当前版本**：v1.0.0
-- **下载量**：826.9K
+- **下载量**：827.3K
 - **最后更新**：2025-01-04
 - **GitHub**：[tgrosinger/recent-files-obsidian](https://github.com/tgrosinger/recent-files-obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

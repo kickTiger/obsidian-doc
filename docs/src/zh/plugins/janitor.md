@@ -1,12 +1,12 @@
 ---
 title: Janitor
-description: Perform cleanup tasks on your vault.
+description: 执行保险库清理任务。
 author: Gabriele Cannata
-downloads: 45953
+downloads: 45992
 updated: 1746285691000
 repo: Canna71/obsidian-janitor
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="janitor"
   name="Janitor"
-  description="Perform cleanup tasks on your vault."
+  description="执行保险库清理任务。"
   author="Gabriele Cannata"
-  :downloads="45953"
+  :downloads="45992"
   :updated="1746285691000"
   repo="Canna71/obsidian-janitor"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Janitor 是一个功能强大的 Obsidian 插件。
 
-Perform cleanup tasks on your vault.
+执行保险库清理任务。
 
 通过 Janitor,您可以:
 
@@ -202,7 +202,7 @@ Perform cleanup tasks on your vault.
 - **下载量**：46.0K
 - **最后更新**：2025-05-03
 - **GitHub**：[Canna71/obsidian-janitor](https://github.com/Canna71/obsidian-janitor)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

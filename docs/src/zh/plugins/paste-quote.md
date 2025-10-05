@@ -2,11 +2,11 @@
 title: Paste Quote
 description: Helps with formatting and citing quotes.
 author: Jacob Williams
-downloads: 162
+downloads: 163
 updated: 1740172956000
 repo: brokensandals/obsidian-paste-quote-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Paste Quote"
   description="Helps with formatting and citing quotes."
   author="Jacob Williams"
-  :downloads="162"
+  :downloads="163"
   :updated="1740172956000"
   repo="brokensandals/obsidian-paste-quote-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Helps with formatting and citing quotes.
 - **插件 ID**：paste-quote
 - **作者**：Jacob Williams
 - **当前版本**：v1.0.0
-- **下载量**：162
+- **下载量**：163
 - **最后更新**：2025-02-22
 - **GitHub**：[brokensandals/obsidian-paste-quote-plugin](https://github.com/brokensandals/obsidian-paste-quote-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

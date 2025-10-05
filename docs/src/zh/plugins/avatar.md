@@ -1,12 +1,12 @@
 ---
 title: Avatar
-description: Display an avatar image in your notes.
+description: 在笔记中显示头像。
 author: froehlichA
-downloads: 10523
+downloads: 10529
 updated: 1750876951000
 repo: maradotwebp/obsidian-avatar
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="avatar"
   name="Avatar"
-  description="Display an avatar image in your notes."
+  description="在笔记中显示头像。"
   author="froehlichA"
-  :downloads="10523"
+  :downloads="10529"
   :updated="1750876951000"
   repo="maradotwebp/obsidian-avatar"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Avatar 是一个功能强大的 Obsidian 插件。
 
-Display an avatar image in your notes.
+在笔记中显示头像。
 
 通过 Avatar,您可以:
 
@@ -202,7 +202,7 @@ Display an avatar image in your notes.
 - **下载量**：10.5K
 - **最后更新**：2025-06-26
 - **GitHub**：[maradotwebp/obsidian-avatar](https://github.com/maradotwebp/obsidian-avatar)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

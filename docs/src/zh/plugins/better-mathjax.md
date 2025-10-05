@@ -1,12 +1,12 @@
 ---
 title: Better MathJax
-description: Math autocompletion and customizable snippets.
+description: 数学自动完成和自定义片段。
 author: GreasyCat
-downloads: 8794
+downloads: 8801
 updated: 1674788828000
 repo: greasycat/BetterMathjax
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="better-mathjax"
   name="Better MathJax"
-  description="Math autocompletion and customizable snippets."
+  description="数学自动完成和自定义片段。"
   author="GreasyCat"
-  :downloads="8794"
+  :downloads="8801"
   :updated="1674788828000"
   repo="greasycat/BetterMathjax"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better MathJax 是一个功能强大的 Obsidian 插件。
 
-Math autocompletion and customizable snippets.
+数学自动完成和自定义片段。
 
 通过 Better MathJax,您可以:
 
@@ -202,7 +202,7 @@ Math autocompletion and customizable snippets.
 - **下载量**：8.8K
 - **最后更新**：2023-01-27
 - **GitHub**：[greasycat/BetterMathjax](https://github.com/greasycat/BetterMathjax)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

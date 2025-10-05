@@ -1,12 +1,12 @@
 ---
 title: Simple Colored Folder
-description: Automagically add color to roots folders, and customize it with Style Settings.
+description: '自动为根文件夹添加颜色，并通过 "风格设置 "进行自定义。'
 author: Mara-Li
-downloads: 5481
+downloads: 5511
 updated: 1758557715000
 repo: Mara-Li/obsidian-simple-colored-folder
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="simple-colored-folder"
   name="Simple Colored Folder"
-  description="Automagically add color to roots folders, and customize it with Style Settings."
+  description="自动为根文件夹添加颜色，并通过 &quot;风格设置 &quot;进行自定义。"
   author="Mara-Li"
-  :downloads="5481"
+  :downloads="5511"
   :updated="1758557715000"
   repo="Mara-Li/obsidian-simple-colored-folder"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Simple Colored Folder 是一个功能强大的 Obsidian 插件。
 
-Automagically add color to roots folders, and customize it with Style Settings.
+自动为根文件夹添加颜色，并通过 &quot;风格设置 &quot;进行自定义。
 
 通过 Simple Colored Folder,您可以:
 
@@ -202,7 +202,7 @@ Automagically add color to roots folders, and customize it with Style Settings.
 - **下载量**：5.5K
 - **最后更新**：2025-09-23
 - **GitHub**：[Mara-Li/obsidian-simple-colored-folder](https://github.com/Mara-Li/obsidian-simple-colored-folder)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

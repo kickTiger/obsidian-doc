@@ -1,12 +1,12 @@
 ---
 title: Canvas Card Background Remover
-description: Make the background of cards transparent in canvas files.
+description: 在画布文件中使卡片背景透明。
 author: luxmargos
-downloads: 5147
+downloads: 5156
 updated: 1704272547000
 repo: luxmargos/obsidian-canvas-card-bg-remover
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="canvas-card-bg-remover"
   name="Canvas Card Background Remover"
-  description="Make the background of cards transparent in canvas files."
+  description="在画布文件中使卡片背景透明。"
   author="luxmargos"
-  :downloads="5147"
+  :downloads="5156"
   :updated="1704272547000"
   repo="luxmargos/obsidian-canvas-card-bg-remover"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Canvas Card Background Remover 是一个功能强大的 Obsidian 插件。
 
-Make the background of cards transparent in canvas files.
+在画布文件中使卡片背景透明。
 
 通过 Canvas Card Background Remover,您可以:
 
@@ -199,10 +199,10 @@ Make the background of cards transparent in canvas files.
 - **插件 ID**：canvas-card-bg-remover
 - **作者**：luxmargos
 - **当前版本**：v1.0.0
-- **下载量**：5.1K
+- **下载量**：5.2K
 - **最后更新**：2024-01-03
 - **GitHub**：[luxmargos/obsidian-canvas-card-bg-remover](https://github.com/luxmargos/obsidian-canvas-card-bg-remover)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

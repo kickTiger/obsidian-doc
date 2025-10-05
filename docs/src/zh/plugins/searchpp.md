@@ -1,12 +1,12 @@
 ---
 title: Search++
-description: Insert text context search results in the active note.
+description: 在活动笔记中插入文本上下文搜索结果。
 author: Noureddine Haouari
-downloads: 6633
+downloads: 6635
 updated: 1604909212000
 repo: nhaouari/searchpp
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="searchpp"
   name="Search++"
-  description="Insert text context search results in the active note."
+  description="在活动笔记中插入文本上下文搜索结果。"
   author="Noureddine Haouari"
-  :downloads="6633"
+  :downloads="6635"
   :updated="1604909212000"
   repo="nhaouari/searchpp"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Search++ 是一个功能强大的 Obsidian 插件。
 
-Insert text context search results in the active note.
+在活动笔记中插入文本上下文搜索结果。
 
 通过 Search++,您可以:
 
@@ -202,7 +202,7 @@ Insert text context search results in the active note.
 - **下载量**：6.6K
 - **最后更新**：2020-11-09
 - **GitHub**：[nhaouari/searchpp](https://github.com/nhaouari/searchpp)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

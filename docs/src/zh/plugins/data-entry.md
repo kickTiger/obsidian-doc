@@ -1,12 +1,12 @@
 ---
 title: Data Entry
-description: Create forms that save data simply; the data view of data entry.
+description: 创建可简单保存数据的表单；数据录入的数据视图。
 author: Wayne Van Son
-downloads: 4238
+downloads: 4239
 updated: 1693398694000
 repo: waynevanson/data-entry-obsidian-plugin
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="data-entry"
   name="Data Entry"
-  description="Create forms that save data simply; the data view of data entry."
+  description="创建可简单保存数据的表单；数据录入的数据视图。"
   author="Wayne Van Son"
-  :downloads="4238"
+  :downloads="4239"
   :updated="1693398694000"
   repo="waynevanson/data-entry-obsidian-plugin"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Data Entry 是一个功能强大的 Obsidian 插件。
 
-Create forms that save data simply; the data view of data entry.
+创建可简单保存数据的表单；数据录入的数据视图。
 
 通过 Data Entry,您可以:
 
@@ -202,7 +202,7 @@ Create forms that save data simply; the data view of data entry.
 - **下载量**：4.2K
 - **最后更新**：2023-08-30
 - **GitHub**：[waynevanson/data-entry-obsidian-plugin](https://github.com/waynevanson/data-entry-obsidian-plugin)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

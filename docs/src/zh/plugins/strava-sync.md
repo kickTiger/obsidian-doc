@@ -2,11 +2,11 @@
 title: Strava Sync
 description: Sync activities from Strava.
 author: Howard Wilson
-downloads: 2199
+downloads: 2211
 updated: 1729622500000
 repo: watsonbox/obsidian-strava-sync
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Strava Sync"
   description="Sync activities from Strava."
   author="Howard Wilson"
-  :downloads="2199"
+  :downloads="2211"
   :updated="1729622500000"
   repo="watsonbox/obsidian-strava-sync"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Sync activities from Strava.
 - **下载量**：2.2K
 - **最后更新**：2024-10-23
 - **GitHub**：[watsonbox/obsidian-strava-sync](https://github.com/watsonbox/obsidian-strava-sync)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

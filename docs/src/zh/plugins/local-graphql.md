@@ -6,7 +6,7 @@ downloads: 2451
 updated: 1709453133000
 repo: TwIStOy/obsidian-local-graphql
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1709453133000"
   repo="TwIStOy/obsidian-local-graphql"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Export Obsidian data as a local GraphQL server.
 - **下载量**：2.5K
 - **最后更新**：2024-03-03
 - **GitHub**：[TwIStOy/obsidian-local-graphql](https://github.com/TwIStOy/obsidian-local-graphql)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

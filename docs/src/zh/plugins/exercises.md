@@ -1,12 +1,12 @@
 ---
 title: Exercises
-description: Create interactive exercises in your notes.
+description: 在笔记中创建互动练习
 author: AlexCCavaco
 downloads: 4347
 updated: 1739819586000
 repo: AlexCCavaco/obsidian-exercises
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="exercises"
   name="Exercises"
-  description="Create interactive exercises in your notes."
+  description="在笔记中创建互动练习"
   author="AlexCCavaco"
   :downloads="4347"
   :updated="1739819586000"
   repo="AlexCCavaco/obsidian-exercises"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Exercises 是一个功能强大的 Obsidian 插件。
 
-Create interactive exercises in your notes.
+在笔记中创建互动练习
 
 通过 Exercises,您可以:
 
@@ -202,7 +202,7 @@ Create interactive exercises in your notes.
 - **下载量**：4.3K
 - **最后更新**：2025-02-18
 - **GitHub**：[AlexCCavaco/obsidian-exercises](https://github.com/AlexCCavaco/obsidian-exercises)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

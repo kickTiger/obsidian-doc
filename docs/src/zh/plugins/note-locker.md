@@ -2,11 +2,11 @@
 title: Note Locker
 description: Lock notes to open in preview mode by default.
 author: Felvesthe
-downloads: 1054
+downloads: 1057
 updated: 1747425783000
 repo: Felvesthe/Note-Locker
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note Locker"
   description="Lock notes to open in preview mode by default."
   author="Felvesthe"
-  :downloads="1054"
+  :downloads="1057"
   :updated="1747425783000"
   repo="Felvesthe/Note-Locker"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Lock notes to open in preview mode by default.
 - **下载量**：1.1K
 - **最后更新**：2025-05-17
 - **GitHub**：[Felvesthe/Note-Locker](https://github.com/Felvesthe/Note-Locker)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

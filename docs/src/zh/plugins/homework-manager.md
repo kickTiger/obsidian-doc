@@ -1,12 +1,12 @@
 ---
 title: Homework Manager
-description: Keep track of homework through a to-do list.
+description: 通过待办事项清单记录作业。
 author: Kadison McLellan
-downloads: 6310
+downloads: 6313
 updated: 1739463568000
 repo: kadisonm/obsidian-homework-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="homework-manager"
   name="Homework Manager"
-  description="Keep track of homework through a to-do list."
+  description="通过待办事项清单记录作业。"
   author="Kadison McLellan"
-  :downloads="6310"
+  :downloads="6313"
   :updated="1739463568000"
   repo="kadisonm/obsidian-homework-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Homework Manager 是一个功能强大的 Obsidian 插件。
 
-Keep track of homework through a to-do list.
+通过待办事项清单记录作业。
 
 通过 Homework Manager,您可以:
 
@@ -202,7 +202,7 @@ Keep track of homework through a to-do list.
 - **下载量**：6.3K
 - **最后更新**：2025-02-14
 - **GitHub**：[kadisonm/obsidian-homework-plugin](https://github.com/kadisonm/obsidian-homework-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

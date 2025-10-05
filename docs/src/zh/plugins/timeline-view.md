@@ -1,12 +1,12 @@
 ---
 title: Timeline View
-description: Display your notes in a timeline, based on a given property.
+description: 根据给定属性，在时间轴中显示您的笔记。
 author: b.camphart
-downloads: 7430
+downloads: 7437
 updated: 1740264957000
 repo: b-camphart/timeline-view
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="timeline-view"
   name="Timeline View"
-  description="Display your notes in a timeline, based on a given property."
+  description="根据给定属性，在时间轴中显示您的笔记。"
   author="b.camphart"
-  :downloads="7430"
+  :downloads="7437"
   :updated="1740264957000"
   repo="b-camphart/timeline-view"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Timeline View 是一个功能强大的 Obsidian 插件。
 
-Display your notes in a timeline, based on a given property.
+根据给定属性，在时间轴中显示您的笔记。
 
 通过 Timeline View,您可以:
 
@@ -202,7 +202,7 @@ Display your notes in a timeline, based on a given property.
 - **下载量**：7.4K
 - **最后更新**：2025-02-23
 - **GitHub**：[b-camphart/timeline-view](https://github.com/b-camphart/timeline-view)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

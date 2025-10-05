@@ -6,7 +6,7 @@ downloads: 371
 updated: 1717273528000
 repo: NailAhmed/Watched-Metadata
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1717273528000"
   repo="NailAhmed/Watched-Metadata"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Watches for changes in metadata and performs user-specified actions based on the
 - **下载量**：371
 - **最后更新**：2024-06-02
 - **GitHub**：[NailAhmed/Watched-Metadata](https://github.com/NailAhmed/Watched-Metadata)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

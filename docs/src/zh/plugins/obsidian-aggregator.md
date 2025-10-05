@@ -1,12 +1,12 @@
 ---
 title: Aggregator
-description: Gather information from files, and make a summary in the file.
+description: 从文件中收集信息，并在文件中进行总结。
 author: SErAphLi
-downloads: 4716
+downloads: 4717
 updated: 1743718955000
 repo: Seraphli/obsidian-aggregator
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-aggregator"
   name="Aggregator"
-  description="Gather information from files, and make a summary in the file."
+  description="从文件中收集信息，并在文件中进行总结。"
   author="SErAphLi"
-  :downloads="4716"
+  :downloads="4717"
   :updated="1743718955000"
   repo="Seraphli/obsidian-aggregator"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Aggregator 是一个功能强大的 Obsidian 插件。
 
-Gather information from files, and make a summary in the file.
+从文件中收集信息，并在文件中进行总结。
 
 通过 Aggregator,您可以:
 
@@ -202,7 +202,7 @@ Gather information from files, and make a summary in the file.
 - **下载量**：4.7K
 - **最后更新**：2025-04-04
 - **GitHub**：[Seraphli/obsidian-aggregator](https://github.com/Seraphli/obsidian-aggregator)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

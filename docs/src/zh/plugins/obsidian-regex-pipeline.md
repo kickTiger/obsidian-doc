@@ -1,12 +1,12 @@
 ---
 title: Regex Pipeline
-description: Set up custom regex rules to automatically format notes.
+description: 使用正则表达式批量处理文本。
 author: No3371
-downloads: 19958
+downloads: 19970
 updated: 1676283410000
 repo: No3371/obsidian-regex-pipeline
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-regex-pipeline"
   name="Regex Pipeline"
-  description="Set up custom regex rules to automatically format notes."
+  description="使用正则表达式批量处理文本。"
   author="No3371"
-  :downloads="19958"
+  :downloads="19970"
   :updated="1676283410000"
   repo="No3371/obsidian-regex-pipeline"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Regex Pipeline 是一个功能强大的 Obsidian 插件。
 
-Set up custom regex rules to automatically format notes.
+使用正则表达式批量处理文本。
 
 通过 Regex Pipeline,您可以:
 
@@ -202,7 +202,7 @@ Set up custom regex rules to automatically format notes.
 - **下载量**：20.0K
 - **最后更新**：2023-02-13
 - **GitHub**：[No3371/obsidian-regex-pipeline](https://github.com/No3371/obsidian-regex-pipeline)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

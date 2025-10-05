@@ -2,11 +2,11 @@
 title: Pseudo Mica
 description: Mica-like background effect for Windows.
 author: Alexis C
-downloads: 1253
+downloads: 1256
 updated: 1747154035000
 repo: aaaaalexis/obsidian-pseudo-mica
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Pseudo Mica"
   description="Mica-like background effect for Windows."
   author="Alexis C"
-  :downloads="1253"
+  :downloads="1256"
   :updated="1747154035000"
   repo="aaaaalexis/obsidian-pseudo-mica"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Mica-like background effect for Windows.
 - **下载量**：1.3K
 - **最后更新**：2025-05-14
 - **GitHub**：[aaaaalexis/obsidian-pseudo-mica](https://github.com/aaaaalexis/obsidian-pseudo-mica)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

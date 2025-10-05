@@ -19,6 +19,9 @@ const path = require('path');
 // 数据文件路径
 const PLUGINS_DATA_PATH = path.join(__dirname, '../docs/src/.vuepress/public/data/plugins.json');
 
+// 翻译数据文件路径
+const TRANSLATIONS_PATH = path.join(__dirname, '../translations/plugin-translations.json');
+
 // 模板文件路径
 const TEMPLATE_PATH = path.join(__dirname, 'templates/plugin-detail.md');
 
@@ -116,20 +119,46 @@ function readPluginsData() {
   try {
     console.log('正在读取插件数据...');
     console.log(`数据文件路径: ${PLUGINS_DATA_PATH}`);
-    
+
     if (!fs.existsSync(PLUGINS_DATA_PATH)) {
       throw new Error(`插件数据文件不存在: ${PLUGINS_DATA_PATH}`);
     }
-    
+
     const data = fs.readFileSync(PLUGINS_DATA_PATH, 'utf8');
     const plugins = JSON.parse(data);
-    
+
     console.log(`✓ 成功读取 ${plugins.length} 个插件数据`);
     return plugins;
-    
+
   } catch (error) {
     console.error('✗ 读取插件数据失败:', error.message);
     throw error;
+  }
+}
+
+/**
+ * 读取翻译数据
+ * @returns {Object} 翻译数据对象
+ */
+function readTranslations() {
+  try {
+    console.log('正在读取翻译数据...');
+    console.log(`翻译文件路径: ${TRANSLATIONS_PATH}`);
+
+    if (!fs.existsSync(TRANSLATIONS_PATH)) {
+      console.log('⚠ 翻译文件不存在，将使用原始描述');
+      return {};
+    }
+
+    const data = fs.readFileSync(TRANSLATIONS_PATH, 'utf8');
+    const translations = JSON.parse(data);
+
+    console.log(`✓ 成功读取 ${Object.keys(translations).length} 个插件翻译`);
+    return translations;
+
+  } catch (error) {
+    console.warn('⚠ 读取翻译数据失败，将使用原始描述:', error.message);
+    return {};
   }
 }
 
@@ -161,11 +190,16 @@ function readTemplate() {
  * 替换模板变量
  * @param {string} template - 模板内容
  * @param {Object} plugin - 插件数据对象
+ * @param {Object} translations - 翻译数据对象
  * @returns {string} 替换后的内容
  */
-function replaceVariables(template, plugin) {
+function replaceVariables(template, plugin, translations = {}) {
   try {
     let content = template;
+
+    // 获取翻译后的描述（如果有）
+    const translation = translations[plugin.id];
+    const description = translation && translation.description ? translation.description : plugin.description;
 
     // 分离 frontmatter 和内容部分
     const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
@@ -178,7 +212,7 @@ function replaceVariables(template, plugin) {
 
     // 替换 frontmatter 中的变量（使用 YAML 转义）
     frontmatter = frontmatter.replace(/\{\{name\}\}/g, escapeYamlString(plugin.name) || '');
-    frontmatter = frontmatter.replace(/\{\{description\}\}/g, escapeYamlString(plugin.description) || '');
+    frontmatter = frontmatter.replace(/\{\{description\}\}/g, escapeYamlString(description) || '');
     frontmatter = frontmatter.replace(/\{\{author\}\}/g, escapeYamlString(plugin.author) || '');
     frontmatter = frontmatter.replace(/\{\{repo\}\}/g, plugin.repo || '');
     frontmatter = frontmatter.replace(/\{\{version\}\}/g, plugin.latestVersion || plugin.version || '1.0.0');
@@ -191,7 +225,7 @@ function replaceVariables(template, plugin) {
     // 在 PluginDetail 组件属性中使用 HTML 转义
     body = body.replace(/\{\{id\}\}/g, plugin.id || '');
     body = body.replace(/\{\{name\}\}/g, escapeHtmlAttr(plugin.name) || '');
-    body = body.replace(/\{\{description\}\}/g, escapeHtmlAttr(plugin.description) || '');
+    body = body.replace(/\{\{description\}\}/g, escapeHtmlAttr(description) || '');
     body = body.replace(/\{\{author\}\}/g, escapeHtmlAttr(plugin.author) || '');
     body = body.replace(/\{\{repo\}\}/g, plugin.repo || '');
     body = body.replace(/\{\{version\}\}/g, plugin.latestVersion || plugin.version || '1.0.0');
@@ -219,11 +253,12 @@ function replaceVariables(template, plugin) {
  * 生成单个插件页面
  * @param {Object} plugin - 插件数据对象
  * @param {string} template - 模板内容
+ * @param {Object} translations - 翻译数据对象
  * @returns {string} 生成的页面内容
  */
-function generatePluginPage(plugin, template) {
+function generatePluginPage(plugin, template, translations = {}) {
   try {
-    const content = replaceVariables(template, plugin);
+    const content = replaceVariables(template, plugin, translations);
     return content;
   } catch (error) {
     console.error(`✗ 生成插件页面失败 (插件: ${plugin.id}):`, error.message);
@@ -262,32 +297,33 @@ function savePluginPage(pluginId, content) {
  * 生成所有插件页面
  * @param {Array} plugins - 插件数据数组
  * @param {string} template - 模板内容
+ * @param {Object} translations - 翻译数据对象
  * @returns {Object} 生成结果统计
  */
-function generateAllPages(plugins, template) {
+function generateAllPages(plugins, template, translations = {}) {
   console.log('\n========================================');
   console.log('开始生成插件页面');
   console.log('========================================\n');
-  
+
   let successCount = 0;
   let failCount = 0;
   const failedPlugins = [];
-  
+
   plugins.forEach((plugin, index) => {
     try {
       // 显示进度
       if ((index + 1) % 100 === 0 || index === 0 || index === plugins.length - 1) {
         console.log(`进度: ${index + 1}/${plugins.length} (${((index + 1) / plugins.length * 100).toFixed(1)}%)`);
       }
-      
+
       // 生成页面内容
-      const content = generatePluginPage(plugin, template);
-      
+      const content = generatePluginPage(plugin, template, translations);
+
       // 保存页面
       savePluginPage(plugin.id, content);
-      
+
       successCount++;
-      
+
     } catch (error) {
       failCount++;
       failedPlugins.push({
@@ -410,9 +446,10 @@ function deletePluginPage(pluginId) {
  * 同步页面
  * @param {Array} plugins - 所有插件数据
  * @param {string} template - 模板内容
+ * @param {Object} translations - 翻译数据对象
  * @returns {Object} 同步结果统计
  */
-function syncPages(plugins, template) {
+function syncPages(plugins, template, translations = {}) {
   console.log('\n========================================');
   console.log('开始同步插件页面');
   console.log('========================================\n');
@@ -434,7 +471,7 @@ function syncPages(plugins, template) {
     console.log(`\n正在生成 ${newPlugins.length} 个新插件页面...`);
     newPlugins.forEach((plugin, index) => {
       try {
-        const content = generatePluginPage(plugin, template);
+        const content = generatePluginPage(plugin, template, translations);
         savePluginPage(plugin.id, content);
         newPagesCount++;
 
@@ -502,6 +539,7 @@ function syncPages(plugins, template) {
 
 module.exports = {
   readPluginsData,
+  readTranslations,
   readTemplate,
   replaceVariables,
   generatePluginPage,
@@ -530,11 +568,14 @@ async function main() {
     // 1. 读取插件数据
     const plugins = readPluginsData();
 
-    // 2. 读取模板
+    // 2. 读取翻译数据
+    const translations = readTranslations();
+
+    // 3. 读取模板
     const template = readTemplate();
 
-    // 3. 同步页面
-    const result = syncPages(plugins, template);
+    // 4. 同步页面
+    const result = syncPages(plugins, template, translations);
 
     console.log('\n✓ 所有任务完成！');
 

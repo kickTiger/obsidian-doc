@@ -1,12 +1,12 @@
 ---
 title: Git Url
-description: Create a url to your file on your git remote repo.
+description: 在 git 远程仓库中创建一个指向文件的 url。
 author: khuongduy354
 downloads: 3756
 updated: 1712550256000
 repo: khuongduy354/obsidian-git-url
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="git-url"
   name="Git Url"
-  description="Create a url to your file on your git remote repo."
+  description="在 git 远程仓库中创建一个指向文件的 url。"
   author="khuongduy354"
   :downloads="3756"
   :updated="1712550256000"
   repo="khuongduy354/obsidian-git-url"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Git Url 是一个功能强大的 Obsidian 插件。
 
-Create a url to your file on your git remote repo.
+在 git 远程仓库中创建一个指向文件的 url。
 
 通过 Git Url,您可以:
 
@@ -202,7 +202,7 @@ Create a url to your file on your git remote repo.
 - **下载量**：3.8K
 - **最后更新**：2024-04-08
 - **GitHub**：[khuongduy354/obsidian-git-url](https://github.com/khuongduy354/obsidian-git-url)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

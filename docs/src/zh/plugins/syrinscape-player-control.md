@@ -2,11 +2,11 @@
 title: Syrinscape Online Player
 description: Control Syrinscape Online Player from inside of notes.
 author: Stephen Cooper
-downloads: 434
+downloads: 435
 updated: 1722809757000
 repo: scooper4711/obsidian-syrinscape
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Syrinscape Online Player"
   description="Control Syrinscape Online Player from inside of notes."
   author="Stephen Cooper"
-  :downloads="434"
+  :downloads="435"
   :updated="1722809757000"
   repo="scooper4711/obsidian-syrinscape"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Control Syrinscape Online Player from inside of notes.
 - **插件 ID**：syrinscape-player-control
 - **作者**：Stephen Cooper
 - **当前版本**：v1.0.0
-- **下载量**：434
+- **下载量**：435
 - **最后更新**：2024-08-05
 - **GitHub**：[scooper4711/obsidian-syrinscape](https://github.com/scooper4711/obsidian-syrinscape)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

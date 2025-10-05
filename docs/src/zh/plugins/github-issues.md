@@ -2,11 +2,11 @@
 title: Github Issues
 description: Track Github Issues and pull requests directly in your vault
 author: LonoxX
-downloads: 266
+downloads: 267
 updated: 1758778498000
 repo: LonoxX/obsidian-github-issues
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Github Issues"
   description="Track Github Issues and pull requests directly in your vault"
   author="LonoxX"
-  :downloads="266"
+  :downloads="267"
   :updated="1758778498000"
   repo="LonoxX/obsidian-github-issues"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Track Github Issues and pull requests directly in your vault
 - **插件 ID**：github-issues
 - **作者**：LonoxX
 - **当前版本**：v1.0.0
-- **下载量**：266
+- **下载量**：267
 - **最后更新**：2025-09-25
 - **GitHub**：[LonoxX/obsidian-github-issues](https://github.com/LonoxX/obsidian-github-issues)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

@@ -6,7 +6,7 @@ downloads: 626
 updated: 1729288559000
 repo: MKSherbini/obsidian-noor
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1729288559000"
   repo="MKSherbini/obsidian-noor"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Aims to help Muslims stay enlightened with Islam, Quran, Hadith, and Sunnah
 - **下载量**：626
 - **最后更新**：2024-10-19
 - **GitHub**：[MKSherbini/obsidian-noor](https://github.com/MKSherbini/obsidian-noor)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

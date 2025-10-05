@@ -2,11 +2,11 @@
 title: Copy Absolute Path
 description: Copy the system absolute path of files and folders to the clipboard.
 author: 'Albert O''Shea'
-downloads: 214
+downloads: 215
 updated: 1750910813000
 repo: Alb-O/obsidian-copy-absolute-path
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Copy Absolute Path"
   description="Copy the system absolute path of files and folders to the clipboard."
   author="Albert O&#39;Shea"
-  :downloads="214"
+  :downloads="215"
   :updated="1750910813000"
   repo="Alb-O/obsidian-copy-absolute-path"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Copy the system absolute path of files and folders to the clipboard.
 - **插件 ID**：copy-absolute-path
 - **作者**：Albert O&#39;Shea
 - **当前版本**：v1.0.0
-- **下载量**：214
+- **下载量**：215
 - **最后更新**：2025-06-26
 - **GitHub**：[Alb-O/obsidian-copy-absolute-path](https://github.com/Alb-O/obsidian-copy-absolute-path)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Note From Form
 description: Define dynamic input form and use it to create notes
 author: Sergei Kosivchenko
-downloads: 310
+downloads: 311
 updated: 1731531777000
 repo: ArhiChief/obsidian-note-from-form
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note From Form"
   description="Define dynamic input form and use it to create notes"
   author="Sergei Kosivchenko"
-  :downloads="310"
+  :downloads="311"
   :updated="1731531777000"
   repo="ArhiChief/obsidian-note-from-form"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Define dynamic input form and use it to create notes
 - **插件 ID**：note-from-form
 - **作者**：Sergei Kosivchenko
 - **当前版本**：v1.0.0
-- **下载量**：310
+- **下载量**：311
 - **最后更新**：2024-11-14
 - **GitHub**：[ArhiChief/obsidian-note-from-form](https://github.com/ArhiChief/obsidian-note-from-form)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

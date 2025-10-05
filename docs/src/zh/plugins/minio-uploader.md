@@ -2,11 +2,11 @@
 title: Minio Uploader
 description: Upload images, videos, audio, PDFs, and other files to Minio OSS.
 author: Seebin
-downloads: 3472
+downloads: 3475
 updated: 1702626790000
 repo: seebin/obsidian-minio-uploader-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Minio Uploader"
   description="Upload images, videos, audio, PDFs, and other files to Minio OSS."
   author="Seebin"
-  :downloads="3472"
+  :downloads="3475"
   :updated="1702626790000"
   repo="seebin/obsidian-minio-uploader-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Upload images, videos, audio, PDFs, and other files to Minio OSS.
 - **下载量**：3.5K
 - **最后更新**：2023-12-15
 - **GitHub**：[seebin/obsidian-minio-uploader-plugin](https://github.com/seebin/obsidian-minio-uploader-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

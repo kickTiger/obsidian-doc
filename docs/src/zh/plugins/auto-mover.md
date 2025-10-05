@@ -2,11 +2,11 @@
 title: AutoMover
 description: Moves files with specified names into the same folder.
 author: Al0cam
-downloads: 2305
+downloads: 2314
 updated: 1758994432000
 repo: al0cam/AutoMover
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="AutoMover"
   description="Moves files with specified names into the same folder."
   author="Al0cam"
-  :downloads="2305"
+  :downloads="2314"
   :updated="1758994432000"
   repo="al0cam/AutoMover"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Moves files with specified names into the same folder.
 - **下载量**：2.3K
 - **最后更新**：2025-09-28
 - **GitHub**：[al0cam/AutoMover](https://github.com/al0cam/AutoMover)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

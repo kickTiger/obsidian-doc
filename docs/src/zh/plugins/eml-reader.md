@@ -1,12 +1,12 @@
 ---
 title: Email Reader
-description: A preview mode for embedded .eml files.
+description: 嵌入式 .eml 文件的预览模式。
 author: Pulsovi
-downloads: 6656
+downloads: 6660
 updated: 1745322952000
 repo: pulsovi/obsidian_eml_reader
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="eml-reader"
   name="Email Reader"
-  description="A preview mode for embedded .eml files."
+  description="嵌入式 .eml 文件的预览模式。"
   author="Pulsovi"
-  :downloads="6656"
+  :downloads="6660"
   :updated="1745322952000"
   repo="pulsovi/obsidian_eml_reader"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Email Reader 是一个功能强大的 Obsidian 插件。
 
-A preview mode for embedded .eml files.
+嵌入式 .eml 文件的预览模式。
 
 通过 Email Reader,您可以:
 
@@ -202,7 +202,7 @@ A preview mode for embedded .eml files.
 - **下载量**：6.7K
 - **最后更新**：2025-04-22
 - **GitHub**：[pulsovi/obsidian_eml_reader](https://github.com/pulsovi/obsidian_eml_reader)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

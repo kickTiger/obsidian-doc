@@ -2,11 +2,11 @@
 title: Countdown To
 description: Create countdown progress bars in your notes.
 author: Gui Cattani
-downloads: 954
+downloads: 956
 updated: 1756645941000
 repo: guicattani/obsidian-countdown-to
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Countdown To"
   description="Create countdown progress bars in your notes."
   author="Gui Cattani"
-  :downloads="954"
+  :downloads="956"
   :updated="1756645941000"
   repo="guicattani/obsidian-countdown-to"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create countdown progress bars in your notes.
 - **插件 ID**：countdown-to
 - **作者**：Gui Cattani
 - **当前版本**：v1.0.0
-- **下载量**：954
+- **下载量**：956
 - **最后更新**：2025-08-31
 - **GitHub**：[guicattani/obsidian-countdown-to](https://github.com/guicattani/obsidian-countdown-to)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

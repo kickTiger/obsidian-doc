@@ -2,11 +2,11 @@
 title: CSS Inserter
 description: Inserts user-defined CSS snippets into the selected text.
 author: Erika Gozar
-downloads: 1055
+downloads: 1058
 updated: 1733935935000
 repo: Erallie/css-inserter
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="CSS Inserter"
   description="Inserts user-defined CSS snippets into the selected text."
   author="Erika Gozar"
-  :downloads="1055"
+  :downloads="1058"
   :updated="1733935935000"
   repo="Erallie/css-inserter"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Inserts user-defined CSS snippets into the selected text.
 - **下载量**：1.1K
 - **最后更新**：2024-12-12
 - **GitHub**：[Erallie/css-inserter](https://github.com/Erallie/css-inserter)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

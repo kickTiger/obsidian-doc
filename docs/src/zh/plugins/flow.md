@@ -2,11 +2,11 @@
 title: Flow
 description: 'Implements key processes in David Allen''s Getting Things Done (GTD) methodology (Closed source)'
 author: Ben Phillips
-downloads: 1834
+downloads: 1837
 updated: 1758712942000
 repo: tavva/flow-release
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Flow"
   description="Implements key processes in David Allen&#39;s Getting Things Done (GTD) methodology (Closed source)"
   author="Ben Phillips"
-  :downloads="1834"
+  :downloads="1837"
   :updated="1758712942000"
   repo="tavva/flow-release"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Implements key processes in David Allen&#39;s Getting Things Done (GTD) methodol
 - **下载量**：1.8K
 - **最后更新**：2025-09-24
 - **GitHub**：[tavva/flow-release](https://github.com/tavva/flow-release)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

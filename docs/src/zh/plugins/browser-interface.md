@@ -6,7 +6,7 @@ downloads: 543
 updated: 1721107772000
 repo: jason-lieb/obsidian-browser-interface-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1721107772000"
   repo="jason-lieb/obsidian-browser-interface-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Allows you to interact with the browser.
 - **下载量**：543
 - **最后更新**：2024-07-16
 - **GitHub**：[jason-lieb/obsidian-browser-interface-plugin](https://github.com/jason-lieb/obsidian-browser-interface-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

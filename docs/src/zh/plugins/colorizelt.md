@@ -2,11 +2,11 @@
 title: Colorizelt
 description: Easy color and clear selected text
 author: Artsem Holub (WiNE-iNEFF)
-downloads: 2008
+downloads: 2015
 updated: 1730975068000
 repo: WiNE-iNEFF/colorizelt
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Colorizelt"
   description="Easy color and clear selected text"
   author="Artsem Holub (WiNE-iNEFF)"
-  :downloads="2008"
+  :downloads="2015"
   :updated="1730975068000"
   repo="WiNE-iNEFF/colorizelt"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easy color and clear selected text
 - **下载量**：2.0K
 - **最后更新**：2024-11-07
 - **GitHub**：[WiNE-iNEFF/colorizelt](https://github.com/WiNE-iNEFF/colorizelt)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

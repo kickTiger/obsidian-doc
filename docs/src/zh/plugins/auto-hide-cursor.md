@@ -1,12 +1,12 @@
 ---
 title: Auto Hide Cursor
-description: Hide the cursor when scrolling and show it again when moving the mouse.
+description: 滚动时隐藏光标，移动鼠标时再显示光标。
 author: Mo Ismat
 downloads: 4165
 updated: 1686670642000
 repo: jmxo/obsidian-auto-hide-cursor
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="auto-hide-cursor"
   name="Auto Hide Cursor"
-  description="Hide the cursor when scrolling and show it again when moving the mouse."
+  description="滚动时隐藏光标，移动鼠标时再显示光标。"
   author="Mo Ismat"
   :downloads="4165"
   :updated="1686670642000"
   repo="jmxo/obsidian-auto-hide-cursor"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Auto Hide Cursor 是一个功能强大的 Obsidian 插件。
 
-Hide the cursor when scrolling and show it again when moving the mouse.
+滚动时隐藏光标，移动鼠标时再显示光标。
 
 通过 Auto Hide Cursor,您可以:
 
@@ -202,7 +202,7 @@ Hide the cursor when scrolling and show it again when moving the mouse.
 - **下载量**：4.2K
 - **最后更新**：2023-06-13
 - **GitHub**：[jmxo/obsidian-auto-hide-cursor](https://github.com/jmxo/obsidian-auto-hide-cursor)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Nifty Links
-description: Generate elegant, Notion-style rich link cards to enhance your note-taking experience.
+description: 生成优雅的 Notion 风格富链接卡片，增强你的笔记体验。
 author: x-Ai
-downloads: 8386
+downloads: 8390
 updated: 1726990460000
 repo: x-Ai/obsidian-nifty-links
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="nifty-links"
   name="Nifty Links"
-  description="Generate elegant, Notion-style rich link cards to enhance your note-taking experience."
+  description="生成优雅的 Notion 风格富链接卡片，增强你的笔记体验。"
   author="x-Ai"
-  :downloads="8386"
+  :downloads="8390"
   :updated="1726990460000"
   repo="x-Ai/obsidian-nifty-links"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Nifty Links 是一个功能强大的 Obsidian 插件。
 
-Generate elegant, Notion-style rich link cards to enhance your note-taking experience.
+生成优雅的 Notion 风格富链接卡片，增强你的笔记体验。
 
 通过 Nifty Links,您可以:
 
@@ -202,7 +202,7 @@ Generate elegant, Notion-style rich link cards to enhance your note-taking exper
 - **下载量**：8.4K
 - **最后更新**：2024-09-22
 - **GitHub**：[x-Ai/obsidian-nifty-links](https://github.com/x-Ai/obsidian-nifty-links)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

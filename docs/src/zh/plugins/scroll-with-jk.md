@@ -2,11 +2,11 @@
 title: Reading View j/k Scroll
 description: Scroll in reading view with j/k keys. Scroll to top with gg and to bottom with G.
 author: Lukas Korotaj
-downloads: 410
+downloads: 411
 updated: 1742146219000
 repo: LukasKorotaj/Scroll-With-j-k-in-Obsidian
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Reading View j/k Scroll"
   description="Scroll in reading view with j/k keys. Scroll to top with gg and to bottom with G."
   author="Lukas Korotaj"
-  :downloads="410"
+  :downloads="411"
   :updated="1742146219000"
   repo="LukasKorotaj/Scroll-With-j-k-in-Obsidian"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Scroll in reading view with j/k keys. Scroll to top with gg and to bottom with G
 - **插件 ID**：scroll-with-jk
 - **作者**：Lukas Korotaj
 - **当前版本**：v1.0.0
-- **下载量**：410
+- **下载量**：411
 - **最后更新**：2025-03-17
 - **GitHub**：[LukasKorotaj/Scroll-With-j-k-in-Obsidian](https://github.com/LukasKorotaj/Scroll-With-j-k-in-Obsidian)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

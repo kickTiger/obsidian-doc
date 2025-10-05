@@ -6,7 +6,7 @@ downloads: 1272
 updated: 1716703435000
 repo: LifeFi/obsidian-jump
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1716703435000"
   repo="LifeFi/obsidian-jump"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Quickly jump between list items and headings throughout same or upper/lower leve
 - **下载量**：1.3K
 - **最后更新**：2024-05-26
 - **GitHub**：[LifeFi/obsidian-jump](https://github.com/LifeFi/obsidian-jump)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

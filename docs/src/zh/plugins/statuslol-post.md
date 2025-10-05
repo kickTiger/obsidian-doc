@@ -6,7 +6,7 @@ downloads: 57
 updated: 1757082107000
 repo: ericmwalk/obsidian-omglol-publish
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1757082107000"
   repo="ericmwalk/obsidian-omglol-publish"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Post statuses to status.lol, log notes option, and mobile compatibility.
 - **下载量**：57
 - **最后更新**：2025-09-05
 - **GitHub**：[ericmwalk/obsidian-omglol-publish](https://github.com/ericmwalk/obsidian-omglol-publish)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

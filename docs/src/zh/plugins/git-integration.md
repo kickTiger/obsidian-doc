@@ -2,11 +2,11 @@
 title: Git Integration
 description: Easily backup vault on a remote repository.
 author: noradroid
-downloads: 2533
+downloads: 2535
 updated: 1708616768000
 repo: noradroid/obsidian-git-integration
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Git Integration"
   description="Easily backup vault on a remote repository."
   author="noradroid"
-  :downloads="2533"
+  :downloads="2535"
   :updated="1708616768000"
   repo="noradroid/obsidian-git-integration"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily backup vault on a remote repository.
 - **下载量**：2.5K
 - **最后更新**：2024-02-22
 - **GitHub**：[noradroid/obsidian-git-integration](https://github.com/noradroid/obsidian-git-integration)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

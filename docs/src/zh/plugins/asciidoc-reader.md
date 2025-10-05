@@ -2,11 +2,11 @@
 title: Asciidoc Reader
 description: Enables the rendering of AsciiDoc.
 author: voidgrown
-downloads: 601
+downloads: 602
 updated: 1719213864000
 repo: Voidgrown/obsidian-asciidoc
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Asciidoc Reader"
   description="Enables the rendering of AsciiDoc."
   author="voidgrown"
-  :downloads="601"
+  :downloads="602"
   :updated="1719213864000"
   repo="Voidgrown/obsidian-asciidoc"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Enables the rendering of AsciiDoc.
 - **插件 ID**：asciidoc-reader
 - **作者**：voidgrown
 - **当前版本**：v1.0.0
-- **下载量**：601
+- **下载量**：602
 - **最后更新**：2024-06-24
 - **GitHub**：[Voidgrown/obsidian-asciidoc](https://github.com/Voidgrown/obsidian-asciidoc)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

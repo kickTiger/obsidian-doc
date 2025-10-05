@@ -1,12 +1,12 @@
 ---
 title: QuickAdd
-description: Quickly add new notes or content to your vault.
+description: 快速向笔记库添加新笔记或内容。
 author: Christian B. B. Houmann
-downloads: 1321421
+downloads: 1322727
 updated: 1758222473000
 repo: chhoumann/quickadd
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="quickadd"
   name="QuickAdd"
-  description="Quickly add new notes or content to your vault."
+  description="快速向笔记库添加新笔记或内容。"
   author="Christian B. B. Houmann"
-  :downloads="1321421"
+  :downloads="1322727"
   :updated="1758222473000"
   repo="chhoumann/quickadd"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 QuickAdd 是一个功能强大的 Obsidian 插件。
 
-Quickly add new notes or content to your vault.
+快速向笔记库添加新笔记或内容。
 
 通过 QuickAdd,您可以:
 
@@ -202,7 +202,7 @@ Quickly add new notes or content to your vault.
 - **下载量**：1.32M
 - **最后更新**：2025-09-19
 - **GitHub**：[chhoumann/quickadd](https://github.com/chhoumann/quickadd)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Fold Properties By Default
 description: Always have editor/metadata properties folded by default
 author: Tommy Bergeron
-downloads: 2836
+downloads: 2851
 updated: 1737369583000
 repo: tbergeron/obsidian-fold-properties-by-default
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Fold Properties By Default"
   description="Always have editor/metadata properties folded by default"
   author="Tommy Bergeron"
-  :downloads="2836"
+  :downloads="2851"
   :updated="1737369583000"
   repo="tbergeron/obsidian-fold-properties-by-default"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Always have editor/metadata properties folded by default
 - **插件 ID**：fold-properties-by-default
 - **作者**：Tommy Bergeron
 - **当前版本**：v1.0.0
-- **下载量**：2.8K
+- **下载量**：2.9K
 - **最后更新**：2025-01-20
 - **GitHub**：[tbergeron/obsidian-fold-properties-by-default](https://github.com/tbergeron/obsidian-fold-properties-by-default)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

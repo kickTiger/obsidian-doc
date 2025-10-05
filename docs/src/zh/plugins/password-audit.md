@@ -2,11 +2,11 @@
 title: Password Audit
 description: A plugin to audit passwords for strength and breaches, and generate secure passwords.
 author: Sai Prashanth Pulisetti
-downloads: 327
+downloads: 328
 updated: 1731990637000
 repo: 0xPrashanthSec/password-audit
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Password Audit"
   description="A plugin to audit passwords for strength and breaches, and generate secure passwords."
   author="Sai Prashanth Pulisetti"
-  :downloads="327"
+  :downloads="328"
   :updated="1731990637000"
   repo="0xPrashanthSec/password-audit"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ A plugin to audit passwords for strength and breaches, and generate secure passw
 - **插件 ID**：password-audit
 - **作者**：Sai Prashanth Pulisetti
 - **当前版本**：v1.0.0
-- **下载量**：327
+- **下载量**：328
 - **最后更新**：2024-11-19
 - **GitHub**：[0xPrashanthSec/password-audit](https://github.com/0xPrashanthSec/password-audit)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

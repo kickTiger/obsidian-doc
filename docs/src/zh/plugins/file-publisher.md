@@ -6,7 +6,7 @@ downloads: 3529
 updated: 1678141015000
 repo: yiglas/obsidian-file-publisher
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1678141015000"
   repo="yiglas/obsidian-file-publisher"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Publish a file to a given POST API.
 - **下载量**：3.5K
 - **最后更新**：2023-03-07
 - **GitHub**：[yiglas/obsidian-file-publisher](https://github.com/yiglas/obsidian-file-publisher)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

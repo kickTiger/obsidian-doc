@@ -1,12 +1,12 @@
 ---
 title: Better Canvas Lock
-description: 'Enhance the read-only mode in Canvas with fully lock the scroll, zoom, drag-and-drop in read-only!'
+description: 增强 Canvas 的只读模式，在只读模式下完全锁定滚动、缩放和拖放！
 author: Mara-Li
-downloads: 4404
+downloads: 4409
 updated: 1716714821000
 repo: Mara-Li/obsidian-better-canvas-lock
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="better-canvas-lock"
   name="Better Canvas Lock"
-  description="Enhance the read-only mode in Canvas with fully lock the scroll, zoom, drag-and-drop in read-only!"
+  description="增强 Canvas 的只读模式，在只读模式下完全锁定滚动、缩放和拖放！"
   author="Mara-Li"
-  :downloads="4404"
+  :downloads="4409"
   :updated="1716714821000"
   repo="Mara-Li/obsidian-better-canvas-lock"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Better Canvas Lock 是一个功能强大的 Obsidian 插件。
 
-Enhance the read-only mode in Canvas with fully lock the scroll, zoom, drag-and-drop in read-only!
+增强 Canvas 的只读模式，在只读模式下完全锁定滚动、缩放和拖放！
 
 通过 Better Canvas Lock,您可以:
 
@@ -202,7 +202,7 @@ Enhance the read-only mode in Canvas with fully lock the scroll, zoom, drag-and-
 - **下载量**：4.4K
 - **最后更新**：2024-05-26
 - **GitHub**：[Mara-Li/obsidian-better-canvas-lock](https://github.com/Mara-Li/obsidian-better-canvas-lock)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

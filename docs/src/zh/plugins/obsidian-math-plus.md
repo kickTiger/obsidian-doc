@@ -1,12 +1,12 @@
 ---
 title: Math+
-description: Take math notes using Excalidraw.
+description: 使用 Excalidraw 做数学笔记。
 author: Oscar Capraro
-downloads: 41022
+downloads: 41049
 updated: 1706372602000
 repo: ocapraro/obsidian-math-plus
 version: 1.0.0
-category: 其他
+category: drawing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-math-plus"
   name="Math+"
-  description="Take math notes using Excalidraw."
+  description="使用 Excalidraw 做数学笔记。"
   author="Oscar Capraro"
-  :downloads="41022"
+  :downloads="41049"
   :updated="1706372602000"
   repo="ocapraro/obsidian-math-plus"
   version="1.0.0"
-  category="其他"
+  category="drawing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Math+ 是一个功能强大的 Obsidian 插件。
 
-Take math notes using Excalidraw.
+使用 Excalidraw 做数学笔记。
 
 通过 Math+,您可以:
 
@@ -202,7 +202,7 @@ Take math notes using Excalidraw.
 - **下载量**：41.0K
 - **最后更新**：2024-01-28
 - **GitHub**：[ocapraro/obsidian-math-plus](https://github.com/ocapraro/obsidian-math-plus)
-- **分类**：其他
+- **分类**：drawing
 
 </PluginDetail>
 

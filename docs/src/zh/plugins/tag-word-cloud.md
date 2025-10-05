@@ -1,12 +1,12 @@
 ---
 title: 'Tag, Word & Link Cloud'
-description: Show a cloud of your tags, words, or links.
+description: 显示标签、单词或链接云。
 author: Johannes Theiner
-downloads: 15454
+downloads: 15456
 updated: 1694431150000
 repo: joethei/obsidian-tagcloud
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="tag-word-cloud"
   name="Tag, Word &amp; Link Cloud"
-  description="Show a cloud of your tags, words, or links."
+  description="显示标签、单词或链接云。"
   author="Johannes Theiner"
-  :downloads="15454"
+  :downloads="15456"
   :updated="1694431150000"
   repo="joethei/obsidian-tagcloud"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Tag, Word &amp; Link Cloud 是一个功能强大的 Obsidian 插件。
 
-Show a cloud of your tags, words, or links.
+显示标签、单词或链接云。
 
 通过 Tag, Word &amp; Link Cloud,您可以:
 
@@ -202,7 +202,7 @@ Show a cloud of your tags, words, or links.
 - **下载量**：15.5K
 - **最后更新**：2023-09-11
 - **GitHub**：[joethei/obsidian-tagcloud](https://github.com/joethei/obsidian-tagcloud)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

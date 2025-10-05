@@ -2,11 +2,11 @@
 title: Note to RED
 description: Convert Markdown notes to RED (Xiaohongshu) style images
 author: Yeban
-downloads: 2968
+downloads: 2976
 updated: 1755745277000
 repo: Yeban8090/note-to-red
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Note to RED"
   description="Convert Markdown notes to RED (Xiaohongshu) style images"
   author="Yeban"
-  :downloads="2968"
+  :downloads="2976"
   :updated="1755745277000"
   repo="Yeban8090/note-to-red"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Convert Markdown notes to RED (Xiaohongshu) style images
 - **下载量**：3.0K
 - **最后更新**：2025-08-21
 - **GitHub**：[Yeban8090/note-to-red](https://github.com/Yeban8090/note-to-red)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

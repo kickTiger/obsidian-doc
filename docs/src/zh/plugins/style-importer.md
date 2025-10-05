@@ -1,12 +1,12 @@
 ---
 title: Style Importer
-description: Import a stylesheet from a URL into your snippets folder.
+description: 将样式表从 URL 导入片段文件夹。
 author: Josh Rouwhorst
-downloads: 4183
+downloads: 4187
 updated: 1686578900000
 repo: joshrouwhorst/style-importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="style-importer"
   name="Style Importer"
-  description="Import a stylesheet from a URL into your snippets folder."
+  description="将样式表从 URL 导入片段文件夹。"
   author="Josh Rouwhorst"
-  :downloads="4183"
+  :downloads="4187"
   :updated="1686578900000"
   repo="joshrouwhorst/style-importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Style Importer 是一个功能强大的 Obsidian 插件。
 
-Import a stylesheet from a URL into your snippets folder.
+将样式表从 URL 导入片段文件夹。
 
 通过 Style Importer,您可以:
 
@@ -202,7 +202,7 @@ Import a stylesheet from a URL into your snippets folder.
 - **下载量**：4.2K
 - **最后更新**：2023-06-12
 - **GitHub**：[joshrouwhorst/style-importer](https://github.com/joshrouwhorst/style-importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

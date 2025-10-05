@@ -1,12 +1,12 @@
 ---
 title: InlineAI
-description: AI-powered suggestions, contextual edits, and advanced text transformations directly into your editor.
+description: 在编辑器中直接使用人工智能支持的建议、上下文编辑和高级文本转换。
 author: FBarrca
-downloads: 5251
+downloads: 5260
 updated: 1758295767000
 repo: FBarrca/obsidian-inlineAI
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="inlineai"
   name="InlineAI"
-  description="AI-powered suggestions, contextual edits, and advanced text transformations directly into your editor."
+  description="在编辑器中直接使用人工智能支持的建议、上下文编辑和高级文本转换。"
   author="FBarrca"
-  :downloads="5251"
+  :downloads="5260"
   :updated="1758295767000"
   repo="FBarrca/obsidian-inlineAI"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 InlineAI 是一个功能强大的 Obsidian 插件。
 
-AI-powered suggestions, contextual edits, and advanced text transformations directly into your editor.
+在编辑器中直接使用人工智能支持的建议、上下文编辑和高级文本转换。
 
 通过 InlineAI,您可以:
 
@@ -202,7 +202,7 @@ AI-powered suggestions, contextual edits, and advanced text transformations dire
 - **下载量**：5.3K
 - **最后更新**：2025-09-19
 - **GitHub**：[FBarrca/obsidian-inlineAI](https://github.com/FBarrca/obsidian-inlineAI)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

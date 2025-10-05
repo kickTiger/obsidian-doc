@@ -6,7 +6,7 @@ downloads: 231
 updated: 1750911917000
 repo: Alb-O/obsidian-click-unsupported-files
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1750911917000"
   repo="Alb-O/obsidian-click-unsupported-files"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Changes click behavior for unsupported files to work similar to Windows File Exp
 - **下载量**：231
 - **最后更新**：2025-06-26
 - **GitHub**：[Alb-O/obsidian-click-unsupported-files](https://github.com/Alb-O/obsidian-click-unsupported-files)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

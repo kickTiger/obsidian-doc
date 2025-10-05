@@ -1,12 +1,12 @@
 ---
 title: Pixel Perfect Image
-description: 'Pixel perfect 100% image resizing, copy to clipboard, show image in Finder/Explorer, edit image in external editor, and much more.'
+description: '像素完美的 100% 图像大小调整、复制到剪贴板、在 Finder/Explorer 中显示图像、在外部编辑器中编辑图像等等。'
 author: Johan Sanneblad
-downloads: 8417
+downloads: 8445
 updated: 1756557718000
 repo: johansan/pixel-perfect-image
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="pixel-perfect-image"
   name="Pixel Perfect Image"
-  description="Pixel perfect 100% image resizing, copy to clipboard, show image in Finder/Explorer, edit image in external editor, and much more."
+  description="像素完美的 100% 图像大小调整、复制到剪贴板、在 Finder/Explorer 中显示图像、在外部编辑器中编辑图像等等。"
   author="Johan Sanneblad"
-  :downloads="8417"
+  :downloads="8445"
   :updated="1756557718000"
   repo="johansan/pixel-perfect-image"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Pixel Perfect Image 是一个功能强大的 Obsidian 插件。
 
-Pixel perfect 100% image resizing, copy to clipboard, show image in Finder/Explorer, edit image in external editor, and much more.
+像素完美的 100% 图像大小调整、复制到剪贴板、在 Finder/Explorer 中显示图像、在外部编辑器中编辑图像等等。
 
 通过 Pixel Perfect Image,您可以:
 
@@ -202,7 +202,7 @@ Pixel perfect 100% image resizing, copy to clipboard, show image in Finder/Explo
 - **下载量**：8.4K
 - **最后更新**：2025-08-30
 - **GitHub**：[johansan/pixel-perfect-image](https://github.com/johansan/pixel-perfect-image)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

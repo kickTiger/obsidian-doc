@@ -2,11 +2,11 @@
 title: Toggle Readable line length
 description: Add command to toggle Readable line length editor setting.
 author: Doug Richardson
-downloads: 1884
+downloads: 1886
 updated: 1718729446000
 repo: drichardson/obsidian-toggle-readable-line-length
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Toggle Readable line length"
   description="Add command to toggle Readable line length editor setting."
   author="Doug Richardson"
-  :downloads="1884"
+  :downloads="1886"
   :updated="1718729446000"
   repo="drichardson/obsidian-toggle-readable-line-length"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add command to toggle Readable line length editor setting.
 - **下载量**：1.9K
 - **最后更新**：2024-06-19
 - **GitHub**：[drichardson/obsidian-toggle-readable-line-length](https://github.com/drichardson/obsidian-toggle-readable-line-length)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

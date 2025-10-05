@@ -2,11 +2,11 @@
 title: Replace All
 description: Adds replace all functionality into search.
 author: Patrick Chiang
-downloads: 1750
+downloads: 1753
 updated: 1729570003000
 repo: patrickchiang/obsidian-replace-all
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Replace All"
   description="Adds replace all functionality into search."
   author="Patrick Chiang"
-  :downloads="1750"
+  :downloads="1753"
   :updated="1729570003000"
   repo="patrickchiang/obsidian-replace-all"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Adds replace all functionality into search.
 - **下载量**：1.8K
 - **最后更新**：2024-10-22
 - **GitHub**：[patrickchiang/obsidian-replace-all](https://github.com/patrickchiang/obsidian-replace-all)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Scroll to Top
-description: Add a button to scroll to the top of the current note.
+description: 添加一个按钮，滚动到当前笔记的顶部。
 author: cloudhao1999
-downloads: 21155
+downloads: 21237
 updated: 1751942842000
 repo: cloudhao1999/obsidian-scroll-to-top-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-scroll-to-top-plugin"
   name="Scroll to Top"
-  description="Add a button to scroll to the top of the current note."
+  description="添加一个按钮，滚动到当前笔记的顶部。"
   author="cloudhao1999"
-  :downloads="21155"
+  :downloads="21237"
   :updated="1751942842000"
   repo="cloudhao1999/obsidian-scroll-to-top-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Scroll to Top 是一个功能强大的 Obsidian 插件。
 
-Add a button to scroll to the top of the current note.
+添加一个按钮，滚动到当前笔记的顶部。
 
 通过 Scroll to Top,您可以:
 
@@ -202,7 +202,7 @@ Add a button to scroll to the top of the current note.
 - **下载量**：21.2K
 - **最后更新**：2025-07-08
 - **GitHub**：[cloudhao1999/obsidian-scroll-to-top-plugin](https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

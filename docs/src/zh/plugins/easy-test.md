@@ -6,7 +6,7 @@ downloads: 323
 updated: 1746008292000
 repo: forrest1398/obsidian-easyTest-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1746008292000"
   repo="forrest1398/obsidian-easyTest-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Easily create simple tests
 - **下载量**：323
 - **最后更新**：2025-04-30
 - **GitHub**：[forrest1398/obsidian-easyTest-plugin](https://github.com/forrest1398/obsidian-easyTest-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

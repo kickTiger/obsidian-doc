@@ -1,12 +1,12 @@
 ---
 title: Vimium
-description: Interact with elements using keyboard shortcuts in the spirit of Vim.
+description: 秉承 Vim 的精神，使用键盘快捷键与元素进行交互。
 author: Karsten Finderup Pedersen
-downloads: 5223
+downloads: 5233
 updated: 1718992305000
 repo: karstenpedersen/obsidian-vimium
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vimium"
   name="Vimium"
-  description="Interact with elements using keyboard shortcuts in the spirit of Vim."
+  description="秉承 Vim 的精神，使用键盘快捷键与元素进行交互。"
   author="Karsten Finderup Pedersen"
-  :downloads="5223"
+  :downloads="5233"
   :updated="1718992305000"
   repo="karstenpedersen/obsidian-vimium"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vimium 是一个功能强大的 Obsidian 插件。
 
-Interact with elements using keyboard shortcuts in the spirit of Vim.
+秉承 Vim 的精神，使用键盘快捷键与元素进行交互。
 
 通过 Vimium,您可以:
 
@@ -202,7 +202,7 @@ Interact with elements using keyboard shortcuts in the spirit of Vim.
 - **下载量**：5.2K
 - **最后更新**：2024-06-22
 - **GitHub**：[karstenpedersen/obsidian-vimium](https://github.com/karstenpedersen/obsidian-vimium)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Scrolling
 description: Improve scrolling and keep your cursor exactly where you want it.
 author: omeyenburg
-downloads: 1712
+downloads: 1741
 updated: 1759432814000
 repo: omeyenburg/obsidian-scrolling
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Scrolling"
   description="Improve scrolling and keep your cursor exactly where you want it."
   author="omeyenburg"
-  :downloads="1712"
+  :downloads="1741"
   :updated="1759432814000"
   repo="omeyenburg/obsidian-scrolling"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Improve scrolling and keep your cursor exactly where you want it.
 - **下载量**：1.7K
 - **最后更新**：2025-10-03
 - **GitHub**：[omeyenburg/obsidian-scrolling](https://github.com/omeyenburg/obsidian-scrolling)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

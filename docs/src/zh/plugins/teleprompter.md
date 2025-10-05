@@ -1,12 +1,12 @@
 ---
 title: Teleprompter
-description: Teleprompter window for live presentations and video production.
+description: 用于现场演示和视频制作的提词器窗口。
 author: Lumetrium
-downloads: 7328
+downloads: 7334
 updated: 1738172024000
 repo: lumetrium/obsidian-teleprompter
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="teleprompter"
   name="Teleprompter"
-  description="Teleprompter window for live presentations and video production."
+  description="用于现场演示和视频制作的提词器窗口。"
   author="Lumetrium"
-  :downloads="7328"
+  :downloads="7334"
   :updated="1738172024000"
   repo="lumetrium/obsidian-teleprompter"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Teleprompter 是一个功能强大的 Obsidian 插件。
 
-Teleprompter window for live presentations and video production.
+用于现场演示和视频制作的提词器窗口。
 
 通过 Teleprompter,您可以:
 
@@ -202,7 +202,7 @@ Teleprompter window for live presentations and video production.
 - **下载量**：7.3K
 - **最后更新**：2025-01-30
 - **GitHub**：[lumetrium/obsidian-teleprompter](https://github.com/lumetrium/obsidian-teleprompter)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

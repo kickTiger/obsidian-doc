@@ -2,11 +2,11 @@
 title: Better Plugins Manager
 description: 打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。
 author: zero
-downloads: 5816
+downloads: 5824
 updated: 1746502580000
 repo: Obsidian-Forge/obsidian-manager
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Better Plugins Manager"
   description="打造您的极致插件管理体验，让插件管理变得更加直观、高效，同时提升您的工作流程和个性化设置。"
   author="zero"
-  :downloads="5816"
+  :downloads="5824"
   :updated="1746502580000"
   repo="Obsidian-Forge/obsidian-manager"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Better Plugins Manager 是一个功能强大的 Obsidian 插件。
 - **下载量**：5.8K
 - **最后更新**：2025-05-06
 - **GitHub**：[Obsidian-Forge/obsidian-manager](https://github.com/Obsidian-Forge/obsidian-manager)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

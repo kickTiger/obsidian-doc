@@ -1,12 +1,12 @@
 ---
 title: Argument Map with Argdown
-description: Write Argdown code blocks and view the maps in reading mode.
+description: 编写 Argdown 代码块，并在读取模式下查看地图。
 author: amdecker
-downloads: 7413
+downloads: 7417
 updated: 1627575273000
 repo: amdecker/obsidian-argdown-plugin
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-argdown-plugin"
   name="Argument Map with Argdown"
-  description="Write Argdown code blocks and view the maps in reading mode."
+  description="编写 Argdown 代码块，并在读取模式下查看地图。"
   author="amdecker"
-  :downloads="7413"
+  :downloads="7417"
   :updated="1627575273000"
   repo="amdecker/obsidian-argdown-plugin"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Argument Map with Argdown 是一个功能强大的 Obsidian 插件。
 
-Write Argdown code blocks and view the maps in reading mode.
+编写 Argdown 代码块，并在读取模式下查看地图。
 
 通过 Argument Map with Argdown,您可以:
 
@@ -202,7 +202,7 @@ Write Argdown code blocks and view the maps in reading mode.
 - **下载量**：7.4K
 - **最后更新**：2021-07-30
 - **GitHub**：[amdecker/obsidian-argdown-plugin](https://github.com/amdecker/obsidian-argdown-plugin)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

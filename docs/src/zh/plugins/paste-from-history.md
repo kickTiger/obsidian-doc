@@ -6,7 +6,7 @@ downloads: 2102
 updated: 1721149151000
 repo: Karakaz/obsidian-paste-from-history
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1721149151000"
   repo="Karakaz/obsidian-paste-from-history"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Paste from the editor&#39;s recent clipboard history.
 - **下载量**：2.1K
 - **最后更新**：2024-07-17
 - **GitHub**：[Karakaz/obsidian-paste-from-history](https://github.com/Karakaz/obsidian-paste-from-history)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

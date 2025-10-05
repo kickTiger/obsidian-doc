@@ -1,12 +1,12 @@
 ---
 title: Merge Notes
-description: Merge the selected notes.
+description: 合并所选笔记。
 author: fnya
-downloads: 10495
+downloads: 10501
 updated: 1746437683000
 repo: fnya/merge-notes
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="merge-notes"
   name="Merge Notes"
-  description="Merge the selected notes."
+  description="合并所选笔记。"
   author="fnya"
-  :downloads="10495"
+  :downloads="10501"
   :updated="1746437683000"
   repo="fnya/merge-notes"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Merge Notes 是一个功能强大的 Obsidian 插件。
 
-Merge the selected notes.
+合并所选笔记。
 
 通过 Merge Notes,您可以:
 
@@ -202,7 +202,7 @@ Merge the selected notes.
 - **下载量**：10.5K
 - **最后更新**：2025-05-05
 - **GitHub**：[fnya/merge-notes](https://github.com/fnya/merge-notes)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Vault LLM Assistant
 description: Uses AI to answer questions and create notes about your vault with proper citations
 author: Brians Tjipto
-downloads: 531
+downloads: 535
 updated: 1748501563000
 repo: brianstm/obsidian-vault-llm-assistant
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Vault LLM Assistant"
   description="Uses AI to answer questions and create notes about your vault with proper citations"
   author="Brians Tjipto"
-  :downloads="531"
+  :downloads="535"
   :updated="1748501563000"
   repo="brianstm/obsidian-vault-llm-assistant"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Uses AI to answer questions and create notes about your vault with proper citati
 - **插件 ID**：vault-llm-assistant
 - **作者**：Brians Tjipto
 - **当前版本**：v1.0.0
-- **下载量**：531
+- **下载量**：535
 - **最后更新**：2025-05-29
 - **GitHub**：[brianstm/obsidian-vault-llm-assistant](https://github.com/brianstm/obsidian-vault-llm-assistant)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

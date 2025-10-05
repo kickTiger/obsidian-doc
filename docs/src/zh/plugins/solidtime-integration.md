@@ -6,7 +6,7 @@ downloads: 136
 updated: 1754509500000
 repo: pronicx/obsidian-solidtime-integration
 version: 1.0.0
-category: 其他
+category: integration
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1754509500000"
   repo="pronicx/obsidian-solidtime-integration"
   version="1.0.0"
-  category="其他"
+  category="integration"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Connect SolidTime to track your work time directly within your vault.
 - **下载量**：136
 - **最后更新**：2025-08-07
 - **GitHub**：[pronicx/obsidian-solidtime-integration](https://github.com/pronicx/obsidian-solidtime-integration)
-- **分类**：其他
+- **分类**：integration
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Weekly Review
-description: Open all the files you have created in the last week.
+description: 打开上周创建的所有文件。
 author: Brandon Boswell
-downloads: 7281
+downloads: 7283
 updated: 1714959607000
 repo: brandonkboswell/weekly-review
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="weekly-review"
   name="Weekly Review"
-  description="Open all the files you have created in the last week."
+  description="打开上周创建的所有文件。"
   author="Brandon Boswell"
-  :downloads="7281"
+  :downloads="7283"
   :updated="1714959607000"
   repo="brandonkboswell/weekly-review"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Weekly Review 是一个功能强大的 Obsidian 插件。
 
-Open all the files you have created in the last week.
+打开上周创建的所有文件。
 
 通过 Weekly Review,您可以:
 
@@ -202,7 +202,7 @@ Open all the files you have created in the last week.
 - **下载量**：7.3K
 - **最后更新**：2024-05-06
 - **GitHub**：[brandonkboswell/weekly-review](https://github.com/brandonkboswell/weekly-review)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: TickTick Quick Add Task
 description: Instantly creates a TickTick task from the current block of text using a keyboard shortcut. Task includes a copy of the text, and the URI to that exact block of text in your notes. Requires Advanced URI plugin.
 author: Muxin Li
-downloads: 239
+downloads: 242
 updated: 1744577203000
 repo: muxinli/ticktick-quick-add-obsidian
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="TickTick Quick Add Task"
   description="Instantly creates a TickTick task from the current block of text using a keyboard shortcut. Task includes a copy of the text, and the URI to that exact block of text in your notes. Requires Advanced URI plugin."
   author="Muxin Li"
-  :downloads="239"
+  :downloads="242"
   :updated="1744577203000"
   repo="muxinli/ticktick-quick-add-obsidian"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Instantly creates a TickTick task from the current block of text using a keyboar
 - **插件 ID**：ticktick-quickadd-task
 - **作者**：Muxin Li
 - **当前版本**：v1.0.0
-- **下载量**：239
+- **下载量**：242
 - **最后更新**：2025-04-14
 - **GitHub**：[muxinli/ticktick-quick-add-obsidian](https://github.com/muxinli/ticktick-quick-add-obsidian)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

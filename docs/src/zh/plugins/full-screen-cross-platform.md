@@ -1,12 +1,12 @@
 ---
 title: Full Screen Toggle
-description: Toggle fullscreen across all platforms.
+description: 在所有平台上切换全屏。
 author: Donkey Pacific
-downloads: 3929
+downloads: 3930
 updated: 1729863078000
 repo: DonkeyPacific/obsidian-full-screen-cross-platform-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="full-screen-cross-platform"
   name="Full Screen Toggle"
-  description="Toggle fullscreen across all platforms."
+  description="在所有平台上切换全屏。"
   author="Donkey Pacific"
-  :downloads="3929"
+  :downloads="3930"
   :updated="1729863078000"
   repo="DonkeyPacific/obsidian-full-screen-cross-platform-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Full Screen Toggle 是一个功能强大的 Obsidian 插件。
 
-Toggle fullscreen across all platforms.
+在所有平台上切换全屏。
 
 通过 Full Screen Toggle,您可以:
 
@@ -202,7 +202,7 @@ Toggle fullscreen across all platforms.
 - **下载量**：3.9K
 - **最后更新**：2024-10-25
 - **GitHub**：[DonkeyPacific/obsidian-full-screen-cross-platform-plugin](https://github.com/DonkeyPacific/obsidian-full-screen-cross-platform-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

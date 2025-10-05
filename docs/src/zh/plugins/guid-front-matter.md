@@ -1,12 +1,12 @@
 ---
 title: Add an ID to the front matter
-description: 'Add a globally unique ID to every Markdown document''s frontmatter.'
+description: 为每个 Markdown 文档的 frontmatter 添加一个全局唯一 ID。
 author: llimllib
-downloads: 5074
+downloads: 5076
 updated: 1687309573000
 repo: llimllib/obsidian-guid-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="guid-front-matter"
   name="Add an ID to the front matter"
-  description="Add a globally unique ID to every Markdown document&#39;s frontmatter."
+  description="为每个 Markdown 文档的 frontmatter 添加一个全局唯一 ID。"
   author="llimllib"
-  :downloads="5074"
+  :downloads="5076"
   :updated="1687309573000"
   repo="llimllib/obsidian-guid-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Add an ID to the front matter 是一个功能强大的 Obsidian 插件。
 
-Add a globally unique ID to every Markdown document&#39;s frontmatter.
+为每个 Markdown 文档的 frontmatter 添加一个全局唯一 ID。
 
 通过 Add an ID to the front matter,您可以:
 
@@ -202,7 +202,7 @@ Add a globally unique ID to every Markdown document&#39;s frontmatter.
 - **下载量**：5.1K
 - **最后更新**：2023-06-21
 - **GitHub**：[llimllib/obsidian-guid-plugin](https://github.com/llimllib/obsidian-guid-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

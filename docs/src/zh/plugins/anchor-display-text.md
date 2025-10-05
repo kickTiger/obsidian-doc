@@ -2,11 +2,11 @@
 title: Anchor Link Display Text
 description: Automatically uses the linked heading as the display text for anchor links.
 author: Robert C Arsenault
-downloads: 682
+downloads: 684
 updated: 1757559599000
 repo: rca-umb/anchor-link-display-text
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Anchor Link Display Text"
   description="Automatically uses the linked heading as the display text for anchor links."
   author="Robert C Arsenault"
-  :downloads="682"
+  :downloads="684"
   :updated="1757559599000"
   repo="rca-umb/anchor-link-display-text"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically uses the linked heading as the display text for anchor links.
 - **插件 ID**：anchor-display-text
 - **作者**：Robert C Arsenault
 - **当前版本**：v1.0.0
-- **下载量**：682
+- **下载量**：684
 - **最后更新**：2025-09-11
 - **GitHub**：[rca-umb/anchor-link-display-text](https://github.com/rca-umb/anchor-link-display-text)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

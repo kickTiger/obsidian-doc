@@ -2,11 +2,11 @@
 title: Auto Tasks
 description: Combine periodic notes with tags and tasks to automatically manage your daily, weekly and project TODO lists. Requires the Periodic Notes and Tasks plugins.
 author: Jamie Hurst
-downloads: 3265
+downloads: 3277
 updated: 1755777200000
 repo: jamiefdhurst/obsidian-auto-tasks
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Auto Tasks"
   description="Combine periodic notes with tags and tasks to automatically manage your daily, weekly and project TODO lists. Requires the Periodic Notes and Tasks plugins."
   author="Jamie Hurst"
-  :downloads="3265"
+  :downloads="3277"
   :updated="1755777200000"
   repo="jamiefdhurst/obsidian-auto-tasks"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Combine periodic notes with tags and tasks to automatically manage your daily, w
 - **下载量**：3.3K
 - **最后更新**：2025-08-21
 - **GitHub**：[jamiefdhurst/obsidian-auto-tasks](https://github.com/jamiefdhurst/obsidian-auto-tasks)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

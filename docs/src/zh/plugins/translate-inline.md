@@ -6,7 +6,7 @@ downloads: 432
 updated: 1709672357000
 repo: kon-foo/Obsidian-Translate-Inline
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1709672357000"
   repo="kon-foo/Obsidian-Translate-Inline"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Translations at your fingertips. Inline Translations for your Notes.
 - **下载量**：432
 - **最后更新**：2024-03-06
 - **GitHub**：[kon-foo/Obsidian-Translate-Inline](https://github.com/kon-foo/Obsidian-Translate-Inline)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: 'Sort & Permute lines'
-description: Sort and Permute lines in whole file or selection.
+description: 对整个文件或选区中的行进行排序和对齐。
 author: Vinzent
-downloads: 45180
+downloads: 45203
 updated: 1675799958000
 repo: Vinzent03/obsidian-sort-and-permute-lines
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-sort-and-permute-lines"
   name="Sort &amp; Permute lines"
-  description="Sort and Permute lines in whole file or selection."
+  description="对整个文件或选区中的行进行排序和对齐。"
   author="Vinzent"
-  :downloads="45180"
+  :downloads="45203"
   :updated="1675799958000"
   repo="Vinzent03/obsidian-sort-and-permute-lines"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Sort &amp; Permute lines 是一个功能强大的 Obsidian 插件。
 
-Sort and Permute lines in whole file or selection.
+对整个文件或选区中的行进行排序和对齐。
 
 通过 Sort &amp; Permute lines,您可以:
 
@@ -202,7 +202,7 @@ Sort and Permute lines in whole file or selection.
 - **下载量**：45.2K
 - **最后更新**：2023-02-08
 - **GitHub**：[Vinzent03/obsidian-sort-and-permute-lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

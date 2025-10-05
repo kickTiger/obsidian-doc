@@ -1,12 +1,12 @@
 ---
 title: Media Viewer
-description: View and manage media files within your notes.
+description: 在笔记中查看和管理媒体文件。
 author: Devon22
-downloads: 3728
+downloads: 3735
 updated: 1755955046000
 repo: Devon22/obsidian-mediaviewer
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="mediaviewer"
   name="Media Viewer"
-  description="View and manage media files within your notes."
+  description="在笔记中查看和管理媒体文件。"
   author="Devon22"
-  :downloads="3728"
+  :downloads="3735"
   :updated="1755955046000"
   repo="Devon22/obsidian-mediaviewer"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Media Viewer 是一个功能强大的 Obsidian 插件。
 
-View and manage media files within your notes.
+在笔记中查看和管理媒体文件。
 
 通过 Media Viewer,您可以:
 
@@ -202,7 +202,7 @@ View and manage media files within your notes.
 - **下载量**：3.7K
 - **最后更新**：2025-08-23
 - **GitHub**：[Devon22/obsidian-mediaviewer](https://github.com/Devon22/obsidian-mediaviewer)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

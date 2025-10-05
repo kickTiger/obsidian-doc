@@ -1,12 +1,12 @@
 ---
 title: iCloud Contacts
-description: Imports contacts from iCloud and manages a note for each contact.
+description: 从 iCloud 导入联系人，并为每个联系人管理备注。
 author: Truls Aagaard
-downloads: 3635
+downloads: 3637
 updated: 1744544516000
 repo: Trulsaa/obsidian-icloud-contacts
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="icloud-contacts"
   name="iCloud Contacts"
-  description="Imports contacts from iCloud and manages a note for each contact."
+  description="从 iCloud 导入联系人，并为每个联系人管理备注。"
   author="Truls Aagaard"
-  :downloads="3635"
+  :downloads="3637"
   :updated="1744544516000"
   repo="Trulsaa/obsidian-icloud-contacts"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 iCloud Contacts 是一个功能强大的 Obsidian 插件。
 
-Imports contacts from iCloud and manages a note for each contact.
+从 iCloud 导入联系人，并为每个联系人管理备注。
 
 通过 iCloud Contacts,您可以:
 
@@ -202,7 +202,7 @@ Imports contacts from iCloud and manages a note for each contact.
 - **下载量**：3.6K
 - **最后更新**：2025-04-13
 - **GitHub**：[Trulsaa/obsidian-icloud-contacts](https://github.com/Trulsaa/obsidian-icloud-contacts)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

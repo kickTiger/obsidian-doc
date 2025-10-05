@@ -1,12 +1,12 @@
 ---
 title: ExcaliBrain
-description: ExcaliBrain is inspired by TheBrain and Breadcrumbs. It is an interactive, structured mind-map of your vault generated based on the folders and files in your vault by interpreting the links, Dataview fields, tags and YAML frontmatter in your Markdown files.
+description: ExcaliBrain 的灵感来自 TheBrain 和 Breadcrumbs。它是一个交互式、结构化的保险库思维导图，根据保险库中的文件夹和文件，通过解释 Markdown 文件中的链接、Dataview 字段、标签和 YAML 前置事项生成。
 author: Zsolt Viczian
-downloads: 246062
+downloads: 246176
 updated: 1710996827000
 repo: zsviczian/excalibrain
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="excalibrain"
   name="ExcaliBrain"
-  description="ExcaliBrain is inspired by TheBrain and Breadcrumbs. It is an interactive, structured mind-map of your vault generated based on the folders and files in your vault by interpreting the links, Dataview fields, tags and YAML frontmatter in your Markdown files."
+  description="ExcaliBrain 的灵感来自 TheBrain 和 Breadcrumbs。它是一个交互式、结构化的保险库思维导图，根据保险库中的文件夹和文件，通过解释 Markdown 文件中的链接、Dataview 字段、标签和 YAML 前置事项生成。"
   author="Zsolt Viczian"
-  :downloads="246062"
+  :downloads="246176"
   :updated="1710996827000"
   repo="zsviczian/excalibrain"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 ExcaliBrain 是一个功能强大的 Obsidian 插件。
 
-ExcaliBrain is inspired by TheBrain and Breadcrumbs. It is an interactive, structured mind-map of your vault generated based on the folders and files in your vault by interpreting the links, Dataview fields, tags and YAML frontmatter in your Markdown files.
+ExcaliBrain 的灵感来自 TheBrain 和 Breadcrumbs。它是一个交互式、结构化的保险库思维导图，根据保险库中的文件夹和文件，通过解释 Markdown 文件中的链接、Dataview 字段、标签和 YAML 前置事项生成。
 
 通过 ExcaliBrain,您可以:
 
@@ -199,10 +199,10 @@ ExcaliBrain is inspired by TheBrain and Breadcrumbs. It is an interactive, struc
 - **插件 ID**：excalibrain
 - **作者**：Zsolt Viczian
 - **当前版本**：v1.0.0
-- **下载量**：246.1K
+- **下载量**：246.2K
 - **最后更新**：2024-03-21
 - **GitHub**：[zsviczian/excalibrain](https://github.com/zsviczian/excalibrain)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 

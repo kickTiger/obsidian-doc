@@ -1,12 +1,12 @@
 ---
 title: Iconic
-description: 'Customize your icons and their colors directly from the UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands.'
+description: 直接从用户界面自定义图标及其颜色，包括标签页、文件和文件夹、书签、标签、属性和功能区命令。
 author: Holo
-downloads: 90174
+downloads: 90433
 updated: 1754924656000
 repo: gfxholo/iconic
 version: 1.0.0
-category: 其他
+category: appearance
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="iconic"
   name="Iconic"
-  description="Customize your icons and their colors directly from the UI, including tabs, files &amp; folders, bookmarks, tags, properties, and ribbon commands."
+  description="直接从用户界面自定义图标及其颜色，包括标签页、文件和文件夹、书签、标签、属性和功能区命令。"
   author="Holo"
-  :downloads="90174"
+  :downloads="90433"
   :updated="1754924656000"
   repo="gfxholo/iconic"
   version="1.0.0"
-  category="其他"
+  category="appearance"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Iconic 是一个功能强大的 Obsidian 插件。
 
-Customize your icons and their colors directly from the UI, including tabs, files &amp; folders, bookmarks, tags, properties, and ribbon commands.
+直接从用户界面自定义图标及其颜色，包括标签页、文件和文件夹、书签、标签、属性和功能区命令。
 
 通过 Iconic,您可以:
 
@@ -199,10 +199,10 @@ Customize your icons and their colors directly from the UI, including tabs, file
 - **插件 ID**：iconic
 - **作者**：Holo
 - **当前版本**：v1.0.0
-- **下载量**：90.2K
+- **下载量**：90.4K
 - **最后更新**：2025-08-11
 - **GitHub**：[gfxholo/iconic](https://github.com/gfxholo/iconic)
-- **分类**：其他
+- **分类**：appearance
 
 </PluginDetail>
 

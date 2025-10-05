@@ -1,12 +1,12 @@
 ---
 title: Android nomedia
-description: 'Hide media from your vault on Android devices by adding the ''nomedia'' file to each folder.'
+description: '通过在每个文件夹中添加 "nomedia "文件，在安卓设备的保险库中隐藏媒体。'
 author: JakeisAwesome
-downloads: 5534
+downloads: 5535
 updated: 1682554010000
 repo: calomancer/android.nomedia
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="android-nomedia"
   name="Android nomedia"
-  description="Hide media from your vault on Android devices by adding the &#39;nomedia&#39; file to each folder."
+  description="通过在每个文件夹中添加 &quot;nomedia &quot;文件，在安卓设备的保险库中隐藏媒体。"
   author="JakeisAwesome"
-  :downloads="5534"
+  :downloads="5535"
   :updated="1682554010000"
   repo="calomancer/android.nomedia"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Android nomedia 是一个功能强大的 Obsidian 插件。
 
-Hide media from your vault on Android devices by adding the &#39;nomedia&#39; file to each folder.
+通过在每个文件夹中添加 &quot;nomedia &quot;文件，在安卓设备的保险库中隐藏媒体。
 
 通过 Android nomedia,您可以:
 
@@ -202,7 +202,7 @@ Hide media from your vault on Android devices by adding the &#39;nomedia&#39; fi
 - **下载量**：5.5K
 - **最后更新**：2023-04-27
 - **GitHub**：[calomancer/android.nomedia](https://github.com/calomancer/android.nomedia)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

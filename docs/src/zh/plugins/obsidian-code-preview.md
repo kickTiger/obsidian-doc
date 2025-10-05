@@ -1,12 +1,12 @@
 ---
 title: Code Preview
-description: Code block preview by file path.
+description: 按文件路径预览代码块
 author: Hank
-downloads: 5082
+downloads: 5083
 updated: 1673317448000
 repo: hankjs/obsidian-code-preview
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-code-preview"
   name="Code Preview"
-  description="Code block preview by file path."
+  description="按文件路径预览代码块"
   author="Hank"
-  :downloads="5082"
+  :downloads="5083"
   :updated="1673317448000"
   repo="hankjs/obsidian-code-preview"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Code Preview 是一个功能强大的 Obsidian 插件。
 
-Code block preview by file path.
+按文件路径预览代码块
 
 通过 Code Preview,您可以:
 
@@ -202,7 +202,7 @@ Code block preview by file path.
 - **下载量**：5.1K
 - **最后更新**：2023-01-10
 - **GitHub**：[hankjs/obsidian-code-preview](https://github.com/hankjs/obsidian-code-preview)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

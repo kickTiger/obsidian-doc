@@ -1,12 +1,12 @@
 ---
 title: Edit History
-description: Keep an automatic edit history of your notes, review the history, diff against or restore previous edits.
+description: 保存笔记的自动编辑历史记录，查看历史记录，对照或恢复以前的编辑。
 author: Antonio Tejada
-downloads: 14624
+downloads: 14634
 updated: 1754297412000
 repo: antoniotejada/obsidian-edit-history
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="edit-history"
   name="Edit History"
-  description="Keep an automatic edit history of your notes, review the history, diff against or restore previous edits."
+  description="保存笔记的自动编辑历史记录，查看历史记录，对照或恢复以前的编辑。"
   author="Antonio Tejada"
-  :downloads="14624"
+  :downloads="14634"
   :updated="1754297412000"
   repo="antoniotejada/obsidian-edit-history"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Edit History 是一个功能强大的 Obsidian 插件。
 
-Keep an automatic edit history of your notes, review the history, diff against or restore previous edits.
+保存笔记的自动编辑历史记录，查看历史记录，对照或恢复以前的编辑。
 
 通过 Edit History,您可以:
 
@@ -202,7 +202,7 @@ Keep an automatic edit history of your notes, review the history, diff against o
 - **下载量**：14.6K
 - **最后更新**：2025-08-04
 - **GitHub**：[antoniotejada/obsidian-edit-history](https://github.com/antoniotejada/obsidian-edit-history)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

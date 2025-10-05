@@ -1,12 +1,12 @@
 ---
 title: Root Folder Context Menu
-description: Enables context menu for vault root folder
+description: 启用保险库根文件夹的上下文菜单
 author: mnaoumov
-downloads: 3935
+downloads: 3943
 updated: 1759384542000
 repo: mnaoumov/obsidian-root-folder-context-menu
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="root-folder-context-menu"
   name="Root Folder Context Menu"
-  description="Enables context menu for vault root folder"
+  description="启用保险库根文件夹的上下文菜单"
   author="mnaoumov"
-  :downloads="3935"
+  :downloads="3943"
   :updated="1759384542000"
   repo="mnaoumov/obsidian-root-folder-context-menu"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Root Folder Context Menu 是一个功能强大的 Obsidian 插件。
 
-Enables context menu for vault root folder
+启用保险库根文件夹的上下文菜单
 
 通过 Root Folder Context Menu,您可以:
 
@@ -202,7 +202,7 @@ Enables context menu for vault root folder
 - **下载量**：3.9K
 - **最后更新**：2025-10-02
 - **GitHub**：[mnaoumov/obsidian-root-folder-context-menu](https://github.com/mnaoumov/obsidian-root-folder-context-menu)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: TimeSaver
 description: Save your time. 1. Quickly insert todo directive. 2. Quickly count the time spent on tasks in the current note and the total time spent.
 author: tommy.li
-downloads: 938
+downloads: 939
 updated: 1741237970000
 repo: odayou/task-processing-extension
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="TimeSaver"
   description="Save your time. 1. Quickly insert todo directive. 2. Quickly count the time spent on tasks in the current note and the total time spent."
   author="tommy.li"
-  :downloads="938"
+  :downloads="939"
   :updated="1741237970000"
   repo="odayou/task-processing-extension"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Save your time. 1. Quickly insert todo directive. 2. Quickly count the time spen
 - **插件 ID**：time-saver
 - **作者**：tommy.li
 - **当前版本**：v1.0.0
-- **下载量**：938
+- **下载量**：939
 - **最后更新**：2025-03-06
 - **GitHub**：[odayou/task-processing-extension](https://github.com/odayou/task-processing-extension)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

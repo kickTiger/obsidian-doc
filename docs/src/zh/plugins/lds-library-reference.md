@@ -2,11 +2,11 @@
 title: LDS Library Reference
 description: Easily insert references to scriptures and conference talks from the Church of Jesus Christ of Latterday Saints.
 author: Paco Kwon, Stein Ingebretsen
-downloads: 314
+downloads: 316
 updated: 1723218756000
 repo: ingiestein/obsidian-lds-scriptures-plugin
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="LDS Library Reference"
   description="Easily insert references to scriptures and conference talks from the Church of Jesus Christ of Latterday Saints."
   author="Paco Kwon, Stein Ingebretsen"
-  :downloads="314"
+  :downloads="316"
   :updated="1723218756000"
   repo="ingiestein/obsidian-lds-scriptures-plugin"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Easily insert references to scriptures and conference talks from the Church of J
 - **插件 ID**：lds-library-reference
 - **作者**：Paco Kwon, Stein Ingebretsen
 - **当前版本**：v1.0.0
-- **下载量**：314
+- **下载量**：316
 - **最后更新**：2024-08-09
 - **GitHub**：[ingiestein/obsidian-lds-scriptures-plugin](https://github.com/ingiestein/obsidian-lds-scriptures-plugin)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

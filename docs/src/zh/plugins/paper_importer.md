@@ -2,11 +2,11 @@
 title: Paper Importer
 description: Import papers from arXiv with one click.
 author: Zhe Chen
-downloads: 1249
+downloads: 1255
 updated: 1757080131000
 repo: chenzhekl/obsidian_paper_importer
 version: 1.0.0
-category: 其他
+category: sync-backup
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Paper Importer"
   description="Import papers from arXiv with one click."
   author="Zhe Chen"
-  :downloads="1249"
+  :downloads="1255"
   :updated="1757080131000"
   repo="chenzhekl/obsidian_paper_importer"
   version="1.0.0"
-  category="其他"
+  category="sync-backup"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Import papers from arXiv with one click.
 - **插件 ID**：paper_importer
 - **作者**：Zhe Chen
 - **当前版本**：v1.0.0
-- **下载量**：1.2K
+- **下载量**：1.3K
 - **最后更新**：2025-09-05
 - **GitHub**：[chenzhekl/obsidian_paper_importer](https://github.com/chenzhekl/obsidian_paper_importer)
-- **分类**：其他
+- **分类**：sync-backup
 
 </PluginDetail>
 

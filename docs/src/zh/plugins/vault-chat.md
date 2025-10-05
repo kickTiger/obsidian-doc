@@ -1,12 +1,12 @@
 ---
 title: Vault Chat
-description: 'A ChatGPT bot trained on your vault notes. Ask your AI questions about your own thoughts and ideas!'
+description: 根据您的保险库笔记训练的 ChatGPT 机器人。向人工智能提问，了解自己的想法和创意！
 author: Exo Ascension
-downloads: 7769
+downloads: 7777
 updated: 1685802148000
 repo: exoascension/vault-chat
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="vault-chat"
   name="Vault Chat"
-  description="A ChatGPT bot trained on your vault notes. Ask your AI questions about your own thoughts and ideas!"
+  description="根据您的保险库笔记训练的 ChatGPT 机器人。向人工智能提问，了解自己的想法和创意！"
   author="Exo Ascension"
-  :downloads="7769"
+  :downloads="7777"
   :updated="1685802148000"
   repo="exoascension/vault-chat"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Vault Chat 是一个功能强大的 Obsidian 插件。
 
-A ChatGPT bot trained on your vault notes. Ask your AI questions about your own thoughts and ideas!
+根据您的保险库笔记训练的 ChatGPT 机器人。向人工智能提问，了解自己的想法和创意！
 
 通过 Vault Chat,您可以:
 
@@ -202,7 +202,7 @@ A ChatGPT bot trained on your vault notes. Ask your AI questions about your own 
 - **下载量**：7.8K
 - **最后更新**：2023-06-03
 - **GitHub**：[exoascension/vault-chat](https://github.com/exoascension/vault-chat)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

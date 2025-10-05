@@ -1,12 +1,12 @@
 ---
 title: Copy Inline Code
-description: Easily copy the contents of an inline code element with a single click.
+description: 只需单击一下，即可轻松复制内嵌代码元素的内容。
 author: Ondrej Zavodny
-downloads: 11618
+downloads: 11632
 updated: 1748617616000
 repo: ozavodny/obsidian-copy-inline-code-plugin
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="copy-inline-code"
   name="Copy Inline Code"
-  description="Easily copy the contents of an inline code element with a single click."
+  description="只需单击一下，即可轻松复制内嵌代码元素的内容。"
   author="Ondrej Zavodny"
-  :downloads="11618"
+  :downloads="11632"
   :updated="1748617616000"
   repo="ozavodny/obsidian-copy-inline-code-plugin"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Copy Inline Code 是一个功能强大的 Obsidian 插件。
 
-Easily copy the contents of an inline code element with a single click.
+只需单击一下，即可轻松复制内嵌代码元素的内容。
 
 通过 Copy Inline Code,您可以:
 
@@ -202,7 +202,7 @@ Easily copy the contents of an inline code element with a single click.
 - **下载量**：11.6K
 - **最后更新**：2025-05-30
 - **GitHub**：[ozavodny/obsidian-copy-inline-code-plugin](https://github.com/ozavodny/obsidian-copy-inline-code-plugin)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Send to Ghost
-description: Send and publish notes to your Ghost blog.
+description: 在 Ghost 博客上发送和发布笔记。
 author: Southpaw1496
-downloads: 4039
+downloads: 4040
 updated: 1752432887000
 repo: Southpaw1496/obsidian-send-to-ghost
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="send-to-ghost"
   name="Send to Ghost"
-  description="Send and publish notes to your Ghost blog."
+  description="在 Ghost 博客上发送和发布笔记。"
   author="Southpaw1496"
-  :downloads="4039"
+  :downloads="4040"
   :updated="1752432887000"
   repo="Southpaw1496/obsidian-send-to-ghost"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Send to Ghost 是一个功能强大的 Obsidian 插件。
 
-Send and publish notes to your Ghost blog.
+在 Ghost 博客上发送和发布笔记。
 
 通过 Send to Ghost,您可以:
 
@@ -202,7 +202,7 @@ Send and publish notes to your Ghost blog.
 - **下载量**：4.0K
 - **最后更新**：2025-07-14
 - **GitHub**：[Southpaw1496/obsidian-send-to-ghost](https://github.com/Southpaw1496/obsidian-send-to-ghost)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

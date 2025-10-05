@@ -1,12 +1,12 @@
 ---
 title: Markdown Sync Scroll
-description: Allow two linked Markdown views to scroll synchronously.
+description: 允许两个链接的 Markdown 视图同步滚动。
 author: ProjectXero
-downloads: 4127
+downloads: 4128
 updated: 1689237157000
 repo: XeroAlpha/markdown-sync-scroll
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="markdown-sync-scroll"
   name="Markdown Sync Scroll"
-  description="Allow two linked Markdown views to scroll synchronously."
+  description="允许两个链接的 Markdown 视图同步滚动。"
   author="ProjectXero"
-  :downloads="4127"
+  :downloads="4128"
   :updated="1689237157000"
   repo="XeroAlpha/markdown-sync-scroll"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Markdown Sync Scroll 是一个功能强大的 Obsidian 插件。
 
-Allow two linked Markdown views to scroll synchronously.
+允许两个链接的 Markdown 视图同步滚动。
 
 通过 Markdown Sync Scroll,您可以:
 
@@ -202,7 +202,7 @@ Allow two linked Markdown views to scroll synchronously.
 - **下载量**：4.1K
 - **最后更新**：2023-07-13
 - **GitHub**：[XeroAlpha/markdown-sync-scroll](https://github.com/XeroAlpha/markdown-sync-scroll)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

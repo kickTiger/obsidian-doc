@@ -1,12 +1,12 @@
 ---
 title: Simple Note Quiz
-description: Start a simple quiz on your current note.
+description: 就当前笔记进行简单测验。
 author: beginner137
 downloads: 5222
 updated: 1649413826000
 repo: beginner137/Obsidian-simple-note-quiz
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="simple-note-quiz"
   name="Simple Note Quiz"
-  description="Start a simple quiz on your current note."
+  description="就当前笔记进行简单测验。"
   author="beginner137"
   :downloads="5222"
   :updated="1649413826000"
   repo="beginner137/Obsidian-simple-note-quiz"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Simple Note Quiz 是一个功能强大的 Obsidian 插件。
 
-Start a simple quiz on your current note.
+就当前笔记进行简单测验。
 
 通过 Simple Note Quiz,您可以:
 
@@ -202,7 +202,7 @@ Start a simple quiz on your current note.
 - **下载量**：5.2K
 - **最后更新**：2022-04-08
 - **GitHub**：[beginner137/Obsidian-simple-note-quiz](https://github.com/beginner137/Obsidian-simple-note-quiz)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

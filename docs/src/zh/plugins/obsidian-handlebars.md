@@ -1,12 +1,12 @@
 ---
 title: Handlebars Template
-description: Add support for Handlebars template blocks in notes.
+description: 在注释中添加对 Handlebars 模板块的支持。
 author: Sean Quinlan
 downloads: 4265
 updated: 1707193715000
 repo: sbquinlan/obsidian-handlebars
 version: 1.0.0
-category: 其他
+category: template
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-handlebars"
   name="Handlebars Template"
-  description="Add support for Handlebars template blocks in notes."
+  description="在注释中添加对 Handlebars 模板块的支持。"
   author="Sean Quinlan"
   :downloads="4265"
   :updated="1707193715000"
   repo="sbquinlan/obsidian-handlebars"
   version="1.0.0"
-  category="其他"
+  category="template"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Handlebars Template 是一个功能强大的 Obsidian 插件。
 
-Add support for Handlebars template blocks in notes.
+在注释中添加对 Handlebars 模板块的支持。
 
 通过 Handlebars Template,您可以:
 
@@ -202,7 +202,7 @@ Add support for Handlebars template blocks in notes.
 - **下载量**：4.3K
 - **最后更新**：2024-02-06
 - **GitHub**：[sbquinlan/obsidian-handlebars](https://github.com/sbquinlan/obsidian-handlebars)
-- **分类**：其他
+- **分类**：template
 
 </PluginDetail>
 

@@ -1,12 +1,12 @@
 ---
 title: Waka time box
-description: Show daily coding activity from WakaTime.
+description: 显示 WakaTime 的每日编码活动。
 author: complexzeng
-downloads: 3827
+downloads: 3828
 updated: 1692207804000
 repo: simonla/obsidian_waka_box
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="waka_time_box"
   name="Waka time box"
-  description="Show daily coding activity from WakaTime."
+  description="显示 WakaTime 的每日编码活动。"
   author="complexzeng"
-  :downloads="3827"
+  :downloads="3828"
   :updated="1692207804000"
   repo="simonla/obsidian_waka_box"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Waka time box 是一个功能强大的 Obsidian 插件。
 
-Show daily coding activity from WakaTime.
+显示 WakaTime 的每日编码活动。
 
 通过 Waka time box,您可以:
 
@@ -202,7 +202,7 @@ Show daily coding activity from WakaTime.
 - **下载量**：3.8K
 - **最后更新**：2023-08-17
 - **GitHub**：[simonla/obsidian_waka_box](https://github.com/simonla/obsidian_waka_box)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

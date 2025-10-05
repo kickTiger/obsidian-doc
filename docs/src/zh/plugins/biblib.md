@@ -2,11 +2,11 @@
 title: BibLib
 description: Create literature notes and manage bibliographic references
 author: Callum Alpass
-downloads: 3494
+downloads: 3514
 updated: 1751708233000
 repo: callumalpass/obsidian-biblib
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="BibLib"
   description="Create literature notes and manage bibliographic references"
   author="Callum Alpass"
-  :downloads="3494"
+  :downloads="3514"
   :updated="1751708233000"
   repo="callumalpass/obsidian-biblib"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create literature notes and manage bibliographic references
 - **下载量**：3.5K
 - **最后更新**：2025-07-05
 - **GitHub**：[callumalpass/obsidian-biblib](https://github.com/callumalpass/obsidian-biblib)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

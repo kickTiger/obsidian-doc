@@ -1,12 +1,12 @@
 ---
 title: Todoist Project sync
-description: Synchronizes projects from Todoist, creating a note for each.
+description: 同步 Todoist 中的项目，为每个项目创建备注。
 author: Jonas Dam
-downloads: 5392
+downloads: 5404
 updated: 1724450184000
 repo: stuporfly/ObsidianTodoistProjects
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="todoistprojectsync"
   name="Todoist Project sync"
-  description="Synchronizes projects from Todoist, creating a note for each."
+  description="同步 Todoist 中的项目，为每个项目创建备注。"
   author="Jonas Dam"
-  :downloads="5392"
+  :downloads="5404"
   :updated="1724450184000"
   repo="stuporfly/ObsidianTodoistProjects"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Todoist Project sync 是一个功能强大的 Obsidian 插件。
 
-Synchronizes projects from Todoist, creating a note for each.
+同步 Todoist 中的项目，为每个项目创建备注。
 
 通过 Todoist Project sync,您可以:
 
@@ -202,7 +202,7 @@ Synchronizes projects from Todoist, creating a note for each.
 - **下载量**：5.4K
 - **最后更新**：2024-08-24
 - **GitHub**：[stuporfly/ObsidianTodoistProjects](https://github.com/stuporfly/ObsidianTodoistProjects)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

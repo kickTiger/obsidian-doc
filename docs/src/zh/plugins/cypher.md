@@ -2,11 +2,11 @@
 title: Cypher
 description: Hides text in a simple diagrammatic cypher to make reading unrecognizable for viewers.
 author: Atharva Wankhede
-downloads: 299
+downloads: 300
 updated: 1730706526000
 repo: aths7/cypher
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Cypher"
   description="Hides text in a simple diagrammatic cypher to make reading unrecognizable for viewers."
   author="Atharva Wankhede"
-  :downloads="299"
+  :downloads="300"
   :updated="1730706526000"
   repo="aths7/cypher"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Hides text in a simple diagrammatic cypher to make reading unrecognizable for vi
 - **插件 ID**：cypher
 - **作者**：Atharva Wankhede
 - **当前版本**：v1.0.0
-- **下载量**：299
+- **下载量**：300
 - **最后更新**：2024-11-04
 - **GitHub**：[aths7/cypher](https://github.com/aths7/cypher)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

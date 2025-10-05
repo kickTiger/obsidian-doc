@@ -2,11 +2,11 @@
 title: Abbrlink
 description: Automatically generate permanent short links for your markdown files.
 author: Q78KG
-downloads: 366
+downloads: 367
 updated: 1758803848000
 repo: Hoshino-Yumetsuki/obsidian-plugin-abbrlink
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Abbrlink"
   description="Automatically generate permanent short links for your markdown files."
   author="Q78KG"
-  :downloads="366"
+  :downloads="367"
   :updated="1758803848000"
   repo="Hoshino-Yumetsuki/obsidian-plugin-abbrlink"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Automatically generate permanent short links for your markdown files.
 - **插件 ID**：abbrlink
 - **作者**：Q78KG
 - **当前版本**：v1.0.0
-- **下载量**：366
+- **下载量**：367
 - **最后更新**：2025-09-25
 - **GitHub**：[Hoshino-Yumetsuki/obsidian-plugin-abbrlink](https://github.com/Hoshino-Yumetsuki/obsidian-plugin-abbrlink)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

@@ -2,11 +2,11 @@
 title: Giphy
 description: Search and insert gifs in a note.
 author: LuCrypto
-downloads: 1532
+downloads: 1533
 updated: 1721111035000
 repo: LucJager/giphy-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Giphy"
   description="Search and insert gifs in a note."
   author="LuCrypto"
-  :downloads="1532"
+  :downloads="1533"
   :updated="1721111035000"
   repo="LucJager/giphy-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Search and insert gifs in a note.
 - **下载量**：1.5K
 - **最后更新**：2024-07-16
 - **GitHub**：[LucJager/giphy-plugin](https://github.com/LucJager/giphy-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

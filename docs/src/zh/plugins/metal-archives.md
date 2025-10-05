@@ -6,7 +6,7 @@ downloads: 2474
 updated: 1730040377000
 repo: vincenzocaputo/obsidian-metal-archives-plugin
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1730040377000"
   repo="vincenzocaputo/obsidian-metal-archives-plugin"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Create notes about metal bands and album from Metal Archives.
 - **下载量**：2.5K
 - **最后更新**：2024-10-27
 - **GitHub**：[vincenzocaputo/obsidian-metal-archives-plugin](https://github.com/vincenzocaputo/obsidian-metal-archives-plugin)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

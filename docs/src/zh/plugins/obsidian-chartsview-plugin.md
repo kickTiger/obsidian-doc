@@ -1,12 +1,12 @@
 ---
 title: Charts View
-description: Visualize data from your notes with plots and graphs.
+description: 通过绘图和图表将笔记中的数据可视化。
 author: caronchen
-downloads: 67642
+downloads: 67669
 updated: 1707126453000
 repo: caronchen/obsidian-chartsview-plugin
 version: 1.0.0
-category: 其他
+category: visualization
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-chartsview-plugin"
   name="Charts View"
-  description="Visualize data from your notes with plots and graphs."
+  description="通过绘图和图表将笔记中的数据可视化。"
   author="caronchen"
-  :downloads="67642"
+  :downloads="67669"
   :updated="1707126453000"
   repo="caronchen/obsidian-chartsview-plugin"
   version="1.0.0"
-  category="其他"
+  category="visualization"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Charts View 是一个功能强大的 Obsidian 插件。
 
-Visualize data from your notes with plots and graphs.
+通过绘图和图表将笔记中的数据可视化。
 
 通过 Charts View,您可以:
 
@@ -199,10 +199,10 @@ Visualize data from your notes with plots and graphs.
 - **插件 ID**：obsidian-chartsview-plugin
 - **作者**：caronchen
 - **当前版本**：v1.0.0
-- **下载量**：67.6K
+- **下载量**：67.7K
 - **最后更新**：2024-02-05
 - **GitHub**：[caronchen/obsidian-chartsview-plugin](https://github.com/caronchen/obsidian-chartsview-plugin)
-- **分类**：其他
+- **分类**：visualization
 
 </PluginDetail>
 

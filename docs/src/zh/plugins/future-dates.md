@@ -2,11 +2,11 @@
 title: Future Dates
 description: Show list of future dates in vault
 author: Dmitry Manannikov
-downloads: 270
+downloads: 273
 updated: 1715405179000
 repo: slonoed/obsidian-future-dates
 version: 1.0.0
-category: 其他
+category: calendar-time
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Future Dates"
   description="Show list of future dates in vault"
   author="Dmitry Manannikov"
-  :downloads="270"
+  :downloads="273"
   :updated="1715405179000"
   repo="slonoed/obsidian-future-dates"
   version="1.0.0"
-  category="其他"
+  category="calendar-time"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Show list of future dates in vault
 - **插件 ID**：future-dates
 - **作者**：Dmitry Manannikov
 - **当前版本**：v1.0.0
-- **下载量**：270
+- **下载量**：273
 - **最后更新**：2024-05-11
 - **GitHub**：[slonoed/obsidian-future-dates](https://github.com/slonoed/obsidian-future-dates)
-- **分类**：其他
+- **分类**：calendar-time
 
 </PluginDetail>
 

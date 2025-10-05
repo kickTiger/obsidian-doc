@@ -1,12 +1,12 @@
 ---
 title: CodeScript Toolkit
-description: Allows to do a lot of things with JavaScript/TypeScript scripts from inside the Obsidian itself
+description: 允许在 Obsidian 内使用 JavaScript/TypeScript 脚本做很多事情
 author: mnaoumov
-downloads: 7950
+downloads: 7980
 updated: 1759427676000
 repo: mnaoumov/obsidian-codescript-toolkit
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="fix-require-modules"
   name="CodeScript Toolkit"
-  description="Allows to do a lot of things with JavaScript/TypeScript scripts from inside the Obsidian itself"
+  description="允许在 Obsidian 内使用 JavaScript/TypeScript 脚本做很多事情"
   author="mnaoumov"
-  :downloads="7950"
+  :downloads="7980"
   :updated="1759427676000"
   repo="mnaoumov/obsidian-codescript-toolkit"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 CodeScript Toolkit 是一个功能强大的 Obsidian 插件。
 
-Allows to do a lot of things with JavaScript/TypeScript scripts from inside the Obsidian itself
+允许在 Obsidian 内使用 JavaScript/TypeScript 脚本做很多事情
 
 通过 CodeScript Toolkit,您可以:
 
@@ -202,7 +202,7 @@ Allows to do a lot of things with JavaScript/TypeScript scripts from inside the 
 - **下载量**：8.0K
 - **最后更新**：2025-10-03
 - **GitHub**：[mnaoumov/obsidian-codescript-toolkit](https://github.com/mnaoumov/obsidian-codescript-toolkit)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

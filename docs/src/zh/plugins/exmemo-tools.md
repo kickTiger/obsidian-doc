@@ -2,11 +2,11 @@
 title: ExMemo Tools
 description: Use LLMs for smart document management and optimization, including relocating files, enhancing text, and generating tags and summary.
 author: Yan.Xie
-downloads: 1322
+downloads: 1326
 updated: 1749095550000
 repo: exmemo-ai/obsidian-exmemo-tools
 version: 1.0.0
-category: 其他
+category: productivity
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="ExMemo Tools"
   description="Use LLMs for smart document management and optimization, including relocating files, enhancing text, and generating tags and summary."
   author="Yan.Xie"
-  :downloads="1322"
+  :downloads="1326"
   :updated="1749095550000"
   repo="exmemo-ai/obsidian-exmemo-tools"
   version="1.0.0"
-  category="其他"
+  category="productivity"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Use LLMs for smart document management and optimization, including relocating fi
 - **下载量**：1.3K
 - **最后更新**：2025-06-05
 - **GitHub**：[exmemo-ai/obsidian-exmemo-tools](https://github.com/exmemo-ai/obsidian-exmemo-tools)
-- **分类**：其他
+- **分类**：productivity
 
 </PluginDetail>
 

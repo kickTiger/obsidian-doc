@@ -6,7 +6,7 @@ downloads: 466
 updated: 1744568895000
 repo: stracker-phil/obsidian-mention-things
 version: 1.0.0
-category: 其他
+category: automation
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -21,7 +21,7 @@ pageClass: plugin-detail-page
   :updated="1744568895000"
   repo="stracker-phil/obsidian-mention-things"
   version="1.0.0"
-  category="其他"
+  category="automation"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Define a list of prefixes to trigger an autocomplete suggestion to insert a link
 - **下载量**：466
 - **最后更新**：2025-04-14
 - **GitHub**：[stracker-phil/obsidian-mention-things](https://github.com/stracker-phil/obsidian-mention-things)
-- **分类**：其他
+- **分类**：automation
 
 </PluginDetail>
 

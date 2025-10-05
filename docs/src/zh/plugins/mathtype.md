@@ -2,11 +2,11 @@
 title: MathType
 description: Get MathJax syntax suggestions from natural language.
 author: slateblua
-downloads: 753
+downloads: 761
 updated: 1742462891000
 repo: slateblua/mathtype
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="MathType"
   description="Get MathJax syntax suggestions from natural language."
   author="slateblua"
-  :downloads="753"
+  :downloads="761"
   :updated="1742462891000"
   repo="slateblua/mathtype"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Get MathJax syntax suggestions from natural language.
 - **插件 ID**：mathtype
 - **作者**：slateblua
 - **当前版本**：v1.0.0
-- **下载量**：753
+- **下载量**：761
 - **最后更新**：2025-03-20
 - **GitHub**：[slateblua/mathtype](https://github.com/slateblua/mathtype)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

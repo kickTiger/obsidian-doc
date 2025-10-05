@@ -2,11 +2,11 @@
 title: Folder Links
 description: Clicking a link to a folder makes it revealed in the navigation.
 author: Stefan Rausch
-downloads: 3438
+downloads: 3446
 updated: 1751048989000
 repo: SteveOverSea/obsidian-folder-links
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Folder Links"
   description="Clicking a link to a folder makes it revealed in the navigation."
   author="Stefan Rausch"
-  :downloads="3438"
+  :downloads="3446"
   :updated="1751048989000"
   repo="SteveOverSea/obsidian-folder-links"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Clicking a link to a folder makes it revealed in the navigation.
 - **下载量**：3.4K
 - **最后更新**：2025-06-28
 - **GitHub**：[SteveOverSea/obsidian-folder-links](https://github.com/SteveOverSea/obsidian-folder-links)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

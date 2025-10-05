@@ -2,11 +2,11 @@
 title: Word Frequency
 description: Counts the most frequently used words in a note and displays them in the sidebar.
 author: Mike Rodarte
-downloads: 904
+downloads: 907
 updated: 1748814823000
 repo: mts7/obsidian-word-frequency
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Word Frequency"
   description="Counts the most frequently used words in a note and displays them in the sidebar."
   author="Mike Rodarte"
-  :downloads="904"
+  :downloads="907"
   :updated="1748814823000"
   repo="mts7/obsidian-word-frequency"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Counts the most frequently used words in a note and displays them in the sidebar
 - **插件 ID**：word-frequency
 - **作者**：Mike Rodarte
 - **当前版本**：v1.0.0
-- **下载量**：904
+- **下载量**：907
 - **最后更新**：2025-06-02
 - **GitHub**：[mts7/obsidian-word-frequency](https://github.com/mts7/obsidian-word-frequency)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

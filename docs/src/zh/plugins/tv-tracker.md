@@ -2,11 +2,11 @@
 title: TV tracker
 description: A movie and TV show tracker.
 author: Shreshth Mehra
-downloads: 3261
+downloads: 3262
 updated: 1744356508000
 repo: Shreshth-mehra/Obsidian-TV-Tracker
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="TV tracker"
   description="A movie and TV show tracker."
   author="Shreshth Mehra"
-  :downloads="3261"
+  :downloads="3262"
   :updated="1744356508000"
   repo="Shreshth-mehra/Obsidian-TV-Tracker"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ A movie and TV show tracker.
 - **下载量**：3.3K
 - **最后更新**：2025-04-11
 - **GitHub**：[Shreshth-mehra/Obsidian-TV-Tracker](https://github.com/Shreshth-mehra/Obsidian-TV-Tracker)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

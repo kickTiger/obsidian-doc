@@ -2,11 +2,11 @@
 title: Kindle Vocab
 description: Create the Markdown file from your Kindle Vocab Builder in your vault.
 author: Truong Gia Bao
-downloads: 43
+downloads: 44
 updated: 1755351683000
 repo: bao-tg/kindle-vocab
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Kindle Vocab"
   description="Create the Markdown file from your Kindle Vocab Builder in your vault."
   author="Truong Gia Bao"
-  :downloads="43"
+  :downloads="44"
   :updated="1755351683000"
   repo="bao-tg/kindle-vocab"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -199,10 +199,10 @@ Create the Markdown file from your Kindle Vocab Builder in your vault.
 - **插件 ID**：kindle-vocab
 - **作者**：Truong Gia Bao
 - **当前版本**：v1.0.0
-- **下载量**：43
+- **下载量**：44
 - **最后更新**：2025-08-16
 - **GitHub**：[bao-tg/kindle-vocab](https://github.com/bao-tg/kindle-vocab)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

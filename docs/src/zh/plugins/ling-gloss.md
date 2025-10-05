@@ -1,12 +1,12 @@
 ---
 title: Interlinear Glossing
-description: Format interlinear glosses used in linguistics texts.
+description: 语言学文本中使用的互译词汇格式。
 author: Mijyuoon
-downloads: 4928
+downloads: 4930
 updated: 1752331603000
 repo: Mijyuoon/obsidian-ling-gloss
 version: 1.0.0
-category: 其他
+category: note-taking
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="ling-gloss"
   name="Interlinear Glossing"
-  description="Format interlinear glosses used in linguistics texts."
+  description="语言学文本中使用的互译词汇格式。"
   author="Mijyuoon"
-  :downloads="4928"
+  :downloads="4930"
   :updated="1752331603000"
   repo="Mijyuoon/obsidian-ling-gloss"
   version="1.0.0"
-  category="其他"
+  category="note-taking"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Interlinear Glossing 是一个功能强大的 Obsidian 插件。
 
-Format interlinear glosses used in linguistics texts.
+语言学文本中使用的互译词汇格式。
 
 通过 Interlinear Glossing,您可以:
 
@@ -202,7 +202,7 @@ Format interlinear glosses used in linguistics texts.
 - **下载量**：4.9K
 - **最后更新**：2025-07-12
 - **GitHub**：[Mijyuoon/obsidian-ling-gloss](https://github.com/Mijyuoon/obsidian-ling-gloss)
-- **分类**：其他
+- **分类**：note-taking
 
 </PluginDetail>
 

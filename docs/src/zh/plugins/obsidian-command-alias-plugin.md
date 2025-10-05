@@ -1,12 +1,12 @@
 ---
 title: Command Alias
-description: Give aliases to commands.
+description: 为命令提供别名。
 author: '@Yajamon'
 downloads: 6506
 updated: 1718291479000
 repo: yajamon/obsidian-command-alias-plugin
 version: 1.0.0
-category: 其他
+category: editor-enhancement
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="obsidian-command-alias-plugin"
   name="Command Alias"
-  description="Give aliases to commands."
+  description="为命令提供别名。"
   author="@Yajamon"
   :downloads="6506"
   :updated="1718291479000"
   repo="yajamon/obsidian-command-alias-plugin"
   version="1.0.0"
-  category="其他"
+  category="editor-enhancement"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Command Alias 是一个功能强大的 Obsidian 插件。
 
-Give aliases to commands.
+为命令提供别名。
 
 通过 Command Alias,您可以:
 
@@ -202,7 +202,7 @@ Give aliases to commands.
 - **下载量**：6.5K
 - **最后更新**：2024-06-13
 - **GitHub**：[yajamon/obsidian-command-alias-plugin](https://github.com/yajamon/obsidian-command-alias-plugin)
-- **分类**：其他
+- **分类**：editor-enhancement
 
 </PluginDetail>
 

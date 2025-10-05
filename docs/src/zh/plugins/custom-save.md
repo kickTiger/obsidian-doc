@@ -2,11 +2,11 @@
 title: Custom save
 description: Add custom save actions.
 author: Hananoshika Yomaru
-downloads: 2561
+downloads: 2565
 updated: 1703137404000
 repo: HananoshikaYomaru/obsidian-custom-save
 version: 1.0.0
-category: 其他
+category: other
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -17,11 +17,11 @@ pageClass: plugin-detail-page
   name="Custom save"
   description="Add custom save actions."
   author="Hananoshika Yomaru"
-  :downloads="2561"
+  :downloads="2565"
   :updated="1703137404000"
   repo="HananoshikaYomaru/obsidian-custom-save"
   version="1.0.0"
-  category="其他"
+  category="other"
   icon="plugin"
 >
 
@@ -202,7 +202,7 @@ Add custom save actions.
 - **下载量**：2.6K
 - **最后更新**：2023-12-21
 - **GitHub**：[HananoshikaYomaru/obsidian-custom-save](https://github.com/HananoshikaYomaru/obsidian-custom-save)
-- **分类**：其他
+- **分类**：other
 
 </PluginDetail>
 

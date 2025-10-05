@@ -1,12 +1,12 @@
 ---
 title: Task Status
-description: Quickly change checkbox and task status markers.
+description: 快速更改复选框和任务状态标记。
 author: Valerie Burzynski
-downloads: 7371
+downloads: 7372
 updated: 1730170930000
 repo: vburzynski/obsidian-task-status
 version: 1.0.0
-category: 其他
+category: task-management
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="task-status"
   name="Task Status"
-  description="Quickly change checkbox and task status markers."
+  description="快速更改复选框和任务状态标记。"
   author="Valerie Burzynski"
-  :downloads="7371"
+  :downloads="7372"
   :updated="1730170930000"
   repo="vburzynski/obsidian-task-status"
   version="1.0.0"
-  category="其他"
+  category="task-management"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Task Status 是一个功能强大的 Obsidian 插件。
 
-Quickly change checkbox and task status markers.
+快速更改复选框和任务状态标记。
 
 通过 Task Status,您可以:
 
@@ -202,7 +202,7 @@ Quickly change checkbox and task status markers.
 - **下载量**：7.4K
 - **最后更新**：2024-10-29
 - **GitHub**：[vburzynski/obsidian-task-status](https://github.com/vburzynski/obsidian-task-status)
-- **分类**：其他
+- **分类**：task-management
 
 </PluginDetail>
 

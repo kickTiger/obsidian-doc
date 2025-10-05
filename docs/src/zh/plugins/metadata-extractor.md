@@ -1,12 +1,12 @@
 ---
 title: Metadata Extractor
-description: Metadata export (on a schedule) for integration with third-party apps like launchers or graph analysis software.
+description: 导出元数据（按计划），以便与第三方应用程序（如启动器或图表分析软件）集成。
 author: kometenstaub
-downloads: 23813
+downloads: 23821
 updated: 1671538536000
 repo: kometenstaub/metadata-extractor
 version: 1.0.0
-category: 其他
+category: data-processing
 icon: plugin
 sidebar: false
 pageClass: plugin-detail-page
@@ -15,13 +15,13 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="metadata-extractor"
   name="Metadata Extractor"
-  description="Metadata export (on a schedule) for integration with third-party apps like launchers or graph analysis software."
+  description="导出元数据（按计划），以便与第三方应用程序（如启动器或图表分析软件）集成。"
   author="kometenstaub"
-  :downloads="23813"
+  :downloads="23821"
   :updated="1671538536000"
   repo="kometenstaub/metadata-extractor"
   version="1.0.0"
-  category="其他"
+  category="data-processing"
   icon="plugin"
 >
 
@@ -29,7 +29,7 @@ pageClass: plugin-detail-page
 
 Metadata Extractor 是一个功能强大的 Obsidian 插件。
 
-Metadata export (on a schedule) for integration with third-party apps like launchers or graph analysis software.
+导出元数据（按计划），以便与第三方应用程序（如启动器或图表分析软件）集成。
 
 通过 Metadata Extractor,您可以:
 
@@ -202,7 +202,7 @@ Metadata export (on a schedule) for integration with third-party apps like launc
 - **下载量**：23.8K
 - **最后更新**：2022-12-20
 - **GitHub**：[kometenstaub/metadata-extractor](https://github.com/kometenstaub/metadata-extractor)
-- **分类**：其他
+- **分类**：data-processing
 
 </PluginDetail>
 
