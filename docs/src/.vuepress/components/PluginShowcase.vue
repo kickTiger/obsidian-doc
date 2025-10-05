@@ -749,7 +749,7 @@ onMounted(() => {
   border: 1px solid #e8eaed;
   padding: 24px;
   position: sticky;
-  top: 20px;
+  top: 80px; /* 60px导航条高度 + 20px间距 */
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
 
@@ -1208,7 +1208,7 @@ onMounted(() => {
 /* 卡片视图 */
 .plugin-list-card {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); /* 调整为3-4列布局 */
   gap: 24px;
   padding: 8px; /* 防止阴影被裁剪 */
   align-items: start; /* 卡片从顶部对齐 */

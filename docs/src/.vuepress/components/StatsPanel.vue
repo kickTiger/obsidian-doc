@@ -46,7 +46,27 @@ const props = withDefaults(defineProps<Props>(), {
   animated: true
 });
 
-// 格式化数字
+// 格式化数字 - 添加千分位分隔符
+const formatNumberWithCommas = (num: number): string => {
+  return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+};
+
+// 格式化数字 - 中文单位（万、亿）
+const formatNumberChinese = (num: number): string => {
+  if (num >= 100000000) {
+    // 大于等于1亿
+    const yi = num / 100000000;
+    return yi.toFixed(2) + ' 亿';
+  }
+  if (num >= 10000) {
+    // 大于等于1万
+    const wan = num / 10000;
+    return wan.toFixed(0) + ' 万';
+  }
+  return num.toString();
+};
+
+// 格式化数字 - 通用格式（用于其他地方）
 const formatNumber = (num: number): string => {
   if (num >= 1000000) {
     return (num / 1000000).toFixed(1) + 'M';
@@ -66,7 +86,7 @@ const stats = computed(() => {
       iconClass: 'iconfont icon-grid',
       iconColor: '#7c3aed',
       iconBg: 'linear-gradient(135deg, rgba(124, 58, 237, 0.15) 0%, rgba(168, 85, 247, 0.15) 100%)',
-      value: formatNumber(props.stats.totalPlugins),
+      value: formatNumberWithCommas(props.stats.totalPlugins), // 使用千分位格式
       rawValue: props.stats.totalPlugins,
       label: '总插件数',
       trend: null,
@@ -76,7 +96,7 @@ const stats = computed(() => {
       iconClass: 'iconfont icon-like',
       iconColor: '#06b6d4',
       iconBg: 'linear-gradient(135deg, rgba(6, 182, 212, 0.15) 0%, rgba(14, 165, 233, 0.15) 100%)',
-      value: formatNumber(props.stats.totalDownloads),
+      value: formatNumberChinese(props.stats.totalDownloads), // 使用中文单位
       rawValue: props.stats.totalDownloads,
       label: '总下载量',
       trend: null,
@@ -89,8 +109,8 @@ const stats = computed(() => {
       value: props.stats.weeklyNewPlugins.toString(),
       rawValue: props.stats.weeklyNewPlugins,
       label: '本周新增',
-      trend: '较上周',
-      trendType: 'up'
+      trend: null,
+      trendType: null
     },
     {
       iconClass: 'iconfont icon-date',
@@ -99,8 +119,8 @@ const stats = computed(() => {
       value: props.stats.monthlyNewPlugins.toString(),
       rawValue: props.stats.monthlyNewPlugins,
       label: '本月新增',
-      trend: '较上月',
-      trendType: 'up'
+      trend: null,
+      trendType: null
     }
   ];
 });
@@ -108,28 +128,42 @@ const stats = computed(() => {
 // 动画值
 const animatedValues = ref<string[]>([]);
 
-// 数字动画函数
+// 数字动画函数 - 根据索引使用不同的格式化方式
 const animateNumber = (target: number, index: number, duration: number = 1000) => {
   const start = 0;
   const startTime = Date.now();
-  
+
+  // 根据索引选择格式化函数
+  const getFormattedValue = (value: number, idx: number): string => {
+    if (idx === 0) {
+      // 第1个：总插件数 - 使用千分位
+      return formatNumberWithCommas(value);
+    } else if (idx === 1) {
+      // 第2个：总下载量 - 使用中文单位
+      return formatNumberChinese(value);
+    } else {
+      // 其他：直接显示数字
+      return value.toString();
+    }
+  };
+
   const animate = () => {
     const elapsed = Date.now() - startTime;
     const progress = Math.min(elapsed / duration, 1);
-    
+
     // 使用缓动函数
     const easeOutQuart = 1 - Math.pow(1 - progress, 4);
     const current = Math.floor(start + (target - start) * easeOutQuart);
-    
-    animatedValues.value[index] = formatNumber(current);
-    
+
+    animatedValues.value[index] = getFormattedValue(current, index);
+
     if (progress < 1) {
       requestAnimationFrame(animate);
     } else {
-      animatedValues.value[index] = formatNumber(target);
+      animatedValues.value[index] = getFormattedValue(target, index);
     }
   };
-  
+
   animate();
 };
 
