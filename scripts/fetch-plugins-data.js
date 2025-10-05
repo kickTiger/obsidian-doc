@@ -8,6 +8,9 @@ const fs = require('fs');
 const path = require('path');
 require('dotenv').config(); // 加载 .env 文件
 
+// 导入分类模块
+const { autoClassifyPlugin } = require('./classify-plugins');
+
 // API 端点
 const PLUGINS_API = 'https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugins.json';
 const STATS_API = 'https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json';
@@ -293,6 +296,9 @@ function mergePluginData(pluginsData, statsData, createdTimes) {
     const stats = statsData[plugin.id] || {};
     const created = createdTimes.get(plugin.id) || 0;
 
+    // 自动分类插件
+    const classificationResult = autoClassifyPlugin(plugin);
+
     return {
       id: plugin.id,
       name: plugin.name,
@@ -302,6 +308,7 @@ function mergePluginData(pluginsData, statsData, createdTimes) {
       downloads: stats.downloads || 0,
       updated: stats.updated || 0,
       created: created, // 添加创建时间
+      category: classificationResult.category, // 添加分类
       // 这些字段将在计算衍生数据时填充
       weeklyDownloads: 0,
       monthlyDownloads: 0,
@@ -311,6 +318,22 @@ function mergePluginData(pluginsData, statsData, createdTimes) {
   });
 
   console.log(`✓ 成功整合 ${mergedData.length} 个插件数据`);
+
+  // 统计分类分布
+  const categoryStats = {};
+  mergedData.forEach(plugin => {
+    const category = plugin.category || 'other';
+    categoryStats[category] = (categoryStats[category] || 0) + 1;
+  });
+
+  console.log('  分类分布:');
+  Object.entries(categoryStats)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5)
+    .forEach(([category, count]) => {
+      console.log(`    - ${category}: ${count} (${(count / mergedData.length * 100).toFixed(1)}%)`);
+    });
+
   return mergedData;
 }
 
@@ -426,28 +449,28 @@ function generateStats(plugins, rankings) {
  */
 function saveData(plugins, stats) {
   console.log('正在保存数据到文件...');
-  
+
   try {
     // 确保输出目录存在
     if (!fs.existsSync(OUTPUT_DIR)) {
       fs.mkdirSync(OUTPUT_DIR, { recursive: true });
       console.log(`✓ 创建目录: ${OUTPUT_DIR}`);
     }
-    
+
     // 保存插件数据
     const pluginsJSON = JSON.stringify(plugins, null, 2);
     fs.writeFileSync(PLUGINS_OUTPUT, pluginsJSON, 'utf8');
     console.log(`✓ 插件数据已保存: ${PLUGINS_OUTPUT}`);
     console.log(`  文件大小: ${(pluginsJSON.length / 1024).toFixed(2)} KB`);
-    
+
     // 保存统计数据
     const statsJSON = JSON.stringify(stats, null, 2);
     fs.writeFileSync(STATS_OUTPUT, statsJSON, 'utf8');
     console.log(`✓ 统计数据已保存: ${STATS_OUTPUT}`);
     console.log(`  文件大小: ${(statsJSON.length / 1024).toFixed(2)} KB`);
-    
+
     console.log('✓ 所有数据保存完成');
-    
+
   } catch (error) {
     console.error('✗ 保存数据失败:', error.message);
     throw error;
