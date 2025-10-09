@@ -27,5 +27,14 @@ force = true
     """
 
 [build.environment]
-  NODE_VERSION = "18.12.0"
+  # 升级到Node.js 20 LTS以提升性能和兼容性
+  NODE_VERSION = "20.18.0"
   NPM_FLAGS = "--version"
+  # 增加构建超时时间到60分钟
+  BUILD_TIMEOUT = "3600"
+  # 使用Jammy构建镜像（Ubuntu 22.04）以避免弃用警告
+  BUILD_IMAGE = "jammy"
+
+[functions]
+  # 优化函数打包
+  node_bundler = "esbuild"
