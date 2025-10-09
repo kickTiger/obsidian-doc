@@ -206,6 +206,11 @@ translations/translation-progress.json
 # 注意：translations/plugin-translations.json 需要纳入版本控制
 # 因为 GitHub Actions 和页面生成脚本需要读取此文件
 
+# ===== 数据文件 =====
+# 插件数据文件（包含API调用结果，不应纳入版本控制）
+data/
+**/data/
+
 # ===== 文档文件 =====
 # 开发文档和技术笔记（个人学习记录，不纳入版本控制）
 文档/
