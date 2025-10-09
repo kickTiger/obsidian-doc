@@ -212,7 +212,8 @@ const navigateToPlugin = (pluginId: string) => {
   // 跳转到插件详情页面
   // 使用相对路径确保在不同环境下都能正确跳转
   const detailUrl = `/zh/plugins/${pluginId}.html`;
-  window.location.href = detailUrl;
+  // 在新标签页打开详情页
+  window.open(detailUrl, '_blank', 'noopener,noreferrer');
 };
 </script>
 

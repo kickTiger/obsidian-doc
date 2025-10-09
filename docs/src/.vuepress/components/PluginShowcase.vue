@@ -715,8 +715,8 @@ const getCategoryStyle = (categoryId: string | undefined): { background: string;
 const navigateToDetail = (pluginId: string) => {
   // 构建详情页 URL
   const detailUrl = `/zh/plugins/${pluginId}.html`;
-  // 使用 window.location 进行导航
-  window.location.href = detailUrl;
+  // 在新标签页打开详情页
+  window.open(detailUrl, '_blank', 'noopener,noreferrer');
 };
 
 // 监听筛选条件变化,重置到第一页

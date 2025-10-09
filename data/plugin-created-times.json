@@ -1,7 +1,7 @@
 {
   "_comment": "插件仓库创建时间缓存",
   "_description": "存储已获取的插件仓库创建时间，避免重复调用 GitHub API",
-  "_lastUpdated": "2025-10-05T09:44:48.751Z",
+  "_lastUpdated": "2025-10-09T06:06:22.953Z",
   "plugins": {
     "obsidian-excalidraw-plugin": 1618684989000,
     "obsidian-markmind": 1629297699000,
@@ -93,6 +93,32 @@
     "scrolling": 1747909413000,
     "x-post-saver": 1750932219000,
     "fountain": 1737446651000,
-    "maps": 1758731110000
+    "maps": 1758731110000,
+    "bpmn-plugin": 1668266526000,
+    "obsidian-filename-heading-sync": 1611667338000,
+    "colored-text": 1682344203000,
+    "obsidian-livesync": 1634046561000,
+    "emacs-text-editor": 1691841114000,
+    "timer": 1693510215000,
+    "obsidian-map-view": 1623912087000,
+    "chatgpt-md": 1677939462000,
+    "share-to-notionnext": 1691595346000,
+    "supercharged-links-obsidian": 1618729240000,
+    "koreader-highlights-importer": 1733757031000,
+    "noteson-publish": 1708105874000,
+    "inline-encrypter": 1696578878000,
+    "remove-newlines": 1719128487000,
+    "learnie": 1720657570000,
+    "tickticksync": 1693941610000,
+    "note-definitions": 1715414772000,
+    "telegram-inbox": 1710348156000,
+    "fold-properties": 1727483510000,
+    "gemini-scribe": 1729697698000,
+    "lancaster-university-week": 1736683589000,
+    "file-ignore": 1737293549000,
+    "mediaviewer": 1736356385000,
+    "jupymd": 1740259364000,
+    "github-issues": 1750138471000,
+    "jira-sync": 1741769789000
   }
 }

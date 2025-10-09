@@ -1,6 +1,6 @@
 ---
 title: GPG Encrypt
-description: Encrypt partial text or complete notes using GPG technology, it is compatible with security keys such as YubiKey or traditional GPG encryption methods
+description: 使用 GPG 技术加密部分文本或完整笔记，与 YubiKey 等安全密钥或传统 GPG 加密方法兼容
 author: Luis Jaramillo
 downloads: 2239
 updated: 1724634136000
@@ -15,7 +15,7 @@ pageClass: plugin-detail-page
 <PluginDetail
   id="gpg-encrypt"
   name="GPG Encrypt"
-  description="Encrypt partial text or complete notes using GPG technology, it is compatible with security keys such as YubiKey or traditional GPG encryption methods"
+  description="使用 GPG 技术加密部分文本或完整笔记，与 YubiKey 等安全密钥或传统 GPG 加密方法兼容"
   author="Luis Jaramillo"
   :downloads="2239"
   :updated="1724634136000"
@@ -25,11 +25,12 @@ pageClass: plugin-detail-page
   icon="plugin"
 >
 
+<!-- AUTO_GENERATED_START -->
 ## 插件简介
 
 GPG Encrypt 是一个功能强大的 Obsidian 插件。
 
-Encrypt partial text or complete notes using GPG technology, it is compatible with security keys such as YubiKey or traditional GPG encryption methods
+使用 GPG 技术加密部分文本或完整笔记，与 YubiKey 等安全密钥或传统 GPG 加密方法兼容
 
 通过 GPG Encrypt,您可以:
 
@@ -37,20 +38,9 @@ Encrypt partial text or complete notes using GPG technology, it is compatible wi
 - 优化工作流程
 - 增强 Obsidian 功能
 
-## 主要特性
+<!-- AUTO_GENERATED_END -->
 
-### 📊 核心功能
-强大的核心功能,满足您的各种需求
-
-### ⚡ 高效便捷
-简单易用,快速上手
-
-### 🎨 灵活定制
-支持个性化配置,满足不同使用场景
-
-### 🔧 持续更新
-活跃的开发团队,持续优化和改进
-
+<!-- AUTO_GENERATED_START -->
 ## 插件安装
 
 ### 方法一：Obsidian 内安装（推荐）
@@ -90,34 +80,16 @@ Encrypt partial text or complete notes using GPG technology, it is compatible wi
 3. 根据需要配置相关选项
 4. 开始使用插件功能
 
-### 常用功能
+<!-- AUTO_GENERATED_END -->
 
-- **功能一**：描述功能一的用途
-- **功能二**：描述功能二的用途
-- **功能三**：描述功能三的用途
+<!-- CUSTOM_CONTENT_START:tutorial -->
+## 使用教程
 
-## 配置说明
+在这里添加详细的使用教程、技巧和最佳实践。
 
-在插件设置中，您可以自定义以下选项：
+<!-- CUSTOM_CONTENT_END:tutorial -->
 
-- **选项一**：配置说明
-- **选项二**：配置说明
-- **选项三**：配置说明
-
-## 使用技巧
-
-### 技巧一
-
-详细说明使用技巧一
-
-### 技巧二
-
-详细说明使用技巧二
-
-### 技巧三
-
-详细说明使用技巧三
-
+<!-- SHARED_CONTENT_START -->
 ## 常见问题
 
 ### 问题一：插件无法启用？
@@ -168,7 +140,7 @@ Encrypt partial text or complete notes using GPG technology, it is compatible wi
 - 加入咖啡豆社区交流群讨论
 - 访问 [咖啡豆文档网站](https://obsidian.vip) 获取更多帮助
 
-::: tip 加入社区
+::: tip 加入社群
 如果在使用和学习中有不明白的地方，或者想看看别人的经验：
 - 可以查看[进阶用法](/zh/advanced)
 - 可以加群和大家聊聊，加微信 `coffeebean1688` 蹦跶的咖啡豆，然后进群
@@ -176,7 +148,9 @@ Encrypt partial text or complete notes using GPG technology, it is compatible wi
 - 关注公众号：`蹦跶的咖啡豆`
 - 网站地址：https://obsidian.vip
 :::
+<!-- SHARED_CONTENT_END -->
 
+<!-- AUTO_GENERATED_START -->
 ## 更新日志
 
 ### 最新版本：v1.0.0
@@ -203,6 +177,7 @@ Encrypt partial text or complete notes using GPG technology, it is compatible wi
 - **最后更新**：2024-08-26
 - **GitHub**：[lajg-dev/Obsidian-Plugin-GPG-Inline-Encrypt](https://github.com/lajg-dev/Obsidian-Plugin-GPG-Inline-Encrypt)
 - **分类**：note-taking
+<!-- AUTO_GENERATED_END -->
 
 </PluginDetail>
 

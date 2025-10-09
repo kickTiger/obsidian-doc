@@ -24,6 +24,13 @@ const {
   generateChangesSummary
 } = require('./incremental-update');
 
+// 导入内容合并模块
+const {
+  extractCustomContent,
+  mergeCustomContent,
+  fileHasCustomContentTags
+} = require('./content-merge');
+
 // ========== 配置常量 ==========
 
 // 数据文件路径
@@ -38,10 +45,81 @@ const TEMPLATE_PATH = path.join(__dirname, 'templates/plugin-detail.md');
 // 输出目录路径
 const OUTPUT_DIR = path.join(__dirname, '../docs/src/zh/plugins');
 
-// 需要排除的文件（不会被删除）
-const EXCLUDED_FILES = ['README.md', 'dataview.md', 'templater-obsidian.md', 'obsidian-kanban.md'];
+/**
+ * 排除列表配置
+ *
+ * 支持两种格式：
+ * 1. 字符串：简单的文件名（向后兼容）
+ * 2. 对象：包含文件名和状态信息
+ *
+ * 状态说明：
+ * - 'custom': 自定义页面，不自动生成和删除
+ * - 'archived': 已下架插件，保留页面但不更新
+ * - 'unlisted': 未上架插件，手动维护的页面
+ *
+ * 示例：
+ * const EXCLUDED_FILES = [
+ *   'README.md',  // 简单格式
+ *   { file: 'dataview.md', status: 'custom', reason: '重要插件，手动维护' },  // 对象格式
+ *   { file: 'old-plugin.md', status: 'archived', reason: '插件已下架' }
+ * ];
+ */
+const EXCLUDED_FILES = [
+  'README.md'
+];
 
 // ========== 工具函数 ==========
+
+/**
+ * 检查文件是否在排除列表中
+ * @param {string} fileName - 文件名
+ * @returns {boolean} 是否在排除列表中
+ */
+function isExcluded(fileName) {
+  return EXCLUDED_FILES.some(item => {
+    if (typeof item === 'string') {
+      return item === fileName;
+    }
+    return item.file === fileName;
+  });
+}
+
+/**
+ * 获取排除文件的状态信息
+ * @param {string} fileName - 文件名
+ * @returns {Object|null} 状态信息对象，如果不在排除列表中则返回 null
+ */
+function getExcludedFileInfo(fileName) {
+  const item = EXCLUDED_FILES.find(item => {
+    if (typeof item === 'string') {
+      return item === fileName;
+    }
+    return item.file === fileName;
+  });
+
+  if (!item) {
+    return null;
+  }
+
+  if (typeof item === 'string') {
+    return { file: item, status: 'custom', reason: '排除文件' };
+  }
+
+  return item;
+}
+
+/**
+ * 获取所有排除的文件名列表
+ * @returns {Array<string>} 文件名数组
+ */
+function getExcludedFileNames() {
+  return EXCLUDED_FILES.map(item => {
+    if (typeof item === 'string') {
+      return item;
+    }
+    return item.file;
+  });
+}
 
 /**
  * 格式化数字（添加千位分隔符）
@@ -260,16 +338,37 @@ function replaceVariables(template, plugin, translations = {}) {
 }
 
 /**
- * 生成单个插件页面
+ * 生成单个插件页面（支持智能合并）
  * @param {Object} plugin - 插件数据对象
  * @param {string} template - 模板内容
  * @param {Object} translations - 翻译数据对象
+ * @param {string} existingFilePath - 现有文件路径（用于提取自定义内容）
  * @returns {string} 生成的页面内容
  */
-function generatePluginPage(plugin, template, translations = {}) {
+function generatePluginPage(plugin, template, translations = {}, existingFilePath = null) {
   try {
-    const content = replaceVariables(template, plugin, translations);
-    return content;
+    // 1. 生成新内容（基于模板）
+    let newContent = replaceVariables(template, plugin, translations);
+
+    // 2. 如果提供了现有文件路径，尝试提取并合并自定义内容
+    if (existingFilePath && fs.existsSync(existingFilePath)) {
+      // 检查现有文件是否包含自定义内容标签
+      if (fileHasCustomContentTags(existingFilePath)) {
+        console.log(`  ℹ 检测到自定义内容标签，开始智能合并...`);
+
+        // 提取自定义内容
+        const customContents = extractCustomContent(existingFilePath);
+
+        // 合并自定义内容
+        if (customContents && customContents.length > 0) {
+          newContent = mergeCustomContent(newContent, customContents);
+        }
+      } else {
+        console.log(`  ℹ 未检测到自定义内容标签，使用新模板覆盖`);
+      }
+    }
+
+    return newContent;
   } catch (error) {
     console.error(`✗ 生成插件页面失败 (插件: ${plugin.id}):`, error.message);
     throw error;
@@ -317,17 +416,41 @@ function generateAllPages(plugins, template, translations = {}) {
 
   let successCount = 0;
   let failCount = 0;
+  let skippedCount = 0;
   const failedPlugins = [];
+  const skippedPlugins = [];
 
   plugins.forEach((plugin, index) => {
     try {
+      // 检查是否在排除列表中
+      const fileName = `${plugin.id}.md`;
+      if (isExcluded(fileName)) {
+        const excludedInfo = getExcludedFileInfo(fileName);
+        skippedCount++;
+        skippedPlugins.push({
+          id: plugin.id,
+          name: plugin.name,
+          status: excludedInfo.status,
+          reason: excludedInfo.reason
+        });
+
+        // 显示跳过信息（每 100 个或特殊情况）
+        if (skippedCount <= 10 || (index + 1) % 100 === 0) {
+          console.log(`  ⊘ 跳过: ${plugin.id} (${excludedInfo.status}: ${excludedInfo.reason})`);
+        }
+        return;
+      }
+
       // 显示进度
       if ((index + 1) % 100 === 0 || index === 0 || index === plugins.length - 1) {
         console.log(`进度: ${index + 1}/${plugins.length} (${((index + 1) / plugins.length * 100).toFixed(1)}%)`);
       }
 
-      // 生成页面内容
-      const content = generatePluginPage(plugin, template, translations);
+      // 获取现有文件路径
+      const existingFilePath = path.join(OUTPUT_DIR, `${plugin.id}.md`);
+
+      // 生成页面内容（支持智能合并）
+      const content = generatePluginPage(plugin, template, translations, existingFilePath);
 
       // 保存页面
       savePluginPage(plugin.id, content);
@@ -348,20 +471,30 @@ function generateAllPages(plugins, template, translations = {}) {
   console.log('页面生成完成');
   console.log('========================================');
   console.log(`✓ 成功: ${successCount} 个`);
+  console.log(`⊘ 跳过: ${skippedCount} 个（排除列表）`);
   console.log(`✗ 失败: ${failCount} 个`);
-  
+
+  if (skippedPlugins.length > 0) {
+    console.log('\n排除的插件:');
+    skippedPlugins.forEach(p => {
+      console.log(`  - ${p.id} (${p.name}): ${p.status} - ${p.reason}`);
+    });
+  }
+
   if (failedPlugins.length > 0) {
     console.log('\n失败的插件:');
     failedPlugins.forEach(p => {
       console.log(`  - ${p.id} (${p.name}): ${p.error}`);
     });
   }
-  
+
   return {
     total: plugins.length,
     success: successCount,
+    skipped: skippedCount,
     fail: failCount,
-    failedPlugins
+    failedPlugins,
+    skippedPlugins
   };
 }
 
@@ -383,7 +516,7 @@ function getExistingPages() {
     const files = fs.readdirSync(OUTPUT_DIR);
     const pluginIds = files
       .filter(file => file.endsWith('.md'))
-      .filter(file => !EXCLUDED_FILES.includes(file))
+      .filter(file => !isExcluded(file))
       .map(file => file.replace('.md', ''));
 
     console.log(`✓ 找到 ${pluginIds.length} 个现有页面`);
@@ -430,8 +563,13 @@ function detectRemovedPlugins(allPlugins, existingPages) {
 function deletePluginPage(pluginId) {
   try {
     // 安全检查：防止删除排除列表中的文件
-    if (EXCLUDED_FILES.includes(`${pluginId}.md`)) {
-      console.log(`⚠ 跳过删除受保护的文件: ${pluginId}.md`);
+    const fileName = `${pluginId}.md`;
+    if (isExcluded(fileName)) {
+      const info = getExcludedFileInfo(fileName);
+      console.log(`⚠ 跳过删除受保护的文件: ${fileName}`);
+      if (info && info.reason) {
+        console.log(`  原因: ${info.reason}`);
+      }
       return false;
     }
 
@@ -481,7 +619,8 @@ function syncPages(plugins, template, translations = {}) {
     console.log(`\n正在生成 ${newPlugins.length} 个新插件页面...`);
     newPlugins.forEach((plugin, index) => {
       try {
-        const content = generatePluginPage(plugin, template, translations);
+        // 新插件不需要传递现有文件路径（因为文件不存在）
+        const content = generatePluginPage(plugin, template, translations, null);
         savePluginPage(plugin.id, content);
         newPagesCount++;
 
@@ -594,6 +733,7 @@ async function main() {
     // 4. 检测变化（如果不是强制更新）
     let pluginsToGenerate = plugins;
     let changes = null;
+    let result;
 
     if (!forceUpdate) {
       changes = detectChanges(plugins);
@@ -609,12 +749,15 @@ async function main() {
       pluginsToGenerate = plugins.filter(p => toGenerateIds.includes(p.id));
 
       console.log(`\n将生成 ${pluginsToGenerate.length} 个插件页面（跳过 ${changes.unchanged.length} 个未变化的插件）\n`);
-    } else {
-      console.log(`\n将生成所有 ${plugins.length} 个插件页面\n`);
-    }
 
-    // 5. 同步页面
-    const result = syncPages(pluginsToGenerate, template, translations);
+      // 5. 增量更新模式：只同步新增/删除
+      result = syncPages(pluginsToGenerate, template, translations);
+    } else {
+      console.log(`\n将更新所有 ${plugins.length} 个插件页面\n`);
+
+      // 5. 强制更新模式：更新所有页面（包括现有页面）
+      result = generateAllPages(pluginsToGenerate, template, translations);
+    }
 
     // 6. 更新历史数据
     if (!forceUpdate && changes) {

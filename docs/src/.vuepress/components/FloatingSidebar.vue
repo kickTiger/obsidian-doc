@@ -112,9 +112,9 @@
 
         <!-- 插件大全 -->
         <a
-          href="/zh/community-plugins/"
+          href="/zh/plugins/"
           class="menu-item"
-          title="插件大全"
+          title="插件市场"
           :style="{ transitionDelay: '200ms' }"
           @click="handleLinkClick"
         >

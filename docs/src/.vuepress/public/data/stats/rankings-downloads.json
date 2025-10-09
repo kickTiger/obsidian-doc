@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": 1759658089905,
+  "lastUpdated": 1759990726896,
   "type": "downloads",
   "data": [
     {
@@ -10,14 +10,14 @@
       "author": "Zsolt Viczian",
       "description": "Edit and view Excalidraw drawings.",
       "repo": "zsviczian/obsidian-excalidraw-plugin",
-      "downloads": 4625330,
+      "downloads": 4652888,
       "updated": 1759610226000,
       "created": 1618684989000,
       "category": "drawing",
-      "weeklyDownloads": 206484,
-      "monthlyDownloads": 623282,
-      "weeklyGrowth": 4.46,
-      "monthlyGrowth": 13.48
+      "weeklyDownloads": 78615,
+      "monthlyDownloads": 687333,
+      "weeklyGrowth": 1.69,
+      "monthlyGrowth": 14.77
     },
     {
       "rank": 2,
@@ -26,14 +26,14 @@
       "author": "Michael Brenan",
       "description": "Advanced queries over your vault for the data-obsessed.",
       "repo": "blacksmithgu/obsidian-dataview",
-      "downloads": 3306708,
+      "downloads": 3318732,
       "updated": 1744053450000,
       "created": 0,
       "category": "data-processing",
-      "weeklyDownloads": 128072,
-      "monthlyDownloads": 340456,
-      "weeklyGrowth": 3.87,
-      "monthlyGrowth": 10.3
+      "weeklyDownloads": 134364,
+      "monthlyDownloads": 209252,
+      "weeklyGrowth": 4.05,
+      "monthlyGrowth": 6.31
     },
     {
       "rank": 3,
@@ -42,14 +42,14 @@
       "author": "SilentVoid",
       "description": "Create and use templates.",
       "repo": "SilentVoid13/Templater",
-      "downloads": 3110072,
+      "downloads": 3129612,
       "updated": 1759085696000,
-      "created": 1604505033000,
+      "created": 0,
       "category": "template",
-      "weeklyDownloads": 42989,
-      "monthlyDownloads": 431223,
-      "weeklyGrowth": 1.38,
-      "monthlyGrowth": 13.87
+      "weeklyDownloads": 139988,
+      "monthlyDownloads": 236000,
+      "weeklyGrowth": 4.47,
+      "monthlyGrowth": 7.54
     },
     {
       "rank": 4,
@@ -58,14 +58,14 @@
       "author": "Clare Macrae and Ilyas Landikov (created by Martin Schenck)",
       "description": "Track tasks across your vault. Supports due dates, recurring tasks, done dates, sub-set of checklist items, and filtering.",
       "repo": "obsidian-tasks-group/obsidian-tasks",
-      "downloads": 2785802,
+      "downloads": 2800231,
       "updated": 1759054105000,
-      "created": 1616182973000,
+      "created": 0,
       "category": "task-management",
-      "weeklyDownloads": 65966,
-      "monthlyDownloads": 196302,
-      "weeklyGrowth": 2.37,
-      "monthlyGrowth": 7.05
+      "weeklyDownloads": 90733,
+      "monthlyDownloads": 172919,
+      "weeklyGrowth": 3.24,
+      "monthlyGrowth": 6.18
     },
     {
       "rank": 5,
@@ -74,14 +74,14 @@
       "author": "Tony Grosinger",
       "description": "Improved table navigation, formatting, and manipulation.",
       "repo": "tgrosinger/advanced-tables-obsidian",
-      "downloads": 2431413,
+      "downloads": 2437354,
       "updated": 1729698278000,
       "created": 0,
       "category": "data-processing",
-      "weeklyDownloads": 114711,
-      "monthlyDownloads": 307668,
-      "weeklyGrowth": 4.72,
-      "monthlyGrowth": 12.65
+      "weeklyDownloads": 42859,
+      "monthlyDownloads": 206165,
+      "weeklyGrowth": 1.76,
+      "monthlyGrowth": 8.46
     },
     {
       "rank": 6,
@@ -90,14 +90,14 @@
       "author": "Liam Cain",
       "description": "Simple calendar widget.",
       "repo": "liamcain/obsidian-calendar-plugin",
-      "downloads": 2082875,
+      "downloads": 2091332,
       "updated": 1618944601000,
       "created": 0,
       "category": "calendar-time",
-      "weeklyDownloads": 48048,
-      "monthlyDownloads": 147831,
-      "weeklyGrowth": 2.31,
-      "monthlyGrowth": 7.1
+      "weeklyDownloads": 53198,
+      "monthlyDownloads": 149864,
+      "weeklyGrowth": 2.54,
+      "monthlyGrowth": 7.17
     },
     {
       "rank": 7,
@@ -106,14 +106,14 @@
       "author": "mgmeyers",
       "description": "Create Markdown-backed Kanban boards.",
       "repo": "mgmeyers/obsidian-kanban",
-      "downloads": 1912432,
+      "downloads": 1918479,
       "updated": 1717117708000,
       "created": 0,
       "category": "note-taking",
-      "weeklyDownloads": 25923,
-      "monthlyDownloads": 269781,
-      "weeklyGrowth": 1.36,
-      "monthlyGrowth": 14.11
+      "weeklyDownloads": 34977,
+      "monthlyDownloads": 132056,
+      "weeklyGrowth": 1.82,
+      "monthlyGrowth": 6.88
     },
     {
       "rank": 8,
@@ -122,14 +122,14 @@
       "author": "Vinzent, (Denis Olehov)",
       "description": "Integrate Git version control with automatic backup and other advanced features.",
       "repo": "Vinzent03/obsidian-git",
-      "downloads": 1842533,
+      "downloads": 1851545,
       "updated": 1758323107000,
       "created": 0,
       "category": "sync-backup",
-      "weeklyDownloads": 28961,
-      "monthlyDownloads": 103222,
-      "weeklyGrowth": 1.57,
-      "monthlyGrowth": 5.6
+      "weeklyDownloads": 48284,
+      "monthlyDownloads": 211246,
+      "weeklyGrowth": 2.61,
+      "monthlyGrowth": 11.41
     },
     {
       "rank": 9,
@@ -138,14 +138,14 @@
       "author": "mgmeyers",
       "description": "Adjust theme, plugin, and snippet CSS variables.",
       "repo": "mgmeyers/obsidian-style-settings",
-      "downloads": 1828550,
+      "downloads": 1836045,
       "updated": 1724521516000,
       "created": 0,
       "category": "appearance",
-      "weeklyDownloads": 62393,
-      "monthlyDownloads": 266235,
-      "weeklyGrowth": 3.41,
-      "monthlyGrowth": 14.56
+      "weeklyDownloads": 18512,
+      "monthlyDownloads": 203494,
+      "weeklyGrowth": 1.01,
+      "monthlyGrowth": 11.08
     },
     {
       "rank": 10,
@@ -154,14 +154,14 @@
       "author": "FlorianWoelki",
       "description": "Add icons to anything in Obsidian, including files, folders, and text.",
       "repo": "FlorianWoelki/obsidian-iconize",
-      "downloads": 1676317,
+      "downloads": 1682262,
       "updated": 1735894995000,
       "created": 0,
       "category": "appearance",
-      "weeklyDownloads": 68707,
-      "monthlyDownloads": 247898,
-      "weeklyGrowth": 4.1,
-      "monthlyGrowth": 14.79
+      "weeklyDownloads": 65846,
+      "monthlyDownloads": 131143,
+      "weeklyGrowth": 3.91,
+      "monthlyGrowth": 7.8
     }
   ]
 }

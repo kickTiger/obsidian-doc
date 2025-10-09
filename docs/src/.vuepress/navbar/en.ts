@@ -10,21 +10,19 @@ export const enNavbar = navbar([
     link: "/zh/markdown/",
   },
   {
-    text: "插件",
+    text: "插件市场",
     icon: "creative",
-    prefix: "/zh/",
+    link: "/zh/plugins/",
     children: [
       {
         text: "核心插件",
         icon: "creative",
-        prefix: "core-plugins/",
-        link: "core-plugins/",
+        link: "/zh/core-plugins/",
       },
       {
         text: "社区插件",
         icon: "config",
-        prefix: "community-plugins/",
-        link: "community-plugins/",
+        link: "/zh/plugins/",
       },
     ],
   },
